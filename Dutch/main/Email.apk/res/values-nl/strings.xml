@@ -337,13 +337,10 @@
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Postvak IN</string>
   <string name="info">Info</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
   <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_more">Meer laden</string>
   <string name="loading_conversation">Laden...</string>
   <string name="loading_conversations">Laden…</string>
@@ -499,8 +496,6 @@ Cc: %4$s
   <string name="quick_responses_empty_view">Geen snelle reacties.</string>
   <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
   <string name="quoted_text">Tekst uit oorspronkelijk bericht weergeven</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Geciteerde tekst</string>
   <string name="read_string">conversatie gelezen</string>
   <string name="recent_folders_heading">Recente mappen</string>
