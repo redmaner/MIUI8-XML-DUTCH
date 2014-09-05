@@ -24,12 +24,12 @@
   <string name="add_to_my_contacts">Toevoegen aan mijn contacten</string>
   <string name="add_wait">Wacht toevoegen</string>
   <string name="add_xiaomi_account_dialog_btn">Mi Account gebruiken</string>
-  <string name="add_xiaomi_account_dialog_msg">Back-up uw contacten met uw Mi Account om ze overal te raadplegen!</string>
+  <string name="add_xiaomi_account_dialog_msg">Back-up uw contactpersonen met uw Mi Account om ze overal te raadplegen!</string>
   <string name="add_xiaomi_account_dialog_title">Kies account</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Wilt u overschakelen naar het bewerken van het geselecteerde contact? Gegevens die u tot nu toe heeft ingevoerd, worden gekopieerd.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">Wilt u overschakelen naar het bewerken van het geselecteerde contactpersoon? Gegevens die u tot nu toe heeft ingevoerd, worden gekopiëerd.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Dezelfde naam</string>
-  <string name="aggregation_suggestion_join_dialog_message">Wilt u het huidige contact samenvoegen met het geselecteerde contact?</string>
-  <string name="all_list_empty">Geen contacten</string>
+  <string name="aggregation_suggestion_join_dialog_message">Wilt u het huidige contactpersoon samenvoegen met het geselecteerde contactpersoon?</string>
+  <string name="all_list_empty">Geen contactpersonen</string>
   <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
   <string name="anti_aggression_day">anti aggression day</string>
   <string name="antispam_mark_my_contribution">Andere gebruikers tonen dat ik dit nummer heb gerapporteerd.</string>
@@ -43,11 +43,11 @@
   <string name="autumn_begins">Begin van de herfst</string>
   <string name="autumn_equinox">Herfst equinox</string>
   <string name="batch_delete">Meerdere verwijderen</string>
-  <string name="batch_delete_msg">%d contacten verwijderen? De bijbehorende gegevens die zijn opgeslagen in Mi Cloud worden ook verwijderd.</string>
+  <string name="batch_delete_msg">%d contactpersonen verwijderen? De bijbehorende gegevens die zijn opgeslagen in Mi Cloud worden ook verwijderd.</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth verbinding onderbroken</string>
-  <string name="blurbJoinContactDataWith">Selecteer het contact dat u met %s wilt samenvoegen:</string>
-  <string name="btn_delete_multi_contacts">%d contacten verwijderen</string>
-  <string name="btn_delete_one_contact">Contact verwijderen</string>
+  <string name="blurbJoinContactDataWith">Selecteer het contactpersoon dat u met %s wilt samenvoegen:</string>
+  <string name="btn_delete_multi_contacts">%d contactpersonenen verwijderen</string>
+  <string name="btn_delete_one_contact">Contactpersoon verwijderen</string>
   <string name="btn_rotation">Draaien</string>
   <string name="btn_split_contact">Afsplitsen</string>
   <string name="button_cancel_scan">Stoppen</string>
@@ -90,7 +90,7 @@
   <string name="calllog_menu_blacklist">Blokkeren</string>
   <string name="calllog_menu_edit_before_call">Bewerken</string>
   <string name="calllog_menu_send_sms">Een bericht sturen</string>
-  <string name="callrecordview_item_newcontact">Nieuw contact</string>
+  <string name="callrecordview_item_newcontact">Nieuw contactpersoon</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
   <string name="callrecordview_item_op_time_missed">Niet verbonden</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -105,7 +105,7 @@
   <string name="callrecordview_menu_delete_called">Uitgaande gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Gemiste gesprekken verwijderen</string>
-  <string name="callrecordview_menu_delete_new">Gesprekslogs van nieuwe contacten verwijderen</string>
+  <string name="callrecordview_menu_delete_new">Gesprekslogs van nieuwe contactpersonen verwijderen</string>
   <string name="callrecordview_menu_delete_one">Verwijderen van gesprekslog</string>
   <string name="callrecordview_menu_delete_stranger">Onbekende nummers verwijderen</string>
   <string name="callrecordview_menu_edit_call_note">Gespreksnotitie bewerken</string>
@@ -122,7 +122,7 @@
   <string name="cancel_confirmation_dialog_message">Uw wijzigingen annuleren?</string>
   <string name="cancel_export_confirmation_message">Export van %s annuleren?</string>
   <string name="cancel_import_confirmation_message">Import van %s annuleren?</string>
-  <string name="cancel_import_dialog_message">Contacten importeren stoppen?</string>
+  <string name="cancel_import_dialog_message">Contactpersonen importeren stoppen?</string>
   <string name="cancel_import_dialog_title">Stoppen</string>
   <string name="cancel_vcard_import_or_export_failed">Kan vCard-import/export niet annuleren</string>
   <string name="chat">Chatten</string>
@@ -134,7 +134,7 @@
   <string name="chat_qq">Chatten via QQ</string>
   <string name="chat_skype">Chatten via Skype</string>
   <string name="chat_yahoo">Chatten via Yahoo</string>
-  <string name="check_unsynchronized_accounts">Herinner mijn om accounts te synchroniseren</string>
+  <string name="check_unsynchronized_accounts">Herinner mij om accounts te synchroniseren</string>
   <string name="checkhint">Controleer de doeltelefoon</string>
   <string name="childrens_day">Dag van het kind</string>
   <string name="chinese_youth_day">Dag van de Jeugd</string>
@@ -142,19 +142,19 @@
   <string name="clearCallLogConfirmation">Al uw gesprekslogs worden verwijderd.</string>
   <string name="clearCallLogConfirmation_title">Alle gesprekslogs verwijderen?</string>
   <string name="clearCallLogProgress_title">Gesprekslog verwijderen…</string>
-  <string name="clearFrequentsConfirmation">U wist de lijst met contacten waarmee u regelmatig contact opneemt in de apps Personen en Telefoon, en e-mailapps moeten uw voorkeursadressen weer opnieuw leren.</string>
-  <string name="clearFrequentsConfirmation_title">Lijst regelmatige contacten wissen?</string>
-  <string name="clearFrequentsProgress_title">Regelmatige contacten wissen...</string>
+  <string name="clearFrequentsConfirmation">U wist de lijst met contactpersonen waarmee u regelmatig contact opneemt in de apps Personen en Telefoon, en e-mailapps moeten uw voorkeursadressen weer opnieuw leren.</string>
+  <string name="clearFrequentsConfirmation_title">Lijst regelmatige contactpersonen wissen?</string>
+  <string name="clearFrequentsProgress_title">Regelmatige contactpersonen wissen...</string>
   <string name="clear_and_bright">清明</string>
   <string name="clear_default">Standaardwaarden wissen</string>
   <string name="clear_digits">Telefoonnummer wissen</string>
   <string name="click_close">Tik om te sluiten</string>
-  <string name="close_dial_pad">Dialpad sluiten</string>
+  <string name="close_dial_pad">Toetsenblok sluiten</string>
   <string name="cloud_antispam_mark">Markeren als spam</string>
   <string name="cloud_antispam_title">Onbekende nummers identificeren</string>
   <string name="cold_dews">dauw</string>
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
-  <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contacten. Als u wel contacten op uw telefoon heeft opgeslagen, staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
+  <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw telefoon heeft opgeslagen, staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard-editor is niet correct gestart.</string>
   <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
@@ -165,27 +165,27 @@
   <string name="confirm_delete_contact_all_call_logs">Gesprekslogs verwijderen?</string>
   <string name="confirm_delete_selected_all_call_logs">Gesprekslogs verwijderen?</string>
   <string name="confirm_delete_sim_entry_miui">%d contacten verwijderen van SIM kaart?</string>
-  <string name="confirm_export_message">Uw lijst met contacten wordt geëxporteerd naar het bestand: %s.</string>
-  <string name="confirm_export_title">Contacten exporteren?</string>
+  <string name="confirm_export_message">Uw lijst met contactpersonen wordt geëxporteerd naar het bestand: %s.</string>
+  <string name="confirm_export_title">Contactpersonen exporteren?</string>
   <string name="connections">Connecties</string>
   <string name="contactDetailAbout">Over</string>
   <string name="contactDetailCalllog">Gesprekslog</string>
   <string name="contactDetailUpdates">Updates</string>
-  <string name="contactMultiPickerActivityTitle">Selecteer contacten</string>
-  <string name="contactPickerActivityTitle">Een contact kiezen</string>
-  <string name="contactSavedErrorToast">Kan wijzigingen in contact niet opslaan.</string>
-  <string name="contactSavedToast">Contact opgeslagen.</string>
-  <string name="contact_delete_toast">Contact verwijderd</string>
+  <string name="contactMultiPickerActivityTitle">Selecteer contactpersonen</string>
+  <string name="contactPickerActivityTitle">Een contactpersoon kiezen</string>
+  <string name="contactSavedErrorToast">Kan wijzigingen in contactpersoon niet opslaan.</string>
+  <string name="contactSavedToast">Contactpersoon opgeslagen.</string>
+  <string name="contact_delete_toast">Contactpersoon verwijderd</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
   <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
   <string name="contact_detail_picture_description">Foto, selecteer om te veranderen</string>
   <string name="contact_directory_description">Map %1$s</string>
-  <string name="contact_edit_title_edit">Contact bewerken</string>
-  <string name="contact_edit_title_insert">%s contacten toevoegen</string>
+  <string name="contact_edit_title_edit">Contactpersoon bewerken</string>
+  <string name="contact_edit_title_insert">%s contactpersonen toevoegen</string>
   <string name="contact_edit_title_readonly">Alleen-lezen contact</string>
-  <string name="contact_editor_prompt_multiple_accounts">U kunt uw nieuwe contact synchroniseren met een van de volgende accounts. Welk account wilt u gebruiken?</string>
-  <string name="contact_editor_prompt_one_account">Uw nieuwe contact wordt gesynchroniseerd met %1$s.</string>
-  <string name="contact_editor_prompt_zero_accounts">Er wordt geen back-up van uw nieuwe contact gemaakt. Een account toevoegen waarmee online een back-up van contacten wordt gemaakt?</string>
+  <string name="contact_editor_prompt_multiple_accounts">U kunt uw nieuwe contactpersoon synchroniseren met een van de volgende accounts. Welk account wilt u gebruiken?</string>
+  <string name="contact_editor_prompt_one_account">Uw nieuwe contactpersoon wordt gesynchroniseerd met %1$s.</string>
+  <string name="contact_editor_prompt_zero_accounts">Er wordt geen back-up van uw nieuwe contactpersoon gemaakt. Een account toevoegen waarmee online een back-up van contacten wordt gemaakt?</string>
   <string name="contact_is_readOnly">Kan alleen-lezen contacten niet bewerken</string>
   <string name="contact_list_loading">Laden…</string>
   <string name="contact_pick_photo">Foto</string>
@@ -411,7 +411,7 @@ Reden: '%s'"</string>
   <string name="group_rename_dialog_title">Groepnaam veranderen</string>
   <string name="group_rename_fail_toast">"Kon de groepnaam niet veranderen"</string>
   <string name="group_rename_success_toast">Groepnaam veranderd</string>
-  <string name="group_sms_progress_msg">Grouping…</string>
+  <string name="group_sms_progress_msg">Groeperen…</string>
   <string name="groupsLabel">Groepen</string>
   <string name="groups_list_empty">Geen groepen</string>
   <string name="heavy_snow">Hevige sneeuw</string>
@@ -629,40 +629,40 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
   <string name="noContactsHelpTextForCreateShortcut">"Er zijn geen contacten om weer te geven."</string>
   <string name="noContactsHelpTextWithSync">"Er zijn geen contacten om weer te geven. (Indien u zojuist een account heeft toegevoegd, kan het even duren voordat de contacten zijn gesynchroniseerd.)
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Pas aan welke contactpersonen getoond worden
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SIM of SD kaart
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
-  <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Er zijn geen contacten om weer te geven. (Indien u zojuist een account heeft toegevoegd, kan het even duren voordat de contacten zijn gesynchroniseerd.)"</string>
+  <string name="noContactsNoSimHelpText">"YEr zijn geen contacten om weer te geven."
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SD kaart
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
+  <string name="noContactsNoSimHelpTextWithSync">"Er zijn geen contacten om weer te geven. (Indien u zojuist een account heeft toegevoegd, kan het even duren voordat de contacten zijn gesynchroniseerd.)
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Pas aan welke contactpersonen getoond worden
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SD kaart
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsWithPhoneNumbers">No contacts with phone numbers</string>
