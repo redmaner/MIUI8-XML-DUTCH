@@ -2,11 +2,11 @@
 <resources>
   <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
   <string name="add_alarm">Alarm toevoegen</string>
-  <string name="add_time_zone">Add timezone</string>
+  <string name="add_time_zone">Tijdzone toevoegen</string>
   <string name="alarm_alert_dismiss_now_text">Nu sluiten</string>
   <string name="alarm_alert_dismiss_text">Negeren</string>
   <string name="alarm_alert_predismiss_title">Aankomend alarm</string>
-  <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
+  <string name="alarm_alert_snooze_set">%d minuten snooezen.</string>
   <string name="alarm_alert_snooze_text">Snooze</string>
   <string name="alarm_alert_snooze_until">Snoozen tot %s</string>
   <string name="alarm_button_description">Wekkers</string>
@@ -51,7 +51,7 @@
   <string name="collapse_alarm">Alarm samenvouwen</string>
   <string name="control_set_alarm">Alarm instellen</string>
   <string name="control_set_alarm_with_existing">%s</string>
-  <string name="current_zone">Current time zone</string>
+  <string name="current_zone">huidige tijdzone</string>
   <string name="day">1 dag</string>
   <string name="day_concat">", "</string>
   <string name="day_of_week_label_typeface">sans-serif</string>
@@ -60,11 +60,11 @@
   <string name="default_clock_style">digital</string>
   <string name="default_label">Alarm</string>
   <string name="default_ringtone_setting_title">Standaardbeltoon instellen</string>
-  <string name="delelte_selected_timezone">Delete the selected timezone?</string>
+  <string name="delelte_selected_timezone">Verwijder de geselecteerde tijdzone?</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_alarm">Alarm verwijderen</string>
   <string name="delete_alarm_confirm">Dit alarm verwijderen?</string>
-  <string name="delete_timezone_title">Delete timezone</string>
+  <string name="delete_timezone_title">Verwijder timezone</string>
   <string name="deleted_key">%1$s verwijderd</string>
   <string name="deleted_message">Verwijderd</string>
   <string name="description_direction_down">Schuif omlaag om de snoozestand in te schakelen</string>
@@ -100,7 +100,7 @@
   <string name="loading_ringtone">Beltoon laden…</string>
   <string name="main_clock_12_hours_format">h:mm &lt;font size="16" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
   <string name="main_widget_12_hours_format">h:mm</string>
-  <string name="menu_add_worldclock">Add timezone</string>
+  <string name="menu_add_worldclock">Tijdzone toevoegen</string>
   <string name="menu_alarm">Alarm</string>
   <string name="menu_clock">Klok</string>
   <string name="menu_desk_clock">Bureauklok</string>
@@ -162,7 +162,7 @@
   <string name="sw_start_button">Starten</string>
   <string name="sw_stop_button">Stoppen</string>
   <string name="swn_stopped">Gestopt</string>
-  <string name="system_time_setting">Time setting</string>
+  <string name="system_time_setting">Tijdsinstellingen</string>
   <string name="text_size_multiplier_inner">0.14</string>
   <string name="text_size_multiplier_normal">0.17</string>
   <string name="text_size_multiplier_outer">0.11</string>
@@ -191,15 +191,15 @@
   <string name="timer_times_up">De tijd is om</string>
   <string name="timers_in_use">%d timers</string>
   <string name="timers_stopped">%d timers gestopt</string>
-  <string name="timezone_exist_error_message">This timezone already exists.</string>
+  <string name="timezone_exist_error_message">Deze tijdzone bestaat al.</string>
   <string name="volume_button_dialog_title">Knopeffect</string>
   <string name="volume_button_setting_title">Volumeknoppen</string>
   <string name="wc_widget_12_hours_format">h:mm &lt;font size="14" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
   <string name="weather_fetch_failure">Weersinformatie is momenteel niet beschikbaar.</string>
-  <string name="workday_alarm_clock">Workday alarm</string>
+  <string name="workday_alarm_clock">Alarm op werkdagen</string>
   <string name="world_clock_12_hours_format">h:mm &lt;font size="14" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
   <string name="world_day_of_week_label">/ %s</string>
-  <string name="worldclock_empty_text">No world clocks</string>
+  <string name="worldclock_empty_text">Geen wereldklok</string>
   <string name="year_picker_description">Jaarlijst</string>
   <string name="zero">0</string>
   <string name="zone_time_offset_ahead">%1$d hours, %2$d min ahead</string>
