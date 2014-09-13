@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het parseren van het pakket.</string>
-  <string name="all">All permissions</string>
+  <string name="all">Alle machtigingen</string>
   <string name="app_name">Installatieprogramma van pakket</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
-  <string name="button_cancel">取消</string>
-  <string name="button_continue">继续</string>
-  <string name="button_continue_install">继续安装</string>
-  <string name="button_install_lastest">下载安装新版本</string>
-  <string name="button_install_official">下载安装官方版</string>
-  <string name="button_next">下一步</string>
-  <string name="button_remove">删除</string>
+  <string name="button_cancel">Annuleren</string>
+  <string name="button_continue">Verder</string>
+  <string name="button_continue_install">Installatie voortzetten</string>
+  <string name="button_install_lastest">Download en installeer de nieuwe versie</string>
+  <string name="button_install_official">Download en installeer de officiële versie</string>
+  <string name="button_next">Volgende</string>
+  <string name="button_remove">Verwijderen</string>
   <string name="cancel">Annuleren</string>
   <string name="dlg_app_replacement_statement">"De app die u installeert, vervangt een andere app.
 
 Al uw eerdere gebruikersgegevens worden opgeslagen."</string>
-  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the currently installed version (%3$s). Your user data will be saved.
-Install new version?"</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) zal de huidige versie vervangen (%3$s). Gebruiksgegevens worden opgeslagen.
+Nieuwe versie installeren?"</string>
   <string name="dlg_sys_app_replacement_statement">"Dit is een systeemapp.
 
 Al uw eerdere gebruikersgegevens worden opgeslagen."</string>
@@ -30,44 +30,44 @@ Al uw eerdere gebruikersgegevens worden opgeslagen."</string>
   <string name="install_failed_invalid_apk">Het pakket lijkt beschadigd.</string>
   <string name="install_failed_msg">%1$s kan niet worden geïnstalleerd op uw tablet.</string>
   <string name="install_failed_older_sdk">Het pakket werkt alleen met nieuwe versies van Android.</string>
-  <string name="installer_name">来源：%1$s</string>
+  <string name="installer_name">Bron：%1$s</string>
   <string name="installing">Installeren...</string>
   <string name="launch">Openen</string>
-  <string name="main_title">安装应用</string>
+  <string name="main_title">Installeer de applicatie</string>
   <string name="manage_applications">Apps beheren</string>
   <string name="manage_device_administrators">Apparaatbeheerders beheren</string>
   <string name="ok">OK</string>
   <string name="other_relative">Other permissions</string>
   <string name="out_of_space_dlg_text">%1$s kan niet worden geïnstalleerd. Maak ruimte vrij en probeer het opnieuw.</string>
-  <string name="perm_action_accept">Allow</string>
-  <string name="perm_action_prompt">Ask</string>
-  <string name="perm_action_reject">Deny</string>
-  <string name="permission_warn_hint">该应用将获得如下权限：</string>
-  <string name="permission_warn_title">从非官方来源安装应用可能存在风险</string>
-  <string name="privacy_relative">Privacy permissions</string>
-  <string name="progress_verifying">正在进行安全检查…</string>
-  <string name="safe_relative">Safety permissions</string>
+  <string name="perm_action_accept">Toestaan</string>
+  <string name="perm_action_prompt">Vragen</string>
+  <string name="perm_action_reject">Weigeren</string>
+  <string name="permission_warn_hint">De applicatie zal de volgende machtigingen ontvangen：</string>
+  <string name="permission_warn_title">Er kunnen risico's voor de toepassingen van niet-officiële bronnen te installeren</string>
+  <string name="privacy_relative">Privacy machtigingen</string>
+  <string name="progress_verifying">Veiligheidscontroles uitvoeren…</string>
+  <string name="safe_relative">Veiligheidscontroles</string>
   <string name="settings">Instellingen</string>
   <string name="uninstall_activity_text">%1$s maakt deel uit van de volgende app:</string>
   <string name="uninstall_application_text">Wilt u deze app verwijderen?</string>
   <string name="uninstall_application_title">App verwijderen</string>
-  <string name="uninstall_confirm_question">Uninstall this app?</string>
+  <string name="uninstall_confirm_question">"Deze app deïnstalleren?"</string>
   <string name="uninstall_done">Verwijdering voltooid.</string>
   <string name="uninstall_failed">Verwijdering mislukt.</string>
   <string name="uninstall_failed_device_policy_manager">Kan niet verwijderen omdat dit pakket een actieve apparaatbeheerder is.</string>
-  <string name="uninstall_failed_retained_app_msg">User-customized App could not be uninstalled.</string>
+  <string name="uninstall_failed_retained_app_msg">Gebruiker-aangepaste applicatie kon niet worden verwijderd.</string>
   <string name="uninstall_update_text">Wilt u deze app vervangen door de fabrieksversie?</string>
   <string name="uninstall_update_title">Update verwijderen</string>
   <string name="uninstalling">Verwijderen...</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_apps_dlg_text">Voor de veiligheid blokkeert uw tablet de installatie van apps uit onbekende bronnen.</string>
-  <string name="update_log_default">无应用更新信息</string>
-  <string name="update_time">%1$s年%2$s月%3$s日发布%4$s版</string>
-  <string name="update_title">%1$s已经有新版本</string>
-  <string name="virus_scan_clear">Remove</string>
-  <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
-  <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>
-  <string name="virus_scan_is_virus">This app contains a virus.</string>
-  <string name="warn_message">山寨应用可能会有乱弹广告、耗电、盗窃稳私等恶意行为，损害您的利益</string>
-  <string name="warn_title">该安装包可能是山寨应用</string>
+  <string name="update_log_default">Geen applicatie-updates</string>
+  <string name="update_time">%1$sop%2$s%3$smaand uitgebrachte versie%4$s</string>
+  <string name="update_title">De nieuwe versie is %1$s</string>
+  <string name="virus_scan_clear">Verwijderen</string>
+  <string name="virus_scan_install">&lt;u&gt;Toch installeren&lt;/u&gt;</string>
+  <string name="virus_scan_is_risk">"Deze app is een risico voor de veiligheid van uw apparaat."</string>
+  <string name="virus_scan_is_virus">Deze app bevat een virus!</string>
+  <string name="warn_message">Aanvragen kunnen strum huisje reclame, consumptie, diefstal en andere kwaadwillige handelingen gestage particuliere schade uw belangen</string>
+  <string name="warn_title">Het aanvraagdossier kan worden nagemaakt</string>
 </resources>
