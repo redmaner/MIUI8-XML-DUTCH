@@ -94,7 +94,7 @@
   <string name="cloud_be_shared_guide_message">"U kunt de foto's van uw vrienden bekijken, en zelf foto's toevoegen aan het album."</string>
   <string name="cloud_be_shared_guide_title">Dit album komt van een vriend</string>
   <string name="cloud_camera_display_name">"Camera foto's"</string>
-  <string name="cloud_gallery_no_pictures">Geen afbeeldingen</string>
+  <string name="cloud_folder_chooser_move">Delete images from original album</string>
   <string name="cloud_gallery_recyclebin_full">Uw prullenbak is vol. leeg de prullenbak op i.xiaomi.com.</string>
   <string name="cloud_gallery_space_full">Onvoldoende ruimte in uw cloud</string>
   <string name="cloud_media_set_set">Cloud albums</string>
@@ -108,6 +108,8 @@
   <string name="cloudfolder_already_exists">Er bestaat reeds een map met deze naam.</string>
   <string name="cloudfolder_cannot_start_with">"De naam van een map kan niet beginnen met'%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"De naam van een map kan geen '%s' bevatten"</string>
+  <string name="cloudfolder_fail_to_load_data">"Couldn't load data. Wait a minute or two and try again."</string>
+  <string name="cloudfolder_loading_data">(Loading…)</string>
   <string name="cloudfolder_name_cannot_empty">Geef de map een naam</string>
   <string name="cloudfolder_name_reserved">Deze map naam is voorbehouden</string>
   <string name="comfirm_delete_current_album">Verwijder dit album?</string>
@@ -115,19 +117,17 @@
   <string name="confirm">Bevestigen</string>
   <string name="confirm_delete">"Verwijder %s foto's?"</string>
   <string name="confirm_delete_album" formatted="false">Verwijder %s albums (%s items totaal)?</string>
-  <string name="confirm_delete_has_cloud_image">Verwijder %s foto(s) in &lt;b&gt;cloud&lt;/b&gt;?</string>
   <string name="confirm_delete_has_cloud_image_video">Verwijder %s item(s) in &lt;b&gt;cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_cloud_local_image">Verwijder %s foto(s) in &lt;b&gt;local and cloud&lt;/b&gt;?</string>
   <string name="confirm_delete_has_cloud_local_image_video">Verwijder %s item(s) in &lt;b&gt;local and cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_cloud_local_video">Verwijder %s video(s) in &lt;b&gt;local and cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_cloud_video">Verwijder %s video(s) in &lt;b&gt;cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_local_image">Verwijder %s foto(s)?</string>
   <string name="confirm_delete_has_local_image_video">Verwijder %s item(s)?</string>
-  <string name="confirm_delete_has_local_video">Verwijder %s video(s)?</string>
   <string name="confirm_delete_home_merge_item">Verwijder %s foto(s) lokaal en in de cloud?</string>
   <string name="confirm_delete_init_message">~De foto wordt verwijderd van dit apparaat en van uw Mi Cloud. Als u haar alleen lokaal wilt verwijderen, werkt u dan lokaal.</string>
   <string name="confirm_delete_init_title">Hint</string>
+  <string name="confirm_delete_pictures">Delete %s pictures?</string>
   <string name="confirm_delete_system_album">%s is een systeem album.</string>
+  <string name="confirm_delete_this_picture">Delete this picture?</string>
+  <string name="confirm_delete_this_video">Delete this video?</string>
+  <string name="confirm_delete_videos">Delete %s videos?</string>
   <string name="confirm_download">"U moet %s downloaden. Deze tip wordt niet opnieuw weergegeven."</string>
   <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten wanneer er Wifi verbinding is.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -142,7 +142,9 @@
   <string name="crop_fail_to_load_image">foto inladen gefaald</string>
   <string name="crop_label">Foto bijsnijden</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
+  <string name="crop_recognize_text">Recognize</string>
   <string name="crop_save_text">OK</string>
+  <string name="crop_save_text_setas">Apply</string>
   <string name="crop_tooltip">Versleep markers om de foto bij te snijden</string>
   <string name="crossprocess">Cross-process</string>
   <string name="cut">Bijsnijden</string>
@@ -176,8 +178,7 @@
   <string name="download">Download</string>
   <string name="download_fail">Download gefaald</string>
   <string name="download_fail_confirm_continue">Download van %s gedaald. Verder gaan?</string>
-  <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; uniform bool mg_Transparent_Title_Enabled; uniform vec2 mg_Transparent_Title; uniform sampler2D mg_Transparent_Title_Mask; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0.0); float totalWeight = 0.0; if(mg_Texture0_Weight &gt; 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; totalWeight += mg_Texture0_Weight; } if(mg_Texture1_Weight &gt; 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; totalWeight += mg_Texture1_Weight; } if(mg_Color_Weight &gt; 0.05) { col += mg_Color * mg_Color_Weight; totalWeight += mg_Color_Weight; } if (totalWeight &lt; 0.05) { discard; } col /= totalWeight; if(mg_Transparent_Title_Enabled) { float y = gl_FragCoord.y; if (y &gt;= mg_Transparent_Title[1]) { discard; } else if (y &gt;= mg_Transparent_Title[0]) { float total = mg_Transparent_Title[1] - mg_Transparent_Title[0]; float toTop = mg_Transparent_Title[1] - y; float scale = toTop / total; float alpha = 1.0 - length(texture2D(mg_Transparent_Title_Mask, vec2(0.0, scale))); col.a *= alpha; } } if(col.a &lt; 0.05) { discard; } gl_FragColor = col; }</string>
-  <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
+  <string name="download_refocus_data">Download refocusing data</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Duur</string>
   <string name="edit">Bewerken</string>
@@ -278,7 +279,9 @@
   <string name="invalid_invition_url">Foutieve uitnodiging URL</string>
   <string name="invalid_recipient_message">De nâmen van de ontvangers zijn ongeldig</string>
   <string name="iso">ISO</string>
-  <string name="item_not_sync">Dit item is niet gesynchroniseerd en kan niet gedownload worden.</string>
+  <string name="item_not_sync_for_origin_image">"Can't download this picture because it hasn't been synced with your cloud."</string>
+  <string name="item_not_sync_for_origin_video">"Can't download this video because it hasn't been synced with your cloud."</string>
+  <string name="item_not_sync_for_refocus_data">"Can't download refocus data for this picture because it hasn't been synced with your cloud."</string>
   <string name="kick_owner_user_positive_button_text">Verwijderen</string>
   <string name="kick_owner_user_title">Verwijder dit lid?</string>
   <string name="kick_sharer">Verwijder gedeelde gebruiker</string>
@@ -302,10 +305,13 @@
   <string name="manual">Handmatig</string>
   <string name="me">ik</string>
   <string name="menu_item_sort">Sorteren</string>
+  <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_date_asc">Datum (Oplopend)</string>
   <string name="menu_item_sort_date_desc">Datum (Aflopend)</string>
+  <string name="menu_item_sort_name">Name</string>
   <string name="menu_item_sort_name_asc">Naam (Oplopend)</string>
   <string name="menu_item_sort_name_desc">Naam (Aflopend)</string>
+  <string name="menu_item_sort_size">Size</string>
   <string name="menu_item_sort_size_asc">Grootte (Oplopend)</string>
   <string name="menu_item_sort_size_desc">Grootte (Aflopend)</string>
   <string name="menu_view_contact">Bekijk contact</string>
@@ -343,16 +349,20 @@
   <string name="none_picture">Geen afbeeldingen</string>
   <string name="not_auto_create_recent_album">aanmaken favorieten ongedaan maken</string>
   <string name="not_show_hidden_albums">Verborgen albums niet tonen</string>
+  <string name="only_show_camera_in_first_page">Only show camera roll</string>
+  <string name="only_show_camera_in_first_page_summary">"Only show photos from your Mi Cloud's camera roll"</string>
   <string name="open">Inschakelen</string>
   <string name="open_public_message">Genereer een url en stuur deze door</string>
   <string name="open_public_title">Publiekelijk delen</string>
   <string name="open_single_image_failure">"Kan afbeelding niet laden"</string>
   <string name="open_sync_title">Sync inschakelen</string>
   <string name="operation_add_picture">Afbeeldingen toevoegen</string>
+  <string name="operation_add_secret">Add secret</string>
   <string name="operation_delete_confirm_message_folder">"Volledige mapinhoud wordt verwijderd. "</string>
   <string name="operation_failed">Operatie gefaald</string>
   <string name="operation_in_process">Bezig…</string>
   <string name="operation_refresh">Ververs</string>
+  <string name="operation_remove_secret">Remove secret</string>
   <string name="operation_rename">Hernoem</string>
   <string name="operation_set_as_screensaver">Stel in als screensaver</string>
   <string name="operation_share">Deel</string>
@@ -369,6 +379,8 @@
   <string name="photo_page_save_image">Opslaan</string>
   <string name="photo_page_save_uri_image_fail">Opslaan foto gefaald.</string>
   <string name="photo_page_save_uri_image_ok">"Foto opgeslagen in camera foto's."</string>
+  <string name="photo_paint_adjust">adjust</string>
+  <string name="photo_paint_effect">effect</string>
   <string name="photo_saved">Foto opgeslagen in %s</string>
   <string name="photo_size">Grootte</string>
   <string name="photoeditor_name">Mi Photo Studio</string>
@@ -382,6 +394,8 @@
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Verwijderen wordt voorbereid</string>
+  <string name="priority_storage">Save to SD card</string>
+  <string name="priority_storage_summary">When SD card is inserted, download files to SD card automatically</string>
   <string name="projection">Projectie</string>
   <string name="public_url_descript">Iedereen kan uw album bezoeken met deze url</string>
   <string name="publish_failed">publiceren gefaald</string>
@@ -391,9 +405,11 @@
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
   <string name="recipient_editor_count_format">%d</string>
+  <string name="recognizing_image">Recognizing picture…</string>
   <string name="redeye">Rode ogen</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tik om rode ogen te verwijderen</string>
+  <string name="refocus_data_downloading">Downloading refocusing data…</string>
   <string name="remove_hidden_album">Toon album</string>
   <string name="remove_recent_album">verwijdere uit favorieten</string>
   <string name="rename_failed">Hernoemen gefaald</string>
@@ -426,6 +442,7 @@
   <string name="screensaver_path_not_set">niets geselecteerd</string>
   <string name="sd_not_available">Geen toegang tot SD kaart</string>
   <string name="seconds">seconden</string>
+  <string name="secret_album_display_name">Secret album</string>
   <string name="select_album">Album selecteren</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_image">Foto selecteren</string>
@@ -520,8 +537,11 @@
   <string name="too_many_recipients">Te veel ontvangers (%1$s). (Max: %2$s ontvangers)</string>
   <string name="try_to_send">Verstuur</string>
   <string name="ubifocus_data_missing">Bepaalde data is verloren</string>
+  <string name="ubifocus_guide_text">Touch &amp; hold to refocus</string>
   <string name="ubifocus_map_error">Bepaalde data is verkeerd</string>
-  <string name="ubifocus_refocus_fail_tip">Scherstellen gefaald door missende of verkeerde data.</string>
+  <string name="ubifocus_refocus_data_missing">"Can't refocus because some of this image's data is missing"</string>
+  <string name="ubifocus_refocus_download_tip">"You need to download this image's data before refocusing."</string>
+  <string name="ubifocus_refocus_map_error">"Can't refocus because some of this image's data contains errors"</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Publiceren ongedaan maken gefaald</string>

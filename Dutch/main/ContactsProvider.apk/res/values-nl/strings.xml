@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Opslag contacten</string>
+  <string name="call_log_provider_label">Call log</string>
+  <string name="create_contact">New contact</string>
   <string name="debug_dump_database_message">U staat op het punt 1) een kopie van uw database met alle contactgegevens en oproeplogboeken te maken in de interne opslag, en 2) deze te e-mailen. Verwijder de kopie zodra u deze van het apparaat heeft gekopieerd of de e-mail is ontvangen.</string>
   <string name="debug_dump_delete_button">Nu verwijderen</string>
   <string name="debug_dump_email_body">Bijgevoegd is mijn contactendatabase met al mijn contactgegevens. Ga hier zorgvuldig mee om.</string>
@@ -9,16 +11,15 @@
   <string name="debug_dump_start_button">Starten</string>
   <string name="debug_dump_title">Contactendatabase kopiëren</string>
   <string name="default_directory">Contacten</string>
-  <string name="group_name_contacts">Contacts</string>
-  <string name="group_name_coworkers">"Collega's"</string>
-  <string name="group_name_family">Familie</string>
-  <string name="group_name_friends">Vrienden</string>
+  <string name="edit_contact">Add to contact</string>
   <string name="local_invisible_directory">Overig</string>
+  <string name="pound_search_tip">Input number after # to search contacts</string>
   <string name="provider_label">Contacten</string>
   <string name="read_write_all_voicemail_description">Toestaan dat de app alle voicemails opslaat en ophaalt waartoe dit apparaat toegang heeft.</string>
   <string name="read_write_all_voicemail_label">Toegang tot alle voicemails</string>
+  <string name="send_sms">Send message</string>
   <string name="sharedUserLabel">Kernapps van Android</string>
-  <string name="unknown">Onbekend nummer</string>
+  <string name="third_party_delete_contact_info">"\"%s\" is trying to delete your contacts. This action can't be carried out by third-party apps. To delete contacts, use MIUI's built-in Contacts app instead."</string>
   <string name="upgrade_msg">Contactendatabase bijwerken.</string>
   <string name="upgrade_out_of_memory_notification_text">Raak aan om de upgrade te voltooien.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Voor het bijwerken van contacten is meer geheugen nodig.</string>
