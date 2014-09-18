@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_settings">Over tablet</string>
+  <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_title">Machtigingen</string>
   <string name="ac_privacy_mode_sum">Vereis een wachtwoord om Gast modus te verlaten</string>
   <string name="ac_privacy_mode_title">Wachtwoord</string>
   <string name="ac_set_apps_title">Vergrendel apps</string>
-  <string name="accelerometer_summary_off">Stand automatisch wijzigen als tablet wordt gedraaid</string>
-  <string name="accelerometer_summary_on">Stand automatisch wijzigen als tablet wordt gedraaid</string>
+  <string name="accelerometer_summary_off">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
+  <string name="accelerometer_summary_on">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
   <string name="accelerometer_title">Scherm autom. draaien</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open app</string>
@@ -71,12 +71,13 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="activating">Activeren…</string>
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
-  <string name="activity_not_found">Deze app is niet geïnstalleerd op uw telefoon.</string>
+  <string name="activity_not_found">Deze app is niet geïnstalleerd op uw apparaat.</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
   <string name="adb_keys_warning_message">Toegang tot USB-foutopsporing intrekken voor alle computers waarvoor u dit eerder heeft toegestaan?</string>
   <string name="adb_warning_message">USB-foutopsporing is alleen bedoeld voor ontwikkeldoeleinden. Het kan worden gebruikt om gegevens te kopiëren tussen uw computer en uw apparaat, apps zonder melding op uw apparaat te installeren en loggegevens te lezen.</string>
   <string name="adb_warning_title">USB-foutopsporing toestaan?</string>
   <string name="add_account_label">Account toevoegen</string>
+  <string name="add_auto_startup_application">Add autostart apps</string>
   <string name="add_device_admin">Activeren</string>
   <string name="add_device_admin_msg">Apparaatbeheerder activeren?</string>
   <string name="additional_system_update"/>
@@ -108,6 +109,7 @@ Houd de apparaten bij elkaar (meestal met de achterkanten tegen elkaar aan) en r
   <string name="android_beam_tips">Verzeker u er van dat de apparaten contact maken, klik vervolgens op de content die u wilt beamen.</string>
   <string name="android_beam_witch_label">Schakel Android Beam in</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
+  <string name="anti_spam">Blocklist</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Verificatietype</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -136,6 +138,7 @@ Houd de apparaten bij elkaar (meestal met de achterkanten tegen elkaar aan) en r
   <string name="apn_settings">"APN's"</string>
   <string name="apn_type">APN-type</string>
   <string name="apn_user">Gebruikersnaam</string>
+  <string name="app_backup">Backup</string>
   <string name="app_disable_dlg_text">Als u een ingebouwde app uitschakelt, kunnen andere apps onverwacht gedrag vertonen.</string>
   <string name="app_disable_dlg_title">Ingebouwde app uitschakelen?</string>
   <string name="app_disable_notifications_dlg_text">Als u meldingen voor deze app uitschakelt, mist u misschien belangrijke waarschuwingen en updates.</string>
@@ -143,6 +146,7 @@ Houd de apparaten bij elkaar (meestal met de achterkanten tegen elkaar aan) en r
   <string name="app_factory_reset">Updates verwijderen</string>
   <string name="app_factory_reset_dlg_text">Alle updates van deze app van het Android-systeem worden verwijderd.</string>
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
+  <string name="app_feedback">Report bug</string>
   <string name="app_floating_window_dlg_disable">"Het uitschakelen van %1$s's floating scherm zal de app doen stoppen. 
 floating schermen uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Het inschakelen van %1$s's floating scherm instellingen benodigd een herstart van de app. U kunt de app ook handmatig stoppen. 
@@ -176,6 +180,7 @@ floating schermen inschakelen?"</string>
   <string name="applications_settings_header">App-instellingen</string>
   <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
   <string name="apply_now_button_text">Update</string>
+  <string name="apply_update_fail">Update failed</string>
   <string name="apps_with_restrictions_header">Apps met beperkingen</string>
   <string name="apps_with_restrictions_settings_button">Inst. uitbreiden voor app</string>
   <string name="ask_compatibility">Vragen bij starten</string>
@@ -234,7 +239,7 @@ floating schermen inschakelen?"</string>
   <string name="battery_desc_bluetooth">Accu gebruikt door Bluetooth</string>
   <string name="battery_desc_display">Accu gebruikt door scherm en achtergrondverlichting</string>
   <string name="battery_desc_radio">Accu gebruikt door radio</string>
-  <string name="battery_desc_standby">Accu gebruikt wanneer tablet inactief is</string>
+  <string name="battery_desc_standby">Accu gebruikt wanneer apparaat inactief is</string>
   <string name="battery_desc_users">Accu gebruikt door gebruiker</string>
   <string name="battery_desc_voice">Accu gebruikt door spraakoproepen</string>
   <string name="battery_desc_wifi">Accu gebruikt door wifi</string>
@@ -312,11 +317,11 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Verbonden met audio van medium</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Gebruiken voor audio van medium</string>
   <string name="bluetooth_advanced_titlebar">Geavanceerde Bluetooth</string>
-  <string name="bluetooth_ask_discovery">Een app wil uw tablet %1$d seconden zichtbaar maken voor andere Bluetooth-apparaten.</string>
+  <string name="bluetooth_ask_discovery">Een app wil uw apparaat %1$d seconden zichtbaar maken voor andere Bluetooth-apparaten.</string>
   <string name="bluetooth_ask_enablement">Een app wil Bluetooth inschakelen.</string>
-  <string name="bluetooth_ask_enablement_and_discovery">Een app wil Bluetooth inschakelen en uw tablet %1$d seconden zichtbaar maken voor andere apparaten.</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">Een app wil Bluetooth inschakelen en uw tablet zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth-instellingen.</string>
-  <string name="bluetooth_ask_lasting_discovery">Een app wil uw tablet zichtbaar maken voor andere Bluetooth-apparaten. U kunt dit later wijzigen in de Bluetooth-instellingen.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Een app wil Bluetooth inschakelen en uw apparaat %1$d seconden zichtbaar maken voor andere apparaten.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Een app wil Bluetooth inschakelen en uw apparaat zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth-instellingen.</string>
+  <string name="bluetooth_ask_lasting_discovery">Een app wil uw apparaat zichtbaar maken voor andere Bluetooth-apparaten. U kunt dit later wijzigen in de Bluetooth-instellingen.</string>
   <string name="bluetooth_auto_connect">Automatisch verbinding maken</string>
   <string name="bluetooth_confirm_passkey_msg">Koppelen met:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zorg ervoor dat de volgende toegangscode wordt vermeld:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinding maken met…</string>
@@ -331,6 +336,7 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_connection_notif_message">"Raak aan om verbinding te maken met '%1$s'."</string>
   <string name="bluetooth_connection_permission_request">Bluetooth-verbindingsverzoek</string>
   <string name="bluetooth_device">Naamloos Bluetooth-apparaat</string>
+  <string name="bluetooth_device_address">Address:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Ink. bestandsoverdr. toestaan</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Verbinden met Bluetooth-apparaat</string>
   <string name="bluetooth_device_advanced_online_mode_title">Verbinden</string>
@@ -353,7 +359,7 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_disconnect_all_profiles">Hierdoor wordt uw verbinding met:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt; verbroken</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s wordt ontkoppeld van handsfree audio.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s wordt ontkoppeld van het invoerapparaat.</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">%1$s deelt de internetverbinding van deze tablet niet meer.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s deelt de internetverbinding van dit apparaat niet meer.</string>
   <string name="bluetooth_disconnect_pan_user_profile">Internettoegang via %1$s wordt uitgeschakeld.</string>
   <string name="bluetooth_disconnect_title">Ontkoppelen?</string>
   <string name="bluetooth_disconnected">Verbinding verbroken</string>
@@ -372,8 +378,8 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_enter_pin_msg">Typ om te koppelen met &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; de vereiste pincode van het apparaat:</string>
   <string name="bluetooth_enter_pin_other_device">U moet deze pincode wellicht ook opgeven op het andere apparaat.</string>
   <string name="bluetooth_error_title"/>
-  <string name="bluetooth_headset_profile_summary_connected">Verbonden met audio van telefoon</string>
-  <string name="bluetooth_headset_profile_summary_use_for">Gebruiken voor audio van telefoon</string>
+  <string name="bluetooth_headset_profile_summary_connected">Verbonden met audio van apparaat</string>
+  <string name="bluetooth_headset_profile_summary_use_for">Gebruiken voor audio van apparaat</string>
   <string name="bluetooth_hid_profile_summary_connected">Verbonden met invoerapparaat</string>
   <string name="bluetooth_hid_profile_summary_use_for">Gebruiken voor invoer</string>
   <string name="bluetooth_incoming_pairing_msg">Van:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Koppelen met dit apparaat?</string>
@@ -413,13 +419,14 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_permission_request">Machtigingsverzoek voor Bluetooth</string>
   <string name="bluetooth_phonebook_request">Toegangsverzoek voor telefoonboek</string>
   <string name="bluetooth_pin_values_hint">Meestal 0000 of 1234</string>
+  <string name="bluetooth_preference_connected_devices">Connected devices</string>
   <string name="bluetooth_preference_device_settings">Apparaatinstellingen</string>
   <string name="bluetooth_preference_found_devices">Beschikbare apparaten</string>
   <string name="bluetooth_preference_paired_devices">Gekoppelde apparaten</string>
   <string name="bluetooth_preference_scan_title">Scannen naar apparaten</string>
   <string name="bluetooth_profile_a2dp">Media-audio</string>
   <string name="bluetooth_profile_details">Profielinstellingen</string>
-  <string name="bluetooth_profile_headset">Telefoonaudio</string>
+  <string name="bluetooth_profile_headset">Apparaataudio</string>
   <string name="bluetooth_profile_hid">Invoerapparaat</string>
   <string name="bluetooth_profile_map">Toegang tot berichten</string>
   <string name="bluetooth_profile_opp">Bestandsoverdracht</string>
@@ -429,7 +436,7 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Niet meer vragen</string>
   <string name="bluetooth_rename_button">Naam wijzigen</string>
-  <string name="bluetooth_rename_device">Naam van tablet wijzigen</string>
+  <string name="bluetooth_rename_device">Naam van apparaat wijzigen</string>
   <string name="bluetooth_scan_for_devices">Scannen naar apparaten</string>
   <string name="bluetooth_search_for_devices">Apparaten zoeken</string>
   <string name="bluetooth_searching_for_devices">Zoeken...</string>
@@ -438,15 +445,29 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Ontvangen bestanden weergeven</string>
   <string name="bluetooth_tether_checkbox_text">Bluetooth-tethering</string>
-  <string name="bluetooth_tethering_available_subtext">Internetverbinding van deze tablet delen</string>
-  <string name="bluetooth_tethering_device_connected_subtext">Internetverbinding van deze tablet delen met 1 apparaat</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">Internetverbinding van deze tablet delen met %1$d apparaten</string>
+  <string name="bluetooth_tethering_available_subtext">Internetverbinding van dit apparaat delen</string>
+  <string name="bluetooth_tethering_device_connected_subtext">Internetverbinding van dit apparaat delen met 1 apparaat</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">Internetverbinding van dit apparaat delen met %1$d apparaten</string>
   <string name="bluetooth_tethering_errored_subtext">Niet getetherd</string>
-  <string name="bluetooth_tethering_off_subtext">Internetverbinding van tablet wordt niet gedeeld</string>
+  <string name="bluetooth_tethering_off_subtext">Internetverbinding van apparaat wordt niet gedeeld</string>
   <string name="bluetooth_tethering_overflow_error">Kan niet meer dan %1$d apparaten tetheren.</string>
   <string name="bluetooth_turning_off">Bluetooth uitschakelen…</string>
   <string name="bluetooth_turning_on">Bluetooth inschakelen..</string>
   <string name="bluetooth_unknown"/>
+  <string name="bluetooth_unlock_add_device">Add device</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Old device will be replaced with current device.</string>
+  <string name="bluetooth_unlock_change_matched_device">Choose other device</string>
+  <string name="bluetooth_unlock_confirm_device_text">Touch devices together to unlock.</string>
+  <string name="bluetooth_unlock_delete_device">Delete this device</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Delete this device?</string>
+  <string name="bluetooth_unlock_device_matched_text">Use this device to unlock.</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">No devices detected</string>
+  <string name="bluetooth_unlock_settings_devices_title">Device</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Unlock device</string>
+  <string name="bluetooth_unlock_title">Unlock with Bluetooth device</string>
+  <string name="bluetooth_unlock_turned_off">Turned off</string>
+  <string name="bluetooth_unlock_turned_on">Turned on</string>
   <string name="bluetooth_untether_blank">Tethering van %1$s wordt opgeheven.</string>
   <string name="bluetooth_visibility_timeout">Zichtbaarheid uitstellen</string>
   <string name="breathing_light_color_menu_title">Licht kleur</string>
@@ -464,6 +485,7 @@ floating schermen inschakelen?"</string>
   <string name="bt_trace_log_summary">Bluetooth trace log inschakelen</string>
   <string name="bugreport_in_power">Foutenrapporten in afsluitmenu</string>
   <string name="bugreport_in_power_summary">Optie opnemen in afsluitmenu voor het genereren van een foutenrapport</string>
+  <string name="bugreport_tool_log">Capture Bugreport</string>
   <string name="bugreport_tool_log_toast">Log opgeslagen in %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Genereer bug raport (duurt ongeveer 1 minuut)</string>
   <string name="build_number">Build-nummer</string>
@@ -523,6 +545,7 @@ floating schermen inschakelen?"</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
   <string name="checking_for_updates">Controleren op updates…</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
+  <string name="cleaner">Cleaner</string>
   <string name="clear_activities">Standaardwaarden wissen</string>
   <string name="clear_activities_summary">Gebruik deze app als default voor bepaalde acties</string>
   <string name="clear_adb_keys">Autorisatie voor USB-foutopsporing intrekken</string>
@@ -586,26 +609,26 @@ floating schermen inschakelen?"</string>
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Typ het wachtwoord voor referentieopslag.</string>
   <string name="credentials_wrong_password">Onjuist wachtwoord.</string>
-  <string name="crypt_keeper_button_text">Tablet versleutelen</string>
+  <string name="crypt_keeper_button_text">Apparaat versleutelen</string>
   <string name="crypt_keeper_confirm_title">Versleutelen?</string>
   <string name="crypt_keeper_cooldown">Probeer het over ^1 seconden opnieuw.</string>
-  <string name="crypt_keeper_desc">"U kunt uw account, instellingen, gedownloade apps en de bijbehorende gegevens, media en andere bestanden versleutelen. Zodra u uw tablet heeft versleuteld, moet u telkens een pincode of wachtwoord opgeven om de tablet te coderen wanneer u deze opstart. U kunt het versleutelen van uw tablet uitsluitend ongedaan maken door de fabrieksinstellingen te herstellen. Daarbij worden al uw gegevens gewist.
+  <string name="crypt_keeper_desc">"U kunt uw account, instellingen, gedownloade apps en de bijbehorende gegevens, media en andere bestanden versleutelen. Zodra u uw apparaat heeft versleuteld, moet u telkens een pincode of wachtwoord opgeven om het apparaat te coderen wanneer u deze opstart. U kunt het versleutelen van uw apparaat uitsluitend ongedaan maken door de fabrieksinstellingen te herstellen. Daarbij worden al uw gegevens gewist.
 
-Het versleutelen kan een uur of langer duren. U moet beginnen met een volledig opgeladen accu en de tablet moet gedurende het versleutelen op de oplader zijn aangesloten. Als u het versleutelen onderbreekt, kunt u sommige of al uw gegevens kwijtraken."</string>
+Het versleutelen kan een uur of langer duren. U moet beginnen met een volledig opgeladen accu en het apparaat moet gedurende het versleutelen op de oplader zijn aangesloten. Als u het versleutelen onderbreekt, kunt u sommige of al uw gegevens kwijtraken."</string>
   <string name="crypt_keeper_dialog_need_password_message">U moet een pincode of wachtwoord voor schermvergrendeling instellen voordat u de encryptie kunt starten.</string>
   <string name="crypt_keeper_dialog_need_password_title">Geen PIN-code of wachtwoord voor schermvergrendeling</string>
-  <string name="crypt_keeper_encrypt_summary">Een numerieke PIN-code of wachtwoord vereisen om uw tablet te decoderen wanneer u deze inschakelt</string>
-  <string name="crypt_keeper_encrypt_title">Tablet versleutelen</string>
+  <string name="crypt_keeper_encrypt_summary">Een numerieke PIN-code of wachtwoord vereisen om uw apparaat te decoderen wanneer u deze inschakelt</string>
+  <string name="crypt_keeper_encrypt_title">Apparaat versleutelen</string>
   <string name="crypt_keeper_encrypted_summary">Gecodeerd</string>
   <string name="crypt_keeper_enter_password">Typ uw wachtwoord</string>
-  <string name="crypt_keeper_failed_summary">"Het coderen is onderbroken en kan niet worden voltooid. Als gevolg hiervan zijn de gegevens op uw tablet niet meer toegankelijk. 
+  <string name="crypt_keeper_failed_summary">"Het coderen is onderbroken en kan niet worden voltooid. Als gevolg hiervan zijn de gegevens op uw apparaat niet meer toegankelijk. 
 
-Als u uw tablet weer wilt gebruiken, moet u de fabrieksinstellingen herstellen. Wanneer u de tablet instelt na het herstel, krijgt u de mogelijkheid gegevens waarvan u een back-up heeft gemaakt in uw Google-account, terug te zetten."</string>
+Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen. Wanneer u het apparaat instelt na het herstel, krijgt u de mogelijkheid gegevens waarvan u een back-up heeft gemaakt in uw Google-account, terug te zetten."</string>
   <string name="crypt_keeper_failed_title">Encryptie mislukt</string>
-  <string name="crypt_keeper_final_desc">De coderingsbewerking kan niet ongedaan worden gemaakt en als u de bewerking onderbreekt, gaan er gegevens verloren. Het coderen duurt een uur of langer en de tablet wordt meerdere keren opnieuw opgestart.</string>
+  <string name="crypt_keeper_final_desc">De coderingsbewerking kan niet ongedaan worden gemaakt en als u de bewerking onderbreekt, gaan er gegevens verloren. Het coderen duurt een uur of langer en het apparaat wordt meerdere keren opnieuw opgestart.</string>
   <string name="crypt_keeper_low_charge_text">Laad de accu op en probeer het opnieuw.</string>
   <string name="crypt_keeper_settings_title">Encryptie</string>
-  <string name="crypt_keeper_setup_description">Wacht totdat uw tablet is gecodeerd. ^1 procent voltooid.</string>
+  <string name="crypt_keeper_setup_description">Wacht totdat uw apparaat is gecodeerd. ^1 procent voltooid.</string>
   <string name="crypt_keeper_setup_title">Coderen</string>
   <string name="crypt_keeper_switch_input_method">Invoermethode schakelen</string>
   <string name="crypt_keeper_unplugged_text">Sluit uw lader aan en probeer het opnieuw.</string>
@@ -627,9 +650,9 @@ U kunt meer geschikte besturingselementen voor gegevensgebruik vinden in de inst
   <string name="data_usage_app_settings">Instellingen voor app weergeven</string>
   <string name="data_usage_auto_sync_off_dialog">Hiermee beperkt u gegevens- en accugebruik. U moet elk account echter handmatig synchroniseren om recente informatie te verzamelen. U ontvangt geen meldingen wanneer er updates zijn.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Auto-sync gegevens uitschakelen?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Wijzigingen die u aanbrengt in uw accounts op internet worden automatisch naar uw tablet gekopieerd.
+  <string name="data_usage_auto_sync_on_dialog">"Wijzigingen die u aanbrengt in uw accounts op internet worden automatisch naar uw apparaat gekopieerd.
 
-Sommige accounts kunnen de wijzigingen die u op uw telefoon aanbrengt ook automatisch naar het account op internet kopiëren. Een Google-account werkt op deze manier.
+Sommige accounts kunnen de wijzigingen die u op uw apparaat aanbrengt ook automatisch naar het account op internet kopiëren. Een Google-account werkt op deze manier.
 
 Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u met elk account wilt synchroniseren."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Auto-sync gegevens inschakelen?</string>
@@ -651,7 +674,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="data_usage_label_foreground">Voorgrond</string>
   <string name="data_usage_limit_dialog_mobile">"Uw mobiele gegevensverbinding wordt uitgeschakeld wanneer de gespecificeerde limiet is bereikt.
 
-Aangezien dit gegevensverbruik wordt gemeten door uw tablet en uw provider tot een ander totaal kan komen, kunt u het beste een voorzichtige grens instellen."</string>
+Aangezien dit gegevensverbruik wordt gemeten door uw apparaat en uw provider tot een ander totaal kan komen, kunt u het beste een voorzichtige grens instellen."</string>
   <string name="data_usage_limit_dialog_title">Gegevensgebruik beperken</string>
   <string name="data_usage_limit_editor_title">Limiet voor gegevensverbruik instellen</string>
   <string name="data_usage_list_mobile">Mobiel</string>
@@ -673,7 +696,7 @@ Aangezien dit gegevensverbruik wordt gemeten door uw tablet en uw provider tot e
   <string name="data_usage_restrict_background">Als u het gebruik van mobiele achtergrondgegevens beperkt, werken sommige apps en services niet, tenzij u bent verbonden met een wifi-netwerk.</string>
   <string name="data_usage_restrict_background_multiuser">"Als u mobiel gegevensgebruik op de achtergrond beperkt, werken sommige apps en services niet, tenzij u verbonden bent met een wifi-netwerk.
 
-Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
+Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="data_usage_restrict_background_title">Achtergrondgegevens beperken?</string>
   <string name="data_usage_restrict_denied_dialog">U kunt achtergrondgegevens alleen beperken als u een mobiele gegevenslimiet heeft ingesteld.</string>
   <string name="data_usage_summary_title">Datagebruik</string>
@@ -687,7 +710,7 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="data_usage_tab_mobile">Mobiel</string>
   <string name="data_usage_tab_wifi">Wifi</string>
   <string name="data_usage_total_during_range">%2$s: ongeveer %1$s gebruikt.</string>
-  <string name="data_usage_total_during_range_mobile">%2$s: ongeveer %1$s gebruikt volgens uw tablet. Uw provider kan dit anders berekenen.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: ongeveer %1$s gebruikt volgens uw apparaat. Uw provider kan dit anders berekenen.</string>
   <string name="data_usage_uninstalled_apps">Verwijderde apps</string>
   <string name="data_usage_uninstalled_apps_users">Verwijderde apps en gebruikers</string>
   <string name="data_usage_warning_editor_title">Waarschuwing voor gegevensverbruik instellen</string>
@@ -740,11 +763,11 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
-  <string name="device_edit_title">Hernoem tablet</string>
+  <string name="device_edit_title">Hernoem apparaat</string>
   <string name="device_info_default">Onbekend</string>
   <string name="device_info_label">Apparaatinfo</string>
   <string name="device_info_not_available">Niet beschikbaar</string>
-  <string name="device_info_settings">Tabletstatus</string>
+  <string name="device_info_settings">Apparaatstatus</string>
   <string name="device_internal_memory">Intern geheugen</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI versie</string>
@@ -767,11 +790,14 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="dirac_control">Audio kwaliteit optimaliseren</string>
   <string name="dirac_mode_earbuds">Mi koptelefoon</string>
   <string name="dirac_mode_general">Algemeen</string>
+  <string name="dirac_mode_general_earbuds">General earbuds</string>
+  <string name="dirac_mode_general_inear">General inear</string>
   <string name="dirac_mode_in_ear">Mi in-oor koptelefoon</string>
   <string name="dirac_mode_off">Dirac uit</string>
+  <string name="dirac_mode_piston_1">Mi piston-1</string>
   <string name="dirac_mode_piston_100">Mi piston headphones</string>
-  <string name="dirac_switch_summary">Gebruik altijd Mi sound enhancer bij de luidspreker</string>
-  <string name="dirac_switch_title">Mi Sound enhancer</string>
+  <string name="dirac_mode_piston_2">Mi piston-2</string>
+  <string name="dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="disableNetwork">Netwerk uitschakelen</string>
   <string name="disable_overlays">HW-overlays uitschakelen</string>
   <string name="disable_overlays_summary">GPU altijd gebruiken voor schermcompositing</string>
@@ -811,7 +837,7 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="dndm_repeated_call_summary_3min">Als dezelfde persoon u opnieuw belt binnen drie minuten, zal het geluid afgaan.</string>
   <string name="dndm_repeated_call_summary_none">Herhaalde oproepen van het zelfde nummer dempen</string>
   <string name="dndm_special_call_setting_group">Uitzonderingen</string>
-  <string name="dndm_summary">Tijdens de niet storen modus worden oproepen en notificaties gedempt wanneer uw telefoon vergrendeld is.</string>
+  <string name="dndm_summary">Tijdens de niet storen modus worden oproepen en notificaties gedempt wanneer uw apparaat vergrendeld is.</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Sta oproepen van uitzonderingen toe</string>
@@ -827,15 +853,15 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="dock_audio_settings_title">Audio</string>
   <string name="dock_audio_summary_car">Instellingen voor het gekoppelde autodockstation</string>
   <string name="dock_audio_summary_desk">Instellingen voor het gekoppelde bureaudockstation</string>
-  <string name="dock_audio_summary_none">Tablet niet gedockt</string>
+  <string name="dock_audio_summary_none">Apparaat niet gedockt</string>
   <string name="dock_audio_summary_unknown">Instellingen voor het gekoppelde dockstation</string>
-  <string name="dock_not_found_text">U moet de tablet in het dock plaatsen voordat u audio-instellingen voor het dock kunt instellen.</string>
+  <string name="dock_not_found_text">U moet het apparaat in het dock plaatsen voordat u audio-instellingen voor het dock kunt instellen.</string>
   <string name="dock_not_found_title">Dockstation niet gevonden</string>
   <string name="dock_settings">Docken</string>
   <string name="dock_settings_summary">Audio-instellingen voor het gekoppelde dockstation</string>
   <string name="dock_settings_title">Instellingen voor dockstation</string>
-  <string name="dock_sounds_enable_summary_off">Geen geluid afspelen wanneer de tablet in het dockstation wordt geplaatst of uit het dockstation wordt verwijderd</string>
-  <string name="dock_sounds_enable_summary_on">Geluid afspelen wanneer de tablet in het dockstation wordt geplaatst of uit het dockstation wordt verwijderd</string>
+  <string name="dock_sounds_enable_summary_off">Geen geluid afspelen wanneer het apparaat in het dockstation wordt geplaatst of uit het dockstation wordt verwijderd</string>
+  <string name="dock_sounds_enable_summary_on">Geluid afspelen wanneer het apparaat in het dockstation wordt geplaatst of uit het dockstation wordt verwijderd</string>
   <string name="dock_sounds_enable_title">Geluid voor plaatsing in dockstation</string>
   <string name="does_not_exist">App bestaat niet.</string>
   <string name="dolby_bassboost_high">Sterk</string>
@@ -856,13 +882,14 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="dolby_roomsize_summary">Surround sound instellingen alleen beschikbaar voor koptelefoons</string>
   <string name="dolby_roomsize_title">Surround:</string>
   <string name="done_button">Gereed</string>
+  <string name="download_current_rom">Get latest version of MIUI</string>
   <string name="downloading_description">Downloaden…</string>
   <string name="drive_mode">Auto mode</string>
   <string name="drive_mode_auto_reply">Snel antwoord</string>
   <string name="drive_mode_auto_sms_reply_content">"Kan nu niet praten, ik bel je later"</string>
   <string name="drive_mode_auto_sms_reply_content_title">Snel antwoord</string>
   <string name="drive_mode_calling_auto_sms_reply">Beantwoord oproepen</string>
-  <string name="drive_mode_invert_stop_report">Schakel telefoon over naar stille modus</string>
+  <string name="drive_mode_invert_stop_report">Schakel apparaat over naar stille modus</string>
   <string name="drive_mode_only_contact_reply">Beantwoord alleen contactpersonene</string>
   <string name="drive_mode_phone_report">Informatie over inkomende oproepen</string>
   <string name="drive_mode_settings">Auto mode instellingen</string>
@@ -879,6 +906,7 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="enable_adb_summary">Foutopsporingsmodus bij USB-verbinding</string>
   <string name="enable_compatibility">App schalen</string>
   <string name="enable_drive_mode">Auto mode</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
   <string name="enable_opengl_traces_title">OpenGL-sporen inschakelen</string>
   <string name="enable_service_title">%1$s gebruiken?</string>
   <string name="enable_snapshot_screenlock">Terug lang inge houden voor de Camera</string>
@@ -912,7 +940,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="error_title"/>
   <string name="external_code_size_label">USB-opslagapp</string>
   <string name="external_data_size_label">USB-opslaggegevens</string>
-  <string name="factory_reset_summary">"Wis alle data van de interne opslag van uw tablet"</string>
+  <string name="factory_reset_summary">"Wis alle data van de interne opslag van uw apparaat"</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen voor %1$s mislukt</string>
   <string name="fcc_equipment_id">Apparatuur-ID</string>
   <string name="filter">Filter</string>
@@ -988,9 +1016,10 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="game_controller_settings_category">Gamecontroller</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
-  <string name="global_change_warning">Deze instelling is van invloed op alle gebruikers van deze tablet.</string>
+  <string name="global_change_warning">Deze instelling is van invloed op alle gebruikers van dit apparaat.</string>
   <string name="global_font_change_title">Lettergrootte wijzigen</string>
   <string name="global_locale_change_title">Taal wijzigen</string>
+  <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">Data naar Wifi</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
   <string name="haptic_feedback_level">Tril niveau</string>
@@ -1016,21 +1045,6 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="header_category_system">SYSTEEM</string>
   <string name="header_category_wireless_networks">DRAADLOOS EN NETWERKEN</string>
   <string name="header_data_and_synchronization">Gegevens en synchronisatie</string>
-  <string name="headset_calibrate">Knoppen toewijzen</string>
-  <string name="headset_calibrate_apply">Toepassen</string>
-  <string name="headset_calibrate_confirm">Nieuwe functies toepassen?</string>
-  <string name="headset_calibrate_hint">Druk op de bovenste toets</string>
-  <string name="headset_calibrate_next_track">Volgende nummer</string>
-  <string name="headset_calibrate_prev_track">Vorige nummer</string>
-  <string name="headset_calibrate_success">Instellingen toegepast</string>
-  <string name="headset_calibrate_volume_down">Volume verlagen</string>
-  <string name="headset_calibrate_volume_up">Volume verhogen</string>
-  <string name="headset_calibrate_wrong_key">"Verkeerde knop"</string>
-  <string name="headset_function">Functie van de knop</string>
-  <string name="headset_mode_music">Bestuur het afspelen van muziek</string>
-  <string name="headset_mode_volume">Beheer het volume</string>
-  <string name="headset_no_contected">Er is geen koptelefoon gevonden</string>
-  <string name="headset_settings">Koptelefoon</string>
   <string name="heavy_weight_stop_description">Deze app kan niet veilig worden gestopt. Als u de app stopt, kunt u een deel van uw huidige werk kwijtraken.</string>
   <string name="help_label">Help</string>
   <string name="help_url_accounts"/>
@@ -1051,6 +1065,9 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Verborgen SSID:</string>
+  <string name="high_performance_notif_summary">Performance mode is on.</string>
+  <string name="high_performance_notif_title">Battery usage warning</string>
+  <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
   <string name="history_details_title">Geschiedenisdetails</string>
   <string name="home_app_uninstall_button">Deze app verwijderen</string>
   <string name="home_key">Thuis</string>
@@ -1078,10 +1095,11 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="input_methods_settings_label_format">Instellingen voor %1$s</string>
   <string name="input_methods_settings_title">Tekstinvoer</string>
   <string name="input_settings">Invoerinstellingen</string>
-  <string name="install_all_warning">Uw tablet en persoonlijke gegevens zijn gevoeliger voor aanvallen door apps van onbekende bronnen. U gaat ermee akkoord dat alleen u verantwoordelijk bent voor enige schade aan uw tablet of verlies van gegevens die voortkomen uit het gebruik van deze apps.</string>
+  <string name="install_all_warning">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen door apps van onbekende bronnen. U gaat ermee akkoord dat alleen u verantwoordelijk bent voor enige schade aan uw apparaat of verlies van gegevens die voortkomen uit het gebruik van deze apps.</string>
   <string name="install_applications">Onbekende bronnen</string>
   <string name="install_text">Installeren</string>
   <string name="install_unknown_applications">Toestaan dat apps uit andere bronnen dan de Play Store worden geïnstalleerd</string>
+  <string name="install_whole_rom">Download ROM</string>
   <string name="insufficient_storage">Niet voldoende opslagruimte.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Actie:</string>
@@ -1122,11 +1140,11 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="language_settings_category">Taalinstellingen</string>
   <string name="large_font">Groot</string>
   <string name="last_synced">Laatst gesynchroniseerd: %1$s</string>
+  <string name="later">Reboot later</string>
   <string name="launch_count_label">Aantal</string>
-  <string name="launcher_settings_title">Launcher</string>
-  <string name="launching_cit">Starten cit, geduld alstublieft.</string>
-  <string name="launching_pho">Starten telefoon informatie, geduld alstublieft.</string>
-  <string name="launching_rep">Bugreporting, geduld alstublieft.</string>
+  <string name="launching_cit">Cit starten, een moment geduld.</string>
+  <string name="launching_pho">Starten apparaat informatie, een moment geduld.</string>
+  <string name="launching_rep">Bugreporting, een moment geduld.</string>
   <string name="led_colors_summary">Notificaties</string>
   <string name="led_frequence_summary">Stel de interval tussen LED knipperingen</string>
   <string name="led_pulse_summary">Pulse notificatie licht als er een nieuwe notificatie is</string>
@@ -1142,6 +1160,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="local_backup_password_toast_confirmation_mismatch">Nieuw wachtwoord en bevestiging komen niet overeen.</string>
   <string name="local_backup_password_toast_success">Nieuw back-upwachtwoord ingesteld</string>
   <string name="local_backup_password_toast_validation_failure">Instellen van back-upwachtwoord is mislukt</string>
+  <string name="local_backup_section_summary">Backup system settings, account info, and apps</string>
+  <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Standaard</string>
   <string name="location_access_summary">Apps die uw toestemming hebben gevraagd, toestaan uw locatiegegevens te gebruiken</string>
   <string name="location_access_title">Toegang tot mijn locatie</string>
@@ -1166,7 +1186,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="location_no_recent_apps">Er zijn geen apps die uw locatie onlangs hebben aangevraagd</string>
   <string name="location_settings_title">Locatie</string>
   <string name="location_sources_heading">Locatiebronnen</string>
-  <string name="location_street_level">Apps toestaan GPS op uw tablet te gebruiken om uw locatie te bepalen</string>
+  <string name="location_street_level">Apps toestaan GPS op uw apparaat te gebruiken om uw locatie te bepalen</string>
   <string name="location_title">Mijn locatie</string>
   <string name="lock_after_timeout">Automatisch vergrendelen</string>
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
@@ -1237,10 +1257,14 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel onjuiste pogingen!</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
+  <string name="lockscreen_glogin_checking_password">Checking…</string>
+  <string name="lockscreen_glogin_password_hint">Password</string>
+  <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lte_ram_dump_off">LTE RAM-dump uitschakelen</string>
   <string name="lte_ram_dump_on">LTE RAM-dump inschakelen</string>
   <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Hoofdproces in gebruik.</string>
+  <string name="make_sure_cancel_update">Cancel update?</string>
   <string name="man_add_application">Add auto-start apps</string>
   <string name="manage_device_admin">Apparaatbeheerders</string>
   <string name="manage_device_admin_summary">Apparaatbeheerders weergeven of uitschakelen</string>
@@ -1248,6 +1272,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="manage_notification_access">Toegang tot meldingen</string>
   <string name="manage_notification_access_summary_zero">Apps kunnen geen meldingen lezen</string>
   <string name="manage_space_text">Ruimte beheren</string>
+  <string name="manage_xiaomi_router">Mi Router settings</string>
   <string name="manageapplications_settings_summary">Geïnstalleerde apps beheren en verwijderen</string>
   <string name="manageapplications_settings_title">Apps beheren</string>
   <string name="manually_add_network">netwerk toevoegen</string>
@@ -1256,9 +1281,9 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
 U bent momenteel aangemeld bij de volgende accounts:
 "</string>
   <string name="master_clear_all">"Wilt u alle data van uw apparaat wissen? Dit kan niet ongedaan gemaakt worden!"</string>
-  <string name="master_clear_button_text">Tablet opnieuw instellen</string>
+  <string name="master_clear_button_text">Apparaat opnieuw instellen</string>
   <string name="master_clear_confirm_title">Opnieuw instellen?</string>
-  <string name="master_clear_desc">Hiermee worden alle gegevens in de &lt;b&gt;interne opslag&lt;/b&gt;" van uw tablet gewist, waaronder:
+  <string name="master_clear_desc">Hiermee worden alle gegevens in de &lt;b&gt;interne opslag&lt;/b&gt;" van uw apparaat gewist, waaronder:
 
 "&lt;li&gt;Uw Google-account&lt;/li&gt;"
 "&lt;li&gt;Gegevens en instellingen van het systeem en de apps&lt;/li&gt;"
@@ -1278,7 +1303,7 @@ Als u muziek, foto's en andere gebruikersgegevens wilt wissen, moet de "&lt;b&gt
   <string name="master_clear_personal_data">Wilt u al uw persoonlijke gegevens wissen? Dit kan niet ongedaan gemaakt worden!</string>
   <string name="master_clear_personal_data_application">Wilt u al uw persoonlijke gegevens en gedownloade apps wissen? Dit kan niet ongedaan gemaakt worden!</string>
   <string name="master_clear_personal_data_sdcard">Wilt u al uw persoonlijke gegevens en content wissen? Dit kan niet ongedaan gemaakt worden!</string>
-  <string name="master_clear_summary">Alle gegevens op de tablet wissen</string>
+  <string name="master_clear_summary">Alle gegevens op het apparaat wissen</string>
   <string name="master_clear_title">Fabrieksinstellingen terug</string>
   <string name="media_button">Media knop</string>
   <string name="media_feedback_enable_title">Trillen op de maat</string>
@@ -1330,73 +1355,36 @@ Als u muziek, foto's en andere gebruikersgegevens wilt wissen, moet de "&lt;b&gt
   <string name="menu_stats_total">Gebruikstotalen</string>
   <string name="menu_stats_unplugged">%1$s sinds losgekoppeld</string>
   <string name="menu_use_uss">USS gebruiken</string>
+  <string name="mione_update_success_title">Update complete</string>
   <string name="miracast_PC2THOR_streaming_on">Wireless Display is niet beschikbaar omdat een PC reeds naar dit apparaat streamt.</string>
-  <string name="miracast_add_sink_title">Wireless display toevoegen</string>
-  <string name="miracast_airplane_mode_on">Schakel de vliegmodus uit om Wireless display te gebruiken.</string>
-  <string name="miracast_authentication_error">Authenticatie probleem</string>
   <string name="miracast_cancelconnect_dialog">Verbinden annuleren</string>
   <string name="miracast_connection_failed_generic">Er kon geen verbinding worden gemaakt.</string>
   <string name="miracast_dialog_title">%1$s</string>
-  <string name="miracast_disconnect_dialog">Als u de verbinding verbreekt, verliest u de verbinding met %1$s</string>
+  <string name="miracast_disable_dhcp">Disable HDCP</string>
   <string name="miracast_display_category">Displays</string>
-  <string name="miracast_empty_list">Zoeken naar wireless displays…</string>
+  <string name="miracast_enable_dhcp">Enable HDCP</string>
   <string name="miracast_error_already_streaming">Er wordt reeds gestreamd naar een beeldscherm</string>
-  <string name="miracast_error_connection_in_progress">Er wordt verbinding gemaakt. Geduld alstublieft.</string>
-  <string name="miracast_error_unknown_sink">Onbekende sink</string>
-  <string name="miracast_error_wifi_is_off">Wifi staat uit</string>
-  <string name="miracast_game_mode_summary">Betere gaming prestaties</string>
-  <string name="miracast_game_mode_text_off">UIT</string>
-  <string name="miracast_game_mode_text_on">AAN</string>
-  <string name="miracast_game_mode_title">Game mode</string>
-  <string name="miracast_instructions">Draadloos streamen van video en audio naar een bruikbare adapter of display, zoals uw TV.</string>
-  <string name="miracast_is_discoverable">Zichtbaar voor alle Wireless display diveses in de buurt (%1$s)</string>
-  <string name="miracast_menu_add_sink">Handmatig een display toevoegen</string>
+  <string name="miracast_error_cancelconnect">Connection is busy</string>
+  <string name="miracast_error_connection_in_progress">Er wordt verbinding gemaakt. Een moment geduld.</string>
   <string name="miracast_menu_connect">Start streamen</string>
   <string name="miracast_menu_disconnect">Stop streamen</string>
   <string name="miracast_menu_forget">Vergeet display</string>
   <string name="miracast_menu_rename">Hernoem display</string>
   <string name="miracast_menu_search">Zoeken</string>
   <string name="miracast_menu_searching">Zoeken...</string>
-  <string name="miracast_menu_title_refreshing">Verversen…</string>
+  <string name="miracast_menu_teardown">Teardown</string>
   <string name="miracast_nickname">Bijnaam</string>
   <string name="miracast_no_sinks_found">Er zijn geen wireless displays in de buurt.</string>
-  <string name="miracast_not_visible_to_other_devices">Niet zichtbaar voor andere Wireless display devices</string>
-  <string name="miracast_password">Wachtwoord</string>
-  <string name="miracast_pbc">Verbinding maken via de WPS knop</string>
-  <string name="miracast_pin">Verbinding maken met een wachtwoord of PIN</string>
-  <string name="miracast_remem_sink_busy">Opgeslagen, bezig</string>
-  <string name="miracast_remem_sink_ready_to_connect">Opgeslagen, klaar om verder te gaan</string>
   <string name="miracast_search_for_displays">Zoeken naar wireless displays...</string>
-  <string name="miracast_security">Beveiliging type</string>
-  <string name="miracast_security_eap">802.1x EAP</string>
-  <string name="miracast_security_none">Geen</string>
-  <string name="miracast_security_psk_generic">WPA/WPA2 PSK</string>
-  <string name="miracast_security_wep">WEP</string>
-  <string name="miracast_service_died">ServiceDied</string>
-  <string name="miracast_service_restart">ServiceRestarted</string>
-  <string name="miracast_settings">Wireless display</string>
   <string name="miracast_settings_category">Wireless display instellingen</string>
   <string name="miracast_setup_cancel">Annuleren</string>
-  <string name="miracast_setup_ok">OK</string>
   <string name="miracast_setup_save">Opslaan</string>
-  <string name="miracast_setup_stream">Streamen</string>
-  <string name="miracast_setup_try_again">Probeer het opnieuw</string>
-  <string name="miracast_show_password">Toon wachtwoord</string>
   <string name="miracast_sink_busy">Bezig</string>
   <string name="miracast_sink_connected">Verbonden</string>
   <string name="miracast_sink_connecting">Verbinden…</string>
   <string name="miracast_sink_not_available">Niet beschikbaar</string>
   <string name="miracast_sink_ready_to_connect">Klaar om te verbinden</string>
-  <string name="miracast_ssid">Toon SSID</string>
-  <string name="miracast_title_disconnect">Verbinding verbreken?</string>
-  <string name="miracast_use_password_button">Authenticeren door middel van het wachtwoord</string>
-  <string name="miracast_warning_desc">Waarschuwing</string>
   <string name="miracast_wifi_off">Om Wireless display te gebruiken, zet de Wifi aan.</string>
-  <string name="miracast_wps_complete">Wifi beschermde Setup gelukt. Verbinding maken met het netwerk…</string>
-  <string name="miracast_wps_connection_option_separator_text">OF</string>
-  <string name="miracast_wps_desc">WPS</string>
-  <string name="miracast_wps_onstart_pbc">Druk op de Wifi Protected Setup knop op uw display of adapter. Het heet mogelijk \"WPS\" of toont dit symbool:</string>
-  <string name="miracast_wps_setup_msg">Starten WPS…</string>
   <string name="misc_files">Diverse bestanden</string>
   <string name="misc_files_selected_count">%1$d van %2$d geselecteerd</string>
   <string name="misc_files_selected_count_bytes">%1$s van %2$s</string>
@@ -1413,20 +1401,16 @@ Als u muziek, foto's en andere gebruikersgegevens wilt wissen, moet de "&lt;b&gt
   <string name="mobile_no_provisioning_url">%1$s heeft geen bekende website voor provisioning</string>
   <string name="mobile_unknown_sim_operator">Onbekende simprovider</string>
   <string name="model_number">Modelnummer</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Start Capturing</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Stop Capturing</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="move_app">Verplaatsen</string>
-  <string name="move_app_app_label">App</string>
-  <string name="move_app_data_label">Data</string>
-  <string name="move_app_dlg_text">Dit kan enkele minuten duren. Verwijder de SD kaart niet!</string>
   <string name="move_app_failed_dlg_text">Kan app niet verplaatsen. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
-  <string name="move_app_free_on_device">%1$s vrij op het apparaat</string>
-  <string name="move_app_free_on_sdcard">%1$s vrij op de SD kaart</string>
-  <string name="move_app_progress_to_device">Verplaatsen van %1$s naar apparaat...</string>
-  <string name="move_app_progress_to_sdcard">Verplaatsen van %1$s naar SD kaart...</string>
-  <string name="move_app_to_device_dlg_title">App verplaatsen naar apparaat?</string>
   <string name="move_app_to_internal">Verplaatsen naar apparaat</string>
   <string name="move_app_to_sdcard">Verpl. naar USB-opslag</string>
-  <string name="move_app_to_sdcard_dlg_title">App verplaatsen naar SD kaart?</string>
   <string name="moving">Verplaatsen</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">Voor Macs, download de driver en klik op AndroidFileTransfer.dmg om te installeren</string>
@@ -1457,10 +1441,39 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="mtp_ptp_mode_summary">MTP- of PTP-functie is actief</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Herstart is nodig</string>
+  <string name="music_audio_effect_settings">Audio effect settings</string>
+  <string name="music_dirac_mode_earbuds">Mi earbuds</string>
+  <string name="music_dirac_mode_general">General</string>
+  <string name="music_dirac_mode_general_earbuds">General earbuds</string>
+  <string name="music_dirac_mode_general_inear">General inear</string>
+  <string name="music_dirac_mode_in_ear">Mi in-ear headphones</string>
+  <string name="music_dirac_mode_piston_100">Mi piston-1</string>
+  <string name="music_dirac_mode_piston_2">Mi piston-2</string>
+  <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
+  <string name="music_equalizer">Equalizer</string>
+  <string name="music_headphone_settings">Headphone type settings</string>
+  <string name="music_headset_button_settings">Assign buttons</string>
+  <string name="music_headset_calibrate">Assign buttons</string>
+  <string name="music_headset_calibrate_apply">Use</string>
+  <string name="music_headset_calibrate_confirm">Apply these settings?</string>
+  <string name="music_headset_calibrate_hint">Press the upper button</string>
+  <string name="music_headset_calibrate_next_track">Next track</string>
+  <string name="music_headset_calibrate_prev_track">Previous track</string>
+  <string name="music_headset_calibrate_success">Settings applied</string>
+  <string name="music_headset_calibrate_volume_down">Decrease volume</string>
+  <string name="music_headset_calibrate_volume_up">Increase volume</string>
+  <string name="music_headset_calibrate_wrong_key">"That's the wrong button"</string>
+  <string name="music_headset_mode_music">Control music playback</string>
+  <string name="music_headset_mode_volume">Control volume level</string>
+  <string name="music_headset_no_contected">No headphones detected</string>
+  <string name="music_headset_settings">Headphones</string>
+  <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
+  <string name="music_mi_effect_title">Use MiSound enhancer</string>
   <string name="musicfx_title">Muziekeffecten</string>
   <string name="mvno_match_data">MVNO-waarde</string>
   <string name="mvno_type">MVNO-type</string>
   <string name="nearby_wifi">Beschikbare netwerken</string>
+  <string name="network_assistant">Data usage</string>
   <string name="network_detail">%s Netwerk details</string>
   <string name="network_error">Netwerk error.</string>
   <string name="network_settings_title">Mobiele netwerken</string>
@@ -1478,7 +1491,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="nfc_payment_set_default_instead_of">Altijd %1$s gebruiken in plaats van %2$s voor tikken en betalen?</string>
   <string name="nfc_payment_set_default_label">Instellen als uw voorkeur?</string>
   <string name="nfc_payment_settings_title">Tikken en betalen</string>
-  <string name="nfc_quick_toggle_summary">Gegevensuitwisseling toestaan wanneer de tablet een ander apparaat fysiek raakt</string>
+  <string name="nfc_quick_toggle_summary">Gegevensuitwisseling toestaan wanneer het apparaat een ander apparaat fysiek raakt</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Secure element position</string>
   <string name="no">Nee</string>
@@ -1505,12 +1518,13 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="notification_sound_dialog_title">Standaardmeldingsgeluid</string>
   <string name="notification_sound_title">Standaardmeldingsgeluid</string>
   <string name="notification_volume_title">Melding</string>
+  <string name="now">Reboot now</string>
   <string name="nsd_quick_toggle_summary">Apps op andere apparaten toestaan apps op dit apparaat te detecteren</string>
   <string name="nsd_quick_toggle_title">Netwerkservicedetectie</string>
   <string name="oem_radio_info_label">OEM-specifieke gegevens/instellingen</string>
   <string name="oldman_mode_confirm_title">Herstart in Lite mode?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Lite mode verlaten?</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">U telefoon zal herstarten in Lite mode.</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">U apparaat zal herstarten in Lite mode.</string>
   <string name="oldman_mode_enabled_name">Lite mode</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
@@ -1528,6 +1542,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Eigenaarsgegevens</string>
   <string name="packages_subtitle">Bijgeleverde pakketten</string>
+  <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_guard">Wachtwoord</string>
   <string name="percentage">%d%%</string>
   <string name="permission_detail_info">Machtigingen details</string>
@@ -1535,6 +1550,8 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="permission_manage">Beheer machtigingen</string>
   <string name="permission_manage_summary">Automatisch starten, privacy, beveiligde machtigingen management</string>
   <string name="permission_manage_title">%s machtigingen details</string>
+  <string name="permission_manager">Permissions</string>
+  <string name="permission_mgr">Permissions</string>
   <string name="permissions_label">Machtigingen</string>
   <string name="personal_data_section_title">Persoonlijke gegevens</string>
   <string name="phone_call_noise_suppression">Onderdruk lawaai tijdens gesprekken</string>
@@ -1555,9 +1572,12 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="pointer_location_summary">Schermoverlay met huidige aanraakgegevens</string>
   <string name="pointer_settings_category">Muis/trackpad</string>
   <string name="pointer_speed">Snelheid van aanwijzer</string>
+  <string name="power_autorun_apps_empty">No auto-start apps</string>
+  <string name="power_autorun_empty">No apps</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobiel stand-by</string>
-  <string name="power_idle">Tablet inactief</string>
+  <string name="power_idle">Apparaat inactief</string>
+  <string name="power_mgr">Battery</string>
   <string name="power_mode">Power isntellingen</string>
   <string name="power_mode_balanced_title">Kies gebalanceerde Power</string>
   <string name="power_phone">Spraakoproepen</string>
@@ -1584,8 +1604,11 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="preferred_application_warning_replace">Vervangen</string>
   <string name="preferred_application_warning_title">Vervang standaard %s</string>
   <string name="preferred_application_warning_use_system">Gebruik %s</string>
-  <string name="preferred_launcher_title">Voorkeurslauncher</string>
   <string name="preferred_media_app_summary">Kies muziekspeler</string>
+  <string name="preferred_sms_settings">This app will be set as your default app for reading and composing text messages.</string>
+  <string name="preferred_sms_title">Default messaging app</string>
+  <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase data usage or compromise the security of your data.</string>
+  <string name="preferred_sms_warning_use_system">"Don't use"</string>
   <string name="print_blocked_state_title_template">%1$s geblokkeerd door printer</string>
   <string name="print_cancel">Annuleren</string>
   <string name="print_cancelling_state_title_template">%1$s annuleren</string>
@@ -1617,6 +1640,8 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="priority_storage_settings_summary">"Als er geen SD kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag."</string>
   <string name="priority_storage_summary">Kies standaard locatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslag instellingen</string>
+  <string name="privacy_mode_dialog_message">Calls, notes, pictures, messages, and launcher settings will be hidden from user</string>
+  <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_mode_enable_sum">"Verberg berichten, notitites, foto's en inkomende oproepen van deze gebruiker"</string>
   <string name="privacy_mode_enable_title">Gast mode</string>
   <string name="privacy_protect_title">Privacy bescherming</string>
@@ -1646,6 +1671,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="profile_info_settings_title">Profielinfo</string>
   <string name="progress_scanning">Zoeken</string>
   <string name="provider_label">Abonnementen doorvoeren</string>
+  <string name="provision_next">Next</string>
   <string name="proxy_action_text">Gereed</string>
   <string name="proxy_clear_text">Wissen</string>
   <string name="proxy_defaultView_text">Standaardwaarden herstellen</string>
@@ -1693,7 +1719,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="radioInfo_menu_viewSDN">Servicenummers weergeven</string>
   <string name="radioInfo_phone_idle">Inactief</string>
   <string name="radioInfo_phone_offhook">Actieve oproep</string>
-  <string name="radioInfo_phone_ringing">Telefoon gaat over</string>
+  <string name="radioInfo_phone_ringing">Apparaat gaat over</string>
   <string name="radioInfo_roaming_in">Roaming</string>
   <string name="radioInfo_roaming_not">Geen roaming</string>
   <string name="radioInfo_service_emergency">Alleen noodoproepen</string>
@@ -1733,16 +1759,18 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="radio_info_smsc_refresh_label">Vernieuwen</string>
   <string name="radio_info_smsc_update_label">Bijwerken</string>
   <string name="radio_info_toggle_dns_check_label">DNS-controle in-/uitschakelen</string>
-  <string name="really_remove_account_message">Als u dit account verwijdert, worden ook alle accountberichten, contacten en andere gegevens van de tablet verwijderd.</string>
+  <string name="really_remove_account_message">Als u dit account verwijdert, worden ook alle accountberichten, contacten en andere gegevens van het apparaat verwijderd.</string>
   <string name="really_remove_account_title">Account verwijderen?</string>
   <string name="rebootiing_for_updates">Rebooting...</string>
+  <string name="recent_location_requests_summary">The apps below are requesting to view your location info</string>
+  <string name="recent_location_requests_title">Location access</string>
   <string name="recognizer_settings_summary">"Instellingen voor '%s'"</string>
   <string name="recognizer_settings_title">Gesproken zoekopdrachten</string>
   <string name="recognizer_title">Spraakherkenning</string>
   <string name="recompute_size">Grootte opnieuw berekenen...</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Wettelijke informatie</string>
-  <string name="remove_account_failed">"Dit account is vereist voor sommige apps. U kunt het account alleen verwijderen door de tablet te herstellen naar de fabrieksinstellingen (al uw persoonlijke gegevens worden gewist). U kunt dit doen via 'Instellingen' &gt; 'Back-up en herstel'."</string>
+  <string name="remove_account_failed">"Dit account is vereist voor sommige apps. U kunt het account alleen verwijderen door het apparaat te herstellen naar de fabrieksinstellingen (al uw persoonlijke gegevens worden gewist). U kunt dit doen via 'Instellingen' &gt; 'Back-up en herstel'."</string>
   <string name="remove_account_label">Account verwijderen</string>
   <string name="remove_device_admin">Deactiveren</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
@@ -1758,6 +1786,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
 
  U verliest geen app-gegevens."</string>
   <string name="reset_app_preferences_title">Appvoorkeuren herstellen?</string>
+  <string name="reset_legacy_password_settings_preface_text">You need to reset your lock screen password.</string>
   <string name="resource_ringtone_volume_mute">Het geluid is uitgeschakeld</string>
   <string name="restore_default_apn">Standaard-APN-instellingen herstellen.</string>
   <string name="restore_default_apn_completed">Herstellen van standaard-APN-instellingen voltooid.</string>
@@ -1770,7 +1799,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="restriction_location_enable_title">Locatie</string>
   <string name="restriction_menu_change_pin">Pincode wijzigen</string>
   <string name="restriction_menu_reset">Beperkingen verwijderen</string>
-  <string name="restriction_nfc_enable_summary">Gegevensuitwisseling toestaan wanneer de tablet een ander apparaat fysiek raakt</string>
+  <string name="restriction_nfc_enable_summary">Gegevensuitwisseling toestaan wanneer het apparaat een ander apparaat fysiek raakt</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Beperkingen</string>
   <string name="restriction_wifi_config_summary">Aanpassing van mobiele en wifi-instellingen toestaan</string>
@@ -1778,8 +1807,10 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="retry">Probeer opnieuw</string>
   <string name="ring_volume_title">Belvolume</string>
   <string name="ringtone_mute">None</string>
+  <string name="ringtone_slot_setting_title">Single card settings</string>
   <string name="ringtone_summary"/>
   <string name="ringtone_title">Beltoon telefoon</string>
+  <string name="ringtone_uniform_setting_title">Dual card settings</string>
   <string name="roaming">Gegevensroaming</string>
   <string name="roaming_disable">Verbinding maken met gegevensservices tijdens roaming</string>
   <string name="roaming_enable">Verbinding maken met gegevensservices tijdens roaming</string>
@@ -1789,7 +1820,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="roaming_warning">Wanneer u gegevensroaming toestaat, kunnen er hoge roamingkosten in rekening worden gebracht.</string>
   <string name="roaming_warning_multiuser">"Wanneer u gegevensroaming toestaat, kunnen er hoge roamingkosten in rekening worden gebracht.
 
-Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
+Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Verwijderde gebruiker</string>
   <string name="running_process_item_user_label">Gebruiker: %1$s</string>
@@ -1800,7 +1831,7 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="runningservicedetails_processes_title">Processen</string>
   <string name="runningservicedetails_services_title">Services</string>
   <string name="runningservicedetails_settings_title">Actieve app</string>
-  <string name="runningservicedetails_stop_dlg_text">Als u deze service stopt, werken bepaalde functies van uw tablet mogelijk pas weer correct nadat u de tablet heeft uitgeschakeld en weer ingeschakeld.</string>
+  <string name="runningservicedetails_stop_dlg_text">Als u deze service stopt, werken bepaalde functies van uw apparaat mogelijk pas weer correct nadat u het apparaat heeft uitgeschakeld en weer ingeschakeld.</string>
   <string name="runningservicedetails_stop_dlg_title">Systeemservice stoppen?</string>
   <string name="runningservices_settings_summary">Services die momenteel actief zijn, weergeven en beheren</string>
   <string name="runningservices_settings_title">Actieve services</string>
@@ -1821,7 +1852,7 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Slaap mode</string>
   <string name="screensaver_settings_button">Instellingen</string>
-  <string name="screensaver_settings_disabled_prompt">Schakel Dagdromen in om te bepalen wat er gebeurt als de telefoon is gedockt en/of de slaapstand actief is.</string>
+  <string name="screensaver_settings_disabled_prompt">Schakel Dagdromen in om te bepalen wat er gebeurt als het apparaat is gedockt en/of de slaapstand actief is.</string>
   <string name="screensaver_settings_dream_start">Nu beginnen</string>
   <string name="screensaver_settings_summary_dock">Wanneer gedockt</string>
   <string name="screensaver_settings_summary_either_long">Wanneer gedockt, in slaapstand of tijdens het opladen</string>
@@ -1873,7 +1904,6 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="search_key">sleutel</string>
   <string name="search_label">instellingen</string>
   <string name="search_language">taal</string>
-  <string name="search_launcher">launcher</string>
   <string name="search_led">led</string>
   <string name="search_network">netwerk</string>
   <string name="search_power_mode">power modus</string>
@@ -1893,12 +1923,14 @@ Deze instelling is van invloed op alle gebruikers van deze tablet."</string>
   <string name="search_wifi">wifi</string>
   <string name="security_enable_widgets_disabled_summary">Uitgeschakeld door beheerder</string>
   <string name="security_enable_widgets_title">Widgets inschakelen</string>
+  <string name="security_keyguard_category_name">Lock screen</string>
+  <string name="security_password_category_name">Password</string>
   <string name="security_passwords_title">Wachtwoorden</string>
   <string name="security_privacy_settings_title">Beveiliging</string>
   <string name="security_relative">\beveiligingsgerelateerd</string>
   <string name="security_settings_billing_desc">Deze app kan u kosten in rekening brengen:</string>
-  <string name="security_settings_desc">Deze app heeft toegang tot de volgende opties van uw tablet:</string>
-  <string name="security_settings_desc_multi">Deze app heeft toegang tot het volgende op uw tablet. Om de prestaties te verbeteren en het geheugengebruik te beperken, zijn sommige van deze rechten beschikbaar voor %1$s omdat deze wordt uitgevoerd in hetzelfde proces als %2$s:</string>
+  <string name="security_settings_desc">Deze app heeft toegang tot de volgende opties van uw apparaat:</string>
+  <string name="security_settings_desc_multi">Deze app heeft toegang tot het volgende op uw apparaat. Om de prestaties te verbeteren en het geheugengebruik te beperken, zijn sommige van deze rechten beschikbaar voor %1$s omdat deze wordt uitgevoerd in hetzelfde proces als %2$s:</string>
   <string name="security_settings_premium_sms_desc">Premium-sms verzenden</string>
   <string name="security_settings_summary">"Mijn locatie', schermontgrendeling, SIM- en referentieopslagvergrendeling instellen"</string>
   <string name="security_settings_title">Beveiliging</string>
@@ -1979,8 +2011,8 @@ Pincode mogelijk onjuist."</string>
   <string name="sim_lock_change_not_supported">"SIM lock kan niet worden aangepast omdat de SIM het niet ondersteund."</string>
   <string name="sim_lock_failed">"Kan status van simkaartblokkering niet wijzigen.
 Pincode mogelijk onjuist."</string>
-  <string name="sim_lock_off">PIN-code vereist voor gebruik van tablet</string>
-  <string name="sim_lock_on">PIN-code vereist voor gebruik van tablet</string>
+  <string name="sim_lock_off">PIN-code vereist voor gebruik van apparaat</string>
+  <string name="sim_lock_on">PIN-code vereist voor gebruik van apparaat</string>
   <string name="sim_lock_settings">Instellingen SIM-kaartvergrendeling</string>
   <string name="sim_lock_settings_category">SIM-vergrendeling instellen</string>
   <string name="sim_lock_settings_title">SIM-kaartvergrendeling</string>
@@ -1988,6 +2020,7 @@ Pincode mogelijk onjuist."</string>
   <string name="sim_pin_change">SIM PIN-code wijzigen</string>
   <string name="sim_pin_toggle">SIM-kaart vergrendelen</string>
   <string name="sim_pins_dont_match">Pincodes komen niet overeen</string>
+  <string name="sim_radio_off">Not activated</string>
   <string name="sim_reenter_new">Nieuwe PIN-code nogmaals invoeren</string>
   <string name="sim_status_title">SIM status</string>
   <string name="skip_label">Overslaan</string>
@@ -2057,6 +2090,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_notificationBar_notification">Toon in notificatiebalk</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon screenshot notificatie</string>
   <string name="status_bar_settings_show_statusBar_notification">Toon in keyguard</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Notification will appear top of screen and automatically disappear</string>
   <string name="status_bar_settings_show_wifi_name">Toon Wifi</string>
   <string name="status_bar_settings_status_bar">Status balk</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Inklappen na aanraken</string>
@@ -2104,6 +2138,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="sum_carrier_select">Een mobiele provider kiezen</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">Toestand aanvrager:</string>
+  <string name="symbols_not_allowed_for_password">"Password can't contain symbols"</string>
   <string name="sync_active">Synchronisatie actief</string>
   <string name="sync_automatically">Appgegevens automatisch synchr.</string>
   <string name="sync_calendar">Agenda</string>
@@ -2128,6 +2163,7 @@ Een benadering van Google voor de synchronisatie van gegevens, zodat u altijd en
   <string name="sync_wifi_only">Alleen via Wifi</string>
   <string name="system">Systeem</string>
   <string name="system_app_settings">Systeem apps</string>
+  <string name="system_backup_section_title">Backup</string>
   <string name="system_package">Systeemupdates kunnen niet worden geïnstalleerd op externe media.</string>
   <string name="system_storage">Interne opslag</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -2154,8 +2190,7 @@ Een benadering van Google voor de synchronisatie van gegevens, zodat u altijd en
   <string name="title_hdmi_color_calibration">Kleur correctie voorkeuze</string>
   <string name="title_local_resource">Lokale resources</string>
   <string name="title_system_resource">Systeem resources</string>
-  <string name="tnhwrevision_settings_list_item_summary">Mocha HW revisie samenvatting</string>
-  <string name="tnhwrevision_settings_list_item_title">Mocha HW revisie</string>
+  <string name="toast_lockscreen_glogin_empty_password">Enter password</string>
   <string name="toast_need_login">Log in met uw Mi account</string>
   <string name="total_size">%s totaal</string>
   <string name="total_size_label">Totaal</string>
@@ -2170,6 +2205,7 @@ Een benadering van Google voor de synchronisatie van gegevens, zodat u altijd en
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball ontwaking</string>
   <string name="transition_animation_scale_title">Overgangsanimatieschaal</string>
+  <string name="translation_contributors_title">Contributors</string>
   <string name="trusted_credentials">Vertrouwde id-gegevens</string>
   <string name="trusted_credentials_disable_confirmation">Het CA-certificaat voor het systeem uitschakelen?</string>
   <string name="trusted_credentials_disable_label">Uitschakelen</string>
@@ -2315,7 +2351,7 @@ Een benadering van Google voor de synchronisatie van gegevens, zodat u altijd en
   <string name="user_add_user_item_summary">Gebruikers hebben hun eigen apps en inhoud</string>
   <string name="user_add_user_item_title">Gebruiker</string>
   <string name="user_add_user_menu">Gebruiker of profiel toevoegen</string>
-  <string name="user_add_user_message_long">"U kunt dit apparaat met andere mensen delen door extra gebruikers te maken. Elke gebruiker heeft een eigen ruimte die kan worden aangepast met eigen apps, een achtergrond, enzovoort. Gebruikers kunnen ook tabletinstellingen aanpassen, zoals wifi, die effect hebben op alle gebruikers.
+  <string name="user_add_user_message_long">"U kunt dit apparaat met andere mensen delen door extra gebruikers te maken. Elke gebruiker heeft een eigen ruimte die kan worden aangepast met eigen apps, een achtergrond, enzovoort. Gebruikers kunnen ook apparaatinstellingen aanpassen, zoals wifi, die effect hebben op alle gebruikers.
 
 Nadat u een nieuwe gebruiker heeft gemaakt, moet die persoon een configuratieproces volgen.
 
@@ -2327,9 +2363,9 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="user_add_user_type_title">Toevoegen</string>
   <string name="user_adding_new_user">Nieuwe gebruiker toevoegen…</string>
   <string name="user_cannot_add_accounts_message">Beperkte profielen kunnen geen accounts toevoegen</string>
-  <string name="user_cannot_manage_message">Alleen de eigenaar van de tablet kan gebruikers beheren.</string>
-  <string name="user_confirm_remove_message">De opslagruimte en gegevens van deze gebruiker verdwijnen van deze tablet. U kunt deze actie niet ongedaan maken.</string>
-  <string name="user_confirm_remove_self_message">U raakt uw opslagruimte en gegevens op deze tablet kwijt. U kunt deze actie niet ongedaan maken.</string>
+  <string name="user_cannot_manage_message">Alleen de eigenaar van het apparaat kan gebruikers beheren.</string>
+  <string name="user_confirm_remove_message">De opslagruimte en gegevens van deze gebruiker verdwijnen van dit apparaat. U kunt deze actie niet ongedaan maken.</string>
+  <string name="user_confirm_remove_self_message">U raakt uw opslagruimte en gegevens op dit apparaat kwijt. U kunt deze actie niet ongedaan maken.</string>
   <string name="user_confirm_remove_self_title">Wilt u uzelf verwijderen?</string>
   <string name="user_confirm_remove_title">Gebruiker verwijderen?</string>
   <string name="user_delete_button">Verwijderen</string>
@@ -2363,7 +2399,7 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="user_nickname">Bijnaam</string>
   <string name="user_owner">Eigenaar</string>
   <string name="user_picture_title">Foto-ID</string>
-  <string name="user_profile_confirm_remove_message">De opslagruimte en gegevens van dit profiel verdwijnen van deze tablet. U kunt deze actie niet ongedaan maken.</string>
+  <string name="user_profile_confirm_remove_message">De opslagruimte en gegevens van dit profiel verdwijnen van dit apparaat. U kunt deze actie niet ongedaan maken.</string>
   <string name="user_profile_confirm_remove_title">Profiel verwijderen?</string>
   <string name="user_remove_user_menu">%1$s verwijderen van dit apparaat</string>
   <string name="user_rename">NAAM WIJZIGEN</string>
@@ -2373,7 +2409,7 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="user_settings_title">Gebruikers</string>
   <string name="user_setup_button_setup_later">Niet nu</string>
   <string name="user_setup_button_setup_now">Nu instellen</string>
-  <string name="user_setup_dialog_message">Zorg ervoor dat de persoon de tablet kan overnemen om zijn of haar eigen gedeelte te configureren</string>
+  <string name="user_setup_dialog_message">Zorg ervoor dat de persoon het apparaat kan overnemen om zijn of haar eigen gedeelte te configureren</string>
   <string name="user_setup_dialog_title">Gebruiker nu instellen?</string>
   <string name="user_setup_profile_dialog_message">Profiel nu instellen?</string>
   <string name="user_summary_not_set_up">Niet ingesteld</string>
@@ -2391,6 +2427,8 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="vibrate_input_devices">Trilstand gebruiken</string>
   <string name="vibrate_input_devices_summary">Trilstand overschakelen naar gamecontroller wanneer deze is aangesloten.</string>
   <string name="vibrate_when_ringing_title">Trillen bij bellen</string>
+  <string name="view_install_log">View error log</string>
+  <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Scan voortzetten</string>
   <string name="virus_scan_app_find_risk">"% d risico's gevonden"</string>
   <string name="virus_scan_app_finish">Scan gereed</string>
@@ -2510,7 +2548,7 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="wifi_advanced_mac_address_title">MAC-adres</string>
   <string name="wifi_advanced_settings_label">IP-instellingen</string>
   <string name="wifi_advanced_titlebar">Geavanceerde wifi-instellingen</string>
-  <string name="wifi_and_mobile_skipped_message">LET OP: totdat u een internetverbinding heeft, kan de tablet niet verifiëren dat uw software actueel is.</string>
+  <string name="wifi_and_mobile_skipped_message">LET OP: totdat u een internetverbinding heeft, kan het apparaat niet verifiëren dat uw software actueel is.</string>
   <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_auto_connect">Auto connect</string>
   <string name="wifi_available_title">Connect to WLAN</string>
@@ -2519,7 +2557,7 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="wifi_config_info">WLAN config</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_connect">Verbinden</string>
-  <string name="wifi_connect_failed_message">De tablet kan geen verbinding maken met dit wifi-netwerk.</string>
+  <string name="wifi_connect_failed_message">Het apparaat kan geen verbinding maken met dit wifi-netwerk.</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>
@@ -2634,7 +2672,7 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="wifi_quick_toggle_summary">Wifi inschakelen</string>
   <string name="wifi_quick_toggle_title">Wifi</string>
   <string name="wifi_remembered">Opgeslagen</string>
-  <string name="wifi_required_info_text">Om de configuratie te voltooien, heeft uw tablet toegang tot wifi nodig. Na de configuratie kunt u schakelen tussen mobiele gegevens en wifi.</string>
+  <string name="wifi_required_info_text">Om de configuratie te voltooien, heeft uw apparaat toegang tot wifi nodig. Na de configuratie kunt u schakelen tussen mobiele gegevens en wifi.</string>
   <string name="wifi_save">Opslaan</string>
   <string name="wifi_scan_always_available">Scannen altijd beschikbaar</string>
   <string name="wifi_scan_always_available_summary">De locatieservice en andere apps van Google laten scannen naar netwerken, ook wanneer wifi is uitgeschakeld</string>
@@ -2743,7 +2781,7 @@ Raak "&lt;b&gt;Terug&lt;/b&gt; aan om verbinding te maken met een ander wifi-net
   <string name="wifi_skip_anyway">Toch overslaan</string>
   <string name="wifi_skipped_message">"WAARSCHUWING: er worden mogelijk extra kosten voor dataverkeer in rekening gebracht.
 
-Het instellen van de tablet kan aanzienlijke netwerkactiviteit vereisen."</string>
+Het instellen van het apparaat kan aanzienlijke netwerkactiviteit vereisen."</string>
   <string name="wifi_speed">Linksnelheid</string>
   <string name="wifi_ssid">SSID van netwerk</string>
   <string name="wifi_ssid_hint">Geef de SSID op</string>
@@ -2768,6 +2806,8 @@ Het instellen van de tablet kan aanzienlijke netwerkactiviteit vereisen."</strin
   <string name="wifi_tether_setting_title">Basic settings</string>
   <string name="wifi_tether_starting">Hotspot inschakelen…</string>
   <string name="wifi_tether_stopping">Hotspot uitschakelen…</string>
+  <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(ongewijzigd)</string>
   <string name="wifi_unspecified">(niet opgegeven)</string>
   <string name="wifi_update">Refresh stats</string>
@@ -2819,6 +2859,10 @@ Het instellen van de tablet kan aanzienlijke netwerkactiviteit vereisen."</strin
   <string name="xiaomi_account">Xiaomi Account</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_money_service">Mi Credit</string>
+  <string name="xiaomi_router_available_notif_summary">Tap to view more info.</string>
+  <string name="xiaomi_router_available_notif_title">Mi Router available</string>
+  <string name="xiaomi_router_notif_summary">Notify me when a Mi Router is available</string>
+  <string name="xiaomi_router_notif_title">Mi Router notification</string>
   <string name="yes">Ja</string>
   <string name="zone_auto">Automatische tijdzone</string>
   <string name="zone_auto_summaryOff">Netwerktijdzone gebruiken</string>
