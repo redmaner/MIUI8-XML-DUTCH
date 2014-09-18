@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Beantwoorden</item>
+        <item>Allen beantwoorden</item>
+        <item>Doorsturen</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Geslaagd</item>
+        <item>Geen verbinding.</item>
+        <item>Kan niet inloggen.</item>
+        <item>Beveiligingsfout.</item>
+        <item>Kan niet synchroniseren.</item>
+        <item>Interne fout</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Systeem</item>
+        <item>Veelgebruikt</item>
+        <item>Alle mappen</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nieuwer</item>
+        <item>Ouder</item>
+        <item>Conversatielijst</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Nieuwere conversatie weergeven na het verwijderen</item>
+        <item>Oudere conversatie weergeven na het verwijderen</item>
+        <item>Conversatielijst weergeven na het verwijderen</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Alleen archief weergeven</item>
+        <item>Alleen verwijderen weergeven</item>
+        <item>Archief en verwijderen weergeven</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Alleen archief weergeven</item>
+        <item>Alleen verwijderen weergeven</item>
+        <item>Archief en verwijderen weergeven</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Heel kleine tekst</item>
+        <item>Kleine tekst</item>
+        <item>Normale tekst</item>
+        <item>Grote tekst</item>
+        <item>Heel grote tekst</item>
+    </string-array>
+</resources>
