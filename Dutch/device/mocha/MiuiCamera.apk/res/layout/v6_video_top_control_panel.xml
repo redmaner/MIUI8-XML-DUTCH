@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.android.camera.ui.V6VideoTopControlPanel android:id="@id/v6_video_top_control_panel" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.android.camera.ui.V6FlashButton android:id="@id/v6_flash_mode_button" android:src="@drawable/v6_flash_button_auto_bg" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@string/accessibility_flash_mode_button" style="@style/RotateImageViewStyle" />
-    <com.android.camera.ui.V6SettingButton android:id="@id/v6_setting_button" android:src="@drawable/v6_setting_button_bg" android:layout_centerInParent="true" android:layout_centerVertical="true" android:contentDescription="@string/accessibility_setting_button" style="@style/RotateImageViewStyle" />
-    <com.android.camera.ui.V6CameraPicker android:id="@id/v6_camera_picker" android:src="@drawable/v6_camera_picker_bg" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/accessibility_camera_picker" style="@style/RotateImageViewStyle" />
-    <com.android.camera.ui.V6VideoCaptureButton android:id="@id/v6_video_capture_button" android:visibility="gone" android:src="@drawable/v6_setting_button_bg" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/RotateImageViewStyle" />
-</com.android.camera.ui.V6VideoTopControlPanel>

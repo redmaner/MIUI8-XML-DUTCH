@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.android.camera.ui.V6CaptureControlPanel android:id="@id/v6_capture_control_panel" android:paddingLeft="@dimen/v6_bottom_control_padding" android:paddingRight="@dimen/v6_bottom_control_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.android.camera.ui.V6BottomAnimationImageView android:id="@id/v6_btn_done" android:visibility="gone" android:src="@drawable/v6_review_done_bg" android:layout_alignParentRight="true" style="@style/ReviewControlIcon" />
-    <com.android.camera.ui.V6BottomAnimationImageView android:id="@id/v6_btn_cancel" android:visibility="gone" android:src="@drawable/v6_review_cancel_bg" android:layout_alignParentLeft="true" style="@style/ReviewControlIcon" />
-</com.android.camera.ui.V6CaptureControlPanel>

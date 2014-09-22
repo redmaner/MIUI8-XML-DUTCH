@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceGroup camera:title="@string/pref_camcorder_settings_category"
-  xmlns:camera="http://schemas.android.com/apk/res/com.android.camera">
-    <IconListPreference camera:title="@string/pref_video_quality_title" camera:key="pref_video_quality_key" camera:defaultValue="@array/pref_video_quality_default_values" camera:entryValues="@array/pref_video_quality_entryvalues" camera:entries="@array/pref_video_quality_entries" camera:hasPopup="true" camera:icons="@array/video_quality_icons" camera:largeIcons="@array/video_quality_largeicons" />
-</PreferenceGroup>
