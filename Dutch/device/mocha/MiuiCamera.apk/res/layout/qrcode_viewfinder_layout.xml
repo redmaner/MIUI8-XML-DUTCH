@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.zxing.ui.QRCodeFragmentLayout android:id="@id/qrcode_viewfinder_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.zxing.ui.ViewFinderView android:id="@id/qrcode_viewfinder_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/qrcode_viewfinder_frame" android:paddingBottom="120.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="12.0dip" android:textColor="@*android:color/white" android:gravity="center" android:id="@id/qrcode_viewfinder_text" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="#f0000000" android:shadowDx="0.0" android:shadowDy="2.0" android:shadowRadius="3.0" android:layout_above="@id/qrcode_viewfinder_button" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="15.0dip" android:textColor="@*android:color/white" android:gravity="center" android:id="@id/qrcode_viewfinder_button" android:background="@drawable/btn_find_qrcode" android:paddingLeft="22.0dip" android:paddingRight="22.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="120.0dip" android:text="@string/see_qrcode_detals" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</com.android.zxing.ui.QRCodeFragmentLayout>

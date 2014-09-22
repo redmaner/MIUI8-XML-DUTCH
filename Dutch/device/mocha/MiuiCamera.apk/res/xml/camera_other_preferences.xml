@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_camera_recordlocation_title" android:key="pref_camera_recordlocation_key" android:defaultValue="@string/pref_camera_recordlocation_default" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_camera_sound_title" android:key="pref_camerasound_key" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_front_mirror_title" android:key="pref_front_mirror_key" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_camera_watermark_title" android:key="pref_watermark_key" android:defaultValue="false" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_camera_referenceline_title" android:key="pref_camera_referenceline_key" android:defaultValue="false" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_priority_storage_title" android:key="pref_priority_storage" android:defaultValue="@bool/priority_storage" />
+    <com.android.camera.ui.PreviewListPreference android:persistent="false" android:title="@string/pref_camera_picturesize_title_simple_mode" android:key="pref_camera_picturesize_key" />
+    <com.android.camera.ui.PreviewListPreference android:persistent="false" android:entries="@array/pref_camera_volumekey_function_entries" android:title="@string/pref_camera_volumekey_function_title" android:key="pref_camera_volumekey_function_key" android:defaultValue="@string/pref_camera_volumekey_function_default" android:entryValues="@array/pref_camera_volumekey_function_entryvalues" />
+    <com.android.camera.ui.PreviewListPreference android:persistent="false" android:entries="@array/pref_camera_antibanding_entries" android:title="@string/pref_camera_antibanding_title" android:key="pref_camera_antibanding_key" android:defaultValue="@string/pref_camera_antibanding_default" android:entryValues="@array/pref_camera_antibanding_entryvalues" />
+    <com.android.camera.ui.PreviewListPreference android:persistent="false" android:entries="@array/pref_camera_show_gender_age_entries" android:title="@string/pref_camera_show_gender_age_title" android:key="pref_camera_show_gender_age_key" android:defaultValue="@string/pref_camera_show_gender_age_default" android:entryValues="@array/pref_camera_show_gender_age_entryvalues" />
+    <com.android.camera.ui.PreviewListPreference android:persistent="false" android:entries="@array/pref_camera_multiple_face_beauty_entries" android:title="@string/pref_camera_multiple_face_beauty_title" android:key="pref_camera_multiple_face_beauty_key" android:defaultValue="@string/pref_camera_multiple_face_beauty_default" android:entryValues="@array/pref_camera_multiple_face_beauty_entryvalues" />
+    <Preference android:persistent="false" android:title="@string/confirm_restore_title" android:key="pref_restore" />
+</PreferenceScreen>

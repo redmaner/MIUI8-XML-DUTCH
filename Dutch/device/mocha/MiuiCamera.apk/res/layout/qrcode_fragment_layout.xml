@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.zxing.ui.QRCodeFragmentLayout android:id="@id/qrcode_fragment_layout" android:background="@drawable/qrcode_details_info_content_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:name="com.android.zxing.ui.QRCodeFragment" android:id="@id/qrcode_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.android.zxing.ui.QRCodeFragmentLayout>

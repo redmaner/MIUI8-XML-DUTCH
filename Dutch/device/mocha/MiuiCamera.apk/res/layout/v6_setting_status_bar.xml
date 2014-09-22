@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.V6SettingsStatusBar android:id="@id/v6_setting_status_bar" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/right_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/v6_setting_status_bar_margin" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <com.android.camera.ui.RotateImageView android:id="@id/face_beauty" android:src="@drawable/v6_ic_indicator_facebeauty" style="@style/SettingStatusBarImage" />
+        <com.android.camera.ui.RotateImageView android:id="@id/color_effect" android:src="@drawable/v6_ic_indicator_coloreffect" style="@style/SettingStatusBarImage" />
+        <com.android.camera.ui.RotateImageView android:id="@id/audio_capture" android:src="@drawable/v6_ic_indicator_audio_capture" style="@style/SettingStatusBarImage" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/left_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/v6_setting_status_bar_margin" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <com.android.camera.ui.RotateTextView android:id="@id/ev_text" style="@style/SettingStatusBarText" />
+        <com.android.camera.ui.RotateTextView android:id="@id/zoom_text" style="@style/SettingStatusBarText" />
+    </LinearLayout>
+</com.android.camera.ui.V6SettingsStatusBar>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.V6TitleRotateImageView style="@style/SettingColumn"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.ui.V6EffectSurfaceView android:id="@id/image" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="15.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="true" android:shadowColor="#ff000000" android:shadowDx="0.0" android:shadowDy="3.0" android:shadowRadius="5.0" android:layout_alignBottom="@id/image" android:layout_centerHorizontal="true" />
+</com.android.camera.ui.V6TitleRotateImageView>

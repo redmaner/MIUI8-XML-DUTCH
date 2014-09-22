@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.V6BottomControlPanel android:id="@id/v6_bottom_control_panel" android:background="@drawable/v6_ic_bottom_control_bg" android:layout_width="fill_parent" android:layout_height="@dimen/v6_bottom_control_height" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/v6_camera_bottom_control_panel" />
+    <include layout="@layout/v6_video_bottom_control_panel" />
+    <include layout="@layout/v6_capture_control_panel" />
+</com.android.camera.ui.V6BottomControlPanel>

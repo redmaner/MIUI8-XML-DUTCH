@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceGroup camera:title="@string/pref_camera_settings_category"
+  xmlns:camera="http://schemas.android.com/apk/res/com.android.camera">
+    <IconListPreference camera:title="@string/pref_camera_audio_capture_title" camera:key="pref_audio_capture" camera:defaultValue="@string/pref_audio_indicator_entryvalue_default" camera:entryValues="@array/pref_audio_indicator_entryvalues" camera:entries="@array/pref_audio_indicator_entries" camera:singleIcon="@drawable/v6_ic_indicator_audio_capture" />
+    <IconListPreference camera:title="@string/pref_camera_coloreffect_title" camera:key="pref_camera_shader_coloreffect_key" camera:defaultValue="@string/pref_camera_shader_coloreffect_default" camera:hasPopup="true" camera:singleIcon="@drawable/v6_ic_indicator_coloreffect" />
+    <IconListPreference camera:title="@string/pref_face_beauty_title" camera:key="pref_camera_face_beauty_key" camera:defaultValue="@string/pref_face_beauty_default" camera:entryValues="@array/pref_face_beauty_entryvalues" camera:entries="@array/pref_face_beauty_entries" camera:hasPopup="true" camera:singleIcon="@drawable/v6_ic_indicator_facebeauty" />
+    <IconListPreference camera:title="@string/pref_camera_settings_title" camera:key="pref_settings" camera:singleIcon="@drawable/v6_ic_indicator_settting" />
+</PreferenceGroup>

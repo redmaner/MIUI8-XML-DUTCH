@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:key="pref_mecard_group_key">
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_name" android:key="pref_mecard_name_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_nickname" android:key="pref_mecard_nickname_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_company" android:key="pref_mecard_company_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_title" android:key="pref_mecard_title_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_phone" android:key="pref_mecard_phone_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_email" android:key="pref_mecard_email_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_web" android:key="pref_mecard_web_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_address" android:key="pref_mecard_address_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_birthday" android:key="pref_mecard_birthday_key" />
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:title="@string/contact_note" android:key="pref_mecard_note_key" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="pref_text_group_key">
+        <com.android.camera.ui.TextViewPreference android:persistent="false" android:key="pref_text_content_key" />
+    </PreferenceCategory>
+</PreferenceScreen>
