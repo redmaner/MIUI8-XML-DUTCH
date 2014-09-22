@@ -26,8 +26,8 @@
         <item>60000</item>
     </string-array>
     <string-array name="pref_video_focusmode_entryvalues">
-        <item>auto</item>
-        <item>continuous-video</item>
+        <item>automatisch</item>
+        <item>continue-video</item>
     </string-array>
     <string-array name="pref_camera_picturesize_entryvalues">
         <item>4208x3120</item>
@@ -52,21 +52,21 @@
         <item>1024x768</item>
     </string-array>
     <string-array name="pref_camera_jpegquality_entryvalues">
-        <item>high</item>
-        <item>normal</item>
-        <item>low</item>
+        <item>hoog</item>
+        <item>normaal</item>
+        <item>laag</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entryvalues">
-        <item>continuous-picture</item>
+        <item>continue-foto</item>
         <item>macro</item>
-        <item>manual</item>
+        <item>handmatig</item>
     </string-array>
     <string-array name="pref_camera_focusmode_default_array">
-        <item>continuous-picture</item>
+        <item>continue-foto</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
-        <item>off</item>
-        <item>on</item>
+        <item>uit</item>
+        <item>aan</item>
         <item>auto</item>
     </string-array>
     <string-array name="pref_camera_skin_beautify_entryvalues">
@@ -76,24 +76,24 @@
         <item>i:3</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_entryvalues">
-        <item>torch</item>
-        <item>off</item>
+        <item>flits</item>
+        <item>uit</item>
     </string-array>
     <string-array name="pref_camera_recordlocation_entryvalues">
-        <item>on</item>
-        <item>off</item>
+        <item>aan</item>
+        <item>uit</item>
     </string-array>
     <string-array name="pref_camera_coloreffect_entryvalues">
-        <item>none</item>
+        <item>geen</item>
         <item>mono</item>
         <item>sepia</item>
-        <item>negative</item>
+        <item>negatief</item>
         <item>posterize</item>
         <item>aqua</item>
     </string-array>
     <string-array name="pref_camera_touchafaec_entryvalues">
-        <item>touch-on</item>
-        <item>touch-off</item>
+        <item>tast-aan</item>
+        <item>tast-uit</item>
     </string-array>
     <string-array name="pref_camera_contrast_entryvalues">
         <item>0</item>
@@ -105,9 +105,9 @@
         <item>10</item>
     </string-array>
     <string-array name="pref_mtk_camera_contrast_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>laag</item>
+        <item>gemiddeld</item>
+        <item>hoog</item>
     </string-array>
     <string-array name="pref_camera_saturation_entryvalues">
         <item>0</item>
@@ -119,9 +119,9 @@
         <item>10</item>
     </string-array>
     <string-array name="pref_mtk_camera_saturation_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>laag</item>
+        <item>gemiddeld</item>
+        <item>hoog</item>
     </string-array>
     <string-array name="pref_camera_sharpness_entryvalues">
         <item>0</item>
@@ -133,24 +133,24 @@
         <item>36</item>
     </string-array>
     <string-array name="pref_mtk_camera_sharpness_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>laag</item>
+        <item>gemiddeld</item>
+        <item>hoog</item>
     </string-array>
     <string-array name="pref_camera_scenemode_entryvalues">
-        <item>off</item>
+        <item>uit</item>
         <item>auto</item>
-        <item>portrait</item>
-        <item>landscape</item>
-        <item>sports</item>
-        <item>night</item>
-        <item>night-portrait</item>
-        <item>beach</item>
-        <item>snow</item>
-        <item>sunset</item>
-        <item>fireworks</item>
-        <item>backlight</item>
-        <item>flowers</item>
+        <item>portret</item>
+        <item>landschap</item>
+        <item>sport</item>
+        <item>nacht</item>
+        <item>nacht-portret</item>
+        <item>strand</item>
+        <item>sneeuw</item>
+        <item>zonsondergang</item>
+        <item>vuurwerk</item>
+        <item>achtergrondverlichting</item>
+        <item>bloemen</item>
     </string-array>
     <string-array name="pref_mtk_camera_iso_entryvalues">
         <item>auto</item>
@@ -161,7 +161,7 @@
         <item>1600</item>
     </string-array>
     <string-array name="pref_camera_antibanding_entryvalues">
-        <item>off</item>
+        <item>uit</item>
         <item>50hz</item>
         <item>60hz</item>
         <item>auto</item>
@@ -174,16 +174,16 @@
     </string-array>
     <string-array name="pref_camera_redeyereduction_entryvalues">
         <item>auto</item>
-        <item>enable</item>
-        <item>disable</item>
+        <item>inschakelen</item>
+        <item>uitschakelen</item>
     </string-array>
     <string-array name="pref_camera_facedetection_entryvalues">
-        <item>on</item>
-        <item>off</item>
+        <item>aan</item>
+        <item>uit</item>
     </string-array>
     <string-array name="pref_camera_burst_shooting_entryvalues">
-        <item>on</item>
-        <item>off</item>
+        <item>aan</item>
+        <item>uit</item>
     </string-array>
         <string-array name="pref_camera_exposuretime_entryvalues">
         <item>0</item>
@@ -207,8 +207,8 @@
         <item>i:3</item>
     </string-array>
     <string-array name="pref_camera_show_gender_age_entryvalues">
-        <item>on</item>
+        <item>aan</item>
         <item>alias</item>
-        <item>off</item>
+        <item>uit</item>
     </string-array>
 </resources>
