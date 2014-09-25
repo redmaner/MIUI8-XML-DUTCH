@@ -454,7 +454,7 @@ floating schermen inschakelen?"</string>
   <string name="breathing_light_freq_summary">Pulseer bij nieuwe notificaties</string>
   <string name="breathing_light_freq_title">LED knipper frequentie</string>
   <string name="brightness">Helderheid</string>
-  <string name="brightness_auto_adjust_off">Schermhelderheid blijft hetzelfde in alle omstandigheden</string>
+  <string name="brightness_auto_adjust_off">Schermhelderheid blijft hetzelfde</string>
   <string name="brightness_auto_adjust_on">Schermhelderheid past zich aan aan het beschikbare licht.</string>
   <string name="brightness_summary">Helderheid van het scherm aanpassen</string>
   <string name="bssid_label">BSSID:</string>
@@ -923,7 +923,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="filter_apps_running">Wordt uitgevoerd</string>
   <string name="filter_apps_third_party">Gedownload</string>
   <string name="filter_dlg_title">Filteropties kiezen</string>
-  <string name="finish_application">Einde</string>
+  <string name="finish_application">OK</string>
   <string name="finish_button_label">Voltooien</string>
   <string name="firmware_version">Android-versie</string>
   <string name="floating_window_switch_label">Toon popup schermen</string>
@@ -948,7 +948,11 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="force_stop_dlg_title">Gedwongen stoppen?</string>
   <string name="forget_wifi_message">U maakt geen automatische verbinding meer met dit netwerk.</string>
   <string name="found_new_version">Nieuwe versie gevonden</string>
-  <string name="free_wifi_confirm">Weet ik</string>
+  <string name="free_wifi_agreement_remind_never">Niet opnieuw tonen</string>
+  <string name="free_wifi_confirm">OK</string>
+  <string name="free_wifi_user_agreement">Uw telefoonnummer wordt gebruikt om uw identiteit te verifiëren als u verbinding maakt met eeen WiWide netwerk.</string>
+  <string name="free_wifi_user_agreement_allow">Akkoord</string>
+  <string name="free_wifi_user_agreement_title">Algemene voorwaarden</string>
   <string name="free_wifi_connect">Verbinden</string>
   <string name="free_wifi_connect_dialog_summary">Dit gratis Wifi netwerk %1$s wordt verschaft door %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Gratis Wifi beschikbaar</string>
@@ -1055,7 +1059,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="home_app_uninstall_button">Deze app verwijderen</string>
   <string name="home_key">Thuis</string>
   <string name="home_settings">Startpagina</string>
-  <string name="ime_security_warning">Deze invoermethode verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De methode is afkomstig uit de app %1$s. Deze invoermethode inschakelen?</string>
+  <string name="ime_security_warning">%1$s verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. Deze invoermethode inschakelen?</string>
   <string name="immediately_destroy_activities">Activiteiten niet opslaan</string>
   <string name="immediately_destroy_activities_summary">Activiteit wissen zodra de gebruiker deze verlaat</string>
   <string name="ims_reg_required_off">Uitschakelen van IMS-registratie vereist</string>
@@ -1241,7 +1245,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="lte_ram_dump_on">LTE RAM-dump inschakelen</string>
   <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Hoofdproces in gebruik.</string>
-  <string name="man_add_application">Add auto-start apps</string>
+  <string name="man_add_application">Add autostart apps</string>
   <string name="manage_device_admin">Apparaatbeheerders</string>
   <string name="manage_device_admin_summary">Apparaatbeheerders weergeven of uitschakelen</string>
   <string name="manage_mobile_plan_title">Mobiel abonnement</string>
@@ -1522,7 +1526,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="onscreen_keyboard_settings_summary">Instellingen voor schermtoetsenbord</string>
   <string name="open_wifi_connect_summary">Tik om te beheren</string>
   <string name="open_wifi_connect_title">Verbind met het open netwerk %1$s</string>
-  <string name="other_relative">Overige machtigingen</string>
+  <string name="other_relative">Overige</string>
   <string name="overlay_display_devices_title">Secundaire displays simuleren</string>
   <string name="owner_info_settings_edit_text_hint">Typ tekst voor weergave op vergrendeld scherm</string>
   <string name="owner_info_settings_summary"/>
@@ -1530,11 +1534,11 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="packages_subtitle">Bijgeleverde pakketten</string>
   <string name="password_guard">Wachtwoord</string>
   <string name="percentage">%d%%</string>
-  <string name="permission_detail_info">Machtigingen details</string>
+  <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">Machtigingen: Beveiliging %1$d，Privacy %2$d，Overige %3$d</string>
   <string name="permission_manage">Beheer machtigingen</string>
   <string name="permission_manage_summary">Automatisch starten, privacy, beveiligde machtigingen management</string>
-  <string name="permission_manage_title">%s machtigingen details</string>
+  <string name="permission_manage_title">%s machtigingen</string>
   <string name="permissions_label">Machtigingen</string>
   <string name="personal_data_section_title">Persoonlijke gegevens</string>
   <string name="phone_call_noise_suppression">Onderdruk lawaai tijdens gesprekken</string>
@@ -1555,6 +1559,8 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="pointer_location_summary">Schermoverlay met huidige aanraakgegevens</string>
   <string name="pointer_settings_category">Muis/trackpad</string>
   <string name="pointer_speed">Snelheid van aanwijzer</string>
+  <string name="power_autorun_apps_empty">Leeg</string>
+  <string name="power_autorun_empty">Leeg</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobiel stand-by</string>
   <string name="power_idle">apparaat inactief</string>
@@ -1620,7 +1626,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="privacy_mode_enable_sum">"Verberg berichten, notitites, foto's en inkomende oproepen van deze gebruiker"</string>
   <string name="privacy_mode_enable_title">Gast mode</string>
   <string name="privacy_protect_title">Privacy bescherming</string>
-  <string name="privacy_relative">Privacy gerelateerd</string>
+  <string name="privacy_relative">Privacy</string>
   <string name="privacy_settings">Back-up maken en opnieuw instellen</string>
   <string name="privacy_settings_title">Back-up maken en opnieuw instellen</string>
   <string name="private_gallery_need_to_unlock">Wachtwoord benodigd:</string>
@@ -2723,7 +2729,7 @@ Raak "&lt;b&gt;Terug&lt;/b&gt; aan om verbinding te maken met een ander wifi-net
   <string name="wifi_share_login_summary">Als dit een publiekelijk netwerk is, kunt u deze delen met andere MIUI gebruikers.</string>
   <string name="wifi_share_notification_summary">MIUI heeft u verbonden met een publiekelijk Wifi netwerk.</string>
   <string name="wifi_share_other_network">Overige netwerken</string>
-  <string name="wifi_share_qrcode_finish">Gereed</string>
+  <string name="wifi_share_qrcode_finish">OK</string>
   <string name="wifi_share_qrcode_summary">Gebruik de camera om de QR code te scannen</string>
   <string name="wifi_share_qrcode_title">Deel Wifi</string>
   <string name="wifi_share_show_network">Toon netwerken</string>

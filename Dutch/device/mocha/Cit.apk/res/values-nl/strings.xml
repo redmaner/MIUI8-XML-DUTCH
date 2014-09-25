@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">When OTG device is connected, the text \"USB OTG device detected\" should be displayed below.</string>
-  <string name="cit_OTG_plugin_check_title">OTG (detection)</string>
-  <string name="cit_OTG_plugout_check_summary">When OTG device is removed, the text \"USB OTG device removed\" should be displayed below.</string>
-  <string name="cit_OTG_plugout_check_title">OTG (removal)</string>
-  <string name="cit_OTG_waiting_in">Connect USB OTG device now</string>
-  <string name="cit_OTG_waiting_out">Disconnect USB OTG device now</string>
-  <string name="cit_ac_charger_in">Charging via AC</string>
-  <string name="cit_ac_charger_out">AC charger disconnected</string>
+  <string name="cit_OTG_plugin_check_summary">Als een OTG apparaat verbonden is, zou hieronder \"USB OTG apparaat gedetecteerd\" moeten staan.</string>
+  <string name="cit_OTG_plugin_check_title">OTG (herkenning)</string>
+  <string name="cit_OTG_plugout_check_summary">Als een OTG apparaat verwijderd is, zou hieronder \"USB OTG apparaat verwijderd\" moeten staan.</string>
+  <string name="cit_OTG_plugout_check_title">OTG (verwijdering)</string>
+  <string name="cit_OTG_waiting_in">Verbind nu uw USB OTG apparaat</string>
+  <string name="cit_OTG_waiting_out">Verwijder nu uw USB OTG apparaat</string>
+  <string name="cit_ac_charger_in">Opladen via AC</string>
+  <string name="cit_ac_charger_out">AC oplader verwijderd</string>
   <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
 Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
