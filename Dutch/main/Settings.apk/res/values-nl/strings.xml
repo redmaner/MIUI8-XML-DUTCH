@@ -8,7 +8,7 @@
   <string name="ac_set_apps_title">Vergrendel apps</string>
   <string name="accelerometer_summary_off">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
   <string name="accelerometer_summary_on">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
-  <string name="accelerometer_title">Scherm autom. draaien</string>
+  <string name="accelerometer_title">Scherm automatisch draaien</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open app</string>
   <string name="access_control_need_password">"%s is beveiligd
@@ -63,7 +63,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_toggle_screen_magnification_preference_title">Schermvergroting</string>
   <string name="accessibility_toggle_speak_password_preference_title">Wachtwoorden voorlezen</string>
   <string name="account_add">Toevoegen</string>
-  <string name="account_autostar_label">Automatisch draaien</string>
+  <string name="account_autostar_label">Automatisch starten</string>
   <string name="account_list">Alle</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Synchroniseren</string>
@@ -202,7 +202,7 @@ floating schermen inschakelen?"</string>
   <string name="automatic_brightness">Automatische helderheid</string>
   <string name="available_size">%s beschikbaar</string>
   <string name="awake">Stand-bytijd apparaat</string>
-  <string name="back_key">Back</string>
+  <string name="back_key">Terug</string>
   <string name="background_data">Achtergrondgegevens</string>
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u acculading en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
@@ -245,7 +245,7 @@ floating schermen inschakelen?"</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$d m</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="battery_indicator_style">Battery indicator</string>
+  <string name="battery_indicator_style">Batterij indicatie</string>
   <string name="battery_info_awake_battery">Stand-bytijd op accu:</string>
   <string name="battery_info_awake_plugged">Stand-bytijd tijdens opladen:</string>
   <string name="battery_info_health_cold">Koud</string>
@@ -274,7 +274,7 @@ floating schermen inschakelen?"</string>
   <string name="battery_info_status_discharging">Wordt niet opgeladen</string>
   <string name="battery_info_status_full">Volledig</string>
   <string name="battery_info_status_label">Accustatus:</string>
-  <string name="battery_info_status_not_charging">Wordt niet opgeladen</string>
+  <string name="battery_info_status_not_charging">Ontladen</string>
   <string name="battery_info_status_unknown">Onbekend</string>
   <string name="battery_info_technology_label">Accutechnologie:</string>
   <string name="battery_info_temperature_label">Accutemperatuur:</string>
@@ -345,7 +345,7 @@ floating schermen inschakelen?"</string>
   <string name="bluetooth_device_context_unpair">Koppeling ongedaan maken</string>
   <string name="bluetooth_device_details">Apparaatinstellingen</string>
   <string name="bluetooth_device_name">Apparaatnaam</string>
-  <string name="bluetooth_device_searchable">Discoverable</string>
+  <string name="bluetooth_device_searchable">Zichtbaar</string>
   <string name="bluetooth_devices">Bluetooth-apparaten</string>
   <string name="bluetooth_disable_profile_message">Dit zorgt voor het uitschakelen van :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Van:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Profiel uitschakelen?</string>
@@ -558,7 +558,7 @@ floating schermen inschakelen?"</string>
   <string name="confirm_erase">Wissen</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
   <string name="connect_to_internet">Maak verbinding met het internet</string>
-  <string name="connected_wifi">Verbonden</string>
+  <string name="connected_wifi">Verbonden met</string>
   <string name="contributors_title">Bijdragers</string>
   <string name="controls_label">Bedieningselementen</string>
   <string name="controls_subtitle">Energieverbruik aanpassen</string>
@@ -697,7 +697,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="date_and_time_settings_title_setup_wizard">Datum en tijd instellen</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">24-uurs klok gebruiken</string>
-  <string name="date_time_auto">Autom. tijd en datum</string>
+  <string name="date_time_auto">Automatische tijd en datum</string>
   <string name="date_time_auto_summaryOff">Netwerktijd gebruiken</string>
   <string name="date_time_auto_summaryOn">Netwerktijd gebruiken</string>
   <string name="date_time_date_format">Datumnotatie selecteren</string>
@@ -881,7 +881,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="enable_drive_mode">Auto mode</string>
   <string name="enable_opengl_traces_title">OpenGL-sporen inschakelen</string>
   <string name="enable_service_title">%1$s gebruiken?</string>
-  <string name="enable_snapshot_screenlock">Terug lang inge houden voor de Camera</string>
+  <string name="enable_snapshot_screenlock">Terug inhouden voor de Camera</string>
   <string name="enable_terminal_summary">Terminal-app inschakelen die lokale shell-toegang biedt</string>
   <string name="enable_terminal_title">Lokale terminal</string>
   <string name="enable_text">Inschakelen</string>
@@ -917,7 +917,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="fcc_equipment_id">Apparatuur-ID</string>
   <string name="filter">Filter</string>
   <string name="filter_apps_all">Alles</string>
-  <string name="filter_apps_cached">gecached</string>
+  <string name="filter_apps_cached">in cache</string>
   <string name="filter_apps_disabled">Uitgeschakeld</string>
   <string name="filter_apps_onsdcard">USB-opslag</string>
   <string name="filter_apps_running">Wordt uitgevoerd</string>
@@ -1111,8 +1111,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="keep_screen_on">Stand-by</string>
   <string name="keep_screen_on_summary">Scherm gaat nooit uit tijdens het opladen</string>
   <string name="kernel_version">Kernel-versie</string>
-  <string name="key_settings">Buttons</string>
-  <string name="key_settings_title">Buttons</string>
+  <string name="key_settings">Toetsen</string>
+  <string name="key_settings_title">Toetsen</string>
   <string name="keyboard_layout_default_label">Standaard</string>
   <string name="keyboard_layout_dialog_setup_button">Toetsenbordindelingen instellen</string>
   <string name="keyboard_layout_dialog_switch_hint">Druk op Ctrl-spatiebalk om te schakelen</string>
@@ -1353,7 +1353,7 @@ Als u muziek, foto's en andere gebruikersgegevens wilt wissen, moet de "&lt;b&gt
   <string name="miracast_game_mode_text_on">AAN</string>
   <string name="miracast_game_mode_title">Game mode</string>
   <string name="miracast_instructions">Draadloos streamen van video en audio naar een bruikbare adapter of display, zoals uw TV.</string>
-  <string name="miracast_is_discoverable">Zichtbaar voor alle Wireless display diveses in de buurt (%1$s)</string>
+  <string name="miracast_is_discoverable">Zichtbaar voor alle Wireless display devices in de buurt (%1$s)</string>
   <string name="miracast_menu_add_sink">Handmatig een display toevoegen</string>
   <string name="miracast_menu_connect">Start streamen</string>
   <string name="miracast_menu_disconnect">Stop streamen</string>
@@ -1494,7 +1494,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="no_notification_listeners">Er zijn geen listeners voor meldingen geïnstalleerd.</string>
   <string name="no_running_services">Niets wordt uitgevoerd.</string>
   <string name="no_services">Niet actief</string>
-  <string name="no_update_found">Laatste versie reeds geïnstalleerd</string>
+  <string name="no_update_found">Laatste versie reeds geïnstalleerd </string>
   <string name="no_updates_found">"U heeft de meest recente versie van MIUI reeds geïnstalleerd."</string>
   <string name="no_updates_warning">Er zijn geen updates gevonden voor uw apparaat.</string>
   <string name="no_updates_warning2">"Relax, we laten je weten als er een update is."</string>
@@ -1816,7 +1816,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="screen_color_temperature_and_saturation">CKleur temperatuur &amp; verzadiging</string>
   <string name="screen_compatibility_label">Schermcompatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
-  <string name="screen_key_long_press">Toetsen ingedruk houden</string>
+  <string name="screen_key_long_press">Toetsen ingedrukt houden</string>
   <string name="screen_key_long_press_action">Actie starten</string>
   <string name="screen_key_long_press_timeout">Tijd instellen om ingedrukt te houden</string>
   <string name="screen_never_timeout_title">Nooit slapen</string>
@@ -1968,7 +1968,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="show_touches">Aanraakbewerkingen weergeven</string>
   <string name="show_touches_summary">Visuele feedback voor aanraakbewerkingen weergeven</string>
   <string name="show_user_info_on_lockscreen_label">Gebruikersgegevens weergeven op vergrendeld scherm</string>
-  <string name="silent_mode_title">Stille mode</string>
+  <string name="silent_mode_title">Stille modus</string>
   <string name="sim_bad_pin">Onjuiste pincode</string>
   <string name="sim_change_failed">"Kan pincode niet wijzigen.
 Pincode mogelijk onjuist."</string>
@@ -2021,8 +2021,8 @@ Pincode mogelijk onjuist."</string>
   <string name="sound_settings">Geluid</string>
   <string name="spellchecker_language">Taal</string>
   <string name="spellchecker_quick_settings">Instellingen</string>
-  <string name="spellchecker_security_warning">Deze spellingcontrole verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De service is afkomstig uit de app %1$s. Wilt u deze spellingcontrole gebruiken?</string>
-  <string name="spellcheckers_settings_title">Spellingcontrole</string>
+  <string name="spellchecker_security_warning">Deze spellinsgcontrole verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De service is afkomstig uit de app %1$s. Wilt u deze spellingscontrole gebruiken?</string>
+  <string name="spellcheckers_settings_title">Spellingscontrole</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Netwerkcontrole</string>
   <string name="ssl_ca_cert_info_message">"Dit apparaat wordt beheerd door:
@@ -2059,7 +2059,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_carrier">Toon provider</string>
   <string name="status_bar_settings_show_carrier_summary">Alleen op vergrendelscherm tonen</string>
   <string name="status_bar_settings_show_flow_info">Toon flow details</string>
-  <string name="status_bar_settings_show_network_speed">Toon connectie snelheid</string>
+  <string name="status_bar_settings_show_network_speed">Toon snelheid verbinding</string>
   <string name="status_bar_settings_show_notificationBar_notification">Toon in notificatiebalk</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon screenshot notificatie</string>
   <string name="status_bar_settings_show_statusBar_notification">Toon in keyguard</string>
