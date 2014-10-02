@@ -948,7 +948,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="force_stop_dlg_title">Gedwongen stoppen?</string>
   <string name="forget_wifi_message">U maakt geen automatische verbinding meer met dit netwerk.</string>
   <string name="found_new_version">Nieuwe versie gevonden</string>
-  <string name="free_wifi_agreement_remind_never">Niet opnieuw tonen</string>
+  <string name="free_wifi_agreement_remind_never">Niet opnieuw weergeven</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_user_agreement">Uw telefoonnummer wordt gebruikt om uw identiteit te verifiëren als u verbinding maakt met eeen WiWide netwerk.</string>
   <string name="free_wifi_user_agreement_allow">Akkoord</string>
@@ -1420,17 +1420,17 @@ Als u muziek, foto's en andere gebruikersgegevens wilt wissen, moet de "&lt;b&gt
   <string name="move_app">Verplaatsen</string>
   <string name="move_app_app_label">App</string>
   <string name="move_app_data_label">Data</string>
-  <string name="move_app_dlg_text">Dit kan enkele minuten duren. Verwijder de SD kaart niet!</string>
+  <string name="move_app_dlg_text">Dit kan enkele minuten duren. Verwijder de SD-kaart niet!</string>
   <string name="move_app_failed_dlg_text">Kan app niet verplaatsen. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_free_on_device">%1$s vrij op het apparaat</string>
-  <string name="move_app_free_on_sdcard">%1$s vrij op de SD kaart</string>
+  <string name="move_app_free_on_sdcard">%1$s vrij op de SD-kaart</string>
   <string name="move_app_progress_to_device">Verplaatsen van %1$s naar apparaat...</string>
-  <string name="move_app_progress_to_sdcard">Verplaatsen van %1$s naar SD kaart...</string>
+  <string name="move_app_progress_to_sdcard">Verplaatsen van %1$s naar SD-kaart...</string>
   <string name="move_app_to_device_dlg_title">App verplaatsen naar apparaat?</string>
   <string name="move_app_to_internal">Verplaatsen naar apparaat</string>
   <string name="move_app_to_sdcard">Verpl. naar USB-opslag</string>
-  <string name="move_app_to_sdcard_dlg_title">App verplaatsen naar SD kaart?</string>
+  <string name="move_app_to_sdcard_dlg_title">App verplaatsen naar SD-kaart?</string>
   <string name="moving">Verplaatsen</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">Voor Macs, download de driver en klik op AndroidFileTransfer.dmg om te installeren</string>
@@ -1620,7 +1620,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="print_settings">Afdrukken</string>
   <string name="print_settings_title">Afdrukservices</string>
   <string name="priority_storage_app_settings">Gebruikersdata wordt op %1$s opgeslagen</string>
-  <string name="priority_storage_settings_summary">"Als er geen SD kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag."</string>
+  <string name="priority_storage_settings_summary">"Als er geen SD-kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag."</string>
   <string name="priority_storage_summary">Kies standaard locatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslag instellingen</string>
   <string name="privacy_mode_enable_sum">"Verberg berichten, notitites, foto's en inkomende oproepen van deze gebruiker"</string>
@@ -2057,7 +2057,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_no_carrier">Geen</string>
   <string name="status_bar_settings_notification_bar">Notificatiebalk</string>
   <string name="status_bar_settings_show_carrier">Toon provider</string>
-  <string name="status_bar_settings_show_carrier_summary">Alleen op vergrendelscherm tonen</string>
+  <string name="status_bar_settings_show_carrier_summary">Alleen op vergrendelscherm weergeven</string>
   <string name="status_bar_settings_show_flow_info">Toon flow details</string>
   <string name="status_bar_settings_show_network_speed">Toon snelheid verbinding</string>
   <string name="status_bar_settings_show_notificationBar_notification">Toon in notificatiebalk</string>
@@ -2782,7 +2782,7 @@ Het instellen van de apparaat kan aanzienlijke netwerkactiviteit vereisen."</str
   <string name="wifi_wapi_cert_delet_subdir">Kies een suit certificaat</string>
   <string name="wifi_wapi_cert_install">Installeer WAPI Certificaat</string>
   <string name="wifi_wapi_cert_install_button">Installeren</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD kaart heeft geen AS certificaat.</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD-kaart heeft geen AS certificaat.</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS certificaat formaat is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Geef AS certificaat naam</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Map aanmaken is gefaald.</string>
