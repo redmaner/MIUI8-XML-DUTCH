@@ -86,8 +86,8 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="advanced_settings_summary">Meer opties voor instellingen inschakelen</string>
   <string name="airplane_mode">Vliegmodus</string>
   <string name="alarm_volume_title">Alarm</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de screensaver kost extra batterij.</string>
-  <string name="alert_show_screensaver_when_not_charging_title">Batterij gebruikt</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de screensaver kost extra accu.</string>
+  <string name="alert_show_screensaver_when_not_charging_title">Accu gebruikt</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Toestaan</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nadat u de widget heeft gemaakt, heeft %1$s toegang tot alle gegevens die de widget weergeeft.</string>
@@ -245,7 +245,7 @@ floating schermen inschakelen?"</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$d m</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="battery_indicator_style">Batterij indicatie</string>
+  <string name="battery_indicator_style">Accu indicatie</string>
   <string name="battery_info_awake_battery">Stand-bytijd op accu:</string>
   <string name="battery_info_awake_plugged">Stand-bytijd tijdens opladen:</string>
   <string name="battery_info_health_cold">Koud</string>
@@ -483,7 +483,7 @@ floating schermen inschakelen?"</string>
   <string name="camera_key_action_none_title">Geen actie</string>
   <string name="camera_key_action_setting_title">MI Knop</string>
   <string name="camera_key_action_shortcut_call">Bellen</string>
-  <string name="camera_key_action_shortcut_home">Home screen</string>
+  <string name="camera_key_action_shortcut_home">Homescherm</string>
   <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="camera_key_action_shortcut_search">Zoeken</string>
   <string name="camera_key_action_shortcut_title">Snelkoppeling</string>
@@ -1176,7 +1176,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
   <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_unlock_show">veeg scherm uitschakelen</string>
-  <string name="lock_screen_unlock_show_summary">Ga direct naar het home screen of wachtwoord na het ontwaken</string>
+  <string name="lock_screen_unlock_show_summary">Ga direct naar het home scherm of wachtwoord na het ontwaken</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
   <string name="lock_settings_picker_title">Schermvergr. kiezen</string>
@@ -1519,7 +1519,7 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
   <string name="oldman_mode_settings_caption">Lite mode instellingen</string>
-  <string name="oldman_mode_summary">"Gebruik het gemakkelijke Home screen en menu's"</string>
+  <string name="oldman_mode_summary">"Gebruik het gemakkelijke Home scherm en menu's"</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Startpagina-instellingen worden verborgen totdat u een andere startpagina-app installeert.</string>
   <string name="only_when_charging">Alleen tijdens opladen</string>
@@ -1564,12 +1564,12 @@ zal %1$s verschijnen als een USB massa opslag apparaat."</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobiel stand-by</string>
   <string name="power_idle">apparaat inactief</string>
-  <string name="power_mode">Power isntellingen</string>
-  <string name="power_mode_balanced_title">Kies gebalanceerde Power</string>
+  <string name="power_mode">Energie instellingen</string>
+  <string name="power_mode_balanced_title">Kies gebalanceerde energie</string>
   <string name="power_phone">Spraakoproepen</string>
   <string name="power_screen">Scherm</string>
   <string name="power_settings_title">Systeem prestaties</string>
-  <string name="power_usage_history">Batterij gebruik</string>
+  <string name="power_usage_history">accu gebruik</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">Accugebruikgegevens niet beschikbaar.</string>
   <string name="power_usage_summary">Waarvoor de accu is gebruikt</string>
@@ -1869,7 +1869,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="search_access_control">Toegang beheer</string>
   <string name="search_airplane">Vliegtuig</string>
   <string name="search_android_beam">beam</string>
-  <string name="search_battery_indicator">batterij indicatie</string>
+  <string name="search_battery_indicator">accu indicatie</string>
   <string name="search_bluetooth">bluetooth</string>
   <string name="search_brightness">helderheid</string>
   <string name="search_date_time">datum tijd</string>
@@ -2230,7 +2230,7 @@ Een benadering van Google voor de synchronisatie van gegevens, zodat u altijd en
   <string name="turn_off_radio">Radio uitschakelen</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
   <string name="turn_on_radio">Radio inschakelen</string>
-  <string name="under_keyguard">Lock screen</string>
+  <string name="under_keyguard">Lock scherm</string>
   <string name="uninstall_all_users_text">Verwijderen voor alle gebruikers</string>
   <string name="uninstall_text">Verwijderen</string>
   <string name="unknown">Onbekend</string>
@@ -2243,7 +2243,7 @@ Een benadering van Google voor de synchronisatie van gegevens, zodat u altijd en
   <string name="unlock_disable_lock_pin_summary">PIN-code voor ontgrendelen verwijderen</string>
   <string name="unlock_disable_lock_title">Schermvergrendeling uitschakelen</string>
   <string name="unlock_set_enter_system">Sla schermvergrendeling over</string>
-  <string name="unlock_set_enter_system_summary">Ga direct naar het Home screen na het ontwaken</string>
+  <string name="unlock_set_enter_system_summary">Ga direct naar het Home scherm na het ontwaken</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Lage beveiliging, experimenteel</string>
   <string name="unlock_set_unlock_biometric_weak_title">Ontgrendelen via gezichtsherkenning</string>
   <string name="unlock_set_unlock_disabled_summary">Uitgeschakeld door beheerder, encryptiebeleid of referentieopslag</string>
@@ -2292,7 +2292,7 @@ Een benadering van Google voor de synchronisatie van gegevens, zodat u altijd en
   <string name="usage_type_wake_lock">Ingeschakeld houden</string>
   <string name="usage_type_wifi_running">Wifi actief</string>
   <string name="usb_connection_category">Verbinding maken als</string>
-  <string name="usb_host_mode_subtext">Door het gebruik van game controllers en andere randapparatuur kan de batterijduur verkort worden.</string>
+  <string name="usb_host_mode_subtext">Door het gebruik van game controllers en andere randapparatuur kan de accuduur verkort worden.</string>
   <string name="usb_host_mode_text">Schakel USB host mode in</string>
   <string name="usb_label_installer_cd">Tools voor overdracht installeren</string>
   <string name="usb_msd_driver_installer_summary">Vind drivers voor Windows en OSX</string>
@@ -2490,7 +2490,7 @@ Elke gebruiker kan namens alle andere gebruikers bijgewerkte app-machtigingen ac
   <string name="vpn_username">Gebruikersnaam</string>
   <string name="wait_for_debugger">Wachten op debugger</string>
   <string name="wait_for_debugger_summary">Gedebugde app wacht op koppelen van debugger vóór uitvoering</string>
-  <string name="wallpaper_desktop">Home screen</string>
+  <string name="wallpaper_desktop">Homescherm</string>
   <string name="wallpaper_live">Live wallpaper</string>
   <string name="wallpaper_lockscreen">Vergrendscherm</string>
   <string name="wallpaper_settings_fragment_title">Achtergrond kiezen van</string>
