@@ -112,22 +112,22 @@
   <string name="cloudfolder_loading_data">(Laden…)</string>
   <string name="cloudfolder_name_cannot_empty">Geef de map een naam</string>
   <string name="cloudfolder_name_reserved">Deze map naam is voorbehouden</string>
-  <string name="comfirm_delete_current_album">Verwijder dit album?</string>
+  <string name="comfirm_delete_current_album">Dit album verwijderen?</string>
   <string name="comma">, </string>
   <string name="confirm">Bevestigen</string>
-  <string name="confirm_delete">"Verwijder %s foto's?"</string>
-  <string name="confirm_delete_album" formatted="false">Verwijder %s albums (%s items totaal)?</string>
-  <string name="confirm_delete_has_cloud_image_video">Verwijder %s item(s) in &lt;b&gt;cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Verwijder %s item(s) in &lt;b&gt;local and cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_local_image_video">Verwijder %s item(s)?</string>
-  <string name="confirm_delete_home_merge_item">Verwijder %s foto(s) lokaal en in de cloud?</string>
+  <string name="confirm_delete">"%s foto's verwijderen?"</string>
+  <string name="confirm_delete_album" formatted="false">%s albums verwijderen (%s items totaal)?</string>
+  <string name="confirm_delete_has_cloud_image_video">%s item(s) verwijderen in &lt;b&gt;de cloud&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">%s item(s)lokaal verwijderen en in &lt;b&gt;de cloud&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_local_image_video">%s item(s) verwijderen?</string>
+  <string name="confirm_delete_home_merge_item">%s foto(s) lokaal verwijderen en in de cloud?</string>
   <string name="confirm_delete_init_message">~De foto wordt verwijderd van dit apparaat en van uw Mi Cloud. Als u haar alleen lokaal wilt verwijderen, werkt u dan lokaal.</string>
   <string name="confirm_delete_init_title">Hint</string>
-  <string name="confirm_delete_pictures">Verwijder %s afbeeldingen?</string>
+  <string name="confirm_delete_pictures">%s afbeeldingen verwijderen?</string>
   <string name="confirm_delete_system_album">%s is een systeem album.</string>
-  <string name="confirm_delete_this_picture">Verwijder deze foto?</string>
-  <string name="confirm_delete_this_video">Verwijder deze video?</string>
-  <string name="confirm_delete_videos">Verwijder %s videos?</string>
+  <string name="confirm_delete_this_picture">Deze foto verwijderen?</string>
+  <string name="confirm_delete_this_video">Deze video verwijderen?</string>
+  <string name="confirm_delete_videos">"%s video's verwijderen?"</string>
   <string name="confirm_download">"U moet %s downloaden. Deze tip wordt niet opnieuw weergegeven."</string>
   <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten wanneer er Wifi verbinding is.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -139,7 +139,7 @@
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="create_new_cloud_folder">Nieuwe map</string>
   <string name="crop">Bijsnijden</string>
-  <string name="crop_fail_to_load_image">foto inladen gefaald</string>
+  <string name="crop_fail_to_load_image">foto inladen mislukt</string>
   <string name="crop_label">Foto bijsnijden</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_recognize_text">Herkennen</string>
@@ -154,10 +154,10 @@
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Mobiel</string>
   <string name="delete">Verwijderen</string>
-  <string name="delete_file">Verwijder %1$d bestanden?</string>
-  <string name="delete_files_and_folders">Verwijder %1$d bestanden en %2$d mappen?</string>
-  <string name="delete_folder">Verwijder %1$d mappen?</string>
-  <string name="delete_smb_file_fail">Verwijderen van smb bestand gefaald</string>
+  <string name="delete_file">%1$d bestanden verwijderen?</string>
+  <string name="delete_files_and_folders">%1$d bestanden en %2$d mappen verwijderen?</string>
+  <string name="delete_folder">%1$d mappen verwijderen?</string>
+  <string name="delete_smb_file_fail">Verwijderen van smb bestand mislukt</string>
   <string name="deleting_files">Bestanden verwijderen…</string>
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Weigeren</string>
@@ -201,7 +201,7 @@
   <string name="error_unknown_host">Er is geen netwerk gedetecteerd</string>
   <string name="exit">Sluiten</string>
   <string name="exit_share">Verlaat album</string>
-  <string name="exit_share_failed">Verlaten gefaald %1$s</string>
+  <string name="exit_share_failed">Verlaten mislukt %1$s</string>
   <string name="exit_share_in_process">Verlaten…</string>
   <string name="exit_share_successfully">%1$s verlaten</string>
   <string name="exposure_time">Belichtingstijd</string>
@@ -211,8 +211,8 @@
   <string name="facelift">Face Glow</string>
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Handeling mislukt</string>
-  <string name="fail_init_gallery_db_helper">Galerij in database laden is gefaald</string>
-  <string name="fail_to_download_n_items">download van %s gefaald</string>
+  <string name="fail_init_gallery_db_helper">Galerij in database laden is mislukt</string>
+  <string name="fail_to_download_n_items">Download van %s mislukt</string>
   <string name="fail_to_pick_email">E-mail ongeldig</string>
   <string name="fail_to_sync_album">Synchronisate mislukt. Controleer uw netwerk verbinding.</string>
   <string name="file_not_exist_message">"Bestand bestaat niet"</string>
@@ -283,9 +283,9 @@
   <string name="item_not_sync_for_origin_video">"Kan deze video niet downloaden, omdat het niet is gesynchroniseerd met uw cloud."</string>
   <string name="item_not_sync_for_refocus_data">"Kan niet de herfocussering data van deze foto downloaden, omdat het niet is gesynchroniseerd met uw cloud."</string>
   <string name="kick_owner_user_positive_button_text">Verwijderen</string>
-  <string name="kick_owner_user_title">Verwijder dit lid?</string>
+  <string name="kick_owner_user_title">Dit lid verwijderen?</string>
   <string name="kick_sharer">Verwijder gedeelde gebruiker</string>
-  <string name="kick_sharer_failed">Verwijderen van gebruiker gefaald</string>
+  <string name="kick_sharer_failed">Verwijderen van gebruiker mislukt</string>
   <string name="kick_sharer_successfully">Gebruiker verwijderd</string>
   <string name="loading">Laden...</string>
   <string name="loading_failure">Foto kan niet worden geladen</string>
@@ -300,7 +300,7 @@
   <string name="locations">Locaties</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Blijf drukken om de focus bij te stellen</string>
-  <string name="make_download_dir_fail">Map aanmaken voor opslag van de bestand gefaald</string>
+  <string name="make_download_dir_fail">Map aanmaken voor opslag van de bestand mislukt</string>
   <string name="maker">Maker</string>
   <string name="manual">Handmatig</string>
   <string name="me">ik</string>
@@ -377,7 +377,7 @@
   <string name="photo_page_always_rotate">Auto-rotatie afbeeldingen</string>
   <string name="photo_page_detail_show_in_the_map">Toon de locatie in de kaart</string>
   <string name="photo_page_save_image">Opslaan</string>
-  <string name="photo_page_save_uri_image_fail">Opslaan foto gefaald.</string>
+  <string name="photo_page_save_uri_image_fail">Opslaan foto mislukt.</string>
   <string name="photo_page_save_uri_image_ok">"Foto opgeslagen in camera foto's."</string>
   <string name="photo_paint_adjust">aanpassen</string>
   <string name="photo_paint_effect">effect</string>
@@ -411,7 +411,7 @@
   <string name="redeye_tooltip">Tik om rode ogen te verwijderen</string>
   <string name="refocus_data_downloading">Heroriëntatie downloaden…</string>
   <string name="remove_hidden_album">Toon album</string>
-  <string name="remove_recent_album">verwijdere uit favorieten</string>
+  <string name="remove_recent_album">verwijderen uit favorieten</string>
   <string name="rename_failed">Hernoemen mislukte</string>
   <string name="rename_failed_duplicated_name">Een bestand met deze naam bestaat reeds.</string>
   <string name="renren_image">RenRen</string>
@@ -434,7 +434,7 @@
   <string name="scan_barcode_guide">Om een QR code van het album te krijgen, tik op het deel-icoon rechtsbovenin.</string>
   <string name="scan_barcode_to_join">Scan QR code om een album te bezoeken</string>
   <string name="scan_qr_code_buttom_text">Scan QR code om dit album te bekijken.</string>
-  <string name="scan_qr_code_failure">Scan gefaald</string>
+  <string name="scan_qr_code_failure">Scan mislukt</string>
   <string name="screensaver_activate_mode">Screensaver tijdens slaap</string>
   <string name="screensaver_activate_only_charging">Alleen tijdens opladen</string>
   <string name="screensaver_category">Screensaver</string>
@@ -509,7 +509,7 @@
   <string name="sync_album">Sync albums</string>
   <string name="sync_album_error">"Kan de foto's in dit album niet downloaden. Probeer het later opnieuw."</string>
   <string name="sync_album_in_proecess">Album synchoniseren met server…</string>
-  <string name="sync_album_set_error">Het downloaden van de lijst van de albums is gefaald. Probeert u het later opnieuw.</string>
+  <string name="sync_album_set_error">Het downloaden van de lijst van de albums is mislukt. Probeert u het later opnieuw.</string>
   <string name="sync_album_summary">"Upload foto's naar uw cloud"</string>
   <string name="sync_history_power_on">Afbeelding historie alleen synchroniseren tijdens het opladen.</string>
   <string name="sync_in_progress_message">Synchronisatie is bezig...</string>
@@ -544,7 +544,7 @@
   <string name="ubifocus_refocus_map_error">"Kan niet herfocussen, omdat sommige gegevens van deze afbeelding fouten bevatten"</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
-  <string name="unpublish_failed">Publiceren ongedaan maken gefaald</string>
+  <string name="unpublish_failed">Publiceren ongedaan maken mislukt</string>
   <string name="unpublish_succeeded">Publicatie album ongedaan gemaakt</string>
   <string name="unpublishing">Annuleren…</string>
   <string name="untagged">Geen tags</string>
