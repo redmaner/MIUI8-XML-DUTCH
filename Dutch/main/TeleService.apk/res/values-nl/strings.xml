@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add">Toevoegen</string>
   <string name="addSimEntries">Sim contactpersoon toevoegen</string>
@@ -11,7 +11,7 @@
   <string name="administrative_disable">Beheer uitgeschakeld</string>
   <string name="administrative_enable">Beheer ingeschakeld</string>
   <string name="advanced_settings">Optionele instellingen</string>
-  <string name="advanced_settings_container">advanced settings container</string>
+  <string name="advanced_settings_container">geavanceerde instellings houder</string>
   <string name="advanced_settings_hide">▽ Aanraken om alles te verbergen</string>
   <string name="advanced_settings_show">▷ Aanraken om alles weer te geven</string>
   <string name="advertisements_disable">Advertenties uitgeschakeld</string>
@@ -49,7 +49,7 @@
   <string name="auto_answer_scenario_enteries_headset_bluetooth">Alleen via koptelefoon of Bluetooth</string>
   <string name="auto_answer_scenario_enteries_headset_only">Alleen koptelefoon</string>
   <string name="auto_answer_scenario_title">Voorwaarden voor automatisch antwoord</string>
-  <string name="auto_answer_setting_title">Instellingen voor atuomatisch antwoord</string>
+  <string name="auto_answer_setting_title">Instellingen voor automatisch antwoord</string>
   <string name="auto_answer_summary_delay">" (vertraging: %s seconds)"</string>
   <string name="auto_answer_summary_not_enabled">Uitgeschakeld</string>
   <string name="auto_record_yellowpage">Map</string>
@@ -156,9 +156,9 @@
   <string name="cdma_system_select_dialogtitle">Systeem selecteren</string>
   <string name="cdma_system_select_summary">De CDMA-roamingmodus wijzigen</string>
   <string name="cdma_system_select_title">Systeem selecteren</string>
-  <string name="cell_bc_sms_disable">Infodienstbericht uitgeschakeld</string>
-  <string name="cell_bc_sms_enable">SMS Infodienstbericht ingeschakeld</string>
-  <string name="cell_broadcast_sms">Infodienstbericht</string>
+  <string name="cell_bc_sms_disable">Info dienstbericht uitgeschakeld</string>
+  <string name="cell_bc_sms_enable">SMS Info dienstbericht ingeschakeld</string>
+  <string name="cell_broadcast_sms">Info dienstbericht</string>
   <string name="cfb_title">Doorschakelen bij in gesprek</string>
   <string name="cfnrc_title">Doorschakelen bij onbereikbaar</string>
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
@@ -237,7 +237,7 @@
   <string name="disable_fdn_ok">FDN inschakelen</string>
   <string name="disable_pin_ok">Pincode voor simkaart uitgeschakeld.</string>
   <string name="disable_sim_pin">SIM PIN-code uitschakelen</string>
-  <string name="display_name">DisplayName</string>
+  <string name="display_name">Weergavenaam</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Weergavenaam</string>
   <string name="domain_address">SipDomain</string>
@@ -304,8 +304,8 @@
   <string name="exportAllcontatsFailed">Het exporteren van alle contacten naar de SIM is gefaald</string>
   <string name="exportAllcontatsNoContacts">Er zijn geen contacten gevonden om naar de SIM te exporteren</string>
   <string name="exportAllcontatsSuccess">Alle contacten zijn succesvol naar de SIM geëxporteerd</string>
-  <string name="exportContactScreen">Export contacten naarde SIM kaart</string>
-  <string name="exportContacts">Bezig met contacten te exporteren naar de SIM kaart…</string>
+  <string name="exportContactScreen">Export contacten naar SIM kaart</string>
+  <string name="exportContacts">Bezig met contacten te exporteren naar SIM kaart…</string>
   <string name="fake_phone_activity_infoText_text">Inkomend telefoonnummer</string>
   <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
   <string name="fake_phone_activity_placeCall_text">Veins inkomende oproep</string>
@@ -316,7 +316,7 @@
   <string name="fdn_contact_added">Vast nummer toegevoegd.</string>
   <string name="fdn_contact_deleted">Vast nummer verwijderd.</string>
   <string name="fdn_contact_updated">Vast nummer bijgewerkt.</string>
-  <string name="fdn_contacts_empty">No contacts in FDN list.</string>
+  <string name="fdn_contacts_empty">Geen contacten in FDN list.</string>
   <string name="fdn_disabled">Vaste nummers zijn uitgeschakeld</string>
   <string name="fdn_enable_puk2_requested">Wachtwoord onjuist. PIN2-code geblokkeerd. Wijzig de PIN2-code en probeer het opnieuw.</string>
   <string name="fdn_enabled">Vaste nummers zijn ingeschakeld</string>
@@ -343,7 +343,7 @@
   <string name="ims_accounts_title">IMS Account</string>
   <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
   <string name="ims_edit_title">IMS account details</string>
-  <string name="ims_menu_discard">Weggooien</string>
+  <string name="ims_menu_discard">verwerpen</string>
   <string name="ims_menu_save">Opslaan</string>
   <string name="ims_service_capability">Enable/Disable Service Capability</string>
   <string name="ims_service_capability_title">In/Uitschakelen van IMS service capability</string>
@@ -392,8 +392,8 @@
   <string name="lable_all_incoming">Alle binnenkomende oproepen</string>
   <string name="lable_all_out_except">Internationale uitgaande gesprekken behalve naar thuis PLMN</string>
   <string name="lable_all_outgoing">Alle uitgaande oproepen</string>
-  <string name="lable_all_outgoing_international">International outgoing calls</string>
-  <string name="lable_call_barring">Oproepen afbuigen</string>
+  <string name="lable_all_outgoing_international">Internationale uitgaande gesprekken</string>
+  <string name="lable_call_barring">Oproepen verwerpen</string>
   <string name="lable_disable">Uitgeschakeld</string>
   <string name="lable_enable">Ingeschakeld</string>
   <string name="lable_incoming_calls_except">Binnenkomende oproepen tijdens roaming</string>
@@ -438,7 +438,7 @@
   <string name="missed_call_notify_times_title">Herinnering aan gemiste oproep</string>
   <string name="missed_call_notify_twice">2 keer</string>
   <string name="mmiStarted">MMI-code gestart</string>
-  <string name="mo_call_type_title">MO Call Type</string>
+  <string name="mo_call_type_title">MO Bel type</string>
   <string name="mobile_networks">Instellingen mobiel netwerk</string>
   <string name="msim_apn_not_set">Niet ingesteld</string>
   <string name="msim_default_setting">Standaard instellingen</string>
@@ -587,7 +587,7 @@ Probeer het opnieuw of bel de klantenservice voor meer opties."</string>
   <string name="preference_category_ringtone">Beltoon en trillen</string>
   <string name="preference_dial_pad_touch_tone_default">Standaard</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano toetsen</string>
-  <string name="preference_dial_pad_touch_tone_title">kiezertoetsen geluiden</string>
+  <string name="preference_dial_pad_touch_tone_title">Kiezertoetsen geluiden</string>
   <string name="preference_telocation_summary_countrycode_off">"Niet automatisch de landcode gebruiken"</string>
   <string name="preference_telocation_summary_countrycode_on">Automatisch de landcode gebruiken</string>
   <string name="preference_telocation_summary_teloc_off">Verberg de locatie van uw contact</string>
@@ -784,9 +784,9 @@ Probeer het opnieuw of bel de klantenservice voor meer opties."</string>
   <string name="technology_news_disable">Technologienieuws uitgeschakeld</string>
   <string name="technology_news_enable">Technologienieuws ingeschakeld</string>
   <string name="telephony_setting">Telefoon instellingen</string>
-  <string name="telocation_auto_country_code">Landcodeo toevoegen</string>
+  <string name="telocation_auto_country_code">Landcode toevoegen</string>
   <string name="telocation_auto_country_code_summary">Landcode automatisch toevoegen voor het kiezen van contacten</string>
-  <string name="telocation_call_assistant">telefoneer assistent</string>
+  <string name="telocation_call_assistant">Telefoneer assistent</string>
   <string name="telocation_confim_delete_title">Verwijder dit bericht?</string>
   <string name="telocation_contacts_countrycode">Standaard landcode</string>
   <string name="telocation_contacts_countrycode_hint">Voer landcode in</string>
@@ -797,10 +797,10 @@ Probeer het opnieuw of bel de klantenservice voor meer opties."</string>
   <string name="telocation_countrycode_alert_title">Let op</string>
   <string name="telocation_custom_empty">Voeg een nummer toe door het aanraken van het plusteken (+)-knop</string>
   <string name="telocation_custom_location_summary">Beheer bewaarde netnummers en groepsnummers</string>
-  <string name="telocation_custom_location_title">mijn locaties</string>
+  <string name="telocation_custom_location_title">Mijn locaties</string>
   <string name="telocation_custom_name_hint">Naam</string>
   <string name="telocation_custom_number_hint">Netnummer of groepsnummer</string>
-  <string name="telocation_edit_custom_location_title">configureer locatie</string>
+  <string name="telocation_edit_custom_location_title">Configureer locatie</string>
   <string name="telocation_enable_title">Toon locatie</string>
   <string name="telocation_error_message_number">%s ondersteund alleen nummers</string>
   <string name="telocation_jituan_error_message_number">%s ondersteund alleen nummers en wildcards</string>
@@ -851,9 +851,9 @@ Probeer het opnieuw of bel de klantenservice voor meer opties."</string>
   <string name="voicemail_notification_vibrate_when_title">Trillen</string>
   <string name="voicemail_number_not_set">&lt;Niet ingesteld&gt;</string>
   <string name="voicemail_provider">Service</string>
-  <string name="voicemail_provider_summary">Choose voicemail service</string>
+  <string name="voicemail_provider_summary">Kies voicemail service</string>
   <string name="voicemail_settings">Instelling</string>
-  <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
+  <string name="voicemail_settings_number_hint">Voer voicemailnummer in</string>
   <string name="voicemail_settings_number_label">Voicemailnummer</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
   <string name="wrong_password">Foutief wachtwoord</string>
