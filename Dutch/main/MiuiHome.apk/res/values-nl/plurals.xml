@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="editing_mode_title">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-        <item quantity="two">%1$d selected</item>
-        <item quantity="few">%1$d selected</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="zero">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+        <item quantity="two">%1$d geselecteerd</item>
+        <item quantity="few">%1$d geselecteerd</item>
+        <item quantity="many">%1$d geselecteerd</item>
     </plurals>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Uninstall %1$s and %2$d other apps?</item>
-        <item quantity="one">Uninstall %s</item>
+        <item quantity="other">Vewijderen van %1$s and %2$d andere apps?</item>
+        <item quantity="one">Verwijdering ongedaan maken %s</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$d apps uninstalled</item>
-        <item quantity="zero">%1$d apps uninstalled</item>
-        <item quantity="one">App uninstalled</item>
-        <item quantity="two">%1$d apps uninstalled</item>
-        <item quantity="many">%1$d apps uninstalled</item>
+        <item quantity="other">%1$d apps verwijderd</item>
+        <item quantity="zero">%1$d apps verwijderd</item>
+        <item quantity="one">App verwijderd</item>
+        <item quantity="two">%1$d apps verwijderd</item>
+        <item quantity="many">%1$d apps verwijderd</item>
     </plurals>
     <plurals name="uninstall_result_failed">
-        <item quantity="other">"Can't uninstall %1$s and %2$d other apps"</item>
-        <item quantity="one">"Can't uninstall %s"</item>
-        <item quantity="two">"Can't uninstall %s and 1 other app"</item>
+        <item quantity="other">"Kon %1$s en %2$d andere apps niet verwijdere"</item>
+        <item quantity="one">"Kon %s niet verwijderen"</item>
+        <item quantity="two">"Kon %s en 1 andere app niet verwijderen "</item>
     </plurals>
 </resources>
