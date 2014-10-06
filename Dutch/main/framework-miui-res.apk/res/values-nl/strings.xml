@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate">Activate</string>
-  <string name="activate_fail_notification_title">Reactivate sync</string>
-  <string name="activating">Activating…</string>
+  <string name="activate">Activeer</string>
+  <string name="activate_fail_notification_title">Heractiveer Xiaomi Sync service</string>
+  <string name="activating">Activeren…</string>
   <string name="alwaysUsePrompt">Deze keuze onthouden</string>
-  <string name="android_lockscreen_glogin_instructions">To unlock, sign in to your Mi Account</string>
+  <string name="android_lockscreen_glogin_instructions">Login met uw MI Account om te openen</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
-  <string name="app_no_notification">Leeg</string>
-  <string name="app_notificaiton_on_notificationBar">Notificatiescherm</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Vergrendelscherm, Notificatiescherm</string>
+  <string name="app_no_notification">geen notificatie</string>
+  <string name="app_notificaiton_on_notificationBar">Notificatiebalk</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">>Status- en notificatiebalk</string>
   <string name="arbor_day"/>
-  <string name="armed_forces_day"/>
-  <string name="autumn_begins"/>
-  <string name="autumn_equinox"/>
-  <string name="callNoAnswerTimeFormat">Ging %s keer over</string>
+  <string name="armed_forces_day"/>Strijdmachten dag</string>
+  <string name="autumn_begins"/>Herfst Begint</string>
+  <string name="autumn_equinox"/>Herfst Equinox</string>
+  <string name="callNoAnswerTimeFormat">Ring %s keer over</string>
   <string name="call_record_or">" of "</string>
-  <string name="call_record_sample_prefix_miui">Bellen</string>
+  <string name="call_record_sample_prefix_miui">Oproep</string>
   <string name="caller_info_name_delimiter">Of</string>
-  <string name="check_phone_error_title">"Sync is niet geactiveerd"</string>
+  <string name="check_phone_error_title">"Synchronisatie mislukt"</string>
   <string name="check_phone_io_error">Netwerk fout</string>
-  <string name="childrens_day"/>
-  <string name="chinese_youth_day"/>
-  <string name="christmas_day"/>
+  <string name="childrens_day"/>Kinder dag</string>
+  <string name="chinese_youth_day"/>Chinese jeugd dag</string>
+  <string name="christmas_day"/>Kestmis</string>
   <string name="clear_and_bright"/>
   <string name="cold_dews"/>
-  <string name="day_following_good_friday"/>
-  <string name="day_of_month">" %d"</string>
+  <string name="day_following_good_friday"/>dag na goede vrijdag</string>
+  <string name="day_of_month">" %d"</string>Dag van de maand</string>
   <string name="days">%d dagen</string>
   <string name="delete">Verwijderen</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
@@ -40,18 +40,17 @@
   <string name="error_title">"Kon niet synchroniseren"</string>
   <string name="error_unauthorized">Sync is uigezet door het te vaak inloggen..</string>
   <string name="every_day">Elke dag</string>
-  <string name="experimental_validate">Valideer</string>
-  <string name="experimental_validate_fail">"Kon niet inloggen"</string>
+  <string name="experimental_validate">Bevestig</string>
+  <string name="experimental_validate_fail">"Bevestiging mislukt, probeer het opnieuw"</string>
   <string name="experimental_validate_password">Wachtwoord</string>
-  <string name="experimental_validate_progress">Inloggen…</string>
+  <string name="experimental_validate_progress">Bevestigen…</string>
   <string name="experimental_validate_thanks">Bedankt!</string>
-  <string name="experimental_validate_username">Gebruikersnaam</string>
+  <string name="experimental_validate_username">Xiaomi ID</string>
   <string name="experimental_validate_warning">Bedankt voor het helpen om MIUI beter te maken</string>
   <string name="find_device_check_sim">SIM controleren…</string>
   <string name="find_device_sim_change_instructions">"Je toestel is vergrendeld.
 Plaats simkaart of voer je Mi wachtwoord in."</string>
-  <string name="find_device_sim_change_instructions_no_network">"Je toestel is vergrendeld.
-Plaats nu een simkaart."</string>
+  <string name="find_device_sim_change_instructions_no_network">"Je toestel is vergrendeld.Plaats nu een simkaart."</string>
   <string name="find_device_turn_off_flight_mode">Zet vliegtuigmodus uit</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Je toestel is vergrendeld.
 Zet alsjeblieft vliegtuigmodus uit."</string>
@@ -142,7 +141,7 @@ Om deze functie in te schakelen, ga naar Instellingen &gt; Systeem &gt; Knoppen"
   <string name="never">Nooit</string>
   <string name="new_years_day"/>
   <string name="no_sim">Geen simkaart gedetecteerd</string>
-  <string name="open_wifi_settings">Open WLAN netwerk</string>
+  <string name="open_wifi_settings">Open WI-FI netwerk</string>
   <string name="partys_day"/>
   <string name="payphone">Payphone</string>
   <string name="peace_day"/>
@@ -156,7 +155,7 @@ Om deze functie in te schakelen, ga naar Instellingen &gt; Systeem &gt; Knoppen"
   <string name="perm_tigger_toggle_dspt">Apps toestaan om schakelaars in de statusbar te schakelen</string>
   <string name="perm_tigger_toggle_lab">Schakel schakelaars van statusbar</string>
   <string name="perm_use_find_device">Vind toestel</string>
-  <string name="permdesc_accessNote">Malicious apps can use this to access your personal info.</string>
+  <string name="permdesc_accessNote">Verdachte app heeft mogelijk toegaan tot je persoonlijk gegevens.</string>
   <string name="permlab_accessNote">Krijg toegang tot je notities</string>
   <string name="private_num">Privé nummer</string>
   <string name="provider_114">Powered by 114</string>
@@ -214,7 +213,7 @@ Om deze functie in te schakelen, ga naar Instellingen &gt; Systeem &gt; Knoppen"
   <string name="sync_data_recover_warning_cancel">Annuleren</string>
   <string name="sync_data_recover_warning_desc">"De gebruikersdata die je op het punt staat te herstellen van  Mi Cloud (e.g. %s) wordt gesynchroniseerd met dit toestel."</string>
   <string name="sync_data_recover_warning_ok">OK</string>
-  <string name="sync_data_recover_warning_title">Data recovery warning</string>
+  <string name="sync_data_recover_warning_title">Waarschuwing gegevens herstel</string>
   <string name="sync_one_time_sync">Tik om the synchroniseren（ %1$s ).</string>
   <string name="teachers_day"/>
   <string name="text_copied">Tekst gekopiëerd</string>
@@ -246,12 +245,12 @@ Om deze functie in te schakelen, ga naar Instellingen &gt; Systeem &gt; Knoppen"
   <string name="v5_date_picker_label_year"/>
   <string name="v5_date_time_picker_dialog_title">Stel herinneringstijd in</string>
   <string name="v5_deselect_all">Deselecteer alles</string>
-  <string name="v5_edit_mode_title_empty">0 selecteerd</string>
+  <string name="v5_edit_mode_title_empty">0 geselecteerd</string>
   <string name="v5_icon_menu_bar_more_item_label">Meer</string>
   <string name="v5_select_all">Selecteer alles</string>
-  <string name="v5_time_picker_label_hour">H</string>
+  <string name="v5_time_picker_label_hour">U</string>
   <string name="v5_time_picker_label_minute">M</string>
-  <string name="valentines_day"/>
+  <string name="valentines_day"/>Valentijntje</string>
   <string name="vernal_equinox"/>
   <string name="volume_alarm">Alarm</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
