@@ -22,7 +22,7 @@
   <string name="alert_dialog_in_ecm_call">"De geselecteerde actie is niet beschikbaar, terwijl je in noodoproep modus bent."</string>
   <string name="alert_dialog_no">Nee</string>
   <string name="alert_dialog_ok">OK</string>
-  <string name="alert_dialog_yes">Ja/string>
+  <string name="alert_dialog_yes">Ja</string>
   <string name="antispam_marked_count">Gemeld door %1$d MIUI gebruikers</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_provider">Geïdentificeerd door %s</string>
@@ -58,7 +58,7 @@
   <string name="callFailed_number_unreachable">Nummer onbereikbaar</string>
   <string name="callFailed_outOfService">Buiten dienst gebied</string>
   <string name="callFailed_out_of_network">Opgeropen uit out-of-network</string>
-  <string name="callFailed_powerOff">Radio uit/string>
+  <string name="callFailed_powerOff">Radio uit</string>
   <string name="callFailed_server_error">Server fout. Probeer het later opnieuw.</string>
   <string name="callFailed_server_unreachable">Server niet bereikbaar</string>
   <string name="callFailed_simError">Geen sim kaart of sim kaart fout</string>
@@ -343,7 +343,7 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="no_vm_number">Ontbrekend voicemailnummer</string>
   <string name="no_vm_number_msg">Geen voicemailnummer opgeslagen op de SIM kaart.</string>
   <string name="no_voip">Internet bellen niet ondersteund</string>
-  <string name="no_wifi_available">U moet worden verbonden met een WI-Fi netwerk voor Internet gesprekken (gebruik de Wi-Fi & amp; netwerkinstellingen).</string>
+  <string name="no_wifi_available">U moet worden verbonden met een WI-Fi netwerk voor Internet gesprekken (gebruik de Wi-Fi  &amp; netwerkinstellingen).</string>
   <string name="no_wifi_available_title">Geen Wi-fi verbinding</string>
   <string name="non_ivr_menu_collapse_menu">Instorten menu</string>
   <string name="non_ivr_menu_view_menu">Bekijk menu </string>
@@ -427,9 +427,9 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="ota_title_problem_with_activation">Probleem met activatie</string>
   <string name="ota_touch_activate">"Er moet een speciale oproep gemaakt worden  om uw telefoon te activeren.  
 
- Na het drukken op "Activeren", luister naar de instructies om uw telefoon te activeren. ""</string>
+ Na het drukken op Activeren, luister naar de instructies om uw telefoon te activeren. "</string>
   <string name="ota_try_again">Probeer opnieuw</string>
-  <string name="ota_unsuccessful">De telefoon isniet geactiveerd
+  <string name="ota_unsuccessful">"De telefoon isniet geactiveerd
 Je moet een gebied te vinden met een betere dekking (nabij een raam, of buiten). 
 
 Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
@@ -638,8 +638,7 @@ Volgend periode start binnen %2$d dagen (%3$s)"</string>
   <string name="username">Gebruikersnaam</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="vibrate_on_ring_title">Trillen bij oproep</string>
-  <string name="vm_change_failed">Kon voicemail nummer niet wijzigen.
-Neem contact op met uw provider als dit probleem zich blijft voordoen.</string>
+  <string name="vm_change_failed">Kon voicemail nummer niet wijzigen. Neem contact op met uw provider als dit probleem zich blijft voordoen.</string>
   <string name="vm_changed">Voicemail nummer gewijzigd.</string>
   <string name="voice_privacy">Voice privé</string>
   <string name="voice_privacy_summary">Verbeterde privacy modus inschakelen</string>
@@ -654,9 +653,7 @@ Neem contact op met uw provider als dit probleem zich blijft voordoen.</string>
   <string name="voicemail_provider">Service</string>
   <string name="voicemail_settings">Instelling</string>
   <string name="voicemail_settings_number_label">Voicemail nummer</string>
-  <string name="vt_init_fail_str">"VT initialisatie mislukt. Downgraad oproep naar VoLTE
-"</string>
-  <string name="wait_prompt_str">"Volgende beltone versturen?
-"</string>
+  <string name="vt_init_fail_str">"VT initialisatie mislukt. Downgraad oproep naar VoLTE"</string>
+  <string name="wait_prompt_str">"Volgende beltone versturen?"</string>
   <string name="wild_prompt_str">Vervang joker tekens met</string>
 </resources>
