@@ -106,6 +106,8 @@
 (%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Details bewerken</string>
   <string name="account_setup_failed_dlg_server_message">Kan geen verbinding maken met de server.</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
+(%s)"</string>
   <string name="account_setup_failed_dlg_title">Is niet voltooid</string>
   <string name="account_setup_failed_ioerror">Kan geen verbinding met de server maken.</string>
   <string name="account_setup_failed_protocol_unsupported">U heeft een onjuist serveradres getypt of de server vereist een protocolversie die niet door E-mail wordt ondersteund.</string>
@@ -460,6 +462,9 @@
   <string name="inbox_folders_heading">Postvak IN</string>
   <string name="info">Info</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
+  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
+  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -557,7 +562,6 @@ Cc: %4$s
   <string name="message_invite_accept">Ja</string>
   <string name="message_invite_calendar_view">Weergeven in Agenda</string>
   <string name="message_invite_decline">Nee</string>
-  <string name="message_invite_label_attending">Komt u ook?</string>
   <string name="message_invite_tentative">Misschien</string>
   <string name="message_invite_title">Agenda-uitnodiging</string>
   <string name="message_saved">Bericht opgeslagen als concept.</string>
@@ -580,6 +584,7 @@ Cc: %4$s
   <string name="no">Nee</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
+  <string name="no_contacts">Empty</string>
   <string name="no_conversations">Geen berichten.</string>
   <string name="no_mails">Leeg</string>
   <string name="no_matched_attachment">Geen overeenkomende bijlagen</string>
