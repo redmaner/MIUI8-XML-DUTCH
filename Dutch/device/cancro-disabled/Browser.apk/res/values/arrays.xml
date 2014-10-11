@@ -85,11 +85,6 @@
         <item>Medium</item>
         <item>Large</item>
     </string-array>
-    <string-array name="pref_images_preload_values">
-        <item>@string/pref_images_preload_value_never</item>
-        <item>@string/pref_images_preload_value_wifi_only</item>
-        <item>@string/pref_images_preload_value_always</item>
-    </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Never</item>
         <item>Only on WLAN</item>
@@ -508,21 +503,6 @@
         <item>SHIFT_JIS</item>
         <item>EUC-JP</item>
         <item>EUC-KR</item>
-    </string-array>
-    <string-array name="pref_data_preload_values">
-        <item>@string/pref_data_preload_value_never</item>
-        <item>@string/pref_data_preload_value_wifi_only</item>
-        <item>@string/pref_data_preload_value_always</item>
-    </string-array>
-    <string-array name="pref_link_prefetch_values">
-        <item>@string/pref_link_prefetch_value_never</item>
-        <item>@string/pref_link_prefetch_value_wifi_only</item>
-        <item>@string/pref_link_prefetch_value_always</item>
-    </string-array>
-    <string-array name="pref_video_preload_values">
-        <item>@string/pref_video_preload_value_never</item>
-        <item>@string/pref_video_preload_value_wifi_only</item>
-        <item>@string/pref_video_preload_value_always</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
