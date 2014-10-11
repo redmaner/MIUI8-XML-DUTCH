@@ -203,6 +203,7 @@
   <string name="createContactShortcutSuccessful">Widget voor contacten toegevoegd aan het startscherm.</string>
   <string name="create_group_dialog_title">Nieuwe groep maken</string>
   <string name="create_group_item_label">Nieuwe groep maken</string>
+  <string name="create_qrcode_fail_message">Create QR Code failed</string>
   <string name="customLabelPickerTitle">Aangepaste labelnaam</string>
   <string name="custom_list_filter">Aangepaste weergave definiëren</string>
   <string name="custom_nickname_hint">Bijnaam invoeren</string>
@@ -354,6 +355,7 @@
   <string name="export_sim_contacts_dialog_message">De SIM-kaart kan %d contacten opslaan</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar SIM-kaart</string>
+  <string name="export_to_sim1">Export to SIM card 1</string>
   <string name="export_to_sim2">Exporteren naar SIM-kaart 2</string>
   <string name="export_to_sim_title">Exporteren…</string>
   <string name="export_vcard_description">"Exporteren vCard naar het interne geheugen"</string>
@@ -427,6 +429,7 @@ Reden: '%s'"</string>
   <string name="import_from_other_phone">Importeren uit een andere telefoon</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
   <string name="import_from_sim">Importeren van SIM-kaart</string>
+  <string name="import_from_sim1">Import from SIM card 1</string>
   <string name="import_from_sim2">Importeren van SIM-kaart 2</string>
   <string name="import_multiple_vcard_string">Meerdere vCard-bestanden importeren</string>
   <string name="import_name">Naam</string>
@@ -483,12 +486,14 @@ Reden: '%s'"</string>
   <string name="loading">Loading…</string>
   <string name="loading_group_members">Laden van groepsleden…</string>
   <string name="loading_groups">Groepen laden…</string>
+  <string name="loading_recent">Loading recent contacts…</string>
   <string name="loading_resource_detail_fail">Hulpbron laden mislukt!</string>
   <string name="loading_resource_detail_info">Hulpbron info laden...</string>
   <string name="local_invisible_directory">Overig</string>
   <string name="local_profile_title">Mijn lokale profiel</string>
   <string name="local_search_label">Alle contacten</string>
   <string name="locale_change_in_progress">Lijst met contacten wordt bijgewerkt om de gewijzigde taal te weerspiegelen.</string>
+  <string name="login_ok">Sign in</string>
   <string name="lunarBirthdayLabelsGroup">Verjaardag</string>
   <string name="lunar_calendar">Lunar Nieuw jaar</string>
   <string name="lunar_leap">Start</string>
@@ -720,6 +725,7 @@ Om een contactpersoon toe te voegen aan uw favorieten:
   <string name="pref_key_rebuild_t9_index_message">Herbouw index om zoekresultaten te optimaliseren</string>
   <string name="pref_key_rebuild_t9_index_title">Herbouw index data</string>
   <string name="pref_key_sim_manage">Configureer SIM kaart</string>
+  <string name="pref_key_sim_manage1">Configure SIM card 1</string>
   <string name="pref_key_sim_manage2">Configure SIM card 2</string>
   <string name="pref_summary_import_from_account">Contactpersonen overdragen van Google en Exchange accounts naar mijn Mi Account</string>
   <string name="pref_title_account_import">Importeer uit account</string>
@@ -768,6 +774,8 @@ Om een contactpersoon toe te voegen aan uw favorieten:
   <string name="profile_display_name">Mijn profiel instellen</string>
   <string name="profile_name">Mijn profiel</string>
   <string name="profile_name_photo">Ik</string>
+  <string name="qr_card_card">My QR Code</string>
+  <string name="qrcode_card_title">QR code card</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
   <string name="quit_dialog_confirm_title">"U heeft geen contactpersonen samengevoegd"</string>
   <string name="readOnlyContactDeleteConfirmation">Dit contact bevat gegevens uit meerdere accounts. Gegevens uit alleen-lezen accounts worden verborgen in uw contactenlijst, maar niet verwijderd.</string>
@@ -964,6 +972,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="scan">Scan</string>
   <string name="scan_duplicate_message">%1$d contactpersonen met overeenkomende gegevens</string>
   <string name="scan_merge">Bezig met zoeken naar dubbele contactpersonen…</string>
+  <string name="scan_qrcode_card_hint1">Scan QR Code</string>
+  <string name="scan_qrcode_card_hint2">Add my information to your contacts</string>
   <string name="scanning">Scannen…</string>
   <string name="scanning_sdcard_failed_message">"De opslag kan niet worden gescand. (Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">"De opslag kan niet worden gescand"</string>
@@ -1068,6 +1078,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="splitConfirmation_title">Contact opsplitsen?</string>
   <string name="starredList">Met ster</string>
   <string name="starred_contacts">Favorites</string>
+  <string name="starred_yellowpage">Favorite directories</string>
   <string name="status_available">Beschikbaar</string>
   <string name="status_away">Niet beschikbaar</string>
   <string name="status_busy">Bezet</string>

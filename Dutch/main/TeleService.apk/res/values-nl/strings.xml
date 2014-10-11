@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add">Toevoegen</string>
   <string name="addSimEntries">Sim contactpersoon toevoegen</string>
@@ -161,6 +161,7 @@
   <string name="cell_broadcast_sms">Info dienstbericht</string>
   <string name="cfb_title">Doorschakelen bij in gesprek</string>
   <string name="cfnrc_title">Doorschakelen bij onbereikbaar</string>
+  <string name="cfnrc_title_cta">Forward when unreachable</string>
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
   <string name="cfu_title">Altijd doorschakelen</string>
   <string name="change_num">Bijwerken</string>
@@ -452,6 +453,8 @@
   <string name="msim_not_set_summary">Niet ingeschakeld</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Kiezen</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="msim_set_icc_card_error">ICC card error</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Kan niet tijdens een gesprek ingesteld worden"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kaart fout</string>
   <string name="msim_setting_categery_title">SIM kaart info</string>
@@ -461,6 +464,7 @@
   <string name="msim_setting_sim_info_editor_title">Pas SIM info aan</string>
   <string name="msim_sim_lock">Vergrendeld</string>
   <string name="msim_sim_radio_off">Uitgeschakeld</string>
+  <string name="msim_switch_data_conn_toast">Ensure the normal access to the Internet, network type has been changed to prefer 4G networks (prefer 3G networks), you can modify in the SIM info.</string>
   <string name="multi_category_disable">Meerdere categorieën uitgeschakeld</string>
   <string name="multi_category_enable">Meerdere categorieën ingeschakeld</string>
   <string name="name">Naam</string>
