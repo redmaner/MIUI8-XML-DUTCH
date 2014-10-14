@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Downloadbeheer</string>
-  <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
+  <string name="auto_restart_under_wifi">WIFI zal dit bestand automatisch downloaden</string>
   <string name="button_cancel_download">Annuleren</string>
   <string name="button_queue_for_wifi">Wachtrij</string>
   <string name="button_start_now">Nu starten</string>
-  <string name="dialog_insufficient_space_on_cache">Not enough space on internal download storage</string>
-  <string name="dialog_insufficient_space_on_external">Not enough space on external storage</string>
+  <string name="dialog_insufficient_space_on_cache">Niet genoeg ruimte op interne opslag</string>
+  <string name="dialog_insufficient_space_on_external">Niet genoeg ruimte op externe opslag</string>
   <string name="download_error">Mislukt</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
   <string name="download_percent">%d%%</string>
@@ -36,10 +36,10 @@
   <string name="root_downloads">Downloads</string>
   <string name="wifi_recommended_body" formatted="false">"Als u deze download van %s  nu start, kan dit de levensduur van de accu verkorten en/of leiden tot bovenmatig gebruik van uw mobiele gegevensverbinding. Uw provider kan hiervoor kosten rekenen.
 
- Raak '%s' aan om deze download te starten wanneer u verbinding heeft met een wifi-netwerk."</string>
+ Raak '%s' aan om deze download te starten wanneer u verbinding heeft met een WIFI netwerk."</string>
   <string name="wifi_recommended_title">In wachtrij plaatsen voor later downloaden?</string>
-  <string name="wifi_required_body" formatted="false">"U moet wifi gebruiken om deze download van %s  te voltooien. 
+  <string name="wifi_required_body" formatted="false">"U moet WIFI gebruiken om deze download van %s  te voltooien. 
 
-Raak %s  aan om deze download te starten wanneer u verbinding heeft met een wifi-netwerk."</string>
+Raak %s  aan om deze download te starten wanneer u verbinding heeft met een WIFI netwerk."</string>
   <string name="wifi_required_title">Download te groot voor providernetwerk</string>
 </resources>
