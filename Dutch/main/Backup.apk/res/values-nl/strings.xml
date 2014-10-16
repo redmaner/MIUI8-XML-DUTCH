@@ -33,12 +33,12 @@
   <string name="backup_items_app_tailer">"  app gegevens "</string>
   <string name="backup_items_sysdata_tailer">"  systeem gegevens, "</string>
   <string name="backup_new">Nieuw:</string>
-  <string name="backup_progress">Back-uppen...;</string>
+  <string name="backup_progress">Backuppen...;</string>
   <string name="backup_recently">"  (meest recent) "</string>
   <string name="backup_report">Backup details bekijken</string>
   <string name="backup_update">Update</string>
   <string name="batch_delete_backup_confirm">Verwijderen %d backups?</string>
-  <string name="button_backup">Back up</string>
+  <string name="button_backup">Backup</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_continue">Doorgaan</string>
   <string name="button_finish">Voltooid</string>
@@ -50,7 +50,7 @@
   <string name="cancel_backup">Backup Annuleren</string>
   <string name="cancel_restore">Herstel Annuleren</string>
   <string name="cloud_app_name">Mi Cloud backup</string>
-  <string name="cloud_backup_hint">To access your backups, sign in now</string>
+  <string name="cloud_backup_hint">Inloggen om toegang tot je backups te krijgen</string>
   <string name="cloud_backup_login">Log in op MI Account</string>
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
   <string name="cloud_home_title">Mi Cloud</string>
@@ -61,11 +61,11 @@
   <string name="cloud_restore_title">Herstel backup gegevens</string>
   <string name="cloud_restore_window_title">Mi Cloud herstel</string>
   <string name="cloud_search">Zoeken…</string>
-  <string name="compute_backup_info">backup info halen…</string>
+  <string name="compute_backup_info">backup info ophalen…</string>
   <string name="compute_delete_contact_info"> Contacten zoeken om te verwijderen…</string>
   <string name="contact_title">Contacten</string>
   <string name="current_account">Hallo, %s</string>
-  <string name="current_sim">Huidige SIM card</string>
+  <string name="current_sim">Huidige SIM kaart</string>
   <string name="data_no_enough_space">Niet genoeg ruimte</string>
   <string name="data_no_enough_space_message">"Niet genoeg interne opslag ruimte"</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
@@ -139,9 +139,9 @@
   <string name="sc_precondition_failed">Uw Xiaomi account is niet voorzien van een e-mailadres</string>
   <string name="sc_request_timeout">Verzoek time-out</string>
   <string name="sc_service_unavailable">Cloud service niet beschikbaar</string>
-  <string name="sc_unaccess_password_file">"Wi-Fi wachtwoord niet opslaan"</string>
+  <string name="sc_unaccess_password_file">"WIFI wachtwoord niet opslaan"</string>
   <string name="sc_unauthorized">Probeer opnieuw in te loggen</string>
-  <string name="sd_not_available">No SD card detected</string>
+  <string name="sd_not_available">Geen SD kaarts gedetecteerd</string>
   <string name="sdcard_no_enough_space">Niet genoeg ruimte op SD-kaart</string>
   <string name="sdcard_no_enough_space_message">"Niet genoeg ruimte op SD-kaart van de telefoon."</string>
   <string name="sdcard_unmounted">Geen SD kaart gevonden</string>
@@ -152,7 +152,7 @@
   <string name="sms_title">Berichten</string>
   <string name="software_backup_info">Backup apps en gegevens</string>
   <string name="start_backup">Backup starten</string>
-  <string name="start_restore">Herstellene</string>
+  <string name="start_restore">Herstellen</string>
   <string name="succeed">Voltooid</string>
   <string name="system_backup">Backups</string>
   <string name="system_backup_info">Systeem insellingenen Home screen layout</string>
@@ -162,7 +162,7 @@
   <string name="task_canceled_all_local">Taak annuleren</string>
   <string name="task_canceled_local">De volgende %s taak is geannuleerd</string>
   <string name="task_cloud_backup_cancel_dialog">"Backup is nog niet compleet\n Klik OK om deze taak te annuleren"</string>
-  <string name="task_failed">Failed</string>
+  <string name="task_failed">Mislukt</string>
   <string name="task_failed_all_local">Mislukt</string>
   <string name="task_failed_local">Taak mislukt: %s</string>
   <string name="task_finished">Backup klaar</string>
@@ -187,6 +187,6 @@
   <string name="unit_byte">"  bytes"</string>
   <string name="unit_piece">"  items"</string>
   <string name="unknown_hint">Onbekend</string>
-  <string name="wifi_title">Wi-Fi Instellingen</string>
+  <string name="wifi_title">WIFI Instellingen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
