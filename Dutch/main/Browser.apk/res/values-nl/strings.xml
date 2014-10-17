@@ -244,7 +244,7 @@
   <string name="geolocation_permissions_prompt_message">%s wilt weten wat uw locatie is</string>
   <string name="geolocation_permissions_prompt_remember">Voorkeuren onthouden</string>
   <string name="geolocation_permissions_prompt_share">Locatie delen</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Deze site heeft toegang tot uw locatie. Wijzig dit via 'Instellingen' &gt; 'Geavanceerd' &gt; 'Website'."</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">"Deze site heeft toegang tot uw locatie. Wijzig dit via 'Instellingen' &gt; 'Geavanceerd' &gt; 'Website'."</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">"Deze site heeft geen toegang tot uw locatie. Wijzig dit via 'Instellingen' &gt; 'Geavanceerd' &gt; 'Website'."</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Annuleren</string>
   <string name="geolocation_settings_page_dialog_message">Locatietoegang voor deze website ongedaan maken?</string>
@@ -265,7 +265,7 @@
   <string name="in_incognito">"Je bent in incognitomodus! Webpagina's uw die u bekijkt in dit tabblad verschijnen niet in uw browser geschiedenis."</string>
   <string name="is_first_history_item">Dit is het eerste geschiedenis item</string>
   <string name="is_first_tab">Dit is het eerste tabblad</string>
-  <string name="is_last_history_item">Dit is het laaste geschiedenis item/string>
+  <string name="is_last_history_item">Dit is het laaste geschiedenis item</string>
   <string name="is_last_tab">Dit is het laatste tabblad</string>
   <string name="is_page_bottom">Je hebt het einde van de pagina bereikt</string>
   <string name="is_page_top">Je bent boven aan de pagina</string>
@@ -343,7 +343,7 @@
   <string name="new_incognito_tab">Nieuwincognito tabblad</string>
   <string name="new_tab">Nieuw tabblad</string>
   <string name="not_remind_again">Mijn keuze onthouden</string>
-  <string name="notif_install_successful">Download voltooid/string>
+  <string name="notif_install_successful">Download voltooid</string>
   <string name="ok">OK</string>
   <string name="open_all_bookmarks">Alles openen</string>
   <string name="open_all_in_new_window">Alles openen in nieuwe tabbladen</string>
@@ -398,7 +398,6 @@
   <string name="pref_content_search_engine">Standaard zoekmachine instellen</string>
   <string name="pref_content_search_engine_summary">Selecteer een zoekmachine</string>
   <string name="pref_content_title">Pagina-inhoud</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Zoekresultaten preloaden</string>
   <string name="pref_data_preload_summary">: Browser toestaan resultaten met hoog betrouwbaarheidsniveau te preloaden</string>
   <string name="pref_data_preload_title">Zoekresultaten preloaden</string>
@@ -408,7 +407,7 @@
   <string name="pref_data_title">Bandbreedtebeheer</string>
   <string name="pref_default_text_encoding">Tekstcodering</string>
   <string name="pref_default_text_encoding_default">UTF-8</string>
-  <string name="pref_default_text_encoding_dialogtitle">Tekstcodering<</string>
+  <string name="pref_default_text_encoding_dialogtitle">Tekstcodering</string>
   <string name="pref_default_zoom">Standaardzoom</string>
   <string name="pref_default_zoom_dialogtitle">Standaardzoom</string>
   <string name="pref_development_cpu_upload_path">CPU upload path inschakelen</string>
@@ -440,14 +439,13 @@
   <string name="pref_fling_on_border_enabled">Vegen vanaf de schermrand</string>
   <string name="pref_fling_on_border_enabled_title_summary">Veeg vanaf de schermrand naar links of recht om tussen tabbladen te wisselen</string>
   <string name="pref_font_size_category">Tekstgrootte</string>
-  <string name="pref_force_userscalable">Zoom inschakelen forcerenstring>
+  <string name="pref_force_userscalable">Zoom inschakelen forceren</string>
   <string name="pref_force_userscalable_summary">Website verzoek overschrijden om zoom gedrag te beheren</string>
   <string name="pref_general_autofill_title">Automatisch aanvullen</string>
   <string name="pref_general_exit_setting_title">Instellingen afsluiten</string>
   <string name="pref_general_setting_title">Instellingen</string>
   <string name="pref_general_title">Algemeen</string>
   <string name="pref_gesture_title">Gebaren</string>
-  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
   <string name="pref_images_preload_dialogtitle">Afbeelding preloaden</string>
   <string name="pref_images_preload_summary">Browser toestaan afbeeldingen voor te laden wanneer het wordt ondersteund door de server</string>
   <string name="pref_images_preload_title">Afbeelding preloaden</string>
@@ -463,7 +461,6 @@
   <string name="pref_inverted_summary">Zwart wordt wit en andersom</string>
   <string name="pref_key_gesture_title">Toesten &amp; gebaren</string>
   <string name="pref_key_title">Toetsinstellingen</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">>Webpagina preloaden</string>
   <string name="pref_link_prefetch_summary">"Browser toestaan gelinkte webpagina's in de achtergrond te preloaden"</string>
   <string name="pref_link_prefetch_title">"Webpagina's preloaden"</string>
@@ -520,7 +517,6 @@
   <string name="pref_ua_string">User agent </string>
   <string name="pref_ua_title">User agent beheer</string>
   <string name="pref_version_summary">Versie:%s</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_dialogtitle">Video bufferen...</string>
   <string name="pref_video_preload_summary">Browser toestaan video te bufferen bij server ondersteuning</string>
   <string name="pref_video_preload_title">"Video's bufferen"</string>
@@ -646,8 +642,8 @@
   <string name="stop">Stoppen</string>
   <string name="stop_loading">Stoppen</string>
   <string name="storage_internal">Interne opslag</string>
-  <string name="storage_sd_card">SD-kaart/string>
-  <string name="storage_usb">USB-opslag<</string>
+  <string name="storage_sd_card">SD-kaart</string>
+  <string name="storage_usb">USB-opslag</string>
   <string name="sub_sync_item_browser_title_bookmark">Tabladen synchroniseren</string>
   <string name="sub_sync_item_browser_title_bookmark_summary">Synchroniseer geopende tabbladen op verschillende apparaten</string>
   <string name="sub_sync_item_browser_title_cloud_tab">Tabladen synchroniseren</string>
@@ -713,7 +709,7 @@
   <string name="webapp_app_name">Light Web Apps Store</string>
   <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
   <string name="webapp_dialog_title">Add app to Home screen</string>
-  <string name="webapp_menu_addtodesk">Toevoegen aan bureaublad/string>
+  <string name="webapp_menu_addtodesk">Toevoegen aan bureaublad</string>
   <string name="webapp_menu_already_addtodesk">Toegevoegd aan bureaublad</string>
   <string name="webapp_menu_exit">Afsluiten</string>
   <string name="webapp_menu_favorites">Favorieten</string>
@@ -739,9 +735,7 @@
   <string name="webstorage_outofspace_notification_title">Browseropslag is vol</string>
   <string name="webview_cancel">Annuleren</string>
   <string name="webview_find_on_page">Zoeken op pagina</string>
-  <string name="webview_js_dialog_before_unload">"%s
-
-Weet u zeker dat u wilt navigeren van deze pagina??"</string>
+  <string name="webview_js_dialog_before_unload">"%s Weet u zeker dat u wilt navigeren van deze pagina?"</string>
   <string name="webview_js_dialog_before_unload_negative_button">Op deze pagina blijven</string>
   <string name="webview_js_dialog_before_unload_positive_button">Deze pagina verlaten</string>
   <string name="webview_js_dialog_before_unload_title">CNavigatie bevestigen</string>
