@@ -11,7 +11,7 @@
   <string name="btn_return">Terug</string>
   <string name="button_cancel">Annuleren</string>
   <string name="cloud_find_device">Zoek apparaat</string>
-  <string name="cloud_sync_setting_summary_standard">Gebruik uw mobiele gegevensverbinding om SMS, Contact info , te synchroniseren. WIFI gebruiken om foto's, video's, MMS, app data, Contact profiel foto's en meer synchroniseren.</string>
+  <string name="cloud_sync_setting_summary_standard">"Gebruik uw mobiele gegevensverbinding om SMS, Contact info , te synchroniseren. WIFI gebruiken om foto's, video's, MMS, app data, Contact profiel foto's en meer synchroniseren."</string>
   <string name="cloud_sync_setting_summary_wlan">Enkel syncroniseren over Wi-Fi</string>
   <string name="cmcc_micloud_dspt">Gebruik Mi Cloud om gegevens te syncroniseren, zoek uw apparaat.</string>
   <string name="contact">Contacten</string>
@@ -34,7 +34,7 @@
   <string name="error_title">Kan niet synchroniseren</string>
   <string name="error_unauthorized">Synchronisatie is uitgeschakeld als gevolg van te veel aanmeld pogingen.</string>
   <string name="error_unknown">Kan niet aamelden</string>
-  <string name="find_device">Apparraat zoeken is ingeschakeld/string>
+  <string name="find_device">Apparraat zoeken is ingeschakeld</string>
   <string name="find_device_disabled_notice">U kunt deze functie op elk moment uit  schakelen in Mi Cloud &gt; Settings.</string>
   <string name="find_device_disabled_title">Apparraat zoeken is uitgeschakeld</string>
   <string name="find_device_disabling">Uitschakelen…</string>
@@ -42,18 +42,14 @@
   <string name="find_device_dspt_provision">Als u uw toestel verliest, kunt u naar</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">"om te lokaliseren, vergrendelen of op nul zetten.
-
-U kunt deze functie in- uitschakelen  op elk moment in de Instellingen.
-"</string>
+  <string name="find_device_dspt_provision_3">"Om te lokaliseren, vergrendelen of op nul zetten. U kunt deze functie in- uitschakelen  op elk moment in de Instellingen."</string>
   <string name="find_device_enabling">Inschakelen…</string>
   <string name="find_device_error_network">Controleer je data verbinding en probeer het opnieuw.</string>
   <string name="find_device_error_server">Fout op onze servers.</string>
   <string name="find_device_noise_title">Apparaat locatie geluid</string>
   <string name="find_device_notice_p1">GGa naar</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">Om je telefoon te lokaliseren, vergrendelen of te herstellen.
-Zal er automatisch een SMS verstuurd worden om de dienst te heractiveren als van SIM kaarten verwisseld.</string>
+  <string name="find_device_notice_p3">Om je telefoon te lokaliseren, vergrendelen of te herstellen. Zal er automatisch een SMS verstuurd worden om de dienst te heractiveren als van SIM kaarten verwisseld.</string>
   <string name="find_device_send_sms_alert">Als u van SIM-kaarten verwisseld, zal er automatisch  een SMS vertuurd wordenom de dienst te heractiveren.</string>
   <string name="find_device_stop_noise">Tik op OK om de dempen</string>
   <string name="find_device_success_title">Zoek apparaat</string>
@@ -73,16 +69,10 @@ Zal er automatisch een SMS verstuurd worden om de dienst te heractiveren als van
   <string name="master_alert_notif_title">Laatst gesyncroniseerd %s dagen geleden</string>
   <string name="micloud">Mi Cloud</string>
   <string name="micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren en om het apparaat te lokaliseren.</string>
-  <string name="micloud_dspt_provision">Gebruik Mi Cloud om gegevens te synchroniseren, om het apparaat te lokaliseren en om te delen met vrienden.</</string>
+  <string name="micloud_dspt_provision">Gebruik Mi Cloud om gegevens te synchroniseren, om het apparaat te lokaliseren en om te delen met vrienden.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud. 
-
-Op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. 
-
-Wanneer uw cloud vol is, zullen deoude gegevens niet verwijderd worden. Maar alle nieuwe gegevensdie u toevoegt (bijvoorbeeld foto's, video's, notities en apps) worden niet meer gebackupt.
-
-Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen. "</string>
+  <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud. Op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. Wanneer uw cloud vol is, zullen deoude gegevens niet verwijderd worden. Maar alle nieuwe gegevensdie u toevoegt (bijvoorbeeld foto's, video's, notities en apps) worden niet meer gebackupt. Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_data_unsynced">%d te synchroniseren items</string>
   <string name="micloud_main_last_sync_time">laatst gesyncroniseerd</string>
@@ -97,9 +87,8 @@ Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te ma
   <string name="micloud_sec_dspt">en dingen delen met vrienden.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Wat gebeurt er als ik niet genoeg ruimte meer heb?&lt;/u&gt;</string>
   <string name="micloud_storage_usage" formatted="false">Totaal gebruikte  %s/ruimte %s</string>
-  <string name="micloud_title_dspt" formatted="false">"%s totaal
- %s gebruikte | %s resterend"</string>
-  <string name="micloud_title_dspt_remain">%s resterend<string>
+  <string name="micloud_title_dspt" formatted="false">"%s totaal %s gebruikte | %s resterend"</string>
+  <string name="micloud_title_dspt_remain">%s resterend</string>
   <string name="micloud_title_full_dspt">Je opslagsruimte limiet is bereikt!</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud inschakelen</string>
@@ -113,9 +102,7 @@ Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te ma
   <string name="micloud_web_discription_01">Aanmelden op i.mi.com</string>
   <string name="micloud_web_discription_02">om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
   <string name="mx_dspt">Mi berichten</string>
-  <string name="mx_dspt_provision">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder kosten.
-
-U kunt deze functie op elk moment in en uitschakelen in de instellingen. </string>
+  <string name="mx_dspt_provision">"Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder kosten. U kunt deze functie op elk moment in en uitschakelen in de instellingen."</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="next">Volgende</string>
   <string name="noRemind">Me niet meer herinneren</string>
@@ -147,10 +134,7 @@ U kunt deze functie op elk moment in en uitschakelen in de instellingen. </strin
   <string name="sync_dspt_provision">Mi Cloud synchroniseert uw foto's, SMS, notities en meer op al uw Mi apparaten. U kunt ze ook openen vanuit elke browser.</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">mi.com/micloud</string>
-  <string name="sync_dspt_provision3">".
-
-U kunt deze functie op elk moment in en uitschakelen in Instellingen.
-"</string>
+  <string name="sync_dspt_provision3">"U kunt deze functie op elk moment in en uitschakelen in Instellingen."</string>
   <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle oproepen op deze telefoon</string>
   <string name="sync_item_calllog_title">Oproep Logs Synchroniseren</string>
   <string name="sync_item_sms_summary">Alle SMSen Synchroniseren van de telefoon</string>
@@ -160,6 +144,7 @@ U kunt deze functie op elk moment in en uitschakelen in Instellingen.
   <string name="sync_setting">Instellingen synchronisatie</string>
   <string name="sync_standard">Synchroniseren de kleine dingen</string>
   <string name="sync_sub_1_intl_sms">Uw provider kan u kosten aanrekenen voor een internationale SMS-bericht dat wordt gebruikt om deze dienst te activeren.</string>
+  <string name="sync_dspt_provision">"Mi Cloud synchroniseert uw foto's, SMS, notities en meer op al uw Mi apparaten. U kunt ze ook openen vanuit elke browser."</string>
   <string name="sync_sub_1_sms">Uw provider kan u kosten aanrekenen voor een SMS-bericht dat wordt gebruikt om deze dienst te activeren.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Uw provider kan koste aanrekenen voor 1 nationale en 1 internationale SMS-bericht dat wordt gebruikt om deze dienst te activeren.</string>
   <string name="sync_sub_2_intl_sms">Uw provider kan koste aanrekenen voor 2 internationale SMS-berichten die worden gebruikt om deze dienst te activeren.</string>
