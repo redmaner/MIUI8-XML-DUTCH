@@ -401,9 +401,6 @@
   <string name="pref_data_preload_dialogtitle">Zoekresultaten preloaden</string>
   <string name="pref_data_preload_summary">: Browser toestaan resultaten met hoog betrouwbaarheidsniveau te preloaden</string>
   <string name="pref_data_preload_title">Zoekresultaten preloaden</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_data_title">Bandbreedtebeheer</string>
   <string name="pref_default_text_encoding">Tekstcodering</string>
   <string name="pref_default_text_encoding_default">UTF-8</string>
@@ -449,11 +446,8 @@
   <string name="pref_images_preload_dialogtitle">Afbeelding preloaden</string>
   <string name="pref_images_preload_summary">Browser toestaan afbeeldingen voor te laden wanneer het wordt ondersteund door de server</string>
   <string name="pref_images_preload_title">Afbeelding preloaden</string>
-  <string name="pref_images_preload_value_always">2</string>
   <string name="pref_images_preload_value_always_summary">Browser altijd toestaan afbeeldingen te preloaden bij server ondersteuning</string>
-  <string name="pref_images_preload_value_never">0</string>
   <string name="pref_images_preload_value_never_summary">Browser nooit toestaan afbeeldingen te preloadens</string>
-  <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_images_preload_value_wifi_only_summary">Afbeeldingen alleen preloaden met WIFI</string>
   <string name="pref_inverted">Omgekeerde opbouw</string>
   <string name="pref_inverted_category">Omgekeerde opbouw van scherm</string>
@@ -464,10 +458,7 @@
   <string name="pref_link_prefetch_dialogtitle">>Webpagina preloaden</string>
   <string name="pref_link_prefetch_summary">"Browser toestaan gelinkte webpagina's in de achtergrond te preloaden"</string>
   <string name="pref_link_prefetch_title">"Webpagina's preloaden"</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
   <string name="pref_link_prefetch_value_never_summary">"Browser nooit toestaan gelinkte webpagina's in de achtergrond te preloaden"</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_min_font_size">Minimum lettergrootte</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_other_title">Overige</string>
@@ -520,9 +511,6 @@
   <string name="pref_video_preload_dialogtitle">Video bufferen...</string>
   <string name="pref_video_preload_summary">Browser toestaan video te bufferen bij server ondersteuning</string>
   <string name="pref_video_preload_title">"Video's bufferen"</string>
-  <string name="pref_video_preload_value_always">ALWAYS</string>
-  <string name="pref_video_preload_value_never">NEVER</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_action">Volume toetsen: Vorige/Vollgende pagina</string>
   <string name="pref_volume_key_enabled">Volume toetsen</string>
   <string name="pref_volume_key_operation">Functie voor volume toetsen</string>
@@ -700,14 +688,7 @@
   <string name="webapp_add_to_desktop">Toevoegen aan bureaublad?</string>
   <string name="webapp_add_to_favorite_toast">Toegevoegd aan favorieten</string>
   <string name="webapp_addtodeskpop_append">Toegevoegd</string>
-  <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-  <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-  <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-  <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-  <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-  <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
   <string name="webapp_app_name">Light Web Apps Store</string>
-  <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
   <string name="webapp_dialog_title">Add app to Home screen</string>
   <string name="webapp_menu_addtodesk">Toevoegen aan bureaublad</string>
   <string name="webapp_menu_already_addtodesk">Toegevoegd aan bureaublad</string>
@@ -716,7 +697,6 @@
   <string name="webapp_menu_nightmode">Nachtmodus</string>
   <string name="webapp_menu_settings">Instellingen</string>
   <string name="webapp_menu_share">Delen</string>
-  <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
   <string name="webapp_settings_title">Instellen</string>
   <string name="webapp_webapp_favortes_title">Favorieten</string>
   <string name="webpage_bookmark_title">Bladwijzer</string>

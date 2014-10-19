@@ -15,7 +15,6 @@
   <string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account '%s'."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_folder_list_summary_drafts">Concepten</string>
@@ -273,7 +272,6 @@
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
   <string name="compose">Opstellen</string>
-  <string name="compose_help_context">Opstellen</string>
   <string name="compose_send">Vezenden</string>
   <string name="compose_sent">Verzenden gelukt</string>
   <string name="confirm">confirm</string>
@@ -287,7 +285,6 @@
   <string name="confirm_send_message_with_no_body">Het bericht bevat geen tekst.</string>
   <string name="confirm_send_message_with_no_subject">Het berichtonderwerp bevat geen tekst.</string>
   <string name="confirm_send_title">Bericht verzenden?</string>
-  <string name="contact_content_provider">Contactgegevens Provider</string>
   <string name="contact_info_string">Contactgegevens weergeven voor %1$s</string>
   <string name="contact_info_string_default">Contactgegevens weergeven</string>
   <string name="contact_list_add_btn">Toevoegen</string>
@@ -307,7 +304,6 @@
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_sharelink">Link delen</string>
   <string name="contextmenu_sms_dot">"Sms'en…"</string>
-  <string name="conversation_content_provider">Conversatie gegevens Provider</string>
   <string name="conversation_folder_moved">Verplaatst naar %1$s</string>
   <string name="conversation_item_mark_read">Gelezen</string>
   <string name="conversation_item_mark_unread">Ongelezen</string>
@@ -377,8 +373,6 @@
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
-  <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">Kan account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -432,7 +426,6 @@
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
   <string name="forward_download_failed_ticker">Kan een of meer bijlagen niet doorsturen.</string>
   <string name="forward_download_failed_title">Bijlage niet doorgestuurd</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">From</string>
   <string name="from_heading">"Van: "</string>
   <string name="general_preference_confirm_delete_label">Bevestigen vóór verwijderen</string>
@@ -462,9 +455,6 @@
   <string name="inbox_folders_heading">Postvak IN</string>
   <string name="info">Info</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -488,14 +478,6 @@
   <string name="mailbox_name_display_starred">Met ster</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
-  <string name="mailbox_name_server_all_unread">Ongelezen</string>
-  <string name="mailbox_name_server_drafts">Concepten</string>
-  <string name="mailbox_name_server_inbox">Postvak IN</string>
-  <string name="mailbox_name_server_junk">Spam</string>
-  <string name="mailbox_name_server_outbox">Postvak uit</string>
-  <string name="mailbox_name_server_sent">Verzonden</string>
-  <string name="mailbox_name_server_starred">Favoriten</string>
-  <string name="mailbox_name_server_trash">Prullenbak</string>
   <string name="mailbox_settings_activity_title">Synchronisatieopties</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synchronisatieopties (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dagen waarvoor e-mail wordt gesynchroniseerd</string>
@@ -567,7 +549,6 @@ Cc: %4$s
   <string name="message_saved">Bericht opgeslagen als concept.</string>
   <string name="message_type_name">bericht</string>
   <string name="message_view_attachment_background_load">Een of meer bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
-  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">%1$d bijlagen in totaal</string>
   <string name="more_info_attachment">Info</string>
   <string name="more_string">+%1$s</string>
@@ -665,7 +646,6 @@ Cc: %4$s
   <string name="policy_screen_timeout">Inactief apparaat vergrendelt scherm</string>
   <string name="policy_text_truncation">Tekst e-mail grootte beperken</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">lijst</string>
   <string name="prefDialogTitle_conversationListIcon">Afbeelding van afzender</string>
   <string name="prefDialogTitle_removal_action">Acties voor archiveren of verwijderen</string>
   <string name="preference_removal_action_title">Acties voor archiveren of verwijderen</string>
@@ -715,7 +695,6 @@ Cc: %4$s
   <string name="reply">Beantwoorden</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Antwoord: "</string>
   <string name="report">Rapporteren</string>
   <string name="report_phishing">Phishing melden</string>
@@ -843,11 +822,9 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Tik op mededeling om de installatie te voltooien.</string>
   <string name="wait_for_sync_title">Wachten op synchronisatie</string>
-  <string name="wait_help_context">wachten</string>
   <string name="widget_all_mail">Alle Mails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Andere</string>
-  <string name="widget_provider">com.android.email.provider.WidgetProvider</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Opslag niet beschikbaar controleer de SD-kaart.</string>
