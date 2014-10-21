@@ -6,7 +6,7 @@
   <string name="account">Account</string>
   <string name="account_bind_devices">Actieve apparaten</string>
   <string name="account_bind_settings">Accounts</string>
-  <string name="account_dspt">Gebruik uw Mi account om in teloggen bij Mi Cloud, MIUI Theme Store, en andere Mi diensten.</string>
+  <string name="account_dspt">Gebruik uw Mi account om in te loggen bij Mi Cloud, MIUI Theme Store, en andere Mi diensten.</string>
   <string name="account_dspt_provision"/>
   <string name="account_dspt_provision2">Meer weergeven</string>
   <string name="account_hint_text">Email adres of telefoonnr.</string>
@@ -30,8 +30,7 @@
   <string name="bind_sns_description">Vervolledig je  profiel met de persoonlijke informatie %s.</string>
   <string name="bind_weibo_description">Vind and sync. je vrienden van Sina Weibo.</string>
   <string name="binded">Account toegevoegd</string>
-  <string name="binded_description" formatted="false">"%s succesvol gebonden 
- Vervolledig je  profiel met de persoonlijke informatie %s."</string>
+  <string name="binded_description" formatted="false">"%s succesvol gebonden. Vervolledig je  profiel met de persoonlijke informatie %s."</string>
   <string name="btn_activate">Activeer</string>
   <string name="btn_return">Vorige</string>
   <string name="button_cancel">Annuleren</string>
@@ -45,7 +44,7 @@
   <string name="choose_which_one_sim">Kies een telefoonnr</string>
   <string name="cloud_messaging">Mi Bericht</string>
   <string name="cloud_service">Mi Cloud</string>
-  <string name="cloud_service_dspt">Synchroniseer uw foto's, contacten, notities, apps, en nog veel meer op al uw apparaten.</string>
+  <string name="cloud_service_dspt">Sync. uw foto's, contacten, notities, apps, en nog veel meer op al uw apparaten.</string>
   <string name="completed">Voltooien</string>
   <string name="confirm">OK</string>
   <string name="confirm_unbind">Bevestig ontkoppeling?</string>
@@ -59,7 +58,7 @@
   <string name="email_reg_success_summary">%1$s is toegevoegd aan uw Mi Account. U kunt het gebruiken om in te loggen of om uw wachtwoord opnieuw in te stellen.</string>
   <string name="enable_sync">Sync. inschakelen</string>
   <string name="enable_sync_dspt">Sync. uitschakelen</string>
-  <string name="error_device_id">Ophalen IMEImislukt</string>
+  <string name="error_device_id">Ophalen IMEI mislukt</string>
   <string name="error_dup_email">Dit email adres is al gekoppeld aan een ander account</string>
   <string name="error_dup_phone">Dit telefoonnr. is al gekoppeld aan een ander account</string>
   <string name="error_invalid_dev_id">Ongeldig apparaat ID</string>
@@ -67,13 +66,13 @@
   <string name="error_network">Verbinding met netwerk mislukt</string>
   <string name="error_no_sms_service">SMS verzenden mislukt. Mobiele netwerk niet bereikbaar.</string>
   <string name="error_phone_error">Ongeldig telefoonnr.</string>
-  <string name="error_server">Server error</string>
+  <string name="error_server">Server fout</string>
   <string name="error_sim_not_ready">Vinden Sim kaart mislukt</string>
   <string name="error_ssl_hand_shake">Het toestel had een probleem te verbinden met onze servers. Stel uw systeem tijd naar de huidige tijd.</string>
   <string name="error_unknown">Inloggen mislukt</string>
   <string name="error_user_name">Ongeldige gebruikersnaam</string>
   <string name="error_verify_code">De ingevoerde code is ongeldig</string>
-  <string name="facebook">facebook</string>
+  <string name="facebook">Facebook</string>
   <string name="failed_get_mibi_info">Mi credit ophalen mislukt</string>
   <string name="failed_to_send_activate_email">Activatie email vezenden mislukt</string>
   <string name="find_device_dspt">Vergrendel of wis het apparaat vanop afstand.</string>
@@ -88,11 +87,11 @@
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Voer code in</string>
   <string name="input_password_hint">Voer wachtwoord in</string>
-  <string name="input_phone_hint">Voer telefoonnr in</string>
+  <string name="input_phone_hint">Voer telefoonnr. in</string>
   <string name="input_vcode_hint">Voer verificatie code in</string>
   <string name="input_vcode_prompt">Voer verificatie code in</string>
   <string name="input_verify_code_hint">Voer verificatie code in</string>
-  <string name="int_phone_user_notice">Add your country code when using a mobile number to sign in.</string>
+  <string name="int_phone_user_notice">Voeg landcode in bij het gebruik van een mobiel nummer.</string>
   <string name="internet_comm">Bericht services</string>
   <string name="license_host_unreachable">Verbinding met netwerk mislukt. U kunt deze pagina bekijken op %s."</string>
   <string name="loading">Laden…</string>
@@ -102,9 +101,9 @@
   <string name="login_instead_reg">Gebruik dit nummer</string>
   <string name="login_instead_reg_with_email">Gebruik dit Email adres</string>
   <string name="login_notice">Inloggen…</string>
-  <string name="login_step2_title">2-stap verificatie</string>
+  <string name="login_step2_title">2 stap verificatie</string>
   <string name="login_title">Inloggen op je Mi Account</string>
-  <string name="mi_account_dspt_provision">Log in bij Mi Cloud, MIUI Thema's Store, en andere Mi diensten met één account.</string>
+  <string name="mi_account_dspt_provision">"Log in bij Mi Cloud, MIUI Thema's Store, en andere Mi diensten met één account."</string>
   <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account">Mi Account</string>
   <string name="micloud_account_details">Account details</string>
@@ -126,12 +125,8 @@
   <string name="micloud_activing_account_failed">Activeren Mi Account mislukt.</string>
   <string name="micloud_area_code_hot">Frequent gebruikt</string>
   <string name="micloud_area_code_title">Landcode</string>
-  <string name="micloud_click_email">"Om je account te activeren,
- Volg de link in het activatie bericht."</string>
-  <string name="micloud_click_email_to_valid">"
-
-To activate your account, follow the 
- Volg de link in het bericht van Postvak In."</string>
+  <string name="micloud_click_email">"Om je account te activeren, volg de link in het activatie bericht."</string>
+  <string name="micloud_click_email_to_valid">Om je account te activeren, volg de link in het bericht van Postvak In."</string>
   <string name="micloud_data_loading">Loaden</string>
   <string name="micloud_delete_account">Uitloggen</string>
   <string name="micloud_email">Email adres</string>
@@ -139,7 +134,7 @@ To activate your account, follow the
   <string name="micloud_error_empty_captcha_code">Voer de captcha code in</string>
   <string name="micloud_error_empty_phone_num">Voer telefoonnr.</string>
   <string name="micloud_error_empty_pwd">Voer je wachtwoord in</string>
-  <string name="micloud_error_empty_username">Enter your username</string>
+  <string name="micloud_error_empty_username">Voer je gebruikersnaam in</string>
   <string name="micloud_error_empty_vcode">Voer verificatie code in</string>
   <string name="micloud_error_illegal_pwd">Ongeldig wachtwoord</string>
   <string name="micloud_error_invalid_phone_num">Ongeldig telefoonnr.</string>
@@ -152,20 +147,20 @@ To activate your account, follow the
   <string name="micloud_resend_active_email">Activation email opnieuw verzenden</string>
   <string name="micloud_space_info">%s overblijvend</string>
   <string name="micloud_sync_info">"%d items zijn niet gesynced</string>
-  <string name="micloud_sync_info_synced">Geynced</string>
+  <string name="micloud_sync_info_synced">Gesynced</string>
   <string name="micloud_user_base_info">Gebruikers info</string>
   <string name="micloud_user_email">Email</string>
   <string name="micloud_user_id">Mi Account ID</string>
   <string name="micloud_user_name">Naam</string>
   <string name="micloud_user_nick_name">Roepnaam</string>
   <string name="micloud_user_phone">Telefoonnr.</string>
-  <string name="micloud_user_space_title">Opslag ruilte</string>
-  <string name="micloud_via_int_sms_alert">ADe activerings SMS is onderworpen aan internationale data kosten van uw provider.</string>
+  <string name="micloud_user_space_title">Opslag ruimte</string>
+  <string name="micloud_via_int_sms_alert">AD activerings SMS is onderworpen aan internationale data kosten van uw provider.</string>
   <string name="micloud_via_sms_alert">Je provider kan kosten aanrekenen voor SMS bericht om de service te activerenen.</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
-  <string name="micloud_welcome_skip_login_provision">&lt;u&gt;Skip&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">&lt;u&gt;Sla deze stap over&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login_provision">&lt;u&gt;Overslaan&lt;/u&gt;</string>
   <string name="mili_center">Mi Credits</string>
-  <string name="mipay_center">Bank kaarten</string>
+  <string name="mipay_center">Bankkaarten</string>
   <string name="next">Volgende</string>
   <string name="nobind">Uitgelogd</string>
   <string name="opening_page">Openen…</string>
@@ -178,17 +173,17 @@ To activate your account, follow the
   <string name="privacy_policy">Privacy Policy</string>
   <string name="process_result">Sync. details</string>
   <string name="qq">QQ</string>
-  <string name="quick_login_dialog_step2_title">2-stap verificatie</string>
+  <string name="quick_login_dialog_step2_title">2 stap verificatie</string>
   <string name="quick_login_dialog_title">Bevestig wachtwoord</string>
-  <string name="quick_login_step2_title">2-stap verificatie</string>
+  <string name="quick_login_step2_title">2 stap verificatie</string>
   <string name="quick_login_title">Voer je wachtwoord in</string>
   <string name="re_get_verify_code">Code opnieuw ophalen</string>
   <string name="re_register">Opnieuw registreren</string>
   <string name="reg_by_email_failure">Kan account %1$s niet registreren</string>
-  <string name="reg_failed">Account regitreren mislukt</string>
+  <string name="reg_failed">Account registreren mislukt</string>
   <string name="reg_sms_send_prompt">Verificatie code verzenden naar %s</string>
   <string name="reg_success">Account aangemaakt</string>
-  <string name="reg_success_summary">%1$s Is toegevoegd aan je Mi Account. You can use it to sign in or to reset your password.</string>
+  <string name="reg_success_summary">%1$s is toegevoegd aan je Mi Account. U kunt het gebruiken om in te loggen of om uw wachtwoord opnieuw in te stellend.</string>
   <string name="reg_type_email">Gebruik Email adres om account aan te maken</string>
   <string name="reg_type_other_ways">&lt;u&gt;Gebruik Email adres om account aan te maken&lt;/u&gt;</string>
   <string name="reg_type_other_ways_title">Gebruik Email adres om account aan te maken</string>
@@ -204,16 +199,16 @@ To activate your account, follow the
   <string name="register_by_email">&lt;u&gt;Gebruik Email adres om account aan te maken&lt;/u&gt;</string>
   <string name="relogin">Opnieuw inloggen</string>
   <string name="relogin_notice">Je moet opnieuw inloggen</string>
-  <string name="remove_account_notice">Wat zou je willen doen met de berichten, contactpersonen en andere gegevens die zijn gesynchroniseerd op uw Mi Account?</string>
+  <string name="remove_account_notice">Wat zou je willen doen met de berichten, contactpersonen en andere gegevens die zijn gesync. op uw Mi Account?</string>
   <string name="remove_confirm">Uitloggen</string>
   <string name="remove_unactivated_account_notice">Active account mislukt</string>
   <string name="removing_account">Uitloggen…</string>
-  <string name="scan_barcode_title">Om op jeMi Account in te loggen, scan de QR code</string>
+  <string name="scan_barcode_title">Om op je Mi Account in te loggen, scan de QR code</string>
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Service fout</string>
   <string name="show_password">Weergeven wachtwoord</string>
-  <string name="sim_changed_notification_content">Sim kaart is niet geactiveerd</string>
-  <string name="sim_index_info">SIM kaart %1$d - %2$s</string>
+  <string name="sim_changed_notification_content">SIM-kaart is niet geactiveerd</string>
+  <string name="sim_index_info">SIM-kaart %1$d - %2$s</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Inloggen overslaan</string>
   <string name="skip_login_u">&lt;u&gt;Inloggen overslaan&lt;/u&gt;</string>
@@ -222,8 +217,8 @@ To activate your account, follow the
   <string name="skip_setup_account_title">Instellen overslaan</string>
   <string name="sync_off">Uit</string>
   <string name="sync_on">Aan</string>
-  <string name="theme_store">MIUI Themes Store</string>
-  <string name="theme_store_dspt">"Kies je look. Honderden gratis aanpasbare thema's om uw telefoon uniek te maken."</string>
+  <string name="theme_store">MIUI Thema Store</string>
+  <string name="theme_store_dspt">Kies je look. Honderden gratis aanpasbare thema's om uw telefoon uniek te maken.</string>
   <string name="title_reg">Account aanmaken</string>
   <string name="trust_device">Vertrouw dit apparaat</string>
   <string name="unactivated_user">Bijna daar…</string>
@@ -231,19 +226,16 @@ To activate your account, follow the
   <string name="unbind_sns_description">Na ontbinden, kan je niet inloggen op je Mi Account met behulp van  %s</string>
   <string name="unbind_weibo_description">Na ontbinden，kan je je contacten niet sync., en kan je ook niet inloggen op je Mi Account met behulp van Sina Weibo</string>
   <string name="update_contacts">Bijwerken adresboek</string>
-  <string name="update_contacts_description">Laat Sina Weibo  uw Mi-account gebruiken om je contacten synchroniseren op verschillende platforms</string>
-  <string name="updated_contacts">GeUpdate %s contacten</string>
+  <string name="update_contacts_description">Laat Sina Weibo  uw Mi account gebruiken om je contacten synchroniseren op verschillende platforms</string>
+  <string name="updated_contacts">Geupdate %s contacten</string>
   <string name="updated_nothing">Geupdate</string>
   <string name="user_agreement">Gebruikers overeenkomst</string>
-  <string name="user_agreement_p1">"Door in te loggen, you're agreeing to our
-  "</string>
-  <string name="user_agreement_p2">User Agreement</string>
+  <string name="user_agreement_p1">"Door in te loggen, ben je akkord met onze "</string>
+  <string name="user_agreement_p2">Gebruikersovereenkomst</string>
   <string name="user_agreement_p3"> and  </string>
   <string name="user_agreement_p4">Privacy Policy</string>
-  <string name="user_agreement_p5">"Bij het aanmaken van een account, ga je akkoord met
- onze Policy"</string>
-  <string name="user_agreement_p6">"ga je akkoord met onze
-  "</string>
+  <string name="user_agreement_p5">Bij het aanmaken van een account, ga je akkoord met onze Policy</string>
+  <string name="user_agreement_p6">"ga je akkoord met onze "</string>
   <string name="vcode">Verificatie code</string>
   <string name="vcode_notification_title">Verificati is niet voltooid</string>
   <string name="vcode_prompt_long">Voer de verificatie code gegenereed door jouw Mi Security token</string>
@@ -251,7 +243,7 @@ To activate your account, follow the
   <string name="verify">Bevestigen</string>
   <string name="wipe_data_dialog_msg">%s items worden verwijderd als u doorgaat.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Sommige items zijn niet gesynced"</string>
+  <string name="wipe_data_dialog_title">Sommige items zijn niet gesync."</string>
   <string name="wrong_captcha">De ingevoerde code is ongeldig</string>
   <string name="wrong_phone_number_format">De opmaak van het telefoonnummer dat u hebt ingevoerd is ongeldig</string>
   <string name="wrong_vcode">De ingevoerde verificatie code is ongeldig</string>
