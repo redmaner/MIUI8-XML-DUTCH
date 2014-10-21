@@ -99,8 +99,8 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
-        <item>Pincode van peerapparaat</item>
-        <item>Pin van dit apparaat</item>
+        <item>PIN code van peerapparaat</item>
+        <item>PIN van dit apparaat</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Verbonden</item>
@@ -139,7 +139,7 @@
     <string-array name="usage_stats_display_order_types">
         <item>Gebruikstijd</item>
         <item>Aantal keer gestart</item>
-        <item>App-naam</item>
+        <item>App naam</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -195,7 +195,7 @@
         <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Interne apparaatopslag</item>
+        <item>Intern geheugen</item>
         <item>Verwisselbare SD-kaart</item>
         <item>Het systeem laten bepalen</item>
     </string-array>
@@ -208,48 +208,48 @@
     </string-array>
     <string-array name="app_ops_summaries">
         <item>geschatte locatie</item>
-        <item>nauwkeurige locatie</item>
+        <item>Nauwkeurige locatie</item>
         <item>GPS</item>
-        <item>trillen</item>
-        <item>contacten lezen</item>
-        <item>contacten aanpassen</item>
-        <item>gesprekkenlijst lezen</item>
-        <item>gesprekkenlijst aanpassen</item>
-        <item>agenda lezen</item>
-        <item>agenda aanpassen</item>
-        <item>wifi-scan</item>
-        <item>melding</item>
+        <item>Trillen</item>
+        <item>Contacten lezen</item>
+        <item>Contacten aanpassen</item>
+        <item>Gesprekkenlijst lezen</item>
+        <item>Gesprekkenlijst aanpassen</item>
+        <item>Agenda lezen</item>
+        <item>Agenda aanpassen</item>
+        <item>WiFi scan</item>
+        <item>Melding</item>
         <item>mobiele scan</item>
-        <item>nummer bellen</item>
-        <item>sms lezen</item>
-        <item>sms schrijven</item>
-        <item>sms ontvangen</item>
-        <item>nood-sms ontvangen</item>
-        <item>mms ontvangen</item>
-        <item>WAP-push ontvangen</item>
-        <item>sms verzenden</item>
-        <item>ICC sms lezen</item>
-        <item>ICC sms schrijven</item>
-        <item>instellingen aanpassen</item>
-        <item>bovenop tekenen</item>
-        <item>toegang tot meldingen</item>
-        <item>camera</item>
-        <item>audio opnemen</item>
-        <item>audio afspelen</item>
-        <item>klembord lezen</item>
-        <item>klembord aanpassen</item>
-        <item>mediaknoppen</item>
-        <item>audiofocus</item>
-        <item>hoofdvolume</item>
-        <item>stemvolume</item>
-        <item>beltoonvolume</item>
-        <item>mediavolume</item>
-        <item>alarmvolume</item>
-        <item>meldingsvolume</item>
-        <item>bluetooth-volume</item>
-        <item>ingeschakeld houden</item>
-        <item>monitorlocatie</item>
-        <item>locatie met hoog energieverbruik controleren</item>
+        <item>Nummer bellen</item>
+        <item>SMS lezen</item>
+        <item>SMS schrijven</item>
+        <item>SMS ontvangen</item>
+        <item>Nood SMS ontvangen</item>
+        <item>MMS ontvangen</item>
+        <item>WAP push ontvangen</item>
+        <item>SMS verzenden</item>
+        <item>ICC SMS lezen</item>
+        <item>ICC SMS schrijven</item>
+        <item>Instellingen aanpassen</item>
+        <item>Bovenop tekenen</item>
+        <item>Toegang tot meldingen</item>
+        <item>Camera</item>
+        <item>Audio opnemen</item>
+        <item>Audio afspelen</item>
+        <item>Klembord lezen</item>
+        <item>Klembord aanpassen</item>
+        <item>Mediaknoppen</item>
+        <item>Audiofocus</item>
+        <item>Hoofdvolume</item>
+        <item>Stemvolume</item>
+        <item>Beltoonvolume</item>
+        <item>Mediavolume</item>
+        <item>Alarmvolume</item>
+        <item>Meldingsvolume</item>
+        <item>Bluetooth volume</item>
+        <item>Ingeschakeld houden</item>
+        <item>Monitorlocatie</item>
+        <item>Locatie met hoog energieverbruik controleren</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Locatie</item>
@@ -266,15 +266,15 @@
         <item>Melding verzenden</item>
         <item>Locatie</item>
         <item>Nummer bellen</item>
-        <item>Sms/mms lezen</item>
-        <item>Sms/mms schrijven</item>
-        <item>Sms/mms ontvangen</item>
-        <item>Sms/mms ontvangen</item>
-        <item>Sms/mms ontvangen</item>
-        <item>Sms/mms ontvangen</item>
-        <item>Sms/mms verzenden</item>
-        <item>Sms/mms lezen</item>
-        <item>Sms/mms schrijven</item>
+        <item>SMS/MMS lezen</item>
+        <item>SMS/MMS schrijven</item>
+        <item>SMS/MMS ontvangen</item>
+        <item>SMS/MMS ontvangen</item>
+        <item>SMS/MMS ontvangen</item>
+        <item>SMS/MMS ontvangen</item>
+        <item>SMS/MMS verzenden</item>
+        <item>SMS/MMS lezen</item>
+        <item>SMS/MMS schrijven</item>
         <item>Instellingen aanpassen</item>
         <item>Bovenop tekenen</item>
         <item>Toegang tot meldingen</item>
@@ -313,7 +313,7 @@
         <item>Klein</item>
         <item>Normaal</item>
         <item>Groot</item>
-        <item>Zeer groot</item>
+        <item>Enorm</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Geen</item>
@@ -398,7 +398,7 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Uit</item>
-        <item>Niet-rechthoekige bijsnijdregio tekenen in blauw</item>
+        <item>Niet rechthoekige bijsnijdregio tekenen in blauw</item>
         <item>Geteste tekenopdrachten markeren in groen</item>
     </string-array>
     <string-array name="track_frame_time_entries">
@@ -443,9 +443,9 @@
         <item>Altijd toestaan</item>
     </string-array>
     <string-array name="ram_states">
-        <item>normaal</item>
-        <item>gemiddeld</item>
-        <item>laag</item>
-        <item>kritiek</item>
+        <item>Normaal</item>
+        <item>Gemiddeld</item>
+        <item>Laag</item>
+        <item>Kritiek</item>
     </string-array>
 </resources>
