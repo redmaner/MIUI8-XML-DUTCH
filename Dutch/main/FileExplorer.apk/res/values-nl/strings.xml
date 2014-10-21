@@ -20,7 +20,7 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Documenten</string>
-  <string name="category_favorite">Starred</string>
+  <string name="category_favorite">Sterren</string>
   <string name="category_log">Logs</string>
   <string name="category_music">Muziek</string>
   <string name="category_other">Overige</string>
@@ -41,7 +41,7 @@
   <string name="compress_fail">Compressie mislukt: er bestaat al een bestand met dezelfde naam.</string>
   <string name="compress_message">Comprimeren naar…</string>
   <string name="compress_title">Comprimeer</string>
-  <string name="confirm">Bevestigentigen</string>
+  <string name="confirm">Bevestigen</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Een herriner me ervan wanner ik op het internet ga</string>
   <string name="copy_failed">Kan niet kopiëren</string>
@@ -78,7 +78,7 @@
   <string name="downloading">Downloaden</string>
   <string name="downloading_in_3g">Downloaden op 3G…</string>
   <string name="enable_sd_card">Steek de SD-kaart of schakelen USB-opslag uit.</string>
-  <string name="error_filename_too_long">Bestansnaam is te lang.</string>
+  <string name="error_filename_too_long">Bestandsnaam is te lang.</string>
   <string name="error_info_cant_send_folder">Kan dit type bestand niet verzenden.</string>
   <string name="error_open_file_failed_no_app_found">Geen app  gevonden om deze actie uit te voeren.</string>
   <string name="fail_to_create_folder">Niet genoeg ruimte of de map bestaat al.</string>
@@ -94,7 +94,7 @@
   <string name="file_info_ishidden">Veborgen:</string>
   <string name="file_info_location">Locatie:</string>
   <string name="file_info_modified">Laatst aangepast:</string>
-  <string name="file_info_size">Groote:</string>
+  <string name="file_info_size">Grootte:</string>
   <string name="file_loading">Laden…</string>
   <string name="file_not_exist">Bestand bestaat niet</string>
   <string name="file_too_large">Bstand te groot om te uploaden</string>
@@ -119,8 +119,7 @@
   <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_over_space">Niet genoeg ruimte.</string>
   <string name="kuaipan_prompt">Mededeling</string>
-  <string name="kuaipan_prompt_message">De server is down is voor onderhoud op het moment. Probeer het later opnieuw ...
-"</string>
+  <string name="kuaipan_prompt_message">De server is down is voor onderhoud op het moment. Probeer het later opnieuw ..."</string>
   <string name="kuaipan_tech_support">Login at kuaipan.cn</string>
   <string name="load_err">"Kan niet laden</string>
   <string name="loading">Laden…</string>
@@ -167,13 +166,13 @@
   <string name="my_music_desc"/>
   <string name="my_photo">"Foto's"</string>
   <string name="my_photo_desc"/>
-  <string name="my_video">Videos</string>
+  <string name="my_video">"Video's"</string>
   <string name="my_video_desc"/>
   <string name="name_illegal">Naam invullen.</string>
   <string name="net_lose_connected">Vebinding verbroken.</string>
-  <string name="networkView_notConnected">Kan geen verbinding maken met het netwerk</string>
-  <string name="network_connect_confirm_des">We zullen het netwerk openen voor het gebruik van kuaipan, mee eens?</string>
-  <string name="never_notify_network_connect">Dit niet meer tonen </string>
+  <string name="networkView_notConnected">Kan geen netwerkverbinding maken</string>
+  <string name="network_connect_confirm_des">Netwerk openen voor het gebruik van kuaipan, akkoord?</string>
+  <string name="never_notify_network_connect">Niet meer weergeven </string>
   <string name="new_folder_name">Naamloze map</string>
   <string name="no">Nee</string>
   <string name="no_enough_storage_indication">Opslagruimte apparaat is vol.</string>
@@ -185,9 +184,7 @@
   <string name="no_wifi_hint">Geen verbinding</string>
   <string name="notif_server_starting">Starten FTP server…</string>
   <string name="notif_title">FTP server is actief</string>
-  <string name="open_changed_file_message">"Het bestand dat u probeert te openen is gewijzigd.
-1. Download het bestand opnieuw om het bij te werken.
-2. Upload het naar uw KuaiPan account."</string>
+  <string name="open_changed_file_message">"Het bestand dat u probeert te openen is gewijzigd. 1. Download het bestand opnieuw om het bij te werken. 2. Upload het naar uw KuaiPan account."</string>
   <string name="open_changed_file_title">Verandering toegepast.</string>
   <string name="open_file_failed">Openen mislukt</string>
   <string name="operate_confirm_in_3g">Uw mobiele gegevensverbinding gebruiken om dit grote bestand te downloaden?</string>
@@ -202,14 +199,14 @@
   <string name="operation_create_folder">Maak nieuwe map aan</string>
   <string name="operation_create_folder_message">Naam map</string>
   <string name="operation_decompressing">Uitpakken…</string>
-  <string name="operation_delete">Annuleren</string>
+  <string name="operation_delete">Verwijderen</string>
   <string name="operation_delete_confirm_message">Map verwijderen?</string>
   <string name="operation_delete_confirm_message_folder">Alle inhoud van de map wordt verwijderd.</string>
   <string name="operation_deleting">Verwijderen…</string>
   <string name="operation_deleting_detail">Verwijderen (%1$d/%2$d)</string>
   <string name="operation_download_link">Maak download link</string>
   <string name="operation_favorite">Ster</string>
-  <string name="operation_hide_sys">Geen verborgen bestanden tonen</string>
+  <string name="operation_hide_sys">Geen verborgen bestanden weergeven</string>
   <string name="operation_info">Details</string>
   <string name="operation_move">Knippen</string>
   <string name="operation_moving">Verplaatsen…</string>
@@ -225,7 +222,7 @@
   <string name="operation_resume_all">Hervat alle</string>
   <string name="operation_save">Opslaan</string>
   <string name="operation_send">Verzenden</string>
-  <string name="operation_show_sys">Toon verborgen bestanden</string>
+  <string name="operation_show_sys">Geef verborgen bestanden weer</string>
   <string name="operation_unfavorite">Ster verwijderen</string>
   <string name="pan_settting">Instellingen KuaiPan</string>
   <string name="paused">Gepauzeerd</string>
@@ -236,14 +233,14 @@
   <string name="rename_description">Naam wijzigen…</string>
   <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
   <string name="sd_card_available">Beschikbaar: %1$s</string>
-  <string name="sd_card_size">SD card: %1$s</string>
-  <string name="sd_full"> SD-kaart is vol.</string>
+  <string name="sd_card_size">SD-kaart: %1$s</string>
+  <string name="sd_full">SD-kaart is vol.</string>
   <string name="search_hint">Zoeken</string>
   <string name="search_title">Zoeken</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Dit bestandstype wordt niet ondersteund.</string>
   <string name="server_control_advanced_settings">Instellingen FTP</string>
-  <string name="server_control_charset">Overdracht coderenstring>
+  <string name="server_control_charset">Overdracht coderenstring</string>
   <string name="server_control_settings">Instellingen</string>
   <string name="share_box">Gedeeld</string>
   <string name="share_box_receive">Ontvangen</string>
@@ -252,8 +249,7 @@
   <string name="show_message">Je het bestand eerst downloaden voordat je het kunt openen.</string>
   <string name="sign_description">Aanmelden…</string>
   <string name="signin_error">Kan geen verbinding maken met de server. Controleer uw netwerkverbinding.</string>
-  <string name="signin_success">"Je bent aangemeld!
-Vrije ruimte toegevoegd%1$s"</string>
+  <string name="signin_success">"Je bent aangemeld! Vrije ruimte toegevoegd%1$s"</string>
   <string name="space_info">KuaiPan: %1$s beschikbaar, %2$s in totaal</string>
   <string name="space_usage">Gebruikte ruimte</string>
   <string name="start_server">Start server</string>
@@ -262,7 +258,7 @@ Vrije ruimte toegevoegd%1$s"</string>
   <string name="stay_awake_title">Standby</string>
   <string name="stop_server">Stop server</string>
   <string name="storage_internal">Inter geheugen</string>
-  <string name="storage_sd_card">SD kaart</string>
+  <string name="storage_sd_card">SD-kaart</string>
   <string name="storage_usb">USB opslag</string>
   <string name="storage_warning">Kan externe opslag niet gebruiken</string>
   <string name="sys_size_enable">Inschakelen</string>
@@ -275,19 +271,19 @@ Vrije ruimte toegevoegd%1$s"</string>
   <string name="toast_file_not_can_read">Geen app gevonden om deze actie uit te voeren.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netwerk overdracht</string>
-  <string name="transing">Verzeneden</string>
+  <string name="transing">Verzenden</string>
   <string name="trash_box_capacity">Vuilbak %1$s</string>
   <string name="trash_box_link">Om uw prullenbak leeg te maken, bezoek&lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
   <string name="trash_box_message1">Verwijder onnodige bestanden om ruimte vrij te maken.</string>
   <string name="trash_box_message2">Leeg de prullenbak om ruimte vrij te maken.</string>
-  <string name="ui_filechange_btn_download">Bestand doawloaden?</string>
+  <string name="ui_filechange_btn_download">Bestand downloaden?</string>
   <string name="ui_filechange_btn_upload">Bestand uploaden</string>
   <string name="ui_main_menu_option_sign_in">Aanmelden…</string>
   <string name="ui_main_menu_option_task_manage">Manage transfersBeheer overdrachten</string>
   <string name="ui_main_progress_txt_open_file">Downloaden…</string>
   <string name="ui_main_toast_favorite_removed">Ster verwijderd</string>
   <string name="ui_main_toast_operation_failed">Kan ster %1$s niet verwijderen</string>
-  <string name="unmount_inform_text">Koppel USB-opslag los?</string>
+  <string name="unmount_inform_text">Koppel USB opslag los?</string>
   <string name="upload_failed">Upload mislukt</string>
   <string name="upload_file_toolarge_message">%1$d mislukt om te uploaden: je kan geen bestanden uploaden die groter zijn dan.</string>
   <string name="uploading">Uploaden</string>
@@ -298,17 +294,17 @@ Vrije ruimte toegevoegd%1$s"</string>
   <string name="user_guide_kuaipan_copy">Kopieer bestanden van de telefoon en dan plakken naar KuaiPan</string>
   <string name="user_guide_kuaipan_lable">Te goed van Kuaipan</string>
   <string name="user_guide_other_version">Downloaden in mi.kuaipan.cn.Aanmelden met je account(%1$s)</string>
-  <string name="user_guide_save_file">Slaan uw bestanden en foto's op in KuaiPan.</string>
+  <string name="user_guide_save_file">"Slaan uw bestanden en foto's op in KuaiPan."</string>
   <string name="user_guide_summary">Een kort overzicht</string>
   <string name="user_guide_upload_to_kuaipan">Sla items op in KuaiPan vanaf je telefoon</string>
   <string name="utf8_summary">Systeem FTP standaard codering</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Wachten op netwerk</string>
-  <string name="wait_sdcard">Wachten op SD kaart…</string>
-  <string name="wait_wifi">Wachten op WIFI</string>
+  <string name="wait_sdcard">Wachten op SD-kaart…</string>
+  <string name="wait_wifi">Wachten op WiFi</string>
   <string name="waiting">Wachten</string>
   <string name="wangpan_root_path">Mijn harde schijf</string>
-  <string name="wifi_state">WIFI netwerk</string>
+  <string name="wifi_state">WiFi netwerk</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="yes">Ja</string>
 </resources>
