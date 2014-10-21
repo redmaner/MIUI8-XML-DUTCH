@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="BaMmi">Oproep blokkeren</string>
-  <string name="CLIRDefaultOffNextCallOff">"Beller-id standaard ingesteld op 'onbeperkt'. Volgende oproep: onbeperkt."</string>
-  <string name="CLIRDefaultOffNextCallOn">"Beller-id standaard ingesteld op 'onbeperkt'. Volgende oproep: beperkt."</string>
-  <string name="CLIRDefaultOnNextCallOff">"Beller-id standaard ingesteld op 'beperkt'. Volgende oproep: onbeperkt."</string>
-  <string name="CLIRDefaultOnNextCallOn">"Beller-id standaard ingesteld op 'beperkt'. Volgende oproep: beperkt."</string>
+  <string name="BaMmi">Gesprek blokkeren</string>
+  <string name="CLIRDefaultOffNextCallOff">"Beller-id standaard ingesteld op 'onbeperkt'. Volgende gesprek: onbeperkt."</string>
+  <string name="CLIRDefaultOffNextCallOn">"Beller-id standaard ingesteld op 'onbeperkt'. Volgende gesprek: beperkt."</string>
+  <string name="CLIRDefaultOnNextCallOff">"Beller-id standaard ingesteld op 'beperkt'. Volgende gesprek: onbeperkt."</string>
+  <string name="CLIRDefaultOnNextCallOn">"Beller-id standaard ingesteld op 'beperkt'. Volgende gesprek: beperkt."</string>
   <string name="CLIRPermanent">U kunt de instelling voor de beller-id niet wijzigen.</string>
-  <string name="CfMmi">Oproep doorschakelen</string>
+  <string name="CfMmi">Gesprek doorschakelen</string>
   <string name="ClipMmi">Inkomende beller-id</string>
   <string name="ClirMmi">Uitgaande beller-id</string>
   <string name="CndMmi">Weergave van nummer van beller</string>
@@ -19,17 +19,17 @@
   <string name="PinMmi">PIN-wijziging</string>
   <string name="PwdMmi">Wachtwoordwijziging</string>
   <string name="RestrictedChangedTitle">Beperkte toegang gewijzigd</string>
-  <string name="RestrictedOnAll">Alle spraak-/gegevens-/SMS-services zijn geblokkeerd.</string>
+  <string name="RestrictedOnAll">Alle spraak-/gegevens-/SMS services zijn geblokkeerd.</string>
   <string name="RestrictedOnAllVoice">Alle spraakservices zijn geblokkeerd.</string>
   <string name="RestrictedOnData">Gegevensservice is geblokkeerd.</string>
   <string name="RestrictedOnEmergency">Alarmservice is geblokkeerd.</string>
   <string name="RestrictedOnNormal">Spraakservice is geblokkeerd.</string>
-  <string name="RestrictedOnSms">SMS-service is geblokkeerd.</string>
+  <string name="RestrictedOnSms">SMS service is geblokkeerd.</string>
   <string name="RestrictedOnVoiceData">Spraak-/gegevensservices zijn geblokkeerd.</string>
-  <string name="RestrictedOnVoiceSms">Spraak-/SMS-services zijn geblokkeerd.</string>
+  <string name="RestrictedOnVoiceSms">Spraak-/SMS services zijn geblokkeerd.</string>
   <string name="RuacMmi">Ongewenste, vervelende oproepen weigeren</string>
-  <string name="SetupCallDefault">Oproep accepteren?</string>
-  <string name="ThreeWCMmi">Driewegs bellen</string>
+  <string name="SetupCallDefault">Gesprek accepteren?</string>
+  <string name="ThreeWCMmi">Driewegs gesprek</string>
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Deze video kan niet worden gestreamd naar dit apparaat.</string>
   <string name="VideoView_error_text_unknown">Deze video kan niet worden afgespeeld.</string>
@@ -779,7 +779,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_bindTextService">Hiermee kan de gebruiker koppelen met de hoofdinterface van een tekstservice (zoals SpellCheckerService). Dit is niet nodig voor normale apps.</string>
   <string name="permdesc_bindVpnService">Staat de houder toe verbinding te maken met de hoofdinterface van een VPN-service. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindWallpaper">Hiermee wordt de houder toegestaan zich te verbinden met de hoofdinterface van een achtergrond. Nooit vereist voor normale apps.</string>
-  <string name="permdesc_bind_call_service">Hiermee kan de app bepalen wanneer en hoe de gebruiker het scherm in een actieve oproep te zien krijgt.</string>
+  <string name="permdesc_bind_call_service">Hiermee kan de app bepalen wanneer en hoe de gebruiker het scherm in een actieve gesprek te zien krijgt.</string>
   <string name="permdesc_bluetooth">Hiermee kan de app de Bluetooth-configuratie van de tablet bekijken en verbindingen met gekoppelde apparaten maken en accepteren.</string>
   <string name="permdesc_bluetoothAdmin">Hiermee kan de app de lokale Bluetooth-tablet configureren en externe apparaten zoeken en koppelen.</string>
   <string name="permdesc_bluetoothPriv">De app toestaan te koppelen met externe apparaten zonder tussenkomst van de gebruiker.</string>
@@ -818,7 +818,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_deletePackages">Hiermee kan de app Android-pakketten verwijderen. Schadelijke apps kunnen deze toestemming gebruiken om belangrijke apps te verwijderen.</string>
   <string name="permdesc_devicePower">Hiermee kan de app de tablet in- of uitschakelen.</string>
   <string name="permdesc_diagnostic">Hiermee kan de app lezen en schrijven naar elke bron die hoort bij de diagnostische groep, zoals bestanden in /dev. Hierdoor kan de systeemstabiliteit en -veiligheid worden beïnvloed. Dit mag ALLEEN worden gebruikt voor hardwarespecifieke diagnostiek door de fabrikant of provider.</string>
-  <string name="permdesc_disableKeyguard">Hiermee kan de app de toetsenblokkering en bijbehorende wachtwoordbeveiliging uitschakelen. Zo kan de telefoon de toetsenblokkering uitschakelen wanneer er een oproep binnenkomt en de toetsenblokkering weer inschakelen als de oproep is beëindigd.</string>
+  <string name="permdesc_disableKeyguard">Hiermee kan de app de toetsenblokkering en bijbehorende wachtwoordbeveiliging uitschakelen. Zo kan de telefoon de toetsenblokkering uitschakelen wanneer er een gesprek binnenkomt en de toetsenblokkering weer inschakelen als de gesprek is beëindigd.</string>
   <string name="permdesc_dump">Hiermee kan de app de interne systeemstatus ophalen. Schadelijke apps kunnen een grote hoeveelheid persoonlijke en beveiligde informatie ophalen die ze normaal gesproken nooit nodig hebben.</string>
   <string name="permdesc_enableCarMode">Hiermee kan de app de automodus inschakelen.</string>
   <string name="permdesc_expandStatusBar">Hiermee kan de app de statusbalk uitvouwen of samenvouwen.</string>
@@ -882,7 +882,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_readInputState">Hiermee kan de app bijhouden op welke toetsen u drukt, zelfs wanneer u een andere app gebruikt (bijvoorbeeld wanneer u een wachtwoord typt). Dit is niet nodig voor normale apps.</string>
   <string name="permdesc_readLogs">Hiermee kan de app de verschillende logbestanden van het systeem lezen. De app kan op deze manier algemene informatie achterhalen over uw tabletgebruik, mogelijk inclusief persoonlijke of privé-informatie.</string>
   <string name="permdesc_readNetworkUsageHistory">Hiermee kan de app historisch netwerkgebruik voor specifieke netwerken en apps lezen.</string>
-  <string name="permdesc_readPhoneState">"Hiermee kan de app toegang krijgen tot de telefoonfuncties van het apparaat, Met deze toestemming kan de app het telefoonnummer en de apparaat-ID's bepalen, of een oproep actief is, en het andere telefoonnummer waarmee wordt gebeld."</string>
+  <string name="permdesc_readPhoneState">"Hiermee kan de app toegang krijgen tot de telefoonfuncties van het apparaat, Met deze toestemming kan de app het telefoonnummer en de apparaat-ID's bepalen, of een gesprek actief is, en het andere telefoonnummer waarmee wordt gebeld."</string>
   <string name="permdesc_readProfile">Hiermee kan de app persoonlijke profielgegevens lezen die op uw apparaat zijn opgeslagen, zoals uw naam en contactgegevens. Dit betekent dat de app u kan identificeren en uw profielgegevens naar anderen kan verzenden.</string>
   <string name="permdesc_readSms">Hiermee kan de app sms-berichten lezen die zijn opgeslagen op uw tablet of SIM kaart. De app kan alle sms-berichten lezen, ongeacht inhoud of vertrouwelijkheid.</string>
   <string name="permdesc_readSocialStream">Hiermee kan de app toegang krijgen tot sociale updates van u en uw vrienden en deze synchroniseren. Wees voorzichtig bij het delen van informatie: hiermee kan de app communicatie lezen tussen u en uw vrienden op sociale netwerken, ongeacht de vertrouwelijkheid. Opmerking: deze toestemming kan niet worden afgedwongen voor alle sociale netwerken.</string>
@@ -1059,7 +1059,7 @@ voor account %s."</string>
   <string name="permlab_bindTextService">koppelen aan een sms-service</string>
   <string name="permlab_bindVpnService">koppelen aan een VPN-service</string>
   <string name="permlab_bindWallpaper">verbinden met een achtergrond</string>
-  <string name="permlab_bind_call_service">interactie met scherm in actieve oproep</string>
+  <string name="permlab_bind_call_service">interactie met scherm in actieve gesprek</string>
   <string name="permlab_bluetooth">koppelen met Bluetooth-apparaten</string>
   <string name="permlab_bluetoothAdmin">Bluetooth-instellingen openen</string>
   <string name="permlab_bluetoothPriv">Bluetooth-koppeling door app toestaan</string>
@@ -1505,7 +1505,7 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="validity_period">Geldigheid:</string>
   <string name="volume_alarm">Alarmvolume</string>
   <string name="volume_bluetooth_call">Volume tijdens gesprek in Bluetooth-modus</string>
-  <string name="volume_call">Volume inkomende oproep</string>
+  <string name="volume_call">Volume inkomende gesprek</string>
   <string name="volume_icon_description_bluetooth">Bluetooth-volume</string>
   <string name="volume_icon_description_incall">Belvolume</string>
   <string name="volume_icon_description_media">Mediavolume</string>
