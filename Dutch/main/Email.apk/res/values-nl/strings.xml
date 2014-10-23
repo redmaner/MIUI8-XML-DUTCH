@@ -6,15 +6,16 @@
   <string name="abc_action_bar_up_description">Navigeer omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Klaar</string>
-  <string name="abc_activity_chooser_view_see_all">Alles bekijken</string>
+  <string name="abc_activity_chooser_view_see_all">Alles weergegeven</string>
   <string name="abc_activitychooserview_choose_application">Kies een app</string>
-  <string name="abc_searchview_description_clear">Wissen zoekopdracht</string>
+  <string name="abc_searchview_description_clear">Verwijderen zoekopdracht</string>
   <string name="abc_searchview_description_query">Zoekopdracht</string>
   <string name="abc_searchview_description_search">Zoeken</string>
   <string name="abc_searchview_description_submit">Vraag bevestigen</string>
   <string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account '%s'."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_folder_list_summary_drafts">Concepten</string>
@@ -35,7 +36,7 @@
   <string name="account_set_up_notice">In slechts een paar stappen kunt u een e-mailaccount instellen voor de meerderheid van</string>
   <string name="account_settings_action">Accountinstellingen</string>
   <string name="account_settings_background_attachments_label">Bijlagen downloaden</string>
-  <string name="account_settings_background_attachments_summary">Bijlagen van recente berichten automatisch downloaden via wifi</string>
+  <string name="account_settings_background_attachments_summary">Bijlagen van recente berichten automatisch downloaden via Wifi</string>
   <string name="account_settings_data_usage">Gegevensgebruik</string>
   <string name="account_settings_description_label">Accountnaam</string>
   <string name="account_settings_edit_quick_responses_label">Snelle reacties</string>
@@ -87,7 +88,7 @@
   <string name="account_setup_check_settings_retr_info_msg">Accountinformatie ophalen...</string>
   <string name="account_setup_creating_account_msg">Account maken…</string>
   <string name="account_setup_exchange_certificate_title">Clientcertificaat</string>
-  <string name="account_setup_exchange_device_id_label">Mobiele apparaat-id</string>
+  <string name="account_setup_exchange_device_id_label">Mobiel apparaat-id</string>
   <string name="account_setup_exchange_no_certificate">Geen</string>
   <string name="account_setup_exchange_remove_certificate">Verwijderen</string>
   <string name="account_setup_exchange_select_certificate">Selecteren</string>
@@ -95,7 +96,7 @@
   <string name="account_setup_failed_access_denied">U heeft geen toestemming met deze server te synchroniseren. Neem voor meer informatie contact op met de beheerder van uw server.</string>
   <string name="account_setup_failed_auth_required">Verificatiemethoden worden niet ondersteund door de server.</string>
   <string name="account_setup_failed_certificate_inaccessible">Het certificaat is ongeldig of niet toegankelijk.</string>
-  <string name="account_setup_failed_certificate_required">Er is een client-certificaat vereist. Wilt u verbinding maken met de server met een client-certificaat?</string>
+  <string name="account_setup_failed_certificate_required">Er is een clientcertificaat vereist. Wilt u verbinding maken met de server met een client certificaat?</string>
   <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
   <string name="account_setup_failed_dlg_auth_message">Gebruikersnaam of wachtwoord is onjuist.</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Aanmelden mislukt.
@@ -104,9 +105,8 @@
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan geen veilige verbinding met de server tot stand brengen.
 (%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Details bewerken</string>
-  <string name="account_setup_failed_dlg_server_message">Kan geen verbinding maken met de server.</string>
-  <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
-(%s)"</string>
+  <string name="account_setup_failed_dlg_server_message">Kan niet verbinden met de server.</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">Kan niet verbinden met de server(%s)"</string>
   <string name="account_setup_failed_dlg_title">Is niet voltooid</string>
   <string name="account_setup_failed_ioerror">Kan geen verbinding met de server maken.</string>
   <string name="account_setup_failed_protocol_unsupported">U heeft een onjuist serveradres getypt of de server vereist een protocolversie die niet door E-mail wordt ondersteund.</string>
@@ -146,7 +146,7 @@
   <string name="account_setup_options_mail_check_frequency_1hour">Elk uur</string>
   <string name="account_setup_options_mail_check_frequency_30min">Elke 30 minuten</string>
   <string name="account_setup_options_mail_check_frequency_5min">Elke 5 minuten</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">Automatic (Push, If the server supports)</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Automatisch (Push, If the server supports)</string>
   <string name="account_setup_options_mail_check_frequency_label">Controlefrequentie inbox</string>
   <string name="account_setup_options_mail_check_frequency_never">Nooit</string>
   <string name="account_setup_options_mail_check_frequency_push">Automatisch (push)</string>
@@ -188,7 +188,7 @@
   <string name="activity_folder_selection">Map selecteren</string>
   <string name="activity_mailbox_selection">Account kiezen</string>
   <string name="add_account">Account toevoegen</string>
-  <string name="add_attachment">Attach Files</string>
+  <string name="add_attachment">Bijlage toevoegen</string>
   <string name="add_bcc_label">Bcc toevoegen</string>
   <string name="add_cc_label">Cc/Bcc toevoegen</string>
   <string name="add_file_attachment">Bestand bijvoegen</string>
@@ -203,7 +203,7 @@
   <string name="always_bcc_myself">Altijd Bcc naar mijzelf</string>
   <string name="always_show_images">Afbeeldingen van deze afzender altijd tonen</string>
   <string name="always_show_images_toast">"Foto's van deze afzender worden automatisch weergegeven."</string>
-  <string name="annex_size">bijlagen</string>
+  <string name="annex_size">Bijlagen</string>
   <string name="app_name">E-mail</string>
   <string name="application_mime_type">applicatie/email-ls</string>
   <string name="archive">Archiveren</string>
@@ -224,7 +224,7 @@
   <string name="attachment_audio">Audio</string>
   <string name="attachment_image">Afbeelding</string>
   <string name="attachment_mgr_name">Bilagen</string>
-  <string name="attachment_not_found">Kan de bijlage niet downloaden.</string>
+  <string name="attachment_not_found">Bijlage downloaden mislukt.</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">U kunt dit type bijlage niet opslaan of openen.</string>
   <string name="attachment_unknown">%s-bestand</string>
@@ -265,13 +265,14 @@
   <string name="check_setup_data">Valideren server instellingen…</string>
   <string name="checking_for_mail">Controleren op e-mail</string>
   <string name="choosertitle_sharevia">Delen via</string>
-  <string name="clear">Wissen</string>
-  <string name="clear_display_images_whitelist_dialog_message">Niet langer inline-afbeeldingen weergeven van afzenders die u eerder heeft toegestaan.</string>
-  <string name="clear_display_images_whitelist_dialog_title">"Goedkeuringen voor foto's wissen?"</string>
-  <string name="clear_display_images_whitelist_title">"Goedkeuringen voor foto's wissen"</string>
+  <string name="clear">Verwijderen</string>
+  <string name="clear_display_images_whitelist_dialog_message">Niet langer online-afbeeldingen weergeven van afzenders die u eerder heeft toegestaan.</string>
+  <string name="clear_display_images_whitelist_dialog_title">"Goedkeuringen voor foto's verwijderen?"</string>
+  <string name="clear_display_images_whitelist_title">"Goedkeuringen voor foto's verwijderen"</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
   <string name="compose">Opstellen</string>
+  <string name="compose_help_context">Opstellen</string>
   <string name="compose_send">Vezenden</string>
   <string name="compose_sent">Verzenden gelukt</string>
   <string name="confirm">confirm</string>
@@ -285,6 +286,7 @@
   <string name="confirm_send_message_with_no_body">Het bericht bevat geen tekst.</string>
   <string name="confirm_send_message_with_no_subject">Het berichtonderwerp bevat geen tekst.</string>
   <string name="confirm_send_title">Bericht verzenden?</string>
+  <string name="contact_content_provider">Contactgegevens Provider</string>
   <string name="contact_info_string">Contactgegevens weergeven voor %1$s</string>
   <string name="contact_info_string_default">Contactgegevens weergeven</string>
   <string name="contact_list_add_btn">Toevoegen</string>
@@ -303,11 +305,12 @@
   <string name="contextmenu_openlink">Openen in browser</string>
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_sharelink">Link delen</string>
-  <string name="contextmenu_sms_dot">"Sms'en…"</string>
+  <string name="contextmenu_sms_dot">"SMS'en…"</string>
+  <string name="conversation_content_provider">Conversatie gegevens Provider</string>
   <string name="conversation_folder_moved">Verplaatst naar %1$s</string>
   <string name="conversation_item_mark_read">Gelezen</string>
   <string name="conversation_item_mark_unread">Ongelezen</string>
-  <string name="conversation_list_net_check">Niet moglijk om verbindingte maken met het  netwerk, controleer  de netwerkconfiguratie of probeer het later opnieuw</string>
+  <string name="conversation_list_net_check">Kan geen maken met het  netwerk, controleer  de netwerkconfiguratie of probeer het later opnieuw</string>
   <string name="conversation_overload_toast">Deze e-mail is te groot om te laden, probeer het later op de PC</string>
   <string name="conversation_photo_welcome_text">Raak de afbeelding van een afzender aan om dat gesprek te selecteren.</string>
   <string name="copy_email">E-mailadres kopiëren</string>
@@ -322,7 +325,7 @@
   <string name="debug_clear_webview_cache">Leeg WebView cache</string>
   <string name="debug_disable_graphics_acceleration_label">Schakel hardware graphics acceleratie</string>
   <string name="debug_enable_debug_logging_label">Extra debug logging inschakelen?</string>
-  <string name="debug_enable_file_logging_label">Sd card logging inschakelen?</string>
+  <string name="debug_enable_file_logging_label">SD-kaart logging inschakelen?</string>
   <string name="debug_enable_strict_mode_label">Stricte modus (met logging) inschakelen</string>
   <string name="debug_enable_verbose_logging_label">Extreem verbose loggin inschakelen?</string>
   <string name="debug_force_one_minute_refresh_label">Forceer 1-minuut verversing voor POP/IMAP</string>
@@ -350,19 +353,19 @@
   <string name="discard">Weggooien</string>
   <string name="discard_drafts">Concepten verwijderen</string>
   <string name="dismiss_tip_hover_text">Tip negeren</string>
-  <string name="done">Gereed</string>
-  <string name="done_action">Gereed</string>
+  <string name="done">Voltooid</string>
+  <string name="done_action">Voltooid</string>
   <string name="downlaod_cancel_confirm_download">Annuleer download</string>
   <string name="downlaod_cancel_continue_download">Annuleer</string>
   <string name="downlaod_confirm_download">Download</string>
-  <string name="downlaod_nonWifi_confirm_message">Je mobile data verbinding om de bijlage te downloaden?</string>
+  <string name="downlaod_nonWifi_confirm_message">Je mobiele data verbinding gebruiken om de bijlage te downloaden?</string>
   <string name="download_again">Opnieuw downloaden</string>
   <string name="download_before_sharing">is nog niet gedownload</string>
   <string name="download_cancel_confirm_title">Download wordt geannuleerd.</string>
   <string name="download_complete_not_cancel">Download gelukt</string>
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
-  <string name="download_failed">Kan niet downloaden. Raak aan om het opnieuw te proberen.</string>
+  <string name="download_failed">Downloaden mislukt. Raak aan om het opnieuw te proberen.</string>
   <string name="downloading_message_body">Downloading email, even geduld aub…</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Navigatielade sluiten</string>
@@ -373,6 +376,8 @@
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
+  <string name="email_package_name">com.android.email</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">Kan account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -426,7 +431,8 @@
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
   <string name="forward_download_failed_ticker">Kan een of meer bijlagen niet doorsturen.</string>
   <string name="forward_download_failed_title">Bijlage niet doorgestuurd</string>
-  <string name="from">From</string>
+  <string name="forward_subject_label">Fwd:</string>
+  <string name="from">Van</string>
   <string name="from_heading">"Van: "</string>
   <string name="general_preference_confirm_delete_label">Bevestigen vóór verwijderen</string>
   <string name="general_preference_confirm_delete_summary">Berichten</string>
@@ -441,7 +447,7 @@
   <string name="general_preference_text_zoom_tiny">Minuscuul</string>
   <string name="generic_attachment_problem">Kan bestand niet bijvoegen.</string>
   <string name="header_category_account">Account instellingen</string>
-  <string name="header_category_other">Andere</string>
+  <string name="header_category_other">Overige</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
@@ -455,6 +461,9 @@
   <string name="inbox_folders_heading">Postvak IN</string>
   <string name="info">Info</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
+  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
+  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -478,6 +487,14 @@
   <string name="mailbox_name_display_starred">Met ster</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
+  <string name="mailbox_name_server_all_unread">Ongelezen</string>
+  <string name="mailbox_name_server_drafts">Concepten</string>
+  <string name="mailbox_name_server_inbox">Postvak IN</string>
+  <string name="mailbox_name_server_junk">Spam</string>
+  <string name="mailbox_name_server_outbox">Postvak uit</string>
+  <string name="mailbox_name_server_sent">Verzonden</string>
+  <string name="mailbox_name_server_starred">Favoriten</string>
+  <string name="mailbox_name_server_trash">Prullenbak</string>
   <string name="mailbox_settings_activity_title">Synchronisatieopties</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synchronisatieopties (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dagen waarvoor e-mail wordt gesynchroniseerd</string>
@@ -523,8 +540,8 @@
   <string name="menu_search">Zoeken</string>
   <string name="menu_settings">Instellingen</string>
   <string name="menu_show_original">Oorspr. versie herstellen</string>
-  <string name="message_body_auto_download_complete">Automatisch gedownloade e-mails met gebruik van WIFI</string>
-  <string name="message_body_auto_download_tip">Mommenteel gebruik je WIFI. het zal automatisch e-mails te downloaden</string>
+  <string name="message_body_auto_download_complete">Automatisch gedownloade e-mails met gebruik van WiFi</string>
+  <string name="message_body_auto_download_tip">Mommenteel gebruik je WiFi. het zal automatisch e-mails te downloaden</string>
   <string name="message_body_download_failed">Time out bij het downloaden van e-mails</string>
   <string name="message_compose_fwd_header_fmt">"
 
@@ -545,10 +562,11 @@ Cc: %4$s
   <string name="message_invite_calendar_view">Weergeven in Agenda</string>
   <string name="message_invite_decline">Nee</string>
   <string name="message_invite_tentative">Misschien</string>
-  <string name="message_invite_title">Agenda-uitnodiging</string>
+  <string name="message_invite_title">Agenda uitnodiging</string>
   <string name="message_saved">Bericht opgeslagen als concept.</string>
-  <string name="message_type_name">bericht</string>
+  <string name="message_type_name">Bericht</string>
   <string name="message_view_attachment_background_load">Een of meer bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
+  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">%1$d bijlagen in totaal</string>
   <string name="more_info_attachment">Info</string>
   <string name="more_string">+%1$s</string>
@@ -563,9 +581,9 @@ Cc: %4$s
   <string name="new_messages">%1$d nieuwe berichten</string>
   <string name="next_action">Volgende</string>
   <string name="no">Nee</string>
-  <string name="no_address_email">noaddressemail@123.com</string>
+  <string name="no_address_email">noodadresemail@123.com</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
-  <string name="no_contacts">Empty</string>
+  <string name="no_contacts">Leeg</string>
   <string name="no_conversations">Geen berichten.</string>
   <string name="no_mails">Leeg</string>
   <string name="no_matched_attachment">Geen overeenkomende bijlagen</string>
@@ -573,7 +591,7 @@ Cc: %4$s
   <string name="non_synced_folder_description">Synchroniseer deze map om conversaties weer te geven.</string>
   <string name="not_subject">(No subject)</string>
   <string name="not_synced_title">Account niet gesynchroniseerd</string>
-  <string name="not_updated_yet">Veeg om bij te wereken</string>
+  <string name="not_updated_yet">Veeg om bij te werken</string>
   <string name="notification_action_archive">Archiveren</string>
   <string name="notification_action_delete">Verwijderen</string>
   <string name="notification_action_remove_label">Label verwijderen</string>
@@ -585,7 +603,7 @@ Cc: %4$s
   <string name="notification_exchange_calendar_added">Exchange kalendar toegevoegd</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
-  <string name="other_mail">Other mail</string>
+  <string name="other_mail">Overige mails</string>
   <string name="outbox_alert_button_confirm">Bewerken</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
@@ -610,7 +628,7 @@ Cc: %4$s
   <string name="permission_access_provider_label">Gegevens e-mailprovider openen</string>
   <string name="permission_read_attachment_desc">Hiermee kan de app uw e-mailbijlagen lezen.</string>
   <string name="permission_read_attachment_label">E-mailbijlagen lezen</string>
-  <string name="phone">telefoon</string>
+  <string name="phone">Telefoon</string>
   <string name="photo_load_failed">Kan afbeelding niet laden</string>
   <string name="photo_view_count" formatted="false">%d van %d</string>
   <string name="please_fill_in_your_mailbox_information">Voer uw %s  mailbox-gerelateerde informatie in:</string>
@@ -619,12 +637,12 @@ Cc: %4$s
   <string name="policy_app_blacklist">Gespecificeerde apps weigeren</string>
   <string name="policy_app_whitelist">Gespecificeerde apps toestaan</string>
   <string name="policy_bluetooth_restricted">Bluetooth gebruik beperken</string>
-  <string name="policy_calendar_age">Aantal gesynchroniseerde agenda-afspraken beperken</string>
+  <string name="policy_calendar_age">Aantal gesynchroniseerde agenda afspraken beperken</string>
   <string name="policy_dont_allow_attachments">Bijlagen niet toestaan</string>
   <string name="policy_dont_allow_browser">Browsers niet toestaan</string>
   <string name="policy_dont_allow_camera">Gebruik van apparaatcamera niet toestaan</string>
   <string name="policy_dont_allow_consumer_email">Consumenten e-mail niet toestaan</string>
-  <string name="policy_dont_allow_html">"Don't allow HTML email"</string>
+  <string name="policy_dont_allow_html">Laat geen HTML email toe</string>
   <string name="policy_dont_allow_internet_sharing">Internet delen niet toestaan</string>
   <string name="policy_dont_allow_irda">"Infrarood communicatie niet toestaan</string>
   <string name="policy_dont_allow_pop_imap">POP3 of IMAP accounts niet toestaan</string>
@@ -639,13 +657,14 @@ Cc: %4$s
   <string name="policy_password_expiration">Vereisen dat wachtwoord verloopt</string>
   <string name="policy_password_history">Hergebruik recente wachtwoorden beperken</string>
   <string name="policy_require_encryption">Apparaat encryptie vereist</string>
-  <string name="policy_require_manual_sync_roaming">Only allow manual sync while roaming</string>
+  <string name="policy_require_manual_sync_roaming">Alleen manueel sync. bij roaming</string>
   <string name="policy_require_password">Apparaatwachtwoord vereisen</string>
   <string name="policy_require_sd_encryption">SD-kaart encryptie toestaan</string>
   <string name="policy_require_smime">SMIME berichten vereist</string>
   <string name="policy_screen_timeout">Inactief apparaat vergrendelt scherm</string>
   <string name="policy_text_truncation">Tekst e-mail grootte beperken</string>
   <string name="pop3_name">POP3</string>
+  <string name="prefDefault_autoAdvance">lijst</string>
   <string name="prefDialogTitle_conversationListIcon">Afbeelding van afzender</string>
   <string name="prefDialogTitle_removal_action">Acties voor archiveren of verwijderen</string>
   <string name="preference_removal_action_title">Acties voor archiveren of verwijderen</string>
@@ -667,14 +686,14 @@ Cc: %4$s
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
-  <string name="provider_note_live">Alleen sommige Plus-accounts hebben POP-toegang waarmee dit programma verbinding kan maken. Als u niet kunt inloggen met het juiste e-mailadres en wachtwoord, heeft u mogelijk niet betaald voor uw Plus-account. Start de webbrowser voor toegang tot deze e-mailaccounts.</string>
+  <string name="provider_note_live">Alleen sommige Plus accounts hebben POP toegang waarmee dit programma verbinding kan maken. Als u niet kunt inloggen met het juiste e-mailadres en wachtwoord, heeft u mogelijk niet betaald voor uw Plus-account. Start de webbrowser voor toegang tot deze e-mailaccounts.</string>
   <string name="provider_note_t_online">Voordat u dit e-mailaccount instelt, gaat u naar de website van T-Online en maakt u een wachtwoord voor toegang tot e-mail via POP3.</string>
-  <string name="pull_to_refresh">Pull down to refresh</string>
+  <string name="pull_to_refresh">Trek naar beneden om te vernieuwen</string>
   <string name="quick_1">Hartelijk dank!</string>
   <string name="quick_2">Dat lijkt me prima.</string>
   <string name="quick_3">Ik zal dit later lezen en kom er dan op terug.</string>
   <string name="quick_4">Laten we een afspraak maken om dit te bespreken.</string>
-  <string name="quick_reply_dialog_title">Please choose</string>
+  <string name="quick_reply_dialog_title">Kiezen</string>
   <string name="quick_responses_empty_view">Geen snelle reacties.</string>
   <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
   <string name="quoted_text">Tekst uit oorspronkelijk bericht weergeven</string>
@@ -685,8 +704,8 @@ Cc: %4$s
   <string name="recipient_needed">Voeg ten minste één ontvanger toe.</string>
   <string name="refresh">Vernieuwen</string>
   <string name="refreshing">Synchronizing…</string>
-  <string name="refreshing_done">Synchroniztion complete</string>
-  <string name="release_to_refresh">Loslaten om te verversen</string>
+  <string name="refreshing_done">Synchroniztie voltooid</string>
+  <string name="release_to_refresh">Loslaten om te vernieuwen</string>
   <string name="remote_folders_heading">Server mappen</string>
   <string name="remove_account">Account verwijderen</string>
   <string name="remove_account_confirm">Het account \"%1$s\" wordt verwijderd van WPSMail.</string>
@@ -695,11 +714,16 @@ Cc: %4$s
   <string name="reply">Beantwoorden</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
+  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Antwoord: "</string>
   <string name="report">Rapporteren</string>
   <string name="report_phishing">Phishing melden</string>
+  <string name="report_rendering_improvement">Ziet er goed uit</string>
+  <string name="report_rendering_improvement_desc">Dit bericht ziet er goed uit.</string>
+  <string name="report_rendering_problem">Ziet er niet goed uit</string>
+  <string name="report_rendering_problem_desc">Dit bericht ziet er niet goed uit.</string>
   <string name="report_spam">Spam melden</string>
-  <string name="request_entity_large">File is too big</string>
+  <string name="request_entity_large">Bestand is te groot</string>
   <string name="require_manual_sync_message">Achtergrondsynchronisatie voor dit account is uitgeschakeld tijdens roaming.</string>
   <string name="respond_inline">Inline beantwoorden</string>
   <string name="resume_draft">Bewerken</string>
@@ -709,19 +733,19 @@ Cc: %4$s
   <string name="save_draft">Concept opslaan</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
-  <string name="search_attachment">Search</string>
+  <string name="search_attachment">Zoeken</string>
   <string name="search_hint">Zoeken in e-mail</string>
-  <string name="search_result">Results</string>
+  <string name="search_result">Resultaten</string>
   <string name="search_results_header">Resultaten</string>
   <string name="search_results_loaded">%1$d</string>
   <string name="search_results_searching_header">Zoeken…</string>
   <string name="search_title">Uniforme E-mail</string>
-  <string name="search_txt_size_limit_prompt">Zoekwoord moet groter zijn dan 3</string>
+  <string name="search_txt_size_limit_prompt">Zoekwoord moet groter zijn dan 3 tekens</string>
   <string name="search_unsupported">Zoeken wordt niet ondersteund in dit account.</string>
   <string name="security_changed_ticker_fmt">"De beveiligingsinstellingen van het account '%s' zijn gewijzigd, er is geen gebruikersactie vereist."</string>
   <string name="security_needed_ticker_fmt">"Account '%s' vereist een update van de beveiligingsinstellingen."</string>
   <string name="security_notification_content_change_title">Beveiligingsbeleid gewijzigd</string>
-  <string name="security_notification_content_unsupported_title">Beveil.-beleid niet voldaan</string>
+  <string name="security_notification_content_unsupported_title">Beveil. beleid niet voldaan</string>
   <string name="security_notification_content_update_title">Beveiligingsupdate vereist</string>
   <string name="security_unsupported_ticker_fmt">"Account '%s' kan niet worden gesynchroniseerd wegens beveiligingsvereisten."</string>
   <string name="select_attachment_type">Bijlagetype selecteren</string>
@@ -736,14 +760,14 @@ Cc: %4$s
   <string name="sending_message">Bericht wordt verzonden…</string>
   <string name="sent_folder_selection_title">"Map 'Verzonden items' van server selecteren voor %s"</string>
   <string name="ser_resp_err_map_certificate_validator_err">""Fout bij het valideren van servercertificaat
-\u0009 (Controleer of de instelling i "Auto Sync tijd is ')""</string>
+\u0009 (Controleof de instelling i "Auto Sync tijd is ')""</string>
   <string name="ser_resp_err_map_nouser">Geen dergelijke gebruiker</string>
   <string name="ser_resp_err_map_or">Of</string>
   <string name="ser_resp_err_map_serclosed">Service gesloten</string>
-  <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
+  <string name="ser_resp_err_map_ssl">"Probeer te kiezen voor 'SSL / TLS (alle certificaten accepteren)' in 'Beveiligings type'"</string>
   <string name="set_network">Netwerk instellen</string>
   <string name="settings_activity_title">Instellingen</string>
-  <string name="sharing">Share</string>
+  <string name="sharing">Delen</string>
   <string name="shortcut_name_title">Snelkoppeling naar map een naam geven</string>
   <string name="show_elided">▶ Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="show_images">Afbeeldingen weergeven</string>
@@ -760,23 +784,23 @@ Cc: %4$s
   <string name="spaceChar">" "</string>
   <string name="status_network_error">Verbindingsprobleem.</string>
   <string name="storage">Opslag</string>
-  <string name="str_select_all">Select all</string>
-  <string name="str_select_none">Deselect all</string>
+  <string name="str_select_all">Alles selecteren</string>
+  <string name="str_select_none">Alles deselecteren</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Onderwerp</string>
   <string name="suggestions_authority">com.android.email.suggestionsprovider</string>
   <string name="swipe_down_to_refresh">Veeg omlaag om te vernieuwen</string>
   <string name="sync_error">Kan niet synchroniseren.</string>
   <string name="sync_error_message">Uw apparaat heeft niet voldoende opslagruimte om te synchroniseren.</string>
-  <string name="system_account_create_failed">Kan het account niet maken. Probeer het opnieuw.</string>
+  <string name="system_account_create_failed">Kan het account niet aanmaken. Probeer het opnieuw.</string>
   <string name="system_folders_sent_dlg">"Map 'Verzonden items' van uw server selecteren"</string>
   <string name="system_folders_sent_summary">"Map 'Verzonden items' van uw server selecteren"</string>
   <string name="system_folders_sent_title">"Map 'Verzonden items'"</string>
-  <string name="system_folders_title">Systeemmappen</string>
+  <string name="system_folders_title">Systeem mappen</string>
   <string name="system_folders_trash_dlg">Prullenbak van uw server selecteren</string>
   <string name="system_folders_trash_summary">Prullenbak van uw server selecteren</string>
   <string name="system_folders_trash_title">Prullenbak</string>
-  <string name="tablet">tablet</string>
+  <string name="tablet">Tablet</string>
   <string name="tap_to_configure">Raak aan om in te stellen</string>
   <string name="tap_to_configure_folder_sync">Map synchroniseren</string>
   <string name="tap_to_enable_sync">Raak aan om in te schakelen.</string>
@@ -796,7 +820,7 @@ Cc: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Inschakelen</string>
   <string name="turn_auto_sync_on_dialog_title">Automatisch synchroniseren inschakelen?</string>
   <string name="undo">Ongedaan maken</string>
-  <string name="unread_string">conversatie ongelezen</string>
+  <string name="unread_string">Conversatie ongelezen</string>
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="updated_at">Laatst bijgewerkt: %1$s</string>
   <string name="updated_just_now">Net bijgewerk</string>
@@ -806,21 +830,23 @@ Cc: %4$s
   <string name="veiled_alternate_text_unknown_person"/>
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">via %1$s</string>
-  <string name="view_more_conversations">Meer conversaties bekijken</string>
+  <string name="view_more_conversations">Meer conversaties weergegeven</string>
   <string name="wait_for_manual_sync_body">"Automatische synchronisatie is niet ingesteld voor dit account.
-Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n keer te synchroniseren of raak &lt;b&gt;Synchronisatie-instellingen wijzigen&lt;/b&gt; aan om automatische synchronisatie in te stellen voor dit account.</string>
+Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n keer te synchroniseren of raak &lt;b&gt;Synchronisatie instellingen wijzigen&lt;/b&gt; aan om automatische synchronisatie in te stellen voor dit account.</string>
   <string name="wait_for_sync_body">Uw e-mail wordt zo weergegeven.</string>
   <string name="wait_for_sync_body_2">Exchange Server vraagt u binnen 1-30 seconden de veiligheidsinstellingen te bevestigen en te activeren. Besteed aandacht aan een systeemwaarschuwing.</string>
-  <string name="wait_for_sync_body_txt_array_1">Exchange Server vraagt u binnen</string>
+  <string name="wait_for_sync_body_txt_array_1">Exchange Server vraagt u binnen de</string>
   <string name="wait_for_sync_body_txt_array_2">1–30</string>
   <string name="wait_for_sync_body_txt_array_3">seconden. Bevestig de beveiligingsinstellingen</string>
   <string name="wait_for_sync_body_txt_array_4">om de installatie te voltooien.</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Tik op mededeling om de installatie te voltooien.</string>
   <string name="wait_for_sync_title">Wachten op synchronisatie</string>
+  <string name="wait_help_context">Wachten</string>
   <string name="widget_all_mail">Alle Mails</string>
   <string name="widget_large_unread_count">%d+</string>
-  <string name="widget_other_views">Andere</string>
+  <string name="widget_other_views">Overige</string>
+  <string name="widget_provider">com.android.email.provider.WidgetProvider</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Opslag niet beschikbaar controleer de SD-kaart.</string>

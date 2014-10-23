@@ -11,19 +11,17 @@
   <string name="app_name">Xiaomi Authenticator</string>
   <string name="app_name_lockpattern">Vergrendel patroon</string>
   <string name="app_name_short">Authenticator</string>
-  <string name="authenticator_invalid_tip">"您可能在网页端关闭了登录保护，或激活了另一令牌，此令牌失效
-
-如有疑问，请访问小米官网寻求线上客服帮助"</string>
-  <string name="authenticator_invalid_title">Account： %1$s token foyt</string>
+  <string name="authenticator_invalid_tip">"您可能在网页端关闭了登录保护，或激活了另一令牌，此令牌失效如有疑问，请访问小米官网寻求线上客服帮助"</string>
+  <string name="authenticator_invalid_title">Account： %1$s token fout</string>
   <string name="authenticator_page_reactivation">Heractiveren</string>
   <string name="button_add_account">Een account toevoegen</string>
-  <string name="button_add_account_manual_entry">Account maneel toevoegen</string>
+  <string name="button_add_account_manual_entry">Account manueel toevoegen</string>
   <string name="button_add_account_scan_barcode">Scan barcode</string>
   <string name="button_back">Vorige</string>
   <string name="button_exit_howitworks_flow">Afsluiten</string>
-  <string name="button_how_it_works">Bekijk hoe het werkt</string>
+  <string name="button_how_it_works">Weergeven hoe het werkt</string>
   <string name="button_next">Volgende</string>
-  <string name="button_uninstall_old_app">Uninstalleren</string>
+  <string name="button_uninstall_old_app">Verwijderen</string>
   <string name="cancel">Annuleren</string>
   <string name="change_security_lock">Meer scherm beveiligingen</string>
   <string name="check_code">Om te controleren of u de  sleutel waarde hebt  voor% 1 $ s  verifiëer of de waarde  overeenkomt met de integriteits waarde controle verstrekt door de server:&lt;br/&gt;</string>
@@ -38,15 +36,14 @@
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Uw gegevens zijn met succes van de Xiaomi Authenticator app geïmporteerd. Het is nu veilig om de eerdere versie van de app te verwijderen door hieronder te klikken.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Import voltooid</string>
   <string name="decoding_exception">Decoderings uitzondering</string>
-  <string name="details_patternforgotten">"Heractiveren：
-Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina'Klik op de "Heractiveren""</string>
+  <string name="details_patternforgotten">"Heractiveren： Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina'Klik op de "Heractiveren""</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Voer account naam in</string>
   <string name="enter_key_hint">Voer sleutel waarde in</string>
   <string name="enter_key_illegal_char">Sleutel waarde heeft een Jokerteken!</string>
   <string name="enter_key_page_add_button">Toevoegen</string>
   <string name="enter_key_title">Account manueel toevoegen</string>
-  <string name="enter_key_too_short">KSleutel waarde is te kort</string>
+  <string name="enter_key_too_short">Sleutel waarde is te kort</string>
   <string name="enter_pin">Voer de verificatie codein als erom gevraagd wordt  tijdens het inloggen bij je Account :</string>
   <string name="error_empty_secret">Kan geen leeg geheim opslaan</string>
   <string name="error_exists">Sorry, die naam is al in gebruik.</string>
@@ -72,9 +69,9 @@ Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina'Klik op d
   <string name="lockpassword_choose_your_pattern_header">Patroon kiezen</string>
   <string name="lockpassword_confirm_your_pattern_header">Bevestig patroon</string>
   <string name="lockpassword_input_your_pattern_header">Bevestig patroon</string>
-  <string name="lockpattern_confirm_button_text">Bevestig</string>
+  <string name="lockpattern_confirm_button_text">Bevestigen</string>
   <string name="lockpattern_continue_button_text">Doorgaan</string>
-  <string name="lockpattern_need_to_confirm">Teken patroon opnieuw en sla op:</string>
+  <string name="lockpattern_need_to_confirm">Teken patroon opnieuw en sla het op:</string>
   <string name="lockpattern_need_to_confirm_wrong">Komt niet overeen met het vorige , probeer opnieuw:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong" formatted="false">&lt;font color=red&gt;Wachtwoord fout , je kan nog %d  % d keer proberen&lt;/font&gt;</string>
@@ -85,7 +82,7 @@ Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina'Klik op d
   <string name="lockpattern_recording_inprogress">Vinger lossen als je klaar bent.</string>
   <string name="lockpattern_recording_intro_header">Teken een ontgrendelings patroon:</string>
   <string name="lockpattern_redraw_button_text">Hertekenen</string>
-  <string name="lockpattern_retry_text">&lt;u&gt;Reset patroon wacht&lt;/u&gt;</string>
+  <string name="lockpattern_retry_text">&lt;u&gt;Reset patroon wachtwoord&lt;/u&gt;</string>
   <string name="lockpattern_settings_help_how_to_record">Hoe een ontgrendelings patroon tekenen</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Probeer opnieuw in %d seconden.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Teveel foute pogingen!&lt;/font&gt;</string>
@@ -103,7 +100,7 @@ Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina'Klik op d
   <string name="open_camera_exception_dialog_content">Problemen met systeem camera, moet  het apparaat opnieuw starten.</string>
   <string name="open_camera_exception_dialog_title">Camera storing</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
-  <string name="opensource_preference_title">Open-source project</string>
+  <string name="opensource_preference_title">Open source project</string>
   <string name="original_pattern_tip">Vul &lt;font color=#fb3500&gt;Original&lt;/font&gt;patroon wachtwoord in</string>
   <string name="password_error">Wachtwoord fout</string>
   <string name="password_forget">Wachtwoord vergeten?</string>
@@ -111,9 +108,9 @@ Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina'Klik op d
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Privacy policy</string>
   <string name="progress_loading">Laden…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Deze account verwijderen zal &lt;b&gt;verwijder uw mogelijkheid&lt;/b&gt; om codes genereren, echter zal het &lt;b&gt;not&lt;/b&gt; Uitschakelen 2-staps verificatie. Dit kan voorkomen om in te loggen bij uw account. &lt;p&gt; Voordat u verwijderd: &lt;ul&gt; &lt;li&gt;Schakel 2-staps verificatie uit voor dit account, or&lt;/li&gt; &lt;li&gt;Zorg ervoor dat u een alternatief methode hebt voor het genereren van codes.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">Deze account verwijderen zal &lt;b&gt;verwijder uw mogelijkheid&lt;/b&gt; om codes genereren, echter zal het &lt;b&gt;not&lt;/b&gt; Uitschakelen 2 staps verificatie. Dit kan voorkomen om in te loggen bij uw account. &lt;p&gt; Voordat u verwijderd: &lt;ul&gt; &lt;li&gt;Schakel 2 staps verificatie uit voor dit account, or&lt;/li&gt; &lt;li&gt;Zorg ervoor dat u een alternatief methode hebt voor het genereren van codes.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account_dialog_button_remove">Account verwijderen</string>
-  <string name="remove_account_dialog_message">Deze account verwijderen zal &lt;b&gt;verwijder uw mogelijkheid&lt;/b&gt; om codes genereren, echter zal het &lt;b&gt;not&lt;/b&gt; Uitschakelen 2-staps verificatie. Dit kan voorkomen om in te loggen bij uw account &lt;p&gt; Voordat u verwijderd: &lt;ul&gt; &lt;li&gt;Schakel 2-staps verificatie uit voor dit account, or&lt;/li&gt; &lt;li&gt;Zorg ervoor dat u een alternatief methode hebt voor het genereren van codes.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account_dialog_message">Deze account verwijderen zal &lt;b&gt;verwijder uw mogelijkheid&lt;/b&gt; om codes genereren, echter zal het &lt;b&gt;not&lt;/b&gt; Uitschakelen 2 staps verificatie. Dit kan voorkomen om in te loggen bij uw account &lt;p&gt; Voordat u verwijderd: &lt;ul&gt; &lt;li&gt;Schakel 2 staps verificatie uit voor dit account, or&lt;/li&gt; &lt;li&gt;Zorg ervoor dat u een alternatief methode hebt voor het genereren van codes.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account_dialog_title">Verwijder %1$s?</string>
   <string name="rename">Naam wijzigen</string>
   <string name="rename_message">Wijzig %1$s</string>
@@ -133,21 +130,19 @@ Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina'Klik op d
   <string name="timesync_about_feature_preference_title">Over deze functie</string>
   <string name="timesync_about_feature_screen_details">"Als u op &amp;quot;Sync nu&amp;quot; drukt, Authenticator zal proberen om de interne klok met Google-servers te synchroniseren . Apparaat Datum &amp; Tijds instellingen zullen niet veranderen. &lt;p&gt; Authenticator zal geen persoonlijke of account gegevens doorgeven, wanneer het de interne klok synchroniseerd met de servers van Google. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator genereert 2 stap verificatie codes op basis van 1) de huidige tijd, and 2) een geheim nummer bekend is bij de app en de server. &lt;p&gt; Als Authenticator en de server van mening verschillen over hoe laat het is, mogen de codes die het app genereert niet worden geaccepteerd wanneer je probeert in te loggen. &lt;p&gt; Standaard gebruikt Authenticator Datum van het apparaat  &amp; Tijds Instellingen, zal in de meeste gevallen geldige codes kunnen genereren door  de tijd, datum te contrleren, tijdzone-instellingen zijn  correct geconfigureerd. Echter, wanneer de tijds verschillen optreden, kan het moeilijk zijn om problemen op te lossen (vooral als je het netwerk aangeboden tijd of tijdzones gebruikt)."</string>
   <string name="timesync_about_feature_screen_title">Over deze functie</string>
-  <string name="timesync_preference_screen_summary">"Sync Authenticator interne klok met servers"</string>
+  <string name="timesync_preference_screen_summary">"Sync. Authenticator interne klok met servers"</string>
   <string name="timesync_preference_screen_title">Tijdcorrectie voor codes</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">Probleem met verbinden met de server. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
-  <string name="timesync_sync_now_connectivity_error_dialog_title"> Nu Sync.</string>
-  <string name="timesync_sync_now_preference_title">Nu Sync.</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title"> Nu sync.</string>
+  <string name="timesync_sync_now_preference_title">Nu sync.</string>
   <string name="timesync_sync_now_progress_dialog_details">Verbinden met server…</string>
-  <string name="timesync_sync_now_progress_dialog_title">Nu Sync.</string>
-  <string name="timesync_sync_now_screen_title">Nu Sync.</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_details">Interne klok Authenticator werd niet aangepast, omdat hij al gesynchroniseerd is met de servers.</string>
+  <string name="timesync_sync_now_progress_dialog_title">Nu sync.</string>
+  <string name="timesync_sync_now_screen_title">Nu sync.</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">Interne klok Authenticator werd niet aangepast, omdat hij al gesync. is met de servers.</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">De tijd is al juist</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"Interne klok Authenticator's is aangepast aan de tijd van de r servers. 
-
-De datum &amp; Tijd instellingen op dit apparaat zijn niet gewijzigd."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Interne klok Authenticator's is aangepast aan de tijd van deservers. De datum &amp; Tijd instellingen op dit apparaat zijn niet gewijzigd."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Tijd gecorrigeerd</string>
-  <string name="tip1_patternforgotten">Uninstall security token, opnieuw installeren en activeren</string>
+  <string name="tip1_patternforgotten">Verwijder security token, opnieuw installeren en activeren</string>
   <string name="tip2_patternforgotten">Klik op de onderstaande knop "Reset Now", verwijder account gegevens, heractiveren</string>
   <string name="tip_lockpattern">Om de security token te beschermen, maak een patroon, minimuum vier punten verbinden</string>
   <string name="title_change_lockpattern">Configureer patroon vergrendeling</string>
@@ -160,15 +155,13 @@ De datum &amp; Tijd instellingen op dit apparaat zijn niet gewijzigd."</string>
   <string name="title_nopassword_dialog">Dagelijks limiet</string>
   <string name="title_password">Wachtwoord</string>
   <string name="title_password_threshold">Dagelijks limiet = ￥%1$s</string>
-  <string name="title_patternforgotten">"Wachtwoord vergeten?
-您可以："</string>
+  <string name="title_patternforgotten">"Wachtwoord vergeten?："</string>
   <string name="title_updatepattern">Wachtwoord wijzigen</string>
   <string name="title_visible_pattern">Maak patroon zichtbaar</string>
-  <string name="type_prompt">Type van desleutel</string>
+  <string name="type_prompt">Type van de sleutel</string>
   <string name="update_pattern_jump">&lt;u&gt;&amp;#20851;&amp;#38381;&amp;#25163;&amp;#21183;&amp;#23494;&amp;#30721;&lt;/u&gt;</string>
   <string name="version_preference_title">Versien</string>
   <string name="welcome_page_alert">&lt;font color=#fb3500&gt;Opmerking:&lt;/font&gt;Gelieve de token niet  te verwijderen, anders kan je niet Inloggen.</string>
-  <string name="welcome_page_details">Bescherm uw accountgegevens tegen stelen van boosaardig anderen.
-— Vermijd dat het apparaat telefoon verloren gaat of ontbrekende mailaccount veiligheidsprobleem veroorzaakt."</string>
+  <string name="welcome_page_details">Bescherm uw accountgegevens tegen stelen van boosaardig anderen. Vermijd dat het apparaat telefoon verloren gaat of ontbrekende mailaccount veiligheidsprobleem veroorzaakt."</string>
   <string name="welcome_page_title">Gebruik Millet bescherming om je account login openen</string>
 </resources>

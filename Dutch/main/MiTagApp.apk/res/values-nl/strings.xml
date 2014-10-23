@@ -2,9 +2,9 @@
 <resources>
   <string name="add">Toevoegen</string>
   <string name="add_configure">Toevoegen configuratie</string>
-  <string name="airplane">Vliegtuig modus</string>
-  <string name="alarm_config_12h">Alarm at 8:00(AM)</string>
-  <string name="alarm_config_24h">Alarm at 8:00</string>
+  <string name="airplane">Vliegmodus</string>
+  <string name="alarm_config_12h">Alarm om 8:00(AM)</string>
+  <string name="alarm_config_24h">Alarm om 8:00</string>
   <string name="alarm_label">Alarm label (optioneel)</string>
   <string name="alarm_summary_12h">hh:mm a</string>
   <string name="alarm_summary_24h">kk:mm</string>
@@ -24,7 +24,7 @@
   <string name="btn_install">Installeren</string>
   <string name="btn_start">Start</string>
   <string name="btn_write">Schrijven</string>
-  <string name="bump_erase">"Om en Tag te wissen,
+  <string name="bump_erase">"Om en Tag te verwijderen,
 aanraken met de achterkant van je apparaat"</string>
   <string name="bump_start">"Om te beginnen, touch the
 raak de Tag aan met je apparaat"</string>
@@ -38,7 +38,7 @@ aanraken met de achterkant van je apparaat"</string>
   <string name="click_to_choose">Raak aan om te openen</string>
   <string name="communication">Apparaat</string>
   <string name="config_name_hint">Naam</string>
-  <string name="connect_to">Verbindn met %s</string>
+  <string name="connect_to">Verbinden met %s</string>
   <string name="contact">Contact delen</string>
   <string name="contact_address">Adres</string>
   <string name="contact_card">Naam kaart</string>
@@ -66,7 +66,7 @@ aanraken met de achterkant van je apparaat"</string>
   <string name="email_subject">Onderwerp</string>
   <string name="email_to">Naar</string>
   <string name="empty_tag">Deze Tag is leeg</string>
-  <string name="enable_wifi">WIFI</string>
+  <string name="enable_wifi">WiFi</string>
   <string name="erase_pon_pon_tile">Tag wissen</string>
   <string name="erase_success">Gewist</string>
   <string name="erasing">Wissen…</string>
@@ -94,7 +94,7 @@ aanraken met de achterkant van je apparaat"</string>
   <string name="hint_input_subject">Onderwerp</string>
   <string name="hint_input_web_label">Naam van de web site</string>
   <string name="hint_input_web_url">URL</string>
-  <string name="hint_wifi_password">WIFI wachtwoord invullen</string>
+  <string name="hint_wifi_password">WiFi wachtwoord invullen</string>
   <string name="inconsistent_password">Strijdig wachtwoord, probeer het opnieuw</string>
   <string name="input_new_password">Vul de nieuwe vier cijferige wachtwoord in</string>
   <string name="input_old_password">Invullen opgeslagen wachtwoord</string>
@@ -131,7 +131,7 @@ aanraken met de achterkant van je apparaat"</string>
   <string name="play_music_desc">Speel of pauzeer muziek</string>
   <string name="play_song">Liedje spelen</string>
   <string name="preference">Instellingen</string>
-  <string name="pwd_alert">Wachtwoord nu insteelen</string>
+  <string name="pwd_alert">Wachtwoord nu instellen</string>
   <string name="pwd_pref">Tag beschermen tegen overschrijven</string>
   <string name="pwd_pref_desc">Een wachtwoord vereisen voordat gebruikers kunnen schrijven op deze 21 Series NFC Tag</string>
   <string name="read_a_tag">Tag lezen</string>
@@ -142,7 +142,7 @@ aanraken met de achterkant van je apparaat"</string>
   <string name="ringer_normal">Bellen</string>
   <string name="ringer_silent">Stil</string>
   <string name="ringer_value">Beller %s%%</string>
-  <string name="running">wordt uitgevooerd</string>
+  <string name="running">Wordt uitgevoerd</string>
   <string name="save_alert">Taak opslaan?</string>
   <string name="save_btn">Opslaan</string>
   <string name="saving">Opslaan…</string>
@@ -160,8 +160,8 @@ aanraken met de achterkant van je apparaat"</string>
   <string name="share">Share</string>
   <string name="share_content">"Ik heb *%1$s* naar een Mi NFC tag.Om het te lezen, gewoon aanraken met de achterkant van uw apparaat. Download de App hier: http://app.xiaomi.com/detail/56946"</string>
   <string name="share_subject">Een app delen: %1$s</string>
-  <string name="share_wifi">WIFI delen</string>
-  <string name="shortcut">Rappe taken</string>
+  <string name="share_wifi">WiFi delen</string>
+  <string name="shortcut">Snelle taken</string>
   <string name="sleep_mode">Niet storen</string>
   <string name="sms_content">Bericht</string>
   <string name="sound">Geluid</string>
@@ -185,18 +185,18 @@ raak een andere Tag aan met de achterkant van je apparaat."</string>
   <string name="touch_and_write_more">"Om een andere kopie te schrijven,
 raak een andere Tag aan met de achterkant van je apparaat."</string>
   <string name="unavailable_net">Installatie mislukt: Kan geen verbinding maken met het netwerk</string>
-  <string name="unavailable_storage">Installatie mislukt: Kan SD kaart niet gebruiken</string>
+  <string name="unavailable_storage">Installatie mislukt: Kan SD-kaart niet gebruiken</string>
   <string name="unrecognized_tag">Niet herkende Tag inhoud</string>
   <string name="update_config">Taken bewerken</string>
-  <string name="user_configs">Mijn tasks</string>
+  <string name="user_configs">Mijn taken</string>
   <string name="vibrate_mode">Trillen</string>
-  <string name="vibrate_off">Triilen uit</string>
-  <string name="vibrate_on">trillen aan</string>
-  <string name="voice_call_value">Belo volume %s%%</string>
+  <string name="vibrate_off">Trillen uit</string>
+  <string name="vibrate_on">Trillen aan</string>
+  <string name="voice_call_value">Bel volume %s%%</string>
   <string name="volume">Geluid</string>
   <string name="web_label">Web label (optioneel)</string>
   <string name="web_url">URL</string>
-  <string name="wifi">XWIFI</string>
+  <string name="wifi">WiFi</string>
   <string name="wireless_network">Draadloze &amp; netwerken</string>
   <string name="write_a_tag">Tag geschreven</string>
   <string name="write_pon_pon_tile">Tag schrijven</string>
