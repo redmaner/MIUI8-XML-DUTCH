@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Startpagina</string>
   <string name="accessibility_button_clear">Invoer verwijderen</string>
@@ -244,7 +244,7 @@
   <string name="geolocation_permissions_prompt_message">%s wilt weten wat uw locatie is</string>
   <string name="geolocation_permissions_prompt_remember">Voorkeuren onthouden</string>
   <string name="geolocation_permissions_prompt_share">Locatie delen</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Deze site heeft toegang tot uw locatie. Wijzig dit via 'Instellingen' &gt; 'Geavanceerd' &gt; 'Website'."</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">"Deze site heeft toegang tot uw locatie. Wijzig dit via 'Instellingen' &gt; 'Geavanceerd' &gt; 'Website'."</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">"Deze site heeft geen toegang tot uw locatie. Wijzig dit via 'Instellingen' &gt; 'Geavanceerd' &gt; 'Website'."</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Annuleren</string>
   <string name="geolocation_settings_page_dialog_message">Locatietoegang voor deze website ongedaan maken?</string>
@@ -365,7 +365,7 @@
   <string name="pref_autofill_enabled">Formulier automatisch aanvullen</string>
   <string name="pref_autofill_enabled_summary">Webformulieren invullen met één aanraking</string>
   <string name="pref_autofill_profile_editor">Automatisch tekst aanvullen</string>
-  <string name="pref_autofill_profile_editor_summary">>Tekst instellen die automatisch in webformulieren kan worden ingevuld</string>
+  <string name="pref_autofill_profile_editor_summary">&gt;Tekst instellen die automatisch in webformulieren kan worden ingevuld</string>
   <string name="pref_autologin_progress">Aanmelden bij Google sites me %s</string>
   <string name="pref_autologin_progress_in_background">Aanmelden bij Google sites me %s in de achtergrond</string>
   <string name="pref_autologin_title">AAutomatische Google-aanmelding</string>
@@ -398,13 +398,9 @@
   <string name="pref_content_search_engine">Standaard zoekmachine instellen</string>
   <string name="pref_content_search_engine_summary">Selecteer een zoekmachine</string>
   <string name="pref_content_title">Pagina inhoud</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Zoekresultaten preloaden</string>
   <string name="pref_data_preload_summary">: Browser toestaan resultaten met hoog betrouwbaarheidsniveau te preloaden</string>
   <string name="pref_data_preload_title">Zoekresultaten preloaden</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_data_title">Bandbreedtebeheer</string>
   <string name="pref_default_text_encoding">Tekstcodering</string>
   <string name="pref_default_text_encoding_default">UTF-8</string>
@@ -447,15 +443,11 @@
   <string name="pref_general_setting_title">Instellingen</string>
   <string name="pref_general_title">Algemeen</string>
   <string name="pref_gesture_title">Gebaren</string>
-  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
   <string name="pref_images_preload_dialogtitle">Afbeelding preloaden</string>
   <string name="pref_images_preload_summary">Browser toestaan afbeeldingen voor te laden wanneer het wordt ondersteund door de server</string>
   <string name="pref_images_preload_title">Afbeelding preloaden</string>
-  <string name="pref_images_preload_value_always">2</string>
   <string name="pref_images_preload_value_always_summary">Browser altijd toestaan afbeeldingen te preloaden bij server ondersteuning</string>
-  <string name="pref_images_preload_value_never">0</string>
   <string name="pref_images_preload_value_never_summary">Browser nooit toestaan afbeeldingen te preloadens</string>
-  <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_images_preload_value_wifi_only_summary">Afbeeldingen alleen preloaden met WIFI</string>
   <string name="pref_inverted">Omgekeerde opbouw</string>
   <string name="pref_inverted_category">Omgekeerde opbouw van scherm</string>
@@ -463,14 +455,10 @@
   <string name="pref_inverted_summary">Zwart wordt wit en andersom</string>
   <string name="pref_key_gesture_title">Toesten &amp; gebaren</string>
   <string name="pref_key_title">Toetsinstellingen</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
-  <string name="pref_link_prefetch_dialogtitle">>Webpagina preloaden</string>
+  <string name="pref_link_prefetch_dialogtitle">&gt;Webpagina preloaden</string>
   <string name="pref_link_prefetch_summary">"Browser toestaan gelinkte webpagina's in de achtergrond te preloaden"</string>
   <string name="pref_link_prefetch_title">"Webpagina's preloaden"</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
   <string name="pref_link_prefetch_value_never_summary">"Browser nooit toestaan gelinkte webpagina's in de achtergrond te preloaden"</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_min_font_size">Minimum lettergrootte</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_other_title">Overige</string>
@@ -483,7 +471,7 @@
   <string name="pref_privacy_clear_form_data">Formuliergegevens verwijderen</string>
   <string name="pref_privacy_clear_form_data_dlg">Alle opgeslagen formuliergegevens verwijderen?</string>
   <string name="pref_privacy_clear_form_data_summary">Alle opgeslagen formuliergegevens verwijderen</string>
-  <string name="pref_privacy_clear_geolocation_access">>Locatietoegang verwijderen</string>
+  <string name="pref_privacy_clear_geolocation_access">&gt;Locatietoegang verwijderen</string>
   <string name="pref_privacy_clear_geolocation_access_dlg">Locatietoegang voor website verwijderen?</string>
   <string name="pref_privacy_clear_geolocation_access_summary">Locatietoegang voor alle websites verwijderen</string>
   <string name="pref_privacy_clear_history">Geschiedenis verwijderen</string>
@@ -511,22 +499,17 @@
   <string name="pref_security_save_form_data">Formuliergegevens onthouden</string>
   <string name="pref_security_save_form_data_summary">Gegevens die ik typ in formulieren, onthouden voor later gebruik</string>
   <string name="pref_security_show_security_warning">Beveiligingswaarschuwingen weergeven</string>
-  <string name="pref_security_show_security_warning_summary">>Waarschuwing weergeven als er een probleem is met de certificaat van een website</string>
+  <string name="pref_security_show_security_warning_summary">&gt;Waarschuwing weergeven als er een probleem is met de certificaat van een website</string>
   <string name="pref_set_homepage_to">Ingesteld op</string>
   <string name="pref_setting_title">Pagina instellingen</string>
   <string name="pref_text_zoom">Tekstschaal</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">User agent </string>
   <string name="pref_ua_title">User agent beheer</string>
   <string name="pref_version_summary">Versie:%s</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_dialogtitle">Video bufferen...</string>
   <string name="pref_video_preload_summary">Browser toestaan video te bufferen bij server ondersteuning</string>
   <string name="pref_video_preload_title">"Video's bufferen"</string>
-  <string name="pref_video_preload_value_always">ALWAYS</string>
-  <string name="pref_video_preload_value_never">NEVER</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_action">Volume toetsen: Vorige/Vollgende pagina</string>
   <string name="pref_volume_key_enabled">Volume toetsen</string>
   <string name="pref_volume_key_operation">Functie voor volume toetsen</string>
@@ -704,14 +687,7 @@
   <string name="webapp_add_to_desktop">Toevoegen aan bureaublad?</string>
   <string name="webapp_add_to_favorite_toast">Toegevoegd aan favorieten</string>
   <string name="webapp_addtodeskpop_append">Toegevoegd</string>
-  <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-  <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-  <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-  <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-  <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-  <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
   <string name="webapp_app_name">Light Web Apps Store</string>
-  <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
   <string name="webapp_dialog_title">App toevoegen aan starscherm</string>
   <string name="webapp_menu_addtodesk">Toevoegen aan bureaublad</string>
   <string name="webapp_menu_already_addtodesk">Toegevoegd aan bureaublad</string>

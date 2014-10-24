@@ -153,13 +153,9 @@
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw telefoon heeft opgeslagen, staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard-editor is niet correct gestart.</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">Standaard</string>
-  <string name="config_import_vcard_type">Standaard</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Gesprekslogs verwijderen?</string>
   <string name="confirm_delete_selected_all_call_logs">Gesprekslogs verwijderen?</string>
@@ -786,7 +782,7 @@
   <string name="resource_comment_upload_failed">Reacties toevoegen mislukt!</string>
   <string name="resource_comment_upload_hint">Reacties worden weergegeven na controle.</string>
   <string name="resource_comment_upload_not_bought">Gebruik dit thema eerst voordat u reageert</string>
-  <string name="resource_comment_upload_not_logined">>Eerst inloggen</string>
+  <string name="resource_comment_upload_not_logined">&gt;Eerst inloggen</string>
   <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string>
   <string name="resource_default">tandaard beltoon</string>
   <string name="resource_default_name">Hulpbron</string>
