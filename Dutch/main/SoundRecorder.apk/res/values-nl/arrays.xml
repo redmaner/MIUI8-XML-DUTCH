@@ -26,17 +26,15 @@
         <item>9</item>
         <item>-</item>
         <item>/</item>
-    </string-array>
-      <string-array name="record_type_values">
         <item>audio/mpeg</item>
         <item>audio/amr</item>
     </string-array>
-    <string-array name="record_type_entries">
+	<string-array name="record_type_entries">
         <item>MP3</item>
         <item>AMR</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>Voor Muziek</item>
-        <item>Voor menselijke stem</item>
+        <item>Muziek</item>
+        <item>Stem</item>
     </string-array>
-</resources>
+	</resources>

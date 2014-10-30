@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Apps</string>
-  <string name="Dashboard_HIPS_Disable_Content">Uitschakelen zal MIUI stoppen met controleren van toepassings verzoeken en niet langer de bescherming van uw veiligheid en privacy verzekeren.
-Weet u zeker dat u wilt uitschakelen? </string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI zal  toestemmingsverzoeken  van de apps niet controleren</string>
   <string name="Dashboard_HIPS_Disable_Title">Toestemmingen</string>
   <string name="Dashboard_Log">Logs</string>
   <string name="Dashboard_Log_Clear_Content">Alle logs zullen verwijderd worden.</string>
@@ -29,8 +28,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Root toegang</string>
-  <string name="Dashboard_Su_Enable_Content">Het inschakelen ervan zal toestaan dat apps ROOT toestemming vragen.
-Opmerking: Apps met toestemming kunnen instabiliteit van het systeem, zelfs verlies van persoonlijke gegevens, systeem of hardware schade veroorzaken, wees voorzichtig. Bent u zeker om het in te schakelen? </string>
+  <string name="Dashboard_Su_Enable_Content">Het verlenen van root toegang tot 3rd-party apps kan instabiliteit van het systeem, gebruikersgegevens verlies, of zelfs schade aan de hardware veroorzaken.</string>
   <string name="Dashboard_Su_Enable_Title">Root toegang</string>
   <string name="Generic_Canceling">Anuleren…</string>
   <string name="Generic_Check">Controleer</string>
@@ -98,8 +96,8 @@ Opmerking: Apps met toestemming kunnen instabiliteit van het systeem, zelfs verl
   <string name="HIPS_Perm_CallState">Apparaat status</string>
   <string name="HIPS_Perm_CallState_Desc">Laat app toe om je gespreks status te bekijken (bijvoorbeeld binnenkomende, bezige gesprekken)</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s apps kan uw gespreks status bekijken</string>
-  <string name="HIPS_Perm_Call_Desc">Laat app toe gesprekken te maken, beantwoorden en te beëindigen</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s apps toelaten gesprekken te maken, beantwoorden en te beëindigen</string>
+  <string name="HIPS_Perm_Call_Desc">Laat app toe gesprekken te maken.</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s apps toelaten gesprekken te maken.</string>
   <string name="HIPS_Perm_Call_Number">Gesprekken %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">App kan gemiste gesprekken verwijderen</string>
   <string name="HIPS_Perm_Contact">Contacten</string>
@@ -152,11 +150,11 @@ Opmerking: Apps met toestemming kunnen instabiliteit van het systeem, zelfs verl
   <string name="HIPS_Perm_PhoneID_IMSI">App kan IMSI-nummer van apparaat verkrijgen</string>
   <string name="HIPS_Perm_PhoneID_Number">App kan ID nummer van apparaat verkrijgen</string>
   <string name="HIPS_Perm_PromptAll">Prompt alle</string>
-  <string name="HIPS_Perm_ROOT">ROOT</string>
-  <string name="HIPS_Perm_ROOT_Desc">App kan ROOT toestemming verkrijgen</string>
-  <string name="HIPS_Perm_ROOT_Hint">%1$s apps kunnen ROOT toestemming verkrijgen</string>
-  <string name="HIPS_Perm_ROOT_Title">App kan ROOT toestemming verkrijgen</string>
-  <string name="HIPS_Perm_Recorder_Audio">App kan ROOT toestemming verkrijgen</string>
+  <string name="HIPS_Perm_ROOT">Root toegang</string>
+  <string name="HIPS_Perm_ROOT_Desc">App kan ROOT toegang verkrijgen</string>
+  <string name="HIPS_Perm_ROOT_Hint">%1$s apps kunnen ROOT toegang verkrijgen</string>
+  <string name="HIPS_Perm_ROOT_Title">App kan ROOT toegang verkrijgen</string>
+  <string name="HIPS_Perm_Recorder_Audio">App opnames maken</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">App kan audio en video opnemen</string>
   <string name="HIPS_Perm_Recorder_Camera">"App kan foto's nemen"</string>
   <string name="HIPS_Perm_Recorder_Video">App kan audio en video opnemen</string>
@@ -164,8 +162,8 @@ Opmerking: Apps met toestemming kunnen instabiliteit van het systeem, zelfs verl
   <string name="HIPS_Perm_RejectAll">Weiger alle</string>
   <string name="HIPS_Perm_SMS">SMS</string>
   <string name="HIPS_Perm_SMS_Access">App heeft toegang tot uw SMS gegevens</string>
-  <string name="HIPS_Perm_SMS_Desc">App kan uw  SMS gegevens bekijken</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s apps kan SMS berichten bekijken</string>
+  <string name="HIPS_Perm_SMS_Desc">App kan uw  SMS en MMS gegevens bekijken</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s apps kan SMS e, MMS berichten bekijken</string>
   <string name="HIPS_Perm_SendMMS">MMS verzenden</string>
   <string name="HIPS_Perm_SendMMS_Desc">App toestaan om MMS te versturen</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s apps toestaan om MMS te versturen</string>
@@ -220,11 +218,11 @@ Opmerking: Apps met toestemming kunnen instabiliteit van het systeem, zelfs verl
   <string name="Privacy_App_Launch">Opstarten</string>
   <string name="Privacy_App_Log">Logs</string>
   <string name="Privacy_App_Manage">Details</string>
-  <string name="Privacy_App_Trust">Prompt voor toestemming</string>
+  <string name="Privacy_App_Trust">Vragen voor toestemming</string>
   <string name="Privacy_App_TrustDialog_Content">Je wordt niet gevraagd om toestemming wanneer deze app toegang geeft tot andere delen van het systeem.</string>
   <string name="Privacy_App_TrustDialog_Title">Toestemmingen toevoegen</string>
-  <string name="Privacy_App_Trust_Summary_Off">Prompt wanneer deze app probeert toegang te verkrijgen tot andere delen van het systeem</string>
-  <string name="Privacy_App_Trust_Summary_On">Prompt wanneer deze app probeert toegang te verkrijgen tot andere delen van het systeem</string>
+  <string name="Privacy_App_Trust_Summary_Off">Notificatie weergeven wanneer deze app probeert toegang te verkrijgen tot andere delen van het systeem</string>
+  <string name="Privacy_App_Trust_Summary_On">Notificatie weergeven wanneer deze app probeert toegang te verkrijgen tot andere delen van het systeem</string>
   <string name="Privacy_App_Uninstall">Verwijderen</string>
   <string name="Privacy_Perm_Count">%1$d toegestaan | %2$d geweigerd</string>
   <string name="Su_Enable_Dialog">%1$s vraagt root toegang.</string>
@@ -234,5 +232,5 @@ Opmerking: Apps met toestemming kunnen instabiliteit van het systeem, zelfs verl
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Opstarten</string>
   <string name="SysOpt_Boost_Receiver">Achtergrond</string>
-  <string name="app_name">Toestemmings management</string>
+  <string name="app_name">Toestemmings manager</string>
 </resources>
