@@ -35,7 +35,9 @@
   <string name="agenda_view">Agenda</string>
   <string name="agenda_yesterday">GISTEREN, %1$s</string>
   <string name="alarm_label">Afwijzen</string>
-  <string name="alert_title">Agenda-herinneringen</string>
+  <string name="alert_title">Agenda herinneringen</string>
+  <string name="anniversary_metric"/>
+  <string name="anniversary_term">anniversary</string>
   <string name="app_label">Agenda</string>
   <string name="attendees_label">Gasten</string>
   <string name="birthday_calendar_display_name">Verjaardags herinnering</string>
@@ -43,10 +45,10 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">Nog 3 dagen tot de verjaardag (%3$s)</string>
-  <string name="birthday_notification_text_today">Vergeet niet om gelukkige verjaardag te zeggen!</string>
-  <string name="birthday_notification_title_three_days_later">"%1$s's verjaardag komt eraan"</string>
-  <string name="birthday_notification_title_today">"%1$s's verjaardag"</string>
+  <string name="birthday_notification_text_three_days_later">Nog 3 dagen tot de %3$s (%4$s)</string>
+  <string name="birthday_notification_text_today">Felicitaties niet vergeten!</string>
+  <string name="birthday_notification_title_three_days_later">"%1$s's %2$s verjaardag komt eraan"</string>
+  <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
