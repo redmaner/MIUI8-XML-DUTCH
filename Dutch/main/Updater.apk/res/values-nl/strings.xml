@@ -63,7 +63,7 @@
   <string name="get_auto">Krijg automatische modus</string>
   <string name="get_current">Huidige ophalen</string>
   <string name="get_update_error">Update informatie verkrijgen mislukt</string>
-  <string name="go_on_download">Doorgaan</string>
+  <string name="go_on_download">Downloaden</string>
   <string name="install">Installeer</string>
   <string name="install_failed">Update mislukt</string>
   <string name="install_file_explorer">U moet File Explorer te installeren</string>
@@ -92,9 +92,13 @@
   <string name="next">Volgende</string>
   <string name="no_log">Geen samenvatting beschikbaar</string>
   <string name="no_proper_updates">Geen updates beschikbaar</string>
-  <string name="no_wifi_msg">Je bent niet langer verbonden met een WiFi netwerk. Blijven downloaden op uw mobiele dataverbinding zal uw dataverbruik te verhogen.</string>
+  <string name="no_wifi_msg">Downloaden op uw mobiele dataverbinding zal uw dataverbruik te verhogen.</string>
   <string name="no_wifi_title">Dataverbruik waarschuwing</string>
-  <string name="notification_downloading">Downloading update…</string>
+  <string name="notification_downloading">Update downloaden…</string>
+  <string name="notification_load_body_alpha">Haal de nieuwste updates voor uw apparaat op.</string>
+  <string name="notification_load_body_dev">Haal de nieuwste updates voor uw apparaat op.</string>
+   <string name="notification_load_title_alpha">Inloggen op je Mi Account</string>
+   <string name="notification_load_title_dev">Inloggen op je Mi Account</string>
   <string name="notification_new_version">Update naar %s</string>
   <string name="notification_reboot_btn">Herstart</string>
   <string name="notification_reboot_des">Herstart je toestel om up te daten %s.</string>
@@ -116,7 +120,7 @@
   <string name="repeat">Opnieuw proberen</string>
   <string name="set_auto">Stel Auto Modus in</string>
   <string name="set_installfail_full_msg">"Kan niet updaten op dit moment. Druk \"OK\" om deze fout aan onze ontwikkelaars melden."</string>
-  <string name="set_installfail_msg">Het downloaden van deze update op je mobiele dataverbinding zal uw dataverbruik te verhogen.</string>
+  <string name="set_installfail_msg">Downloaden van update op uw mobiele dataverbinding zal uw dataverbruik te verhogen.</string>
   <string name="set_installfail_title">Opnieuw de update downloaden?</string>
   <string name="set_installfail_title_full">Update Mislukt</string>
   <string name="set_network_msg">Om de update te downloaden, moet je verbinden met een WiFi netwerk .</string>
@@ -134,7 +138,7 @@
   <string name="sina_share_success">Verzonden</string>
   <string name="sina_token_expired_warning">Weibo account is verlopen: Gelieve opnieuw binden</string>
   <string name="sina_token_invalid_warning">Weibo account is ongeldig: Gelieve opnieuw binden</string>
-  <string name="space_not_enough_msg">"Er is niet genoeg opslagruimte op uw apparaat om deze update te downloaden."</string>
+  <string name="space_not_enough_msg">Er is niet genoeg opslagruimte op uw apparaat."</string>
   <string name="space_not_enough_title">Niet genoeg opslagruimte</string>
   <string name="stable_build">Stable</string>
   <string name="submit">Versturen</string>
