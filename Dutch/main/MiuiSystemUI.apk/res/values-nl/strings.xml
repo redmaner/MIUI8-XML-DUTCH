@@ -47,6 +47,9 @@
   <string name="always_use_accessory">Standaard gebruiken voor dit USB accessoire</string>
   <string name="always_use_device">Standaard gebruiken voor dit USB apparaat</string>
   <string name="app_label">Systeem UI</string>
+  <string name="audio_effect_custom">Instellingen</string>
+  <string name="audio_effect_info">Optimaliseer geluid</string>
+  <string name="audio_effect_settings">Stel het type hoofdtelefoon in</string>
   <string name="battery_low_percent_format">%d%% resterend</string>
   <string name="battery_low_subtitle">De batterij is bijna leeg.</string>
   <string name="battery_low_title">Sluit de oplader aan</string>
@@ -66,9 +69,7 @@
   <string name="camera_key_action_shortcut_wake">Vergrendel/Activeer apparaat</string>
   <string name="camera_key_action_toggle_title">Trigger schakelaar</string>
   <string name="chooseUsbActivity">Kies een app voor het USB apparaat</string>
-  <string name="data_usage_disabled_dialog">"U heeft het ingestelde limiet voor gegevensverbruik bereikt.
-
-Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
+  <string name="data_usage_disabled_dialog">"U heeft het ingestelde limiet voor gegevensverbruik bereikt.Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G/3G gegevens uitgeschakeld</string>
   <string name="data_usage_disabled_dialog_4g_title">4G gegevens uitgeschakeld</string>
   <string name="data_usage_disabled_dialog_enable">Gegevens opnieuw inschakelen</string>
@@ -104,8 +105,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="headset_info">Pas de functionaliteit van de knoppen aan.</string>
   <string name="headset_settings">Koptelefoon verbonden</string>
   <string name="hint_for_long_press_app_switch_key">Lang drukken om menu te weergeven</string>
-  <string name="invalid_charger">"Opladen via USB niet ondersteund.
-Gebruik alleen de bijgeleverde oplader."</string>
+  <string name="invalid_charger">"Opladen via USB niet ondersteund.Gebruik alleen de bijgeleverde oplader."</string>
   <string name="label_view">Weergeven</string>
   <string name="lockscreen_carrier_default">Geen bereik</string>
   <string name="mdb_entering">Opstarten…</string>
@@ -205,8 +205,7 @@ Gebruik alleen de bijgeleverde oplader."</string>
   <string name="usb_accessory_permission_prompt">De app %1$s toegang geven tot het USB accessoire?</string>
   <string name="usb_accessory_uri_prompt">Er werken geen geïnstalleerde apps met dit USB accessoire. Meer informatie op: %1$s</string>
   <string name="usb_debugging_always">Altijd toestaan vanaf deze computer</string>
-  <string name="usb_debugging_message">"De vingerafdruk voor de RSA sleutel van de computer is:
-%1$s"</string>
+  <string name="usb_debugging_message">"De vingerafdruk voor de RSA sleutel van de computer is: %1$s"</string>
   <string name="usb_debugging_title">USB foutopsporing toestaan?</string>
   <string name="usb_device_confirm_prompt">%1$s openen wanneer dit USB apparaat wordt aangesloten?</string>
   <string name="usb_device_permission_prompt">De app %1$s toegang geven tot het USB apparaat?</string>
