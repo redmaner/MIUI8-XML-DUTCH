@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="fortune">
-        <item>Het is gemakkelijk om je doel te bereiken voor een dag, maar moeilijk voor elke dag.</item>
-        <item>Het is niet eenvoudig om elke dag een doel te bereiken.</item>
-        <item>Dagelijks nieuw doel stellen!</item>
-        <item>Geniet van een betere U!</item>
-        <item>Je bent nooit een verliezer, totdat je stopt proberen.</item>
-        <item>We zijn wat we herhaaldelijk doen. Uitmuntendheid, dan geen handeling, maar een gewoonte.</item>
-        <item>Bereik één doel per dag.</item>
-        <item>Daag jezelf om elke dag beter te doen.</item>
-        <item>Gewoon doen.</item>
-        <item>Blijf oefenen, het winnen komt vanzichzelf.</item>
+    <string-array name="weeks">
+        <item>Maa.</item>
+        <item>Dins.</item>
+        <item>Woen.</item>
+        <item>Don.</item>
+        <item>Vrij.</item>
+        <item>Zat.</item>
+        <item>Zon.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Maa.</item>
+        <item>Dins.</item>
+        <item>Woen.</item>
+        <item>Don.</item>
+        <item>Vrij.</item>
+        <item>Zat.</item>
+        <item>Zon.</item>        
     </string-array>
     <string-array name="months">
         <item>Januari</item>
@@ -31,6 +37,18 @@
         <item>Dagelijks</item>
         <item>Van Ma. to Vrij.</item>
         <item>Aanpassen</item>
+    <string-array name="fortune">
+        <item>Er is geen vervanging voor consistentie.</item>
+        <item>Streven naar vooruitgang, niet perfectie.</item>
+        <item>Herhaling is de sleutel van het succes.</item>
+        <item>Energie en doorzettingsvermogen veroveren alles.</item>
+        <item>De wereld werd niet gemaakt in een dag. Stel kleine doelen en bouw daar op.</item>
+        <item>Elke reis begint met een enkele stap.</item>
+        <item>Bereik één doel per dag.</item>
+        <item>Het maakt niet uit hoe langzaam je gaat, je bent nog steeds iedereen voor die op de bank zit.</item>
+        <item>Loop wanneer je kunt. Loop als je moet. Kruip als je moet. Gewoon nooit opgeven.</item>
+        <item>Vergeet niet, het gevoel dat je krijgt van een goede workout is veel beter dan het gevoel dat je krijgt denken dat moet een workout doen.</item>
+    </string-array>
     </string-array>
     <string-array name="weather_aqi_descriptions">
         <item>Prima</item>
@@ -82,22 +100,4 @@
         <item>Hevige sneeuwbuien</item>
         <item>Sneeuwstorm</item>
     </string-array>
-    <string-array name="weeks">
-        <item>Ma.</item>
-        <item>Di.</item>
-        <item>Woe.</item>
-        <item>Do.</item>
-        <item>Vrij.</item>
-        <item>Zat.</item>
-        <item>Zon.</item>
-    </string-array>
-    <string-array name="weeks_short">
-        <item>Ma.</item>
-        <item>Di.</item>
-        <item>Woe.</item>
-        <item>Do.</item>
-        <item>Vrij.</item>
-        <item>Zat.</item>
-        <item>Zon.</item>
-    </string-array>
-</resources>
+    </resources>
