@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <plurals name="Ntracks_search_result">
+        <item quantity="other">%d nummers gevonden</item>
+        <item quantity="one">%d snummer gevonden</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d dagen overblijvend</item>
+        <item quantity="one">%d dag overblijvend</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d nummers worden gedownload</item>
+        <item quantity="one">1 nummer worden gedownload</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">%d nummer</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d nummers toegevoegd aan afspeellijst</item>
+        <item quantity="one">Nummer toegevoegd aan afspeellijst</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d nummers verwijderd van afspeellijst</item>
+        <item quantity="one">Nummer verwijderd van afspeellijst</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">1 nummer</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d nummers worden verzonden</item>
+        <item quantity="one">nummer wordt verzonden</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d nummpers</item>
+        <item quantity="one">nummer</item>
+    </plurals>
+</resources>

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accuweather_default_url">http://www.accuweather.com</string>
+  <string name="accuweather_tag">accu</string>
   <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="act_find_city_hint">Locatie invoeren</string>
   <string name="act_find_city_hot_title">Populaire steden</string>
@@ -18,6 +20,7 @@
   <string name="activity_find_city_dialog_title">Locatie service</string>
   <string name="activity_main_refresh_time">Laatst bijgewerkt %1$s</string>
   <string name="activity_main_refresh_timeout">Vernieuw time-out</string>
+  <string name="activity_main_time_format">MM/dd</string>
   <string name="activity_main_update_time">Laatst bijgewerktd %1$s</string>
   <string name="activity_main_update_time_right_now">Zopas</string>
   <string name="activity_weather_main_null_data">- -</string>
@@ -36,6 +39,8 @@
   <string name="button_abandon">Annuleer de wijzigingen</string>
   <string name="button_allow">Ok</string>
   <string name="button_not_allow">Annuleren</string>
+  <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ss"</string>
+  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_city">Bewerken</string>
   <string name="gps_hint">Huidige locatie</string>
   <string name="loading_weather">Laden…</string>

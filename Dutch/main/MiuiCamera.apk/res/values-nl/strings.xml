@@ -296,7 +296,7 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Burst shoot</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Lang indrukken ontspanknop</string>
   <string name="pref_camera_manual_mode_title">Manueel</string>
-  <string name="pref_camera_movie_solid_title">Movie solid</string>
+  <string name="pref_camera_movie_solid_title">Beeldstabilisatie</string>
   <string name="pref_camera_multilevel_entry_high">Hoog</string>
   <string name="pref_camera_multilevel_entry_higher">Hoger</string>
   <string name="pref_camera_multilevel_entry_highest">Hoogst</string>
@@ -307,7 +307,7 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_multilevel_entry_normal">Normaal</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 persoon</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 mensen</string>
-  <string name="pref_camera_multiple_face_beauty_title">Verbeter huidtinten</string>
+  <string name="pref_camera_multiple_face_beauty_title">Huidtinten</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_title">Kies het gewenste beeldformaat</string>
   <string name="pref_camera_picturesize_entry_1024x768">0.8M(1024x768)</string>
@@ -339,12 +339,12 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">UIt</string>
   <string name="pref_camera_recordlocation_entry_on">Aan</string>
-  <string name="pref_camera_recordlocation_title">Locatie opslag info</string>
+  <string name="pref_camera_recordlocation_title">Locatie opslaan</string>
   <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
   <string name="pref_camera_redeyereduction_entry_disable">Uitschakelensch</string>
   <string name="pref_camera_redeyereduction_entry_enable">Inschakelen</string>
   <string name="pref_camera_redeyereduction_title">Beperking van rode ogen</string>
-  <string name="pref_camera_referenceline_title">Referentie lijn</string>
+  <string name="pref_camera_referenceline_title">Toon rasterlijnen</string>
   <string name="pref_camera_saturation_title">Verzadiging</string>
   <string name="pref_camera_scenedetect_title">Automatische scèneherkenning</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
@@ -390,7 +390,7 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Shutter</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-  <string name="pref_camera_volumekey_function_title">Volume knop functies</string>
+  <string name="pref_camera_volumekey_function_title">Volume knop functie</string>
   <string name="pref_camera_watermark_title">Tiids watermerk</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bewolkt</string>
@@ -419,7 +419,7 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_scan_qrcode_title">Scan QR codes</string>
   <string name="pref_setting_title">Instellingen</string>
   <string name="pref_settings_mode">Camera modus</string>
-  <string name="pref_video_captrue_ability_title">Vastleg mogelijkheden</string>
+  <string name="pref_video_captrue_ability_title">Afbeelding vastleggen tijdens het opnemen</string>
   <string name="pref_video_focusmode_entry_auto">Til</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus modus</string>
@@ -514,9 +514,9 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="toast_burst_snap_finished_end">"Foto's"</string>
   <string name="toast_burst_snap_finished_start">Burst shoot voltooid:</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shoot wordt niet ondersteund als audio-opname AAN staat</string>
-  <string name="toast_burst_snap_forbidden_when_face_beauty_open">Burst Shoot wordt niet ondersteund wanneer verbeteren huidtinten is ingeschakeld</string>
-  <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shoot wordt niet ondersteund wanneer HDR AAN staat</string>
-  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Je moet ISO ingestellen op 'auto'  "</string>
+  <string name="toast_burst_snap_forbidden_when_face_beauty_open">Kan niet geen Burst Shoot doen wanneer huidtinten is ingeschakeld</string>
+  <string name="toast_burst_snap_forbidden_when_hdr_open">Kan niet geen Burst Shoot doen wanneer HDR AAN staat</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">ISO eerdt instellen op \"auto\"</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Kan afbeelding of video niet beoordelen wanneer het scherm vergrendeld is .</string>
   <string name="toast_start_audio_capture">Maak een geluid om de sluiter activeren</string>
   <string name="ubi_focus_capture_fail">Kan geen foto nemen</string>
