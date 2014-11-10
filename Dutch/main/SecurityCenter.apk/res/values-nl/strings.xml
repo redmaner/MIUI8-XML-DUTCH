@@ -2,10 +2,10 @@
 <resources>
   <string name="Settings_title_anti_spam">Antispam instelingen</string>
   <string name="Settings_title_anti_virus">Antivirus instelingen</string>
-  <string name="Settings_title_garbage_cleanup">Vuilnisbak opruim instellingen</string>
+  <string name="Settings_title_garbage_cleanup">Prullenbak opruim instellingen</string>
   <string name="Settings_title_network_assistants">Network assistent instellingen</string>
   <string name="Settings_title_power_center">Batterij instellingen</string>
-  <string name="activity_title_ad">Ads</string>
+  <string name="activity_title_ad">Adv.</string>
   <string name="activity_title_antispam">Blokkeerlijst</string>
   <string name="activity_title_antivirus">Virus scan</string>
   <string name="activity_title_apk">Pakketen</string>
@@ -224,7 +224,7 @@
   <string name="hints_quick_scanning">Scannen…</string>
   <string name="hints_remember_choice">Voorkeur herinneren</string>
   <string name="hints_residual_header_left">Restanten: %d</string>
-  <string name="hints_residual_tips">%s residual files found on SD card</string>
+  <string name="hints_residual_tips">%s overblijvende bestanden op SD kaart</string>
   <string name="hints_risk_apk_list_item_summary">Risico (apk)</string>
   <string name="hints_risk_app_list_item_summary">Risico (app)</string>
   <string name="hints_risk_descx_title">Beschrijving:</string>
@@ -280,7 +280,7 @@
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Fout</string>
-  <string name="menu_item_notification_power_text">Power</string>
+  <string name="menu_item_notification_power_text">Uitschakelen</string>
   <string name="menu_item_notification_title">Weergeven in notificatie schaduw</string>
   <string name="menu_item_settings_title">Instellingen</string>
   <string name="menu_item_shortcut_summary">Plaats functies op het startscherm</string>
@@ -310,7 +310,7 @@
   <string name="msg_update_error_code_unknown_error">Onbekende fout</string>
   <string name="never">1 maal</string>
   <string name="notification_button_text_of_low_memory">Opruimen</string>
-  <string name="notification_summary_of_garbage_cleanup">Je vuilnis is over de %s.</string>
+  <string name="notification_summary_of_garbage_cleanup">Je afval is over de %s.</string>
   <string name="notification_summary_of_low_memory">Wanneer het geheugen bijna vol is, kan je geen nieuwe apps installeren</string>
   <string name="notification_title_firewall_blocked">Geblokkeerd</string>
   <string name="notification_title_of_garbage_cleanup">Vuilnis grootte waarschuwing</string>
@@ -320,7 +320,7 @@
   <string name="packages_subtitle">Inbegrepen pakketten</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Toestaan</string>
-  <string name="permission_action_prompt">Prompt</string>
+  <string name="permission_action_prompt">Vragen</string>
   <string name="permission_action_reject">Weigeren</string>
   <string name="permission_group_title_charges_related">Kosten</string>
   <string name="permission_group_title_media_related">Multimedia</string>
@@ -400,7 +400,7 @@
   <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij bijna leeg is. Je  je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij bijna leeg is. Je  je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij oplaad, je moet je instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Your device is scheduled to switch to this profile later. You need to change your battery settings before you can delete this configuration.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Uw apparaat is gepland om later over te schakelen naar dit profiel. U moet uw batterij instellingen wijzigen voordat u deze configuratie kunt verwijderen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">Uw apparaat is gepland om later over te schakelen naar dit profiel. Je nmoet je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
   <string name="power_dialog_delete_dialog_delete">Batterij profiel verwijderen?</string>
   <string name="power_dialog_delete_dialog_title">Profiel verwijderen</string>

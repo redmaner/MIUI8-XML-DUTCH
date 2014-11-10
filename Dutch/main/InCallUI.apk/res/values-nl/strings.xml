@@ -156,7 +156,7 @@
   <string name="description_target_send_sms">Zend bericht</string>
   <string name="dial_emergency_empty_error">Gesprek niet verzonden. Kies een alarmnummer!</string>
   <string name="dial_emergency_error">Gesprek niet verzonden. %s is geen alarmnummer!</string>
-  <string name="dial_pad_autocomplete">Toetsenblok autocomplete</string>
+  <string name="dial_pad_autocomplete">Toetsenblok auto aanvullen</string>
   <string name="dialerKeyboardHintText">Toetsenblok gebruiken om te bellen</string>
   <string name="disable">Uitschakelen</string>
   <string name="disable_cfb_forbidden">Uw operator ondersteunt niet het uitschakelen van het doorschakelen van gesprekken wanneer uw telefoon bezet is.</string>
@@ -214,7 +214,7 @@
   <string name="enable_sim_pin">Inschakelen SIM kaart code</string>
   <string name="enter_pin2_text">SIM-kaart 2 Code</string>
   <string name="enter_pin_text">SIM-kaart code:</string>
-  <string name="entertainment_news_settings">Entertainment News</string>
+  <string name="entertainment_news_settings">Entertainment Nieuws</string>
   <string name="eo_disable">Vacatures uitgeschakeld</string>
   <string name="eo_enable">Vacatures ingeschakeld</string>
   <string name="error_updating_title">Fout oproepinstellingen</string>
@@ -276,7 +276,7 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="ivr_menu_list_sub_menu_count_format">Druk %s</string>
   <string name="ivr_menu_list_title">Spraak menu</string>
   <string name="labelCDMAMore">CDMA gespreks instellingen</string>
-  <string name="labelCF">gesprek doorschakelen</string>
+  <string name="labelCF">Gesprek doorschakelen</string>
   <string name="labelCFB">Doorschakelen wanneer bezet</string>
   <string name="labelCFNRc">Doorschakelen wanneer niet bereikbaar</string>
   <string name="labelCFNRy">Doorschakelen bij niet antwoordeb</string>
@@ -325,8 +325,8 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="modify_call_option_vt_tx">Video uitzenden</string>
   <string name="modify_call_prompt_no">Nee</string>
   <string name="modify_call_prompt_yes">Ja</string>
-  <string name="multi_category_disable">Meerdere-categorieën uitgeschakeld</string>
-  <string name="multi_category_enable">Meerdere-categorieën ingeschakeld</string>
+  <string name="multi_category_disable">Meerdere categorieën uitgeschakeld</string>
+  <string name="multi_category_enable">Meerdere categorieën ingeschakeld</string>
   <string name="name">Naam</string>
   <string name="national_disable">Nationaal nieuws uitgeschakeld</string>
   <string name="national_enable">Nationaal nieuws ingeschakeld</string>
@@ -372,7 +372,7 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="oldPin2Label">Oude PIN code 2</string>
   <string name="oldPinLabel">Oude PIN code</string>
   <string name="onHold">In wacht</string>
-  <string name="online_check_provider_info">Geîdentifiseerd door %s</string>
+  <string name="online_check_provider_info">Geïdentifiseerd door %s</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
   <string name="online_check_warning_info_by_cmb">Controleer altijd de identiteit van de persoon met wie je spreekt over telefoon of video voordat je reageerd op berichten met betrekking tot uw persoonlijke financiën.</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
@@ -425,11 +425,11 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="ota_title_activate">Activeer je telefoon</string>
   <string name="ota_title_activate_success">Telefoon is geactiveerd.</string>
   <string name="ota_title_problem_with_activation">Probleem met activatie</string>
-  <string name="ota_touch_activate">"Er moet een speciale gesprek gemaakt worden  om uw telefoon te activeren.  
+  <string name="ota_touch_activate">Er moet een speciale gesprek gemaakt worden  om uw telefoon te activeren.  
 
- Na het drukken op Activeren, luister naar de instructies om uw telefoon te activeren. "</string>
+ Na het drukken op Activeren, luister naar de instructies om uw telefoon te activeren.</string>
   <string name="ota_try_again">Probeer opnieuw</string>
-  <string name="ota_unsuccessful">"De telefoon isniet geactiveerd
+  <string name="ota_unsuccessful">"De telefoon is niet geactiveerd
 Je moet een gebied te vinden met een betere dekking (nabij een raam, of buiten). 
 
 Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
@@ -450,7 +450,7 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="pick_outgoing_sip_phone">Gebruik Internet bel account:</string>
   <string name="pin2_changed">PIN code 2 met succes veranderd .</string>
   <string name="pin2_invalid">FDN is niet bijgewerkt omdat u een onjuiste PIN code hebt ingevoerd.</string>
-  <string name="pin2_or_fdn_invalid">"FDN is niet bijgewerkt. Omdat PIN code 2 onjuist was, of het telefoonnummer werd afgewezen."</string>
+  <string name="pin2_or_fdn_invalid">FDN is niet bijgewerkt. Omdat PIN code 2 onjuist was, of het telefoonnummer werd afgewezen.</string>
   <string name="pin_changed">SIM kaart PIN code met succes veranderd.</string>
   <string name="pin_failed">De PIN code die je ingevoord is niet juist.</string>
   <string name="port">Poort</string>
@@ -488,12 +488,12 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="reading_settings">Instellingen lezen…</string>
   <string name="regional_disable">Regional nieuws uitgeschakeld</string>
   <string name="regional_enable">Regional nieuws ingeschakeld</string>
-  <string name="register_automatically">AutomatiSch registreren…</string>
+  <string name="register_automatically">Automatisch registreren…</string>
   <string name="register_on_network">Geregistreerd aan %s…</string>
   <string name="registration_done">Geregistreerd op netwerk.</string>
   <string name="registration_status_checking_status">Status controleren...</string>
   <string name="registration_status_done">Gesprekken ontvangen.</string>
-  <string name="registration_status_failed_try_later">Account registratie mislukt: (%s); will try later</string>
+  <string name="registration_status_failed_try_later">Account registratie mislukt: (%s); zal later opnieuw proberen</string>
   <string name="registration_status_invalid_credentials">Account registratie mislukt: Gebruikernaam of wachtwoord ongeldig.</string>
   <string name="registration_status_no_data">Account registratie gestopt omdat er geen internet verbinding is.</string>
   <string name="registration_status_no_wifi_data">Account registratie gestopt omdat er geen Wi-Fi verbinding is.</string>
@@ -508,7 +508,7 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="requesting_unlock">Aanvragen netwerk ontgrendeling…</string>
   <string name="reset_my_choice_hint">U kunt oproepen via internet account wijzigen om standaard op de telefoon te gebruiken &gt; Instellingen &gt; Internet oproep instellingen &gt; Accounts scherm.</string>
   <string name="respond_via_sms_canned_response_1">Kan nu niet praten. Wat is er?</string>
-  <string name="respond_via_sms_canned_response_2">"Ik bel je zo terug."</string>
+  <string name="respond_via_sms_canned_response_2">Ik bel je zo terug.</string>
   <string name="respond_via_sms_canned_response_3">Ik bel je later op</string>
   <string name="respond_via_sms_canned_response_4">Kan nu niet praten. Bel me later nog eens op.</string>
   <string name="respond_via_sms_confirmation_format">Bericht vestuurd naar %s.</string>
@@ -543,7 +543,7 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="set_primary_summary">Gebruikt voor uitgaande gesprekken</string>
   <string name="set_primary_title">Instellen als hoofd account</string>
   <string name="settings_label">Netwerk instellingen</string>
-  <string name="simContacts_airplaneMode">Als u contacten vanaf de SIM-kaart importeren, moet u eerst vliegtuigmodus uit te schakelen.</string>
+  <string name="simContacts_airplaneMode">Als u contacten vanaf de SIM-kaart importeren, moet u eerst vliegmodus uit te schakelen.</string>
   <string name="simContacts_empty">Geen contacten op de SIM-kaart.</string>
   <string name="simContacts_emptyLoading">Lezen van SIM-kaart</string>
   <string name="simContacts_title">Selecteer contacten om te importeren</string>

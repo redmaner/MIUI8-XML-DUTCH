@@ -145,7 +145,7 @@
   <string name="account_setup_options_mail_check_frequency_1hour">Elk uur</string>
   <string name="account_setup_options_mail_check_frequency_30min">Elke 30 minuten</string>
   <string name="account_setup_options_mail_check_frequency_5min">Elke 5 minuten</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">Automatisch (Push, If the server supports)</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Automatisch (Push, als de server dit ondersteunt)</string>
   <string name="account_setup_options_mail_check_frequency_label">Controlefrequentie inbox</string>
   <string name="account_setup_options_mail_check_frequency_never">Nooit</string>
   <string name="account_setup_options_mail_check_frequency_push">Automatisch (push)</string>
@@ -226,7 +226,7 @@
   <string name="attachment_decoding">De bijlage wordt volledig gedownload, is bezig aan het decoderen, even wachten.</string>
   <string name="attachment_download_all">Alles downloaden</string>
   <string name="attachment_image">Afbeelding</string>
-  <string name="attachment_mgr_name">Bilagen</string>
+  <string name="attachment_mgr_name">Bijlagen</string>
   <string name="attachment_not_found">Bijlage downloaden mislukt.</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">U kunt dit type bijlage niet opslaan of openen.</string>
@@ -263,7 +263,7 @@
   <string name="change_account_confirm">Het account \"%1$s\" wordt verwijderd van Mail.</string>
   <string name="change_account_type">Account type wijzigen</string>
   <string name="change_folders_selection_dialog_title">Mappen wijzigen</string>
-  <string name="change_sync_settings">Synchronisatie-inst. wijzigen</string>
+  <string name="change_sync_settings">Sync. inst. wijzigen</string>
   <string name="chat_type_name">chat</string>
   <string name="check_setup_data">Valideren server instellingen…</string>
   <string name="checking_for_mail">Controleren op e-mail</string>
@@ -278,7 +278,7 @@
   <string name="compose">Opstellen</string>
   <string name="compose_send">Vezenden</string>
   <string name="compose_sent">Verzenden gelukt</string>
-  <string name="confirm">confirm</string>
+  <string name="confirm">Bevestigen</string>
   <string name="confirm_delete">Ben je zeker dat je deze mail wil verwijderen?</string>
   <string name="confirm_discard_text">Dit bericht weggooien?</string>
   <string name="confirm_response">Reactie verzenden…</string>
@@ -300,7 +300,7 @@
   <string name="content_description_today">%1$s over %2$s, %3$s om %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
   <string name="contextmenu_copy">Kopiëren</string>
-  <string name="contextmenu_copylink">Link-URL kopiëren</string>
+  <string name="contextmenu_copylink">Link URL kopiëren</string>
   <string name="contextmenu_dial_dot">Bellen...</string>
   <string name="contextmenu_feedback">Feedback verzenden</string>
   <string name="contextmenu_help">Help</string>
@@ -332,7 +332,7 @@
   <string name="debug_enable_verbose_logging_label">Extreem verbose loggin inschakelen?</string>
   <string name="debug_force_one_minute_refresh_label">Forceer 1-minuut verversing voor POP/IMAP</string>
   <string name="debug_title">Foutopsporing</string>
-  <string name="default_">DEFAULT</string>
+  <string name="default_">STANDAARD</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
@@ -362,7 +362,7 @@
   <string name="downlaod_confirm_download">Download</string>
   <string name="downlaod_nonWifi_confirm_message">Je mobiele data verbinding gebruiken om de bijlage te downloaden?</string>
   <string name="download_again">Opnieuw downloaden</string>
-  <string name="download_before_sharing">is nog niet gedownload</string>
+  <string name="download_before_sharing">Is nog niet gedownload</string>
   <string name="download_before_view">Dit bericht is niet gedownload.</string>
   <string name="download_cancel_confirm_title">Download wordt geannuleerd.</string>
   <string name="download_complete_not_cancel">Download gelukt</string>
@@ -402,7 +402,7 @@
   <string name="file_deleted_success">Bestand verwijderd</string>
   <string name="file_not_found">Kon bestand niet vinden</string>
   <string name="file_not_found_redownload">Kon bestand niet vinden</string>
-  <string name="file_rar_not_support">"Kan versleutelde rar bestanden niet openen"</string>
+  <string name="file_rar_not_support">Kan versleutelde rar bestanden niet openen</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="flow_saved_dlg_do_not_show">Niet meer tonen</string>
 +  <string name="flow_saved_dlg_i_know">OK</string>
@@ -433,7 +433,7 @@
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Doorsturen</string>
-  <string name="forward_attachment">Forward</string>
+  <string name="forward_attachment">Doorsturen</string>
   <string name="forward_attribution">---------- Doorgestuurd bericht ----------&lt;br&gt;Van: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Onderwerp: %3$s&lt;br&gt;Aan: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
   <string name="forward_download_failed_ticker">Kan een of meer bijlagen niet doorsturen.</string>
@@ -456,7 +456,7 @@
   <string name="header_category_other">Overige</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
-  <string name="hide_atts_remaining">verberg %1$d bijlagen</string>
+  <string name="hide_atts_remaining">Verberg %1$d bijlagen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hide_folders">Mappen verbergen</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -542,7 +542,7 @@
   <string name="menu_photo_save_all">Alles opslaan</string>
   <string name="menu_photo_share">Delen</string>
   <string name="menu_photo_share_all">Alles delen</string>
-  <string name="menu_resend_all">Resend all</string>
+  <string name="menu_resend_all">Alles opnieuw verzenden</string>
   <string name="menu_search">Zoeken</string>
   <string name="menu_settings">Instellingen</string>
   <string name="menu_show_original">Oorspr. versie herstellen</string>
@@ -594,7 +594,7 @@ Cc: %4$s
   <string name="no_conversations">Geen berichten.</string>
   <string name="no_mails">Geen mails</string>
   <string name="no_matched_attachment">Geen overeenkomende bijlagen</string>
-  <string name="no_wifi_promot">Er wordt geen WIFI gebruikt nut, kunt u een oogje houden op uw verkeersstroom</string>
+  <string name="no_wifi_promot">Er wordt geen WiFi gebruikt nut, kunt u een oogje houden op uw verkeersstroom</string>
   <string name="non_synced_folder_description">Synchroniseer deze map om conversaties weer te geven.</string>
   <string name="not_subject">(No subject)</string>
   <string name="not_synced_title">Account niet gesynchroniseerd</string>
@@ -661,7 +661,7 @@ Cc: %4$s
   <string name="policy_dont_allow_text_messaging">Tekstberichten niet toestaan</string>
   <string name="policy_dont_allow_unsigned_apps">Onbekende apps niet toestaan</string>
   <string name="policy_dont_allow_unsigned_installers">Onbekende app bronnen niet toestaan</string>
-  <string name="policy_dont_allow_wifi">WIFI niet toestaan</string>
+  <string name="policy_dont_allow_wifi">WiFi niet toestaan</string>
   <string name="policy_email_age">Aantal gesynchroniseerde e-mails beperken</string>
   <string name="policy_html_truncation">HTML e-mail grootte beperken</string>
   <string name="policy_max_attachment_size">Bijlage grootte beperken</string>
@@ -711,7 +711,7 @@ Cc: %4$s
   <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
   <string name="quoted_text">Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="quoted_text_label">Geciteerde tekst</string>
-  <string name="read_string">conversatie gelezen</string>
+  <string name="read_string">Conversatie gelezen</string>
   <string name="recent_folders_heading">Recente mappen</string>
   <string name="recipient_error_dialog_title">Fout met ontvanger</string>
   <string name="recipient_needed">Voeg ten minste één ontvanger toe.</string>

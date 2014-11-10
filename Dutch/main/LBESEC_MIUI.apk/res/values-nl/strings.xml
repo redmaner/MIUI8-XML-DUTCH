@@ -22,7 +22,7 @@
   <string name="Dashboard_Perm_SU_Desc">%1$d apps worden gecontroleerd voor ROOT Toegang</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT Toegang is uitgeschakeld</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT is niet beschikbaar op stabiele versies van MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Het verlenen van ROOT Toegang aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT Toegang in te schakelen.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van ROOT Toegang aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT Toegang in te schakelen.
 </string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
@@ -62,7 +62,7 @@
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Ask&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Afwijzen</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Count">Denied: %1$d</string>
+  <string name="HIPS_Action_Reject_Count">Geweigerd: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Privacy</string>
   <string name="HIPS_Group_Expense">Veiligheid</string>
   <string name="HIPS_Group_Internet">Internet toegang</string>
@@ -99,8 +99,8 @@
   <string name="HIPS_Perm_CallState_Hint">%1$s app(s) apps zijn gemachtigd om telefoon status te verkrijgen</string>
   <string name="HIPS_Perm_Call_Desc">Maak direct telefoongesprekken, beantwoorden of ophangen </string>
   <string name="HIPS_Perm_Call_Hint">%1$s app(s) apps zijn gemachtigd om telefoongesprekken te maken, te beantwoorden en op te hangen</string>
-  <string name="HIPS_Perm_Call_Number">bel %1$s</string>
-  <string name="HIPS_Perm_CancelMissedCalls">leegmaken gemiste gesprekken notificatie</string>
+  <string name="HIPS_Perm_Call_Number">Bel %1$s</string>
+  <string name="HIPS_Perm_CancelMissedCalls">Leegmaken gemiste gesprekken notificatie</string>
   <string name="HIPS_Perm_Contact">Contacten</string>
   <string name="HIPS_Perm_Contact_Access">uw contacten lijst te lezen</string>
   <string name="HIPS_Perm_Contact_Desc">Toegang verkijgen tot uw contacten lijst</string>
@@ -172,7 +172,7 @@
   <string name="HIPS_Perm_SendSMS_Data">Verzend SMS naar %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">Verzend SMS direct</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s apps zijn gemachtigd om SMS te verzenden</string>
-  <string name="HIPS_Perm_SendSMS_Port">Dest Port:</string>
+  <string name="HIPS_Perm_SendSMS_Port">Dest Poort:</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Ontvanger:</string>
   <string name="HIPS_Perm_SendSMS_SMSC">SMS Centrum:</string>
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Standaard SMS Centrum</string>
