@@ -74,7 +74,10 @@
   <string name="autologin_bar_text">Aanmelden als</string>
   <string name="back">Terug</string>
   <string name="block">Blokkeren</string>
-  <string name="bookmark_URL_already_exisit">Je hebt deze URL al toegevoegd aan bladwijzers</string>
+  <string name="block_ads_choice_block">Block</string>
+  <string name="block_ads_choice_continue">Continue</string>
+  <string name="block_ads_message">Do you want to block messages from this website?</string>
+  <string name="block_ads_title">Content may contain ads</string>
   <string name="bookmark_add_group_text_header">Geselecteerde toevoegen aan %1$d groep</string>
   <string name="bookmark_add_to">Toevoegen aan</string>
   <string name="bookmark_cannot_save_url">Deze URL kan niet worden toegvoegd aan bladwijzers.</string>
@@ -84,7 +87,6 @@
   <string name="bookmark_needs_title">Bladwijzer moet een naam hebben.</string>
   <string name="bookmark_needs_url">Bladwijzer moeten een locatie hebben.</string>
   <string name="bookmark_not_saved">Kon bladwijzer niet opslaan</string>
-  <string name="bookmark_page">Laatst bekeken bladwijzer pagina</string>
   <string name="bookmark_rename_group">Wijzig groepsnaam</string>
   <string name="bookmark_saved">Bladwijzer opgeslagen</string>
   <string name="bookmark_this_page_to_readmodelist">Pagina toevoegen aan leeslijst</string>
@@ -93,6 +95,7 @@
   <string name="bookmark_to_readmodelist_not_saved">Kan niet opslaan in leeslijst</string>
   <string name="bookmark_to_readmodelist_saved">Opgeslagen in leeslijst</string>
   <string name="bookmark_url">URL http://</string>
+  <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">Ongeldige URL.</string>
   <string name="bookmarks">Bladwijzers</string>
@@ -218,8 +221,10 @@
   <string name="empty_bookmark">Leeg</string>
   <string name="empty_bookmarks_folder">Geen Bladwijzers</string>
   <string name="empty_history">leeg</string>
+  <string name="empty_history_hint">Empty</string>
   <string name="empty_snapshot_hint">leeg</string>
   <string name="empty_snapshots_folder">"Geen opgeslagen pagina's."</string>
+  <string name="enter_developer_mode">Enter developer mode</string>
   <string name="enter_incongnito_mode">Enter incognito modus</string>
   <string name="error_console_eval_button_text">Evalueren</string>
   <string name="error_console_eval_text_hint">JavaScript evalueren</string>
@@ -261,7 +266,6 @@
   <string name="history_most_visited">Meest bezocht</string>
   <string name="history_saved_webpage">Pagina opslaan</string>
   <string name="history_track">Geschiedenis</string>
-  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Startpagina ingesteld</string>
   <string name="http">http://</string>
   <string name="in_incognito">"Je bent in incognitomodus! Webpagina's uw die u bekijkt in dit tabblad verschijnen niet in uw browser geschiedenis."</string>
@@ -417,7 +421,6 @@
   <string name="pref_development_normal_rendering">Normale rendering</string>
   <string name="pref_development_reset_prelogin">Wijzig prelogin</string>
   <string name="pref_development_single_column_rendering">Enkele column rendering</string>
-  <string name="pref_development_title">Foutopsporing</string>
   <string name="pref_development_trace">Tracing inschakelen</string>
   <string name="pref_development_viewport">Breed paginaoverzicht gebruiken</string>
   <string name="pref_development_visual_indicator">Visuele Indicator ingeschakeld</string>
@@ -454,14 +457,12 @@
   <string name="pref_inverted">Omgekeerde opbouw</string>
   <string name="pref_inverted_category">Omgekeerde opbouw van scherm</string>
   <string name="pref_inverted_contrast">Contrast</string>
-  <string name="pref_inverted_summary">Zwart wordt wit en andersom</string>
   <string name="pref_key_gesture_title">Toesten &amp; gebaren</string>
   <string name="pref_key_title">Toetsinstellingen</string>
   <string name="pref_link_prefetch_dialogtitle">&gt;Webpagina preloaden</string>
   <string name="pref_link_prefetch_summary">"Browser toestaan gelinkte webpagina's in de achtergrond te preloaden"</string>
   <string name="pref_link_prefetch_title">"Webpagina's preloaden"</string>
   <string name="pref_link_prefetch_value_never_summary">"Browser nooit toestaan gelinkte webpagina's in de achtergrond te preloaden"</string>
-  <string name="pref_min_font_size">Minimum lettergrootte</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_other_title">Overige</string>
   <string name="pref_privacy_clear_cache">Cache verwijderen</string>
@@ -504,7 +505,6 @@
   <string name="pref_security_show_security_warning_summary">&gt;Waarschuwing weergeven als er een probleem is met de certificaat van een website</string>
   <string name="pref_set_homepage_to">Ingesteld op</string>
   <string name="pref_setting_title">Pagina instellingen</string>
-  <string name="pref_text_zoom">Tekstschaal</string>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_string">Apparatuur</string>
   <string name="pref_ua_title">Identificatie Apparatuur beheer</string>
@@ -531,6 +531,7 @@
   <string name="profiler_stopped_toast">Profiler voltooid. Resultaten zijn in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Achtergrond instellen…</string>
   <string name="qr_code_title">QR Code</string>
+  <string name="quicklink_bookmark_save">Save to</string>
   <string name="quicklink_not_saved">Kon site niet toevoegen aan startpagina</string>
   <string name="quicklink_saved">Site toegevoegd aan startpagina</string>
   <string name="quicklink_saved_before">Site is al toegevoegd aan startpagina</string>
@@ -690,6 +691,7 @@
   <string name="webapp_add_to_favorite_toast">Toegevoegd aan favorieten</string>
   <string name="webapp_addtodeskpop_append">Toegevoegd</string>
   <string name="webapp_app_name">Light Web Apps Store</string>
+  <string name="webapp_bottom_bar_addtodesk">Add to desktop</string>
   <string name="webapp_dialog_title">App toevoegen aan starscherm</string>
   <string name="webapp_menu_addtodesk">Toevoegen aan bureaublad</string>
   <string name="webapp_menu_already_addtodesk">Toegevoegd aan bureaublad</string>
@@ -699,6 +701,7 @@
   <string name="webapp_menu_settings">Instellingen</string>
   <string name="webapp_menu_share">Delen</string>
   <string name="webapp_settings_title">Instellen</string>
+  <string name="webapp_splashview_loading">Loading now...</string>
   <string name="webapp_webapp_favortes_title">Favorieten</string>
   <string name="webpage_bookmark_title">Bladwijzer</string>
   <string name="webpage_history_title">Geschiedenis</string>
