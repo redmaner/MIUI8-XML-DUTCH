@@ -105,7 +105,7 @@
   <string name="call_recording_notification_title">Gesprek opnemen</string>
   <string name="call_recording_notification_title_error">Gespreks opname mislukt</string>
   <string name="call_recording_setting">Gesprekken opnemen</string>
-  <string name="call_remove_exception_numbers_confirm">%d nummers worder verwijderd.</string>
+  <string name="call_remove_exception_numbers_confirm">%d nummers worden verwijderd.</string>
   <string name="call_settings">Oproepinstellingen</string>
   <string name="call_settings_category">Oproepen</string>
   <string name="call_type">Oproeptype</string>
@@ -261,8 +261,8 @@
   <string name="empty_alert">%s is verplicht en mag niet worden leeggelaten.</string>
   <string name="empty_networks_list">Geen netwerken gevonden.</string>
   <string name="enable">Inschakelen</string>
-  <string name="enable_antispam_strange_summary">Demp de eerste oproep van onbekende nummers</string>
-  <string name="enable_antispam_strange_title">Demp onbekende nummers</string>
+  <string name="enable_antispam_strange_summary">Hiermee zet u het eerste belsignaal voor oproepen van onbekende nummers</string>
+  <string name="enable_antispam_strange_title">Demp eerste belsignaal</string>
   <string name="enable_disable_administrative">Beheer</string>
   <string name="enable_disable_advertisements">Advertenties</string>
   <string name="enable_disable_atr">Verkeersberichten</string>
@@ -640,7 +640,7 @@
   <string name="registration_status_server_unreachable">Accountregistratie mislukt: controleer de servernaam.</string>
   <string name="registration_status_still_trying">Nog steeds bezig...</string>
   <string name="reject_via_sms">Snel antwoord</string>
-  <string name="reject_via_sms_summary">Snelle antwoorden aanpassen</string>
+  <string name="reject_via_sms_summary">Snelle berichten aanpassen</string>
   <string name="reject_via_sms_title">Snelle antwoorden</string>
   <string name="remember_my_choice">Altijd gebruiken voor internetoproepen</string>
   <string name="remove">Verwijderen</string>
@@ -694,7 +694,7 @@
   <string name="ruim_unlock_success">RUIM unlock gelukt.</string>
   <string name="save">Opslaan</string>
   <string name="saving_account">Het account opslaan...</string>
-  <string name="selectContact">contact selecteren</string>
+  <string name="selectContact">Contact selecteren</string>
   <string name="select_automatically">Automatisch kiezen</string>
   <string name="select_voice_call_sim">Kies SIM-kaart</string>
   <string name="sendSms">Verzend SMS</string>
@@ -716,8 +716,8 @@
   <string name="sim_contact_number">Nummer</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
   <string name="sim_ndp_unlock_text">Ontgrendelen</string>
-  <string name="sim_unlock_failed">SIM unlock verzoek gefaald.</string>
-  <string name="sim_unlock_success">SIM unlock gelukt.</string>
+  <string name="sim_unlock_failed">SIM deblokkeren verzoek gefaald.</string>
+  <string name="sim_unlock_success">SIM deblokkeren gelukt.</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">Accounts voor internetoproepen (SIP)</string>
   <string name="sip_accounts_title">Accounts</string>
@@ -829,6 +829,7 @@
   <string name="updating_settings">Instellingen bijwerken...</string>
   <string name="uplmn_list_setting_add_plmn">Nieuwe PLMN</string>
   <string name="uplmn_list_setting_title">Voorkeursnetwerken</string>
+  <string name="uplmn_numeric_is_empty">Voeg netwerk ID in</string>
   <string name="username">Gebruikersnaam</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD code uitvoeren...</string>

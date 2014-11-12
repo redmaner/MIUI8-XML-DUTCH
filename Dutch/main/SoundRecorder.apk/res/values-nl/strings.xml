@@ -22,6 +22,7 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
+  <string name="error_file_access">Bestand bestaat niet of is corrupt</string>
   <string name="error_filename_illegal_char">Bestandsnaam bevat ongeldige karakters.</string>
   <string name="error_filename_too_long">Bestandsnaam is te lang</string>
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
@@ -35,6 +36,7 @@
   <string name="menu_settings">Instellingen</string>
   <string name="message_file_size_error">Opname heeft de maximale ondersteunde opname tijd bereikt voor %s</string>
   <string name="minute">%d minuten</string>
+  <string name="no_downloading_file">Geen downloadbestand</string>
   <string name="no_file">Geen opnames</string>
   <string name="notification_message_all_paused">Kan mobiele data verbruik vergroten.</string>
   <string name="notification_playback">Opname afspelen…</string>
@@ -55,7 +57,7 @@
   <string name="preference_scenes">Instellingen voor scenes</string>
   <string name="preference_silent_mode">Stille modus bij opnames</string>
   <string name="record_download">Downloaden van Mi Cloud</string>
-  <string name="record_download_activity">Opname downloader</string>
+  <string name="record_download_activity">Download lijst</string>
   <string name="record_download_complete">Voltooid</string>
   <string name="record_download_failed">Mislukt</string>
   <string name="record_download_manager">Download manager</string>
