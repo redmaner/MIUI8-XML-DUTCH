@@ -52,7 +52,7 @@
   <string name="account_list">Alle</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync.</string>
-  <string name="activate_miui_screensaver">Screensaver tijdens slaap</string>
+  <string name="activate_miui_screensaver">Schermbeveiliging tijdens slaap</string>
   <string name="activating">Activeren…</string>
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
@@ -92,7 +92,7 @@
   <string name="android_beam_tips">Verzeker u er van dat de apparaten contact maken, klik vervolgens op de content die u wilt beamen.</string>
   <string name="android_beam_witch_label">Schakel Android Beam in</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
-  <string name="anti_spam">Blokeerlijst</string>
+  <string name="anti_spam">Blokkeerlijst</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Verificatietype</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -129,7 +129,7 @@
   <string name="app_factory_reset">Updates verwijderen</string>
   <string name="app_factory_reset_dlg_text">Alle updates van deze app van het Android systeem worden verwijderd.</string>
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
-  <string name="app_feedback">Report bug</string>
+  <string name="app_feedback">Rapporteer bug</string>
   <string name="app_floating_window_dlg_disable">"Het uitschakelen van %1$s's floating scherm zal de app doen stoppen. Floating schermen uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Het inschakelen van %1$s's floating scherm instellingen benodigd een herstart van de app. U kunt de app ook handmatig stoppen. Floating schermen inschakelen?"</string>
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
@@ -193,7 +193,7 @@
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterij en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
   <string name="background_data_summary">Onbeperkt gegevens sync., verzenden en ontvangen</string>
-  <string name="background_process_stop_description">Dit is een oud app-proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
+  <string name="background_process_stop_description">Dit is een oud app proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
   <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van backup gegevens</string>
   <string name="backup_configure_account_title">Backup account</string>
   <string name="backup_data_summary">Een backup van gegevens voor apps, WiFi wachtwoorden en andere instellingen maken op de Google-servers</string>
@@ -242,7 +242,7 @@
   <string name="battery_info_health_overheat">Oververhitting</string>
   <string name="battery_info_health_unknown">Onbekend</string>
   <string name="battery_info_health_unspecified_failure">Onbekende fout</string>
-  <string name="battery_info_label">Batterijinfo</string>
+  <string name="battery_info_label">Batterij info</string>
   <string name="battery_info_level_label">Batterij niveau:</string>
   <string name="battery_info_power_ac">AC</string>
   <string name="battery_info_power_ac_usb">AC+USB</string>
@@ -293,7 +293,7 @@
   <string name="bearer">Drager</string>
   <string name="biometric_weak_improve_matching_title">Gezichtsvergelijking verbeteren</string>
   <string name="biometric_weak_liveliness_summary">Ogen knipperen vereist bij ontgrendelen</string>
-  <string name="biometric_weak_liveliness_title">Liveness controle</string>
+  <string name="biometric_weak_liveliness_title">Levendigheids controle</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Verbonden met audio van medium</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Gebruiken voor audio van medium</string>
@@ -462,8 +462,8 @@
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Snoop logbestand voor Bluetooth HCI inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI pakketten tot één bestand samenvoegen</string>
-  <string name="bt_trace_log">Bluetooth Trace log inschakelen</string>
-  <string name="bt_trace_log_summary">Bluetooth trace log inschakelen</string>
+  <string name="bt_trace_log">Bluetooth traceerlog inschakelen</string>
+  <string name="bt_trace_log_summary">Bluetooth traceerlog inschakelen</string>
   <string name="bugreport_in_power">Foutenrapporten in afsluitmenu</string>
   <string name="bugreport_in_power_summary">Optie opnemen in afsluitmenu voor het genereren van een foutenrapport</string>
   <string name="bugreport_tool_log">Vastleggen Bugreport</string>
@@ -705,7 +705,7 @@
   <string name="debug_hw_drawing_category">Rendering met hardwareversnelling</string>
   <string name="debug_hw_overdraw">Foutopsporing GPU overbelasting</string>
   <string name="debug_input_category">Invoer</string>
-  <string name="debug_intent_sender_label">Debug intent sender</string>
+  <string name="debug_intent_sender_label">Debug bedoelde verzender</string>
   <string name="debug_layout">Indelingsgrenzen weerg.</string>
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Gebruikers ervarings programma</string>
@@ -782,7 +782,7 @@
   <string name="display_settings">Weergave</string>
   <string name="display_settings_title">Weergave</string>
   <string name="dlg_cancel">Annuleren</string>
-  <string name="dlg_confirm_unmount_text">Als u de USBopslag ontkoppelt, worden bepaalde apps die u gebruikt, gestopt en komen deze mogelijk pas weer beschikbaar wanneer u de USB opslag opnieuw koppelt.</string>
+  <string name="dlg_confirm_unmount_text">Als u de USB opslag ontkoppelt, worden bepaalde apps die u gebruikt, gestopt en komen deze mogelijk pas weer beschikbaar wanneer u de USB opslag opnieuw koppelt.</string>
   <string name="dlg_confirm_unmount_title">USB opslag ontkoppelen?</string>
   <string name="dlg_error_unmount_text">Kan USB opslag niet ontkoppelen. Probeer het later opnieuw.</string>
   <string name="dlg_error_unmount_title"/>
