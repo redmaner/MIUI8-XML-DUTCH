@@ -129,13 +129,6 @@
   <string name="deleting_fdn_contact">Verwijderen vaste nummers…</string>
   <string name="description_delete_button">spatie</string>
   <string name="description_dial_button">Bellen</string>
-  <string name="description_direction_down_left">Beneden links</string>
-  <string name="description_direction_down_right">Beneden rechts</string>
-  <string name="description_direction_left">Schuif naar links voor %s.</string>
-  <string name="description_direction_right">Schuif naar rechts voor %s.</string>
-  <string name="description_direction_up">Schuif naar boven voor %s.</string>
-  <string name="description_direction_up_left">Boven links</string>
-  <string name="description_direction_up_right">Boven rechts</string>
   <string name="description_image_button_eight">Acht</string>
   <string name="description_image_button_five">vijf</string>
   <string name="description_image_button_four">vier</string>
@@ -148,12 +141,6 @@
   <string name="description_image_button_three">drie</string>
   <string name="description_image_button_two">twee</string>
   <string name="description_image_button_zero">nul</string>
-  <string name="description_target_answer">Antwoorden</string>
-  <string name="description_target_answer_rx_video">Antwoorden met RX Video</string>
-  <string name="description_target_answer_tx_video">Antwoorden met TX Video</string>
-  <string name="description_target_answer_video">Antwoorden met Video</string>
-  <string name="description_target_decline">Afwijzen</string>
-  <string name="description_target_send_sms">Zend bericht</string>
   <string name="dial_emergency_empty_error">Gesprek niet verzonden. Kies een alarmnummer!</string>
   <string name="dial_emergency_error">Gesprek niet verzonden. %s is geen alarmnummer!</string>
   <string name="dial_pad_autocomplete">Toetsenblok auto aanvullen</string>
@@ -219,9 +206,6 @@
   <string name="eo_enable">Vacatures ingeschakeld</string>
   <string name="error_updating_title">Fout oproepinstellingen</string>
   <string name="exception_error">Netwerk of SIM-kaart fout.</string>
-  <string name="fake_phone_activity_infoText_text">Inkomend gesprek</string>
-  <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-  <string name="fake_phone_activity_placeCall_text">Vals inkomend gesprek</string>
   <string name="fdn">Vaste nummers</string>
   <string name="fdn_activation">FDN activatie</string>
   <string name="fdn_check_failure">Je telefoon apps vaste nummers kiezen is ingeschakeld. Als gevolg hiervan zijn een aantal belfuncties niet werken.</string>
@@ -267,7 +251,6 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="incoming_call_forwarded_title">Doorschakelen inkomende gesprekken</string>
   <string name="international_disable">Internationaal nieuws uitgeschakeld</string>
   <string name="international_enable">Internationaal nieuws ingeschakeld</string>
-  <string name="internet_phone">Internet call</string>
   <string name="invalidPin">Ingeven PIN code het zijn 4 naar 8 nummers.</string>
   <string name="invalidPin2">Ingeven PIN code 2 het zijn 4 naar 8 nummers.</string>
   <string name="invalidPuk2">Ingeven PUK code 2 dat zijn 8 nummers.</string>
@@ -293,6 +276,7 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="list_language_dtitle">Talen</string>
   <string name="list_language_summary">Nieuws taal seleteren</string>
   <string name="list_language_title">Taal</string>
+  <string name="livetalk_provider_info">Verzorgd door %s</string>
   <string name="load_networks_progress">Zoeken…</string>
   <string name="local_disable">Lokaal nieuws uitgeschakeld</string>
   <string name="local_enable">Lokaal nieuws ingeschakeld</string>
@@ -338,8 +322,6 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="no_change">Geen wijzigingen aangebracht.</string>
   <string name="no_internet_available">Om een Internet gesprek te plaatsen, controleer eerst uw internetverbinding.</string>
   <string name="no_internet_available_title">Geen internet verbinding</string>
-  <string name="no_sip_account_found">Er zijn geen internet gesprek accounts op deze telefoon. Wilt u er nu één toevoegen?</string>
-  <string name="no_sip_account_found_title">Geen internet belaccount</string>
   <string name="no_vm_number">Ontbrekend voicemailnummer</string>
   <string name="no_vm_number_msg">Geen voicemailnummer opgeslagen op de SIM-kaart.</string>
   <string name="no_voip">Internet bellen niet ondersteund</string>
@@ -446,8 +428,6 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="phone_in_ecm_call_notification_text">Data verbinding uitgeschakeld</string>
   <string name="phone_in_ecm_notification_title">Noodoproep modus</string>
   <string name="phone_info_divider">" ｜ "</string>
-  <string name="pick_outgoing_call_phone_type">Gesprek maken</string>
-  <string name="pick_outgoing_sip_phone">Gebruik Internet bel account:</string>
   <string name="pin2_changed">PIN code 2 met succes veranderd .</string>
   <string name="pin2_invalid">FDN is niet bijgewerkt omdat u een onjuiste PIN code hebt ingevoerd.</string>
   <string name="pin2_or_fdn_invalid">FDN is niet bijgewerkt. Omdat PIN code 2 onjuist was, of het telefoonnummer werd afgewezen.</string>
@@ -480,7 +460,6 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="progress_dialog_exiting_ecm">Verlaten Noodoproep modus</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Uitgaand proxy adres</string>
-  <string name="pstn_phone">Mobiele telefoon oproep</string>
   <string name="puk2_requested">Wachtwoord niet juist, SIM-kaart is geblokkeerd. PUK code 2 nodig.</string>
   <string name="puk_requested">Wachtwoord niet juist, SIM-kaart is geblokkeerd! PUK code 2 nodig.</string>
   <string name="puk_unlocked">Uw SIM kaart is gedeblokkeerd. Telefoon ontgrendelen…</string>
@@ -502,11 +481,9 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="registration_status_registering">Registreren…</string>
   <string name="registration_status_server_unreachable">Account registration registratie mislukt: Controleer de server naam.</string>
   <string name="registration_status_still_trying">Nog steeds bezig…</string>
-  <string name="remember_my_choice">Altijd gebruiken voor Internet oproepen</string>
   <string name="remove_sip_account">Verwijder account</string>
   <string name="removing_account">Verwijder het account…</string>
   <string name="requesting_unlock">Aanvragen netwerk ontgrendeling…</string>
-  <string name="reset_my_choice_hint">U kunt oproepen via internet account wijzigen om standaard op de telefoon te gebruiken &gt; Instellingen &gt; Internet oproep instellingen &gt; Accounts scherm.</string>
   <string name="respond_via_sms_canned_response_1">Kan nu niet praten. Wat is er?</string>
   <string name="respond_via_sms_canned_response_2">Ik bel je zo terug.</string>
   <string name="respond_via_sms_canned_response_3">Ik bel je later op</string>
@@ -552,7 +529,6 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">Internet gesprek (SIP) accounts</string>
   <string name="sip_accounts_title">Accounts</string>
-  <string name="sip_always_send_keepalive">Altijd verzenden</string>
   <string name="sip_call_options_entry_1">Voor alle gesprekken wanneer data netwerk beschikbaar is</string>
   <string name="sip_call_options_entry_2">Alleen voor internet gesprekken</string>
   <string name="sip_call_options_entry_3">Voor iedere gesprek vragen</string>
@@ -567,7 +543,6 @@ Probeer het opnieuw of bel de klantenservice voor meer opties. "</string>
   <string name="sip_receive_calls">Ontvang inkomende gesprekken</string>
   <string name="sip_receive_calls_summary">Bespaard batterij</string>
   <string name="sip_settings">Instell Internet gesprekken</string>
-  <string name="sip_system_decide">Automatisch</string>
   <string name="sports_news_settings">Sports Nieuws</string>
   <string name="stock_quotes_disable">Aandeelkoersen uitgeschakeld</string>
   <string name="stock_quotes_enable">Aandeelkoersen ingeschakeld</string>
@@ -636,7 +611,6 @@ Volgend periode start binnen %2$d dagen (%3$s)"</string>
   <string name="vm_changed">Voicemail nummer gewijzigd.</string>
   <string name="voice_privacy">Voice privé</string>
   <string name="voice_privacy_summary">Verbeterde privacy modus inschakelen</string>
-  <string name="voicemail">Voicemail</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_default">Mijn provider</string>
   <string name="voicemail_notification_ringtone_title">Beltoon</string>

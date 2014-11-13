@@ -52,7 +52,7 @@
   <string name="account_list">Alle</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync.</string>
-  <string name="activate_miui_screensaver">Schermbeveiliging tijdens slaap</string>
+  <string name="activate_miui_screensaver">Screensaver tijdens slaap</string>
   <string name="activating">Activeren…</string>
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
@@ -83,22 +83,16 @@
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
   <string name="always_allow_bind_appwidgets_text">U heeft ervoor gekozen deze app toe te staan widgets te maken en toegang tot de widgetgegevens te geven.</string>
-  <string name="android_beam_disabled_summary">Niet beschikbaar omdat NFC is uitgeschakeld</string>
-  <string name="android_beam_explained">"Wanneer deze functie is ingeschakeld, kunt u app-inhoud overbrengen naar een ander NFC apparaat door de apparaten bij elkaar te houden. U kunt bijvoorbeeld browserpagina's, YouTubevideo's, contacten uit Personen, en nog veel meer overbrengen. Houd de apparaten bij elkaar (meestal met de achterkanten tegen elkaar aan) en raak uw scherm aan. De app bepaalt wat er wordt overgebracht."</string>
-  <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">Uit</string>
-  <string name="android_beam_on_summary">Gereed om app inhoud te verzenden via NFC</string>
-  <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Verzeker u er van dat de apparaten contact maken, klik vervolgens op de content die u wilt beamen.</string>
-  <string name="android_beam_witch_label">Schakel Android Beam in</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
-  <string name="anti_spam">Blokkeerlijst</string>
+  <string name="anti_spam">Blokeerlijst</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Verificatietype</string>
   <string name="apn_auth_type_chap">CHAP</string>
   <string name="apn_auth_type_none">Geen</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
+  <string name="apn_chinaunicom_3gnet_general">Wal-3G internetverbinding</string>
+  <string name="apn_chinaunicom_3gwap_general">Wal 3G mobiel internet</string>
   <string name="apn_edit">Toegangspunt bewerken</string>
   <string name="apn_general">Algemeen</string>
   <string name="apn_http_port">Poort</string>
@@ -129,7 +123,6 @@
   <string name="app_factory_reset">Updates verwijderen</string>
   <string name="app_factory_reset_dlg_text">Alle updates van deze app van het Android systeem worden verwijderd.</string>
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
-  <string name="app_feedback">Rapporteer bug</string>
   <string name="app_floating_window_dlg_disable">"Het uitschakelen van %1$s's floating scherm zal de app doen stoppen. Floating schermen uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Het inschakelen van %1$s's floating scherm instellingen benodigd een herstart van de app. U kunt de app ook handmatig stoppen. Floating schermen inschakelen?"</string>
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
@@ -193,7 +186,7 @@
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterij en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
   <string name="background_data_summary">Onbeperkt gegevens sync., verzenden en ontvangen</string>
-  <string name="background_process_stop_description">Dit is een oud app proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
+  <string name="background_process_stop_description">Dit is een oud app-proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
   <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van backup gegevens</string>
   <string name="backup_configure_account_title">Backup account</string>
   <string name="backup_data_summary">Een backup van gegevens voor apps, WiFi wachtwoorden en andere instellingen maken op de Google-servers</string>
@@ -242,7 +235,7 @@
   <string name="battery_info_health_overheat">Oververhitting</string>
   <string name="battery_info_health_unknown">Onbekend</string>
   <string name="battery_info_health_unspecified_failure">Onbekende fout</string>
-  <string name="battery_info_label">Batterij info</string>
+  <string name="battery_info_label">Batterijinfo</string>
   <string name="battery_info_level_label">Batterij niveau:</string>
   <string name="battery_info_power_ac">AC</string>
   <string name="battery_info_power_ac_usb">AC+USB</string>
@@ -293,7 +286,7 @@
   <string name="bearer">Drager</string>
   <string name="biometric_weak_improve_matching_title">Gezichtsvergelijking verbeteren</string>
   <string name="biometric_weak_liveliness_summary">Ogen knipperen vereist bij ontgrendelen</string>
-  <string name="biometric_weak_liveliness_title">Levendigheids controle</string>
+  <string name="biometric_weak_liveliness_title">Liveness controle</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Verbonden met audio van medium</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Gebruiken voor audio van medium</string>
@@ -462,8 +455,8 @@
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Snoop logbestand voor Bluetooth HCI inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI pakketten tot één bestand samenvoegen</string>
-  <string name="bt_trace_log">Bluetooth traceerlog inschakelen</string>
-  <string name="bt_trace_log_summary">Bluetooth traceerlog inschakelen</string>
+  <string name="bt_trace_log">Bluetooth Trace log inschakelen</string>
+  <string name="bt_trace_log_summary">Bluetooth trace log inschakelen</string>
   <string name="bugreport_in_power">Foutenrapporten in afsluitmenu</string>
   <string name="bugreport_in_power_summary">Optie opnemen in afsluitmenu voor het genereren van een foutenrapport</string>
   <string name="bugreport_tool_log">Vastleggen Bugreport</string>
@@ -705,7 +698,7 @@
   <string name="debug_hw_drawing_category">Rendering met hardwareversnelling</string>
   <string name="debug_hw_overdraw">Foutopsporing GPU overbelasting</string>
   <string name="debug_input_category">Invoer</string>
-  <string name="debug_intent_sender_label">Debug bedoelde verzender</string>
+  <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Indelingsgrenzen weerg.</string>
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Gebruikers ervarings programma</string>
@@ -782,7 +775,7 @@
   <string name="display_settings">Weergave</string>
   <string name="display_settings_title">Weergave</string>
   <string name="dlg_cancel">Annuleren</string>
-  <string name="dlg_confirm_unmount_text">Als u de USB opslag ontkoppelt, worden bepaalde apps die u gebruikt, gestopt en komen deze mogelijk pas weer beschikbaar wanneer u de USB opslag opnieuw koppelt.</string>
+  <string name="dlg_confirm_unmount_text">Als u de USBopslag ontkoppelt, worden bepaalde apps die u gebruikt, gestopt en komen deze mogelijk pas weer beschikbaar wanneer u de USB opslag opnieuw koppelt.</string>
   <string name="dlg_confirm_unmount_title">USB opslag ontkoppelen?</string>
   <string name="dlg_error_unmount_text">Kan USB opslag niet ontkoppelen. Probeer het later opnieuw.</string>
   <string name="dlg_error_unmount_title"/>
@@ -904,6 +897,7 @@
   <string name="error_mnc_not23">MNC-veld moet 2 of 3 cijfers bevatten.</string>
   <string name="error_name_empty">"Het veld 'Naam' mag niet leeg zijn."</string>
   <string name="error_title"/>
+  <string name="experimental_build">(Experimenteel)</string>
   <string name="external_code_size_label">USB opslagapp</string>
   <string name="external_data_size_label">USB opslaggegevens</string>
   <string name="factory_reset_summary">U kunt uw persoonlijke gegevens wissen door uw telefoon te resetten, of ervoor te kiezen om de geïnstalleerde apps te wissen en de SD-kaart te formatteren om naar de fabrieksinstellingen terug te keren</string>
@@ -1110,7 +1104,6 @@
   <string name="language_settings_category">Taalinstellingen</string>
   <string name="large_font">Groot</string>
   <string name="last_synced">Laatst gesync.: %1$s</string>
-  <string name="later">Later herstarten</string>
   <string name="launch_count_label">Aantal</string>
   <string name="launching_cit">Starten cit, geduld alstublieft.</string>
   <string name="launching_pho">Starten telefoon informatie, geduld alstublieft.</string>
@@ -1163,6 +1156,7 @@
   <string name="lock_intro_message">Beveilig uw telefoon tegen ongeoorloofd gebruik door een persoonlijk schermontgrendelingspatroon in te stellen. Gebruik op het volgende scherm uw vinger om de punten met elkaar te verbinden. U moet minimaal vier punten met elkaar verbinden</string>
   <string name="lock_screen_unlock_show">Veeg scherm uitschakelen</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord na het ontwaken</string>
+  <string name="lock_settings">Vergrendelscherm</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
   <string name="lock_settings_picker_title">Schermvergr. kiezen</string>
@@ -1314,7 +1308,6 @@
   <string name="menu_stats_total">Gebruikstotalen</string>
   <string name="menu_stats_unplugged">%1$s sinds losgekoppeld</string>
   <string name="menu_use_uss">USS gebruiken</string>
-  <string name="mione_update_success_title">Update voltooid</string>
   <string name="miracast_PC2THOR_streaming_on">Draadloos beeld is niet beschikbaar omdat een PC reeds naar dit apparaat streamt.</string>
   <string name="miracast_cancelconnect_dialog">Verbinden annuleren</string>
   <string name="miracast_connection_failed_generic">Er kon geen verbinding worden gemaakt.</string>
@@ -1373,7 +1366,6 @@
   <string name="moving">Verplaatsen</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">Voor Macs, download de driver en klik op AndroidFileTransfer.dmg om te installeren</string>
-  <string name="msd_driver_download_mac_url">Download de driver hier: http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Voor PCs, download de MiPhoneManager om USB massaopslag te gebruiken</string>
   <string name="msd_driver_download_xp_url">Download de driver hier: http://zhushou.xiaomi.com/</string>
   <string name="msd_help_summary">"Hulp nodig met het toegang krijgen tot het apparaat? Selecteer het OS van uw computer:"</string>
@@ -1843,7 +1835,6 @@
   <string name="search_accelerometer">Versnellingsmeter</string>
   <string name="search_access_control">Toegang beheer</string>
   <string name="search_airplane">Vliegtuig</string>
-  <string name="search_android_beam">beam</string>
   <string name="search_battery_indicator">Batterij indicatie</string>
   <string name="search_bluetooth">Bluetooth</string>
   <string name="search_brightness">Helderheid</string>
@@ -1988,7 +1979,6 @@
   <string name="sort_order_alpha">Sorteren op naam</string>
   <string name="sort_order_size">Sorteren op grootte</string>
   <string name="sound_category_call_ringtone_vibrate_title">Beltoon en trillen</string>
-  <string name="sound_category_calls_and_notification_title">Beltoon &amp; notificaties</string>
   <string name="sound_category_notification_title">Meldingen</string>
   <string name="sound_category_sound_title">Algemeen</string>
   <string name="sound_category_system_title">Systeem</string>
@@ -2030,6 +2020,7 @@
   <string name="status_bar_settings_show_flow_info">Toon flow details</string>
   <string name="status_bar_settings_show_network_speed">Toon snelheid verbinding</string>
   <string name="status_bar_settings_show_notificationBar_notification">Toon in notificatiebalk</string>
+  <string name="status_bar_settings_show_notification_icon">Geef notificatie icoon weer</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon schermafdruk notificatie</string>
   <string name="status_bar_settings_show_statusBar_notification">Toon in keyguard</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Melding verschijnt boven in het scherm en verdwijnt automatisch r</string>
@@ -2083,6 +2074,7 @@
   <string name="strict_mode">Strikte modus ingeschakeld</string>
   <string name="strict_mode_summary">Knipperend scherm bij lange bewerkingen door apps</string>
   <string name="sum_carrier_select">Een mobiele provider kiezen</string>
+  <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">Toestand aanvrager:</string>
   <string name="symbols_not_allowed_for_password">Wachtwoord kan geen symbolen bevatten</string>
   <string name="sync_active">Synchronisatie actief</string>
@@ -2126,6 +2118,7 @@
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Tijd</string>
+  <string name="time_zone_auto_stub">Kies Tijdzone</string>
   <string name="timezone_settings">Tijdzone</string>
   <string name="title_color_calibration">Kleur correctie voorkeuze</string>
   <string name="title_dolby_control">Dobly digital plus</string>
@@ -2273,7 +2266,6 @@
   <string name="usb_msd_driver_installer_title">Driver installer disk (MSD)</string>
   <string name="usb_msd_summary">Verstuur bestanden via Windows of OSX</string>
   <string name="usb_msd_title">Massa opslag apparaay</string>
-  <string name="usb_mtp_summary">Hiermee kunt u mediabestanden overzetten op Windows-computers, of de app Android File Transfer op Mac computers (ga naar www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Media apparaat (MTP)</string>
   <string name="usb_ptp_summary">"Hiermee kunt u foto's overzetten met camerasoftware en bestanden overzetten op computers die geen MTP ondersteunen"</string>
   <string name="usb_ptp_title">Camera (PTP)</string>
@@ -2365,7 +2357,6 @@
   <string name="vibrate_input_devices">Trilstand gebruiken</string>
   <string name="vibrate_input_devices_summary">Trilstand overschakelen naar gamecontroller wanneer deze is aangesloten.</string>
   <string name="vibrate_when_ringing_title">Trillen bij bellen</string>
-  <string name="view_install_log">Fout log weergeven</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Scan voortzetten</string>
   <string name="virus_scan_app_find_risk">"% d risico's gevonden"</string>
@@ -2480,8 +2471,8 @@
   <string name="wfd_wps_keypad">Druk op de gewenste toets</string>
   <string name="wfd_wps_pbc">Voorkeur voor PIN</string>
   <string name="whetstone_level_reboot">Deze instelling wordt van kracht wanneer het toestel opnieuw is opgestart</string>
-+  <string name="whetstone_level_reboot_OK">Opnieuw opstarten</string>
-+  <string name="whetstone_level_title">Systeem geheugen optimalisatie</string>
+  <string name="whetstone_level_reboot_OK">Opnieuw opstarten</string>
+  <string name="whetstone_level_title">Systeem geheugen optimalisatie</string>
   <string name="widget_picker_title">Widget kiezen</string>
   <string name="wifi_access_points">WiFi netwerken</string>
   <string name="wifi_add_network">Netwerk toevoegen</string>
@@ -2779,10 +2770,13 @@
   <string name="wifi_wps_onstart_pbc">"Druk op de knop 'Beveiligde configuratie voor WiFi' op uw router. Misschien heet deze knop 'WPS' of bevat deze het volgende symbool:"</string>
   <string name="wifi_wps_onstart_pin">Geef de PIN code %1$s op uw WiFi router op. De configuratie kan twee minuten duren.</string>
   <string name="wifi_wps_overlap_error">Er is een andere WiFi</string>
+  <string name="wifi_wps_setup_msg">WPS opstarten…</string>
   <string name="wifi_wps_setup_title">Beveiligde configuratie voor WiFi</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Vensteranimatieschaal</string>
   <string name="wireless_networks_settings_title">Draadloos en netwerken</string>
+  <string name="wireless_off">Uit</string>
+  <string name="wireless_on">Aan</string>
   <string name="wizard_back">Terug</string>
   <string name="wizard_finish">Voltooien</string>
   <string name="wizard_next">Volgende</string>

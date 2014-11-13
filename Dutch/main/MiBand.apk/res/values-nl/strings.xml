@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">Over</string>
-  <string name="about_copyright"/>
   <string name="accept">Akkoord</string>
   <string name="action_exit">Afsluiten</string>
   <string name="action_local_ota">SD kaart update</string>
@@ -14,6 +13,7 @@
   <string name="action_pop_weixin_enter">Toevoegen Wechat</string>
   <string name="age">Leeftijd</string>
   <string name="ages">Jaren</string>
+  <string name="agree">Instemmen</string>
   <string name="alarm">Alarm</string>
   <string name="alarm_cycle">Herhaal</string>
   <string name="alarm_device_not_connect">Mi Band eerst koppelen voordat je het alarm insteld.</string>
@@ -31,6 +31,7 @@
   <string name="awake_format">, %1$s keer wekken.</string>
   <string name="awake_format_1">, eenmaal wekken.</string>
   <string name="back">Vorige</string>
+  <string name="battery">Batterij</string>
   <string name="battery_charge_full">Batterij opgeladen</string>
   <string name="battery_charging">Opladen...</string>
   <string name="battery_low_info">Opladen, backatterij laag.</string>
@@ -41,8 +42,8 @@
   <string name="bind_new_mili">Koppelen met nieuwe Mi Band</string>
   <string name="bind_qq">toeveoegn QQ</string>
   <string name="bind_qq_health">Sync. met QQ Gezondheid</string>
-   <string name="bind_qq_health_tip">Sync. stappen en slapen info aan QQ gezondheidsplatform,  je netwerk verbinding nodig.</string>
-   <string name="bind_qq_health_title">Toevoegen QQ Account</string>
+  <string name="bind_qq_health_tip">Sync. stappen en slapen info aan QQ gezondheidsplatform,  je netwerk verbinding nodig.</string>
+  <string name="bind_qq_health_title">Toevoegen QQ Account</string>
   <string name="bind_weixin_failed">Mislukt, probeer opnieuw.</string>
   <string name="bind_weixin_new_disable_tips">Na koppeling met uw Wechat account volg Mi Band Wechat serviceaccount, kunt u de informatie, zoals het aantal  gedane stappen in Wechat controleren. U kunt ook uw resultaat status tussen uw vrienden zien.</string>
   <string name="bind_weixin_new_now">Synchroniseren met Wechat, een momentje...</string>
@@ -56,9 +57,7 @@
   <string name="bind_weixin_title">Sync om te delen en te concurreren met vrienden.</string>
   <string name="blue">Blauw</string>
   <string name="bluetooth">Bluetooth </string>
-  <string name="bmenu_device">Apparaten</string>
-  <string name="bmenu_dynamic">Updates</string>
-  <string name="bmenu_my">Ik</string>
+  <string name="body">Neck</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
   <string name="bracelet_info_fw_version">"Firmware: %1$s Overeenkomst: %2$s"</string>
@@ -79,7 +78,6 @@
   <string name="come_from_xiaomi_bracelet">Van Mi Band</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_lazy_day">Vandaag een luie dag maken?</string>
-  <string name="congrats">Gefeliciteerd!</string>
   <string name="connect_bracelet_now">Verbinden...</string>
   <string name="content_too_short">Inhoud ontbreekt.</string>
   <string name="continue_reach_goal">Bereik doel</string>
@@ -103,7 +101,6 @@
   <string name="date_yesterday">Gisteren</string>
   <string name="day">dagen</string>
   <string name="day_active_detail">Dagelijkse details</string>
-  <string name="description_list_icon">Item Icoon</string>
   <string name="device_list">In de omgeving van Mi Banden</string>
   <string name="device_not_found_not_knocked">Gelieve opnieuw zoeken na het tikken Mi Band eens hij knippert.</string>
   <string name="device_not_response">Waarom knipper de Miband niet?</string>
@@ -169,9 +166,6 @@
   <string name="first_use_days_today_format">Minder dan een dag van het eerste gebruik.</string>
   <string name="first_use_remain_days_format">%s dagen van het eerste gebruik</string>
   <string name="found_bracelet_info">Wanneer de lichten Mi Band beginnen te knipperen, tok enkele keren om te koppelen.</string>
-  <string name="friends_invite2">Uitnodigen</string>
-  <string name="friends_search">Zoeken</string>
-  <string name="friends_search_tips">Mi Account/Gebruikersnaam/Apparaat</string>
   <string name="fw_failed_help_tips0">Firmware is de software systeem waar de Mi Bandop werkt.</string>
   <string name="fw_failed_help_tips1">Firmwareupdate kan Mi Band prestaties te verbeteren. Het zal ook de nieuwe functies van het apparaat ondersteunen.</string>
   <string name="fw_failed_help_tips2">Gelieve altijd voor zorgen dat de boven de  10% blijft, en de Mi Band correct is aangesloten met de telefoon tijdens het updateproces.</string>
@@ -205,7 +199,6 @@
   <string name="help_info_1">Alleen Android 4.4 en hoger ondersteunt de Mi Band.</string>
   <string name="help_info_2">Zorg ervoor dat u de MI Band correct oplaad. U zal groene lampjeszien  knipperen wanneer hij opladen is.</string>
   <string name="help_info_3">Als uw Mi Band gekoppeld is  aan een bestaande telefoon of als de Mi Band is niet dicht bij de telefoon is, schakel hem uit</string>
-  <string name="help_info_4">"Voor hulp kan je beroep doen op onze klantendienst. Klantendienst hotline: 400-100-5678 Wij zijn open van 8 uur to 18 uur, Maandag tot Zondag."</string>
   <string name="help_title_0">Ondersteunt je telefoon Bluetooth 4.0?</string>
   <string name="help_title_1">Voldoet je telefoon an de syteem vereisten?</string>
   <string name="help_title_2">Is de Mi Band volledig opgeladen?</string>
@@ -306,6 +299,7 @@
   <string name="lab_factory_sport_vote_result_desc">Bedankt voor je keuze</string>
   <string name="lab_factory_sport_vote_result_sub_desc">U koos voor</string>
   <string name="lab_factory_sport_vote_sub_desc">Binnenkort</string>
+  <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130&gt;%1$s&lt;/font&gt;</string>
   <string name="lab_factory_title">Fitness Center</string>
   <string name="left_hand">Links</string>
   <string name="light_color">LED licht kleur</string>
@@ -361,9 +355,8 @@
   <string name="noti_bracelet_low_battery_content_high">Batterij minder dan 10%.</string>
   <string name="noti_bracelet_low_battery_content_low">Batterij bijna leeg, Opladen nodig.</string>
   <string name="noti_bracelet_low_battery_content_mid">Opladen nodig.</string>
-  <string name="noti_bracelet_low_battery_content_none">Verbind met oplader</string>
   <string name="noti_bracelet_low_battery_title">Batterij laag</string>
-  <string name="noti_bracelet_low_battery_title_none">Mi Band is uitgeschakeld.</string>
+  <string name="noti_bracelet_low_battery_title_low">Mi band is uitgeschakeld</string>
   <string name="notify_status_motor">Armband shock</string>
   <string name="notify_status_motor_alarm">Reden: gewone wekker</string>
   <string name="notify_status_motor_auth">Reden: percussie koppeling</string>
@@ -389,12 +382,8 @@
   <string name="please_knock_bracelet">Tik op de Mi Band om te koppelen</string>
   <string name="please_set_sport_goal">Zet je doel</string>
   <string name="pm">PM</string>
-  <string name="point">punten</string>
-  <string name="points_exchange">Beloningen voor punten</string>
   <string name="prev_step">Vorige</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Meer laden</string>
-  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
-   <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
   <string name="pull_to_refresh_pull_label">Trek naar beneden om te vernieuwen</string>
   <string name="pull_to_refresh_refreshing_label">Bezig met vernieuwen...</string>
   <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen</string>
@@ -405,6 +394,7 @@
   <string name="remain_days_today_format">Minder dan een dag sinds laatste laadbeurt</string>
   <string name="rename_mili">Naam</string>
   <string name="reset_mili">Reset Mi Band</string>
+  <string name="restart_bluetooth_tips">Bluetooth nu herstarten.</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="right_hand">Rechts</string>
   <string name="runed">Gelopen</string>
@@ -418,6 +408,7 @@
   <string name="select_from_camera">Camera</string>
   <string name="select_from_local">Uit galerij kiezen</string>
   <string name="select_image">Bewerk profiel foto</string>
+  <string name="set_alarm_time">SET ALARM TIME</string>
   <string name="set_goal_step">8000 stappen/dag</string>
   <string name="set_mili_name">Mi Band naam</string>
   <string name="set_mili_name_fail">Naam geven aan Mi Band mislukt.</string>
@@ -472,6 +463,7 @@
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band#</string>
   <string name="share_uninstall_client">"Deze aplicatie is niet geinstalleerd, delen mislukt."</string>
+  <string name="signal_strength">Signaal sterkte: </string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Intelligent Alarm</string>
   <string name="smart_wake_up">Slim Alarm</string>
@@ -493,11 +485,9 @@
   <string name="sport_share">Nu delen</string>
   <string name="start">Start</string>
   <string name="start_download">Downloaden op achtergrond ...</string>
-  <string name="start_use">Openen</string>
   <string name="start_weixin">Open Wechat</string>
   <string name="start_weixin_not_installed">Start Wechat (niet geinstallerd)</string>
   <string name="stat_sleep">Slaap tijd </string>
-  <string name="stat_sleep_achievement">Voouitgang</string>
   <string name="stat_sleep_average">Gemid. Slaap</string>
   <string name="stat_sleep_deep">Diepe Slaap</string>
   <string name="stat_sleep_deep_average">Gemid. Diepe Slaap</string>
@@ -509,8 +499,6 @@
   <string name="stat_sleep_time_average">Ingeslapen tijd</string>
   <string name="stat_sleep_wake">Wakker tijd</string>
   <string name="stat_sleep_wake_average">Wakker/Dag</string>
-  <string name="stat_step_active_average">Gemid. Activiteit</string>
-  <string name="stat_step_active_total">Activiteit Tijd</string>
   <string name="stat_step_average">Gemid. Stappen</string>
   <string name="stat_step_calorie_average">Gemid. Verbrand</string>
   <string name="stat_step_calorie_daily">Dagelijks Verbrand</string>
@@ -521,17 +509,25 @@
   <string name="stat_step_distance_daily">Dagelijkse Afstand</string>
   <string name="stat_step_distance_piece">Afstand</string>
   <string name="stat_step_distance_total">Totaal Afstand</string>
-  <string name="stat_step_run">Gelopen</string>
-  <string name="stat_step_run_average">Gemid. Gelopen</string>
-  <string name="stat_step_run_total">Totaal Gelopen</string>
+  <string name="stat_step_piece">Stappen</string>
+  <string name="stat_step_run_calorie">Verbrandings loop</string>
+  <string name="stat_step_run_calories_average">Gemid. verbrandings loop</string>
+  <string name="stat_step_run_distance">Loop afstand</string>
+  <string name="stat_step_run_distance_average">Gemid. loop afstand</string>
+  <string name="stat_step_run_duration">Loop tijd</string>
+  <string name="stat_step_run_duration_average">Gemid. loop tijd</string>
   <string name="stat_step_total">Totale Stappen</string>
-  <string name="stat_step_walk">Gewandeld</string>
-  <string name="stat_step_walk_average">Gem. Gewandeld</string>
-  <string name="stat_step_walk_total">Gewandeld</string>
-  <string name="stat_steps">Stappen</string>
-  <string name="stat_steps_achievement">Voouitgang</string>
-  <string name="stat_steps_active_time">Duur</string>
-  <string name="stat_steps_consecutive_active">Langste</string>
+  <string name="stat_step_walk_calorie">Verbrandings wandeling</string>
+  <string name="stat_step_walk_calories_average">Gemid. verbrandings wandeling</string>
+  <string name="stat_step_walk_distance">Wandel afstand</string>
+  <string name="stat_step_walk_distance_average">Gemid. wandel afstand</string>
+  <string name="stat_step_walk_duration">Wandel tijd</string>
+  <string name="stat_step_walk_duration_average">Gemid. wandel tijd</string>
+  <string name="state_bind_failed">Kan account niet toevoegen</string>
+  <string name="state_binded">Ingelogd</string>
+  <string name="state_binded_nickname">QQ Account toegevoegd %s</string>
+  <string name="state_unbind_success">QQ Account verwijderd</string>
+  <string name="state_unbinded">Uitgelogd</string>
   <string name="statistic">Statistieken</string>
   <string name="statistic_day_average">Gem. Per Dag</string>
   <string name="statistic_detail">Details</string>
@@ -560,8 +556,6 @@
   <string name="unit_min">min</string>
   <string name="unit_min_short">m</string>
   <string name="unit_step">stappen</string>
-  <string name="unknown_location">Niet gevonden</string>
-  <string name="unknown_mili">Mij</string>
   <string name="unlock_screen">Scherm ontgrendelen</string>
   <string name="unlock_screen_help_info0">Plaats uw Mi Band heel dicht bij uw telefoon.</string>
   <string name="unlock_screen_help_info1">Als uw telefoon is nog steeds vergrendeld is, kunt u proberen om Bluetooth te herstarten om te zien of dit probleem opgelost is.</string>
@@ -585,6 +579,8 @@
   <string name="upgrade">Update</string>
   <string name="upgrade_tip">Update notificatie</string>
   <string name="user_agreement">Gebruikers verklaring en privacybeleid</string>
+  <string name="user_agreement_prefix">Om dit product te gebruiken, moet u akkoord met onze 
+</string>
   <string name="visit_micom">Bezoek de officiele site</string>
   <string name="wait">Een momentje ...</string>
   <string name="walked">Gewandeld</string>
@@ -603,6 +599,7 @@
   <string name="week"/>
   <string name="welcom_back">Welkom terug</string>
   <string name="welcome">Hallo</string>
+  <string name="wrong_system_time">De systeemtijd van uw apparaat is onjuist.</string>
   <string name="year">Jaar</string>
   <string name="your_gender">Geslacht</string>
   <string name="your_height">Lengte</string>

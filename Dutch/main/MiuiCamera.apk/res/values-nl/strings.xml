@@ -33,6 +33,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Zet uw apparaat op een stabiel oppervlak,
  and stap een moment uit het zicht "</string>
+  <string name="burst_shoot_exit_button_text">Sluit Burst Shoot</string>
   <string name="camera_disabled">Camera is uitgeschakeld</string>
   <string name="camera_error_title">Camera fout</string>
   <string name="camera_label">Camera</string>
@@ -49,6 +50,7 @@
   <string name="confirm_change_to_expert_mode_message">Overschakelen naar geavanceerde modus?</string>
   <string name="confirm_change_to_simple_mode_message">Overschakelen naar simpele modus?</string>
   <string name="confirm_location_message">"Label uw foto's en video's met de locaties waar ze gemaakt zijn?"</string>
+  <string name="confirm_location_title">Locatie info opslaan</string>
   <string name="confirm_restore_message">Herstellen standaard Camera instellingen ?</string>
   <string name="confirm_restore_title">Herstel standaard instellingen</string>
   <string name="connect_wifi">Verbinding maken met dit netwerk</string>
@@ -176,7 +178,6 @@
   <string name="ok">OK</string>
   <string name="orientation">Oriëntatie</string>
   <string name="pano_dialog_panorama_failed">Kan panorama niet opslaan</string>
-  <string name="pano_dialog_prepare_preview">Voorbereiden panorama</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Wachten op eerdere panorama om te eindigen</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -193,9 +194,7 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_advanced_settings">Geavanceerd</string>
   <string name="pref_audio_indicator_entry_off">Audio Uit</string>
   <string name="pref_audio_indicator_entry_on">Audio Aan</string>
-  <string name="pref_audio_indicator_entryvalue_default">off</string>
-  <string name="pref_audio_indicator_entryvalue_off">off</string>
-  <string name="pref_audio_indicator_entryvalue_on">on</string>
+  <string name="pref_burst_shoot_title">Burst shoot</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Camera instellingen</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -252,11 +251,11 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-  <string name="pref_camera_exposuretime_title">Belichtingstijd</string>
   <string name="pref_camera_facedetection_title">Gezichtsherkenning</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Uit</string>
   <string name="pref_camera_flashmode_entry_on">Aan</string>
+  <string name="pref_camera_flashmode_entry_torch">Zaklamp</string>
   <string name="pref_camera_flashmode_title">Flits modus</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <string name="pref_camera_focusmode_entry_continuous">CAF</string>
@@ -309,6 +308,8 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 mensen</string>
   <string name="pref_camera_multiple_face_beauty_title">Huidtinten</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
+  <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
+  <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picture_format_title">Kies het gewenste beeldformaat</string>
   <string name="pref_camera_picturesize_entry_1024x768">0.8M(1024x768)</string>
   <string name="pref_camera_picturesize_entry_1280x720">0.9M(1280x720)</string>
@@ -364,7 +365,6 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_settings">Apparaat</string>
   <string name="pref_camera_settings_category">Camera instellingen</string>
   <string name="pref_camera_settings_title">Instellingen</string>
-  <string name="pref_camera_shader_coloreffect_default">10</string>
   <string name="pref_camera_sharpness_title">Beeldscherpte</string>
   <string name="pref_camera_show_gender_age_entry_alias">Weergeven leeftijd</string>
   <string name="pref_camera_show_gender_age_entry_off">Uit</string>
@@ -399,7 +399,6 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Gloeilamp</string>
   <string name="pref_camera_whitebalance_entry_manual">Manueel</string>
   <string name="pref_camera_whitebalance_entry_measure">Meten</string>
-  <string name="pref_camera_whitebalance_k_value_title">Witbalans K waarde</string>
   <string name="pref_camera_whitebalance_title">Witbalans</string>
   <string name="pref_camera_zsl_entry_off">Uit</string>
   <string name="pref_camera_zsl_entry_on">Aan</string>
@@ -407,6 +406,9 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_capture_settings">Camera</string>
   <string name="pref_exposure_title">Belichting</string>
   <string name="pref_face_beauty_title">Huidtinten</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Uit</string>
+  <string name="pref_front_mirror_entry_on">Aan</string>
   <string name="pref_front_mirror_title">Spiegel camera aan de voorkant</string>
   <string name="pref_grp_advanced_settings">Geavanceerde instellingen</string>
   <string name="pref_grp_capture_settings">Opname instellingen</string>
@@ -415,7 +417,6 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_manual_exposure_title">Belichtingstijd</string>
   <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
   <string name="pref_qc_focus_position_title">Focus</string>
-  <string name="pref_qc_focus_position_value_default">0</string>
   <string name="pref_scan_qrcode_title">Scan QR codes</string>
   <string name="pref_setting_title">Instellingen</string>
   <string name="pref_settings_mode">Camera modus</string>
@@ -431,7 +432,6 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
-  <string name="pref_video_quality_pad_default">6</string>
   <string name="pref_video_quality_title">Video kwaliteit</string>
   <string name="pref_video_speed_entry_fast">Snel</string>
   <string name="pref_video_speed_entry_normal">Standaard</string>

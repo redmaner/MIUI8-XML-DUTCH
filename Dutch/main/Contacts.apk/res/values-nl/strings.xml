@@ -153,7 +153,9 @@
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw telefoon heeft opgeslagen, staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard-editor is niet correct gestart.</string>
+  <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
+  <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
@@ -199,6 +201,7 @@
   <string name="createContactShortcutSuccessful">Widget voor contacten toegevoegd aan het startscherm.</string>
   <string name="create_group_dialog_title">Nieuwe groep maken</string>
   <string name="create_group_item_label">Nieuwe groep maken</string>
+  <string name="create_qrcode_fail_message">Kan geen QR code maken</string>
   <string name="customLabelPickerTitle">Aangepaste labelnaam</string>
   <string name="custom_list_filter">Aangepaste weergave definiëren</string>
   <string name="custom_nickname_hint">Bijnaam invoeren</string>
@@ -349,6 +352,7 @@
   <string name="export_sim_contacts_dialog_message">De SIM-kaart kan %d contacten opslaan</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar SIM-kaart</string>
+  <string name="export_to_sim1">Exporteren naar SIM-kaart 1</string>
   <string name="export_to_sim2">Exporteren naar SIM-kaart 2</string>
   <string name="export_to_sim_title">Exporteren…</string>
   <string name="export_vcard_description">"Exporteren vCard naar het interne geheugen"</string>
@@ -421,6 +425,7 @@
   <string name="import_from_other_phone">Importeren uit een andere telefoon</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
   <string name="import_from_sim">Importeren van SIM-kaart</string>
+  <string name="import_from_sim1">Importeren van SIM-kaart 1</string>
   <string name="import_from_sim2">Importeren van SIM-kaart 2</string>
   <string name="import_multiple_vcard_string">Meerdere vCard-bestanden importeren</string>
   <string name="import_name">Naam</string>
@@ -477,12 +482,14 @@
   <string name="loading">Laden…</string>
   <string name="loading_group_members">Laden van groepsleden…</string>
   <string name="loading_groups">Groepen laden…</string>
+  <string name="loading_recent">Recente contacten laden…</string>
   <string name="loading_resource_detail_fail">Hulpbron laden mislukt!</string>
   <string name="loading_resource_detail_info">Hulpbron info laden...</string>
   <string name="local_invisible_directory">Overige</string>
   <string name="local_profile_title">Mijn lokale profiel</string>
   <string name="local_search_label">Alle contacten</string>
   <string name="locale_change_in_progress">Lijst met contacten wordt bijgewerkt om de gewijzigde taal te weerspiegelen.</string>
+  <string name="login_ok">Inloggen</string>
   <string name="lunarBirthdayLabelsGroup">Verjaardag</string>
   <string name="lunar_calendar">Lunar Nieuw jaar</string>
   <string name="lunar_leap">Start</string>
@@ -657,6 +664,7 @@
   <string name="pref_key_rebuild_t9_index_message">Herbouw index om zoekresultaten te optimaliseren</string>
   <string name="pref_key_rebuild_t9_index_title">Herbouw index data</string>
   <string name="pref_key_sim_manage">Configureer SIM-kaart</string>
+  <string name="pref_key_sim_manage1">Configureer SIM-kaart 1</string>
   <string name="pref_key_sim_manage2">Configureer SIM-kaart 2</string>
   <string name="pref_summary_import_from_account">Contacten overdragen van Google en Exchange accounts naar mijn Mi Account</string>
   <string name="pref_title_account_import">Importeer uit account</string>
@@ -705,6 +713,8 @@
   <string name="profile_display_name">Mijn profiel instellen</string>
   <string name="profile_name">Mijn profiel</string>
   <string name="profile_name_photo">Ik</string>
+  <string name="qr_card_card">My QR Code</string>
+  <string name="qrcode_card_title">QR code</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
   <string name="quit_dialog_confirm_title">U heeft geen contacten samengevoegd</string>
   <string name="readOnlyContactDeleteConfirmation">Dit contact bevat gegevens uit meerdere accounts. Gegevens uit alleen-lezen accounts worden verborgen in uw contactenlijst, maar niet verwijderd.</string>
@@ -897,6 +907,8 @@
   <string name="scan">Scan</string>
   <string name="scan_duplicate_message">%1$d contacten met overeenkomende gegevens</string>
   <string name="scan_merge">Bezig met zoeken naar dubbele contactpersonen…</string>
+  <string name="scan_qrcode_card_hint1">Scan QR code</string>
+  <string name="scan_qrcode_card_hint2">Voeg mijn info aan uw contacten toe</string>
   <string name="scanning">Scannen…</string>
   <string name="scanning_sdcard_failed_message">"De opslag kan niet worden gescand. (Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">"De opslag kan niet worden gescand"</string>
@@ -1001,6 +1013,7 @@
   <string name="splitConfirmation_title">Contact opsplitsen?</string>
   <string name="starredList">Met ster</string>
   <string name="starred_contacts">Favoriten</string>
+  <string name="starred_yellowpage">Favorite directories</string>
   <string name="status_available">Beschikbaar</string>
   <string name="status_away">Niet beschikbaar</string>
   <string name="status_busy">Bezet</string>
@@ -1082,6 +1095,7 @@
   <string name="yellowpage_navigation_no_content">Geen zoekresultaten</string>
   <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
+  <string name="yellowpage_navigation_search_result_average_price">Gemiddelde %d RMB</string>
   <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het netwerk maken. Controleer de verbinding en probeer het opnieuw.</string>
   <string name="yellowpage_navigation_search_result_no_more">Geen nieuwe resultaten</string>
   <string name="yellowpage_navigation_search_result_service_error">Dienst niet beschikbaar</string>

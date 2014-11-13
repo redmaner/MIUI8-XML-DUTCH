@@ -21,10 +21,6 @@
   <string name="account_folder_list_summary_inbox">Postvak IN</string>
   <string name="account_folder_list_summary_outbox">Postvak UIT</string>
   <string name="account_folder_list_summary_starred">Met ster</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Kan geen account aanmaken. Een account met dezelfde naam al bestaat</string>
   <string name="account_password_spaces_error">Dit wachtwoord begint of eindigt met een of meer spaties. Veel servers bieden geen ondersteuning voor wachtwoorden met spaties.</string>
   <string name="account_security_dialog_content_fmt">Voor %s moet u uw beveiligingsinstellingen bijwerken.</string>
@@ -227,6 +223,7 @@
   <string name="attachment_download_all">Alles downloaden</string>
   <string name="attachment_image">Afbeelding</string>
   <string name="attachment_mgr_name">Bijlagen</string>
+  <string name="attachment_not_exists">Deze bijlage is niet beschikbaar!</string>
   <string name="attachment_not_found">Bijlage downloaden mislukt.</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">U kunt dit type bijlage niet opslaan of openen.</string>
@@ -235,7 +232,6 @@
   <string name="attachments_header">Bijlagen</string>
   <string name="auth_error_notification_text">Tik om account instellingen te wijzigen voor %s</string>
   <string name="auth_error_notification_title">Authentificatie fout</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">"Voorkeur voor automatisch doorgaan instellen
 (na verwijderen, enzovoort)"</string>
   <string name="auto_advance_label">Automatisch doorgaan</string>
@@ -275,7 +271,6 @@
   <string name="click_download_all_content">[ Tik op om inhoud te downloaden ]</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
-  <string name="compose">Opstellen</string>
   <string name="compose_send">Vezenden</string>
   <string name="compose_sent">Verzenden gelukt</string>
   <string name="confirm">Bevestigen</string>
@@ -379,7 +374,6 @@
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
-  <string name="email_package_name">com.android.email</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -405,10 +399,10 @@
   <string name="file_rar_not_support">Kan versleutelde rar bestanden niet openen</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="flow_saved_dlg_do_not_show">Niet meer tonen</string>
-+  <string name="flow_saved_dlg_i_know">OK</string>
-+  <string name="flow_saved_dlg_message">%1$d nieuwe berichten. Opdeslagen %2$s (mobiele data).</string>
-+  <string name="flow_saved_dlg_title">Verminder data gebruik</string>
-+  <string name="flow_saved_preference_total">Opgeslagen %1$s.</string>
+  <string name="flow_saved_dlg_i_know">OK</string>
+  <string name="flow_saved_dlg_message">%1$d nieuwe berichten. Opdeslagen %2$s (mobiele data).</string>
+  <string name="flow_saved_dlg_title">Verminder data gebruik</string>
+  <string name="flow_saved_preference_total">Opgeslagen %1$s.</string>
   <string name="folder_drafts_name_cn0">Concepten</string>
   <string name="folder_drafts_name_cn1">Concepten</string>
   <string name="folder_drafts_name_en0">Concepten</string>
@@ -432,7 +426,6 @@
   <string name="folder_trash_name_en2">Verwijderde berichten</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s %2$s</string>
-  <string name="forward">Doorsturen</string>
   <string name="forward_attachment">Doorsturen</string>
   <string name="forward_attribution">---------- Doorgestuurd bericht ----------&lt;br&gt;Van: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Onderwerp: %3$s&lt;br&gt;Aan: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
@@ -468,12 +461,10 @@
   <string name="inbox_folders_heading">Postvak IN</string>
   <string name="info">Info</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
+  <string name="load_from_remote">Blijven zoeken op de server</string>
   <string name="load_more">Meer laden</string>
   <string name="loading_conversation">Laden...</string>
   <string name="loading_conversations">Laden…</string>
@@ -485,13 +476,12 @@
   <string name="login_failed_title">Kan niet inloggen</string>
   <string name="long_press_to_select_tip">Blijf aanraken om één gesprek te selecteren en raak aan om meer te selecteren.</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
-  <string name="mail">Mail</string>
   <string name="mail_body_turncated">Deze e-mail is te groot om te laden, kan slechts een deel weergeven and probeer later op de PC</string>
   <string name="mail_header_downloading_message_body">Downloading…</string>
-+  <string name="mail_header_message_body_auto_download_complete">Email inhoud gedownload met Wi-Fi.</string>
-+  <string name="mail_header_message_body_auto_download_tip">Email wordt gedownload met Wi-Fi.</string>
-+  <string name="mail_header_message_body_download_failed">Connectie timed out.</string>
-+  <string name="mail_header_network_not_available">Je hebt geen netwerk verbinding</string>
+  <string name="mail_header_message_body_auto_download_complete">Email inhoud gedownload met Wi-Fi.</string>
+  <string name="mail_header_message_body_auto_download_tip">Email wordt gedownload met Wi-Fi.</string>
+  <string name="mail_header_message_body_download_failed">Connectie timed out.</string>
+  <string name="mail_header_network_not_available">Je hebt geen netwerk verbinding</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerde weergave</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
@@ -550,6 +540,7 @@
   <string name="message_body_auto_download_complete">Automatisch gedownloade e-mails met gebruik van WiFi</string>
   <string name="message_body_auto_download_tip">Mommenteel gebruik je WiFi. het zal automatisch e-mails te downloaden</string>
   <string name="message_body_download_failed">Time out bij het downloaden van e-mails</string>
+  <string name="message_body_loading">[ Laden… ]</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Oorspronkelijk bericht --------
@@ -621,7 +612,7 @@ Cc: %4$s
   <string name="outbox_alert_duplicate_click">Bezig met synchroniseren</string>
   <string name="outbox_alert_edit_resend">Bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_failed_edit_resend">Verzenden mislukt, bewerken en opnieuw verzenden</string>
-   <string name="outbox_alert_mailbox_not_found">Email adres niet gevonden</string>
+  <string name="outbox_alert_mailbox_not_found">Email adres niet gevonden</string>
   <string name="outbox_alert_select_operation">Selecteer aktie</string>
   <string name="outbox_alert_title_sent_failed">Kon mail niet verzenden</string>
   <string name="outbox_no_mails">Geen mails in Postvak UIT</string>
@@ -635,6 +626,9 @@ Cc: %4$s
   <string name="password_expired_dialog_content_fmt">De gegevens voor %s worden gewist op uw apparaat. U kunt het account herstellen door uw pincode of wachtwoord voor schermvergrendeling te wijzigen. Nu wijzigen?</string>
   <string name="password_expired_dialog_title">Wachtwoord schermvergrendeling verlopen</string>
   <string name="password_expired_ticker">Uw PIN-code of wachtwoord voor schermvergrendeling is verlopen.</string>
+  <string name="perference_change_pw">Wachtwoord veranderen</string>
+  <string name="perference_change_pw_notnull_tips">Wachtwoord ingeven</string>
+  <string name="perference_change_pw_ok_tips">Wachtwoord veranderd</string>
   <string name="permission_access_provider_desc">Hiermee geeft u deze app toegang tot uw e-maildatabase, inclusief ontvangen berichten, verzonden berichten, gebruikersnamen en wachtwoorden.</string>
   <string name="permission_access_provider_label">Gegevens e-mailprovider openen</string>
   <string name="permission_read_attachment_desc">Hiermee kan de app uw e-mailbijlagen lezen.</string>
@@ -727,11 +721,9 @@ Cc: %4$s
   <string name="remove_account_confirm">Het account \"%1$s\" wordt verwijderd van Mail.</string>
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Ster verwijderen</string>
-  <string name="reply">Beantwoorden</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="replyto_heading">"Antwoord: "</string>
-  <string name="report">Rapporteren</string>
   <string name="report_phishing">Phishing melden</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Bestand is te groot</string>
@@ -799,7 +791,6 @@ Cc: %4$s
   <string name="str_select_none">Alles deselecteren</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Onderwerp</string>
-  <string name="suggestions_authority">com.android.email.suggestionsprovider</string>
   <string name="swipe_down_to_refresh">Veeg omlaag om te vernieuwen</string>
   <string name="sync_error">Kan niet synchroniseren.</string>
   <string name="sync_error_message">Uw apparaat heeft niet voldoende opslagruimte om te synchroniseren.</string>

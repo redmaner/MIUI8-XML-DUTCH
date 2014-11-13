@@ -25,6 +25,7 @@
   <string name="activity_main_update_time_right_now">Zopas</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Localiseren……</string>
+  <string name="activity_weathermain_locationg_error">Kan niet lokaliseren</string>
   <string name="add_city">Locatie toevoegen</string>
   <string name="app_label">Weer Provider</string>
   <string name="app_name">Weer</string>
@@ -70,7 +71,10 @@
   <string name="view_indexes_title_wind">Wind sterkte</string>
   <string name="view_indexes_wind_unit">km/h</string>
   <string name="view_sun_titile">Zon op/onder</string>
+  <string name="viewsun_time_format">HH:mm</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">℃</string>
+  <string name="weatherchina_default_url">http://weather.com.cn</string>
+  <string name="weatherchina_tag">weather.com.cn</string>
 </resources>
