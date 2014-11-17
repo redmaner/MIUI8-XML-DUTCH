@@ -13,7 +13,7 @@
   <string name="action_pop_weixin_enter">Toevoegen Wechat</string>
   <string name="age">Leeftijd</string>
   <string name="ages">Jaren</string>
-  <string name="agree">Instemmen</string>
+  <string name="agree">Toestaan</string>
   <string name="alarm">Alarm</string>
   <string name="alarm_cycle">Herhaal</string>
   <string name="alarm_device_not_connect">Mi Band eerst koppelen voordat je het alarm insteld.</string>
@@ -31,7 +31,7 @@
   <string name="awake_format">, %1$s keer wekken.</string>
   <string name="awake_format_1">, eenmaal wekken.</string>
   <string name="back">Vorige</string>
-  <string name="battery">Batterij</string>
+  <string name="battery">BatterIj</string>
   <string name="battery_charge_full">Batterij opgeladen</string>
   <string name="battery_charging">Opladen...</string>
   <string name="battery_low_info">Opladen, backatterij laag.</string>
@@ -356,7 +356,7 @@
   <string name="noti_bracelet_low_battery_content_low">Batterij bijna leeg, Opladen nodig.</string>
   <string name="noti_bracelet_low_battery_content_mid">Opladen nodig.</string>
   <string name="noti_bracelet_low_battery_title">Batterij laag</string>
-  <string name="noti_bracelet_low_battery_title_low">Mi band is uitgeschakeld</string>
+  <string name="noti_bracelet_low_battery_title_low">Mi Band uitgeschakeld</string>
   <string name="notify_status_motor">Armband shock</string>
   <string name="notify_status_motor_alarm">Reden: gewone wekker</string>
   <string name="notify_status_motor_auth">Reden: percussie koppeling</string>
@@ -394,7 +394,7 @@
   <string name="remain_days_today_format">Minder dan een dag sinds laatste laadbeurt</string>
   <string name="rename_mili">Naam</string>
   <string name="reset_mili">Reset Mi Band</string>
-  <string name="restart_bluetooth_tips">Bluetooth nu herstarten.</string>
+  <string name="restart_bluetooth_tips">Herstaart Bluetooth.</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="right_hand">Rechts</string>
   <string name="runed">Gelopen</string>
@@ -408,7 +408,7 @@
   <string name="select_from_camera">Camera</string>
   <string name="select_from_local">Uit galerij kiezen</string>
   <string name="select_image">Bewerk profiel foto</string>
-  <string name="set_alarm_time">SET ALARM TIME</string>
+  <string name="set_alarm_time">ALARM TIJD INSTELLEN</string>
   <string name="set_goal_step">8000 stappen/dag</string>
   <string name="set_mili_name">Mi Band naam</string>
   <string name="set_mili_name_fail">Naam geven aan Mi Band mislukt.</string>
@@ -510,23 +510,23 @@
   <string name="stat_step_distance_piece">Afstand</string>
   <string name="stat_step_distance_total">Totaal Afstand</string>
   <string name="stat_step_piece">Stappen</string>
-  <string name="stat_step_run_calorie">Verbrandings loop</string>
-  <string name="stat_step_run_calories_average">Gemid. verbrandings loop</string>
+  <string name="stat_step_run_calorie">Loop verbranding</string>
+  <string name="stat_step_run_calories_average">Gem. Loop verbranding</string>
   <string name="stat_step_run_distance">Loop afstand</string>
-  <string name="stat_step_run_distance_average">Gemid. loop afstand</string>
+  <string name="stat_step_run_distance_average">Gem. Loop afstand</string>
   <string name="stat_step_run_duration">Loop tijd</string>
-  <string name="stat_step_run_duration_average">Gemid. loop tijd</string>
+  <string name="stat_step_run_duration_average">Gem. Loop tijd</string>
   <string name="stat_step_total">Totale Stappen</string>
-  <string name="stat_step_walk_calorie">Verbrandings wandeling</string>
-  <string name="stat_step_walk_calories_average">Gemid. verbrandings wandeling</string>
+  <string name="stat_step_walk_calorie">Wandel verbranding</string>
+  <string name="stat_step_walk_calories_average">Gem. Wandel verbranding</string>
   <string name="stat_step_walk_distance">Wandel afstand</string>
-  <string name="stat_step_walk_distance_average">Gemid. wandel afstand</string>
+  <string name="stat_step_walk_distance_average">Gem. Wandel afstand</string>
   <string name="stat_step_walk_duration">Wandel tijd</string>
-  <string name="stat_step_walk_duration_average">Gemid. wandel tijd</string>
+  <string name="stat_step_walk_duration_average">Gem. Wandel tijd</string>
   <string name="state_bind_failed">Kan account niet toevoegen</string>
   <string name="state_binded">Ingelogd</string>
-  <string name="state_binded_nickname">QQ Account toegevoegd %s</string>
-  <string name="state_unbind_success">QQ Account verwijderd</string>
+  <string name="state_binded_nickname">Toegevoegen QQ Account %s</string>
+  <string name="state_unbind_success">Verwijder QQ Account</string>
   <string name="state_unbinded">Uitgelogd</string>
   <string name="statistic">Statistieken</string>
   <string name="statistic_day_average">Gem. Per Dag</string>
@@ -579,8 +579,8 @@
   <string name="upgrade">Update</string>
   <string name="upgrade_tip">Update notificatie</string>
   <string name="user_agreement">Gebruikers verklaring en privacybeleid</string>
-  <string name="user_agreement_prefix">Om dit product te gebruiken, moet u akkoord met onze 
-</string>
+  <string name="user_agreement_prefix">"Om dit product te gebruiken moet je akkord zijn met onze 
+"</string>
   <string name="visit_micom">Bezoek de officiele site</string>
   <string name="wait">Een momentje ...</string>
   <string name="walked">Gewandeld</string>
@@ -599,7 +599,7 @@
   <string name="week"/>
   <string name="welcom_back">Welkom terug</string>
   <string name="welcome">Hallo</string>
-  <string name="wrong_system_time">De systeemtijd van uw apparaat is onjuist.</string>
+  <string name="wrong_system_time">Je systeem tijd op je apparaat is niet juist</string>
   <string name="year">Jaar</string>
   <string name="your_gender">Geslacht</string>
   <string name="your_height">Lengte</string>

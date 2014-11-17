@@ -6,8 +6,8 @@
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Hoogte Kalibratie</string>
   <string name="calibrate_failed">Hoogte Kalibratie mislukt</string>
-  <string name="calibrate_failed_no_location">"Kalibratie mislukt"</string>
-  <string name="calibrate_failed_timeout">"Geen netwerk gevondenr"</string>
+  <string name="calibrate_failed_no_location">Kalibratie mislukt</string>
+  <string name="calibrate_failed_timeout">Geen netwerk gevonden</string>
   <string name="calibrate_success">Gekalibreerd</string>
   <string name="cannot_get_location">Onbekende locatie</string>
   <string name="dialog_calibrat_altitude">Bezig met kalibreren…</string>
@@ -27,10 +27,10 @@
   <string name="location_east">O</string>
   <string name="location_enable">Toestaan</string>
   <string name="location_enable_later">Later</string>
-  <string name="location_enabled">U kunt locatiediensten elk moment uitschakelenr in Instellingen.</string>
+  <string name="location_enabled">U kunt locatiediensten  elk moment uitschakelen in Instellingen.</string>
   <string name="location_north">N</string>
-  <string name="location_not_enabled_summary">Map geeft uw locatie info nodig om te normaal werken.</string>
-  <string name="location_not_enabled_title">Locatiediensten</string>
+  <string name="location_not_enabled_summary">Map heeft uw locatie info om normaal  te werken.</string>
+  <string name="location_not_enabled_title">Locatie services</string>
   <string name="location_south">Z</string>
   <string name="location_west">W</string>
   <string name="longitude">LON</string>
@@ -42,6 +42,6 @@
   <string name="pressure_unit">hPa</string>
   <string name="using_camera_confirm_cancel">Afsluiten</string>
   <string name="using_camera_confirm_message">Kompas moet de netwerkverbinding van het apparaat en camera te gebruiken om normaal te werken.</string>
-  <string name="using_camera_confirm_ok">Toestaan</string>
+  <string name="using_camera_confirm_ok">Ok</string>
   <string name="using_camera_confirm_title">Toegangsrechten</string>
 </resources>

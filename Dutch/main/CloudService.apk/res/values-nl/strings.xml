@@ -22,8 +22,8 @@
   <string name="buy_space_sulotion_renew_title">Vernieuw abbonement</string>
   <string name="buy_space_sulotion_title">Koop opslag ruimte</string>
   <string name="cloud_find_device">Zoek apparaat</string>
-  <string name="cloud_space_upgrade_message">Tik om %sGB toe te voegen aan je Cloud</string>
-  <string name="cloud_space_upgrade_no_quota_info">Laden mislukt. Wacht en probeer later opnieuw.</string>
+  <string name="cloud_space_upgrade_message">Tik om %sGB toe te voegen aan cloud</string>
+  <string name="cloud_space_upgrade_no_quota_info">Laden mislukt. Even wachten en probeer opnieuw.</string>
   <string name="cloud_space_upgrade_title">Meer ruimte voor Mi Cloud</string>
   <string name="cloud_sync_setting_summary_standard">"Gebruik uw mobiele gegevensverbinding om SMS, Contact info , te synchroniseren. WiFi gebruiken om foto's, video's, MMS, app data, Contact profiel foto's en meer synchroniseren."</string>
   <string name="cloud_sync_setting_summary_wlan">Enkel syncroniseren over WiFi</string>
@@ -64,14 +64,14 @@
   <string name="find_device_send_sms_alert">Als u van SIM-kaarten verwisseld, zal er automatisch  een SMS vertuurd wordenom de dienst te heractiveren.</string>
   <string name="find_device_stop_noise">Tik op OK om de dempen</string>
   <string name="find_device_success_title">Zoek apparaat</string>
-  <string name="free_space_has_received">U hebt maand de vrije ruimte reeds toegevoegd</string>
+  <string name="free_space_has_received">Je heb je gratis ruimte voor deze maand al toegevoegd</string>
   <string name="free_space_receive_fail">Kan niet upgraden</string>
-  <string name="get_first_month_gb">Verkrijg %s aan vrije ruimte</string>
-  <string name="get_this_month_gb">Verkrijg %s aan vrije ruimte deze maand</string>
+  <string name="get_first_month_gb">Verkrijg %s aan gratis ruimte</string>
+  <string name="get_this_month_gb">Verkrijg %s oaan gratis ruimte deze maand</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
-  <string name="google_cloud_price">Ongeveer RMB 143 per jaar</string>
+  <string name="google_cloud_price">Ongeveer RMB 143 per Jaar</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
   <string name="header_other_settings">Overige</string>
   <string name="i_know">OK</string>
@@ -121,8 +121,8 @@
   <string name="micloud_proceed">Doorgaan</string>
   <string name="micloud_sec_dspt">en dingen delen met vrienden.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Wat gebeurt er als ik niet genoeg ruimte meer heb?&lt;/u&gt;</string>
-  <string name="micloud_storage_expires_auto_renewal_sum">Je moet je abbonement vernieuwen.</string>
-  <string name="micloud_storage_expires_manually_renewal_sum">Je moet je abbonement vernieuwen.</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Zorg dat er voldoende Mi Credits zijn voor automatische verlengingen.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Sommige cloud diensten kunnen worden beëindigd. Het wordt aanbevolen om de automatische te  verlengen</string>
   <string name="micloud_storage_expires_soon_title">Mi Cloud opslag verloopt binnenkort</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud opslag verloopt binnenkort</string>
   <string name="micloud_storage_usage" formatted="false">Totaal gebruikte  %s/ruimte %s</string>
@@ -142,8 +142,8 @@
   <string name="micloud_web_discription_02">Om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
-  <string name="microsoft_cloud_price">About RMB 80 per year</string>
-  <string name="more_activity_in_upgrade_space">Meer hierover op &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
+  <string name="microsoft_cloud_price">Ongeveer RMB 80 per jaar</string>
+  <string name="more_activity_in_upgrade_space">Meer weergeven &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi berichten</string>
   <string name="mx_dspt_provision">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder kosten.U kunt deze functie op elk moment in en uitschakelen in de instellingen.</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
@@ -164,7 +164,7 @@
   <string name="setting">Instellingen</string>
   <string name="sms">SMS</string>
   <string name="start_micloud">Starten</string>
-  <string name="storage">Opslag</string>
+  <string name="storage">Opslagruimte</string>
   <string name="sub_alert_notif_dspt_add">%s te synchroniseren items</string>
   <string name="sub_alert_notif_dspt_no">Gesynchroniseerd</string>
   <string name="sub_alert_notif_title">Niet synchroniseren</string>
@@ -195,7 +195,7 @@
   <string name="title_reg">Maak Mi Account aan</string>
   <string name="total_space_upgraded_to">Totale ruimte:%s</string>
   <string name="unactivated_user">Gedeactiveerd</string>
-  <string name="upgrade_space">Ruimte toevoegen</string>
+  <string name="upgrade_space">Toevoegen ruimte</string>
   <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Credits per jaar</string>
   <string name="upgrade_space_successful">Toegevoegd %sGB</string>

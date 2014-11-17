@@ -82,7 +82,6 @@
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s altijd toestaan widgets te maken en toegang tot de widgetgegevens geven</string>
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
-  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">U heeft ervoor gekozen deze app toe te staan widgets te maken en toegang tot de widgetgegevens te geven.</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="anti_spam">Blokeerlijst</string>
@@ -92,8 +91,8 @@
   <string name="apn_auth_type_none">Geen</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">Wal-3G internetverbinding</string>
-  <string name="apn_chinaunicom_3gwap_general">Wal 3G mobiel internet</string>
+  <string name="apn_chinaunicom_3gnet_general">3G internetverbinding</string>
+  <string name="apn_chinaunicom_3gwap_general">3G mobiel internet</string>
   <string name="apn_edit">Toegangspunt bewerken</string>
   <string name="apn_general">Algemeen</string>
   <string name="apn_http_port">Poort</string>
@@ -713,7 +712,6 @@
   <string name="details_title">Gebruiksdetails</string>
   <string name="dev_settings_warning_message">Deze instellingen zijn uitsluitend bedoeld voor ontwikkelingsgebruik. Uw apparaat en apps kunnen hierdoor vastlopen of anders reageren.</string>
   <string name="dev_settings_warning_title">Ontwikkelingsinstellingen toestaan?</string>
-  <string name="developer_build">" | Onwikkelaar"</string>
   <string name="development_enable">Ontwikkelaarsopties</string>
   <string name="development_settings_not_available">Ontwikkelaarsopties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="development_settings_summary">Opties instellen voor appontwikkeling</string>
@@ -899,6 +897,7 @@
   <string name="error_mnc_not23">MNC-veld moet 2 of 3 cijfers bevatten.</string>
   <string name="error_name_empty">"Het veld 'Naam' mag niet leeg zijn."</string>
   <string name="error_title"/>
+  <string name="experimental_build">(Experimenteel)</string>
   <string name="external_code_size_label">USB opslagapp</string>
   <string name="external_data_size_label">USB opslaggegevens</string>
   <string name="factory_reset_summary">U kunt uw persoonlijke gegevens wissen door uw telefoon te resetten, of ervoor te kiezen om de geïnstalleerde apps te wissen en de SD-kaart te formatteren om naar de fabrieksinstellingen terug te keren</string>
@@ -1157,7 +1156,7 @@
   <string name="lock_intro_message">Beveilig uw telefoon tegen ongeoorloofd gebruik door een persoonlijk schermontgrendelingspatroon in te stellen. Gebruik op het volgende scherm uw vinger om de punten met elkaar te verbinden. U moet minimaal vier punten met elkaar verbinden</string>
   <string name="lock_screen_unlock_show">Veeg scherm uitschakelen</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord na het ontwaken</string>
-  <string name="lock_settings">Vergrendelscherm</string>
+  <string name="lock_settings">Scherm vergrendeling</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
   <string name="lock_settings_picker_title">Schermvergr. kiezen</string>
@@ -1995,7 +1994,6 @@
   <string name="ssl_ca_cert_settings_button">Vertrouwde inloggegevens controleren</string>
   <string name="ssl_ca_cert_warning">Netwerk kan worden gecontroleerd</string>
   <string name="ssl_ca_cert_warning_message">"Een derde partij kan uw netwerkactiviteit, waaronder e-mails, apps en beveiligde websites, bijhouden. Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogelijk."</string>
-  <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Stand-by tijd</string>
   <string name="status_bar_and_notification_bar">Notificatie en statusbalk</string>
   <string name="status_bar_filter_item_description">Ga naar algemene instellingen &gt; Notificaties &gt; Beheer notificaties, om notificaties in te stellen</string>
@@ -2014,7 +2012,7 @@
   <string name="status_bar_settings_custom_notification">Beheer notificaties</string>
   <string name="status_bar_settings_custom_wifi_name">WiFi naam aanpassen</string>
   <string name="status_bar_settings_expandable_under_keyguard">Toestaan op vergrendelscherm</string>
-  <string name="status_bar_settings_long_click_sort">Press &amp; Langer indrukken</string>
+  <string name="status_bar_settings_long_click_sort">De lange klik is te kort</string>
   <string name="status_bar_settings_no_carrier">Geen</string>
   <string name="status_bar_settings_notification_bar">Notificatiebalk</string>
   <string name="status_bar_settings_show_carrier">Toon provider</string>
@@ -2022,7 +2020,7 @@
   <string name="status_bar_settings_show_flow_info">Toon flow details</string>
   <string name="status_bar_settings_show_network_speed">Toon snelheid verbinding</string>
   <string name="status_bar_settings_show_notificationBar_notification">Toon in notificatiebalk</string>
-  <string name="status_bar_settings_show_notification_icon">Geef notificatie icoon weer</string>
+  <string name="status_bar_settings_show_notification_icon">Notificatie icoon weergeven</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon schermafdruk notificatie</string>
   <string name="status_bar_settings_show_statusBar_notification">Toon in keyguard</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Melding verschijnt boven in het scherm en verdwijnt automatisch r</string>
@@ -2120,7 +2118,7 @@
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Tijd</string>
-  <string name="time_zone_auto_stub">Kies Tijdzone</string>
+  <string name="time_zone_auto_stub">Selecteer tijdszone</string>
   <string name="timezone_settings">Tijdzone</string>
   <string name="title_color_calibration">Kleur correctie voorkeuze</string>
   <string name="title_dolby_control">Dobly digital plus</string>
