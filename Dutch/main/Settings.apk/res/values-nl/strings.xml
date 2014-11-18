@@ -82,6 +82,7 @@
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s altijd toestaan widgets te maken en toegang tot de widgetgegevens geven</string>
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
+  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">U heeft ervoor gekozen deze app toe te staan widgets te maken en toegang tot de widgetgegevens te geven.</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="anti_spam">Blokeerlijst</string>
@@ -530,9 +531,6 @@
   <string name="clear_failed_dlg_text">Kan gegevens voor de app niet wissen.</string>
   <string name="clear_failed_dlg_title">Gegevens wissen</string>
   <string name="clear_user_data_text">Gegevens wissen</string>
-  <string name="cmcc_dm_settings_disable_summary">Automatisch herstarten uitschakelen</string>
-  <string name="cmcc_dm_settings_enable_summary">Automatisch herstarten inschakelen</string>
-  <string name="cmcc_dm_settings_title">Apparaatbeheer toestemmingen</string>
   <string name="color_black">Zwart</string>
   <string name="color_blue">Blauw</string>
   <string name="color_calibration_none">Origineel</string>
@@ -712,6 +710,7 @@
   <string name="details_title">Gebruiksdetails</string>
   <string name="dev_settings_warning_message">Deze instellingen zijn uitsluitend bedoeld voor ontwikkelingsgebruik. Uw apparaat en apps kunnen hierdoor vastlopen of anders reageren.</string>
   <string name="dev_settings_warning_title">Ontwikkelingsinstellingen toestaan?</string>
+  <string name="developer_build">" | Developer"</string>
   <string name="development_enable">Ontwikkelaarsopties</string>
   <string name="development_settings_not_available">Ontwikkelaarsopties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="development_settings_summary">Opties instellen voor appontwikkeling</string>
@@ -897,7 +896,6 @@
   <string name="error_mnc_not23">MNC-veld moet 2 of 3 cijfers bevatten.</string>
   <string name="error_name_empty">"Het veld 'Naam' mag niet leeg zijn."</string>
   <string name="error_title"/>
-  <string name="experimental_build">(Experimenteel)</string>
   <string name="external_code_size_label">USB opslagapp</string>
   <string name="external_data_size_label">USB opslaggegevens</string>
   <string name="factory_reset_summary">U kunt uw persoonlijke gegevens wissen door uw telefoon te resetten, of ervoor te kiezen om de geïnstalleerde apps te wissen en de SD-kaart te formatteren om naar de fabrieksinstellingen terug te keren</string>
@@ -1390,14 +1388,17 @@
   <string name="multi_touch_points_preference">Herstart is nodig</string>
   <string name="music_HiFi_title">HiFi audio</string>
   <string name="music_audio_effect_settings">Audio effect settings</string>
+  <string name="music_dirac_control">Optimize audio quality</string>
   <string name="music_dirac_mode_earbuds">Mi oordopjes</string>
   <string name="music_dirac_mode_general">Algemene</string>
   <string name="music_dirac_mode_general_earbuds">Algemene oordopjes</string>
   <string name="music_dirac_mode_general_inear">Algemene in oor</string>
   <string name="music_dirac_mode_in_ear">Mi in oor koptelefoons</string>
+  <string name="music_dirac_mode_off">Dirac off</string>
+  <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
-  <string name="music_dirac_mode_piston_youth">Mi piston youth</string>
+  <string name="music_dirac_mode_piston_basic">Basic Edition</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_headphone_settings">Instellingen koptelefoon type</string>
   <string name="music_headset_button_settings">Knoppen toewijzen</string>
@@ -1994,6 +1995,7 @@
   <string name="ssl_ca_cert_settings_button">Vertrouwde inloggegevens controleren</string>
   <string name="ssl_ca_cert_warning">Netwerk kan worden gecontroleerd</string>
   <string name="ssl_ca_cert_warning_message">"Een derde partij kan uw netwerkactiviteit, waaronder e-mails, apps en beveiligde websites, bijhouden. Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogelijk."</string>
+  <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Stand-by tijd</string>
   <string name="status_bar_and_notification_bar">Notificatie en statusbalk</string>
   <string name="status_bar_filter_item_description">Ga naar algemene instellingen &gt; Notificaties &gt; Beheer notificaties, om notificaties in te stellen</string>
