@@ -61,11 +61,6 @@
   <string name="allow">Toestaan</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">Standaard gebruiken voor deze actie.</string>
-  <string name="android_system_label">Android-systeem</string>
-  <string name="android_upgrading_apk">App %1$d van %2$d optimaliseren.</string>
-  <string name="android_upgrading_complete">Opstarten afronden.</string>
-  <string name="android_upgrading_starting_apps">Apps starten.</string>
-  <string name="android_upgrading_title">Android wordt bijgewerkt...</string>
   <string name="anr_activity_application">"%2$s reageert niet.
 
 Wilt u deze app sluiten?"</string>
@@ -176,22 +171,18 @@ Wilt u het sluiten?"</string>
   <string name="common_name_conjunctions"/>
   <string name="common_name_prefixes"/>
   <string name="common_name_suffixes"/>
-  <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
-  <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
-  <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
   <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
   <string name="config_customResolverActivity"/>
   <string name="config_datause_iface">rmnet0</string>
   <string name="config_default_dns_server">8.8.8.8</string>
-  <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
   <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+  <string name="config_geocoderProviderPackageName">@null</string>
+  <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
   <string name="config_isoImagePath"/>
   <string name="config_mms_user_agent">Android-Mms/2.0</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
-  <string name="config_ntpServer">2.android.pool.ntp.org</string>
   <string name="config_partial_segment_expire_age">2592000000</string>
   <string name="config_tether_apndata"/>
   <string name="config_useragentprofile_url"/>
@@ -247,8 +238,8 @@ met %s"</string>
   <string name="default_audio_route_name_dock_speakers">Dockluidsprekers</string>
   <string name="default_audio_route_name_headphones">Hoofdtelefoon</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
-  <string name="default_sms_application">com.android.mms</string>
   <string name="default_text_encoding">Latin 1</string>
+  <string name="default_wallpaper_component">@null</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteText">Verwijderen</string>
   <string name="deny">Weigeren</string>
