@@ -91,8 +91,8 @@
   <string name="apn_auth_type_none">Geen</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
-  <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
+  <string name="apn_chinaunicom_3gnet_general">3G internetverbinding</string>
+  <string name="apn_chinaunicom_3gwap_general">3G mobiel internet</string>
   <string name="apn_edit">Toegangspunt bewerken</string>
   <string name="apn_general">Algemeen</string>
   <string name="apn_http_port">Poort</string>
@@ -897,7 +897,7 @@
   <string name="error_mnc_not23">MNC-veld moet 2 of 3 cijfers bevatten.</string>
   <string name="error_name_empty">"Het veld 'Naam' mag niet leeg zijn."</string>
   <string name="error_title"/>
-  <string name="experimental_build">(Experimental)</string>
+  <string name="experimental_build">(Experimenteel)</string>
   <string name="external_code_size_label">USB opslagapp</string>
   <string name="external_data_size_label">USB opslaggegevens</string>
   <string name="factory_reset_summary">U kunt uw persoonlijke gegevens wissen door uw telefoon te resetten, of ervoor te kiezen om de geïnstalleerde apps te wissen en de SD-kaart te formatteren om naar de fabrieksinstellingen terug te keren</string>
@@ -1156,7 +1156,7 @@
   <string name="lock_intro_message">Beveilig uw telefoon tegen ongeoorloofd gebruik door een persoonlijk schermontgrendelingspatroon in te stellen. Gebruik op het volgende scherm uw vinger om de punten met elkaar te verbinden. U moet minimaal vier punten met elkaar verbinden</string>
   <string name="lock_screen_unlock_show">Veeg scherm uitschakelen</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord na het ontwaken</string>
-  <string name="lock_settings">Lock screen</string>
+  <string name="lock_settings">Scherm vergrendeling</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
   <string name="lock_settings_picker_title">Schermvergr. kiezen</string>
@@ -2020,7 +2020,7 @@
   <string name="status_bar_settings_show_flow_info">Toon flow details</string>
   <string name="status_bar_settings_show_network_speed">Toon snelheid verbinding</string>
   <string name="status_bar_settings_show_notificationBar_notification">Toon in notificatiebalk</string>
-  <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
+  <string name="status_bar_settings_show_notification_icon">Notificatie icoon weergeven</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon schermafdruk notificatie</string>
   <string name="status_bar_settings_show_statusBar_notification">Toon in keyguard</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Melding verschijnt boven in het scherm en verdwijnt automatisch r</string>
@@ -2118,7 +2118,7 @@
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Tijd</string>
-  <string name="time_zone_auto_stub">Select Time Zone</string>
+  <string name="time_zone_auto_stub">Selecteer tijdszone</string>
   <string name="timezone_settings">Tijdzone</string>
   <string name="title_color_calibration">Kleur correctie voorkeuze</string>
   <string name="title_dolby_control">Dobly digital plus</string>
@@ -2770,13 +2770,13 @@
   <string name="wifi_wps_onstart_pbc">"Druk op de knop 'Beveiligde configuratie voor WiFi' op uw router. Misschien heet deze knop 'WPS' of bevat deze het volgende symbool:"</string>
   <string name="wifi_wps_onstart_pin">Geef de PIN code %1$s op uw WiFi router op. De configuratie kan twee minuten duren.</string>
   <string name="wifi_wps_overlap_error">Er is een andere WiFi</string>
-  <string name="wifi_wps_setup_msg">Starting WPS…</string>
+  <string name="wifi_wps_setup_msg">WPS opstarten…</string>
   <string name="wifi_wps_setup_title">Beveiligde configuratie voor WiFi</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Vensteranimatieschaal</string>
   <string name="wireless_networks_settings_title">Draadloos en netwerken</string>
-  <string name="wireless_off">Off</string>
-  <string name="wireless_on">On</string>
+  <string name="wireless_off">Uit</string>
+  <string name="wireless_on">Aan</string>
   <string name="wizard_back">Terug</string>
   <string name="wizard_finish">Voltooien</string>
   <string name="wizard_next">Volgende</string>
