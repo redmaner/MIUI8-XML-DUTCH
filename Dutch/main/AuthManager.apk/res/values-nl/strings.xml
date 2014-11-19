@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Apps</string>
-  <string name="Dashboard_HIPS_Disable_Content">MIUI zal  toestemmingsverzoeken  van de apps niet controleren</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI zal  toestemmingsverzoeken van de apps niet controleren</string>
   <string name="Dashboard_HIPS_Disable_Title">Toestemmingen</string>
   <string name="Dashboard_Log">Logs</string>
   <string name="Dashboard_Log_Clear_Content">Alle logs zullen verwijderd worden.</string>
@@ -22,13 +22,13 @@
   <string name="Dashboard_Perm_SU_Desc">Monitoring %1$d apps met root toegang</string>
   <string name="Dashboard_Perm_SU_Disabled">Root toegang uitgeschakeld</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Root toegang is niet beschikbaar in the stable build van MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van root-toegang tot 3rd-party apps kunnen instabiliteit van het systeem, verlies van gebruikers gegevens, of zelfs schade aan de hardware veroorzaken.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van root-toegang tot apps van derden kunnen instabiliteit van het systeem, verlies van gebruikers gegevens, of zelfs schade aan de hardware veroorzaken.
 
 Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Root toegang</string>
-  <string name="Dashboard_Su_Enable_Content">Het verlenen van root toegang tot 3rd-party apps kan instabiliteit van het systeem, gebruikersgegevens verlies, of zelfs schade aan de hardware veroorzaken.</string>
+  <string name="Dashboard_Su_Enable_Content">Het verlenen van root toegang tot apps van derden kan instabiliteit van het systeem, gebruikersgegevens verlies, of zelfs schade aan de hardware veroorzaken.</string>
   <string name="Dashboard_Su_Enable_Title">Root toegang</string>
   <string name="Generic_Canceling">Annuleren…</string>
   <string name="Generic_Check">Controleer</string>
@@ -60,7 +60,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
   <string name="HIPS_Action_Prompt">Prompt</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Prompt&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject">Ontkennen</string>
+  <string name="HIPS_Action_Reject">Weigeren</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
   <string name="HIPS_Group_DataPrivacy">Privacy</string>
   <string name="HIPS_Group_Expense">Veiligheid</string>
@@ -91,8 +91,8 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_CallLog_Desc">Kan gesprekslog schrijven</string>
   <string name="HIPS_Perm_CallLog_Hint">%1$s apps kunnen gesprekslog schrijven</string>
   <string name="HIPS_Perm_CallMonitor">Controleerd gesprekken</string>
-  <string name="HIPS_Perm_CallMonitor_Desc">Controleerd gesprekken en veranderen van volume inkomende gesprekken</string>
-  <string name="HIPS_Perm_CallMonitor_Hint">%1$s apps controleren gesprekken en veranderen van volume inkomende gesprekken</string>
+  <string name="HIPS_Perm_CallMonitor_Desc">Controleerd gesprekken en volume veranderen van inkomende gesprekken</string>
+  <string name="HIPS_Perm_CallMonitor_Hint">%1$s apps controleren gesprekken en volume veranderen van inkomende gesprekken</string>
   <string name="HIPS_Perm_CallState">Lezen apparaat status</string>
   <string name="HIPS_Perm_CallState_Desc">Lezen apparaat status</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s apps kunnen apparaat status lezen</string>
@@ -107,15 +107,15 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_DisableKeyguard">Uitschakelen scherm vergrendeling</string>
   <string name="HIPS_Perm_DisableKeyguard_Desc">Kunnen je scherm vergrendeling uitschakelen</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apps die de scherm vergrendeling kunnen uitschakelen</string>
-  <string name="HIPS_Perm_EndCall">Kan gesprek  beëindigen</string>
+  <string name="HIPS_Perm_EndCall">Kan gesprek beëindigen</string>
   <string name="HIPS_Perm_GetCallState">Controleerd de status van het gesprek</string>
   <string name="HIPS_Perm_ListenCallState">Leest de status van het gesprek</string>
   <string name="HIPS_Perm_Location">Krijgt locatie info</string>
-  <string name="HIPS_Perm_Location_Access">Krijgt precieze locatie (GPS en netwerk gebaseerde)</string>
+  <string name="HIPS_Perm_Location_Access">Krijgt precieze locatie(GPS en netwerk gebaseerde)</string>
   <string name="HIPS_Perm_Location_CellInfo">Geschatte locatie met behulp van gegevens van het basisstation</string>
   <string name="HIPS_Perm_Location_CellLocation">Geschatte locatie met behulp van de locatie van het basisstation</string>
-  <string name="HIPS_Perm_Location_Desc">Krijgt precieze locatie (GPS en netwerk gebaseerde)</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s apps krijgen precieze locatie (GPS en netwerk gebaseerde)</string>
+  <string name="HIPS_Perm_Location_Desc">Krijgt precieze locatie(GPS en netwerk gebaseerde)</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s apps krijgen precieze locatie(GPS en netwerk gebaseerde)</string>
   <string name="HIPS_Perm_Location_Monitor">Kan uw locatie bijhouden </string>
   <string name="HIPS_Perm_Location_Source_Cellular">Geschatte locatie met behulp van mobiele basisstations</string>
   <string name="HIPS_Perm_Location_Source_GPS">Krijgt je precieze locatie met behulp van GPS</string>
@@ -123,7 +123,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_MMS">Schrijft MMS</string>
   <string name="HIPS_Perm_MMS_Access">Leest MMS</string>
   <string name="HIPS_Perm_MMS_Desc">Schrijft MMS</string>
-  <string name="HIPS_Perm_MMS_Hint">%1$s apps kunnen MMs schrijven</string>
+  <string name="HIPS_Perm_MMS_Hint">%1$s apps kunnen MMS schrijven</string>
   <string name="HIPS_Perm_MobileNetwork">Mobiele data vebinding gebruiken</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Kan mobiele data vebinding gebruiken</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps kunnen mobiele data vebinding gebruiken</string>
@@ -142,7 +142,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_Notification_Desc">Notificaties weergeven in notificatie schaduw</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s apps kunnen notificaties weergeven</string>
   <string name="HIPS_Perm_PhoneID">Lees apparaat identiteit</string>
-  <string name="HIPS_Perm_PhoneID_Desc">kan IMEI en IMSI van uw apparaat lezen</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Kan IMEI en IMSI van uw apparaat lezen</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s apps kunnen IMEI en IMSI van uw apparaat lezen</string>
   <string name="HIPS_Perm_PhoneID_ICCID">Kan ICCID lezen</string>
   <string name="HIPS_Perm_PhoneID_IMEI">"Kan IMEI nummer lezen</string>
@@ -158,7 +158,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_Recorder_AudioVideo">"Toegang camera voor foto's of video opnames"</string>
   <string name="HIPS_Perm_Recorder_Camera">Toegang camera om beelden te maken</string>
   <string name="HIPS_Perm_Recorder_Video">Kan audio en video opnemen</string>
-  <string name="HIPS_Perm_Recorder_VoiceCall">opnemen inkomende gesprekken</string>
+  <string name="HIPS_Perm_Recorder_VoiceCall">Opnemen inkomende gesprekken</string>
   <string name="HIPS_Perm_RejectAll">Weiger alle</string>
   <string name="HIPS_Perm_SMS">SMS schrijven</string>
   <string name="HIPS_Perm_SMS_Access">Kan SMS lezen</string>
@@ -188,20 +188,20 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_VideoRecorder">Camera toegang</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Toegang camera voor foto of video opnames</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s apps hebben toegang camera voor foto of video opnames</string>
-  <string name="HIPS_Perm_WIFINetwork">Gebruik WiFi</string>
+  <string name="HIPS_Perm_WIFINetwork">Kan WiFi gebruiken</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Kan WiFi gebruiken om met internet te verbinden</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps kunnen WiFi gebruiken om met internet te verbinden</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Wijzigen WiFi verbinding</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Kan WiFi in- en uitschakelen</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s apps kunnen WiFi in- en uitschakelen</string>
-  <string name="HIPS_Perm_Wakelock">Voorkomen dat apparaat overschakelt naar slaapmodus</string>
+  <string name="HIPS_Perm_Wakelock">Kan voorkomen dat apparaat overschakelt naar slaapmodus</string>
   <string name="HIPS_Perm_Wakelock_Desc">Kan voorkomen dat apparaat overschakelt naar slaapmodus</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s apps kunnen voorkomen dat apparaat overschakelt naar slaapmodus</string>
   <string name="HIPS_SecurityPrompt_Accept">Toestaan(%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Toestaan</string>
-  <string name="HIPS_SecurityPrompt_Caption">Security Melding</string>
+  <string name="HIPS_SecurityPrompt_Caption">Veiligheids Melding</string>
   <string name="HIPS_SecurityPrompt_Next">Volgende</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Caption">Root toegang</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Caption">Kan root toegang verkrijgen</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Verleen %1$s root toegang?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Apps root toegang verlenen kan ertoe leiden dat uw apparaat instabiel word.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Uw gegevens zijn kwetsbaarder voor aanvallen van apps met root toegang.</string>
@@ -227,7 +227,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="Privacy_Perm_Count">%1$d toegestaan | %2$d geweigerd</string>
   <string name="Su_Enable_Dialog">%1$s vraagt root toegang.</string>
   <string name="Su_Package_Forbidden">%1$s heeft geen root toegang.</string>
-  <string name="Su_Unavailable">Root toegang is  niet beschikbaar in deze versie of MIUI van MIUI. Je moet de ontwikkelaar build of MIUI  flashen root toegang toe te staan.</string>
+  <string name="Su_Unavailable">Root toegang is  niet beschikbaar in deze versie van MIUI. Je moet de ontwikkelaar build of MIUI flashen root toegang toe te staan.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart toestemming</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Opstarten</string>

@@ -4,8 +4,8 @@
   <string name="ACaddnumtitle">Voeg een telefoonnummer voorvoegsel toe aan uitzonderingen</string>
   <string name="AD_ALLOW">Sta advertenties toe</string>
   <string name="AD_APPInfo">App info</string>
-  <string name="AD_AntiSpam">Advertentie Blocker</string>
-  <string name="AD_BLOCK">Advertentie Blocker</string>
+  <string name="AD_AntiSpam">Advertentie Blokker</string>
+  <string name="AD_BLOCK">Advertentie Blokker</string>
   <string name="AD_BLOCKED">Geblokkeerd</string>
   <string name="AD_BLOCK_ALL">Blokkeer alles</string>
   <string name="AD_COUNT">%d geblokkeerd</string>
@@ -39,7 +39,7 @@
   <string name="ad_block_hint">%d geblokkeerd</string>
   <string name="ad_install_monitor">Inspecteer apps voor adware</string>
   <string name="ad_install_monitor_hint">Controleer op adware bij het installeren van apps</string>
-  <string name="ad_permission_hint">"Gebruik van Ad Blocker kan de prestaties van uw apps beïnvloeden of voorkomen dat ze normaal werken."</string>
+  <string name="ad_permission_hint">Gebruik van Ad Blokker kan de prestaties van uw apps beïnvloeden of voorkomen dat ze normaal werken.</string>
   <string name="ad_relative_setting">Gerelateerde instellingen</string>
   <string name="ad_single_block_hint">Geblokkeerd</string>
   <string name="ad_update_setting">Update</string>
@@ -66,18 +66,18 @@
   <string name="close_callwait">Uit</string>
   <string name="customizer_mode_user_define_name">Mijn regels</string>
   <string name="dlg_add_blacklist">Dit nummer blokkeren?</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s en %2$s andere contacten zijn al op uw lijst uitzonderingen.</string>
-  <string name="dlg_add_blacklist_warn_conflict_title">voorzichtig</string>
+  <string name="dlg_add_blacklist_warn_conflict_content">%1$s en %2$s andere contacten staan al op de lijst van uitzonderingen.</string>
+  <string name="dlg_add_blacklist_warn_conflict_title">Voorzichtig</string>
   <string name="dlg_add_keyword">Zoekwoorden toevoegen</string>
   <string name="dlg_add_manual_hint">Voer het telefoonnummer in</string>
   <string name="dlg_add_manual_ok">Toevoegen</string>
-  <string name="dlg_antispam_mode_delete_message">"U kunt geen aangepaste regels te herstellen voor blokkeerlijst nadat ze zijn verwijderd."</string>
+  <string name="dlg_antispam_mode_delete_message">U kunt geen aangepaste regels te herstellen voor blokkeerlijst nadat ze zijn verwijderd.</string>
   <string name="dlg_antispam_mode_delete_title">Aangepaste regels schrappen</string>
   <string name="dlg_antispam_using_mode_delete_message">"Verwijder de blokkeerlijst profiel dat u op dat moment gebruikt en schakel over naar blokkeerlijst's standaard profiel? U kunt deze actie niet te keren!"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Verwijder de blokkeerlijst profiel dat u op dat moment gebruikt en schakel over naar blokkeerlijst's standaard profiel? U kunt deze actie niet te keren!"</string>
   <string name="dlg_bl_add_manual">Nummer toevoegen aan blokkeerlijst</string>
   <string name="dlg_black_address_antispam_message">Deze locatie aan blokkeerlijst toevoegen?</string>
-  <string name="dlg_black_antispam_hint">blokkeerlijst</string>
+  <string name="dlg_black_antispam_hint">Blokkeerlijst</string>
   <string name="dlg_black_antispam_message">Dit nummer toevoegen aan blokkeerlijst?</string>
   <string name="dlg_clear_all_call">Geblokkeerde gesprekken verwijderen?</string>
   <string name="dlg_clear_all_ok">Alles verwijderen</string>
@@ -95,7 +95,7 @@
   <string name="dlg_message_not_open_stranger_identify">Om deze functie in te schakelen, gaat u naar Instellingen &gt; Telefoon.</string>
   <string name="dlg_no_block">Dit nummer deblokkeren?</string>
   <string name="dlg_no_block_ok">Deblokkeren</string>
-  <string name="dlg_remove_address_blacklist">Verwijder deze locatie uit blokkeerlijst en herstel gerelateerde berichten naar de inbox?</string>
+  <string name="dlg_remove_address_blacklist">Verwijder deze locatie uit blokkeerlijst en herstel gerelateerde berichten naar de Postvak In?</string>
   <string name="dlg_remove_address_whitelist">Deze locatie verwijderen uit uitzonderingen?</string>
   <string name="dlg_remove_blacklist">Dit nummer deblokkeren?</string>
   <string name="dlg_remove_blacklist_ing">Verwijderen van blokkeerlijst…</string>
@@ -129,7 +129,7 @@
   <string name="mark_fraud_block">Gemarkeerd als bedrieger</string>
   <string name="mark_meal">Levering</string>
   <string name="mark_meal_block">Gemarkeerd als levering</string>
-  <string name="mark_number_info">Soms zijn kunnen deze nummers  nuttig zijn. Blokkeren alle nummers uit die u niet langer aannemen.</string>
+  <string name="mark_number_info">Soms kunnen deze nummers nuttig zijn. Blokkeer alle nummers UIT die u niet langer wilt aannemen.</string>
   <string name="mark_sell">Verkoper</string>
   <string name="mark_sell_block">Gemarkeerd als distributeur</string>
   <string name="marked_by_others">"%d andere gebruikers gemarkeerd als "</string>
@@ -144,7 +144,7 @@
   <string name="menu_bl_remove">Deblokkeren</string>
   <string name="menu_bl_sms_log">Bekijk geblokkeerde berichten</string>
   <string name="menu_call">Bellen</string>
-  <string name="menu_clear_all_call">Wis geblokkeerde gesprekken</string>
+  <string name="menu_clear_all_call">Verwijder geblokkeerde gesprekken</string>
   <string name="menu_clear_all_sms">Verwijder geblokkeerde berichten</string>
   <string name="menu_clear_current_call">Verwijder alle gesprekken van dit nummer</string>
   <string name="menu_clear_current_sms">Verwijder alle geblokkeerde berichten verstuurd vanaf dit nummer</string>
@@ -163,8 +163,8 @@
   <string name="note_sms_none">Geen berichten</string>
   <string name="one_address_choose_hint">%s1 locatie</string>
   <string name="open_callwait">Aan</string>
-  <string name="read_all_sms">Mark as read</string>
-  <string name="sim_not_ready">SIM-kaart niet klaar</string>
+  <string name="read_all_sms">Markeren als ongelezen</string>
+  <string name="sim_not_ready">SIM kaart niet klaar</string>
   <string name="sms_delete_hint">Verwijder alle geblokkeerde berichten verstuurd vanaf dit nummer?</string>
   <string name="st_advanced_setting_group">Geavanceerd</string>
   <string name="st_antispam_black_adress_add">Kies een locatie</string>
@@ -194,13 +194,13 @@
   <string name="st_antispam_title_contact_sms">Berichten van Contacten</string>
   <string name="st_antispam_title_contactandanoy_group">Instellingen</string>
   <string name="st_antispam_title_null_incoming">Privé nummers</string>
-  <string name="st_antispam_title_service_sms">Service notifications</string>
+  <string name="st_antispam_title_service_sms">Service notificaties</string>
   <string name="st_antispam_title_whitelist">Uitzonderingen</string>
   <string name="st_block_all">Blokkeer gesprekken en berichten</string>
   <string name="st_block_mute">Blokkeer gesprekken en stille berichten</string>
   <string name="st_block_private_call_button">Blokkeer privé nummers</string>
   <string name="st_block_setting_group">Instellingen blokkeerlijst </string>
-  <string name="st_block_setting_title">Gesprekken en berichtens</string>
+  <string name="st_block_setting_title">Gesprekken en berichten</string>
   <string name="st_block_title">Doorschakelen naar geblokkeerde logbestand</string>
   <string name="st_block_unknown_call">Blokkeer onbekende gesprekken</string>
   <string name="st_block_unknown_sms">Blokkeer onbekende berichten</string>
@@ -208,7 +208,7 @@
   <string name="st_common_setting_group">Filter instellingen</string>
   <string name="st_filter_keywords_setting_summary1">Berichten van onbekende nummers die de woorden uit lijst bevatten zullen worden geblokkeerd.</string>
   <string name="st_filter_keywords_setting_summary2">"
-(Gebruik een komma om meerdere trefwoorden te scheiden.)"</string>
+(Gebruik een komma om meerdere trefwoorden te scheiden)"</string>
   <string name="st_filter_keywords_setting_title">Configureren trefwoord filter</string>
   <string name="st_filter_keywords_title">Trefwoord filter</string>
   <string name="st_filter_sms_button">Berichten filteren</string>
@@ -262,7 +262,7 @@
   <string name="st_title_open_antispam">Blokkeerlijst</string>
   <string name="st_title_settings_other_group">Extra instellingen</string>
   <string name="st_title_show_antispamnotification">Blokkeerlijst notificatie</string>
-  <string name="st_title_sim_card">%1$s-SIM-kaart %2$s</string>
+  <string name="st_title_sim_card">%1$s SIM kaart %2$s</string>
   <string name="st_title_whitelist_numbers">Uitzonderingen</string>
   <string name="sure">Ok</string>
   <string name="tab_blacklist">Blokkeerlijst</string>
@@ -270,7 +270,7 @@
   <string name="tab_block_log_unKnowNumber">Privé nummer</string>
   <string name="tab_call">Gesprekken</string>
   <string name="tab_sms">Berichten</string>
-  <string name="tab_title">Blocklist</string>
+  <string name="tab_title">Blokkeerlijst</string>
   <string name="toast_keyword_blank">U moet een trefwoord in te voeren</string>
   <string name="toast_keyword_exist">Trefwoord toegevoegd aan filter</string>
   <string name="toast_keyword_invalid">Ongeldige trefwoord</string>
