@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">U heeft nog %d pogingen over voordat de SIM-kaart wordt vergrendeld.</item>
-        <item quantity="one">U heeft nog %d poging over voordat de SIM-kaart wordt vergrendeld.</item>
+        <item quantity="other">U heeft nog %d pogingen over voordat de SIM kaart wordt vergrendeld.</item>
+        <item quantity="one">U heeft nog %d poging over voordat de SIM kaart wordt vergrendeld.</item>
     </plurals>
     <plurals name="num_seconds_ago">
         <item quantity="other">%d seconden geleden</item>
@@ -24,19 +24,19 @@
         <item quantity="one">gisteren</item>
     </plurals>
     <plurals name="in_num_seconds">
-        <item quantity="other">over %d seconden</item>
-        <item quantity="one">over 1 seconde</item>
+        <item quantity="other">binnen %d seconden</item>
+        <item quantity="one">binnen 1 seconde</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">over %d minuten</item>
-        <item quantity="one">over 1 minuut</item>
+        <item quantity="other">binnen %d minuten</item>
+        <item quantity="one">binnen 1 minuut</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">over %d uur</item>
-        <item quantity="one">over 1 uur</item>
+        <item quantity="other">binnen %d uur</item>
+        <item quantity="one">binnen 1 uur</item>
     </plurals>
     <plurals name="in_num_days">
-        <item quantity="other">over %d dagen</item>
+        <item quantity="other">binnen %d dagen</item>
         <item quantity="one">morgen</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
@@ -56,19 +56,19 @@
         <item quantity="one">gisteren</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">over %d seconden</item>
-        <item quantity="one">over 1 seconde</item>
+        <item quantity="other">binnen %d seconden</item>
+        <item quantity="one">binnen 1 seconde</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">over %d minuten</item>
-        <item quantity="one">over 1 minuut</item>
+        <item quantity="other">binnen %d minuten</item>
+        <item quantity="one">binnen 1 minuut</item>
     </plurals>
     <plurals name="abbrev_in_num_hours">
-        <item quantity="other">over %d uur</item>
-        <item quantity="one">over 1 uur</item>
+        <item quantity="other">binnen %d uur</item>
+        <item quantity="one">binnen 1 uur</item>
     </plurals>
     <plurals name="abbrev_in_num_days">
-        <item quantity="other">over %d dagen</item>
+        <item quantity="other">binnen %d dagen</item>
         <item quantity="one">morgen</item>
     </plurals>
     <plurals name="duration_seconds">
@@ -96,7 +96,7 @@
         <item quantity="one">1 overeenkomst</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">Probeer het over %d seconden opnieuw</item>
-        <item quantity="one">Probeer het over één seconde opnieuw</item>
+        <item quantity="other">Probeer het binnen %d seconden opnieuw</item>
+        <item quantity="one">Probeer het binnen één seconde opnieuw</item>
     </plurals>
 </resources>
