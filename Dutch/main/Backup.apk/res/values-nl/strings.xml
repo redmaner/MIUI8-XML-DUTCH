@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Gegevens (Back-up Xiaomi en Gmail info)</string>
+  <string name="account_contact_backup_info">Gegevens (Backup Xiaomi en Gmail info)</string>
   <string name="account_login">Inloggen</string>
   <string name="account_summary">Backup Xiaomi accounts, Google accounts en andere gebruikersgegevens</string>
   <string name="already_enable_encrypt">Encryptie ingeschakeld</string>
   <string name="app_name">Backup</string>
-  <string name="auto_backup">Plan routine back up</string>
+  <string name="auto_backup">Plan routine backup</string>
   <string name="auto_backup_all_user_apps">Alle apps</string>
   <string name="auto_backup_choose">Backup items</string>
   <string name="auto_backup_choose_empty">Geen backups.</string>
   <string name="auto_backup_choose_title">Kies backup items</string>
   <string name="auto_backup_date">Dagen</string>
-  <string name="auto_backup_only_wifi">Allen met WiFi</string>
+  <string name="auto_backup_only_wifi">Alleen met WiFi</string>
   <string name="auto_backup_open">Automatische backupen</string>
-  <string name="auto_backup_progress">Automatische backup maken, een moment geduld...</string>
+  <string name="auto_backup_progress">Automatische backup maken, een moment geduld…</string>
   <string name="auto_backup_select_user_apps">Selecteer apps</string>
   <string name="auto_backup_selected_user_apps">Geselecteerde apps</string>
   <string name="auto_backup_setting">Plan routine back up</string>
@@ -24,16 +24,16 @@
   <string name="backup_data">Kies items voor backup</string>
   <string name="backup_delete">Verwijderen:</string>
   <string name="backup_empty">Geen backups gevonden.</string>
-  <string name="backup_empty_info">Back-up uw gegevens, instellingen en applicaties</string>
+  <string name="backup_empty_info">Backup uw gegevens, instellingen en applicaties</string>
   <string name="backup_error">Backup mislukt</string>
   <string name="backup_failed">Backup mislukt, probeer het opnieuw</string>
   <string name="backup_file_error">Backup mislukt, de handeling is ongeldig</string>
   <string name="backup_finished">Backup voltooid</string>
-  <string name="backup_hint">"Apparaat niet uitzetten, kan corruptie veroorzaken"</string>
+  <string name="backup_hint">Apparaat niet uitzetten, kan corruptie veroorzaken</string>
   <string name="backup_items_app_tailer">"  app gegevens"</string>
   <string name="backup_items_sysdata_tailer">"  systeem gegevens,"</string>
   <string name="backup_new">Nieuw:</string>
-  <string name="backup_progress">Backuppen...;</string>
+  <string name="backup_progress">Backuppen…</string>
   <string name="backup_recently">"  (meest recente backup) "</string>
   <string name="backup_report">Backup details weergeven</string>
   <string name="backup_update">Update</string>
@@ -65,7 +65,7 @@
   <string name="compute_delete_contact_info">Contacten zoeken om te verwijderen…</string>
   <string name="contact_title">Contacten</string>
   <string name="current_account">Hallo, %s</string>
-  <string name="current_sim">Huidige SIM-kaart</string>
+  <string name="current_sim">Huidige SIM kaart</string>
   <string name="data_no_enough_space">Niet genoeg ruimte</string>
   <string name="data_no_enough_space_message">"Niet genoeg interne opslag ruimte"</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
@@ -80,9 +80,9 @@
   <string name="enable_encrypt_indicator">Druk voor encryptie</string>
   <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">Om de encrypte backups op te halen moet je inglogd zijn op je MI Account.</string>
-  <string name="enable_encrypt_summery2">"De nieuwe backup wordt automatisch gecodeerd. U moet inloggen op uw Xiaomi account om gegevens te wissen of backups te herstellen op andere toestellen."</string>
+  <string name="enable_encrypt_summery2">De nieuwe backup wordt automatisch gecodeerd. U moet inloggen op uw Xiaomi account om gegevens te wissen of backups te herstellen op andere toestellen.</string>
   <string name="enable_encrypt_title">Backups Encrypten </string>
-  <string name="enable_encrypt_xiaomi_account">Deze backup is gemaakt door %1$s. verwijder het huidige account en log in op %2$s om de gegevens te herstellen..</string>
+  <string name="enable_encrypt_xiaomi_account">Deze backup is gemaakt door %1$s. verwijder het huidige account en log in op %2$s om de gegevens te herstellen.</string>
   <string name="every_day">Dagelijks</string>
   <string name="exchange_account">Verwissel van Account</string>
   <string name="fail">Mislukt</string>
@@ -93,7 +93,7 @@
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Download de MiTalk app en log in.
   \u0009http://www.miliao.com
 
-2.\u0009Go to MiTalk Settings and select ”Back up contacten naar Mi Account”"</string>
+2.\u0009Ga naar MiTalk Instellingen and selecteer ”Back up contacten naar Mi Account”"</string>
   <string name="import_from_xiaomi_account_hint2">Indien je al heb gebackup duw volgende</string>
   <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor backup van contacten op andere telefoons.</string>
   <string name="local_app_name">Backup</string>
@@ -105,7 +105,7 @@
   <string name="local_select_sysdata">Systeem</string>
   <string name="local_select_userapp">Apps</string>
   <string name="menu_patch_delete">Verwijder backups</string>
-  <string name="miliao_account_guide">"Maak een Mi Account aan om van alle online sevices te genieten"</string>
+  <string name="miliao_account_guide">Maak een Mi Account aan om van alle online sevices te genieten</string>
   <string name="miliao_account_login">Login bij MiTalk</string>
   <string name="mms_title">Multimedia Berichten</string>
   <string name="multi_select_title">%1$s geselecteerd</string>
@@ -116,7 +116,7 @@
   <string name="nothing_searched">Geen zoek resultaten gevonden</string>
   <string name="progress_backup_hint">Backuppen:</string>
   <string name="progress_restore_hint">Herstellen:</string>
-  <string name="prompt_reading">Lezen...</string>
+  <string name="prompt_reading">Lezen…</string>
   <string name="prompt_sending">Uploaden…</string>
   <string name="prompt_writing">Opslaan…</string>
   <string name="read_encrypt_fail">Codering lezen van backup mislukt</string>
@@ -139,15 +139,15 @@
   <string name="sc_internal_server_error">Interne server fout</string>
   <string name="sc_network_unavailable">Controleer netwerk verbinding en probeer opnieuw</string>
   <string name="sc_others">Fout melding</string>
-  <string name="sc_precondition_failed">Je moet eerst een e-mailadres toe te voegen aan uw Mi Account.</string>
+  <string name="sc_precondition_failed">Je moet eerst een emailadres toe te voegen aan uw Mi Account.</string>
   <string name="sc_request_timeout">Verzoek time-out</string>
   <string name="sc_service_unavailable">Cloud service niet beschikbaar</string>
   <string name="sc_unaccess_password_file">Kan WiFi wachtwoord niet vinden</string>
   <string name="sc_unauthorized">Probeer opnieuw in te loggen</string>
-  <string name="sd_not_available">SD-kaart nu insteken</string>
-  <string name="sdcard_no_enough_space">Niet genoeg ruimte op SD-kaart</string>
-  <string name="sdcard_no_enough_space_message">"Niet genoeg ruimte op SD-kaart."</string>
-  <string name="sdcard_unmounted">SD-kaart nu insteken</string>
+  <string name="sd_not_available">SD kaart nu insteken</string>
+  <string name="sdcard_no_enough_space">Niet genoeg ruimte op SD kaart</string>
+  <string name="sdcard_no_enough_space_message">"Niet genoeg ruimte op SD kaart."</string>
+  <string name="sdcard_unmounted">SD kaart nu insteken</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_backup_item">Backup item selecteren</string>
   <string name="service_stoped">Service gestopt</string>
@@ -158,7 +158,7 @@
   <string name="start_restore">Herstellen</string>
   <string name="succeed">Voltooid</string>
   <string name="system_backup">Backups</string>
-  <string name="system_backup_info">Systeem insellingenen startscherm layout</string>
+  <string name="system_backup_info">Systeem instellingen voor startscherm layout</string>
   <string name="task_backup_cancel_progress">Backup annuleren…</string>
   <string name="task_backup_finished_local">Backup voltooid</string>
   <string name="task_canceled">Backup geannuleerd</string>
@@ -173,14 +173,14 @@
   <string name="task_pending">Wachten…</string>
   <string name="task_post_running">Afronden…</string>
   <string name="task_pre_running">Voorbereiden…</string>
-  <string name="task_progress">Voortgang</string>
+  <string name="task_progress">Voortuitgang</string>
   <string name="task_restore_cancel_dialog">Herstel is niet compleet\ Annuleren kan leiden tot gegevensverlies.</string>
   <string name="task_restore_cancel_progress">Stoppen…</string>
   <string name="task_restore_finished_local">Herstellen voltooid</string>
   <string name="task_restore_none">Geen herstel nodig</string>
   <string name="task_running_backup_dialog">Backup draait in de achtergrond, druk OK om weer te geven.</string>
   <string name="task_running_backup_hint">Service draait al in de achtergrond!</string>
-  <string name="task_running_dialog">Backup en herstel worden uitgevoerd in de achtergrond, klik op OK voor de voortgang</string>
+  <string name="task_running_dialog">Backup en herstel worden uitgevoerd in de achtergrond, klik op OK voor de voortuitgang</string>
   <string name="task_running_hint">Service draait in de achtergrond, probeer deze backup opnieuw te herstellen!</string>
   <string name="task_running_restore_dialog">Herstel draait in de achtergrond, druk op OK om te bekijken.</string>
   <string name="task_running_restore_hint">Service draait al in de achtergrond!</string>
