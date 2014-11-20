@@ -2,8 +2,8 @@
 <resources>
   <string name="Import">Importeren</string>
   <string name="access_sd_fail">Toegang tot USB opslag mislukt</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Toggle camera en video (gebruikt momenteel %s)</string>
-  <string name="accessibility_camera_auto_flashmode">Auto-flitsen</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Toggle camera en video(gebruikt momenteel %s)</string>
+  <string name="accessibility_camera_auto_flashmode">Auto flitsen</string>
   <string name="accessibility_camera_flash_closemode">Geen flits</string>
   <string name="accessibility_camera_flashmode">Altijd flitsen</string>
   <string name="accessibility_camera_picker">Voorste en achterste camera wisselen</string>
@@ -17,7 +17,7 @@
   <string name="accessibility_open_more_ptions">Extra opties inschakelen</string>
   <string name="accessibility_panorama_review_cancel">Panorama Annuleren Opslaan</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
-  <string name="accessibility_scroll_button_slider">Camera-Video-Schakelaar</string>
+  <string name="accessibility_scroll_button_slider">Camera Video Schakelaar</string>
   <string name="accessibility_setting_button">InstelKnop</string>
   <string name="accessibility_show_setting_panel_button">InstelKnop</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
@@ -31,8 +31,8 @@
   <string name="aperture">Diafragma</string>
   <string name="app_details">App details:</string>
   <string name="auto">Auto</string>
-  <string name="bg_replacement_message">"Zet uw apparaat op een stabiel oppervlak,
- and stap een moment uit het zicht "</string>
+  <string name="bg_replacement_message">Zet uw apparaat op een stabiel oppervlak,
+ en stap een moment uit het zicht</string>
   <string name="burst_shoot_exit_button_text">Sluit Burst Shoot af</string>
   <string name="camera_disabled">Camera is uitgeschakeld</string>
   <string name="camera_error_title">Camera fout</string>
@@ -87,9 +87,9 @@
   <string name="effect_backdropper_space">In de ruimte</string>
   <string name="effect_backdropper_sunset">Zonsopgang</string>
   <string name="effect_background">ACHTERGROND</string>
-  <string name="effect_goofy_face_big_eyes">Grote ogen</string>
+  <string name="effect_goofy_face_big_eyes">Grootte ogen</string>
   <string name="effect_goofy_face_big_mouth">Grote mond</string>
-  <string name="effect_goofy_face_big_nose">Big nose</string>
+  <string name="effect_goofy_face_big_nose">Grootte neus</string>
   <string name="effect_goofy_face_small_eyes">Kleine ogen</string>
   <string name="effect_goofy_face_small_mouth">Kleine mond</string>
   <string name="effect_goofy_face_squeeze">Samendrukken</string>
@@ -170,7 +170,7 @@
   <string name="mimetype">MIME type</string>
   <string name="model">Model</string>
   <string name="no_save">Nee bedankt</string>
-  <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt</string>
+  <string name="no_storage">Plaats een SD kaart voordat u de camera gebruikt</string>
   <string name="no_thumbnail">Geen thumbnail</string>
   <string name="not_enough_space">Intern geheugen is vol</string>
   <string name="not_selectable_in_scene_mode">Kan niet worden geselecteerd in de scene modus</string>
@@ -181,8 +181,8 @@
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Wachten op eerdere panorama om te eindigen</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
-  <string name="pano_how_to_use_prompt">"Om een panoramische foto te maken, 
-touchoudt de sluiterknop ingedrukt"</string>
+  <string name="pano_how_to_use_prompt">Om een panoramische foto te maken, 
+houdt de sluiterknop ingedrukt</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Blijf doorgaan…</string>
   <string name="pano_how_to_use_prompt_to_move">Begin langzaam te pannen</string>
   <string name="pano_review_saving_indication_str">Opslaan…</string>
@@ -204,7 +204,7 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Anti streepvorming</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Auto-vastleggen wanneer stabiel</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto vastleggen wanneer stabiel</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flitser</string>
   <string name="pref_camera_auto_focus_title_entry_off">Uit</string>
   <string name="pref_camera_auto_focus_title_entry_on">Aan</string>
@@ -273,8 +273,8 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
-  <string name="pref_camera_hfr_entry_off">Off</string>
-  <string name="pref_camera_hfr_title">Hoge framerate (slow motion)</string>
+  <string name="pref_camera_hfr_entry_off">Uit</string>
+  <string name="pref_camera_hfr_title">Hoge framerate(slow motion)</string>
   <string name="pref_camera_histogram_entry_disable">Uitschakelen</string>
   <string name="pref_camera_histogram_entry_enable">Inschakelen</string>
   <string name="pref_camera_histogram_title">Histogram</string>
@@ -371,11 +371,11 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="pref_camera_show_gender_age_entry_off">Uit</string>
   <string name="pref_camera_show_gender_age_entry_on">Weergeven leeftijd en geslacht</string>
   <string name="pref_camera_show_gender_age_title">Gezichtsherkenning</string>
-  <string name="pref_camera_skinToneEnhancement_entry_auto">Auto-verbeteren</string>
+  <string name="pref_camera_skinToneEnhancement_entry_auto">Auto verbeteren</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Uitschakelen</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Inschakelen</string>
   <string name="pref_camera_skinToneEnhancement_title">Verbeter huidtinten</string>
-  <string name="pref_camera_sound_entry_off">UIt</string>
+  <string name="pref_camera_sound_entry_off">Uit</string>
   <string name="pref_camera_sound_entry_on">Aan</string>
   <string name="pref_camera_sound_title">Camera geluiden</string>
   <string name="pref_camera_touchafaec_entry_off">Uit</string>
@@ -477,26 +477,26 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="send">Verzenden</string>
   <string name="send_multiple_files_hint_format">Stuur meerdere bestanden (%s)</string>
   <string name="set_as">Instellen als</string>
-  <string name="set_image">Stel afbeelding in alls</string>
+  <string name="set_image">Stel afbeelding in als</string>
   <string name="set_label_all_albums">Alle albums</string>
   <string name="set_label_local_albums">Lokale albums</string>
   <string name="setting_top_text">Optioes</string>
   <string name="share">Delen</string>
-  <string name="show_all">"Afbeeldingen &amp; video's"</string>
+  <string name="show_all">Afbeeldingen &amp; videos</string>
   <string name="show_images_only">Enkel afbeeldingen</string>
   <string name="show_on_map">Weergeven op kaart</string>
-  <string name="show_videos_only">"Enkel video's"</string>
+  <string name="show_videos_only">Enkel videos</string>
   <string name="simple_mode_button_text_audio_capture">Sluit auodio opname af</string>
   <string name="simple_mode_button_text_color_effect">Sluit filter af</string>
   <string name="simple_mode_button_text_countdown">Sluit countdown af</string>
   <string name="simple_mode_button_text_face_beauty">Sluit verbeteren huidtinten af</string>
-  <string name="simple_mode_button_text_fast_video">Sluit slow-motion camera af</string>
+  <string name="simple_mode_button_text_fast_video">Sluit slow motion camera af</string>
   <string name="simple_mode_button_text_hand_night">Sluit Draagbare schemering af</string>
   <string name="simple_mode_button_text_hdr">Sluit HDR modus af</string>
   <string name="simple_mode_button_text_manual">Sluit Manuele Modus af</string>
   <string name="simple_mode_button_text_manual_mode">Sluit manueel af</string>
   <string name="simple_mode_button_text_panorama">Sluit panorama af</string>
-  <string name="simple_mode_button_text_slow_video">Sluit fast-motion camera af</string>
+  <string name="simple_mode_button_text_slow_video">Sluit fast motion camera af</string>
   <string name="simple_mode_button_text_ubifocus">Sluit herfocus Modus af</string>
   <string name="simple_mode_title">Simpele modus</string>
   <string name="slideshow">Diashow</string>
@@ -514,7 +514,7 @@ touchoudt de sluiterknop ingedrukt"</string>
   <string name="title">Titel</string>
   <string name="toast_burst_snap_finished_end">"Foto's"</string>
   <string name="toast_burst_snap_finished_start">Burst shoot voltooid:</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shoot wordt niet ondersteund als audio-opname AAN staat</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shoot wordt niet ondersteund als audio opname AAN staat</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Kan niet geen Burst Shoot doen wanneer huidtinten is ingeschakeld</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Kan niet geen Burst Shoot doen wanneer HDR AAN staat</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">ISO eerdt instellen op \"auto\"</string>
