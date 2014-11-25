@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="confirm_pin_msg">Enter PIN again</string>
   <string name="default_lockscreen_unlock_hint_text">Schuif omhoog om te ontgrendelen</string>
   <string name="delete">Verwijderen</string>
   <string name="emergency_call_string">Noodoproep</string>
@@ -20,6 +21,7 @@
   <string name="input_password_hint_text">Voeg wachtwoord in</string>
   <string name="input_pin_code">Voeg PIN code in</string>
   <string name="input_puk_code">Voeg PUK code in</string>
+  <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
   <string name="keyguard_torch_cover_text">Druk op de power knop om de zaklamp te laten branden</string>
   <string name="lock_screen_date">E dd/MM</string>
   <string name="lockscreen_access_pattern_cell_added">Mobiel netwerk toegevooegd</string>

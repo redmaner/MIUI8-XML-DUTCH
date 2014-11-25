@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Settings_title_anti_spam">Antispam instelingen</string>
   <string name="Settings_title_anti_virus">Antivirus instelingen</string>
   <string name="Settings_title_garbage_cleanup">Prullenbak opruim instellingen</string>
@@ -114,6 +115,7 @@
   <string name="cache_title_empty_folder">Leeg map (%d)</string>
   <string name="cache_title_empty_folder2">Map legen</string>
   <string name="cache_title_system_cache">Systeem cache</string>
+  <string name="call_and_contact">Calls and Contacts</string>
   <string name="cancel">Annuleren</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Annuleren</string>
@@ -252,6 +254,7 @@
   <string name="hints_virus_lib_update_default_summary">Laatste: onbekend</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Deze app is een groot risico voor de veiligheid van uw telefoon.</string>
+  <string name="info_and_call">Calls and messaging</string>
   <string name="item_app_permission">App toestemmingen</string>
   <string name="item_dev_mode">Ontwikkelaars opties</string>
   <string name="item_garbage_size_1000m">1GB</string>
@@ -349,6 +352,8 @@
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps zullen uw toestemming niet vragen voor het lezen van contacten, bekijken van bellijst, systeeminstellingen wijzigen, of de toegang tot de camera en andere hulpmiddelen. U kunt deze functie inschakelen in Toestemmings instellingen.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Toestemmings manager</string>
   <string name="permission_send_sms_descx">Apps kan SMS and MMS berichten verzenden</string>
+  <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
+  <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call logs.</string>
   <string name="power_20s_enter_mode">Op %1$ds batterij verwisselen naar %2$s</string>
   <string name="power_apply_toast">Verwisseld naar %s</string>
   <string name="power_bluetooth">Bluetooth</string>

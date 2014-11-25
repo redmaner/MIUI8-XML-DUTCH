@@ -20,7 +20,6 @@
   <string name="Call_ADRESS">Lokale blokkeerlijst</string>
   <string name="Call_BLACKLIST">Gespreks blokkeerlijst</string>
   <string name="Call_DEFAULT">Slimme blokkeerlijst</string>
-  <string name="Call_MODENAME">Standaard blokkeerlijst</string>
   <string name="Call_PREFIX">Voorvoegsel blokkeerlijst</string>
   <string name="Call_PRIVATE_CALL">Privé gesprekken</string>
   <string name="NACaddnumcontent">Voer het telefoonnummer in</string>
@@ -31,7 +30,6 @@
   <string name="SMS_BLACKLIST">Bericht blokkeerlijst</string>
   <string name="SMS_DEFAULT">Slimme blokkeerlijst</string>
   <string name="SMS_KEYWORDS">Trefwoord blokkeerlijst</string>
-  <string name="SMS_MODENAME">Standaard blokkeerlijst</string>
   <string name="SMS_PREFIX">Voorvoegsel blokkeerlijst</string>
   <string name="SMS_SERVICE">Service blokkeerlijst</string>
   <string name="SMSpass">Berichten toestaan</string>
@@ -62,6 +60,9 @@
   <string name="button_text_delete">Verwijderen</string>
   <string name="button_to_setting">Instellingen</string>
   <string name="call_delete_hint">Verwijder alle geblokkeerde gesprekken van dit nummer?</string>
+  <string name="call_transfer_block">Block forwarded calls</string>
+  <string name="call_transfer_block_type">Block forwarded calls</string>
+  <string name="call_transfer_info">Block calls forwarded from unknown numbers</string>
   <string name="cancle">Annuleren</string>
   <string name="close_callwait">Uit</string>
   <string name="customizer_mode_user_define_name">Mijn regels</string>
@@ -120,9 +121,10 @@
   <string name="info_unantispam_phone_sms">Berichten en gesprekken toestaan</string>
   <string name="info_unantispam_sms">Berichten toestaan</string>
   <string name="label_callwait">Melding gesprek in wachtrij</string>
-  <string name="log_count">(%d)</string>
   <string name="mark_agent">Verkoop</string>
   <string name="mark_agent_block">Gemarkeerd als agent</string>
+  <string name="mark_banking_insurance">Insurance sales</string>
+  <string name="mark_banking_insurance_block">Reported as insurance sales</string>
   <string name="mark_express">Koerier</string>
   <string name="mark_express_block">Geselecteerd als koerier</string>
   <string name="mark_fraud">Oplichter</string>
@@ -164,8 +166,14 @@
   <string name="one_address_choose_hint">%s1 locatie</string>
   <string name="open_callwait">Aan</string>
   <string name="read_all_sms">Markeren als ongelezen</string>
+  <string name="report_error">"Couldn't report message"</string>
+  <string name="report_error_not_net">"Can't connect to the network"</string>
+  <string name="report_only">Choose a message to report</string>
+  <string name="report_sms">Report messages</string>
+  <string name="report_success">Message reported</string>
   <string name="sim_not_ready">SIM kaart niet klaar</string>
   <string name="sms_delete_hint">Verwijder alle geblokkeerde berichten verstuurd vanaf dit nummer?</string>
+  <string name="special_number_group">Block special numbers</string>
   <string name="st_advanced_setting_group">Geavanceerd</string>
   <string name="st_antispam_black_adress_add">Kies een locatie</string>
   <string name="st_antispam_bw_adress_add">Kies lokaal</string>
@@ -260,6 +268,7 @@
   <string name="st_title_mode_choose_group">Regels voor blokkeerlijst</string>
   <string name="st_title_not_sim">Leeg</string>
   <string name="st_title_open_antispam">Blokkeerlijst</string>
+  <string name="st_title_other_group">Other</string>
   <string name="st_title_settings_other_group">Extra instellingen</string>
   <string name="st_title_show_antispamnotification">Blokkeerlijst notificatie</string>
   <string name="st_title_sim_card">%1$s SIM kaart %2$s</string>

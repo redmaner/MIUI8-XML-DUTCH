@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_detail">"Xiaomi account:
-%1$s"</string>
   <string name="app_name">Notities</string>
   <string name="balance_payment">%1$s Mi Credits</string>
   <string name="balance_title">Saldo</string>
@@ -45,7 +43,6 @@
   <string name="btn_recharge_confirm">Bevestig aankoop</string>
   <string name="btn_recharge_large">Herladen</string>
   <string name="btn_recharge_other">Herladen</string>
-  <string name="btn_recharge_success">Herladen voltooid</string>
   <string name="btn_recharge_success_quick">Herladen voltooid</string>
   <string name="btn_wait_call">Wachten…</string>
   <string name="btn_wait_call_count">Wachten (%1$s)</string>
@@ -55,10 +52,11 @@
   <string name="button_call">Bellen</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_confirm">Bevestigen</string>
+  <string name="button_count_down_finish">OK(%1$s)</string>
   <string name="button_count_down_reget">Haalt de verificatiecode(%1$s)</string>
+  <string name="button_custom_service_phone">Got it</string>
   <string name="button_next">Volgende</string>
   <string name="button_pay">Bevestigen</string>
-  <string name="button_recharge">Herladen</string>
   <string name="button_recharge_pay">Bevestigen</string>
   <string name="button_reget">Haalt de verificatiecode</string>
   <string name="button_retry">Opnieuw proberen</string>
@@ -211,14 +209,17 @@ contacteer Xiaomi klantendienst."</string>
   <string name="password_hint">Voer account wachtwoord in</string>
   <string name="pay_record_empty">Geen betalings verslagen.</string>
   <string name="pay_record_typeall">All</string>
-  <string name="payment_actionbar_title">Bevestigen</string>
+  <string name="payment_recharge_group_familiar">Choose top-up method</string>
+  <string name="payment_recharge_group_favorite">Top-up methods</string>
+  <string name="payment_success_label">"You've paid%1$sMi Credit"</string>
+  <string name="payment_success_title">Payment received</string>
+  <string name="payment_title">Confirm payment info</string>
+  <string name="payment_with_login_title">Enter your Mi Account password</string>
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_error_install">Mislukt om %1$s mobiele veiligheids plugin te installeren</string>
   <string name="paytool_error_msp">%1$s mislukt</string>
   <string name="paytool_msp_not_installed">Je hebt %1$s  %1$s  mobiele veiligheids plugin niet geïnstalleerd, nu installeren ?</string>
   <string name="paytool_tenpay">Tenpay</string>
-  <string name="pc_pay_login">Inloggen</string>
-  <string name="pc_pay_website">mibi.xiaomi.com</string>
   <string name="prepaid_card_order_info">%1$s herlaad kaart: RMB %2$s</string>
   <string name="prepaid_carriers_picker_hint">Maatschappij selecteren</string>
   <string name="prepaid_edit_limit">Cijfers</string>
@@ -269,6 +270,7 @@ Klantendienst： 400-100-5678"</string>
   <string name="recharge_grid_edit_limit">￥%1$s~%2$s</string>
   <string name="recharge_grid_edit_upper_limit">Kan niet hoger zijn dan ￥%1$s</string>
   <string name="recharge_grid_error_denomination">Vul het juiste bedrag tussen ￥%1$s~%2$s</string>
+  <string name="recharge_grid_item_more">More</string>
   <string name="recharge_grid_picker_hint">Kies bedrag</string>
   <string name="recharge_group_familiar">Agemene methoden</string>
   <string name="recharge_group_favorite">Gebruik de vorige herlaad methode</string>
@@ -289,13 +291,16 @@ Klantendienst： 400-100-5678"</string>
   <string name="scan_prompt_retry">Hou de code stil</string>
   <string name="scan_prompt_voucher">Scan Mi Credit wachtwoord</string>
   <string name="security_setting">Instellingen</string>
+  <string name="sms_code_empty">Enter the verification code sent to your phone.</string>
   <string name="sms_code_error">Mobiele telefoon verificatiecode fout, opnieuw verkrijgen</string>
   <string name="sms_code_hint">Mobiele telefoon verificatiecode fout</string>
   <string name="summary_bind_phone">Om de veiligheid van uw account te waarborgen, vul de betaling pas in na binding van mobiele telefoon Nr.</string>
+  <string name="summary_custom_service_phone">Tel:</string>
   <string name="summary_lockpattern">Een unieke patroonvergrending vereist voor Mi Credit</string>
   <string name="summary_sms_code">Om de veiligheid van uw account te waarborgen, vul aub de verificatiecode ontvangen via de telefoon %1$s， en beëindig dan de betaling</string>
   <string name="title_bind_phone">Binden van mobiele telefoon Nr.</string>
   <string name="title_change_lockpattern">Bevestig patroons vergrendeling</string>
+  <string name="title_custom_service_phone">Contact customer support</string>
   <string name="title_discounts">Kortingen</string>
   <string name="title_gesture">Patroons vergrendeling</string>
   <string name="title_giftcard">Promoties</string>
