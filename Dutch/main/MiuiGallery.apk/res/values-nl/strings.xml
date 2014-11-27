@@ -53,9 +53,9 @@
   <string name="appwidget_title">Fotogalerij</string>
   <string name="auto">Autom.</string>
   <string name="auto_create_recent_album">Maak automatisch favoriete albums aan</string>
-  <string name="auto_create_recent_album_confirm">De Galerij kuist de favoriete albumdata op. Handmatig als favoriet gemarkeerde albums zullen niet geraakt worden.</string>
+  <string name="auto_create_recent_album_confirm">De Galerij ruimt de favoriete album data op. Handmatig als favoriet gemarkeerde albums zullen niet geraakt worden.</string>
   <string name="auto_create_recent_album_over_ten_times">Een album wordt als favoriet gemarkeerd wanneer u het vaker dan 10 maal opent.</string>
-  <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
+  <string name="auto_upload_album_comfirm_to_share">Het is een album die automatisch worden geüpload, Weet u zeker u het wilt delen?</string>
   <string name="auto_upload_tip">Album met dezelfde naam zal worden gemaakt nadat het is ingeschakeld. Bestaande album(inclusief aandeel album die je deelt met anderen) met dezelfde naam zullen worden samengevoegd.</string>
   <string name="auto_upload_title">Automatisch uploaden</string>
   <string name="autofix">Auto fix</string>
@@ -129,7 +129,7 @@
   <string name="confirm_delete_init_title">Notitie</string>
   <string name="confirm_delete_system_album">%s is een systeem album.</string>
   <string name="confirm_download">"U moet %s downloaden. Deze tip wordt niet opnieuw weergegeven."</string>
-  <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten wanneer er Wifi verbinding is.</string>
+  <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten bij een Wifi verbinding.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Stel foto in voor contactpersoon</string>
   <string name="context_menu_add_contact">Toevoegen aan contactpersonen</string>
@@ -188,7 +188,7 @@
   <string name="enable">Inschakelen</string>
   <string name="enable_cloud_for_sharing">U moet cloud albums inschakelen om gedeelde afbeeldingen te bekijken.</string>
   <string name="enter_email_hint">Voer email addres in</string>
-  <string name="error_album_not_exist">"Album bestaat niet"</string>
+  <string name="error_album_not_exist">Album bestaat niet</string>
   <string name="error_cloud_not_active">Cloud album niet in gebruik</string>
   <string name="error_forbidden">Er zijn problemen met uw account: Sync. uitgeschakeld.</string>
   <string name="error_invalid_link">Foutieve link</string>
@@ -219,7 +219,7 @@
   <string name="fail_to_download_n_items">Download van %s mislukt</string>
   <string name="fail_to_pick_email">Email ongeldig</string>
   <string name="fail_to_sync_album">Synchronisate mislukt. Controleer de netwerk verbinding.</string>
-  <string name="file_not_exist_message">"Bestand bestaat niet"</string>
+  <string name="file_not_exist_message">Bestand bestaat niet</string>
   <string name="file_size">Bestandsgrootte</string>
   <string name="filllight">Verlichten</string>
   <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
@@ -266,7 +266,7 @@
   <string name="home_page_tab_photo">Foto</string>
   <string name="how_many_pics">"%d foto's"</string>
   <string name="how_many_sub_folders">%d mappen</string>
-  <string name="how_many_videos">"%d video's"</string>
+  <string name="how_many_videos">%d videos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_download_item_title">Download foto(%s)</string>
   <string name="image_quota_fulfiled">Kan bestand niet aanmaken: bestandslimiet overschreden.</string>
@@ -301,7 +301,7 @@
   <string name="loading_failure">Foto laden mislukt</string>
   <string name="loading_image">Afbeelding laden…</string>
   <string name="loading_members">Leden worden geladen s026</string>
-  <string name="loading_suspend">Download gepauzeerd: Wordt hervat wanneer er Wifi verbinding is</string>
+  <string name="loading_suspend">Download gepauzeerd: Wordt hervat bij een Wifi verbinding</string>
   <string name="loading_thumbnail">Downloaden thumbnail…</string>
   <string name="loading_video">Video laden…</string>
   <string name="local_albums">Lokale afbeeldingen</string>
@@ -332,7 +332,7 @@
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
   <string name="miliao_saved_folder_display_name">MiTalk opgeslaan</string>
   <string name="mimetype">MIME type</string>
-  <string name="mishop_saved_folder_display_name">MiStore opgeslaan</string>
+  <string name="mishop_saved_folder_display_name">Mi Store opgeslaan</string>
   <string name="miui_capture_screen_folder_display_name">Shermafdrukken</string>
   <string name="miui_wallpaper">Achtergrond</string>
   <string name="modified_time">Aangepaste tijd</string>
@@ -357,7 +357,7 @@
   <string name="no_such_item">Kan item niet vinden.</string>
   <string name="no_thumbnail">Geen miniatuur</string>
   <string name="none_picture">Geen afbeeldingen</string>
-  <string name="not_auto_create_recent_album">aanmaken favorieten ongedaan maken</string>
+  <string name="not_auto_create_recent_album">Aanmaken favorieten ongedaan maken</string>
   <string name="not_show_hidden_albums">Verborgen albums niet tonen</string>
   <string name="only_show_camera_in_first_page">Laat alleen de camera rol zien</string>
   <string name="only_show_camera_in_first_page_summary">"Laat alleen de foto's vna je Mi CLoud camera rol zien"</string>
@@ -388,7 +388,7 @@
   <string name="paint_cancel_title">Wijzigingen annuleren</string>
   <string name="paint_crop_cancel_context">Wil je het bijgesneden resultaat opslaan?</string>
   <string name="paint_crop_cancel_title">Wijzigingen annuleren</string>
-  <string name="paint_crop_tips">Om een beter beeld te krijgen, kunt u proberen om het op rasterpunten te plaatsen door het formaat te wijzigen en te bewegen.</string>
+  <string name="paint_crop_tips">Om een beter beeld te krijgen, kunt u proberen om het op de rasterpunten te plaatsen door het formaat te wijzigen en te bewegen.</string>
   <string name="path">Pad</string>
   <string name="people">Mensen</string>
   <string name="photo_page_always_rotate">Auto rotatie afbeeldingen</string>
@@ -415,7 +415,7 @@
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Verwijderen wordt voorbereid</string>
-  <string name="priority_storage">Opslaan op SD-kaart</string>
+  <string name="priority_storage">Opslaan op SD kaart</string>
   <string name="priority_storage_summary">Wanneer de SD kaart is geplaatst, bestanden automatisch downloaden naar SD kaart</string>
   <string name="projection">Projectie</string>
   <string name="public_url_descript">Iedereen kan uw album bezoeken met deze URL</string>
@@ -499,7 +499,7 @@
   <string name="share_by_email_successfully">%1$s gedeeld</string>
   <string name="share_current_album">Deel huidig album</string>
   <string name="share_public_url_text">"Ik heb het album %1$s met u gedeeld. Bekijk het op %2$s"</string>
-  <string name="sharer_quota_fulfiled">"Kan gebruiker niet toevoegen: gebruiker limiet bereikt."</string>
+  <string name="sharer_quota_fulfiled">Kan gebruiker niet toevoegen: gebruiker limiet bereikt.</string>
   <string name="sharpen">Verscherpen</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
   <string name="show_all">"Afbeeldingen en video's"</string>
@@ -553,7 +553,7 @@
   <string name="tint">Tint</string>
   <string name="title">Titel</string>
   <string name="to_count">%d totaal</string>
-  <string name="too_many_recipients">Te veel ontvangers (%1$s). (Max: %2$s ontvangers)</string>
+  <string name="too_many_recipients">Te veel ontvangers(%1$s). (Max: %2$s ontvangers)</string>
   <string name="try_to_send">Verstuur</string>
   <string name="ubifocus_data_missing">Bepaalde data is verloren</string>
   <string name="ubifocus_guide_text">Tik &amp; hoe vast om te herfocussen</string>
