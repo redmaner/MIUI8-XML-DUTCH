@@ -59,6 +59,9 @@
   <string name="calendar_network_error">Netwerk fout</string>
   <string name="calendar_refresh">Vernieuwen</string>
   <string name="calendar_server_error">Server fout</string>
+  <string name="can_not_modify_allday_event">Dagelijks gebeurtenis kan niet worden gewijzigd</string>
+  <string name="can_not_modify_event">Kunnen niet worden gewijzigd</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">Herhaalde en overlapende dag evenementen kunnen niet worden gewijzigd</string>
   <string name="change_response_title">Reactie wijzigen</string>
   <string name="chinese_leap">Uitvoeren</string>
   <string name="chongsha">Ghosts</string>
@@ -104,6 +107,7 @@
   <string name="edit_event_confirm_message">Verwerp wijzigingen naar evenement?</string>
   <string name="edit_event_from_label">Van</string>
   <string name="edit_event_label">Details</string>
+  <string name="edit_event_reminder_off_toast">Standaard herinnering modus is niets</string>
   <string name="edit_event_show_all">Alles weergeven</string>
   <string name="edit_event_to_label">Tot</string>
   <string name="edit_label">Bewerken</string>
@@ -143,10 +147,8 @@
   <string name="hint_description">Beschrijving</string>
   <string name="hint_what">Afspraaknaam</string>
   <string name="hint_where">Locatie</string>
-  <string name="holiday_label">Chinees festival</string>
   <string name="huangli_bad_type">Vermijd</string>
   <string name="huangli_good_type">Indien</string>
-  <string name="huangli_label">Chinese kalender</string>
   <string name="jump_date">Overslaan</string>
   <string name="jump_date_full">Spring naar datum</string>
   <string name="label_recent_events">Recente gebeurtenissen</string>
@@ -252,7 +254,6 @@
   <string name="select_synced_calendars_button">"Agenda's om te synchroniseren"</string>
   <string name="select_synced_calendars_title">"Agenda's om te synchroniseren"</string>
   <string name="select_visible_calendars_title">"Agenda's om weer te geven"</string>
-  <string name="setting_online_calendar">Abonneren op kalender</string>
   <string name="setting_wifi_mode">Alleen bij  WiFi kalender sync  </string>
   <string name="show_controls">Bediening weergeven</string>
   <string name="show_day_view">Geef dag weer</string>
@@ -294,6 +295,7 @@
   <string name="widget_select_style">Selecteer een stijl</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Vijf</string>
+  <string name="xiaomi_calendar_display_name">Xiaomi kalender</string>
   <string name="xingxiu">Sterren</string>
   <string name="yearly">Jaarlijks (op %s)</string>
   <string name="yearly_plain">Jaarlijks</string>

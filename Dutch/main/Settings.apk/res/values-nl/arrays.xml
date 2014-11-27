@@ -65,13 +65,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scannen...</item>
-        <item>Verbinding maken...</item>
-        <item>Verifiëren...</item>
+        <item>Scannen…</item>
+        <item>Verbinding maken…</item>
+        <item>Verifiëren…</item>
         <item>IP-adres ophalen…</item>
         <item>Verbonden</item>
         <item>Opgeschort</item>
-        <item>Verbinding verbreken...</item>
+        <item>Verbinding verbreken…</item>
         <item>Verbinding verbroken</item>
         <item>Mislukt</item>
         <item>Geblokkeerd</item>
@@ -79,8 +79,8 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scannen...</item>
-        <item>Verbinding maken met %1$s...</item>
+        <item>Scannen…</item>
+        <item>Verbinding maken met %1$s…</item>
         <item>Verifiëren met %1$s…</item>
         <item>IP-adres ophalen van %1$s…</item>
         <item>Verbonden met %1$s</item>
@@ -124,7 +124,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Altijd</item>
         <item>Alleen indien aangesloten</item>
-        <item>Nooit (verhoogt het gegevensgebruik)</item>
+        <item>Nooit(verhoogt het gegevensgebruik)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Altijd</item>
@@ -196,7 +196,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Intern geheugen</item>
-        <item>Verwisselbare SD-kaart</item>
+        <item>Verwisselbare SD kaart</item>
         <item>Het systeem laten bepalen</item>
     </string-array>
     <string-array name="app_ops_categories">
@@ -349,9 +349,9 @@
         <item>Altijd controleren</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCP-controle nooit gebruiken</item>
-        <item>HDCP-controle alleen voor DRM-inhoud gebruiken</item>
-        <item>HDCP-controle altijd gebruiken</item>
+        <item>HDCP controle nooit gebruiken</item>
+        <item>HDCP controle alleen voor DRM inhoud gebruiken</item>
+        <item>HDCP controle altijd gebruiken</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
@@ -412,17 +412,17 @@
         <item>Maximaal 4 processen</item>
     </string-array>
     <string-array name="vpn_types_long">
-        <item>PPTP-VPN</item>
-        <item>L2TP/IPSec-VPN met van tevoren gedeelde sleutels</item>
-        <item>L2TP/IPSec-VPN met certificaten</item>
-        <item>IPSec VPN-met van tevoren gedeelde sleutels en Xauth-authenticatie</item>
-        <item>IPSec-VPN met certificaten en Xauth-authenticatie</item>
-        <item>IPSec-VPN met certificaten en hybride authenticatie</item>
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN met van tevoren gedeelde sleutels</item>
+        <item>L2TP/IPSec VPN met certificaten</item>
+        <item>IPSec VPN met van tevoren gedeelde sleutels en Xauth authenticatie</item>
+        <item>IPSec VPN met certificaten en Xauth authenticatie</item>
+        <item>IPSec VPN met certificaten en hybride authenticatie</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Verbinding verbroken</item>
-        <item>Initialiseren...</item>
-        <item>Verbinding maken...</item>
+        <item>Initialiseren…</item>
+        <item>Verbinding maken…</item>
         <item>Verbonden</item>
         <item>Time out</item>
         <item>Mislukt</item>
