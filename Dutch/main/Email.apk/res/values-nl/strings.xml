@@ -196,6 +196,9 @@
   <string name="add_file_attachment">Bestand bijvoegen</string>
   <string name="add_label">Map toevoegen</string>
   <string name="add_photo_attachment">Foto bijvoegen</string>
+  <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
+  <string name="add_pre_message_attachments_no">No</string>
+  <string name="add_pre_message_attachments_yes">Add</string>
   <string name="add_star">Ster toevoegen</string>
   <string name="add_video_attachment">Video bijvoegen</string>
   <string name="address_display_format">%1$s %2$s</string>
@@ -254,6 +257,7 @@
   <string name="bottom_bar_more_delete">Verwijderen</string>
   <string name="bottom_bar_more_quickreply">Snel antwoorden</string>
   <string name="bottom_bar_more_unread">Markeer als ongelezen</string>
+  <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
@@ -491,6 +495,8 @@
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Postvak IN</string>
   <string name="info">Info</string>
+  <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
+  <string name="inline_picture_download_complete">inline picture download complete</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
   <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
   <string name="kilobytes">%s kB</string>
@@ -616,6 +622,7 @@ Cc: %4$s
   <string name="new_incoming_messages_one">Nieuw bericht van %s. Weergeven.</string>
   <string name="new_messages">%1$d nieuwe berichten</string>
   <string name="next_action">Volgende</string>
+  <string name="next_not_prompt">"Don't prompt"</string>
   <string name="no">Nee</string>
   <string name="no_address_email">noodadresemail@123.com</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
