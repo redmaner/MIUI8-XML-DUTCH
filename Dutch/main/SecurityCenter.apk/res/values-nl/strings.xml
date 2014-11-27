@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMS_and_MMS">SMS en MMS</string>
   <string name="Settings_title_anti_spam">Antispam instelingen</string>
   <string name="Settings_title_anti_virus">Antivirus instelingen</string>
   <string name="Settings_title_garbage_cleanup">Prullenbak opruim instellingen</string>
@@ -114,11 +115,12 @@
   <string name="cache_title_empty_folder">Leeg map (%d)</string>
   <string name="cache_title_empty_folder2">Map legen</string>
   <string name="cache_title_system_cache">Systeem cache</string>
+  <string name="call_and_contact">Gesprekken en Contacten</string>
   <string name="cancel">Annuleren</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Annuleren</string>
   <string name="cta_checkbox_title">Niet meer weergeven</string>
-  <string name="cta_dialog_msg">Security Center kan een internet verbinding nodig hebben om te updaten.</string>
+  <string name="cta_dialog_msg">Beveiliging Center kan een internet verbinding nodig hebben om te updaten.</string>
   <string name="cta_dialog_title">Termen en Condities</string>
   <string name="cta_settings">Toestaan internet verbinding</string>
   <string name="deepclean_cache_header_left">Cache bestanden: %d</string>
@@ -252,6 +254,7 @@
   <string name="hints_virus_lib_update_default_summary">Laatste: onbekend</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Deze app is een groot risico voor de veiligheid van uw telefoon.</string>
+  <string name="info_and_call">Gesprekken en berichten</string>
   <string name="item_app_permission">App toestemmingen</string>
   <string name="item_dev_mode">Ontwikkelaars opties</string>
   <string name="item_garbage_size_1000m">1GB</string>
@@ -278,9 +281,9 @@
   <string name="last_checked_date2">Meest recente scan was %d dagen geleden</string>
   <string name="last_checked_default">Meest recente scan was %s dagen geleden</string>
   <string name="legal_workday">Vakantie</string>
-  <string name="legal_workday_invalidate">Moaa-Vrij (vakantie info verlopen)</string>
+  <string name="legal_workday_invalidate">Maa-Vrij(vakantie info verlopen)</string>
   <string name="legal_workday_invalidate_message">Tik op om feestdagen info te updaten.</string>
-  <string name="legal_workday_message">(Vakanties overslaan</string>
+  <string name="legal_workday_message">(Vakanties overslaan)</string>
   <string name="manual_handle_title">EXTRA OPTIES</string>
   <string name="manual_item_white_list_summary">Voorkom dat geselecteerde apps worden geoptimaliseerd</string>
   <string name="manual_item_white_list_title">Uitzonderingen</string>
@@ -304,7 +307,7 @@
   <string name="menu_item_shortcut_title">Snelkoppelingen beheren</string>
   <string name="menu_item_uninstall">Verwijderen</string>
   <string name="menu_item_virus_cloud_scan_summary">Upload app namen en details en scan met behulp van online virusdefinities</string>
-  <string name="menu_item_virus_cloud_scan_title">Gbruik online virus definities</string>
+  <string name="menu_item_virus_cloud_scan_title">Gebruik online virus definities</string>
   <string name="menu_item_virus_install_monitor_summary">Controleer apps op virussen voor het installeren</string>
   <string name="menu_item_virus_install_monitor_title">Installeer monitor</string>
   <string name="menu_item_virus_lib_auto_update_summary">Laatst geüpdate: %s</string>
@@ -349,6 +352,8 @@
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps zullen uw toestemming niet vragen voor het lezen van contacten, bekijken van bellijst, systeeminstellingen wijzigen, of de toegang tot de camera en andere hulpmiddelen. U kunt deze functie inschakelen in Toestemmings instellingen.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Toestemmings manager</string>
   <string name="permission_send_sms_descx">Apps kan SMS and MMS berichten verzenden</string>
+  <string name="permission_with_SMS_and_MMS">Toestemmingen in verband met SMS en MMS</string>
+  <string name="permission_with_call_and_contact">Toestemmingen in verband met gesprekken, contact info, en gesprekslogs.</string>
   <string name="power_20s_enter_mode">Op %1$ds batterij verwisselen naar %2$s</string>
   <string name="power_apply_toast">Verwisseld naar %s</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -380,7 +385,7 @@
   <string name="power_chooser_check_box_title">Profiel kiezen</string>
   <string name="power_chooser_mine_summary">Profiel toevoegen</string>
   <string name="power_chooser_mine_title">Aangepast</string>
-  <string name="power_chooser_sleep_summary">Schakel alle netwerkfuncties uit (gesprekken, SMS, WiFi en data services) met uitzondering van de wekker</string>
+  <string name="power_chooser_sleep_summary">Schakel alle netwerkfuncties uit(gesprekken, SMS, WiFi en data services) met uitzondering van de wekker</string>
   <string name="power_chooser_sleep_title">Slaapmodus</string>
   <string name="power_chooser_smart_summary">Verwijder processen die op de achtergrond draaien in schermvergrendeling</string>
   <string name="power_chooser_smart_title">Standaard</string>
@@ -454,7 +459,7 @@
   <string name="power_mode_cpu_state_save_desc">Maak batterij leven een hogere prioriteit dan CPU prestaties</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">Mobiele netwerken</string>
-  <string name="power_mode_keep_state">Keep State</string>
+  <string name="power_mode_keep_state">Staus behouden</string>
   <string name="power_mode_my_mode">Mijn profiel</string>
   <string name="power_mode_my_mode_summary">Sla huidige batterij instellingen op</string>
   <string name="power_mode_screen_brightness">Helderheid</string>
@@ -597,7 +602,7 @@
   <string name="summary_flow_notification">Toon uw maandelijkse dataverbruik in de notificatie schaduw</string>
   <string name="summary_flow_purchase_beyond">Je hebt maandelijkse datalimiet van uw provider overschreden met %sMB"</string>
   <string name="summary_flow_purchase_left">Je hebt nog maar  maar %sMB mobiele data over deze maand</string>
-  <string name="summary_flow_verify">Provider dataverbruik de laatste %d  10 dagen niet gesynchroniseerd</string>
+  <string name="summary_flow_verify">Provider dataverbruik de laatste %d  10 dagen niet gesync.</string>
   <string name="summary_garbage_lib">Gebruik de nieuwste definities om spyware, adware en andere ongewenste rommel te verwijderen</string>
   <string name="summary_install_virus">Controleer apps op virussen voor installeren</string>
   <string name="summary_miui_update">Update beschikbaar voor %s.</string>
@@ -620,7 +625,7 @@
   <string name="title_antivirus">Virus scan</string>
   <string name="title_app_update">Updates beschikbaar</string>
   <string name="title_app_update_no">%d apps hebben updates in afwachting</string>
-  <string name="title_app_update_yes">Alle apps up-to-date!</string>
+  <string name="title_app_update_yes">Alle apps up to date!</string>
   <string name="title_cleaner_cloudscan">Gebruik online Cleaner zoekmachine</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
@@ -637,7 +642,7 @@
   <string name="title_install_virus_yes">Installatie monitor aan</string>
   <string name="title_miui_update">Update beschikbaar</string>
   <string name="title_miui_update_no">MIUI update gevonden: %s</string>
-  <string name="title_miui_update_yes">MIUI is up-to-date!</string>
+  <string name="title_miui_update_yes">MIUI is up to date!</string>
   <string name="title_mms_no">Berichten filter uitgeschakeld</string>
   <string name="title_mms_yes">Berichten filter ingeschakeld</string>
   <string name="title_optimizer">Cleaner</string>
@@ -646,7 +651,7 @@
   <string name="title_permission_yes">Toestemmings manager aan</string>
   <string name="title_power_optimizer">Batterij bespaarder</string>
   <string name="title_saving_switch">Data bespaarder</string>
-  <string name="title_show_notification">Notificatie shaduw controls</string>
+  <string name="title_show_notification">Notificatie shaduw controles</string>
   <string name="title_show_notification_no">Niet meer weergeven in de notificatie schaduw</string>
   <string name="title_show_notification_yes">Weergeven in de notificatie schaduw</string>
   <string name="title_telecom_operator">Gebruik boekhouding provider</string>
@@ -675,7 +680,7 @@
   <string name="toast_shortcut_uninstall">Snelkoppeling verwijderd</string>
   <string name="toast_show_notification">Vastgemaakt aan notificatie schaduw</string>
   <string name="toast_uninstall_success">Verwijdering voltooid</string>
-  <string name="toast_virus_cloudscan">Virus scan will use online definitions</string>
+  <string name="toast_virus_cloudscan">Virus scan zal online definities gebruiken</string>
   <string name="toast_virus_in_cloud_scanning">Stoppen met scannen van de cloud mislukt</string>
   <string name="uninstall_confirm_title">Deze app verwijderen</string>
   <string name="usage_type_audio">Audio</string>

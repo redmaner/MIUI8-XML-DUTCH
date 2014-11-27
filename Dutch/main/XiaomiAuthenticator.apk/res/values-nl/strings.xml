@@ -44,10 +44,10 @@
   <string name="enter_key_page_add_button">Toevoegen</string>
   <string name="enter_key_title">Account manueel toevoegen</string>
   <string name="enter_key_too_short">Sleutel waarde is te kort</string>
-  <string name="enter_pin">Voer de verificatie codein als erom gevraagd wordt  tijdens het inloggen bij je Account :</string>
+  <string name="enter_pin">Voer de verificatie code in als erom gevraagd wordt  tijdens het inloggen bij je Account :</string>
   <string name="error_empty_secret">Kan geen leeg geheim opslaan</string>
-  <string name="error_exists">Sorry, die naam is al in gebruik.</string>
-  <string name="error_qr">Kan QR-code niet interpreteren.</string>
+  <string name="error_exists">Die naam is al in gebruik.</string>
+  <string name="error_qr">Kan QR code niet interpreteren.</string>
   <string name="error_title">Fout</string>
   <string name="error_uri">Sleutel niet herkent.</string>
   <string name="forget_password">&lt;u&gt;Wachtwoord vergeten&lt;/u&gt;</string>
@@ -91,7 +91,7 @@
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
   <string name="lockpattern_tutorial_jump_label">Spring</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Patroon wachtwoord vergeten&lt;/u&gt;</string>
-  <string name="login">Log in</string>
+  <string name="login">Inloggen</string>
   <string name="main_preference_screen_title">Instelingen</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>
   <string name="new_pattern_tip">Vul&lt;font color=#fb3500&gt;新&lt;/font&gt;wachtwoord patroon in, minimum vier punten</string>
@@ -117,7 +117,7 @@
   <string name="resetbtn_patternforgotten">Patroon vergeten</string>
   <string name="save_key_message">Sleutel opslaan voor</string>
   <string name="scan_barcode">Scan Mi ID</string>
-  <string name="scan_barcode_info">Plaats en scan een Mi ID  barcode, binnen het kader houden.</string>
+  <string name="scan_barcode_info">Plaats en scan een Mi ID barcode, binnen het kader houden.</string>
   <string name="secret_saved">Geheim opgeslaan</string>
   <string name="security_setting">Veiligheids instellingen</string>
   <string name="settings_menu_item">Instelingen</string>
@@ -128,7 +128,7 @@
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Terms of service</string>
   <string name="timesync_about_feature_preference_title">Over deze functie</string>
-  <string name="timesync_about_feature_screen_details">"Als u op &amp;quot;Sync nu&amp;quot; drukt, Authenticator zal proberen om de interne klok met Google-servers te synchroniseren . Apparaat Datum &amp; Tijds instellingen zullen niet veranderen. &lt;p&gt; Authenticator zal geen persoonlijke of account gegevens doorgeven, wanneer het de interne klok synchroniseerd met de servers van Google. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator genereert 2 stap verificatie codes op basis van 1) de huidige tijd, and 2) een geheim nummer bekend is bij de app en de server. &lt;p&gt; Als Authenticator en de server van mening verschillen over hoe laat het is, mogen de codes die het app genereert niet worden geaccepteerd wanneer je probeert in te loggen. &lt;p&gt; Standaard gebruikt Authenticator Datum van het apparaat  &amp; Tijds Instellingen, zal in de meeste gevallen geldige codes kunnen genereren door  de tijd, datum te contrleren, tijdzone-instellingen zijn  correct geconfigureerd. Echter, wanneer de tijds verschillen optreden, kan het moeilijk zijn om problemen op te lossen (vooral als je het netwerk aangeboden tijd of tijdzones gebruikt)."</string>
+  <string name="timesync_about_feature_screen_details">"Als u op &amp;quot;Sync nu&amp;quot; drukt, Authenticator zal proberen om de interne klok met Google servers te synchroniseren . Apparaat Datum &amp; Tijds instellingen zullen niet veranderen. &lt;p&gt; Authenticator zal geen persoonlijke of account gegevens doorgeven, wanneer het de interne klok synchroniseerd met de servers van Google. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator genereert 2 stap verificatie codes op basis van 1) de huidige tijd, and 2) een geheim nummer bekend is bij de app en de server. &lt;p&gt; Als Authenticator en de server van mening verschillen over hoe laat het is, mogen de codes die het app genereert niet worden geaccepteerd wanneer je probeert in te loggen. &lt;p&gt; Standaard gebruikt Authenticator Datum van het apparaat  &amp; Tijds Instellingen, zal in de meeste gevallen geldige codes kunnen genereren door  de tijd, datum te contrleren, tijdzone-instellingen zijn  correct geconfigureerd. Echter, wanneer de tijds verschillen optreden, kan het moeilijk zijn om problemen op te lossen (vooral als je het netwerk aangeboden tijd of tijdzones gebruikt)."</string>
   <string name="timesync_about_feature_screen_title">Over deze functie</string>
   <string name="timesync_preference_screen_summary">"Sync. Authenticator interne klok met servers"</string>
   <string name="timesync_preference_screen_title">Tijdcorrectie voor codes</string>
@@ -142,9 +142,9 @@
   <string name="timesync_sync_now_time_already_correct_dialog_title">De tijd is al juist</string>
   <string name="timesync_sync_now_time_corrected_dialog_details">"Interne klok Authenticator's is aangepast aan de tijd van deservers. De datum &amp; Tijd instellingen op dit apparaat zijn niet gewijzigd."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Tijd gecorrigeerd</string>
-  <string name="tip1_patternforgotten">Verwijder security token, opnieuw installeren en activeren</string>
-  <string name="tip2_patternforgotten">Klik op de onderstaande knop "Reset Now", verwijder account gegevens, heractiveren</string>
-  <string name="tip_lockpattern">Om de security token te beschermen, maak een patroon, minimuum vier punten verbinden</string>
+  <string name="tip1_patternforgotten">Verwijder Veiligheids token, opnieuw installeren en activeren</string>
+  <string name="tip2_patternforgotten">Klik op de onderstaande knop "Nu Reseten", verwijder account gegevens, heractiveren</string>
+  <string name="tip_lockpattern">Om de Veiligheids token te beschermen, maak een patroon, minimuum vier punten verbinden</string>
   <string name="title_change_lockpattern">Configureer patroon vergrendeling</string>
   <string name="title_createpattern">Instellen patroon</string>
   <string name="title_forgetpattern">Patroon vergeten</string>
