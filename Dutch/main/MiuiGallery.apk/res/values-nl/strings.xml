@@ -18,9 +18,9 @@
   <string name="add_to_cloud_space_full_message">Cloud album is vol</string>
   <string name="add_to_cloud_successfully_message">Toegevoegd aan cloud album</string>
   <string name="add_to_cloud_type_not_support_message">Dit bestandstype wordt niet ondersteund</string>
-   <string name="add_to_cloud_unfinished_message_with_count">%1$s items zijn niet toegevoegd aan de cloud</string>
+  <string name="add_to_cloud_unfinished_message_with_count">%1$s items zijn niet toegevoegd aan de cloud</string>
   <string name="add_to_cloud_unknow_reasons">Onbekende fout</string>
-   <string name="add_to_secret_failed_message_with_count">"%2$s items kunnen niet worden toegevoegd aan geheime album: %1$s."</string>
+  <string name="add_to_secret_failed_message_with_count">"%2$s items kunnen niet worden toegevoegd aan geheime album: %1$s."</string>
   <string name="add_to_secret_successfully_message">Toegevoegd aan geheime album</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s items zijn niet toegevoegd aan geheime album</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
@@ -286,6 +286,7 @@
   <string name="internal_miui_capture_screen_folder_display_name">Interne screenshots</string>
   <string name="internal_sd_card">Interne opslag</string>
   <string name="internal_sd_card_hm">Telefoon opslag</string>
+  <string name="internal_sdcard_root">Interne SD kaart root map</string>
   <string name="invalid_invition_url">Foutieve uitnodiging URL</string>
   <string name="invalid_recipient_message">De namen van de ontvangers zijn ongeldig</string>
   <string name="iso">ISO</string>
@@ -380,7 +381,7 @@
   <string name="operation_too_often">De handeling wordt te vaak uitgevoerd, probeer het opnieuw na 1 minuut.</string>
   <string name="operation_unset_as_screensaver">Annuleer screensaver</string>
   <string name="orientation">Staand</string>
-   <string name="original">Origineel</string>
+  <string name="original">Origineel</string>
   <string name="original_scale">Originele grootte</string>
   <string name="other_category">Extra instellingen</string>
   <string name="owner_album_subtitle">Gedeeld met %1$s leden</string>
@@ -410,7 +411,7 @@
   <string name="picker_no_items_selected">Geen items geselecteerd</string>
   <string name="picker_select_album_title_empty">Selecteer een album</string>
   <string name="picker_tab_photo">Foto</string>
-    <string name="pocket_camera_picture">Pocket Camera pictures</string>
+  <string name="pocket_camera_picture">Pocket Camera pictures</string>
   <string name="pocket_camera_video">Pocket Camera videos</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
@@ -431,11 +432,11 @@
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tik om rode ogen te verwijderen</string>
   <string name="refocus_data_downloading">Heroriëntatie downloaden…</string>
-  <string name="remove_hidden_album">Weergeven</string>
-  <string name="remove_recent_album">Verwijderen uit favorieten</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s items kunnen niet verwijderd worden uit geheime album: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Verwijderd uit geheime album</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s items niet verwijderd uit geheime album</string>
+  <string name="remove_hidden_album">Weergeven</string>
+  <string name="remove_recent_album">Verwijderen uit favorieten</string>
   <string name="rename_failed">Naam wijzigen mislukte</string>
   <string name="rename_failed_duplicated_name">Een bestand met deze naam bestaat reeds.</string>
   <string name="renren_image">RenRen</string>
