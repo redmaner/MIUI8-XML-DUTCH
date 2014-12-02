@@ -302,13 +302,13 @@
         <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
+        <item>720x480 mdpi(veilig)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
+        <item>1280x720 tvdpi(veilig)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
+        <item>1920x1080 xhdpi(veilig)</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
@@ -328,9 +328,9 @@
         <item>error</item>
     </string-array>
     <string-array name="show_non_rect_clip_values">
-        <item>Verbergen</item>
-        <item>Regio</item>
-        <item>Markeren</item>
+        <item>hide</item>
+        <item>region</item>
+        <item>highlight</item>
     </string-array>
     <string-array name="track_frame_time_values">
         <item>false</item>
@@ -361,11 +361,11 @@
         <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
-        <item>Ascended being</item>
-        <item>Human</item>
-        <item>Neanderthal</item>
-        <item>Chimp</item>
-        <item>Monkey</item>
+        <item>Geascendeerde wezen</item>
+        <item>Menselijk</item>
+        <item>Neanderthaler</item>
+        <item>Chimpansee</item>
+        <item>Aap</item>
     </string-array>
     <string-array name="user_content_ratings_values">
         <item>5</item>
@@ -385,7 +385,7 @@
         <item>@string/input_method_selector_always_hide_value</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Strerk</item>
+        <item>Sterk</item>
         <item>Medium</item>
         <item>licht</item>
     </string-array>
@@ -445,12 +445,12 @@
         <item>9000</item>
     </string-array>
     <string-array name="led_color_values">
-        <item>Blauw</item>
-        <item>Rood</item>
-        <item>Geel</item>
-        <item>Groen</item>
-        <item>Cyaan</item>
-        <item>Wit</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
         <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="mi1_led_color_values">
@@ -599,7 +599,7 @@
         <item>@string/dolby_roomsize_normal</item>
         <item>@string/dolby_roomsize_high</item>
     </string-array>
-    <string-array name="dolby_roomsize_rank_valus">
+    <string-array name="dolby_roomsize_rank_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -643,7 +643,7 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>2.Follow the onscreen instructions</item>
+        <item>2.Volg de instructies op het scherm</item>
         <item></item>
         <item></item>
         <item></item>
@@ -826,7 +826,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="network_speed_slow_summary">
         <item>Netwerk is traag als gevolg van te veel verkeer</item>
         <item>Netwerk is traag als gevolg van zwakke signaalsterkte</item>
-        <item>Verplatsen…</item>
+        <item>Verplaatsen…</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Interne opslag</item>
@@ -851,10 +851,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>200</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Off</item>
-        <item>Low</item>
-        <item>Middle</item>
-        <item>High</item>
+        <item>Uit</item>
+        <item>Laag</item>
+        <item>Gemiddeld</item>
+        <item>Hoog</item>
     </string-array>
     <string-array name="whetstone_level_values">
         <item>0</item>
