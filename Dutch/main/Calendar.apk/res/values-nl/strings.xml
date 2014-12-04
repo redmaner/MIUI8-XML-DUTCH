@@ -16,8 +16,8 @@
   <string name="accessibility_remove_reminder">Herinnering verwijderen</string>
   <string name="accessibility_repeats">Herhaling</string>
   <string name="accessibility_sync_cal">Agenda synchroniseren</string>
-  <string name="account_and_calendar">Account en kalender</string>
-  <string name="account_and_calendar_to_display">Account en kalender om wer te geven</string>
+  <string name="account_and_calendar">Accounts</string>
+  <string name="account_and_calendar_to_display">Kies kalenders om weer te geven</string>
   <string name="accounts">Accounts en synchronisatie</string>
   <string name="acct_not_synced">"Dit account wordt niet gesynchroniseerd, dus uw agenda's zijn mogelijk niet bijgewerkt."</string>
   <string name="acessibility_cal_notification">Agenda melding</string>
@@ -40,7 +40,7 @@
   <string name="anniversary_term">Jubileum</string>
   <string name="app_label">Agenda</string>
   <string name="attendees_label">Gasten</string>
-  <string name="birthday_calendar_display_name">Verjaardags herinnering</string>
+  <string name="birthday_calendar_display_name">Verjaardags herinneringen</string>
   <string name="birthday_event_description">"Vandaag is %1$s's jarig"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
@@ -59,26 +59,26 @@
   <string name="calendar_network_error">Netwerk fout</string>
   <string name="calendar_refresh">Vernieuwen</string>
   <string name="calendar_server_error">Server fout</string>
-  <string name="can_not_modify_allday_event">Dagelijks gebeurtenis kan niet worden gewijzigd</string>
-  <string name="can_not_modify_event">Kunnen niet worden gewijzigd</string>
-  <string name="can_not_modify_repeating_acrossing_days_event">Herhaalde en overlapende dag evenementen kunnen niet worden gewijzigd</string>
+  <string name="can_not_modify_allday_event">Kan de dag evenementen niet wijzigen</string>
+  <string name="can_not_modify_event">Kan evenement niet wijzigen</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">Kan meerdaags evenementen niet wijzigen</string>
   <string name="change_response_title">Reactie wijzigen</string>
   <string name="chinese_leap">Uitvoeren</string>
   <string name="chongsha">Ghosts</string>
   <string name="copy_db">Database verzenden</string>
   <string name="copy_email">Emailadres kopiëren</string>
   <string name="copy_number">Telefoonnummer kopiëren</string>
-  <string name="create_an_account_desc">"Agenda werkt beter met een Google-account.
+  <string name="create_an_account_desc">"Agenda werkt beter met een Google account.
 
 • Toegang via elke webbrowser
 • Maak beveiligde backups van uw afspraken"</string>
   <string name="creating_event">Afspraak gemaakt.</string>
   <string name="creating_event_with_guest">Uitnodigingen worden verzonden.</string>
-  <string name="cta_notice_checkbox">Niet meer tonen</string>
-  <string name="cta_notice_message">De functie verjaardagsherinneringen heeft toegang nodig tot uw contacten om normaal te functioneren.</string>
+  <string name="cta_notice_checkbox">Herinnerings voorkeur</string>
+  <string name="cta_notice_message">Kalender moet uw contact info lezen om de verjaardagsherinneringen in te stellen.</string>
   <string name="cta_notice_ok">Toestaan</string>
-  <string name="cta_notice_title">Toegang tot contacten</string>
-  <string name="cta_notify_settings">Direct bij het openen van de contacten</string>
+  <string name="cta_notice_title">Toestemmings aanvraag</string>
+  <string name="cta_notify_settings">Eerst vragen</string>
   <string name="custom">Aangepast(kan niet op de tablet worden aangepast)</string>
   <string name="daily">Dagelijks</string>
   <string name="data_notice_change_settings">Instellingen wijzigen</string>
@@ -107,7 +107,7 @@
   <string name="edit_event_confirm_message">Verwerp wijzigingen naar evenement?</string>
   <string name="edit_event_from_label">Van</string>
   <string name="edit_event_label">Details</string>
-  <string name="edit_event_reminder_off_toast">Standaard herinnering modus is niets</string>
+  <string name="edit_event_reminder_off_toast">Herinneringen uitgescakeld</string>
   <string name="edit_event_show_all">Alles weergeven</string>
   <string name="edit_event_to_label">Tot</string>
   <string name="edit_label">Bewerken</string>
@@ -137,7 +137,7 @@
   <string name="event_lunar_month">Maand</string>
   <string name="event_show_more">Meer opties</string>
   <string name="event_view">Afspraak weergeven</string>
-  <string name="every_weekday">Elke werkdag(ma - vr)</string>
+  <string name="every_weekday">Werkdagen(ma - vr)</string>
   <string name="exist_calendar">Geabonneerd</string>
   <string name="gadget_no_events">Geen lopende agenda afspraken</string>
   <string name="gadget_title">Agenda</string>
@@ -153,8 +153,8 @@
   <string name="jump_date_full">Spring naar datum</string>
   <string name="label_recent_events">Recente gebeurtenissen</string>
   <string name="loading">Laden…</string>
-  <string name="local_calendar_display_name">Lokale agenda</string>
-  <string name="local_owner_account_name">Lokaal account</string>
+  <string name="local_calendar_display_name">Lokale kalender</string>
+  <string name="local_owner_account_name">Opgeslagen in dit apparaat</string>
   <string name="lunar_date">Lunar Datum</string>
   <string name="menu_about_preferences">Over Agenda</string>
   <string name="menu_general_preferences">Algemene instellingen</string>
@@ -180,7 +180,7 @@
   <string name="month_medium_september">Sep</string>
   <string name="month_view">Maand</string>
   <string name="monthly">Maandelijks</string>
-  <string name="monthly_on_day">Maandelijks(op dag %s)</string>
+  <string name="monthly_on_day">Maandelijks(op datum %s)</string>
   <string name="monthly_on_day_count">Maandelijks (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Inleiding</string>
@@ -200,9 +200,9 @@
   <string name="pengzu">PANG</string>
   <string name="prefDialogTitle_vibrateWhen">Trillen</string>
   <string name="pref_error_no_ringtone_select">Geen geselecteerd</string>
-  <string name="pref_title_alarm_remind">Alarm herinnering</string>
-  <string name="pref_title_alert_remind">Popup herinnering</string>
-  <string name="pref_title_no_remind">Geen herinnering</string>
+  <string name="pref_title_alarm_remind">Alarm herinneringen</string>
+  <string name="pref_title_alert_remind">Popup herinneringen</string>
+  <string name="pref_title_no_remind">Geen herinneringen</string>
   <string name="pref_title_notification_remind">Herinnerings notificatie</string>
   <string name="preferences_about_title">Over</string>
   <string name="preferences_alerts_popup_title">Popup melding</string>
@@ -211,7 +211,7 @@
   <string name="preferences_alerts_vibrateWhen_title">Trillen</string>
   <string name="preferences_build_version">Bouw versie</string>
   <string name="preferences_category_account_title">Account</string>
-  <string name="preferences_category_general_title">Algemeen</string>
+  <string name="preferences_category_general_title">Algemene instellingen</string>
   <string name="preferences_clear_search_history_summary">Alle uitgevoerde zoekopdrachten verwijderen</string>
   <string name="preferences_clear_search_history_title">Zoekgeschiedenis wissen</string>
   <string name="preferences_default_reminder_default">10</string>
@@ -290,12 +290,12 @@
   <string name="what_label">Wat</string>
   <string name="when_label">Wanneer</string>
   <string name="where_label">Waar</string>
-  <string name="widget_events">De volgende gebeurtenissen</string>
-  <string name="widget_no_events">Vervolgens, geen agenda</string>
-  <string name="widget_select_style">Selecteer een stijl</string>
+  <string name="widget_events">Volgend evenement</string>
+  <string name="widget_no_events">Geen evenementen</string>
+  <string name="widget_select_style">Kies een stijl</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Vijf</string>
-  <string name="xiaomi_calendar_display_name">Xiaomi kalender</string>
+  <string name="xiaomi_calendar_display_name">Kalender</string>
   <string name="xingxiu">Sterren</string>
   <string name="yearly">Jaarlijks (op %s)</string>
   <string name="yearly_plain">Jaarlijks</string>

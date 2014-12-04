@@ -190,7 +190,7 @@
   <string name="pref_month_first_day">Eerste dag van de maand</string>
   <string name="pref_more_traffic_settings">Extra instellingen</string>
   <string name="pref_new_installed_preconfig_title">Standaard instellingen voor nieuwe apps</string>
-  <string name="pref_open_adjust_traffic">"Sync. uw dataverbruik stats met uw provider's servers"</string>
+  <string name="pref_open_adjust_traffic">Werk uw dataverbruik saldo bij met statistieken van uw provider</string>
   <string name="pref_package_traffic_leisure">%1$s | Daluren: %2$s</string>
   <string name="pref_package_traffic_normal">Piekuren: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Extra: %2$s</string>
@@ -220,6 +220,11 @@
   <string name="pref_warning_values">Dataverbruik waarschuwings niveau</string>
   <string name="privacy_declare_dialog_message">"Door het gebruik van deze dienst, gaat u akkoord met Opera's &lt;a href=http://max.oupeng.com/eula.html&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
+  <string name="privacy_prompt_purchase_history_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om uw mobiele data aankoopgeschiedenis te krijgen.</string>
+  <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en carrier details zullen om uw dataverbruik informatie bij te werken worden geüpload naar de servers van Xiaomi.</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om SMSquery templates te updaten en om te controleren of deze functie beschikbaar is in uw regio."</string>
+  <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om meer info over data inkoop opties te krijgen.</string>
+  <string name="privacy_prompt_upload">Privacy notification</string>
   <string name="read_number">86 artikels</string>
   <string name="read_unit">" artikels"</string>
   <string name="right_precent">100%</string>
@@ -236,12 +241,13 @@
   <string name="system_app">Systeem Apps</string>
   <string name="tc_sms_report_direction">Aanvraag code(opdracht in SMS aan provider)</string>
   <string name="tc_sms_report_do_report">Verzenden</string>
+  <string name="tc_sms_report_get_default">Er worden geen kosten voor SMS berichten gebruikt om uw dataverbruik balans te krijgen van uw provider.</string>
   <string name="tc_sms_report_get_sms">Ontvang SMS</string>
   <string name="tc_sms_report_get_sms2">Ontvang SMS</string>
   <string name="tc_sms_report_get_sms_again">SMS vernieuwen</string>
   <string name="tc_sms_report_get_sms_failure">Ophalen Dataverbruik SMS mislukt </string>
   <string name="tc_sms_report_get_sms_successs">Dataverbruik SMS bijgewerkt</string>
-  <string name="tc_sms_report_get_sms_timeout">Verkrijgen data SMS mislukt: gepauzeerd</string>
+  <string name="tc_sms_report_get_sms_timeout">Aanvraag timed out</string>
   <string name="tc_sms_report_get_success">Ontvangen sms dataverbruiks rapport van provider. Zorg ervoor dat het nauwkeurig is en stuur terug.</string>
   <string name="tc_sms_report_get_success_notify_body">Zorg ervoor dat het rapport correct is en verzend aan MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Ontvangen SMS dataverbruiks rapport </string>

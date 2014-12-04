@@ -44,8 +44,8 @@
   <string name="alert_init_merged_message">"Vanaf heden zullen de foto's op uw apparaat en de foto's die u in de Mi Cloud heeft opgeslagen gezamenlijk getoond worden."</string>
   <string name="alert_init_merged_title">"Al uw foto's. Eindelijk samen."</string>
   <string name="alert_message_open_sync">U moet eerst synchronisatie activeren.</string>
-  <string name="alert_secret_album_message">U kunt de cloud album scrollen in geheime album.</string>
-  <string name="alert_secret_album_title">Geheime album</string>
+  <string name="alert_secret_album_message">Veeg omhoog op de bodem van uw albums om verborgen albums te bekijken.</string>
+  <string name="alert_secret_album_title">Verborgen album</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="aperture">Diafragma</string>
   <string name="app_name">Galerij</string>
@@ -56,7 +56,7 @@
   <string name="auto_create_recent_album_confirm">De Galerij ruimt de favoriete album data op. Handmatig als favoriet gemarkeerde albums zullen niet geraakt worden.</string>
   <string name="auto_create_recent_album_over_ten_times">Een album wordt als favoriet gemarkeerd wanneer u het vaker dan 10 maal opent.</string>
   <string name="auto_upload_album_comfirm_to_share">Het is een album die automatisch worden geüpload, Weet u zeker u het wilt delen?</string>
-  <string name="auto_upload_tip">Album met dezelfde naam zal worden gemaakt nadat het is ingeschakeld. Bestaande album(inclusief aandeel album die je deelt met anderen) met dezelfde naam zullen worden samengevoegd.</string>
+  <string name="auto_upload_tip">Als album met dezelfde naam al bestaat in uw cloud, zullen de albums worden samengevoegd.</string>
   <string name="auto_upload_title">Automatisch uploaden</string>
   <string name="autofix">Auto fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -106,8 +106,6 @@
   <string name="cloud_media_set_set">Cloud albums</string>
   <string name="cloud_owner_album_share_guide">U kunt dit album delen met vrienden.</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
-  <string name="cloud_share_guide_message">Deel dit album met vrienden. Bekijk en update uw album overal.</string>
-  <string name="cloud_share_guide_title">Delen is gemakkelijk</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">Alle</string>
   <string name="cloudfolder_already_exists">Er bestaat reeds een map met deze naam.</string>
@@ -194,7 +192,7 @@
   <string name="error_invalid_link">Foutieve link</string>
   <string name="error_not_acceptable">Server fout: Sync. uitgeschakeld.</string>
   <string name="error_repeat_apply">Dit album is al gedeeld.</string>
-  <string name="error_share_not_support">Deelnemen aan gedeelde album wordt tijdelijk niet ondersteund</string>
+  <string name="error_share_not_support">Deze functie wordt nog niet ondersteund</string>
   <string name="error_share_with_creator">U bent reeds lid van dit album</string>
   <string name="error_should_not_select_image">Bestandsformaat is niet ondersteund</string>
   <string name="error_should_not_select_video">Bestandsformaat is niet ondersteund</string>
@@ -537,7 +535,7 @@
   <string name="sync_in_progress_message">Sync. is bezig…</string>
   <string name="sync_only_in_wifi">Uploaden alleen via Wifi</string>
   <string name="sync_only_in_wifi_alert">Het uitschakelen van deze optie kan uw mobiele data verbruik verhogen.</string>
-  <string name="sync_only_in_wifi_summary">De galerij gebruikt uw mobiele netwerk om afbeeldingen te uploaden wanneer deze optie uit staat.</string>
+  <string name="sync_only_in_wifi_summary">Nooit mobiele gegevensverbinding gebruiken om foto's te uploaden.</string>
   <string name="system_album">Systeem album</string>
   <string name="tab_all_text">Stel beide in</string>
   <string name="tab_lockscreen_text">Vergrendelscherm</string>

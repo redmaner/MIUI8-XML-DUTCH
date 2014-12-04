@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Snooze is ingesteld op %d minuten.</item>
-        <item quantity="one">Snooze is ingesteld op 1 minuut.</item>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
     </plurals>
-    <plurals name="snooze_duration">
-        <item quantity="other">%d minuten</item>
-        <item quantity="one">1 minuut</item>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d seconden</item>
+        <item quantity="one">%1$d seconde</item>
     </plurals>
-    <plurals name="snooze_picker_label">
-        <item quantity="other">minuten</item>
-        <item quantity="one">minuut</item>
-    </plurals>
-    <plurals name="Nhours_description">
-        <item quantity="other">%d uur</item>
-        <item quantity="one">1 uur</item>
-    </plurals>
-    <plurals name="Nminutes_description">
-        <item quantity="other">%d minuten</item>
-        <item quantity="one">1 minuut</item>
-    </plurals>
-    <plurals name="Nseconds_description">
-        <item quantity="other">%d seconden</item>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d seconden</item>
         <item quantity="one">1 seconde</item>
     </plurals>
-    <plurals name="timers_num">
-        <item quantity="other">%d timers</item>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minuten</item>
         <item quantity="one">1 minuut</item>
-    </plurals>
-    <plurals name="alarm_delete_confirmation">
-        <item quantity="other">Wilt u de geselecteerde alarmen verwijderen?</item>
-        <item quantity="one">Wilt u het geselecteerde alarm verwijderen?</item>
     </plurals>
 </resources>
