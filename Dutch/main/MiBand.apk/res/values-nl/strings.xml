@@ -6,7 +6,7 @@
   <string name="action_local_ota">SD kaart update</string>
   <string name="action_pop_about">Over</string>
   <string name="action_pop_lab">Fitness Center</string>
-  <string name="action_pop_my_bracelet">Instellingen Mi Band</string>
+  <string name="action_pop_my_bracelet">Mijn apparaten</string>
   <string name="action_pop_person_info">Mijn Profiel</string>
   <string name="action_pop_smart_alarms">Alarm</string>
   <string name="action_pop_unlock_screen">Scherm deblokkeren</string>
@@ -37,6 +37,9 @@
   <string name="bin_weixin_device_not_connect">Mi Band niet aangesloten.</string>
   <string name="bind_bracelet">Mi Band gevonden</string>
   <string name="bind_bracelet_ok">Koppeling gelukt.</string>
+  <string name="bind_devices">Bind apparaten</string>
+  <string name="bind_mi_band">Bind Mi Band</string>
+  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;View Mi Bind Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_new_mili">Koppelen met nieuwe Mi Band</string>
   <string name="bind_qq">Toevoegen QQ</string>
   <string name="bind_qq_health">Sync. met QQ Gezondheid</string>
@@ -59,7 +62,8 @@
   <string name="body">Neck</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
-  <string name="bracelet_info_fw_version">"Firmware: %1$s Overeenkomst: %2$s"</string>
+  <string name="bracelet_info_fw_version">"Firmware: %1$s 
+  Servicevoorwaarden: %2$s"</string>
   <string name="bracelet_info_mac_address">"Naam: %1$s Adres: %2$s"</string>
   <string name="bracelet_login_info">Mi Cloud zal professionele suggesties aanbieden op basis van uw activiteiten en slaap prestaties.</string>
   <string name="bracelet_login_info_2">Inloggen als je akkoord bent met </string>
@@ -200,7 +204,7 @@
   <string name="help_info_0">Zorg ervoor dat uw telefoon Bluetooth 4.0 of hoger ondersteunt. U kan dit vinden in uw telefoon specs.</string>
   <string name="help_info_1">Alleen Android 4.4 en hoger ondersteunt de Mi Band.</string>
   <string name="help_info_2">Zorg ervoor dat u de MI Band correct oplaad. U zal groene lampjes zien knipperen wanneer hij opladen is.</string>
-  <string name="help_info_3">Als uw Mi Band gekoppeld is  aan een bestaande telefoon of als de Mi Band is niet dicht bij de telefoon is, schakel hem uit</string>
+  <string name="help_info_3">Als uw Mi Band gekoppeld is aan een bestaande telefoon of als de Mi Band is niet dicht bij de telefoon is, schakel hem uit</string>
   <string name="help_title_0">Ondersteunt je telefoon Bluetooth 4.0?</string>
   <string name="help_title_1">Voldoet je telefoon an de syteem vereisten?</string>
   <string name="help_title_2">Is de Mi Band volledig opgeladen?</string>
@@ -222,6 +226,7 @@
   <string name="kg">kg</string>
   <string name="kilogram">kg</string>
   <string name="km">km</string>
+  <string name="lab_factory_cancel_deauthorize">Verbinding verbreken</string>
   <string name="lab_factory_cheat_toast">Ons niet misleiden~</string>
   <string name="lab_factory_disconnected_reminder">Melding bij Bluetooth verbinding</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Verbind je MI band en probeer het opnieuw.</string>
@@ -231,6 +236,7 @@
   <string name="lab_factory_exercise_state_stopped">Stop</string>
   <string name="lab_factory_exit_press_again">Raak nogmaals om af te sluiten.</string>
   <string name="lab_factory_internal_test">Testen sportmodus</string>
+  <string name="lab_factory_item_group_open">Openen</string>
   <string name="lab_factory_item_group_others">Overige</string>
   <string name="lab_factory_item_group_social">Sociale</string>
   <string name="lab_factory_item_group_sport">Sportieve</string>
@@ -269,7 +275,7 @@
   <string name="lab_factory_sport_pb_desc">Persoonlijk record: %s</string>
   <string name="lab_factory_sport_pb_ropeskipping">Touwtje springen</string>
   <string name="lab_factory_sport_pb_situp">Sit ups</string>
-  <string name="lab_factory_sport_result_cost_cal">%d verbrande kcal</string>
+  <string name="lab_factory_sport_result_cost_cal">%d verbrande cal</string>
   <string name="lab_factory_sport_result_dot">","</string>
   <string name="lab_factory_sport_sec">%d s</string>
   <string name="lab_factory_sport_share_info_accumulated_time">Totaal</string>
@@ -301,7 +307,6 @@
   <string name="lab_factory_sport_vote_result_desc">Bedankt voor je keuze</string>
   <string name="lab_factory_sport_vote_result_sub_desc">U koos voor</string>
   <string name="lab_factory_sport_vote_sub_desc">Binnenkort</string>
-  <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130&gt;%1$s&lt;/font&gt;</string>
   <string name="lab_factory_title">Fitness Center</string>
   <string name="left_hand">Links</string>
   <string name="light_color">LED licht kleur</string>
@@ -355,7 +360,7 @@
   <string name="no_wear_bracelet">Je had de vorige nacht Mi Band niet aan.</string>
   <string name="no_wear_user_modified">Mijn slaap details manueel invoeren</string>
   <string name="noti_bracelet_low_battery_content_high">Batterij minder dan 10%.</string>
-  <string name="noti_bracelet_low_battery_content_low">Batterij bijna leeg, Opladen nodig.</string>
+  <string name="noti_bracelet_low_battery_content_low">Opladen nodig.</string>
   <string name="noti_bracelet_low_battery_content_mid">Opladen nodig.</string>
   <string name="noti_bracelet_low_battery_title">Batterij laag</string>
   <string name="noti_bracelet_low_battery_title_low">Mi Band uitgeschakeld</string>
@@ -379,6 +384,7 @@
   <string name="person_info_goal_info">Volgens studies, raden wij u aan om ten minste 40 minuten per dag te trainen. Dat is ongeveer 8000 stappen</string>
   <string name="person_info_goal_info_young">Volgens studies, raden wij u aan om ten minste 60 minuten per dag te trainen. Dat is ongeveer 12000 stappen</string>
   <string name="personal_info">Profiel</string>
+  <string name="please_input_age">Leeftijd</string>
   <string name="please_input_birthday">Verjaardag</string>
   <string name="please_input_gender">Kies geslacht</string>
   <string name="please_knock_bracelet">Tik op de Mi Band om te koppelen</string>
@@ -390,6 +396,7 @@
   <string name="pull_to_refresh_refreshing_label">Bezig met vernieuwen…</string>
   <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen</string>
   <string name="ran">Gelopen</string>
+  <string name="read_useragreement">Ik heb de gebruikersovereenkomst en het privacybeleid gelezen.</string>
   <string name="red">Rood</string>
   <string name="register">Inschrijven</string>
   <string name="remain_days_format">%s dagen sinds laatste laadbeurt</string>
@@ -417,7 +424,8 @@
   <string name="set_mili_name_ok">Naam Mi Band OK.</string>
   <string name="set_person_goal">Zet doel</string>
   <string name="set_sport_goal">Zet doel</string>
-  <string name="setting_about_app">"App versie:"</string>
+  <string name="setting_about_app">"App versie: 
+Tweaked by dezmen3"</string>
   <string name="setting_about_fw">Firmware versie </string>
   <string name="setting_feedback_address">Hoe kunnen we je bereiken?</string>
   <string name="setting_feedback_hint">Bedankt voor de feedback.</string>
@@ -465,7 +473,8 @@
   <string name="share_to_miliao_target_union">Trainigs makkers</string>
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band#</string>
-  <string name="share_uninstall_client">"Deze aplicatie is niet geinstalleerd, delen mislukt."</string>
+  <string name="share_to_topic_for_event">\#Mi band 10.000 stappen per dag#</string>
+  <string name="share_uninstall_client">Deze aplicatie is niet geinstalleerd, delen mislukt.</string>
   <string name="signal_strength">Signaal sterkte: </string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Intelligent Alarm</string>
@@ -479,13 +488,14 @@
   <string name="sport_running_altitude">Hoogte</string>
   <string name="sport_running_average_speed">Gemiddeld</string>
   <string name="sport_running_burn">Verbrand</string>
-  <string name="sport_running_cost_cal">%.1f Kcal</string>
+  <string name="sport_running_cost_cal">%.1f cal</string>
   <string name="sport_running_distance">Afstand</string>
-  <string name="sport_running_distance_detail">%s Kilometers</string>
+  <string name="sport_running_distance_desc">Kilometers</string>
+  <string name="sport_running_distance_detail">%.2fkm</string>
   <string name="sport_running_end_time">Einde</string>
   <string name="sport_running_gps_cancel">Annuleren</string>
   <string name="sport_running_gps_turnon">Inschakelen</string>
-  <string name="sport_running_helper">Loop helper</string>
+  <string name="sport_running_helper">Loop help</string>
   <string name="sport_running_helper_test">Lopen helper test</string>
   <string name="sport_running_history">Geschiedenis</string>
   <string name="sport_running_history_date" formatted="false">%d/%d/%d</string>
@@ -494,18 +504,25 @@
   <string name="sport_running_no_gps">GPS moet worden ingeschakeld om uw traject te volgen. Inschakelen?</string>
   <string name="sport_running_pace">Tempo</string>
   <string name="sport_running_pace_detail">%s/KM</string>
-  <string name="sport_running_prepare_map">Voorbereiden om map te delen…</string>
+  <string name="sport_running_pause">Pauze</string>
+  <string name="sport_running_prepare_map">Map voorbereiden om te delen…</string>
+  <string name="sport_running_prompt_come_on">Ga!!</string>
+  <string name="sport_running_prompt_great">Great!!</string>
+  <string name="sport_running_prompt_per_kilometer" formatted="false">Je hebt %s kilometers gelopen. Het koste %s. Het tempo is %s.%s</string>
+  <string name="sport_running_real_time_pace">Realtime tempo</string>
+  <string name="sport_running_resume">Hervatten</string>
   <string name="sport_running_set_dist">Afstands herinnering</string>
   <string name="sport_running_set_goal">Doel herinnering</string>
   <string name="sport_running_set_speed">Snelheids herinnering</string>
   <string name="sport_running_settings">Instellingen</string>
-  <string name="sport_running_slider_prompt">&gt;&gt;&gt;Slide right to unlock</string>
+  <string name="sport_running_slider_prompt">&gt;&gt;&gt;Rechts slepen om te pauzeren</string>
   <string name="sport_running_speed">Snelheid</string>
   <string name="sport_running_speed_detail">%dKM/H</string>
   <string name="sport_running_start">Start</string>
   <string name="sport_running_start_time">Start</string>
   <string name="sport_running_step">Stappen</string>
-  <string name="sport_running_time_desc">Tiids kosten</string>
+  <string name="sport_running_stop">Stoppen</string>
+  <string name="sport_running_time_desc">Tijd</string>
   <string name="sport_share">Nu delen</string>
   <string name="start">Start</string>
   <string name="start_download">Downloaden op achtergrond…</string>
@@ -547,9 +564,13 @@
   <string name="stat_step_walk_distance_average">Gem. Wandel afstand</string>
   <string name="stat_step_walk_duration">Wandel tijd</string>
   <string name="stat_step_walk_duration_average">Gem. Wandel tijd</string>
+  <string name="state_authorization_error">Autoriseren mislukt!</string>
+  <string name="state_authorization_success">Autoriseren gelukt!</string>
   <string name="state_bind_failed">Kan account niet toevoegen</string>
   <string name="state_binded">Ingelogd</string>
   <string name="state_binded_nickname">Toegevoegen QQ Account %s</string>
+  <string name="state_deauthorization_error">Deautoriseren mislukt!</string>
+  <string name="state_deauthorization_success">Deautoriseren gelukt!</string>
   <string name="state_unbind_success">Verwijder QQ Account</string>
   <string name="state_unbinded">Uitgelogd</string>
   <string name="statistic">Statistieken</string>
@@ -568,6 +589,7 @@
   <string name="system_not_support_title">Niet ondersteunt.</string>
   <string name="time_format_hour_min">%1$sh %2$sm</string>
   <string name="time_format_min">%s min</string>
+  <string name="title_activity_open">Partner Bind Pagina</string>
   <string name="today">Vandaag</string>
   <string name="unbind">Loskoppelen</string>
   <string name="unbind_mili">Loskoppelen</string>
@@ -580,6 +602,13 @@
   <string name="unit_min">min</string>
   <string name="unit_min_short">m</string>
   <string name="unit_step">stappen</string>
+  <string name="unlock_for_smartlock_pair_fail_tip">MI band verbinden mislukt</string>
+  <string name="unlock_for_smartlock_pair_start_tip">Verbinden met Mi band…</string>
+  <string name="unlock_for_smartlock_pair_success_tip">Smart Lock setup geslaagd</string>
+  <string name="unlock_for_smartlock_tip">Om ontgrendelen te gebruiken, moet je app draaien in de achtergrond</string>
+  <string name="unlock_for_smartlock_tip_step1">1st stap: Go to &lt;b&gt;Settings&lt;/b&gt; - &lt;b&gt;Beveiliging&lt;/b&gt;</string>
+  <string name="unlock_for_smartlock_tip_step2">2de stap: click on &lt;b&gt;Schermontgrendeling&lt;/b&gt; en stel uw wachtwoord in</string>
+  <string name="unlock_for_smartlock_tip_step3">3de stap: click on &lt;b&gt;Smart Lock&lt;/b&gt; en kies benodigde apparaat</string>
   <string name="unlock_screen">Scherm ontgrendelen</string>
   <string name="unlock_screen_help_info0">Plaats uw Mi Band heel dicht bij uw telefoon.</string>
   <string name="unlock_screen_help_info1">Als uw telefoon is nog steeds vergrendeld is, kunt u proberen om Bluetooth te herstarten om te zien of dit probleem opgelost is.</string>
@@ -603,8 +632,9 @@
   <string name="upgrade">Update</string>
   <string name="upgrade_tip">Update notificatie</string>
   <string name="user_agreement">Gebruikers verklaring en privacybeleid</string>
-  <string name="user_agreement_prefix">Om dit product te gebruiken moet je akkord zijn met onze 
+  <string name="user_agreement_prefix">Om dit product te gebruiken moet je akkoord zijn met onze 
 </string>
+  <string name="user_agreement_ux">Toetreden UX Improvement Program UX Improvement Program</string>
   <string name="vibrate_notify">Tril Status</string>
   <string name="vibrate_notify_tips">Geef armband trillings info in de statusbalk weer</string>
   <string name="visit_micom">Bezoek de officiele site</string>
@@ -623,6 +653,8 @@
   <string name="weather_description_sand">Fijn stof,</string>
   <string name="weather_description_snow">Sneeuw,</string>
   <string name="week"/>
+  <string name="weight_test_dynamic_detail">Gewicht:%1$s%2$s</string>
+  <string name="weight_test_dynamic_title">%1$s</string>
   <string name="welcom_back">Welkom terug</string>
   <string name="welcome">Hallo</string>
   <string name="wrong_system_time">Je systeem tijd op je apparaat is niet juist</string>

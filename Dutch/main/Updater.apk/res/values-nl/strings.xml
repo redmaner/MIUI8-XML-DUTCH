@@ -11,6 +11,15 @@
   <string name="apply_update_dialog_cancel_button">Annuleren</string>
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="apply_upload_info_message">Je toestel zal herstarten en de update voltooien</string>
+  <string name="auto_agree_clause">Onze bijgewerkte Privacy Policy is al van kracht</string>
+  <string name="auto_button_examine">Bekijken</string>
+  <string name="auto_button_examine_immediately">Bekijken</string>
+  <string name="auto_button_sure_cancel">Annuleren</string>
+  <string name="auto_check_clause_button">Bekijken</string>
+  <string name="auto_check_clause_msg">U moet akkoord gaan met onze vernieuwde Privacybeleid voordat u uw systeem kan bijwerken.</string>
+  <string name="auto_dialog_msg">We hebben ons privacybeleid bijgewerkt. Lees dit voordat u een update van uw systeem doet.</string>
+  <string name="auto_dialog_msg_check_again">U moet akkoord gaan met onze vernieuwde Privacybeleid voordat u uw systeem kan bijwerken.</string>
+  <string name="auto_dialog_title_check_again">Update annuleren?</string>
   <string name="auto_update">Automatisch updaten</string>
   <string name="auto_update_sum">Kies de beste tijd voor automatische update</string>
   <string name="autosetmode">Update instellingen</string>
@@ -64,7 +73,8 @@
   <string name="get_current">Huidige ophalen</string>
   <string name="get_update_error">Update informatie verkrijgen mislukt</string>
   <string name="go_on_download">Downloaden</string>
-  <string name="install">Installeer</string>
+  <string name="important_suggestion">Privacybeleid is veranderd</string>
+  <string name="install">Instaleer</string>
   <string name="install_failed">Update mislukt</string>
   <string name="install_file_explorer">U moet File Explorer te installeren</string>
   <string name="install_local">Installeer lokaal</string>
@@ -172,8 +182,9 @@
   <string name="update_success">Gefeliciteerd, update succesvol toegepast!</string>
   <string name="update_success_body">Huidige versie: %s</string>
   <string name="update_success_title">Gefeliciteerd, update volooid!</string>
-  <string name="updater_nolog">Er zijn geen logs</string>
-  <string name="updater_nonetwork">Verbinden met netwerk om log te verkrijgen</string>
+  <string name="updater_nolog">Geen wijzigings logs</string>
+  <string name="updater_nonetwork">Verbinden met netwerk om log te bekijken</string>
+  <string name="updater_nonetwork_clause">Verbinden met netwerk om bijgewerkte Privacybeleid te bekijken</string>
   <string name="upgrade_close">Sluiten</string>
   <string name="upgrade_kernel">Huidige kernel vereist update</string>
   <string name="upgrade_kernel_msg">"Huidige kernel versie komt niet overeen met MIUI ROM. U moet de kernel handmatig bijwerken. Update handleiding: "</string>
