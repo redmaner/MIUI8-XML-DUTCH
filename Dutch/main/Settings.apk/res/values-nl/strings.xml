@@ -574,7 +574,7 @@
   <string name="credentials_install_summary">Certificaten vanuit opslag installeren</string>
   <string name="credentials_not_erased">Kan referentieopslag niet wissen.</string>
   <string name="credentials_old_password">Huidig wachtwoord:</string>
-  <string name="credentials_password_too_short">Het wachtwoord moet uit ten minste 8 tekens bestaan.</string>
+  <string name="credentials_password_too_short">Minimum 8 tekens.</string>
   <string name="credentials_reset">Referenties wissen</string>
   <string name="credentials_reset_hint">Alle inhoud verwijderen?</string>
   <string name="credentials_reset_summary">Alle certificaten verwijderen</string>
@@ -710,7 +710,7 @@
   <string name="details_title">Gebruiksdetails</string>
   <string name="dev_settings_warning_message">Deze instellingen zijn uitsluitend bedoeld voor ontwikkelingsgebruik. Uw apparaat en apps kunnen hierdoor vastlopen of anders reageren.</string>
   <string name="dev_settings_warning_title">Ontwikkelingsinstellingen toestaan?</string>
-  <string name="developer_build">" | Developer"</string>
+  <string name="developer_build">" | Beta"</string>
   <string name="development_enable">Ontwikkelaarsopties</string>
   <string name="development_settings_not_available">Ontwikkelaarsopties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="development_settings_summary">Opties instellen voor appontwikkeling</string>
@@ -1422,7 +1422,7 @@
   <string name="mvno_match_data">MVNO waarde</string>
   <string name="mvno_type">MVNO type</string>
   <string name="nearby_wifi">Beschikbare netwerken</string>
-  <string name="need_reboot_now">Reboot nodig om de update te voltooien, nu opnieuw opstarten!</string>
+  <string name="need_reboot_now">Herstarten om update te installeren</string>
   <string name="network_assistant">Data gebruik</string>
   <string name="network_detail">%s Netwerk details</string>
   <string name="network_error">Netwerk fout.</string>
@@ -1455,7 +1455,7 @@
   <string name="no_services">Niet actief</string>
   <string name="no_update_found">Laatste versie reeds geïnstalleerd </string>
   <string name="no_updates_found">U heeft de meest recente versie van MIUI reeds geïnstalleerd.</string>
-  <string name="no_updates_warning">Er zijn geen updates gevonden voor uw apparaat.</string>
+  <string name="no_updates_warning">Uw systeem is up to date.</string>
   <string name="no_updates_warning2">We laten je weten als er een update is.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
   <string name="normal_date_format">Regionaal(%s)</string>
@@ -1788,8 +1788,8 @@
   <string name="screen_key_press">Druk op de navigatie knoppen</string>
   <string name="screen_key_press_action">Trigger functie</string>
   <string name="screen_never_timeout_title">Altijd aan</string>
-  <string name="screen_on_proximity_sensor_summary">Voorkom telefoon gebruik in broekzak(detecteren via nabijheidssensor)</string>
-  <string name="screen_on_proximity_sensor_title">Voorkom misbruik</string>
+  <string name="screen_on_proximity_sensor_summary">Automatisch vergrendelen  wanneer je hem in je zak steekt</string>
+  <string name="screen_on_proximity_sensor_title">Voorkom broekzak gesprekken</string>
   <string name="screen_saturation">Kleur verzadiging</string>
   <string name="screen_timeout">Slaapstand</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
@@ -2053,7 +2053,7 @@
   <string name="status_serialno">Serie nr.</string>
   <string name="status_service_state">Servicestatus</string>
   <string name="status_signal_strength">Signaalsterkte</string>
-  <string name="status_sim">SIM Status</string>
+  <string name="status_sim">SIM kaart</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Tik om details weer te geven</string>
@@ -2472,7 +2472,7 @@
   <string name="wfd_settings_title">Draadloze scherm</string>
   <string name="wfd_wps_keypad">Druk op de gewenste toets</string>
   <string name="wfd_wps_pbc">Voorkeur voor PIN</string>
-  <string name="whetstone_level_reboot">Deze instelling wordt van kracht wanneer het toestel opnieuw is opgestart</string>
+  <string name="whetstone_level_reboot">Deze instelling wordt van kracht nadat het toestel opnieuw is opgestart</string>
   <string name="whetstone_level_reboot_OK">Opnieuw opstarten</string>
   <string name="whetstone_level_title">Systeem geheugen optimalisatie</string>
   <string name="widget_picker_title">Widget kiezen</string>
