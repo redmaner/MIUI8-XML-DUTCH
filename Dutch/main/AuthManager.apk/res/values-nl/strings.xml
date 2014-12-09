@@ -10,7 +10,7 @@
   <string name="Dashboard_Perm_AutoStart">Autostart Toestemmingen</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Controle welke apps kunnen worden gestart wanneer het apparaat wordt ingeschakeld</string>
   <string name="Dashboard_Perm_HIPS">Toestemmingen beheren</string>
-  <string name="Dashboard_Perm_HIPS_Desc">Monitoring %1$d apps</string>
+  <string name="Dashboard_Perm_HIPS_Desc">Toezicht op %1$d apps</string>
   <string name="Dashboard_Perm_HIPS_Desc2">Controleerd %1$d apps</string>
   <string name="Dashboard_Perm_HIPS_Disabled">Toestemmings monitor is uitgeschakeld</string>
   <string name="Dashboard_Perm_HIPS_Risky">Riskante Toestemmingen (%1$d)</string>
@@ -19,10 +19,10 @@
   <string name="Dashboard_Perm_Header">Controleerd %1$d apps</string>
   <string name="Dashboard_Perm_Header_Disabled">Toestemmingens monitor uitgeschakeld</string>
   <string name="Dashboard_Perm_SU">Beheer de Root toegang </string>
-  <string name="Dashboard_Perm_SU_Desc">Monitoring %1$d apps met root toegang</string>
+  <string name="Dashboard_Perm_SU_Desc">Toezicht op %1$d apps met root toegang</string>
   <string name="Dashboard_Perm_SU_Disabled">Root toegang uitgeschakeld</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Root toegang is niet beschikbaar in the stable build van MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van root-toegang tot apps van derden kunnen instabiliteit van het systeem, verlies van gebruikers gegevens, of zelfs schade aan de hardware veroorzaken.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van root toegang tot apps van derden kunnen instabiliteit van het systeem, verlies van gebruikers gegevens, of zelfs schade aan de hardware veroorzaken.
 
 Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
@@ -129,7 +129,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_MobileNetwork">Mobiele data vebinding gebruiken</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Kan mobiele data vebinding gebruiken</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps kunnen mobiele data vebinding gebruiken</string>
-  <string name="HIPS_Perm_Mobile_Connectivity">Verander mobiele dataverbinding</string>
+  <string name="HIPS_Perm_Mobile_Connectivity">Verander mobiele data verbinding</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">Kunnen mobiele data verbinding in- of uitschakelen</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s apps kunnen mobiele data verbinding in- of uitschakelen</string>
   <string name="HIPS_Perm_Network_Accept">Accepteer link van %1$s?</string>
@@ -216,14 +216,14 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apps kunnen toegaan tot Xiaomi account hebben</string>
   <string name="HIPS_SecurityPrompt_Accept">Toestaan(%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Toestaan</string>
-  <string name="HIPS_SecurityPrompt_Accept_Once">Allow Once (%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Eenmaal toestaan (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Veiligheids Melding</string>
   <string name="HIPS_SecurityPrompt_Next">Volgende</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Kan root toegang verkrijgen</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Verleen %1$s root toegang?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Apps root toegang verlenen kan ertoe leiden dat uw apparaat instabiel word.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Uw gegevens zijn kwetsbaarder voor aanvallen van apps met root toegang.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step4">Apps mettoegang tot root kan ook de hardware van het apparaat beschadigen.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">Apps met toegang tot root kan ook de hardware van het apparaat beschadigen.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Apps toestemming verlenen tot de root toegang is op eigen risico.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s root toegang verlenen?</string>
   <string name="HIPS_SecurityPrompt_Reject">Weigeren (%d)</string>
@@ -238,7 +238,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="Privacy_App_Log">Logs</string>
   <string name="Privacy_App_Manage">Details</string>
   <string name="Privacy_App_Trust">Vragen voor toestemming</string>
-  <string name="Privacy_App_TrustDialog_Content">Je wordt niet gevraagd om toestemming wanneer deze app toegang geeft tot andere delen van het systeem.</string>
+  <string name="Privacy_App_TrustDialog_Content">Je toestemming wordt niet gevraagd wanneer deze app toegang geeft tot andere delen van het systeem.</string>
   <string name="Privacy_App_TrustDialog_Title">Toestemmingen toevoegen</string>
   <string name="Privacy_App_Trust_Summary_Off">Notificatie weergeven wanneer deze app probeert toegang te verkrijgen tot andere delen van het systeem</string>
   <string name="Privacy_App_Trust_Summary_On">Notificatie weergeven wanneer deze app probeert toegang te verkrijgen tot andere delen van het systeem</string>
@@ -246,7 +246,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="Privacy_Perm_Count">%1$d toegestaan | %2$d geweigerd</string>
   <string name="Su_Enable_Dialog">%1$s vraagt root toegang.</string>
   <string name="Su_Package_Forbidden">%1$s heeft geen root toegang.</string>
-  <string name="Su_Unavailable">Root toegang is  niet beschikbaar in deze versie van MIUI. Je moet de ontwikkelaar build of MIUI flashen root toegang toe te staan.</string>
+  <string name="Su_Unavailable">Root toegang is niet beschikbaar in deze versie van MIUI. Je moet de ontwikkelaar build of MIUI flashen root toegang toe te staan.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart toestemming</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Opstarten</string>
