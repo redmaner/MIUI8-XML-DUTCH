@@ -37,13 +37,13 @@
   <string name="bin_weixin_device_not_connect">Mi Band niet aangesloten.</string>
   <string name="bind_bracelet">Mi Band gevonden</string>
   <string name="bind_bracelet_ok">Koppeling gelukt.</string>
-  <string name="bind_devices">Bind apparaten</string>
+  <string name="bind_devices">Apparaten binden</string>
   <string name="bind_mi_band">Bind Mi Band</string>
   <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;View Mi Bind Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_new_mili">Koppelen met nieuwe Mi Band</string>
   <string name="bind_qq">Toevoegen QQ</string>
   <string name="bind_qq_health">Sync. met QQ Gezondheid</string>
-  <string name="bind_qq_health_tip">Sync. stappen en slapen info aan QQ gezondheidsplatform,  je netwerk verbinding nodig.</string>
+  <string name="bind_qq_health_tip">Sync. stappen en slapen info aan QQ gezondheidsplatform, je netwerk verbinding nodig.</string>
   <string name="bind_qq_health_title">Toevoegen QQ Account</string>
   <string name="bind_weixin_failed">Mislukt, probeer opnieuw.</string>
   <string name="bind_weixin_new_disable_tips">Na koppeling met uw Wechat account volg Mi Band Wechat serviceaccount, kunt u de informatie, zoals het aantal  gedane stappen in Wechat controleren. U kunt ook uw resultaat status tussen uw vrienden zien.</string>
@@ -59,7 +59,7 @@
   <string name="birthday">Verjaardag</string>
   <string name="blue">Blauw</string>
   <string name="bluetooth">Bluetooth </string>
-  <string name="body">Neck</string>
+  <string name="body">Nek</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
   <string name="bracelet_info_fw_version">"Firmware: %1$s 
@@ -69,10 +69,10 @@
   <string name="bracelet_login_info_2">Inloggen als je akkoord bent met </string>
   <string name="bracelet_login_title">Hallo, Ik ben Mi Band.</string>
   <string name="bracelet_not_connected_bat_unknown">Mi Band niet gekoppeld, power onbekend.</string>
-  <string name="bracelet_not_found_info">Gelieve opnieuw zoeken als één van de Mi Band lichten knippert.</string>
+  <string name="bracelet_not_found_info">"Gelieve opnieuw zoeken als één van de Mi Band lichten knippert."</string>
   <string name="bracelet_not_found_title">Verbinden met power.</string>
   <string name="bracelet_store_desc">Band opslag</string>
-  <string name="bt_operation_failed_tips">Bluetooth iwerkt niet goed, probeer later opnieuw.</string>
+  <string name="bt_operation_failed_tips">Bluetooth werkt niet goed, probeer later opnieuw.</string>
   <string name="buy_bracelet_desc">Koop een MI band.</string>
   <string name="cal">cal</string>
   <string name="cancel">Annuleren</string>
@@ -174,12 +174,12 @@
   <string name="found_bracelet_info">Wanneer de lichten Mi Band beginnen te knipperen, tok enkele keren om te koppelen.</string>
   <string name="fw_failed_help_tips0">Firmware is het software systeem waar de Mi Bandop werkt.</string>
   <string name="fw_failed_help_tips1">Firmware update kan Mi Band prestaties te verbeteren. Het zal ook de nieuwe functies van het apparaat ondersteunen.</string>
-  <string name="fw_failed_help_tips2">Gelieve altijd voor zorgen dat de boven de  10% blijft, en de Mi Band correct is aangesloten met de telefoon tijdens het updateproces.</string>
+  <string name="fw_failed_help_tips2">Gelieve altijd voor zorgen dat de boven de 10% blijft, en de Mi Band correct is aangesloten met de telefoon tijdens het updateproces.</string>
   <string name="fw_failed_help_title">Firmware FAQ</string>
   <string name="fw_failed_help_title0">Wat is?</string>
   <string name="fw_failed_help_title1">Waarom moet je de Firmware updaten?</string>
   <string name="fw_failed_help_title2">Wat te doen als de update mislukt?</string>
-  <string name="fw_low_battery_tips">"Wij kunnen de Mi Band niet updaten als het batterij niveau lager dan 5% is. Mi Band zal automatisch updaten zodra hij opgeladen isl start updating automatically once its been charged."</string>
+  <string name="fw_low_battery_tips">Wij kunnen de Mi Band niet updaten als het batterij niveau lager dan 5% is. Mi Band zal automatisch updaten zodra hij opgeladen is.</string>
   <string name="fw_low_battery_title">Laad op tijdens het updaten.</string>
   <string name="fw_low_battery_view_help">Help</string>
   <string name="fw_upgrade">Firmware update</string>
@@ -204,7 +204,7 @@
   <string name="help_info_0">Zorg ervoor dat uw telefoon Bluetooth 4.0 of hoger ondersteunt. U kan dit vinden in uw telefoon specs.</string>
   <string name="help_info_1">Alleen Android 4.4 en hoger ondersteunt de Mi Band.</string>
   <string name="help_info_2">Zorg ervoor dat u de MI Band correct oplaad. U zal groene lampjes zien knipperen wanneer hij opladen is.</string>
-  <string name="help_info_3">Als uw Mi Band gekoppeld is aan een bestaande telefoon of als de Mi Band is niet dicht bij de telefoon is, schakel hem uit</string>
+  <string name="help_info_3">Als uw Mi Band niet gekoppeld is aan een bestaande telefoon of als de Mi Band is niet dicht bij de telefoon is, schakel hem uit</string>
   <string name="help_title_0">Ondersteunt je telefoon Bluetooth 4.0?</string>
   <string name="help_title_1">Voldoet je telefoon an de syteem vereisten?</string>
   <string name="help_title_2">Is de Mi Band volledig opgeladen?</string>
@@ -217,8 +217,8 @@
   <string name="input_precise_person_info">Vul uw persoonlijke gegevens. Meer informatie zal helpen om nauwkeurige resultaten te krijgen.</string>
   <string name="instruction_tip_1">Neem een kijkje bij training vooruitgang</string>
   <string name="instruction_tip_2_1">"De stappenteller is minder 1/3 van je doel"</string>
-  <string name="instruction_tip_2_2">"Boven 1/3 van je doel</string>
-  <string name="instruction_tip_2_3">"Boven 2/3 van je doel"</string>
+  <string name="instruction_tip_2_2">Boven 1/3 van je doel</string>
+  <string name="instruction_tip_2_3">Boven 2/3 van je doel</string>
   <string name="instruction_tip_2_4">Geweldig! Je hebt je doel voor vandaag bereikt.</string>
   <string name="instruction_tip_2_5">Boven het doel</string>
   <string name="instruction_tip_3">Batterij is bijna leeg. Laad de Mi Band op.</string>
@@ -269,7 +269,7 @@
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Verbind je Mi band voor je begint met %s</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Sensor houdt %s automatisch bij</string>
   <string name="lab_factory_sport_monitor_timeout_notice">Geen activiteit gedetecteerd</string>
-  <string name="lab_factory_sport_more_sport_favorite_notice">Kan slechts één kiezen</string>
+  <string name="lab_factory_sport_more_sport_favorite_notice">"Kan slechts één kiezen"</string>
   <string name="lab_factory_sport_more_sport_favorite_vote">Stem voor meer sporten</string>
   <string name="lab_factory_sport_pb_count">Persoonlijk record &lt;b&gt;%d&lt;/b&gt;</string>
   <string name="lab_factory_sport_pb_desc">Persoonlijk record: %s</string>
@@ -315,7 +315,7 @@
   <string name="login">Login</string>
   <string name="login_failed">Login mislukt. Probeer opnieuw.</string>
   <string name="login_failed_check_sys_time">Login mislukt, controleer de tijdsinstelling en gebruik de tijd aangeven door het netwerk.</string>
-  <string name="logining">Inloggen ...</string>
+  <string name="logining">Inloggen…</string>
   <string name="look_device_list">Een Mi Band zoeken in de buurt</string>
   <string name="main_ui_share_tips">"Getraind voor %1$s%2$s vandaag. %3$s"</string>
   <string name="main_ui_sleep_share_tips">"Lichte slaap %1$s%2$s Ingeslapen om %3$s, opgestaan om %4$s."</string>
@@ -332,9 +332,9 @@
   <string name="mili_name_too_long">Naam is te lang, gelieve te wijzigen.</string>
   <string name="mili_rename_fail">Mi Band naam update mislukt.</string>
   <string name="mili_reset_info">We staan op het punt om de gegevens te wiseen van deze Mi Band en te resetten naar fabrieksinstellingen. Weet je zeker dat je wilt doorgaan?</string>
-  <string name="mili_unbind_question">Uw telefoon zal de toegang meer hebben tot de gegevens van Mi Band als ze niet meer verbonden zijn.</string>
-  <string name="mili_unbind_question_content">Zodra u de verbinding verbreekt van de Mi Band met je telefoon, kan je een andere Mi Band verbinden..</string>
-  <string name="mili_unbind_question_content_1">Bovendien, je zal niet meer in staat om uw scherm te ontgrendelen met deze Mi Band zodra je de verbinding verbreekt.</string>
+  <string name="mili_unbind_question">Uw telefoon zal de geen toegang meer hebben tot de gegevens van Mi Band als ze niet meer verbonden zijn.</string>
+  <string name="mili_unbind_question_content">Zodra u de verbinding verbreekt van de Mi Band met je telefoon, kan je een andere Mi Band verbinden.</string>
+  <string name="mili_unbind_question_content_1">Je zal niet meer in staat om uw scherm te ontgrendelen met deze Mi Band zodra je de verbinding verbreekt.</string>
   <string name="minute"/>
   <string name="modify_gender">Geslacht</string>
   <string name="modify_height">Lengte</string>
@@ -346,7 +346,7 @@
   <string name="mon_sat">Ma. to Zat.</string>
   <string name="month">Maand</string>
   <string name="move_and_capture">Beweging en Opname</string>
-  <string name="multi_devices_info">Er zijn meerdere Mi Bands in de buurt. U moet uw Mi Band en de telefoon ten minste 10 meter van andere Mi Bands zijn , dan opnieuw laten zoeken</string>
+  <string name="multi_devices_info">Er zijn meerdere Mi Bands in de buurt. U moet met uw Mi Band en telefoon ten minste 10 meter van andere Mi Bands zijn , dan opnieuw laten zoeken</string>
   <string name="multi_devices_title">Koppelen niet mogelijk.</string>
   <string name="network_error">Kan geen verbinding met het netwerk maken, controleer de netwerkverbinding.</string>
   <string name="new_friend_accept">Akkoord</string>
@@ -403,7 +403,7 @@
   <string name="remain_days_today_format">Minder dan een dag sinds laatste laadbeurt</string>
   <string name="rename_mili">Naam</string>
   <string name="reset_mili">Reset Mi Band</string>
-  <string name="restart_bluetooth_tips">Herstaart Bluetooth.</string>
+  <string name="restart_bluetooth_tips">Herstart Bluetooth.</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="right_hand">Rechts</string>
   <string name="runed">Gelopen</string>
@@ -448,13 +448,13 @@ Tweaked by dezmen3"</string>
   <string name="share_miliao_too_old">MiTalk versie is te oud.</string>
   <string name="share_play_ground_format">"Het ongeveer %1$s op de piste."</string>
   <string name="share_sleep_description">"In diepe slaap voor %1$shr en %2$smin, In diepe lichte voor %3$shr en %4$smin. Ingeslapen: %5$s. Opgestaan: %6$s"</string>
-  <string name="share_sleep_description_average">"Was gemiddeld %1$shr %2$smin in diepe slaap en %3$shr %4$smin in lichte slaap. You slept in ron %5$s, de tijd je wakker was in ongeveer %6$s."</string>
+  <string name="share_sleep_description_average">"Was gemiddeld %1$shr %2$smin in diepe slaap en %3$shr %4$smin in lichte slaap. Je sliep in ron %5$s, de tijd je wakker was in ongeveer %6$s."</string>
   <string name="share_sleep_title">Vorige nacht</string>
   <string name="share_sleep_title_average">Gemid. Slaap</string>
   <string name="share_sleep_title_daily">Slaap</string>
   <string name="share_step_description">"Gewandeld %1$s verbrand %2$s cal."</string>
   <string name="share_step_description_monthly">"%1$s%2$s verbrand %3$s cal, en je bespaarde %4$s liters benzine.(bedankt voor de bescherming van onze aarde) Het hoogste record was %5$s, gewandeld %6$s stappen."</string>
-  <string name="share_step_description_monthly_run" formatted="false">"%1$s, gelopen %2$s  %3$s, en je bespaarde %4$s liters benzine. (bedankt voor de bescherming van onze aarde) Het hoogste record was %5 %5$s, gewandeld %6$s stappen."</string>
+  <string name="share_step_description_monthly_run" formatted="false">"%1$s, gelopen %2$s  %3$s, en je bespaarde %4$s liters benzine.(bedankt voor de bescherming van onze aarde) Het hoogste record was %5 %5$s, gewandeld %6$s stappen."</string>
   <string name="share_step_description_run">"Gewandeld %1$s, gelopen %2$s. verbrand %3$s cal."</string>
   <string name="share_step_description_weekly">"Totaal %1$s%2$s verbrand %3$s cal. Het hoogste dagelijks record was op %4$s, gewandeld %5$s stappen."</string>
   <string name="share_step_description_weekly_run">"Totaal %1$s, ran %2$s. %3$s Het hoogste dagelijks record was op %4$s, gewandeld %5$s stappen."</string>
@@ -484,7 +484,7 @@ Tweaked by dezmen3"</string>
   <string name="sport_new_record_ropeskipping">Nieuw rekord</string>
   <string name="sport_ranking_desc_great">WOW, je bent onoverwinnelijk!</string>
   <string name="sport_ranking_desc_normal" formatted="false">Je versloeg &lt;b&gt;%s%&lt;/b&gt; van %s gebruikers.</string>
-  <string name="sport_ranking_desc_poor">Elke %s gebruiker kan je verslaan, come on!</string>
+  <string name="sport_ranking_desc_poor">Elke %s gebruiker kan je verslaan, komaan!</string>
   <string name="sport_running_altitude">Hoogte</string>
   <string name="sport_running_average_speed">Gemiddeld</string>
   <string name="sport_running_burn">Verbrand</string>
@@ -527,7 +527,7 @@ Tweaked by dezmen3"</string>
   <string name="start">Start</string>
   <string name="start_download">Downloaden op achtergrond…</string>
   <string name="start_weixin">Open Wechat</string>
-  <string name="start_weixin_not_installed">Start Wechat (niet geinstallerd)</string>
+  <string name="start_weixin_not_installed">Start Wechat(niet geïnstaleerd)</string>
   <string name="stat_sleep">Slaap tijd</string>
   <string name="stat_sleep_average">Gemid. Slaap</string>
   <string name="stat_sleep_deep">Diepe Slaap</string>
@@ -594,7 +594,7 @@ Tweaked by dezmen3"</string>
   <string name="unbind">Loskoppelen</string>
   <string name="unbind_mili">Loskoppelen</string>
   <string name="unbind_short">Loskoppelen</string>
-  <string name="unbinding">Loskoppelen ...</string>
+  <string name="unbinding">Loskoppelen…</string>
   <string name="unit_calorie">cal</string>
   <string name="unit_hour">u</string>
   <string name="unit_kilometer">km</string>
@@ -612,7 +612,7 @@ Tweaked by dezmen3"</string>
   <string name="unlock_screen">Scherm ontgrendelen</string>
   <string name="unlock_screen_help_info0">Plaats uw Mi Band heel dicht bij uw telefoon.</string>
   <string name="unlock_screen_help_info1">Als uw telefoon is nog steeds vergrendeld is, kunt u proberen om Bluetooth te herstarten om te zien of dit probleem opgelost is.</string>
-  <string name="unlock_screen_help_info2">"Als u Bluetooth niet kan herstarten, ga dan naar Systeem Instellingen. Vergeten huidige Mi Band. Dan gaat u naar Mi Band app om de scherm vergrendeling te resetten."</string>
+  <string name="unlock_screen_help_info2">Als u Bluetooth niet kan herstarten, ga dan naar Systeem Instellingen. Vergeten huidige Mi Band. Dan gaat u naar Mi Band app om de scherm vergrendeling te resetten.</string>
   <string name="unlock_screen_help_tips">2 Stappen instelling, Mi Band toestaan om je scherm te ontgrendelen.</string>
   <string name="unlock_screen_help_title0">Was Mi Band dicht genoeg bij de telefoon?</string>
   <string name="unlock_screen_help_title1">Herstart Bluetooth</string>

@@ -26,11 +26,11 @@
   <string name="data_usage_leisure_warning_body">Tik om datavebruiks gegevens weer te geven.</string>
   <string name="data_usage_leisure_warning_title">Datavebruiks limiet</string>
   <string name="data_usage_limit_body">Aanraken om dataverbruik details weer te geven</string>
-  <string name="data_usage_limit_snoozed_body">U heeft uw datalimiet bereikt</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Datalimiet overschreden</string>
+  <string name="data_usage_limit_snoozed_body">U heeft uw data limiet bereikt</string>
+  <string name="data_usage_mobile_limit_snoozed_title">Data limiet overschreden</string>
   <string name="data_usage_mobile_limit_title">Mobiele data is uitgeschakeld</string>
-  <string name="data_usage_no_total_package_body">Wilt u een datalimiet instellen?.</string>
-  <string name="data_usage_no_total_package_body_dual">Wilt u een datalimiet instellen voor %s.</string>
+  <string name="data_usage_no_total_package_body">Wilt u een data limiet instellen?.</string>
+  <string name="data_usage_no_total_package_body_dual">Wilt u een data limiet instellen voor %s.</string>
   <string name="data_usage_no_total_package_title">Dataverbruik</string>
   <string name="data_usage_restricted_body">Aanraken om achtergrond data in te schakelen</string>
   <string name="data_usage_restricted_title">Achtergrond data is beperkt</string>
@@ -222,14 +222,14 @@
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
   <string name="privacy_prompt_purchase_history_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om uw mobiele data aankoopgeschiedenis te krijgen.</string>
   <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en carrier details zullen om uw dataverbruik informatie bij te werken worden geüpload naar de servers van Xiaomi.</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om SMSquery templates te updaten en om te controleren of deze functie beschikbaar is in uw regio."</string>
+  <string name="privacy_prompt_traffic_adjust_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om SMSquery templates te updaten en om te controleren of deze functie beschikbaar is in uw regio.</string>
   <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om meer info over data inkoop opties te krijgen.</string>
   <string name="privacy_prompt_upload">Privacy notification</string>
   <string name="read_number">86 artikels</string>
   <string name="read_unit">" artikels"</string>
   <string name="right_precent">100%</string>
   <string name="sc_allow_network_dialog_message">Je moet deze app toestaan te verbinden met het internet voor het normaal functioneren ervan.</string>
-  <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
+  <string name="sc_allow_network_dialog_tiltle">Kan gegevens bespaarder niet gebruiken</string>
   <string name="setting_traffic_pkg">Instellen Data pakket</string>
   <string name="settings">Dataverbruik instellingen</string>
   <string name="songs_number">18 nummers</string>
@@ -248,7 +248,7 @@
   <string name="tc_sms_report_get_sms_failure">Ophalen Dataverbruik SMS mislukt </string>
   <string name="tc_sms_report_get_sms_successs">Dataverbruik SMS bijgewerkt</string>
   <string name="tc_sms_report_get_sms_timeout">Aanvraag timed out</string>
-  <string name="tc_sms_report_get_success">Ontvangen sms dataverbruiks rapport van provider. Zorg ervoor dat het nauwkeurig is en stuur terug.</string>
+  <string name="tc_sms_report_get_success">Ontvangen SMS dataverbruiks rapport van provider. Zorg ervoor dat het nauwkeurig is en stuur terug.</string>
   <string name="tc_sms_report_get_success_notify_body">Zorg ervoor dat het rapport correct is en verzend aan MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Ontvangen SMS dataverbruiks rapport </string>
   <string name="tc_sms_report_geting_sms">Ophalen van SMS dataverbruiks rapport </string>
@@ -274,7 +274,7 @@
   <string name="traffic_config_alert_body">Uw provider laten zien wat je hebt verbruikt %s Bijwerken dataverbruiks info?</string>
   <string name="traffic_config_alert_body_leisure">Volgens uw provider geeft u hebt gebruikt %1$s van uw daluren data deze maand, dit is verschillend van de  %2$s dat u handmatig hebt ingesteld.</string>
   <string name="traffic_config_alert_body_leisure_notset">Uw provider toont %s overgebleven daluren data. U heeft geen limiet voor de daluren data.</string>
-  <string name="traffic_config_alert_body_normal" formatted="false">"Provider geeft aan dat u %1$s gebruikt hebt van de overgebleven daluren data. %1$s van daluren data overgebleven. %2$s  %s  U heeft geen limiet voor de daluren data ingesteld. "</string>
+  <string name="traffic_config_alert_body_normal" formatted="false">"Provider geeft aan dat u %1$s gebruikt hebt van de overgebleven daluren data. %1$s van daluren data overgebleven. %2$s  %s  U heeft geen limiet voor de daluren data ingesteld."</string>
   <string name="traffic_config_alert_cancel">Annuleren</string>
   <string name="traffic_config_alert_nomore">Niet meer weergeven</string>
   <string name="traffic_config_alert_ok">OK</string>
@@ -314,9 +314,9 @@
   <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
   <string name="traffic_saving_title">Data Saver</string>
   <string name="traffic_saving_toast_start_mobile">Data Saver is ingeschakeld</string>
-  <string name="traffic_saving_toast_start_none_mobile">Data Saver zal starten bij het gebruik van mobiele data</string>
-  <string name="traffic_saving_toast_start_unreachable">KData Saver starten mislukt </string>
-  <string name="traffic_saving_toast_stop">Data Saver is uitgeschakeld</string>
+  <string name="traffic_saving_toast_start_none_mobile">Data bespaarder zal starten bij het gebruik van mobiele data</string>
+  <string name="traffic_saving_toast_start_unreachable">Data bespaarder starten mislukt </string>
+  <string name="traffic_saving_toast_stop">Data bespaarder is uitgeschakeld</string>
   <string name="traffic_saving_whitelist_btn_add">Toevoegen</string>
   <string name="traffic_saving_whitelist_btn_add_app">Toevoegen</string>
   <string name="traffic_saving_whitelist_btn_added">Toegevoegd</string>

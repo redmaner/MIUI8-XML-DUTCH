@@ -72,17 +72,17 @@
   <string name="auto_answer_summary_delay">" (vertraging: %s seconden)"</string>
   <string name="auto_answer_summary_not_enabled">Uitgeschakeld</string>
   <string name="auto_country_code_miui">Landcode automatisch toevoegen</string>
-  <string name="auto_country_code_sum_miui">Landcode automatisch toevoegen vóór het bellen van contacten</string>
+  <string name="auto_country_code_sum_miui">"Landcode automatisch toevoegen vóór het bellen van contacten"</string>
   <string name="auto_ip_add_exception_numbers_miui">Nummers toevoegen</string>
   <string name="auto_ip_exception_miui">Nummers waarbij geen IP prefix vereist is</string>
   <string name="auto_ip_exception_summary_miui">%d totaal</string>
-  <string name="auto_ip_exception_summary_more_miui">,... %d totaal</string>
+  <string name="auto_ip_exception_summary_more_miui">,… %d totaal</string>
   <string name="auto_ip_no_exceptions_miui">Voeg nummers toe waar een IP prefix niet vereist is</string>
   <string name="auto_ip_remove_exception_numbers_confirm_miui">%d nummers worden verwijderd.</string>
   <string name="auto_ip_setting_miui">Automatisch IP instellingen</string>
   <string name="auto_ip_summary_not_enabled">Niet ingeschakeld</string>
   <string name="auto_ip_support_local_numbers">IP prefix altijd gebruiken</string>
-  <string name="auto_record_call_summary_miui">Start met opnemen terwijl er wordt verbonden en opslaan in map MIUI/sound_recorder/call_rec van de SD kaart</string>
+  <string name="auto_record_call_summary_miui">Start met opnemen terwijl er verbonden wordt en opslaan in map MIUI/sound_recorder/call_rec van de SD kaart</string>
   <string name="auto_record_call_title_miui">Automatisch Opnemen</string>
   <string name="auto_record_scenario_enteries_always_miui">Auto opnemen voor alle nummers</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Auto opnemen voor gekozen nummers</string>
@@ -129,7 +129,7 @@
   <string name="callFailed_powerOff">Radio uit</string>
   <string name="callFailed_server_error">Fout met server. Probeer het later opnieuw.</string>
   <string name="callFailed_server_unreachable">Server niet bereikbaar</string>
-  <string name="callFailed_simError">Geen SIM-kaart of fout met SIM kaart</string>
+  <string name="callFailed_simError">Geen SIM kaart of fout met SIM kaart</string>
   <string name="callFailed_timedOut">Geen reactie, time-out</string>
   <string name="callFailed_unobtainable_number">Ongeldig nummer</string>
   <string name="callFailed_userBusy">Lijn is bezet</string>
@@ -151,7 +151,7 @@
   <string name="call_record_notification_message_start_failed">Recorder wordt gebruikt door een andere app.</string>
   <string name="call_record_notification_title_error_miui">Gespreksopname mislukt</string>
   <string name="call_record_notification_title_miui">Gespreksopname gelukt</string>
-  <string name="call_record_sd_error_miui">"SD-kaart toegangsfout"</string>
+  <string name="call_record_sd_error_miui">"SD kaart toegangsfout"</string>
   <string name="call_record_sd_space_low_miui">Onvoldoende ruimte: geen plaats meer op SD kaart</string>
   <string name="call_record_setting_miui">Oproep Opname Instellingen</string>
   <string name="call_record_unknown_error">Er is een onbekende fout opgetreden.</string>
@@ -208,7 +208,7 @@
   <string name="card_title_in_progress">Huidig gesprek</string>
   <string name="card_title_incoming_barred">Inkomende gesprekken blokkeren</string>
   <string name="card_title_incoming_call">Inkomend gesprek</string>
-  <string name="card_title_multipartycall">Meerder geprekken oproep</string>
+  <string name="card_title_multipartycall">Meerder gepreks oproep</string>
   <string name="card_title_my_phone_number">Mijn nummer is %s</string>
   <string name="card_title_on_hold">In wacht</string>
   <string name="card_title_outgoing_barred">Uitgaande gesprekken geblokkeerd</string>
@@ -252,7 +252,7 @@
   <string name="close_profile">Sluiten</string>
   <string name="command_error_fdn_failure_miui">Deze handeling is niet toegestaan als vaste kiesnummers zijn ingeschakeld. Probeer opnieuw als vaste kiesnummers uitgeschakeld zijn</string>
   <string name="command_error_generic_failure_miui">Deze handeling kon niet worden beëindigd. Probeer het later opnieuw</string>
-  <string name="command_error_illegal_sim_or_me_miui">"Netwerkselectie mislukt wegens foute SIM kaart of ME"</string>
+  <string name="command_error_illegal_sim_or_me_miui">Netwerkselectie mislukt wegens foute SIM kaart of ME</string>
   <string name="command_error_invalid_response_miui">Ongeldige netwerkreactie. Probeer het later opnieuw.</string>
   <string name="command_error_no_subscription_miui">Geen CDMA abonnement gevonden op aangegeven lokatie.</string>
   <string name="command_error_op_denied_before_reg_miui">Deze handeling is niet toegestaan voordat het apparaat op het netwerk is geregistreerd.</string>
@@ -523,7 +523,7 @@
   <string name="incall_error_supp_service_reject">Kan gespek niet weigeren.</string>
   <string name="incall_error_supp_service_separate">Kan gesprek niet scheiden.</string>
   <string name="incall_error_supp_service_switch">Tussen gesprekken schakelen mislukt.</string>
-  <string name="incall_error_supp_service_transfer">Kan niet overschakelen tussen gesprekken.</string>
+  <string name="incall_error_supp_service_transfer">Kan niet schakelen tussen gesprekken.</string>
   <string name="incall_error_supp_service_unknown">Niet ondersteunde dienst.</string>
   <string name="incall_screen_background_summary_miui">Gebruik vergrendelscherm achtergrond wanneer er geen avatar is</string>
   <string name="incall_screen_background_title_miui">In gesprek achtergrond</string>
@@ -574,8 +574,8 @@
   <string name="label_rn1dp">UIM netwerk 1 ontgrendel PIN code</string>
   <string name="label_rn2dp">UIM netwerk 2 ontgrendel PIN code</string>
   <string name="label_rspdp">UIM diensten provider ontgrendel PIN code</string>
-  <string name="label_sdp">SIM-kaart ontgrendel PIN code</string>
-  <string name="label_spdp">SIM-kaart diensten provider ontgrendel PIN code</string>
+  <string name="label_sdp">SIM kaart ontgrendel PIN code</string>
+  <string name="label_spdp">SIM kaart diensten provider ontgrendel PIN code</string>
   <string name="lable_all_incoming">Alle inkomende gesprekken</string>
   <string name="lable_all_out_except">Internationale uitgaande gesprekken naar huis PLMN</string>
   <string name="lable_all_outgoing">Alle uitgaande gesprekken</string>
@@ -631,7 +631,7 @@
   <string name="missed_call_notify_once_miui">1 maal</string>
   <string name="missed_call_notify_ten_times_miui">10 maal</string>
   <string name="missed_call_notify_thrice_miui">3 maal</string>
-  <string name="missed_call_notify_times_summary_miui">Kies het aantal keren dat u wilt worden herinnerd aan gemiste gesprekken(herinneringen worden gescheiden door 5 minuten interval)</string>
+  <string name="missed_call_notify_times_summary_miui">Kies het aantal keren dat u herinnerd wilt worden aan gemiste gesprekken(herinneringen worden gescheiden door 5 minuten interval)</string>
   <string name="missed_call_notify_times_title_miui">Herinnering gemiste gesprekken</string>
   <string name="missed_call_notify_twice_miui">2 maal</string>
   <string name="mmiCancelled">MMI code geannuleerd</string>
@@ -676,7 +676,7 @@
   <string name="no_vm_number_msg">Er is geen voicemailnummer op de SIM kaart opgeslagen.</string>
   <string name="no_voip">Bellen via internet niet ondersteund</string>
   <string name="no_volte">Kan geen IMS oproep maken</string>
-  <string name="no_wifi_available">"Voor internetgesprekken moet u verbinding hebben met een WiFi-netwerk(gebruik 'Draadloze en netwerkinstellingen')."</string>
+  <string name="no_wifi_available">"Voor internetgesprekken moet u verbinding hebben met een WiFi netwerk(gebruik 'Draadloze en netwerkinstellingen')."</string>
   <string name="no_wifi_available_title">Geen WiFi verbinding</string>
   <string name="non_ivr_menu_collapse_menu">Instorten menu</string>
   <string name="non_ivr_menu_view_menu">Bekijk menu</string>
@@ -693,7 +693,7 @@
   <string name="notification_missedCall_message">Bericht</string>
   <string name="notification_missedCallsMsg">%s Gemiste gesprekken</string>
   <string name="notification_missedCallsTitle">Gemiste gesprekken</string>
-  <string name="notification_network_selection_text">Geselecteerd netwerk (%s) niet beschikbaar</string>
+  <string name="notification_network_selection_text">Geselecteerd netwerk(%s) niet beschikbaar</string>
   <string name="notification_network_selection_title">Geen service</string>
   <string name="notification_on_hold">In wacht</string>
   <string name="notification_ongoing_call">Huidig gesprek</string>
@@ -759,7 +759,7 @@
   <string name="ota_listen">Volg de gesproken instructies tot u hoort dat de activering is voltooid.</string>
   <string name="ota_next">Volgende</string>
   <string name="ota_progress">Wacht even totdat uw telefoon is geprogrammeerd.</string>
-  <string name="ota_skip_activation_dialog_message">Als u de activering overslaat, kunt u niet bellen of verbinding maken met mobiele gegevensnetwerken(u kunt wel verbinding maken met WiFi netwerken). Tot u de telefoon activeert, wordt u gevraagd deze te activeren telkens wanneer u de telefoon inschakelt.</string>
+  <string name="ota_skip_activation_dialog_message">Als u de activering overslaat, kan u niet bellen of geen verbinding maken met mobiele gegevensnetwerken(u kunt wel verbinding maken met WiFi netwerken). Tot u de telefoon activeert, wordt u gevraagd deze telkenste activeren wanneer u de telefoon inschakelt.</string>
   <string name="ota_skip_activation_dialog_skip_label">Overslaan</string>
   <string name="ota_skip_activation_dialog_title">Activatie overslaan?</string>
   <string name="ota_spc_failure">VEEL SPC FOUTEN</string>
@@ -843,7 +843,7 @@
   <string name="preferred_network_mode_title">Netwerkmodus</string>
   <string name="preferred_network_mode_wcdma_only_summary">Bevoorkeurde netwerkmodus: Alleen WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Bevoorkeurde netwerkmodus: Bij voorkeur WCDMA</string>
-  <string name="preferred_network_type_3g_only_warning_miui">U zult niet in staat zijn om verbinding te maken met een netwerk als de SIM-kaart geen 3G ondersteunt</string>
+  <string name="preferred_network_type_3g_only_warning_miui">U zult niet in staat zijn om verbinding te maken met een netwerk als de SIM kaart geen 3G ondersteunt</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">Bij voorkeur 3G</string>
@@ -898,7 +898,7 @@
   <string name="remove_miui">Verwijderen</string>
   <string name="remove_sip_account">Account verwijderen</string>
   <string name="removing_account">Het account verwijderen…</string>
-  <string name="requesting_corporate_unlock">Aanvraag om zakelijke simkaart te deblokeren…</string>
+  <string name="requesting_corporate_unlock">Aanvraag om zakelijke SIM kaart te deblokkeren…</string>
   <string name="requesting_nw_subset_unlock">SIM kaart netwerk subgroep ontgrendeling verzoeken…</string>
   <string name="requesting_nw_unlock">SIM kaart netwerk ontgrendeling verzoeken…</string>
   <string name="requesting_puk_unlock">PUK code ontgrendeling verzoeken…</string>
@@ -1024,7 +1024,7 @@
   <string name="sip_settings">Instellingen voor bellen via internet</string>
   <string name="sip_settings_miui">Internet gesprek</string>
   <string name="sip_system_decide">Automatisch</string>
-  <string name="sliding_down_hint_miui">Sleep naar beneden om  te antwoorden</string>
+  <string name="sliding_down_hint_miui">Sleep naar beneden om te antwoorden</string>
   <string name="sliding_target_hint_miui">Versleep doelwit</string>
   <string name="sliding_up_hint_miui">Sleep omhoog om te weigeren</string>
   <string name="sms_content">Inhoud:</string>
@@ -1064,9 +1064,9 @@
   <string name="sum_cw_enabled">Waarschuw me voor binnenkomende gesprekken tijdens een gesprek</string>
   <string name="sum_default_caller_id">Gebruik de standaard operatorinstellingen om mijn nummer bij uitgaande gesprekken weer te geven</string>
   <string name="sum_fdn">Beheer van vaste nummers</string>
-  <string name="sum_fdn_change_pin">PIN code voor FDN-toegang wijzigen</string>
+  <string name="sum_fdn_change_pin">PIN code voor FDN toegang wijzigen</string>
   <string name="sum_fdn_manage_list">Lijst met telefoonnummers beheren</string>
-  <string name="sum_gsm_call_settings">Extra instellingen voor alleen gsm gesprekken</string>
+  <string name="sum_gsm_call_settings">Extra instellingen voor alleen GSM gesprekken</string>
   <string name="sum_hide_caller_id">Nummer verbergen bij uitgaande gesprekken</string>
   <string name="sum_loading_settings">Laden instellingen…</string>
   <string name="sum_search_networks">Alle beschikbare netwerken zoeken</string>
@@ -1164,13 +1164,13 @@
   <string name="voicemail_settings_number_label">Voicemailnummer</string>
   <string name="voicemail_settings_number_title_miui">Voicemailnummer</string>
   <string name="vt_init_fail_str">"VT initialisatie mislukt.  Gesprek downgraden naar VoLTE"</string>
-  <string name="wait_prompt_str">"Verstuur volgende beltonen?"</string>
+  <string name="wait_prompt_str">Verstuur volgende beltonen?</string>
   <string name="wild_prompt_str">Het jokerteken vervangen door</string>
   <string name="wrong_password">Wachtwoord fout</string>
   <string name="xdivert_active">Actief</string>
   <string name="xdivert_button">X-Divert Instelling</string>
   <string name="xdivert_enternumber_error">Telefoonnummer invoeren voor beide abonnementen</string>
-  <string name="xdivert_imsi_not_read">SIM-kaart initializeren, een moment geduld a.u.b en probeer het opnieuw.</string>
+  <string name="xdivert_imsi_not_read">SIM kaart initializeren, een moment geduld a.u.b en probeer het opnieuw.</string>
   <string name="xdivert_not_active">Niet actief</string>
   <string name="xdivert_not_supported">X Divert niet ondersteund voor CDMA</string>
   <string name="xdivert_partial_set">X Divert is alleen ingesteld voor 1e abonnement</string>

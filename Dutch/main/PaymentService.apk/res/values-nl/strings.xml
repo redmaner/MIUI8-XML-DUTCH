@@ -4,7 +4,7 @@
   <string name="balance_payment">%1$s Mi Credits</string>
   <string name="balance_title">Saldo</string>
   <string name="bankcall_bank_account">Bankkaart</string>
-  <string name="bankcall_call_hint">U krijgt binnenkort een  telefoontje van UnionPay (020-96585).</string>
+  <string name="bankcall_call_hint">U krijgt binnenkort een telefoontje van UnionPay (020-96585).</string>
   <string name="bankcall_card">Bankkaart</string>
   <string name="bankcall_card_hint">Voer je account nummer in</string>
   <string name="bankcall_card_type">%1$s-%2$s</string>
@@ -23,7 +23,7 @@
   <string name="bankcall_name">Naam</string>
   <string name="bankcall_name_hint">Naam verbonden met de account</string>
   <string name="bankcall_phone">Telefoon</string>
-  <string name="bankcall_phone_credit_hint">Bankrekening corresponderende persoonlijk telefoonnummer</string>
+  <string name="bankcall_phone_credit_hint">Bankrekening corresponderend met persoonlijk telefoonnummer</string>
   <string name="bankcall_phone_debit_hint">Zorg ervoor dat je een goede internetverbinding hebt.</string>
   <string name="bankcall_province">Provincie</string>
   <string name="bankcall_saved_card_info">%1$s - &lt;!-- Kaart --&gt; Nr. %2$s</string>
@@ -81,8 +81,8 @@
   <string name="detail_recharge_amount">Bedrag</string>
   <string name="detail_recharge_method">Methode</string>
   <string name="detail_recharge_order">Herladen bestel Nr.</string>
-  <string name="detail_recharge_time">Tiid</string>
-  <string name="detail_recharge_title">Her verslagen</string>
+  <string name="detail_recharge_time">Tijd</string>
+  <string name="detail_recharge_title">Herlaad verslagen</string>
   <string name="error_account_changed_summary">Je account info is veranderd. 
   Log weer in.</string>
   <string name="error_account_changed_title">Account is veranderd</string>
@@ -93,7 +93,7 @@ controleer lokale datum en probeer opnieuw.</string>
   <string name="error_expired_summary">Je bestelling is vervallen</string>
   <string name="error_frozen_summary">Je account is bevroren. 
 contacteer Xiaomi klantendienst.</string>
-  <string name="error_has_bought_summary">Je hebt dit product aal aangekocht.</string>
+  <string name="error_has_bought_summary">Je hebt dit product al aangekocht.</string>
   <string name="error_illegal_order_summary">Bestellings fout. Probeer later opnieuw</string>
   <string name="error_mili_summary">Onvoldoende saldo.</string>
   <string name="error_network_summary">Kon niet verbinden met netwerk</string>
@@ -114,7 +114,7 @@ contacteer Xiaomi klantendienst.</string>
   <string name="giftcard_denom_frozen">Mi Credit bevroren</string>
   <string name="giftcard_empty">Geen cadeaubons.</string>
   <string name="giftcard_expire">%1$s vervallen</string>
-  <string name="giftcard_hint">Mi Credits toegevoegd via cadeaubon zullen automatisch eerst  worden besteed.</string>
+  <string name="giftcard_hint">Mi Credits toegevoegd via cadeaubon zullen automatisch eerst worden besteed.</string>
   <string name="giftcard_payment">%1$s Mi Credits</string>
   <string name="giftcard_push_notification_prime_title">Je hebt een cadeaubon ontvangen</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi Credit weggevertje.</string>
@@ -218,7 +218,7 @@ contacteer Xiaomi klantendienst.</string>
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_error_install">Mislukt om %1$s mobiele veiligheids plugin te installeren</string>
   <string name="paytool_error_msp">%1$s mislukt</string>
-  <string name="paytool_msp_not_installed">Je hebt %1$s  %1$s  mobiele veiligheids plugin niet geïnstalleerd, nu installeren ?</string>
+  <string name="paytool_msp_not_installed">Je hebt %1$s  %1$s mobiele veiligheids plugin niet geïnstalleerd, nu installeren ?</string>
   <string name="paytool_tenpay">Tenpay</string>
   <string name="prepaid_card_order_info">%1$s herlaad kaart: RMB %2$s</string>
   <string name="prepaid_carriers_picker_hint">Maatschappij selecteren</string>
@@ -234,7 +234,7 @@ contacteer Xiaomi klantendienst.</string>
   <string name="prepaid_picker_hint_1_2">Ondersteunt alleen eenmalig bedrag;</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">Geselecteerde nominale waarde moet in overeenstemming zijn met die van de prepaid kaart. Door het kiezen van een andere waarde wordt de kaart ongeldig. Deze actie kan niet ongedaan gemaakt worden.</string>
-  <string name="prepaid_picker_hint_2_2_b">Als de nominale waarde van de prepaid kaart niet is &lt;font color=red&gt;￥%1$s&lt;/font&gt;, wordt de kaart ongeldig. Xiaomi is niet verantwoordelijk voor het eventuele monetaire verlies dat optreedt als gevolg van een fout van de gebruiker.</string>
+  <string name="prepaid_picker_hint_2_2_b">Als de nominale waarde van de prepaid kaart niet &lt;font color=red&gt;￥%1$s&lt;/font&gt;, wordt de kaart ongeldig. Xiaomi is niet verantwoordelijk voor het eventuele monetaire verlies dat optreedt als gevolg van een fout van de gebruiker.</string>
   <string name="prepaid_picker_title_default">Kies bedrag</string>
   <string name="prepaid_picker_title_selected">Bedrag</string>
   <string name="process_expired">Waar ga je heen? Deze bewerking is verlopen.</string>
@@ -253,7 +253,7 @@ contacteer Xiaomi klantendienst.</string>
   <string name="progress_paytool_installing">Installeren %1$s mobiele veiligheids plugin…</string>
   <string name="progress_prepaid_creating">Aanmaken van bestelling…</string>
   <string name="progress_querying">Verwerken…</string>
-  <string name="progress_submit_hint">Herladen zal wordt  binnen 3 minuten weergegeven in je account saldo.</string>
+  <string name="progress_submit_hint">Herladen zal wordt binnen 3 minuten weergegeven in je account saldo.</string>
   <string name="progress_submit_recharge_summary">Herladen: %1$s Mi Credits.</string>
   <string name="progress_submit_title">Aanvraag ingedient</string>
   <string name="progress_success_pay_summary">%1$s Mi Credits opgeladen，%2$s Mi Credits betaald</string>
@@ -291,7 +291,7 @@ Klantendienst： 400-100-5678"</string>
   <string name="scan_prompt_retry">Hou de code stil</string>
   <string name="scan_prompt_voucher">Scan Mi Credit wachtwoord</string>
   <string name="security_setting">Instellingen</string>
-  <string name="sms_code_empty">Voer de verzonde verificatie die naar je telefoon verzonden is.</string>
+  <string name="sms_code_empty">Voer de verzonden verificatie in die naar je telefoon verzonden is.</string>
   <string name="sms_code_error">Mobiele telefoon verificatiecode fout, opnieuw verkrijgen</string>
   <string name="sms_code_hint">Mobiele telefoon verificatiecode fout</string>
   <string name="summary_bind_phone">Om de veiligheid van uw account te waarborgen, vul de betaling pas in na binding van mobiele telefoon Nr.</string>

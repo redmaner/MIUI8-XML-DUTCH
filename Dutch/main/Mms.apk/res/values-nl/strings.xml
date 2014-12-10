@@ -19,7 +19,7 @@
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Timing</string>
   <string name="add_video">Video toevoegen</string>
-  <string name="adding_attachments">De items worden toegevoegd aan de diavoorstelling. Een ogenblik geduld..</string>
+  <string name="adding_attachments">De items worden toegevoegd aan de diavoorstelling. Een ogenblik geduld.</string>
   <string name="adding_attachments_title">Bijlagen toevoegen</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="alert_dlg_cancel_button">Annuleren</string>
@@ -149,10 +149,10 @@
   <string name="festival">Snelle reaties</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Deze functie dient verbinding te maken internet om normaal te functioneren.</string>
-  <string name="festival_never_remind">"Niet meer weergeven."</string>
+  <string name="festival_never_remind">Niet meer weergeven.</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Laden…</string>
-  <string name="fetion_prefix">[Open]</string>
+  <string name="fetion_prefix">[Openen]</string>
   <string name="file_create_time">Gemaakt op:</string>
   <string name="file_share_message_description">Ik wil graag bestanden met u delen.</string>
   <string name="file_size">Grootte:</string>
@@ -163,7 +163,7 @@
   <string name="forward_prefix">"Doorsturen: "</string>
   <string name="found_old_messages">Berichten uploaden van %1$s naar %2$s?</string>
   <string name="found_old_messages_title">Berichten uploaden van uw andere SIM kaarten?</string>
-  <string name="found_wild_messages">Berichten uit de onderstaande nummers zijn opgeslagen in je Mi Cloud. %s Download ze nu?</string>
+  <string name="found_wild_messages">Berichten uit de onderstaande nummers zijn opgeslagen in je Mi Cloud. %s Nu downloaden?</string>
   <string name="found_wild_messages_title">Berichten downloaden</string>
   <string name="from_label">"Van: "</string>
   <string name="group_message">Groeps bericht</string>
@@ -279,7 +279,7 @@
   <string name="no_subject">(Geen onderwerp)</string>
   <string name="no_subject_view">(Geen onderwerp)</string>
   <string name="non_english_subject_limit">Maximaal 13 tekens</string>
-  <string name="nosend_message">"Niet versturen"</string>
+  <string name="nosend_message">Niet versturen</string>
   <string name="notification_failed_multiple">"%s berichten kunnen niet worden verzonden"</string>
   <string name="notification_failed_multiple_title">Berichten niet verzonden</string>
   <string name="notification_multiple">%s ongelezen berichten</string>
@@ -320,7 +320,7 @@
   <string name="pref_summary_off_system_mms_priority">Gebruik apps van derden om uw MMS te verzonden of ontvangen</string>
   <string name="pref_summary_on_system_mms_priority">"Gebruik MIUI berichten app standaard voor het ontvangen van berichten en MMS</string>
   <string name="pref_summary_show_recent_contacts">Lijst met recente contacten weergeven tijdens het opstellen van een nieuw bericht</string>
-  <string name="pref_summary_wake_up_screen">Scherm gaat aan bij binnenkomende berichten</string>
+  <string name="pref_summary_wake_up_screen">Scherm gaat aan bij inkomende berichten</string>
   <string name="pref_system_title">Systeem</string>
   <string name="pref_time_auto_group_summary">Groeps berichten die worden ontvangen binnen een minuut van elkaar in dezelfde thread</string>
   <string name="pref_time_auto_group_title">Groepeer op tid</string>
@@ -385,7 +385,7 @@
   <string name="save">Opslaan</string>
   <string name="save_ringtone">Opslaan als beltoon</string>
   <string name="save_to_sim">Opslaan op SIM kaart</string>
-  <string name="save_to_sim_failed">Opslaan op SIM kaart mislukt. Hersteld naar telefoon geheugen"</string>
+  <string name="save_to_sim_failed">Opslaan op SIM kaart mislukt. Hersteld naar telefoon geheugen</string>
   <string name="saved_label">"Opgeslaagd: "</string>
   <string name="saved_ringtone">Beltoon opgeslagen</string>
   <string name="saved_ringtone_fail">Kan beltoon niet opslaan</string>
@@ -408,7 +408,7 @@
   <string name="send">Verzenden</string>
   <string name="send_hms_editor_hints">Mi Message</string>
   <string name="send_message_dlg_check_hint">Niet meer weergeven</string>
-  <string name="send_message_dlg_mgs">CMCC mededeling: We moeten het apparaat naar apparaat beheerplatform registreren om de gratis post-service(Post-service is een platform door CMCC dat de terminal apparaten kunnen beheren. Het geeft u de service om op afstand instellingen en app upgraden.). Een gratis bericht van de informatie over het apparaat worden gestuurd voor registratie. Het bericht wordt slechts een keer verzonden en heefft u geen persoonlijke gegevens nodig(Niet verzenden van Hong Kong, Macau, Taiwan en internationale roaming). Selecteer "OK" om het te registreren en gebruik maken van de service. Selecteer "Annuleren"  en er zal geen service worden verstrekt van CMCC.</string>
+  <string name="send_message_dlg_mgs">CMCC mededeling: We moeten het apparaat naar apparaat beheerplatform registreren om de gratis post service(Post service is een platform door CMCC dat de terminal apparaten kunnen beheren.(Het geeft u de service om op afstand instellingen en app upgraden.). Een gratis bericht van de informatie over het apparaat worden gestuurd voor registratie. Het bericht wordt slechts een keer verzonden en heeft u geen persoonlijke gegevens nodig(Niet verzenden van Hong Kong, Macau, Taiwan en internationale roaming). Selecteer "OK" om het te registreren en gebruik maken van de service. Selecteer "Annuleren"  en er zal geen service worden verstrekt van CMCC.</string>
   <string name="send_message_dlg_title">Apparaatbeheer</string>
   <string name="send_message_notification_msg">Druk om de details te zien.</string>
   <string name="send_message_notification_tickerText">Het toestel vraagt toestemming aan</string>
@@ -440,9 +440,9 @@
   <string name="slide_show_part">Deel %1$s/%2$s</string>
   <string name="slideshow_activity">Diavoorstelling</string>
   <string name="sms_content">Bericht inhoud:</string>
-  <string name="sms_full_body">"Inkomend bericht afgewezen: Niet genoeg ruimte op dit apparaat."</string>
+  <string name="sms_full_body">"Inkomend bericht weigeren: Niet genoeg ruimte op dit apparaat."</string>
   <string name="sms_full_title">SMS geheugen vol</string>
-  <string name="sms_rejected_body">Een inkomend bericht is afgewezen.</string>
+  <string name="sms_rejected_body">Een inkomend bericht is weigeren.</string>
   <string name="sms_rejected_title">Bericht afgewezen</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankdienst berichten</string>
@@ -485,7 +485,7 @@
   <string name="toast_feedback_max">U mag maar 3 keer per dag een feedback geven</string>
   <string name="toast_feedback_start">Feedback verzenden…</string>
   <string name="too_many_attachments">Er is een limiet van %1$s bijlagen. Alleen de eerste %2$s worden toegevoegd.</string>
-  <string name="too_many_recipients">"Bericht bevat te veel ontvangers (%1$s). De limiet is %2$s ontvangers.."</string>
+  <string name="too_many_recipients">"Bericht bevat te veel ontvangers (%1$s). De limiet is %2$s ontvangers."</string>
   <string name="too_many_unsent_mms">Bericht verzenden mislukt. Er zijn teveel onverzonden multimedia berichten."</string>
   <string name="try_to_send">Poging tot verzenden</string>
   <string name="type_attachment">Bijlage</string>
@@ -504,7 +504,7 @@
   <string name="unstick_conversation">Vastprikken huidige conversatie ongedaan maken</string>
   <string name="unsticked_conversation">Conversatie is al ontprikt</string>
   <string name="unsupported_media_format">Niet ondersteund %1$s formaat.</string>
-  <string name="user_agreement1">Lees de toepasselijke voorwaarden zorgvuldig door voordat u extra software te installeren of het product gebruikt.</string>
+  <string name="user_agreement1">Lees de toepasselijke voorwaarden zorgvuldig door voordat u extra software installeerd of het product gebruikt.</string>
   <string name="user_agreement2">" Gebruiker overeenkomst"</string>
   <string name="user_agreement3">" en "</string>
   <string name="user_agreement4">Privacy beleid</string>
@@ -514,7 +514,7 @@
   <string name="view_hms_attachment_fail">Kan afbeelding niet downloaden</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">Details weergeven</string>
-  <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="wap_push_title">"[WAP Push]"</string>
   <string name="xiaomi_service_number">Service nummer</string>
   <string name="yes">OK</string>
 </resources>

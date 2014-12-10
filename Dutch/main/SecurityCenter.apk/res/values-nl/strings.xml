@@ -95,7 +95,7 @@
   <string name="button_text_install">Installeer</string>
   <string name="button_text_known">OK</string>
   <string name="button_text_next_step">Volgende</string>
-  <string name="button_text_next_step_timer">Volgend stap (%d)</string>
+  <string name="button_text_next_step_timer">Volgend stap(%d)</string>
   <string name="button_text_quick_clean">Optimaliseer</string>
   <string name="button_text_reject">Weigeren</string>
   <string name="button_text_reject_timer">Weiger (%d)</string>
@@ -143,7 +143,7 @@
   <string name="descx_start_scan_memory">Geheugen scan starten</string>
   <string name="descx_start_scan_system">System beschermings scan system bescherming</string>
   <string name="details_subtitle">Gebruikers details</string>
-  <string name="dialog_msg_auto_start_declare">Sommige beveiligings apps kunnen foutief aangeven dat MIUI hen heeft verhinderd te starten. Als u de machtigingen wilt controleren die zijn toegekend aan individuele apps , gaat u naar Instellingen &gt; Apps.</string>
+  <string name="dialog_msg_auto_start_declare">Sommige beveiligings apps kunnen foutief aangeven dat MIUI hen heeft verhinderd te starten. Als u de machtigingen wilt controleren die zijn toegekend aan individuele apps, gaat u naar Instellingen &gt; Apps.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Geselecteerde apps backuppen en verwijderen?</string>
   <string name="dialog_msg_check_all">Bevestigen om te selecteren dat %1$s  %2$d items bevat</string>
   <string name="dialog_msg_load_cleanup_engine_error">Opruimer beschadigd.</string>
@@ -177,7 +177,7 @@
   <string name="examination_score_60_0">Je moet waarschijnlijk  uw telefoon optimaliseren</string>
   <string name="examination_score_80_100">Enkele items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_80_100_with_recommend">%d items can be optimized</string>
-  <string name="examination_score_80_60">Sommmige items  kunnen geoptimaliseerd worden</string>
+  <string name="examination_score_80_60">Sommmige items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_has_virus">Sommige verdachte apps werden gedetecteerd</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Geheugen</string>
@@ -277,7 +277,7 @@
   <string name="last_check_canceled">Vorige scan is geannuleerd</string>
   <string name="last_check_date_today">Meest recente scan: vandaag</string>
   <string name="last_check_date_yesterday">Meest recente scan: gisteren</string>
-  <string name="last_check_never_checked">Scan aanbevolen (eerste keer)</string>
+  <string name="last_check_never_checked">Scan aanbevolen(eerste keer)</string>
   <string name="last_checked_date2">Meest recente scan was %d dagen geleden</string>
   <string name="last_checked_default">Meest recente scan was %s dagen geleden</string>
   <string name="legal_workday">Vakantie</string>
@@ -294,7 +294,7 @@
   <string name="menu_item_about_title">Over</string>
   <string name="menu_item_app_details">Details</string>
   <string name="menu_item_app_permissions_control">Toestemmings manager</string>
-  <string name="menu_item_control_app_permissions">Uw toestemming vragen alvorens apps uw contacten lezen, oproeplogs bekijken , systeeminstellingen wijzigen  of de toegang tot de camera en andere hulpmiddelen krijgen</string>
+  <string name="menu_item_control_app_permissions">Uw toestemming vragen alvorens apps uw contacten lezen, oproeplogs bekijken, systeeminstellingen wijzigen of de toegang tot de camera en andere hulpmiddelen krijgen</string>
   <string name="menu_item_force_stop">Stoppen forceren</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
@@ -423,8 +423,8 @@
   <string name="power_dialog_cpu_state_save_desc">Maak batterij leven een hogere prioriteit dan CPU prestaties</string>
   <string name="power_dialog_cpu_state_title">CPU verbruik</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">Je gebruikt mommenteel dit profiel</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij bijna leeg is. Je  je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij bijna leeg is. Je  je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij bijna leeg is. Je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij bijna leeg is. Je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij oplaad, je moet je instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Uw apparaat is gepland om later over te schakelen naar dit profiel. U moet uw batterij instellingen wijzigen voordat u deze configuratie kunt verwijderen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">Uw apparaat is gepland om later over te schakelen naar dit profiel. Je nmoet je batterij instellingen wijzigen voordat je dit profiel kan verwijderen.</string>
@@ -578,7 +578,7 @@
   <string name="protection_category_security_title">Opruimen (%d)</string>
   <string name="risk_list_header_title">%d verdachte app gedetecteerd</string>
   <string name="root_apply_step_1">%s root toegang verlenen?</string>
-  <string name="root_apply_step_2">Apps root toegang verlenen  kan ertoe leiden dat uw apparaat instabiel wordt.</string>
+  <string name="root_apply_step_2">Apps root toegang verlenen kan ertoe leiden dat uw apparaat instabiel wordt.</string>
   <string name="root_apply_step_3">Uw gegevens zijn kwetsbaarder voor aanvallen van apps met root toegang.</string>
   <string name="root_apply_step_4">Apps root toegang verlenen is op eigen risico.</string>
   <string name="root_apply_step_5">%s root toegang verlenen?</string>
@@ -606,7 +606,7 @@
   <string name="summary_garbage_lib">Gebruik de nieuwste definities om spyware, adware en andere ongewenste rommel te verwijderen</string>
   <string name="summary_install_virus">Controleer apps op virussen voor installeren</string>
   <string name="summary_miui_update">Update beschikbaar voor %s.</string>
-  <string name="summary_mms">Filteren van ongewenste berichten (sales, ads, etc.)</string>
+  <string name="summary_mms">Filteren van ongewenste berichten (sales, adv, etc.)</string>
   <string name="summary_optimizer">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_permission">Mijn privacy beschermen tegen potentieel schadelijke apps van derden</string>
   <string name="summary_permission_root">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen van apps die root toegang hebben</string>
@@ -663,7 +663,7 @@
   <string name="title_virus_update_yes">Automatisch update voor virus definities aan</string>
   <string name="title_virus_yes">Geen virussen gevonden</string>
   <string name="toast_add_white_list_success">" toevoegen aan uitzonderingen"</string>
-  <string name="toast_app_no_residual_on_sdcard">App bevat geen bestanden die opgeslagen zijn op de SD-kaart </string>
+  <string name="toast_app_no_residual_on_sdcard">App bevat geen bestanden die opgeslagen zijn op de SD kaart </string>
   <string name="toast_backup_is_running">Backup is al actief. Wacht even en probeer opnieuw.</string>
   <string name="toast_backup_uninstall_failed">Mislukt om %d apps te backuppen. Wacht even en probeer opnieuw.</string>
   <string name="toast_backup_uninstall_success">Backup en verwijderen voltooid</string>
