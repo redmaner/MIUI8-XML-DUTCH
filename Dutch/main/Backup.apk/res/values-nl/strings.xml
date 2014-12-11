@@ -55,7 +55,7 @@
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Lokaal: %1$s | Mi Cloud: %2$s)"</string>
-  <string name="cloud_last_backup">Laatste backup:</string>
+  <string name="cloud_last_backup">"Laatste backup op "</string>
   <string name="cloud_no_backup">Geen backups</string>
   <string name="cloud_restore_guide">Om gebruikers gegevens te herstellen %s, druk op herstellen</string>
   <string name="cloud_restore_title">Herstel backup gegevens</string>
@@ -68,12 +68,12 @@
   <string name="current_sim">Huidige SIM kaart</string>
   <string name="data_no_enough_space">Niet genoeg ruimte</string>
   <string name="data_no_enough_space_message">Niet genoeg interne opslag ruimte</string>
-  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">Vewijderen</string>
   <string name="delete_backup_process">Verwijderen…</string>
   <string name="delete_failed_backup_confirm">De backup bevat een fout, kan niet herstellen vanaf deze backup</string>
   <string name="deselect_all">Alles deselecteren</string>
-  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+  <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="disable_encrypt_title">Encryptie uitschakelen</string>
   <string name="enable_encrypt">Nu inschakelen</string>
   <string name="enable_encrypt_fail">Encryptie inschakelen mislukt</string>
@@ -111,7 +111,7 @@
   <string name="multi_select_title">%1$s geselecteerd</string>
   <string name="never">Nooit</string>
   <string name="no_encrypt_password">Geen gecodeerd wachtwoord</string>
-  <string name="no_network">Kon niet verbinden met netwerk</string>
+  <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="note_title">Notities</string>
   <string name="nothing_searched">Geen zoek resultaten gevonden</string>
   <string name="progress_backup_hint">Backuppen:</string>

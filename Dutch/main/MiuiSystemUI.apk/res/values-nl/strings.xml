@@ -40,7 +40,7 @@
   <string name="accessibility_wifi_signal_full">Wifi signaal is op volledige sterkte.</string>
   <string name="accessibility_wifi_three_bars">Wifi: drie streepjes.</string>
   <string name="accessibility_wifi_two_bars">Wifi: twee streepjes.</string>
-  <string name="accessibility_wimax_one_bar">"WiMAX: één streepje"string>
+  <string name="accessibility_wimax_one_bar">"WiMAX: één streepje"</string>
   <string name="accessibility_wimax_signal_full">"WiMAX signaal  is op volle sterkte."</string>
   <string name="accessibility_wimax_three_bars">WiMAX: drie streepjes.</string>
   <string name="accessibility_wimax_two_bars">WiMAX: twee streepjes.</string>
@@ -153,6 +153,9 @@
   <string name="share">Deel</string>
   <string name="status_bar_date_format">M/d E</string>
   <string name="status_bar_date_formatter">%2$s</string>
+  <string name="status_bar_network_flow">"Vandaag: %1$s    Overblijvend: %2$s    Maandelijks limiet: %3$s"</string>
+  <string name="status_bar_network_flow_exceed">Vandaag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Overschreden:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maandelijks limiet: %4$s</string>
+  <string name="status_bar_network_flow_today">Vandaag: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Geen recente apps</string>
   <string name="status_bar_notification_inspect_item_title">App-info</string>
