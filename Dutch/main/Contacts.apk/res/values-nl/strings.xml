@@ -58,7 +58,7 @@
   <string name="callNoAnswerTimeFormat">%s Gebeld</string>
   <string name="callShortcutActivityTitle">Kies een nummer om te bellen</string>
   <string name="call_assistant">%s bellen</string>
-  <string name="call_callback">Terugbelnummer bellen</string>
+  <string name="call_callback">Nummer terug bellen</string>
   <string name="call_car">Auto bellen</string>
   <string name="call_company_main">Hoofdnummer bedrijf bellen</string>
   <string name="call_custom">%s bellen</string>
@@ -94,11 +94,11 @@
   <string name="callrecordview_item_op_time_missed">Niet verbonden</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
-  <string name="callrecordview_item_op_time_rejected">Afgewezen</string>
+  <string name="callrecordview_item_op_time_rejected">Geweigerd</string>
   <string name="callrecordview_item_op_time_short_incoming">"Inkomend: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Uitgaand: "</string>
   <string name="callrecordview_menu_add_call_note">Gespreksnotitie toevoegen</string>
-  <string name="callrecordview_menu_batch_delete">Afwijzen</string>
+  <string name="callrecordview_menu_batch_delete">Weigeren</string>
   <string name="callrecordview_menu_delete">Gesprekslog verwijderen</string>
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_all">Alle gesprekslogs verwijderen</string>
@@ -126,7 +126,7 @@
   <string name="cancel_import_confirmation_message">Import van %s annuleren?</string>
   <string name="cancel_import_dialog_message">Contactpersonen importeren stoppen?</string>
   <string name="cancel_import_dialog_title">Stoppen</string>
-  <string name="cancel_vcard_import_or_export_failed">Kan vCard-import/export niet annuleren</string>
+  <string name="cancel_vcard_import_or_export_failed">Kan vCard import/export niet annuleren</string>
   <string name="chat">Chatten</string>
   <string name="chat_aim">Chatten via AIM</string>
   <string name="chat_gtalk">Chatten via Google Talk</string>
@@ -161,7 +161,7 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Gesprekslogs verwijderen?</string>
   <string name="confirm_delete_selected_all_call_logs">Gesprekslogs verwijderen?</string>
-  <string name="confirm_delete_sim_entry_miui">%d contacten verwijderen van SIM-kaart?</string>
+  <string name="confirm_delete_sim_entry_miui">%d contacten verwijderen van SIM kaart?</string>
   <string name="confirm_export_message">Uw lijst met contactpersonen wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contactpersonen exporteren?</string>
   <string name="connections">Verbindingen</string>
@@ -349,7 +349,7 @@
   <string name="export_sim_contact_finish">Contacten geëxporteerd</string>
   <string name="export_sim_contact_finish_failure">%1$d overgedragen | %2$d resterende</string>
   <string name="export_sim_contact_finish_success">%d Contact(en)gekopiëerd </string>
-  <string name="export_sim_contacts_dialog_message">De SIM-kaart kan %d contacten opslaan</string>
+  <string name="export_sim_contacts_dialog_message">De SIM kaart kan %d contacten opslaan</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar SIM kaart</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
@@ -376,7 +376,7 @@
   <string name="fail_reason_too_long_filename">"Vereiste bestandsnaam is te lang('%s')."</string>
   <string name="fail_reason_too_many_vcard">Er staan te veel vCard bestanden in de opslag.</string>
   <string name="fail_reason_unknown">Onbekende fout.</string>
-  <string name="fail_reason_vcard_parse_error">Kan vCard om onverwachte reden niet parseren.</string>
+  <string name="fail_reason_vcard_parse_error">Kan vCard om onverwachte reden niet ontleden.</string>
   <string name="fail_to_add_account">"Account toevoegen mislukt"</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
   <string name="favoritesFrequentContacted">Regelmatig contact mee opgenomen</string>
@@ -463,11 +463,11 @@
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Geen dublicaten gevonden</string>
   <string name="label_notes">Opmerkingen</string>
-  <string name="label_sip_address">Internetoproep</string>
+  <string name="label_sip_address">Internetgesprek</string>
   <string name="launcherDialer">Telefoon</string>
   <string name="listCustomView">Contacten in aangepaste weergave</string>
   <string name="listFoundAllContactsZero">Geen contacten</string>
-  <string name="listSingleContact">Eén contact</string>
+  <string name="listSingleContact">Een contact</string>
   <string name="listTotalAllContactsZero">Geen contacten.</string>
   <string name="listTotalAllContactsZeroCustom">Geen zichtbare contacten.</string>
   <string name="listTotalAllContactsZeroGroup">Geen contacten in %s</string>
@@ -542,7 +542,7 @@
   <string name="menu_search">Zoeken</string>
   <string name="menu_select_all">Alles selecteren</string>
   <string name="menu_select_none">Selectie ongedaan maken</string>
-  <string name="menu_sendSMS">SMSen naar contact</string>
+  <string name="menu_sendSMS">"SMS'en naar contact"</string>
   <string name="menu_sendTextMessage">Tekstbericht verzenden</string>
   <string name="menu_set_ring_tone">Beltoon instellen</string>
   <string name="menu_settings">Instellingen</string>
@@ -579,7 +579,7 @@
   <string name="nickname_picker_nickname_column">Titel</string>
   <string name="noAccounts">U heeft een account nodig om groepen te maken.</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Contacten hersttel via Mi Account</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Contacten herstellen via Mi Account</string>
   <string name="noContacts">Geen contacten.</string>
   <string name="noContactsHelpText">"U heeft geen contacten om weer te geven. Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SIM- of SDkaart"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;""</string>
   <string name="noContactsHelpTextForCreateShortcut">Er zijn geen contacten om weer te geven.</string>
@@ -675,7 +675,7 @@
   <string name="preference_contacts_display">Afbeeldings voorkeuren</string>
   <string name="preference_contacts_filter">Configureren contactlijsten</string>
   <string name="preference_contacts_more">Organiseer contacten</string>
-  <string name="preference_dial_pad_touch_tone_default">Default</string>
+  <string name="preference_dial_pad_touch_tone_default">Standaard</string>
   <string name="preference_dial_pad_touch_tone_human">Stem</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano toetsen</string>
   <string name="preference_dial_pad_touch_tone_switch">Toetsenblok aanraakgeluiden</string>
@@ -685,7 +685,7 @@
   <string name="preference_export">Exporteer</string>
   <string name="preference_import">Importeer</string>
   <string name="preference_import_export">Import/Export</string>
-  <string name="preference_import_export_title">Import/Export contacts</string>
+  <string name="preference_import_export_title">Import/Export contacten</string>
   <string name="preference_others">Overige</string>
   <string name="preference_phone">Telefoon</string>
   <string name="preference_phone_more_title">Bel instellingen</string>
@@ -718,7 +718,7 @@
   <string name="quit_dialog_confirm_title">U heeft geen contacten samengevoegd</string>
   <string name="readOnlyContactDeleteConfirmation">Dit contact bevat gegevens uit meerdere accounts. Gegevens uit alleen lezen accounts worden verborgen in uw contactenlijst, maar niet verwijderd.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" bevat informatie van meerdere accounts. Informatie van alleen lezen accounts worden verborgen in uw contactenlijst.</string>
-  <string name="readOnlyContactWarning">U kunt contacten niet verwijderen uit alleen-lezen-accounts, maar u kunt ze verbergen in uw contactenlijst.</string>
+  <string name="readOnlyContactWarning">U kunt contacten niet verwijderen uit alleen lezen accounts, maar u kunt ze verbergen in uw contactenlijst.</string>
   <string name="readingSimContacts">Uitlezen SIM kaart…</string>
   <string name="reading_vcard_canceled_title">Lezen van vCard gegevens geannuleerd</string>
   <string name="reading_vcard_failed_title">Kan vCard gegevens niet lezen</string>
@@ -738,7 +738,7 @@
   <string name="recent_updates">Recente updates</string>
   <string name="redirect_calls_to_vm_confirm_message">Voordat u uw mailbox instelt, lees de algemene voorwaarden van uw netwerk provider.</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
-  <string name="refresh">Ververs</string>
+  <string name="refresh">Vernieuwen</string>
   <string name="relationLabelsGroup">Relatie</string>
   <string name="removePhoto">Foto verwijderen</string>
   <string name="remove_blacklist">Deblokkeren</string>
@@ -861,7 +861,7 @@
   <string name="resource_price_unit"> Mi Credits</string>
   <string name="resource_purchase_getting_order">Bestellings info verkrijgen…</string>
   <string name="resource_purchase_verifying_payment">Betalings info verifiëren</string>
-  <string name="resource_purchase_waiting_payment">WWachten op betalings info…</string>
+  <string name="resource_purchase_waiting_payment">Wachten op betalings info…</string>
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betaald</string>
@@ -910,7 +910,7 @@
   <string name="scan_qrcode_card_hint2">Mijn info toevoegen aan contacten</string>
   <string name="scanning_sdcard_failed_message">"De opslag kan niet worden gescand.(Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">"De opslag kan niet worden gescand"</string>
-  <string name="sdcard_not_mounted_dialog_message">SDKaart nu insteken.</string>
+  <string name="sdcard_not_mounted_dialog_message">SD kaart nu insteken.</string>
   <string name="sdcard_not_mounted_dialog_title">Geen SD kaart gedetecteerd</string>
   <string name="searchHint">Contacen zoeken</string>
   <string name="search_results_searching">Zoeken...</string>
@@ -956,14 +956,14 @@
   <string name="sim_contacts">SIM kaart contacten</string>
   <string name="sim_error_anr_full">Er is niet genoeg ruimte op de SIM kaart</string>
   <string name="sim_error_email_full">Er is niet genoeg ruimte op de SIM kaart</string>
-  <string name="sim_error_email_too_long">Het e-mail adres is te lang</string>
+  <string name="sim_error_email_too_long">Het email adres is te lang</string>
   <string name="sim_error_generic_failure">Er is een fout opgetreden</string>
   <string name="sim_error_not_ready">Contacten van de SIM kaart worden geladen…</string>
   <string name="sim_error_number_too_long">Het nummer is te lang</string>
   <string name="sim_error_password_error">Het ingevoerde wachtwoord is incorrect</string>
   <string name="sim_error_storage_full">SIM kaart opslag is vol</string>
   <string name="sim_error_text_too_long">De naam is te lang</string>
-  <string name="sim_export_loading">SIM- kaart wordt geladen…</string>
+  <string name="sim_export_loading">SIM kaart wordt geladen…</string>
   <string name="sim_indexed_contact_not_exist">Positie %1$d is niet beschikbaar op de SIM kaart. Kies een nummer tussen %2$d en %3$d.</string>
   <string name="sim_no_contact">Geen contacten aanwezig op de SIM kaart</string>
   <string name="sina_weibo">Sina Weibo</string>
@@ -1065,8 +1065,8 @@
   <string name="voicemail">Voicemail</string>
   <string name="voicemail_buffering">Buffering…</string>
   <string name="voicemail_fetching_content">Voicemail ophalen…</string>
-  <string name="voicemail_fetching_timout">"Voicemail kan niet opgehaald worden."</string>
-  <string name="voicemail_playback_error">"Voicemail kan niet afgespeeld worden."</string>
+  <string name="voicemail_fetching_timout">Voicemail kan niet opgehaald worden.</string>
+  <string name="voicemail_playback_error">Voicemail kan niet afgespeeld worden.</string>
   <string name="voicemail_speed_faster">Snel</string>
   <string name="voicemail_speed_fastest">Snelst</string>
   <string name="voicemail_speed_normal">Normale snelheid</string>
@@ -1076,8 +1076,8 @@
   <string name="voicemail_status_action_configure">Instellen</string>
   <string name="voicemail_status_audio_not_available">Audio niet beschikbaar.</string>
   <string name="voicemail_status_configure_voicemail">Stel uw voicemail in.</string>
-  <string name="voicemail_status_messages_waiting">"Geen verbinding met de voicemail server. Nieuwe voicemail berichten wachten."</string>
-  <string name="voicemail_status_voicemail_not_available">"Er kan geen verbinding met de voicemail server gemaakt worden."</string>
+  <string name="voicemail_status_messages_waiting">Geen verbinding met de voicemail server. Nieuwe voicemail berichten wachten.</string>
+  <string name="voicemail_status_voicemail_not_available">Er kan geen verbinding met de voicemail server gemaakt worden.</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Verwijder data</string>

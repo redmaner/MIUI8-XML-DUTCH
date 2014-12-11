@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het parseren van het pakket.</string>
+  <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het ontleden van het pakket.</string>
   <string name="Parse_error_dlg_title">Parseer fout</string>
   <string name="allow_source_dlg_text">"%1$s wil andere apps installeren. Dit voortaan toestaan?"</string>
   <string name="allow_source_dlg_title">Nieuwe bron voor apps toestaan?</string>
@@ -30,7 +30,7 @@
   <string name="install_failed_system_incompatible">Deze app is niet compatibel met MIUI</string>
   <string name="install_failed_verify_failed">Het pakket is niet geverifieerd en kan niet worden geïnstalleerd.</string>
   <string name="install_failed_verify_timeout">Time out tijdens het controleren van dit pakket. Probeer het later opnieuw.</string>
-  <string name="installing">Installeren...</string>
+  <string name="installing">Installeren…</string>
   <string name="launch">Openen</string>
   <string name="lift_ban">Verbod opheffen</string>
   <string name="low_risk_perms">Lage Risico Machtigingen</string>
@@ -85,6 +85,6 @@
   <string name="virus_scan_caller_unknown">Onbekend</string>
   <string name="virus_scan_clear">Verwijderen</string>
   <string name="virus_scan_install">&lt;u&gt;Toch installeren&lt;/u&gt;</string>
-  <string name="virus_scan_is_risk">"Deze app is een risico voor de veiligheid van uw apparaat."</string>
+  <string name="virus_scan_is_risk">Deze app is een risico voor de veiligheid van uw apparaat.</string>
   <string name="virus_scan_is_virus">Deze app bevat een virus!</string>
 </resources>

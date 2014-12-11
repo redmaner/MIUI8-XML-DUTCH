@@ -67,7 +67,7 @@
   <string name="free_space_has_received">Je heb je gratis ruimte voor deze maand al toegevoegd</string>
   <string name="free_space_receive_fail">Kan niet upgraden</string>
   <string name="get_first_month_gb">Verkrijg %s aan gratis ruimte</string>
-  <string name="get_this_month_gb">Verkrijg %s oaan gratis ruimte deze maand</string>
+  <string name="get_this_month_gb">Verkrijg %s aan gratis ruimte deze maand</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
@@ -79,13 +79,13 @@
   <string name="license_host_unreachable">Kan geen verbinding maken met het netwerk. Als u deze informatie nu wilt weergeven gaat u naar %s.</string>
   <string name="loading">Laden…</string>
   <string name="loading_hint">Laden</string>
-  <string name="master_alert_notif_dspt_add">%s te synchroniseren items</string>
+  <string name="master_alert_notif_dspt_add">Wachten om %s items te synchroniseren</string>
   <string name="master_alert_notif_dspt_no">Gesynchroniseerd</string>
   <string name="master_alert_notif_title">Laatst gesyncroniseerd %s dagen geleden</string>
   <string name="micloud_check_sim_notify_text">Je hebt SIM kaarten veranderd. Log in 
 om uw Mi account om je Mi Cloud te heractiveren</string>
-  <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
-  <string name="micloud_check_sim_title">e hebt SIM kaarten veranderd. Log in
+  <string name="micloud_check_sim_notify_title">Reactiveer Mi Cloud</string>
+  <string name="micloud_check_sim_title">Je hebt SIM kaarten veranderd. Log in
 om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_fail">Mislukt</string>
   <string name="micloud_detail_lastest">Synced</string>
@@ -94,22 +94,22 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_preference_wlan">Sync. op WiFi</string>
   <string name="micloud_detail_success">Synced</string>
   <string name="micloud_detail_syncing">Syncing</string>
-  <string name="micloud_detail_wlan">%d data ongesynced</string>
-  <string name="micloud_detail_wlan_contact">%d contact foto ongesynced</string>
-  <string name="micloud_detail_wlan_mms">%d mms ongesynced</string>
+  <string name="micloud_detail_wlan">%d wacht om te sync.</string>
+  <string name="micloud_detail_wlan_contact">%d wacht om contact foto te sync.</string>
+  <string name="micloud_detail_wlan_mms">%d mwacht om MMS te sync.</string>
   <string name="micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren en om het apparaat te lokaliseren.</string>
   <string name="micloud_dspt_provision">Gebruik Mi Cloud om gegevens te synchroniseren, om het apparaat te lokaliseren en om te delen met vrienden.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. Wanneer uw cloud vol is, zullen de oude gegevens niet verwijderd worden. Maar alle nieuwe gegevens die u toevoegt(bijvoorbeeld foto's, video's, notities en apps) worden niet meer gebackupt. Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
-  <string name="micloud_main_data_unsynced">%d te synchroniseren items</string>
+  <string name="micloud_main_data_unsynced">Wachten om %d items te synchroniseren</string>
   <string name="micloud_main_detail">Detail weergeven</string>
-  <string name="micloud_main_last_sync_time">Laatste gesync. tijd is %s</string>
+  <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
   <string name="micloud_main_network_abnormal">Kan niet verbinden met netwerk</string>
   <string name="micloud_main_network_error">Kan geen verbinding maken met het netwerk</string>
   <string name="micloud_main_set_internet">Network</string>
-  <string name="micloud_main_space_full">Opslagruimte vol</string>
+  <string name="micloud_main_space_full">Verkrijg meer opslagruimte</string>
   <string name="micloud_main_space_risk">Je hebt %d data om te sync. Vergroot de opslagruimte.</string>
   <string name="micloud_main_stop_sync">Synchroniseren stoppen</string>
   <string name="micloud_main_suggest_sync">Sommige items zijn niet gesynchroniseerd met Mi Cloud</string>
@@ -121,7 +121,7 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_main_synced_data_count">%d data is gesync.</string>
   <string name="micloud_main_syncing">Data aan het sync…</string>
   <string name="micloud_main_update_space">Vergroot opslagruimte</string>
-  <string name="micloud_main_wlan_sync_data_count">%d data zal op Wifi gesync. worden</string>
+  <string name="micloud_main_wlan_sync_data_count">%d wachten om te sync. over WiFi</string>
   <string name="micloud_more">Meer informatie</string>
   <string name="micloud_other_product_price">Vergelijk prijzen</string>
   <string name="micloud_proceed">Doorgaan</string>
@@ -183,7 +183,7 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">U kunt deze functie op elk moment in- en uitschakelen in Instellingen."</string>
-  <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle oproepen op deze telefoon</string>
+  <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle gesprekken op deze telefoon</string>
   <string name="sync_item_calllog_title">Oproep Logs Synchroniseren</string>
   <string name="sync_item_sms_summary">Alle SMSen synchroniseren van de telefoon</string>
   <string name="sync_item_sms_title">Berichten synchroniseren</string>
