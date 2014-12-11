@@ -182,8 +182,8 @@
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Geheugen</string>
   <string name="handle_text_system">Systeem</string>
-  <string name="header_antivirus">"Door het gebruik van deze functie, gaat u akkoord met Tencent's "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Servicevoorwaarden&lt;/a&gt;.</string>
-  <string name="header_optimizer">"Door het gebruik van deze functie, gaat u akkoord met Clean Master's "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Servicevoorwaardene&lt;/a&gt;.</string>
+  <string name="header_antivirus">"Door het gebruik van deze functie, gaat u akkoord met Tencent's "&lt;a href="http://www.tencent.com/en-us/zc/privacypolicy.shtml"&gt;Servicevoorwaarden&lt;/a&gt;.</string>
+  <string name="header_optimizer">"Door het gebruik van deze functie, gaat u akkoord met Cheetah Mobile's "&lt;a href="https://www.cmcm.com/protocol/site/privacy.html?p=cm"&gt;Servicevoorwaardene&lt;/a&gt;.</string>
   <string name="hints_ad_header_left">Bestanden toevoegen: %d</string>
   <string name="hints_apk_header_left">Installeer pakketen: %d</string>
   <string name="hints_apk_version">Versie: %s</string>
@@ -320,6 +320,8 @@
   <string name="msg_update_error_code_no_newer_db">Opruimer is up to date</string>
   <string name="msg_update_error_code_success">Update voltooid</string>
   <string name="msg_update_error_code_unknown_error">Onbekende fout</string>
+  <string name="name_antivirus">"Tencent's Privacybeleid"</string>
+  <string name="name_optimizer">"Cheetah Mobile's Privacybeleid"</string>
   <string name="never">1 maal</string>
   <string name="notification_button_text_of_low_memory">Opruimen</string>
   <string name="notification_summary_of_garbage_cleanup">Je afval is over de %s.</string>
@@ -528,6 +530,8 @@
   <string name="pref_title_garbage_cleanup_check_time">Afval alarm</string>
   <string name="pref_title_manual_check_cleanup_db_update">Controleer op updates</string>
   <string name="pref_title_open_optimizer_cloud_scan">Gebruik de online Cleaner zoekmachine</string>
+  <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
+  <string name="preference_category_key_reference_settings">key_reference_settings</string>
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
@@ -607,7 +611,7 @@
   <string name="summary_install_virus">Controleer apps op virussen voor installeren</string>
   <string name="summary_miui_update">Update beschikbaar voor %s.</string>
   <string name="summary_mms">Filteren van ongewenste berichten (sales, adv, etc.)</string>
-  <string name="summary_optimizer">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
+  <string name="summary_optimizer">Deze functie uploadt onbekend mapnamen naar online database Cleaner's om die bij te werken en vereist ID van het toestel.</string>
   <string name="summary_permission">Mijn privacy beschermen tegen potentieel schadelijke apps van derden</string>
   <string name="summary_permission_root">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen van apps die root toegang hebben</string>
   <string name="summary_power_optimizer">Verminder prestaties van het toestel wanneer batterij bijna leeg is</string>
@@ -620,9 +624,9 @@
   <string name="summary_virus_update">Update virus definities automatisch bij WiFi verbinding</string>
   <string name="system_check_content">%1$d verdachte items</string>
   <string name="system_header_title">%1$d processen verwijderen om %2$s geheugen vrij te maken</string>
-  <string name="text_antivirus">Gebruik online virusdefinities</string>
-  <string name="text_optimizer">Gebruik online Cleaner zoekmachine</string>
-  <string name="title_antivirus">Virus scan</string>
+  <string name="text_antivirus">Upload app namen en details</string>
+  <string name="text_optimizer">Upload onbekende mapnamen</string>
+  <string name="title_antivirus">Algemene voorwaarden</string>
   <string name="title_app_update">Updates beschikbaar</string>
   <string name="title_app_update_no">%d apps hebben updates in afwachting</string>
   <string name="title_app_update_yes">Alle apps up to date!</string>
@@ -645,7 +649,7 @@
   <string name="title_miui_update_yes">MIUI is up to date!</string>
   <string name="title_mms_no">Berichten filter uitgeschakeld</string>
   <string name="title_mms_yes">Berichten filter ingeschakeld</string>
-  <string name="title_optimizer">Cleaner</string>
+  <string name="title_optimizer">Algemene voorwaarden</string>
   <string name="title_permission_no">Toestemmings manager uit</string>
   <string name="title_permission_root">Root access warning</string>
   <string name="title_permission_yes">Toestemmings manager aan</string>
