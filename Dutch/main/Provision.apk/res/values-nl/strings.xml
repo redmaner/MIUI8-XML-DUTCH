@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Instemmen</string>
-  <string name="congratulation_label">Geniet van uw Mi apparaat :)</string>
-  <string name="congratulation_next">Ok</string>
+  <string name="congratulation_label"/>
   <string name="disagree">Weigeren</string>
   <string name="ime_privacy_policy">Privacy Beleid voor geselecteerde toetsenbord</string>
   <string name="ime_privacy_policy_no_network">Verbinding maken met het internet mislukt. Bekijk de Privacy Beleid voor dit keyboard op %s."</string>
@@ -12,7 +11,6 @@
   <string name="locale_picker_confirm_dialog_title">Locatie instellingen</string>
   <string name="locale_picker_desc">Als u uw locatie later wilt wijzigen, moet u uw apparaat resetten naar de fabrieksinstellingen.</string>
   <string name="locale_picker_title">Kies uw locatie</string>
-  <string name="logo_congratulation">Je bent klaar!</string>
   <string name="miui_privacy_policy_no_network">Je hebt geen netwerkverbinding. Bekijk het privacybeleid op %s</string>
   <string name="miui_terms_no_network">Je hebt geen netwerkverbinding.Bekijk de Algemene Voorwaarden bij %s"</string>
   <string name="multisim_settings_category">Instellingen SIM kaart</string>
@@ -25,10 +23,15 @@
   <string name="other_settings_user_experience">Gebruikservarings Programma</string>
   <string name="other_settings_user_experience_summary">Helpen bij het verbeteren van MIUI door het sturen van anonieme data (%s)</string>
   <string name="other_settings_user_experience_summary1">Bekijk het Privacy Beleid</string>
+  <string name="page_layout_label">Pas grootte van de tekst en opmaak voor uw startscherm notificatie schaduw, toetsenblok, en meer aan.</string>
+  <string name="page_layout_title">Systeem opmaak</string>
   <string name="pref_title_data_slot">Voorkeur data SIM kaart</string>
   <string name="pref_title_voice_slot">Voorkeur spraak SIM kaart</string>
   <string name="privacy_policy">Privacy Beleid</string>
-  <string name="provision_inputmethod_policy_description">Bekijk de geselecteerde toetsenborden</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Herstarten</string>
+  <string name="provision_inputmethod_policy_description">
+Bekijk de geselecteerde toetsenborden</string>
   <string name="provision_inputmethod_policy_description1">Privacy Beleid</string>
   <string name="setting_locale">Instellen locale…</string>
   <string name="shut_down">Uitschakelen</string>
@@ -36,11 +39,12 @@
   <string name="sim_card_detection">Plaats de SIM kaart</string>
   <string name="sim_card_detection_info">Om uw SIM kaart te plaatsen, lees dan de instructies die bij het apparaat zitten.</string>
   <string name="sim_dectection_next">Doorgaan</string>
-  <string name="sim_redetection">Opnieuw contrleren op SIM kaart</string>
+  <string name="sim_redetection">Opnieuw controleren op SIM kaart</string>
   <string name="summary_not_set">Niet ingesteld</string>
   <string name="summary_sim_card">SIM kaart %1$d%2$s</string>
   <string name="terms_of_use">Algemene voorwaarden</string>
   <string name="terms_of_use_label">U moet akkoord gaan met de Gebruikersovereenkomst en Privacy Beleid voordat u MIUI kunt gebruiken.</string>
+  <string name="title_congratulation">Je bent klaar om te beginnen</string>
   <string name="user_agreement">Gebruikersovereenkomst</string>
   <string name="welcome">Welkom bij</string>
 </resources>
