@@ -50,10 +50,11 @@
   <string name="find_device_disabled_title">Apparraat zoeken is uitgeschakeld</string>
   <string name="find_device_disabling">Uitschakelen…</string>
   <string name="find_device_dspt">Lokaliseren, vergrendelen, of uw apparaat op afstand te resetten</string>
-  <string name="find_device_dspt_provision">Als u uw toestel verliest, kunt u naar</string>
+  <string name="find_device_dspt_provision">"Apparaat vinden
+localiseren, vergrendelen of resetten vanaf "</string>
   <string name="find_device_dspt_provision_2">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">Om te lokaliseren vergrendelen of op nul zetten. U kunt deze functie in- uitschakelen  op elk moment in de Instellingen."</string>
+  <string name="find_device_dspt_provision_3">". U kunt deze functie op elk moment in- en uitschakelen in de instellingen."</string>
   <string name="find_device_enabling">Inschakelen…</string>
   <string name="find_device_error_network">Controleer je data verbinding en probeer het opnieuw.</string>
   <string name="find_device_error_server">Fout op onze servers.</string>
@@ -153,6 +154,8 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="more_activity_in_upgrade_space">Meer weergeven &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi berichten</string>
   <string name="mx_dspt_provision">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder kosten.U kunt deze functie op elk moment in- en uitschakelen in de instellingen.</string>
+  <string name="mx_dspt_provision_privacy">"Deze service kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.
+Deze functie versleutelt en uploadt de ID van uw apparaat naar de Mi servers."</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="next">Volgende</string>
   <string name="noRemind">Me niet meer herinneren</string>
@@ -181,16 +184,21 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="sub_sync_item_sms_title_wifi_only">Enkel WiFi gebruiken om MMS te synchroniseren</string>
   <string name="success_upgraded_space">%s toegevoegd</string>
   <string name="sync_dspt">Synchronisatie inschakelen</string>
-  <string name="sync_dspt_provision">"Mi Cloud synchroniseert uw foto's, SMS, notities en meer op al uw Mi apparaten. U kunt ze ook openen vanuit elke browser."</string>
+  <string name="sync_dspt_entrance_provision">"Sync. uw foto's, contacten en berichten, of de locatie van uw apparaat."</string>
+  <string name="sync_dspt_entrance_provision_2">Meer informatie</string>
+  <string name="sync_dspt_provision">"Sync
+Sync. uw foto's, contacten, notities, en meer op al uw apparaten of bereik ze op"</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">U kunt deze functie op elk moment in- en uitschakelen in Instellingen."</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle gesprekken op deze telefoon</string>
   <string name="sync_item_calllog_title">Gespreks geschiedenis sync.</string>
   <string name="sync_item_sms_summary">Alle SMSen synchroniseren van de telefoon</string>
   <string name="sync_item_sms_title">Berichten synchroniseren</string>
   <string name="sync_off">Uit</string>
   <string name="sync_on">Aan</string>
+  <string name="sync_resend_sms_dspt_provision">. Als u van SIM kaart verwisseld, kan uw provider kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
   <string name="sync_setting">Mobiel data verbruik</string>
   <string name="sync_standard">SMS en gespreks geschiedenis</string>
   <string name="sync_sub_1_intl_sms">Uw provider kan u kosten aanrekenen voor een internationale SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
@@ -211,7 +219,8 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="upgrade_space_successful_total">%sGB beschikbaar</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Gebruikers overeenkomst</string>
-  <string name="user_agreement_p6">"Uw gebruik van deze functie is afhankelijk van "</string>
+  <string name="user_agreement_p6">"
+Uw gebruik van deze functie is afhankelijk van "</string>
   <string name="user_agreement_p7">"Mi Cloud's Servicevoorwaarden"</string>
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Code bevestigen</string>

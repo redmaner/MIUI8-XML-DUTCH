@@ -34,6 +34,8 @@
   <string name="attach_subject">Onderwerp</string>
   <string name="attach_take_photo">Foto maken</string>
   <string name="attach_video">Videos</string>
+  <string name="audio_download_failed">audio download mislukt</string>
+  <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Terug naar berichtenlijst</string>
   <string name="batch_adding_progress_message">Toevoegen…</string>
   <string name="batch_delete_confirm_dialog_message">%1$s berichten verwijderen?</string>
@@ -48,6 +50,7 @@
   <string name="cannot_add_slide_anymore">"Meer dia's toevoegen mislukt"</string>
   <string name="cannot_forward_drm_obj">Het DRM object in het bericht kan niet worden doorgestuurd.</string>
   <string name="cannot_get_details">Details ophalen mislukt.</string>
+  <string name="cannot_resend_audio">Kon opname niet verzenden</string>
   <string name="cannot_send_message">Bericht verzenden mislukt</string>
   <string name="cannot_send_message_reason">Uw bericht heeft geen geldige ontvangers.</string>
   <string name="change_duration_activity">Duur wijzigen</string>
@@ -118,7 +121,8 @@
   <string name="download">Downloaden</string>
   <string name="download_later">Downloaden mislukt. Probeer het later opnieuw.</string>
   <string name="downloading">Downloaden</string>
-  <string name="duration_not_a_number">Tijdsduur moet een getal zijn</string>
+  <string name="downloading_file_can_not_play">Wacht tot de opname klaar is met downloaden</string>
+  <string name="duration_not_a_number">Tijd moet een getal zijn</string>
   <string name="duration_sec">Duur (%s sec)</string>
   <string name="duration_selector_title">Tijdsduur voor dia</string>
   <string name="duration_zero">Lengte moet langer zijn dan nul seconden</string>
@@ -171,6 +175,7 @@
   <string name="group_resend_message">Opnieuw verzenden (%d)</string>
   <string name="guild_add_attachments">Klik hier om bijlagen of smileys toe te voegen</string>
   <string name="guild_add_recipients">Klik hier om ontvagers te selecteren uit het adres boek</string>
+  <string name="guild_msim_switcher">Raak aan om van SIM kaart te wisselen</string>
   <string name="has_invalid_recipient">Ongeldige ontvanger(s: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Verborgen adres verzender</string>
   <string name="hint_search_sms">%d berichten</string>
@@ -184,7 +189,8 @@
   <string name="invalid_private_contact">Ongeldig privé contact</string>
   <string name="invalid_recipient_message">Corrigeer de ontvangers, anders ontvangen ze het bericht niet</string>
   <string name="kilobyte">KB</string>
-  <string name="layout_selector_title">Lay-out van diavoorstelling</string>
+  <string name="layout_selector_title">Layout van diavoorstelling</string>
+  <string name="left_cancel">Veeg naar links om te annuleren</string>
   <string name="loading_all_messages">Alle berichten laden…</string>
   <string name="loading_conversations">Gesprekken laden…</string>
   <string name="loading_mms">MMS Laden…</string>
@@ -205,6 +211,7 @@
   <string name="menu_new_manual">Nummer invoeren</string>
   <string name="menu_pick_from_contact">Selecteren uit contacten</string>
   <string name="menu_preferences">Instellingen</string>
+  <string name="menu_send_as_common">Verzenden als SMS</string>
   <string name="menu_unlock">Ontgrendelen</string>
   <string name="menu_view_contact">Contact bekijken</string>
   <string name="menu_yellowpage">Bekijken %s</string>
@@ -221,6 +228,7 @@
   <string name="message_saved_as_draft">Bericht opgeslagen als concept.</string>
   <string name="message_send_failed_title">Bericht niet verzonden</string>
   <string name="message_send_read_report">Er wordt een leesrapport verzonden.</string>
+  <string name="message_sent">Verzenden</string>
   <string name="message_size_label">"Berichtgrootte: "</string>
   <string name="message_too_big_for_audio">Het bericht is te groot</string>
   <string name="message_too_big_for_video">Dit bericht is te groot om er een video aan te koppelen.</string>
@@ -238,6 +246,7 @@
   <string name="msglist_release_to_more">Loslaten om meer weer tegeven</string>
   <string name="multimedia_message">MMS bericht</string>
   <string name="multimedia_notification">Melding van MMS</string>
+  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Activeer Mi Message</string>
   <string name="mx_activate_error_malformed_info">Heractiveren Mi bericht nodig.</string>
   <string name="mx_activate_error_server">Activatie mislukt</string>
@@ -295,6 +304,7 @@
   <string name="phrase_list_title">Termen</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
   <string name="play">Afspelen</string>
+  <string name="playing_failed">Kan niet afspelen</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="prefDefault_vibrateWhen">Nooit</string>
   <string name="prefDefault_vibrate_false">Nooit</string>
@@ -348,6 +358,7 @@
   <string name="pref_title_wake_up_screen">Schakel scherm in</string>
   <string name="preferences_title">Instellingen</string>
   <string name="prepare_send">Voorbereiden om te sturen…</string>
+  <string name="press_recording">Druk &amp; Mic icoon ingedrukt houden om op te nemen</string>
   <string name="preview">Voorbeeld</string>
   <string name="preview_slideshow">Voorbeeld</string>
   <string name="priority_high">Hoog</string>
@@ -366,10 +377,12 @@
   <string name="received_label">"Ontvangen: "</string>
   <string name="recipient_editor_count_format">Ontvangen %d contact(en)</string>
   <string name="recipient_label">"Ontvanger: "</string>
-  <string name="refill_now">Nu hervullen</string>
+  <string name="recording_failed">Kan niet opnemen</string>
+  <string name="refill_now">Nu herladen</string>
   <string name="refresh">Vernieuwen</string>
   <string name="refresh_failed">Vernieuwen mislukt</string>
   <string name="refreshing">Vernieuwen…</string>
+  <string name="release_cancel">Loslaten om te annuleren</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_music">Muziek verwijderen</string>
   <string name="remove_picture">Foto verwijderen</string>
@@ -380,6 +393,7 @@
   <string name="replace_image">Foto vervangen</string>
   <string name="resent_message">Opnieuw versturen</string>
   <string name="resize_image_error_information">Deze afbeelding is te groot om te verzenden, zelfs als het formaat wordt aangepast.</string>
+  <string name="resource_price_free">Gratis</string>
   <string name="restore_all_button_msg">Geblokkeerde berichten herstellen van dit nummer</string>
   <string name="restore_blocked_message">Geblokkeerd bericht herstellen</string>
   <string name="restore_to_phone_memory_failed">Herstellen naar telefoon geheugen mislukt</string>
@@ -393,6 +407,7 @@
   <string name="saved_ringtone">Beltoon opgeslagen</string>
   <string name="saved_ringtone_fail">Kan beltoon niet opslaan</string>
   <string name="saved_to_sim">Opgeslaan op SIM kaart</string>
+  <string name="sdcard_has_not_enough_space">Niet genoeg ruimte op SD kaart</string>
   <string name="search">Berichten</string>
   <string name="search_empty">Geen resultaten</string>
   <string name="search_hint">Zoeken in berichten</string>
@@ -447,6 +462,8 @@
   <string name="sms_full_title">SMS geheugen vol</string>
   <string name="sms_rejected_body">Een inkomend bericht is weigeren.</string>
   <string name="sms_rejected_title">Bericht afgewezen</string>
+  <string name="snippet_audio">[audio]</string>
++  <string name="snippet_picture">[afbeelding]</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankdienst berichten</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -518,6 +535,7 @@
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">Details weergeven</string>
   <string name="wap_push_title">"[WAP Push]"</string>
+  <string name="warning_show">Verzenden in %ds</string>
   <string name="xiaomi_service_number">Service nummer</string>
   <string name="yes">OK</string>
 </resources>

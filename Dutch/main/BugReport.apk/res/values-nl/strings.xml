@@ -3,6 +3,7 @@
   <string name="action_cancel">Annuleren</string>
   <string name="action_confirm">Selecteren</string>
   <string name="action_submit">Verzenden</string>
+  <string name="announcement">Attentie</string>
   <string name="app_empty">U heeft nog geen apps gedownload</string>
   <string name="app_label">Report Bug</string>
   <string name="bluetooth_problem1">Kan geen koppeling maken met apparaten van derden</string>
@@ -31,12 +32,12 @@
   <string name="discard_draft_dialog_content">Alle wijzigingen die u hebt aangebracht in dit verslag zullen verloren gaan.</string>
   <string name="discard_draft_dialog_title">Concept afwijzen?</string>
   <string name="err_type">Bug type</string>
+  <string name="err_type_app">Apps</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Camera</string>
   <string name="err_type_hardware">Hardware</string>
   <string name="err_type_hardware_summary">Knopen, Opladen, sensors, enz.</string>
-  <string name="err_type_mysuggestion">Suggesties</string>
-  <string name="err_type_mysuggestion_summary">Deel ideeën en feedback met ons</string>
+  <string name="err_type_more">Meer</string>
   <string name="err_type_nonsystemapp">Andere apps</string>
   <string name="err_type_power_consuming">Stroomverbruik</string>
   <string name="err_type_reboot">Opnieuw opstarten</string>
@@ -71,6 +72,7 @@
   <string name="refresh">Vernieuwen</string>
   <string name="report_miui">Rapporteer bug</string>
   <string name="screen_lock">Schermblokkering</string>
+  <string name="screen_orientation_type">-1</string>
   <string name="section_description">Beschrijving</string>
   <string name="section_err_type">Bug type</string>
   <string name="section_screenshot">Schermafdruk</string>
@@ -86,11 +88,14 @@
   <string name="systemui">Notificatie schaduw</string>
   <string name="title_common_problem">Algemene bugs</string>
   <string name="title_hot_problem">Recente bugs</string>
+  <string name="title_nonsystem_app">Andere apps</string>
+  <string name="title_system_app">MIUI apps</string>
   <string name="toast_description_required">Je moet een omschrijving schrijven</string>
-  <string name="toast_feedback_network_unavailable">Kan geen verbinding maken met het netwerk</string>
+  <string name="toast_feedback_network_unavailable">Kan geen verbinding maken met netwerk</string>
   <string name="toast_feedback_pending_wlan">Rapport wordt verzonden wanneer u verbinding hebt met een WiFi netwerk</string>
   <string name="toast_feedback_submitted">Rapport is verstuurd</string>
   <string name="toast_feedbackservice_in_submit">Vorige feedback verzenden…</string>
+  <string name="toast_network_unavailable">Kon niet verzenden. Kan niet verbinden met netwerk</string>
   <string name="toast_pending_log_collection">Er komen nog steeds logs binnen…</string>
   <string name="toast_report_copied_to_clipboard">Rapport gekopieerd naar het klembord</string>
   <string name="toast_report_sent_failed">Kan geen rapport verzenden</string>
