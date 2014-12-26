@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_baidusearch">Baidu</string>
+  <string name="action_baidusearch">Baidu zoeken</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Gesprekslogs Verwijderen</string>
   <string name="action_clear_memory">Geheugen wissen</string>
@@ -22,6 +22,9 @@
   <string name="action_key_play_prev">Vorige</string>
   <string name="action_key_power">Power</string>
   <string name="action_key_power_long">Power(lang indrukken)</string>
+  <string name="action_key_vol">Volume knoppen</string>
+  <string name="action_key_vol_down">Volume omlaag</string>
+  <string name="action_key_vol_up">Volume omhoog</string>
   <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Vergrendelscherm</string>
   <string name="action_open_camera">Camera</string>
@@ -142,8 +145,10 @@
   <string name="key_direction_left">Naar links</string>
   <string name="key_direction_right">Naar rechts</string>
   <string name="key_direction_up">Naar boven</string>
+  <string name="know_it">OK</string>
   <string name="long_click">Lang drukken</string>
   <string name="message_photo_end">Foto opgeslagen</string>
+  <string name="mikey_sprite_toggle_title">MiKey wizard openen</string>
   <string name="name">Naam:</string>
   <string name="nickname">Roepnaam:</string>
   <string name="no_usage">...</string>
@@ -159,6 +164,9 @@
   <string name="phone">Telefoon:</string>
   <string name="picker_lable">Gallerij</string>
   <string name="place_barcode_into_rectangle">Focus op de QR code</string>
+  <string name="privacy_mode_end">Privacy modus uitgeschakeld</string>
+  <string name="privacy_mode_started">Privacy modus ingeschakeld</string>
+  <string name="privacy_mode_title">Privacy modus</string>
   <string name="rank_prefix">"Rankings: "</string>
   <string name="rank_suffix">"Punten"</string>
   <string name="recognize">Identifiseren</string>
@@ -166,6 +174,12 @@
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Scannen mislukt!</string>
   <string name="scan_result">Scan resultaten</string>
+  <string name="screenkey_disabled">Scherm knop uitgeschakeld</string>
+  <string name="screenkey_enabled">Scherm knop ingeschakeld</string>
+  <string name="screenkey_title">Scherm knop</string>
+  <string name="screenshot_crop">Bijsnijden</string>
+  <string name="screenshot_full">Volledig scherm</string>
+  <string name="scrennshot_select_title">Selecteer capture grootte </string>
   <string name="sdcard">SD kaart</string>
   <string name="search_baidu_text">Baidu</string>
   <string name="search_cancel_text">Annuleren</string>
@@ -173,11 +187,12 @@
   <string name="search_iciba_text">Iciba</string>
   <string name="search_select_title">Tekst zoeken</string>
   <string name="search_taobao_text">TaoBao</string>
-  <string name="select_baidusearch">Baidu</string>
-  <string name="select_baiduvoicesearch">Baidu Voice</string>
+  <string name="select_baidusearch">Baidu zoeken</string>
+  <string name="select_baiduvoicesearch">Baidu stem zoeken</string>
   <string name="select_camera">Camera selecteren</string>
   <string name="select_device">Apparaat selecteren</string>
   <string name="select_direction">Uitleg</string>
+  <string name="select_vol">Selecteer de volume knoppen</string>
   <string name="setting_buy">Koop MiKey</string>
   <string name="setting_feedback">Feedback</string>
   <string name="setting_instant_photo_desc">De camera scherpstellen voordat u een foto neemt</string>
@@ -187,6 +202,8 @@
   <string name="setting_key_mode_dust_cap">key_dust_cap</string>
   <string name="setting_key_mode_silent_open">key_silent_default</string>
   <string name="setting_key_silent">key_silent</string>
+  <string name="setting_proximity_desc">Gebruik de nabijheids sensor om misbruik van de Mikey in je zak te voorkomen.</string>
+  <string name="setting_proximity_text">Gebruik de nabijheids sensor</string>
   <string name="setting_silent_mode">Stille modus</string>
   <string name="setting_silent_mode_default">Koptelefoon modus(selecteer MiKey)</string>
   <string name="setting_silent_mode_desc">Als u de koptelefoon wilt aan te sluiten, selecteert u de koptelefoon modus en verwijder de MiKey. Anders zal de audio uitgang niet goed werken.</string>
@@ -229,6 +246,8 @@
   <string name="test_user_entry">Test</string>
   <string name="times">Maal</string>
   <string name="title">Titel:</string>
+  <string name="toast_audio_record_start">Opname starten</string>
+  <string name="toast_audio_record_stop">Opname stoppen</string>
   <string name="toast_close">Afgesloten</string>
   <string name="toast_open">Openen</string>
   <string name="toggle_bluetooth">Bluetooth</string>
@@ -246,6 +265,17 @@
   <string name="unsupport_title">Deze functie wordt niet ondersteund</string>
   <string name="update_message">Update!</string>
   <string name="vcard_prompt">Contact kan niet worden toegevoegd omdat er geen naam is</string>
+  <string name="wallpaper_action">Achtergrond wijzigen</string>
+  <string name="wallpaper_change_both">Bureaublad + vergrendelscherm</string>
+  <string name="wallpaper_change_desktop">Bureaublad achtergrond</string>
+  <string name="wallpaper_change_failed">Wijziging mislukt</string>
+  <string name="wallpaper_change_home">Vergrendelscherm achtergrond</string>
+  <string name="wallpaper_change_home_failed">Wijziging mislukt</string>
+  <string name="wallpaper_change_ok">Achtergrond veranderd</string>
+  <string name="wallpaper_changing">Achtergrond wijzigen…</string>
+  <string name="wallpaper_no_more">Achtergrond niet vervangen </string>
   <string name="web">Website:</string>
+  <string name="webpage_input_title">Voer URL in</string>
+  <string name="webpage_title">Open webpagina</string>
   <string name="write_pic_fail">Foto opslaan mislukt!</string>
 </resources>
