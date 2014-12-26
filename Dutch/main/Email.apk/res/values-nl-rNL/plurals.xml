@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <item quantity="zero">Archiveer deze %1$d conversaties?</item>
+        <item quantity="two">Archiveer deze %1$d conversaties?</item>
+        <item quantity="few">Archiveer deze %1$d conversaties?</item>
+        <item quantity="many">Archiveer deze %1$d conversaties?</item>
+	    <item quantity="other">Verwijder deze %1$d conversaties?</item>
+		<item quantity="two">Verwijder deze %1$d conversaties?</item>
+        <item quantity="few">Verwijder deze %1$d conversaties?</item>
+        <item quantity="many">Verwijder deze %1$d conversaties?</item>
+	    <item quantity="other">Deze conversaties bevatten samengevoegde items. Ze toch verwijderen?</item>
+		<item quantity="two">Deze conversaties bevatten samengevoegde items. Ze toch verwijderen?</item>
+        <item quantity="few">Deze conversaties bevatten samengevoegde items. Ze toch verwijderen?</item>
+        <item quantity="many">Deze conversaties bevatten samengevoegde items. Ze toch verwijderen?</item>
+        <item quantity="zero">%d geselecteerd</item>
+		<item quantity="two">%d geselecteerd</item>
+        <item quantity="few">%d geselecteerd</item>
+        <item quantity="many">%d geselecteerd</item>
+   	<plurals name="conversation_folder_changed">
+        <item quantity="other">Gewijzigde folders.</item>
+        <item quantity="one">Gewijzigde folder.</item>
+    </plurals>
+	    <item quantity="few">%1$d berichten worden definitief verwijderd.</item>
+        <item quantity="many">%1$d berichten worden definitief verwijderd.</item>
+   	<plurals name="move_conversation">
+        <item quantity="other">Verplaats %1$d conversaties</item>
+        <item quantity="zero">Verplaats %1$d conversaties</item>
+        <item quantity="one">Verplaats conversaties</item>
+        <item quantity="two">Verplaats %1$d conversaties</item>
+        <item quantity="few">Verplaats %1$d conversaties</item>
+        <item quantity="many">Verplaats %1$d conversaties</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Verplaats berichten</item>
+        <item quantity="zero">Verplaats berichten</item>
+        <item quantity="one">Verplaats berichten</item>
+        <item quantity="two">Verplaats berichten</item>
+        <item quantity="few">Verplaats berichten</item>
+        <item quantity="many">Verplaats berichten</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Geef %1$d nieuwe berichten weer.</item>
+        <item quantity="zero">Geef %1$d nieuwe berichten weer.</item>
+        <item quantity="one">Geef %1$d nieuwe berichten weer.</item>
+        <item quantity="two">Geef %1$d nieuwe berichten weer.</item>
+        <item quantity="few">Geef %1$d nieuwe berichten weer.</item>
+        <item quantity="many">Geef %1$d nieuwe berichten weer.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d geselecteerd</item>
+        <item quantity="zero">%d geselecteerd</item>
+        <item quantity="one">%d geselecteerd</item>
+        <item quantity="two">%d geselecteerd</item>
+        <item quantity="few">%d geselecteerd</item>
+        <item quantity="many">%d geselecteerd</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d oudere berichten</item>
+        <item quantity="zero">%1$d oudere berichten</item>
+        <item quantity="one">%1$d oudere berichten</item>
+        <item quantity="two">%1$d oudere berichten</item>
+        <item quantity="few">%1$d oudere berichten</item>
+        <item quantity="many">%1$d oudere berichten</item>
+    </plurals>
+</resources>

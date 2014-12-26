@@ -55,7 +55,7 @@
   <string name="auto_create_recent_album">Maak automatisch favoriete albums aan</string>
   <string name="auto_create_recent_album_confirm">De Galerij ruimt de favoriete album data op. Handmatig als favoriet gemarkeerde albums zullen niet geraakt worden.</string>
   <string name="auto_create_recent_album_over_ten_times">Een album wordt als favoriet gemarkeerd wanneer u het vaker dan 10 maal opent.</string>
-  <string name="auto_upload_album_comfirm_to_share">Het is een album die automatisch worden geüpload, Weet u zeker u het wilt delen?</string>
+  <string name="auto_upload_album_comfirm_to_share">Deze album wordt automatisch geüpload.</string>
   <string name="auto_upload_tip">Als album met dezelfde naam al bestaat in uw cloud, zullen de albums worden samengevoegd.</string>
   <string name="auto_upload_title">Automatisch uploaden</string>
   <string name="autofix">Auto fix</string>
@@ -101,7 +101,7 @@
   <string name="cloud_be_shared_guide_title">Dit album komt van een vriend</string>
   <string name="cloud_camera_display_name">"Camera foto's"</string>
   <string name="cloud_folder_chooser_move">Verwijder afbeeldingen van originele album</string>
-  <string name="cloud_gallery_recyclebin_full">Uw prullenbak is vol. Leeg de prullenbak op i.xiaomi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Uw prullenbak is vol. Leeg de prullenbak op www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Onvoldoende ruimte in uw cloud</string>
   <string name="cloud_media_set_set">Cloud albums</string>
   <string name="cloud_owner_album_share_guide">U kunt dit album delen met vrienden.</string>
@@ -132,7 +132,7 @@
   <string name="contact_photo">Stel foto in voor contactpersoon</string>
   <string name="context_menu_add_contact">Toevoegen aan contactpersonen</string>
   <string name="context_menu_copy">Kopiëren</string>
-  <string name="context_menu_copy_notice">Selectie gekopiëerd naar het klembord</string>
+  <string name="context_menu_copy_notice">Gekopiëerd naar het klembord</string>
   <string name="contrast">Contrast</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="create_new_cloud_folder">Nieuwe map</string>
@@ -254,7 +254,7 @@
   <string name="group_by_location">Op locatie</string>
   <string name="group_by_tags">Op labels</string>
   <string name="group_by_time">Op tijd</string>
-  <string name="has_invalid_recipient">Ongeldige ontvanger(s): &lt;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Ongeldige ontvanger(s): %1$s;</string>
   <string name="height">Hoogte</string>
   <string name="highlight">Hoogtepunten</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -271,7 +271,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importeren voltooid</string>
   <string name="import_fail">Importeren mislukt</string>
-  <string name="impunity_declaration">Bij gebruik galerij internet verbinding gebruiken?</string>
+  <string name="impunity_declaration">Bij gebruik galerij kunnen sommige functies een internet verbinding nodig hebben om normaal te werken</string>
   <string name="impunity_declaration_ignore">Niet meer weergeven</string>
   <string name="impunity_declaration_settings">Netwerk mededeling weergegeven</string>
   <string name="impunity_declaration_summary">Bij gebruik galerij netwerk mededeling altijd weergegeven</string>
@@ -327,14 +327,20 @@
   <string name="message_no_delete_access">"U bent niet bevoegd om %s te verwijderen"</string>
   <string name="message_no_delete_access_with_count">"U bent niet bevoegd om %d te verwijderen."</string>
   <string name="messagelist_sender_self">Ik</string>
+  <string name="miliao">MiTalk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
   <string name="miliao_saved_folder_display_name">MiTalk opgeslaan</string>
   <string name="mimetype">MIME type</string>
-  <string name="mishop_saved_folder_display_name">Mi Store opgeslaan</string>
+  <string name="mishop">MiShop</string>
+  <string name="mishop_saved_folder_display_name">Mi Store</string>
   <string name="miui_capture_screen_folder_display_name">Shermafdrukken</string>
   <string name="miui_wallpaper">Achtergrond</string>
   <string name="modified_time">Aangepaste tijd</string>
+  <string name="moman">Moman Camera</string>
+  <string name="moman_camera_drawing">Moman Camera tekening</string>
+  <string name="moman_camera_icon">Moman Camera emoticons</string>
+  <string name="moman_camera_picture">"Moman Camera foto's"</string>
   <string name="more">Meer</string>
   <string name="move">Verplaats</string>
   <string name="move_to_cloud_album">Verplaats naar</string>
@@ -409,9 +415,10 @@
   <string name="picker_no_items_selected">Geen items geselecteerd</string>
   <string name="picker_select_album_title_empty">Selecteer een album</string>
   <string name="picker_tab_photo">Foto</string>
-  <string name="pocket_camera_picture">Pocket Camera pictures</string>
+  <string name="pocket_camera_picture">"Pocket Camera foto's"</string>
   <string name="pocket_camera_video">Pocket Camera videos</string>
-  <string name="posterize">Posterize</string>
+  <string name="pocketcamera">PocketCamera</string>
+  <string name="posterize">Poster grootte</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Verwijderen wordt voorbereid</string>
   <string name="priority_storage">Opslaan op SD kaart</string>
@@ -421,9 +428,11 @@
   <string name="publish_failed">Publiceren mislukt</string>
   <string name="publish_succeeded">Album gepubliseerd</string>
   <string name="publishing">Publiceren…</string>
+  <string name="qq">QQ</string>
   <string name="qqbrowser_img">QQ Browser</string>
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
+  <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Afbeelding herkennen…</string>
   <string name="redeye">Rode ogen</string>
@@ -447,7 +456,7 @@
   <string name="rotate">Draaien</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Sleep foto om te draaien</string>
-  <string name="same_name_album_exists_alert">"Een album met dezelfde naam, die is gedeeld met anderen bestaat al, Weet je zeker dat de foto's automatisch wilt uploaden naar dat album?"</string>
+  <string name="same_name_album_exists_alert">"Foto's worden geüpload naar een bestaand album met dezelfde naam"</string>
   <string name="saturation">Verzadiging</string>
   <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Opslaan</string>
@@ -488,7 +497,7 @@
   <string name="set_screensaver_path_title">Screensaver diavoorstelling</string>
   <string name="set_wallpaper">Achtergrond inst.</string>
   <string name="settings">Instellingen</string>
-  <string name="settings_i_xiaomi_com">Bewaar en bekijk afbeeldingen in uw cloud bij i.xiaomi.com</string>
+  <string name="settings_i_xiaomi_com">Bekijk al jeafbeeldingen op www.mi.com/micloud</string>
   <string name="shadow">Schaduwen</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share_album">Deel album</string>
@@ -507,7 +516,7 @@
   <string name="show_images_only">Alleen afbeeldingen</string>
   <string name="show_on_map">Op kaart weergeven</string>
   <string name="show_videos_only">Alleen videos</string>
-  <string name="sina_weibo_save">Weibo</string>
+  <string name="sina_weibo">Weibo</string>
   <string name="size_above">%1$s of groter</string>
   <string name="size_below">%1$s of kleiner</string>
   <string name="size_between">%1$s tot %2$s</string>
@@ -532,10 +541,11 @@
   <string name="sync_album_set_error">Het downloaden van de lijst van de albums is mislukt. Probeert u het later opnieuw.</string>
   <string name="sync_album_summary">"Upload foto's naar uw cloud"</string>
   <string name="sync_history_power_on">Afbeelding historie alleen sync. tijdens het opladen.</string>
-  <string name="sync_in_progress_message">Sync. is bezig…</string>
+  <string name="sync_in_progress_message">Downloaden albums…</string>
   <string name="sync_only_in_wifi">Uploaden alleen via Wifi</string>
   <string name="sync_only_in_wifi_alert">Het uitschakelen van deze optie kan uw mobiele data verbruik verhogen.</string>
   <string name="sync_only_in_wifi_summary">"Nooit mobiele gegevensverbinding gebruiken om foto's te uploaden."</string>
+  <string name="sync_third_party_app_pic_summary">"Foto's in sommige app mappen automatisch uploaden naar uw cloud."</string>
   <string name="system_album">Systeem album</string>
   <string name="tab_all_text">Stel beide in</string>
   <string name="tab_lockscreen_text">Vergrendelscherm</string>
@@ -560,6 +570,7 @@
   <string name="ubifocus_refocus_data_missing">Kan niet herfocussen, omdat sommige gegevens van deze afbeelding ontbreken</string>
   <string name="ubifocus_refocus_download_tip">Je moet de gegevens van deze afbeelding downloaden voor heroriëntatie.</string>
   <string name="ubifocus_refocus_map_error">Kan niet herfocussen, omdat sommige gegevens van deze afbeelding fouten bevatten</string>
+  <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Publiceren ongedaan maken mislukt</string>
@@ -575,6 +586,8 @@
   <string name="wallpaper">Achtergrond instellen...</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Waarschuwing</string>
+  <string name="wechat">WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Waar is de QR code?</string>
@@ -584,6 +597,7 @@
   <string name="widget_type_photo">Een afbeelding kiezen</string>
   <string name="widget_type_shuffle">Alle afbeeldingen verwisselen</string>
   <string name="width">Breedte</string>
+  <string name="wps">WPS</string>
   <string name="yellow_page">Map</string>
   <string name="yes">Ja</string>
   <string name="yunyi_pocket_camera">Pocket Camera</string>

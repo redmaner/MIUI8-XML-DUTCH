@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dagen "</item>
+        <item quantity="one">"%d dag "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d uren "</item>
+        <item quantity="one">"%d uur "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d apps die autostarten</item>
+        <item quantity="one">%d app die autostart</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d apps die niet mogen autostarten"</item>
+        <item quantity="one">"%d app die niet mag autostart"</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d toestemmingen</item>
+        <item quantity="one">%d toestemming</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d apps hebben root toegang</item>
+        <item quantity="one">%d app heeft root toegang</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d apps hebben geen root toegang</item>
+        <item quantity="one">%d app heeft geen root toegang</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Updates beschikbaar voor %d apps.</item>
+        <item quantity="one">Update beschikbaar voor %d app.</item>
+    </plurals>
+</resources>
