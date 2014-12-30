@@ -18,6 +18,8 @@
   <string name="chat_number">10 Uren</string>
   <string name="chat_uint">" Uren"</string>
   <string name="checkout_traffic_saving_history">Geschiedenis weergeven</string>
+  <string name="daily_limit_network_available_body">Raak aan om gebruiksgegevens statistieken te bekijken.</string>
+  <string name="daily_limit_over_message">Je hebt je dagelijkse datalimiet overschreden.</string>
   <string name="daily_pkg_traffic">Piek dataverbruik limiet instellen</string>
   <string name="data_usage_correction_timeout_body">Aanraken om handmatig bij te werken.</string>
   <string name="data_usage_correction_timeout_title">Dataverbruik synchronisatie gepauzeerd</string>
@@ -78,6 +80,7 @@
   <string name="firewall_rule_group_title_mobile">Data</string>
   <string name="firewall_rule_group_title_wifi">WiFi</string>
   <string name="firewall_service_network_blocked">%1$s is beperkt om %2$s networken te gebruiken</string>
+  <string name="five_percent_total_pkg">%s (5%% van uw maandelijkse mobiele data)</string>
   <string name="force_stop_dlg_text">Als u achtergrond mobiele data beperkt, kunnen sommige apps en services niet werken tenzij u bent verbonden met een WIFI netwerk.</string>
   <string name="force_stop_dlg_title">Achtergrond data beperken</string>
   <string name="foreground_traffic">Voorgrond %s</string>
@@ -205,6 +208,8 @@
   <string name="pref_title_declaration">Belangrijke voorwaarden</string>
   <string name="pref_title_mobile_traffic">Dataverbruik weergeven wanneer vergrendeld</string>
   <string name="pref_title_network_diagnostics">Netwerk diagnose</string>
+  <string name="pref_title_over_traffic_limit_warning">Schakel data uit als het limiet wordt overschreden</string>
+  <string name="pref_title_traffic_limit_number">Grootte</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Dataverbruik notificaties weergeven</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
@@ -270,9 +275,12 @@
   <string name="tc_sms_report_title">Rapporteer dataverbruik bug</string>
   <string name="tc_sms_report_upload_success">Dataverbruiks rapport SMS ingediend. We zijn zo mee bezig!</string>
   <string name="tc_sms_report_upload_when_net">Dank je voor de feedback!</string>
+  <string name="ten_percent_total_pkg">%s (10%% van uw maandelijkse mobiele data)</string>
   <string name="text_day"/>
+  <string name="three_percent_total_pkg">%s (3%% van uw maandelijkse mobiele data)</string>
   <string name="tips_dialog_title">Weet u uw datalimiet niet?</string>
   <string name="tips_message">Als u de details van uw databundel niet kent, dan kunt u deze bekijken door de provider te bellen %2$s (%1$s)."</string>
+  <string name="title_limit_traffic_per_day">Dagelijks gebruik datalimiet</string>
   <string name="traffic_config_alert_body">Uw provider laten zien wat je hebt verbruikt %s Bijwerken dataverbruiks info?</string>
   <string name="traffic_config_alert_body_leisure">Volgens uw provider geeft u hebt gebruikt %1$s van uw daluren data deze maand, dit is verschillend van de  %2$s dat u handmatig hebt ingesteld.</string>
   <string name="traffic_config_alert_body_leisure_notset">Uw provider toont %s overgebleven daluren data. U heeft geen limiet voor de daluren data.</string>
