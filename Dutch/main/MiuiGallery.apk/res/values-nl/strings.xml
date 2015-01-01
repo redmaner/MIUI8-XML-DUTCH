@@ -44,8 +44,9 @@
   <string name="alert_init_merged_message">"Vanaf heden zullen de foto's op uw apparaat en de foto's die u in de Mi Cloud heeft opgeslagen gezamenlijk getoond worden."</string>
   <string name="alert_init_merged_title">"Al uw foto's. Eindelijk samen."</string>
   <string name="alert_message_open_sync">U moet eerst synchronisatie activeren.</string>
-  <string name="alert_secret_album_message">Veeg omhoog op de bodem van uw albums om verborgen albums te bekijken.</string>
-  <string name="alert_secret_album_title">Verborgen album</string>
+  <string name="alert_secret_album_message">Veeg omhoog vanaf de bodem van uw albums om het geheime album te bekijken. Om het te beschermen, moet u een patroon instellen.</string>
+  <string name="alert_secret_album_set_pattern">Stel een patroon in</string>
+  <string name="alert_secret_album_title">Toegevoegd aan geheim album</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="aperture">Diafragma</string>
   <string name="app_name">Galerij</string>
@@ -262,9 +263,6 @@
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Lokaal</string>
   <string name="home_page_tab_photo">Foto</string>
-  <string name="how_many_pics">"%d foto's"</string>
-  <string name="how_many_sub_folders">%d mappen</string>
-  <string name="how_many_videos">%d videos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_download_item_title">Download foto(%s)</string>
   <string name="image_quota_fulfiled">Kan bestand niet aanmaken: bestandslimiet overschreden.</string>
@@ -325,7 +323,6 @@
   <string name="menu_item_sort_size_desc">Grootte(Aflopend)</string>
   <string name="menu_view_contact">Bekijk contact</string>
   <string name="message_no_delete_access">"U bent niet bevoegd om %s te verwijderen"</string>
-  <string name="message_no_delete_access_with_count">"U bent niet bevoegd om %d te verwijderen."</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="miliao">MiTalk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
@@ -359,6 +356,7 @@
   <string name="no_network_connected">Geen netwerk gedetecteerd</string>
   <string name="no_picture_or_video">Leeg</string>
   <string name="no_storage_disable_cloud_albums">Cloud is niet beschikbaar.</string>
+  <string name="no_such_album">Album niet gevonden</string>
   <string name="no_such_item">Kan item niet vinden.</string>
   <string name="no_thumbnail">Geen miniatuur</string>
   <string name="none_picture">Geen afbeeldingen</string>
@@ -410,7 +408,6 @@
   <string name="photos">"Foto's"</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
   <string name="pick_too_much_tips">"Te veel items geselecteerd(maximaal %d items)."</string>
-  <string name="pick_with_limited_upper_bound_title">Je kan deze items %d selecteren</string>
   <string name="picker_no_album_selected">Geen albums geselecteerd</string>
   <string name="picker_no_items_selected">Geen items geselecteerd</string>
   <string name="picker_select_album_title_empty">Selecteer een album</string>
