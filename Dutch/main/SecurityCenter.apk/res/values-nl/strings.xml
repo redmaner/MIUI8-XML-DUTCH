@@ -585,6 +585,7 @@
   <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
+  <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
   <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
@@ -650,7 +651,9 @@
   <string name="summary_garbage_lib">Gebruik de nieuwste definities om spyware, adware en andere ongewenste rommel te verwijderen</string>
   <string name="summary_install_virus">Controleer apps op virussen voor installeren</string>
   <string name="summary_miui_update">Update beschikbaar voor %s.</string>
-  <string name="summary_mms">Filteren van ongewenste berichten (sales, adv, etc.)</string>
+  <string name="summary_mms">Filteren van ongewenste berichten(sales, adv, etc.)</string>
+  <string name="summary_network_switch">Beveiligings app toestaan verbinding te maken met internet</string>
+  <string name="summary_never_flow_verify">Dit cijfer is niet geverifieerd met uw provider</string>
   <string name="summary_optimizer">"Deze functie uploadt onbekend mapnamen naar online database Cheetah Mobile's om die bij te werken en vereist ID van het toestel."</string>
   <string name="summary_permission">Mijn privacy beschermen tegen potentieel schadelijke apps van derden</string>
   <string name="summary_permission_root">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen van apps die root toegang hebben</string>
@@ -690,6 +693,7 @@
   <string name="title_miui_update_yes">MIUI is up to date!</string>
   <string name="title_mms_no">Berichten filter uitgeschakeld</string>
   <string name="title_mms_yes">Berichten filter ingeschakeld</string>
+  <string name="title_network_switch">Internet verbinding toestaan</string>
   <string name="title_optimizer">Algemene voorwaarden</string>
   <string name="title_permission_no">Toestemmings manager uit</string>
   <string name="title_permission_root">Root access warning</string>
@@ -718,6 +722,7 @@
   <string name="toast_garbage_lib">Schakel automatische updates voor Opruimer in</string>
   <string name="toast_garbage_list_empty">Alles ziet er goed uit. Opruiming niet nodig!</string>
   <string name="toast_network_eror">Kan geen verbinding maken met netwerk</string>
+  <string name="toast_network_switch">Deze app kan verbinding maken met het internet</string>
   <string name="toast_removed_from_white_list">" verwijderd uit uitzonderingen"</string>
   <string name="toast_root_apply_accept">Root toegang verleent %s</string>
   <string name="toast_root_apply_reject">Root toegang geweigerd voor %s</string>
