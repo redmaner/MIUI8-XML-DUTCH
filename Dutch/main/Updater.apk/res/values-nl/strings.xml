@@ -21,7 +21,7 @@
   <string name="auto_dialog_msg_check_again">U moet akkoord gaan met onze vernieuwde Privacybeleid voordat u uw systeem kan bijwerken.</string>
   <string name="auto_dialog_title_check_again">Update annuleren?</string>
   <string name="auto_update">Automatisch updaten</string>
-  <string name="auto_update_sum">Kies de beste tijd voor automatische update</string>
+  <string name="auto_update_sum">Download updates automatisch wanneer verbonden met WiFi</string>
   <string name="autosetmode">Update instellingen</string>
   <string name="best_update">Beste update tot nu toe</string>
   <string name="boot_recovery">Herstart in Recovery mode</string>
@@ -39,7 +39,7 @@
   <string name="comment_invalid">Beoordeel de update(druk op de sterren)</string>
   <string name="comment_publish">Indienen</string>
   <string name="comment_sending">Reactie versturen…</string>
-  <string name="comment_upload_failed">Reactie versturen mislukt</string>
+  <string name="comment_upload_failed">Kan reactie niet versturen</string>
   <string name="comment_upload_hint">Bedankt voor uw reactie</string>
   <string name="comment_upload_not_logined">U moet eerst inloggen op je MI account om een reactie te versturen</string>
   <string name="comment_upload_success">Reactie succesvol verstuurd!</string>
@@ -55,8 +55,8 @@
   <string name="download_failed">Kan niet downloaden</string>
   <string name="download_full">Download volledig</string>
   <string name="download_title">Downloaden (%s)</string>
-  <string name="download_title_first">Ophalen van update info…</string>
-  <string name="download_title_full_download">Verkrijgen pakket info…</string>
+  <string name="download_title_first">Ophalen info…</string>
+  <string name="download_title_full_download">Verkrijgen info…</string>
   <string name="downloading_description">Downloaden…</string>
   <string name="edit_comment">Reactie toevoegen</string>
   <string name="edit_comment_title">Reactie aanpassen</string>
@@ -94,7 +94,7 @@
   <string name="monthly_build">Maandelijks</string>
   <string name="my_best_update">Beste update</string>
   <string name="my_expect_update">Vewachtingen</string>
-  <string name="my_rank">Update status:</string>
+  <string name="my_rank">"Update status: "</string>
   <string name="my_update_feel">Mijn feedback</string>
   <string name="my_worst_update">Slechtste update die ik heb gekozen</string>
   <string name="network_error">Netwerk fout, probeer het opnieuw</string>
@@ -104,7 +104,7 @@
   <string name="no_proper_updates">Geen updates beschikbaar</string>
   <string name="no_wifi_msg">Downloaden op uw mobiele dataverbinding zal uw dataverbruik te verhogen.</string>
   <string name="no_wifi_title">Dataverbruik waarschuwing</string>
-  <string name="not_open">Off</string>
+  <string name="not_open">Nu niet</string>
   <string name="notification_downloading">Update downloaden…</string>
   <string name="notification_load_body_alpha">Haal de nieuwste updates voor uw apparaat op.</string>
   <string name="notification_load_body_dev">Haal de nieuwste updates voor uw apparaat op.</string>
@@ -124,7 +124,7 @@
   <string name="notification_updating">Updaten…</string>
   <string name="now">Nu updaten</string>
   <string name="on_checking">Controleer update</string>
-  <string name="open_now">On</string>
+  <string name="open_now">Inschakelen</string>
   <string name="particular_build">Particulier</string>
   <string name="pause">Pauze</string>
   <string name="previous">Vorige</string>
@@ -146,7 +146,7 @@
   <string name="share_qq">Delen via Tencent Weibo</string>
   <string name="share_sina">Delen via Sina Weibo</string>
   <string name="share_update">Systeem update info delen</string>
-  <string name="share_update_content_sign">"Ik heb MIUI bijgewerkt naar %1$s! Mijn gebruikers ranglijst is %2$s Bezoek %3$s voor een uitgebreide changelog"</string>
+  <string name="share_update_content_sign">"Ik heb MIUI bijgewerkt naar %1$s! Mijn gebruikers ranglijst is %2$s Om de changelog te bekijken, bezoek %3$s "</string>
   <string name="share_update_content_unsign">"Ik heb MIUI bijgewerkt naar %1$s! Bezoek %2$s voor een uitgebreide changelog"</string>
   <string name="sina_share_fail">Niet verzonden</string>
   <string name="sina_share_fail_content_repeat">"Kon niet delen, inhoud bestaat al…"</string>
@@ -188,7 +188,7 @@
   <string name="updater_nonetwork">Verbinden met netwerk om log te bekijken</string>
   <string name="updater_nonetwork_clause">Verbinden met netwerk om bijgewerkte Privacybeleid te bekijken</string>
   <string name="upgrade_close">Sluiten</string>
-  <string name="upgrade_kernel">Huidige kernel vereist update</string>
+  <string name="upgrade_kernel">Systeem kernel vereist update</string>
   <string name="upgrade_kernel_msg">"Huidige kernel versie komt niet overeen met MIUI ROM. U moet de kernel handmatig bijwerken. Update handleiding: "</string>
   <string name="user_begin">Download</string>
   <string name="user_intertup_download_msg">Downloads gepauzeerd. Je kan op elk momment doorgaan met de update.</string>
