@@ -18,7 +18,7 @@
     <string-array name="select_runtime_summaries">
         <item>Dalvik gebruiken</item>
         <item>ART gebruiken</item>
-        <item>ART-foutopsporingsbuild gebruiken</item>
+        <item>ART foutopsporingsbuild gebruiken</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
         <item>Geascendeerde wezen</item>
@@ -30,7 +30,7 @@
     <string-array name="haptic_feedback_level_entries">
         <item>Sterk</item>
         <item>Medium</item>
-        <item>licht</item>
+        <item>Licht</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Strerk</item>
@@ -153,6 +153,16 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_saturation_title">
         <item>Briljant</item>
         <item>Standaard</item>
+    <string-array name="screen_optimize_title">
+        <item>Automatish contrast</item>
+        <item>Verhoogd contrast</item>
+        <item>Standaard</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Optimaliseren contrast voor het beschikbare licht</item>
+        <item>Verhoog scherm contrast </item>
+        <item>Contrast zal constant blijven</item>
+    </string-array>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Toestaan</item>
