@@ -8,6 +8,7 @@
   <string name="action_pop_lab">Fitness Center</string>
   <string name="action_pop_my_bracelet">Mijn apparaten</string>
   <string name="action_pop_person_info">Mijn Profiel</string>
+  <string name="action_pop_service">Diensten</string>
   <string name="action_pop_smart_alarms">Alarm</string>
   <string name="action_pop_unlock_screen">Scherm deblokkeren</string>
   <string name="action_pop_weixin_enter">Toevoegen Wechat</string>
@@ -75,7 +76,7 @@
   <string name="bracelet_not_found_title">Verbinden met power.</string>
   <string name="bracelet_store_desc">Band opslag</string>
   <string name="bt_operation_failed_tips">Bluetooth werkt niet goed, probeer later opnieuw.</string>
-   <string name="btn_confirm">Ja</string>
+  <string name="btn_confirm">Ja</string>
   <string name="btn_continue">Nee</string>
   <string name="btn_delete">Verwijderen</string>
   <string name="btn_save">Opslaan</string>
@@ -92,6 +93,7 @@
   <string name="confirm_lazy_day">Vandaag een luie dag maken?</string>
   <string name="connect_bracelet_now">Verbinden…</string>
   <string name="connected_broadcast">Fitness Centererbinding</string>
+  <string name="connected_broadcast_disconnect_tips">Sluit armband,stel vervolgens</string>
   <string name="connected_broadcast_tips">Test verbinding</string>
   <string name="content_too_short">Inhoud ontbreekt.</string>
   <string name="continue_reach_goal">Bereik doel</string>
@@ -120,6 +122,7 @@
   <string name="device_not_found_not_knocked">Gelieve opnieuw zoeken na het tikken Mi Band eens hij knippert.</string>
   <string name="device_not_response">Waarom knipper de Miband niet?</string>
   <string name="disable_debug_log">Debug mode afgesloten</string>
+  <string name="disable_hidden_feature">Verborgen activiteit uitgeschakeld</string>
   <string name="discard">Verwerpen</string>
   <string name="discard_alarm_change">Veranderingen verwerpen？</string>
   <string name="distance">Afstand</string>
@@ -163,7 +166,9 @@
   <string name="dynamic_tip_unweared">Niet geactiveerd</string>
   <string name="dynamic_title_sleep">Gisteren nacht</string>
   <string name="dynamic_title_step">Vandaag</string>
-  <string name="enable_debug_log">Debug mode geopend！</string>
+  <string name="dynamic_title_weight">Gewicht</string>
+  <string name="enable_debug_log">Debug mode geopend!</string>
+  <string name="enable_hidden_feature">Verborgen activiteit ingeschakeld</string>
   <string name="error_code">Fout</string>
   <string name="everyday">Alle dagen</string>
   <string name="exit_app">Afsluiten</string>
@@ -210,6 +215,10 @@
   <string name="green">Groen</string>
   <string name="half_marathon_format_0">Is ongeveer %1$s voor een halve marathon.</string>
   <string name="half_marathon_format_1">Is meer dan %1$s voor een halve marathon.</string>
+  <string name="health_care_country_limit">Regio: China vasteland</string>
+  <string name="health_care_date_limit">Periode in dienst: gratis jaar</string>
+  <string name="health_link">HealthLink</string>
+  <string name="health_provider_desc">Unie gezondheidszorg veruit</string>
   <string name="help">Help</string>
   <string name="help_info_0">Zorg ervoor dat uw telefoon Bluetooth 4.0 of hoger ondersteunt. U kan dit vinden in uw telefoon specs.</string>
   <string name="help_info_1">Alleen Android 4.4 en hoger ondersteunt de Mi Band.</string>
@@ -226,7 +235,12 @@
   <string name="hour_1"/>
   <string name="in"/>
   <string name="incoming_call_notify">Inkomend gesprek</string>
+  <string name="incoming_call_notify_closed">Inkomende oproep notificatie gesloten</string>
   <string name="incoming_call_notify_tips">Verwittig me na %s sec bij een gemist gesprek.</string>
+  <string name="incomingcall_info_1">Voor deze notificatie moet de app continu draaien op de achtergrond.</string>
+  <string name="incomingcall_info_2">"Gelieve de Mi Band app tevergrendelen en de Mi Band 
+  toevoegen  aan de witte lijst van de 3rd partij manager als die bestaat."</string>
+  <string name="incomingcall_info_3">Gelieve Mi Band toevoegen  aan de witte lijst van de 3de partij manager als die bestaat.</string>
   <string name="input_precise_person_info">Vul uw persoonlijke gegevens. Meer informatie zal helpen om nauwkeurige resultaten te krijgen.</string>
   <string name="instruction_tip_1">Neem een kijkje bij training vooruitgang</string>
   <string name="instruction_tip_2_1">"De stappenteller is minder 1/3 van je doel"</string>
@@ -239,7 +253,6 @@
   <string name="kg">kg</string>
   <string name="kilogram">kg</string>
   <string name="km">km</string>
-  <string name="lab_factory_cancel_deauthorize">Verbinding verbreken</string>
   <string name="lab_factory_cheat_toast">Ons niet misleiden~</string>
   <string name="lab_factory_disconnected_reminder">Melding bij Bluetooth verbinding</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Verbind je MI band en probeer het opnieuw.</string>
@@ -377,6 +390,7 @@
   <string name="noti_bracelet_low_battery_content_mid">Opladen nodig.</string>
   <string name="noti_bracelet_low_battery_title">Batterij laag</string>
   <string name="noti_bracelet_low_battery_title_low">Mi Band uitgeschakeld</string>
+  <string name="notice_for_users">Millet Exclusive armband gebruiker </string>
   <string name="notify_status_motor">Armband shock</string>
   <string name="notify_status_motor_alarm">Reden: gewone wekker</string>
   <string name="notify_status_motor_auth">Reden: percussie koppeling</string>
@@ -436,6 +450,10 @@
   <string name="select_from_camera">Camera</string>
   <string name="select_from_local">Uit galerij kiezen</string>
   <string name="select_image">Bewerk profiel foto</string>
+  <string name="sensor_hub_tip">"Telefoon stappenteller weergegeven door interne coprocessor van de telefoon
+ (Sensor Hub)Bewegings data record.
+ Bind armband, deze gegevens worden alleen als referentie gebruikt,niet opgeslagen in de cloud"</string>
+  <string name="service_call_notice">Bel de 24 uurs telefoon, toegang tot diensten</string>
   <string name="set_alarm_time">ALARM TIJD INSTELLEN</string>
   <string name="set_goal_step">8000 stappen/dag</string>
   <string name="set_mili_name">Mi Band naam</string>
@@ -464,10 +482,17 @@ Notificaties by mksaint13"</string>
   <string name="share_blog_weixin">Wechat</string>
   <string name="share_continue_goal_format">"Een totaal van %1$s gewandeld, %2$s stappen per dag. %3$s %4$s"</string>
   <string name="share_continue_goal_format_run">"Een totaal van %1$s gewandeld, %2$s gelopen. %3$s. %4$s"</string>
+  <string name="share_facebook_label">Facebook</string>
   <string name="share_goal_tips_fail">Niet veer van doel af.</string>
   <string name="share_goal_tips_succ">Heb je een geweldig plan? Neem je eerste stap.</string>
+  <string name="share_image_preparing">Voorbereiden om te delen</string>
+  <string name="share_line_label">Line</string>
+  <string name="share_miliao_label">Mi Talk</string>
   <string name="share_miliao_too_old">MiTalk versie is te oud.</string>
+  <string name="share_pengyouquan_label">Momenten</string>
   <string name="share_play_ground_format">"Het ongeveer %1$s op de piste."</string>
+  <string name="share_qq_label">QQ</string>
+  <string name="share_qq_zone_label">QZone</string>
   <string name="share_sleep_description">"In diepe slaap voor %1$shr en %2$smin, In diepe lichte voor %3$shr en %4$smin. Ingeslapen: %5$s. Opgestaan: %6$s"</string>
   <string name="share_sleep_description_average">"Was gemiddeld %1$shr %2$smin in diepe slaap en %3$shr %4$smin in lichte slaap. Je sliep in ron %5$s, de tijd je wakker was in ongeveer %6$s."</string>
   <string name="share_sleep_title">Vorige nacht</string>
@@ -494,8 +519,9 @@ Notificaties by mksaint13"</string>
   <string name="share_to_miliao_target_union">Trainigs makkers</string>
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band#</string>
-  <string name="share_to_topic_for_event">\#Mi band 10.000 stappen per dag#</string>
   <string name="share_uninstall_client">Deze aplicatie is niet geinstalleerd, delen mislukt.</string>
+  <string name="share_weibo_label">Weibo</string>
+  <string name="share_weixin_label">WeChat</string>
   <string name="signal_strength">Signaal sterkte: </string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Intelligent Alarm</string>
@@ -507,12 +533,17 @@ Notificaties by mksaint13"</string>
   <string name="sport_ranking_desc_normal" formatted="false">Je versloeg &lt;b&gt;%s%&lt;/b&gt; van Mi Band %s gebruikers.</string>
   <string name="sport_ranking_desc_poor">Elke %s gebruiker kan je verslaan, komaan!</string>
   <string name="sport_running_altitude">Hoogte</string>
+  <string name="sport_running_auto_pause">Auto pause detection</string>
   <string name="sport_running_average_speed">Gemiddeld</string>
   <string name="sport_running_burn">Verbrand</string>
+  <string name="sport_running_cal_burnt">%d cal</string>
+  <string name="sport_running_cal_desc">Verbrand</string>
+  <string name="sport_running_cal_with_unit">Verbrand(cal)</string>
   <string name="sport_running_cost_cal">%.1f cal</string>
   <string name="sport_running_distance">Afstand</string>
   <string name="sport_running_distance_desc">Kilometers</string>
   <string name="sport_running_distance_detail">%.2fkm</string>
+  <string name="sport_running_distance_unit">Afstand(km)</string>
   <string name="sport_running_end_time">Einde</string>
   <string name="sport_running_gps_cancel">Annuleren</string>
   <string name="sport_running_gps_locating">GPS localisatie…</string>
@@ -523,12 +554,18 @@ Notificaties by mksaint13"</string>
   <string name="sport_running_history_date" formatted="false">%d/%d/%d</string>
   <string name="sport_running_history_no_data">Geen data</string>
   <string name="sport_running_history_title">Geschiedenis</string>
+  <string name="sport_running_kilometers">km</string>
+  <string name="sport_running_kilometers_per_hour">km/h</string>
+  <string name="sport_running_label_hint">Titel input</string>
   <string name="sport_running_lable_km_slowest">Traagste Km</string>
   <string name="sport_running_lable_miles_fastest">Rapste Km</string>
+  <string name="sport_running_marathon_cost_time">(Een hele marathon moet %s in dit tempo)</string>
   <string name="sport_running_no_gps">GPS moet worden ingeschakeld om uw traject te volgen. Inschakelen?</string>
   <string name="sport_running_pace">Tempo</string>
   <string name="sport_running_pace_detail">%s/KM</string>
+  <string name="sport_running_pace_lable">Tempo</string>
   <string name="sport_running_pause">Pauze</string>
+  <string name="sport_running_per_kilometers">/km</string>
   <string name="sport_running_prepare_map">Data voorbereiden om te delen…</string>
   <string name="sport_running_prompt_come_on">Ga!!</string>
   <string name="sport_running_prompt_great">Great!!</string>
@@ -540,14 +577,19 @@ Notificaties by mksaint13"</string>
   <string name="sport_running_set_pace">Tempo instellen</string>
   <string name="sport_running_set_speed">Snelheid instellen</string>
   <string name="sport_running_settings">Instellingen</string>
+  <string name="sport_running_share">Delen</string>
   <string name="sport_running_slider_prompt">&gt;&gt;&gt;Rechts slepen om te pauzeren</string>
   <string name="sport_running_speed">Snelheid</string>
   <string name="sport_running_speed_detail">%dKM/H</string>
+  <string name="sport_running_speed_with_unit">Snelheid(km/h)</string>
+  <string name="sport_running_sport_state_sr_tips">Auto gepauseerd, overschakelen om te hervatten tijdens lopen </string>
   <string name="sport_running_start">Start</string>
   <string name="sport_running_start_time">Start</string>
   <string name="sport_running_step">Stappen</string>
+  <string name="sport_running_step_frequency">Frequentie(steps/m)</string>
   <string name="sport_running_stop">Stoppen</string>
   <string name="sport_running_time_desc">Tijd</string>
+  <string name="sport_running_watermark">Watermerk</string>
   <string name="sport_share">Nu delen</string>
   <string name="start">Start</string>
   <string name="start_download">Downloaden op achtergrond…</string>
@@ -617,6 +659,7 @@ Notificaties by mksaint13"</string>
   <string name="time_format_hour_min">%1$sh %2$sm</string>
   <string name="time_format_min">%s min</string>
   <string name="title_activity_open">Partner Bind Pagina</string>
+  <string name="title_health_link_service">Gezondheid Zorgservice</string>
   <string name="today">Vandaag</string>
   <string name="unbind">Loskoppelen</string>
   <string name="unbind_mili">Loskoppelen</string>
@@ -628,6 +671,7 @@ Notificaties by mksaint13"</string>
   <string name="unit_meter">m</string>
   <string name="unit_min">min</string>
   <string name="unit_min_short">m</string>
+  <string name="unit_sec_short">s</string>
   <string name="unit_step">stappen</string>
   <string name="unlock_for_smartlock_pair_fail_tip">MI band verbinden mislukt</string>
   <string name="unlock_for_smartlock_pair_start_tip">Verbinden met Mi band…</string>
@@ -667,6 +711,7 @@ Notificaties by mksaint13"</string>
   <string name="visit_micom">Bezoek de officiele site</string>
   <string name="wait">Een momentje…</string>
   <string name="walked">Gewandeld</string>
+  <string name="watermark_search_location">\#Het verkrijgen van uw positie#</string>
   <string name="wear_hand">Pols</string>
   <string name="weared_days">Totaal dagen</string>
   <string name="weather_aqi">Lucht kwaliteit %s</string>
@@ -680,9 +725,9 @@ Notificaties by mksaint13"</string>
   <string name="weather_description_sand">Fijn stof,</string>
   <string name="weather_description_snow">Sneeuw,</string>
   <string name="week"/>
-  <string name="weight_test_dynamic_detail">Gewicht:%1$s%2$s</string>
   <string name="weight_device_list">Nabijgelegen weegschalen</string>
   <string name="weight_scale">Weegschaal</string>
+  <string name="weight_test_dynamic_detail">Gewicht:%1$s%2$s</string>
   <string name="weight_test_dynamic_title">%1$s</string>
   <string name="weight_unbinded">Verbinding weegschaal verbreken</string>
   <string name="welcom_back">Welkom terug</string>

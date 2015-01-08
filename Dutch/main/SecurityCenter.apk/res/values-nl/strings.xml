@@ -70,9 +70,12 @@
   <string name="battery_history_seconds">%1$ds</string>
   <string name="boot_day_shutdown_day">Apparaat zal worden ingeschakeld binnen %1$dd op %2$s en uitgeschakeld worden binnen %3$dd op %4$s</string>
   <string name="boot_reminder">Schakel het apparaat in op een gepland tijdstip</string>
-  <string name="boot_reminder_day">Apparaat zal worden ingeschakeld binnen %1$dd %2$dh %3$dm</string>
+  <string name="boot_reminder_day">Apparaat zal opstarten binnen %1$dd %2$dh %3$dm</string>
+  <string name="boot_reminder_day_hour">Apparaat zal opstarten binnen %1$dd %2$dh</string>
   <string name="boot_reminder_hour">Apparaat zal worden ingeschakeld binnen %1$dh %2$dm</string>
   <string name="boot_reminder_minute">Apparaat zal worden ingeschakeld binnen %1$dm</string>
+  <string name="boot_reminder_only_day">Apparaat zal worden ingeschakeld binnen %1$dd</string>
+  <string name="boot_reminder_only_hour">Apparaat zal worden ingeschakeld binnen %1$dh</string>
   <string name="boot_shutdown">Apparaat zal worden ingeschakeld op %1$s en uitgeschakeld worden op %2$s</string>
   <string name="boot_shutdown_day">Apparaat zal worden ingeschakeld op %1$s Apparaat zal worden uigeschakeld binnen %2$dd op %3$s</string>
   <string name="boot_time">Apparaat zal worden ingeschakeld op %1$s</string>
