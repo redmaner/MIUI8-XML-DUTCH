@@ -812,6 +812,7 @@
   <string name="resource_detail_recommend_desiner_themes">"%1$s thema's"</string>
   <string name="resource_detail_recommend_other_themes">Gebruikers vonden ook leuk</string>
   <string name="resource_detail_update_log_title">Updates</string>
+  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Downloaden</string>
   <string name="resource_download_trial">Gratis trial</string>
@@ -840,8 +841,10 @@
   <string name="resource_get_auth_checking">Controleren……</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 apparaten zijn reeds toegestaan op dit account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
-  <string name="resource_get_auth_missing">Thema niet gedownload van officiële thema markt, download via de officiële markt.</string>
+  <string name="resource_get_auth_has_been_undercarriaged">This theme is no longer available.</string>
+  <string name="resource_get_auth_not_official">Themes from third-party sources are not supported</string>
   <string name="resource_get_auth_retrieving">Info verkrijgen…</string>
+  <string name="resource_has_been_downloaded">"You've already downloaded this theme."</string>
   <string name="resource_hint">Waarschuwing</string>
   <string name="resource_import_failed">Kan niet importeren</string>
   <string name="resource_import_successful">Voltooid</string>
@@ -879,6 +882,7 @@
   <string name="resource_search_list_empty">Kon niets vinden</string>
   <string name="resource_see_more">Meer weergeven</string>
   <string name="resource_select">Selecteren</string>
+  <string name="resource_select_ringtone_confirm">Select this sound?</string>
   <string name="resource_selected">Uitgelicht</string>
   <string name="resource_send">Verzenden</string>
   <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
@@ -887,8 +891,6 @@
   <string name="resource_share_text">Hier is een thema die je misschien leuk vindt: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Delen</string>
   <string name="resource_system_title">Systeem hulpbronnen</string>
-  <string name="resource_tip_select_ringtone">Geen beltoon geselecteerd</string>
-  <string name="resource_title">Hulpbron Detail</string>
   <string name="resource_tip_select_none">Geen beltoon geselecteerd</string>
   <string name="resource_title">Detail</string>
   <string name="resource_title_category">Categorieën</string>
@@ -896,6 +898,7 @@
   <string name="resource_title_local">Lokaal</string>
   <string name="resource_title_rank">Hitlijsten</string>
   <string name="resource_title_select_ringtone">Selecteer beltoon</string>
+  <string name="resource_title_subject">Featured</string>
   <string name="resource_trial_end_message">Proefperiode van %1$s verlopen. Indien het je bevalt, gelieve het aan te kopen.</string>
   <string name="resource_trial_end_purchase">Aankopen</string>
   <string name="resource_trial_end_restore">Proefperiode beëindigen</string>
@@ -905,7 +908,6 @@
   <string name="resource_trial_fail_message">Zorg ervoor dat uw systeem klok is ingesteld op de juiste tijd.</string>
   <string name="resource_trial_fail_title">Kon geen proefperiode instellen</string>
   <string name="resource_trial_time">（proefperiode: %1$d minuten）</string>
-  <string name="resource_unable_to_access">Het spijt ons de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.</string>
   <string name="resource_unknow_error">Onbekende fout.</string>
   <string name="resource_update">Bijwerken</string>
   <string name="resource_user_know">OK</string>
