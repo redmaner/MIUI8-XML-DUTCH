@@ -7,6 +7,7 @@
   <string name="action_item_add_to_new_playlist">Nieuw</string>
   <string name="action_item_delete">Verwijderen</string>
   <string name="action_item_download">Downloaden</string>
+  <string name="action_item_hide">Verbergen</string>
   <string name="action_item_remove">Verwijderen</string>
   <string name="action_item_send">Verzenden</string>
   <string name="add_music">Nummers toevoegen</string>
@@ -81,7 +82,7 @@
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_page_no_album">Geen albums.</string>
   <string name="empty_page_no_artist">Geen artiesten.</string>
-  <string name="empty_page_no_document">Geen documenten.</string>
+  <string name="empty_page_no_document">Geen documenten met audio inhoud</string>
   <string name="empty_page_no_track">Geen nummers.</string>
   <string name="enabled">Aan</string>
   <string name="eq_auto">Handmatig</string>
@@ -122,6 +123,8 @@
   <string name="filter_by_duration_min">0 sec</string>
   <string name="filter_by_duration_prefix">"Minimum lengte: "</string>
   <string name="filter_by_duration_summary">Geen korte audiobestanden weergeven</string>
+  <string name="filter_by_folder">Op mappen</string>
+  <string name="filter_by_folder_summary">Map kiezen om weer te geven</string>
   <string name="filter_by_size">Op grootte</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -231,6 +234,7 @@
   <string name="search_title_song">Nummer</string>
   <string name="select_album">Kies album</string>
   <string name="select_device">Kies apparaat</string>
+  <string name="select_displayed_folders">Map kiezen om weer te geven</string>
   <string name="select_local_album">Kies album</string>
   <string name="select_local_lyric">Kies songtekst</string>
   <string name="select_lyric">Kies songtekst</string>
