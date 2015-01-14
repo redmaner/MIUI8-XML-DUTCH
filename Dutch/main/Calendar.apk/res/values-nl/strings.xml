@@ -40,7 +40,7 @@
   <string name="anniversary_term">Jubileum</string>
   <string name="app_label">Agenda</string>
   <string name="attendees_label">Gasten</string>
-  <string name="birthday_calendar_display_name">Verjaardags herinneringen</string>
+  <string name="birthday_calendar_display_name">Verjaardagsherinneringen</string>
   <string name="birthday_event_description">"Vandaag is %1$s's jarig"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
@@ -67,7 +67,7 @@
   <string name="chinese_leap">Uitvoeren</string>
   <string name="chongsha">Ghosts</string>
   <string name="copy_db">Database verzenden</string>
-  <string name="copy_email">Emailadres kopiëren</string>
+  <string name="copy_email">E-mailadres kopiëren</string>
   <string name="copy_number">Telefoonnummer kopiëren</string>
   <string name="create_an_account_desc">"Agenda werkt beter met een Google account.
 
@@ -75,10 +75,10 @@
 • Maak beveiligde backups van uw afspraken"</string>
   <string name="creating_event">Afspraak gemaakt.</string>
   <string name="creating_event_with_guest">Uitnodigingen worden verzonden.</string>
-  <string name="cta_notice_checkbox">Herinnerings voorkeur</string>
+  <string name="cta_notice_checkbox">Herinneringsvoorkeur</string>
   <string name="cta_notice_message">Kalender moet uw contact info lezen om de verjaardagsherinneringen in te stellen.</string>
   <string name="cta_notice_ok">Toestaan</string>
-  <string name="cta_notice_title">Toestemmings aanvraag</string>
+  <string name="cta_notice_title">Toestemmingsaanvraag</string>
   <string name="cta_notify_settings">Eerst vragen</string>
   <string name="custom">Aangepast(kan niet op de tablet worden aangepast)</string>
   <string name="daily">Dagelijks</string>
@@ -88,7 +88,7 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dag</string>
   <string name="day_view_new_event_hint">+ Nieuwe afspraak</string>
-  <string name="default_reminder_mode">Standaardherinnerings modus</string>
+  <string name="default_reminder_mode">Standaard herinneringsmodus</string>
   <string name="delete_calendar">Uitschrijven</string>
   <string name="delete_label">Verwijderen</string>
   <string name="delete_recurring_event_title">%s verwijderen?</string>
@@ -108,12 +108,12 @@
   <string name="edit_event_confirm_message">Verwerp wijzigingen naar evenement?</string>
   <string name="edit_event_from_label">Van</string>
   <string name="edit_event_label">Details</string>
-  <string name="edit_event_reminder_off_toast">Herinneringen uitgescakeld</string>
+  <string name="edit_event_reminder_off_toast">Herinneringen uitgeschakeld</string>
   <string name="edit_event_show_all">Alles weergeven</string>
   <string name="edit_event_to_label">Tot</string>
   <string name="edit_label">Bewerken</string>
-  <string name="email_guests_label">Emailen aan gasten</string>
-  <string name="email_picker_label">Email met</string>
+  <string name="email_guests_label">E-mailen aan gasten</string>
+  <string name="email_picker_label">E-mail met</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Lege afspraak niet gemaakt.</string>
   <string name="enter_calendar">Kalender toevoegen</string>
@@ -193,7 +193,6 @@
   <string name="no_network">Geen netwerk. Netwerk vernieuwen :)</string>
   <string name="no_syncable_calendars">"Geen agenda's"</string>
   <string name="no_title_label">(Geen titel)</string>
-  <string name="not_exist_topic_list">Niet in staat om een lijst te verkrijgen van geabonneerde kalender</string>
   <string name="not_synced">Niet gesynchroniseerd</string>
   <string name="online_calendar_activity_label">Abonneren op kalender</string>
   <string name="online_reminder_change_text">Herinnering wijzigen</string>
@@ -206,7 +205,7 @@
   <string name="pref_title_alarm_remind">Alarm herinneringen</string>
   <string name="pref_title_alert_remind">Popup herinneringen</string>
   <string name="pref_title_no_remind">Geen herinneringen</string>
-  <string name="pref_title_notification_remind">Herinnerings notificatie</string>
+  <string name="pref_title_notification_remind">Herinneringsnotificatie</string>
   <string name="preferences_about_title">Over</string>
   <string name="preferences_alerts_popup_title">Popup melding</string>
   <string name="preferences_alerts_ringtone_title">Geluid</string>
@@ -236,10 +235,10 @@
   <string name="privacy_label">Privacy</string>
   <string name="quick_response_custom_msg">Eigen reactie opstellen…</string>
   <string name="quick_response_dialog_title">Snelle reactie kiezen</string>
-  <string name="quick_response_email_failed">Het vinden van een emailprogramma is mislukt</string>
+  <string name="quick_response_email_failed">Het vinden van een e-mailprogramma is mislukt</string>
   <string name="quick_response_settings">Snelle reacties</string>
   <string name="quick_response_settings_edit_title">Snelle reactie</string>
-  <string name="quick_response_settings_summary">Standaardreacties bewerken voor het emailen van gasten</string>
+  <string name="quick_response_settings_summary">Standaardreacties bewerken voor het e-mailen van gasten</string>
   <string name="quick_response_settings_title">Snelle reacties bewerken</string>
   <string name="refresh">Vernieuwen</string>
   <string name="reminders_label">Herinnering toevoegen</string>
@@ -273,8 +272,8 @@
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Afspraak %1$s van %2$s.</string>
   <string name="text_year">Jaarlijks</string>
-  <string name="time_zone">Tijdszone</string>
-  <string name="timezone_label">Tijdszone</string>
+  <string name="time_zone">Tijdzone</string>
+  <string name="timezone_label">Tijdzone</string>
   <string name="today">Vandaag</string>
   <string name="today_at_time_fmt">Vandaag om %s</string>
   <string name="today_no_events">Geen agenda vandaag</string>

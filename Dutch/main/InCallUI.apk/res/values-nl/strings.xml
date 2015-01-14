@@ -96,7 +96,7 @@
   <string name="cdma_lte_data_service">Stel data service in</string>
   <string name="cdma_options">CDMA Opties</string>
   <string name="cdma_subscription_dialogtitle">Inschrijven</string>
-  <string name="cdma_subscription_summary">Wisselen tussen RUIM/SIM en NV</string>
+  <string name="cdma_subscription_summary">Wisselen tussen UIM/SIM en NV</string>
   <string name="cdma_subscription_title">CDMA inschrijving</string>
   <string name="cdma_system_select_dialogtitle">Systeem kiezen</string>
   <string name="cdma_system_select_summary">Verander CDMA roaming modus</string>
@@ -260,19 +260,19 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="ivr_menu_list_title">Spraak menu</string>
   <string name="jeejen_answer_call_text">Gesprek beantwoorden</string>
   <string name="jeejen_card_title_call_cancel">Gesprek annuleren</string>
-  <string name="jeejen_card_title_call_ended">Gesprek bëindigd</string>
+  <string name="jeejen_card_title_call_ended">Gesprek beëindigd</string>
   <string name="jeejen_card_title_dialing">Kiezen</string>
   <string name="jeejen_card_title_in_call"/>
   <string name="jeejen_card_title_incoming_call">Binnenkomend gesprek</string>
   <string name="jeejen_card_title_on_hold"/>
-  <string name="jeejen_end_call_text">Gesprek bëindigen</string>
+  <string name="jeejen_end_call_text">Gesprek beëindigen</string>
   <string name="jeejen_reject_call_text">Gesprek afwijzen</string>
   <string name="jeejen_toggle_dialpad_text">Toetsenblok</string>
-  <string name="labelCDMAMore">CDMA gespreks instellingen</string>
+  <string name="labelCDMAMore">CDMA gespreksinstellingen</string>
   <string name="labelCF">Gesprek doorschakelen</string>
   <string name="labelCFB">Doorschakelen wanneer bezet</string>
   <string name="labelCFNRc">Doorschakelen wanneer niet bereikbaar</string>
-  <string name="labelCFNRy">Doorschakelen bij niet antwoordeb</string>
+  <string name="labelCFNRy">Doorschakelen bij niet antwoorden</string>
   <string name="labelCFU">Altijd doorschakelen</string>
   <string name="labelCW">Wachtfunctie</string>
   <string name="labelCallerId">Nummerweergave</string>
@@ -284,7 +284,7 @@ Toch overschakelen naar de nieuwe provider?</string>
   <string name="lafs_disable">"Vluchtschema's Lokale Luchthaven uitgeschakeld"</string>
   <string name="lafs_enable">"Vluchtschema's Lokale Luchthaven ingeschakeld"</string>
   <string name="list_language_dtitle">Talen</string>
-  <string name="list_language_summary">Nieuws taal seleteren</string>
+  <string name="list_language_summary">Nieuws taal selecteren</string>
   <string name="list_language_title">Taal</string>
   <string name="livetalk_provider_info">Provided by %s</string>
   <string name="livetalk_waiting">Wachten…</string>
@@ -426,7 +426,7 @@ Toch overschakelen naar de nieuwe provider?</string>
 Je moet een gebied te vinden met een betere dekking (nabij een raam, of buiten). 
 
 Probeer het opnieuw of bel de klantenservice voor meer opties.</string>
-  <string name="other_settings">Overige gespreks instellingen</string>
+  <string name="other_settings">Overige gespreksinstellingen</string>
   <string name="password">Wachtwoord</string>
   <string name="password_title">Wachtwoord</string>
   <string name="pause_prompt_no">Nee</string>
@@ -577,9 +577,9 @@ Probeer het opnieuw of bel de klantenservice voor meer opties.</string>
   <string name="sum_fdn">Beheer vaste nummers</string>
   <string name="sum_fdn_change_pin">Wijzig PIN code voor FDN toegang</string>
   <string name="sum_fdn_manage_list">Beheer telefoon nummer lijst</string>
-  <string name="sum_gsm_call_settings">Extra alleen GSM gespreks instellingen</string>
+  <string name="sum_gsm_call_settings">Extra alleen GSM gespreksinstellingen</string>
   <string name="sum_hide_caller_id">Verberg nummer bij uitgaande gesprekken</string>
-  <string name="sum_loading_settings">Instelingen laden…</string>
+  <string name="sum_loading_settings">Instellingen laden…</string>
   <string name="sum_search_networks">Zoek beschikbare netwerken</string>
   <string name="sum_select_automatically">Kies automatisch het voorkeurs netwerk</string>
   <string name="sum_show_caller_id">Toon nummer bij uitgaande gesprekken</string>
@@ -607,11 +607,11 @@ Volgend periode start binnen %2$d dagen (%3$s)"</string>
   <string name="tty_mode_option_summary">Stel TTY modus in</string>
   <string name="tty_mode_option_title">TTY modus</string>
   <string name="unknown">Onbekend</string>
-  <string name="unlock_failed">Netwerk ontgrendelings verzoek mislukt.</string>
-  <string name="unlock_success">Network ontgrendeling gelukt.</string>
+  <string name="unlock_failed">Netwerk ontgrendelingsverzoek mislukt.</string>
+  <string name="unlock_success">Netwerk ontgrendeling gelukt.</string>
   <string name="updating_fdn_contact">Bijwerken vaste nummers…</string>
-  <string name="updating_settings">Bijwerken instelingen…</string>
-  <string name="updating_title">Gespreks instelingen</string>
+  <string name="updating_settings">Bijwerken instellingen…</string>
+  <string name="updating_title">Gespreksinstellingen</string>
   <string name="upgrade_vt_prompt">Wilt u het gesprek upgraden naar video gesprek  ?</string>
   <string name="upgrade_vt_rx_prompt">Wilt u het gesprek upgraden om video gesprekken te ontvangen?</string>
   <string name="upgrade_vt_tx_prompt">Wilt u het gesprek upgraden om video gesprekken te verzenden?</string>
@@ -632,6 +632,6 @@ Volgend periode start binnen %2$d dagen (%3$s)"</string>
   <string name="voicemail_settings">Instelling</string>
   <string name="voicemail_settings_number_label">Voicemail nummer</string>
   <string name="vt_init_fail_str">"VT initialisatie mislukt. Downgraad gesprek naar VoLTE"</string>
-  <string name="wait_prompt_str">"Volgende beltone versturen?"</string>
+  <string name="wait_prompt_str">"Volgende beltoon versturen?"</string>
   <string name="wild_prompt_str">Vervang joker tekens met</string>
 </resources>

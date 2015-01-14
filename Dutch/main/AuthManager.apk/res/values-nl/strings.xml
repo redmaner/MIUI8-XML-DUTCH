@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Apps</string>
-  <string name="Dashboard_HIPS_Disable_Content">MIUI zal  toestemmingsverzoeken van de apps niet controleren</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI zal toestemmingsverzoeken van de apps niet controleren</string>
   <string name="Dashboard_HIPS_Disable_Title">Toestemmingen</string>
   <string name="Dashboard_Log">Logs</string>
   <string name="Dashboard_Log_Clear_Content">Alle logs zullen verwijderd worden.</string>
@@ -11,13 +11,13 @@
   <string name="Dashboard_Perm_AutoStart_Desc">Controle welke apps kunnen worden gestart wanneer het apparaat wordt ingeschakeld</string>
   <string name="Dashboard_Perm_HIPS">Toestemmingen beheren</string>
   <string name="Dashboard_Perm_HIPS_Desc">Toezicht op %1$d apps</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">Controleerd %1$d apps</string>
-  <string name="Dashboard_Perm_HIPS_Disabled">Toestemmings monitor is uitgeschakeld</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">Controleert %1$d apps</string>
+  <string name="Dashboard_Perm_HIPS_Disabled">Toestemmingsmonitor is uitgeschakeld</string>
   <string name="Dashboard_Perm_HIPS_Risky">Riskante Toestemmingen (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Safe">Normale Toestemmingen (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Switch">Toestemmingen</string>
-  <string name="Dashboard_Perm_Header">Controleerd %1$d apps</string>
-  <string name="Dashboard_Perm_Header_Disabled">Toestemmingens monitor uitgeschakeld</string>
+  <string name="Dashboard_Perm_Header">Controleert %1$d apps</string>
+  <string name="Dashboard_Perm_Header_Disabled">Toestemmingensmonitor uitgeschakeld</string>
   <string name="Dashboard_Perm_SU">Beheer de Root toegang </string>
   <string name="Dashboard_Perm_SU_Desc">Toezicht op %1$d apps met root toegang</string>
   <string name="Dashboard_Perm_SU_Disabled">Root toegang uitgeschakeld</string>
@@ -88,12 +88,12 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_Calendar_Desc">Kan kalender lezen</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s apps kunnen kalender evenementen lezen</string>
   <string name="HIPS_Perm_Call">Kan gesprekken maken</string>
-  <string name="HIPS_Perm_CallLog">Schrijft gespreks geschiedenis</string>
-  <string name="HIPS_Perm_CallLog_Access">Kan gespreks geschiedenis lezen</string>
-  <string name="HIPS_Perm_CallLog_Desc">Kan gespreks geschiedenis schrijven</string>
-  <string name="HIPS_Perm_CallLog_Hint">%1$s apps kunnen gespreks geschiedenis schrijven</string>
-  <string name="HIPS_Perm_CallMonitor">Controleerd gesprekken</string>
-  <string name="HIPS_Perm_CallMonitor_Desc">Controleerd gesprekken en volume veranderen van inkomende gesprekken</string>
+  <string name="HIPS_Perm_CallLog">Schrijft gespreksgeschiedenis</string>
+  <string name="HIPS_Perm_CallLog_Access">Kan gespreksgeschiedenis lezen</string>
+  <string name="HIPS_Perm_CallLog_Desc">Kan gespreksgeschiedenis schrijven</string>
+  <string name="HIPS_Perm_CallLog_Hint">%1$s apps kunnen gespreksgeschiedenis schrijven</string>
+  <string name="HIPS_Perm_CallMonitor">Controleert gesprekken</string>
+  <string name="HIPS_Perm_CallMonitor_Desc">Controleert gesprekken en volume veranderen van inkomende gesprekken</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s apps controleren gesprekken en volume veranderen van inkomende gesprekken</string>
   <string name="HIPS_Perm_CallState">Lezen apparaat status</string>
   <string name="HIPS_Perm_CallState_Desc">Lezen apparaat status</string>
@@ -102,15 +102,15 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_Call_Hint">%1$s apps kunnen direct telefoonnummers bellen.</string>
   <string name="HIPS_Perm_Call_Number">Gesprekken %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">Kan gemiste gesprekken verwijderen</string>
-  <string name="HIPS_Perm_Contact">Contacten aanpasssen</string>
+  <string name="HIPS_Perm_Contact">Contacten aanpassen</string>
   <string name="HIPS_Perm_Contact_Access">Contacten lezen</string>
-  <string name="HIPS_Perm_Contact_Desc">Contacten anpassen</string>
+  <string name="HIPS_Perm_Contact_Desc">Contacten aanpassen</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s apps kunnen contacten aanpassen</string>
   <string name="HIPS_Perm_DisableKeyguard">Uitschakelen scherm vergrendeling</string>
   <string name="HIPS_Perm_DisableKeyguard_Desc">Kunnen je scherm vergrendeling uitschakelen</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apps die de scherm vergrendeling kunnen uitschakelen</string>
   <string name="HIPS_Perm_EndCall">Kan gesprek beëindigen</string>
-  <string name="HIPS_Perm_GetCallState">Controleerd de status van het gesprek</string>
+  <string name="HIPS_Perm_GetCallState">Controleert de status van het gesprek</string>
   <string name="HIPS_Perm_ListenCallState">Leest de status van het gesprek</string>
   <string name="HIPS_Perm_Location">Krijgt locatie info</string>
   <string name="HIPS_Perm_Location_Access">Krijgt precieze locatie(GPS en netwerk gebaseerde)</string>
@@ -126,9 +126,9 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_MMS_Access">Leest MMS</string>
   <string name="HIPS_Perm_MMS_Desc">Schrijft MMS</string>
   <string name="HIPS_Perm_MMS_Hint">%1$s apps kunnen MMS schrijven</string>
-  <string name="HIPS_Perm_MobileNetwork">Mobiele data vebinding gebruiken</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">Kan mobiele data vebinding gebruiken</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps kunnen mobiele data vebinding gebruiken</string>
+  <string name="HIPS_Perm_MobileNetwork">Mobiele datavebinding gebruiken</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">Kan mobiele datavebinding gebruiken</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps kunnen mobiele datavebinding gebruiken</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Verander mobiele data verbinding</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">Kunnen mobiele data verbinding in- of uitschakelen</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s apps kunnen mobiele data verbinding in- of uitschakelen</string>
@@ -157,8 +157,8 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_Perm_ROOT_Hint">%1$s apps kunnen ROOT toegang verkrijgen</string>
   <string name="HIPS_Perm_ROOT_Title">App kan ROOT toegang verkrijgen</string>
   <string name="HIPS_Perm_Read_Call_Log">Lees gesprek geschiedenis</string>
-  <string name="HIPS_Perm_Read_Call_Log_Desc">Lees gespreks geschiedenis</string>
-  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s apps kunnen gespreks geschiedenis lezen</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">Lees gespreksgeschiedenis</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s apps kunnen gespreksgeschiedenis lezen</string>
   <string name="HIPS_Perm_Read_Contact">Lees contacten</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Lees contacten</string>
   <string name="HIPS_Perm_Read_Contact_Hint">%1$s apps kunnen contacten lezen</string>
@@ -217,7 +217,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_SecurityPrompt_Accept">Toestaan(%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Toestaan</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Eenmaal toestaan (%d)</string>
-  <string name="HIPS_SecurityPrompt_Caption">Veiligheids Melding</string>
+  <string name="HIPS_SecurityPrompt_Caption">Veiligheidsmelding</string>
   <string name="HIPS_SecurityPrompt_Next">Volgende</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Kan root toegang verkrijgen</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Verleen %1$s root toegang?</string>
@@ -227,7 +227,7 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Apps toestemming verlenen tot de root toegang is op eigen risico.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s root toegang verlenen?</string>
   <string name="HIPS_SecurityPrompt_Reject">Weigeren (%d)</string>
-  <string name="HIPS_SecurityPrompt_Reject_Once">Eemaal weigeren(%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Eenmaal weigeren(%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Voorkeur onthouden</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s probeert %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d toestemmingen</string>
@@ -251,6 +251,6 @@ Je moet de ontwikkelaars build of MIUI flashen om root toegang te krijgen</strin
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Opstarten</string>
   <string name="SysOpt_Boost_Receiver">Achtergrond</string>
-  <string name="app_name">Toestemmings manager</string>
+  <string name="app_name">Toestemmingsbeheer</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" heeft geen toestemming tot %2$s. U kunt app toestemmingen elk moment in Beveiliging wijzigen &gt; Permissions."</string>
 </resources>

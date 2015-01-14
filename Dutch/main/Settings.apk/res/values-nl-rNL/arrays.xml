@@ -18,7 +18,7 @@
     <string-array name="select_runtime_summaries">
         <item>Dalvik gebruiken</item>
         <item>ART gebruiken</item>
-        <item>ART foutopsporingsbuild gebruiken</item>
+        <item>ART-foutopsporingsbuild gebruiken</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
         <item>Geascendeerde wezen</item>
@@ -30,15 +30,15 @@
     <string-array name="haptic_feedback_level_entries">
         <item>Sterk</item>
         <item>Medium</item>
-        <item>Licht</item>
+        <item>licht</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
-        <item>Strerk</item>
+        <item>Sterk</item>
         <item>Medium</item>
         <item>Licht</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Graphisch</item>
+        <item>Grafisch</item>
         <item>Percentage</item>
         <item>Top bar</item>
     </string-array>
@@ -154,16 +154,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Briljant</item>
         <item>Standaard</item>
     </string-array>
-    <string-array name="screen_optimize_title">
-        <item>Automatish contrast</item>
-        <item>Verhoogd contrast</item>
-        <item>Standaard</item>
-    </string-array>
-    <string-array name="screen_optimize_summary">
-        <item>Optimaliseren contrast voor het beschikbare licht</item>
-        <item>Verhoog scherm contrast </item>
-        <item>Contrast zal constant blijven</item>
-    </string-array>
     <string-array name="perm_hips_action">
         <item>Toestaan</item>
         <item>Vragen</item>
@@ -182,13 +172,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Dual-mic ruisonderdrukking</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Gezichts ontgrendeling</item>
+        <item>Gezichtsontgrendeling</item>
         <item>Patroon</item>
         <item>PIN</item>
         <item>Wachtwoord</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Automatish verbinden</item>
+        <item>Automatisch verbinden</item>
         <item>Manueel verbinden</item>
         <item>Altijd vragen</item>
     </string-array>
@@ -205,7 +195,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Berichten</item>
         <item>Browser</item>
         <item>Camera</item>
-        <item>Gallerij</item>
+        <item>Galerij</item>
         <item>Muziek</item>
         <item>Email</item>
     </string-array>

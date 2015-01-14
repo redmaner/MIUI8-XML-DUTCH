@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_reminder_interval_summary"/>
-  <string name="alert_reminder_interval_title">Waarschuwings herinnering</string>
+  <string name="alert_reminder_interval_title">Waarschuwingsherinnering</string>
   <string name="alert_sound_duration_summary"/>
-  <string name="alert_sound_duration_title">Duur waarschuwings signaal</string>
+  <string name="alert_sound_duration_title">Duur waarschuwingssignaal</string>
   <string name="app_label">Mobiele uitzendingen</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_delete">Verwijderen</string>
@@ -17,8 +17,8 @@
   <string name="cmas_category_cbrne">Chemisch/biologisch/Nuclear/Explosief</string>
   <string name="cmas_category_env">Ecologische</string>
   <string name="cmas_category_fire">Brand</string>
-  <string name="cmas_category_geo">Geofysische</string>
-  <string name="cmas_category_heading">Waarschuwings category:</string>
+  <string name="cmas_category_geo">Geofysisch</string>
+  <string name="cmas_category_heading">Waarschuwingscategorie:</string>
   <string name="cmas_category_health">Gezondheid</string>
   <string name="cmas_category_infra">Infrastructuur</string>
   <string name="cmas_category_met">Meteorologische</string>
@@ -39,7 +39,7 @@
   <string name="cmas_presidential_level_alert">Presidentiële waarschuwing</string>
   <string name="cmas_required_monthly_test">Maandelijkse Noodsituatie waarschuwing test</string>
   <string name="cmas_response_assess">Beoordelen</string>
-  <string name="cmas_response_avoid">Vemijden</string>
+  <string name="cmas_response_avoid">Vermijden</string>
   <string name="cmas_response_evacuate">Ontruimen</string>
   <string name="cmas_response_execute">Uitvoeren</string>
   <string name="cmas_response_heading">Type antwoord:</string>
@@ -53,16 +53,16 @@
   <string name="cmas_severity_severe">Ernstige</string>
   <string name="cmas_urgency_expected">Verwacht</string>
   <string name="cmas_urgency_heading">Urgentie:</string>
-  <string name="cmas_urgency_immediate">Direkt</string>
+  <string name="cmas_urgency_immediate">Direct</string>
   <string name="confirm_delete_all_broadcasts">Verwijder alle ontvangen uitzend berichten?</string>
   <string name="confirm_delete_broadcast">Verwijder deze uitzending?</string>
   <string name="delivery_time_heading">Ontvangen:</string>
   <string name="emergency_alert_settings_title">Instellingen Noodsituatie waarschuwingen</string>
-  <string name="enable_alert_speech_summary">Gebruik tekst naar spraak voor noodsituaties waarschuwings berichten in te spreken</string>
+  <string name="enable_alert_speech_summary">Gebruik tekst naar spraak voor noodsituaties waarschuwingsberichten in te spreken</string>
   <string name="enable_alert_speech_title">Spreek waarschuwingsbericht in</string>
   <string name="enable_alert_vibrate_summary">Trillen bij waarschuwing</string>
   <string name="enable_alert_vibrate_title">Trillen</string>
-  <string name="enable_channel_50_alerts_summary">Kanaal 50 wordt gebruikt in Brazilië voor gebieds update informatie</string>
+  <string name="enable_channel_50_alerts_summary">Kanaal 50 wordt gebruikt in Brazilië voor gebiedsupdate informatie</string>
   <string name="enable_channel_50_alerts_title">Toon de uitzendingen van kanaal 50 </string>
   <string name="enable_channel_60_alerts_summary">Kanaal 60 wordt gebruikt in India voor specifieke Operator informatie</string>
   <string name="enable_channel_60_alerts_title">Toon de uitzendingen van kanaal 60 </string>
@@ -72,11 +72,11 @@
   <string name="enable_cmas_extreme_threat_alerts_title">Toon extreme bedreigingen</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Waarschuwingen weergeven voor een ernstige bedreiging voor het leven en eigendom</string>
   <string name="enable_cmas_severe_threat_alerts_title">Toon ernstige bedreigingen</string>
-  <string name="enable_cmas_test_alerts_summary">Toon test uitzendingen voor Mobile reclame voor waarschuwings syteem</string>
+  <string name="enable_cmas_test_alerts_summary">Toon test uitzendingen voor Mobile reclame voor waarschuwingssyteem</string>
   <string name="enable_cmas_test_alerts_title">Toon CMAS testuitzendingen</string>
-  <string name="enable_emergency_alerts_summary">Toon Nood waarschuwings uitzendingen</string>
+  <string name="enable_emergency_alerts_summary">Toon nood waarschuwingsmeldingen</string>
   <string name="enable_emergency_alerts_title">Schakel notificaties in</string>
-  <string name="enable_etws_test_alerts_summary">Toon test uitzendingen voor Aardbevingen en Tsunami waarschuwings syteem</string>
+  <string name="enable_etws_test_alerts_summary">Toon test uitzendingen voor Aardbevingen en Tsunami waarschuwingssyteem</string>
   <string name="enable_etws_test_alerts_title">Toon ETWS testuitzendingen</string>
   <string name="etws_earthquake_and_tsunami_warning">Aardbeving en tsunami waarschuwing</string>
   <string name="etws_earthquake_warning">Aardbeving waarschuwing</string>
@@ -95,5 +95,5 @@
   <string name="show_cmas_opt_out_summary">Toon een opt-out dialoogvenster na het tonen van de eerste CMAS waarschuwing(anders dan Presidentiële waarschuwing).</string>
   <string name="show_cmas_opt_out_title">Tonen dialoog van opt-out</string>
   <string name="sms_cb_settings">Instellingen Mobiele uitzendingen </string>
-  <string name="view_details_title">Waarschuwings details</string>
+  <string name="view_details_title">Waarschuwingsdetails</string>
 </resources>
