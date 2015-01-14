@@ -220,13 +220,13 @@
   <string name="delete_duplicate_message">Contacten samenvoegen…</string>
   <string name="delete_group_dialog_message">"De groep '%1$s' verwijderen?(De contacten zelf worden niet verwijderd.)"</string>
   <string name="delete_group_dialog_title">Groep verwijderen</string>
-  <string name="delete_selected_sim_entry_miui">Geslecteerde contacten verwijderen</string>
+  <string name="delete_selected_sim_entry_miui">Geselecteerde contacten verwijderen</string>
   <string name="delete_sim_entries_finish">Contacten op SIM kaart verwijderd</string>
   <string name="delete_sim_entry_miui">Verwijderen</string>
   <string name="delete_unknown_contact_calllog_title">Belgeschiedenis verwijderen?</string>
   <string name="deleting">Verwijderen…</string>
   <string name="deleting_sim_entry_miui">Contacten op SIM kaart verwijderen…</string>
-  <string name="description_add_contact">Contact goevoegen</string>
+  <string name="description_add_contact">Contact toevoegen</string>
   <string name="description_author">Auteur</string>
   <string name="description_call">%1$s bellen</string>
   <string name="description_call_log_incoming_call">Inkomend gesprek</string>
@@ -502,7 +502,7 @@
   <string name="meid">MEID</string>
   <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
-  <string name="menu_addStar">Favoriet</string>
+  <string name="menu_addStar">Toevoegen aan favorieten</string>
   <string name="menu_bar_group_add">Toevoegen</string>
   <string name="menu_bar_group_delete">Verwijderen</string>
   <string name="menu_bar_group_rename">Hernoemen</string>
@@ -534,7 +534,7 @@
   <string name="menu_joinAggregate">Samenvoegen</string>
   <string name="menu_newContact">Nieuw contact</string>
   <string name="menu_new_contact_action_bar">Contact toevoegen</string>
-  <string name="menu_new_favorite_action_bar">Toevoegen aan favorieten</string>
+  <string name="menu_new_favorite_action_bar">Nieuw</string>
   <string name="menu_new_group_action_bar">Groep toevoegen</string>
   <string name="menu_not_redirect_calls_to_vm">Voicemail niet in gebruik</string>
   <string name="menu_redirect_calls_to_vm">Alle oproepen naar voicemail</string>
@@ -775,7 +775,7 @@
   <string name="resource_comment_edit_comment_waiting">Geschiedenis controleren…</string>
   <string name="resource_comment_edit_text_default">Reactie toevoegen</string>
   <string name="resource_comment_edit_title">Reactie aanpassen: %1$s</string>
-  <string name="resource_comment_entry_tips">Reacties (%1$s)</string>
+  <string name="resource_comment_entry_tips">Reacties weergeven</string>
   <string name="resource_comment_expand_full_text">Alle tekst weergeven▼</string>
   <string name="resource_comment_footer">Lege reacties zijn niet weergegeven.</string>
   <string name="resource_comment_good_comments">Positieve reacties</string>
@@ -812,7 +812,6 @@
   <string name="resource_detail_recommend_desiner_themes">"%1$s thema's"</string>
   <string name="resource_detail_recommend_other_themes">Gebruikers vonden ook leuk</string>
   <string name="resource_detail_update_log_title">Updates</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Downloaden</string>
   <string name="resource_download_trial">Gratis trial</string>
@@ -842,10 +841,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">10 apparaten zijn reeds toegestaan op dit account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
   <string name="resource_get_auth_missing">Thema niet gedownload van officiële thema markt, download via de officiële markt.</string>
-  <string name="resource_get_auth_has_been_undercarriaged">Dit thema is niet meer beschikbaar.</string>
-  <string name="resource_get_auth_not_official">"Thema's uit bronnen van derden worden niet ondersteund"</string>
   <string name="resource_get_auth_retrieving">Info verkrijgen…</string>
-  <string name="resource_has_been_downloaded">"Je hebt dit thema al gedownload</string>
   <string name="resource_hint">Waarschuwing</string>
   <string name="resource_import_failed">Kan niet importeren</string>
   <string name="resource_import_successful">Voltooid</string>
@@ -883,7 +879,6 @@
   <string name="resource_search_list_empty">Kon niets vinden</string>
   <string name="resource_see_more">Meer weergeven</string>
   <string name="resource_select">Selecteren</string>
-  <string name="resource_select_ringtone_confirm">Dit geliud selecteren?</string>
   <string name="resource_selected">Uitgelicht</string>
   <string name="resource_send">Verzenden</string>
   <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
@@ -892,6 +887,8 @@
   <string name="resource_share_text">Hier is een thema die je misschien leuk vindt: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Delen</string>
   <string name="resource_system_title">Systeem hulpbronnen</string>
+  <string name="resource_tip_select_ringtone">Geen beltoon geselecteerd</string>
+  <string name="resource_title">Hulpbron Detail</string>
   <string name="resource_tip_select_none">Geen beltoon geselecteerd</string>
   <string name="resource_title">Detail</string>
   <string name="resource_title_category">Categorieën</string>
@@ -899,7 +896,6 @@
   <string name="resource_title_local">Lokaal</string>
   <string name="resource_title_rank">Hitlijsten</string>
   <string name="resource_title_select_ringtone">Selecteer beltoon</string>
-  <string name="resource_title_subject">Aanbevolen</string>
   <string name="resource_trial_end_message">Proefperiode van %1$s verlopen. Indien het je bevalt, gelieve het aan te kopen.</string>
   <string name="resource_trial_end_purchase">Aankopen</string>
   <string name="resource_trial_end_restore">Proefperiode beëindigen</string>
@@ -909,6 +905,7 @@
   <string name="resource_trial_fail_message">Zorg ervoor dat uw systeem klok is ingesteld op de juiste tijd.</string>
   <string name="resource_trial_fail_title">Kon geen proefperiode instellen</string>
   <string name="resource_trial_time">（proefperiode: %1$d minuten）</string>
+  <string name="resource_unable_to_access">Het spijt ons de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.</string>
   <string name="resource_unknow_error">Onbekende fout.</string>
   <string name="resource_update">Bijwerken</string>
   <string name="resource_user_know">OK</string>
@@ -951,7 +948,7 @@
   <string name="share_over_limit">Over het limiet, kan niet gedeeld worden</string>
   <string name="share_via">Contact delen via</string>
   <string name="share_visible_contacts">Zichtbare contacten delen</string>
-  <string name="shortcutActivityTitle">Kies een snelkoppeling</string>
+  <string name="shortcutActivityTitle">Kies een contactsnelkoppeling</string>
   <string name="shortcutContact">Contacten</string>
   <string name="shortcutDialContact">Direct bellen</string>
   <string name="shortcutMessageContact">Direct bericht</string>

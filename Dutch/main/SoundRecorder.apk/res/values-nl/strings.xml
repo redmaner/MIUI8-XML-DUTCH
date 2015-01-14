@@ -26,7 +26,7 @@
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
   <string name="error_sdcard_unmounted">SD kaar losgekoppeld, steek de SD kaart in</string>
   <string name="fm_record">Radio opname(%d)</string>
-  <string name="low_battery_error">Batterij is nog maar 5% opgeladen, om te verzekeren dat de opname niet veloren gaat, is de opname gestopt en opgeslagen.</string>
+  <string name="low_battery_error">Batterij is nog maar 5% opgeladen, om te verzekeren dat de opname niet verloren gaat, is de opname gestopt en opgeslagen.</string>
   <string name="message_file_size_error">Opname heeft de maximale ondersteunde opname tijd bereikt voor %s</string>
   <string name="no_downloading_file">Geen downloadbestand</string>
   <string name="no_file">Geen opnames</string>
@@ -36,7 +36,7 @@
   <string name="notification_recording_ticker">Telefoon gedempt. Opnemen…</string>
   <string name="notification_stopped">Opname is gestopt</string>
   <string name="notification_title_all_paused">Download gepauzeerd</string>
-  <string name="notification_warning">Weing opslag(minder dan %d minuten)</string>
+  <string name="notification_warning">Weinig opslag(minder dan %d minuten)</string>
   <string name="pause">Pauzeren</string>
   <string name="preference_enable_earpiece_summary">Gebruik ontvanger voor extern afspelen</string>
   <string name="preference_enable_earpiece_title">Gebruik ontvanger om audio af te spelen</string>
@@ -63,7 +63,7 @@
   <string name="record_list">Opname lijst</string>
   <string name="record_list_call">Oproep opnames</string>
   <string name="record_list_cloud">Cloud opnames</string>
-  <string name="record_list_cloud_call">Cloud gespreks opnames</string>
+  <string name="record_list_cloud_call">Cloud gespreksopnames</string>
   <string name="record_list_cloud_fm">Cloud FM Opnames</string>
   <string name="record_list_fm">FM Opnames</string>
   <string name="record_name_hour">.</string>
@@ -86,6 +86,6 @@
   <string name="toast_max_record_time">%1$s maximale ondersteunde opname tijd %2$s</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
   <string name="wifi_recommended_body" formatted="false">Klaar om te downloaden via provider\'s netwerk： %s  Het downloaden van dit bestand kan leiden tot hogere data kosten. Raak %s Raak %s aan om de download te starten de volgende keer dat u verbinding hebt met een Wi-Fi netwerk. </string>
-  <string name="wifi_recommended_title">Verkeers herinnering</string>
+  <string name="wifi_recommended_title">Verkeersherinnering</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
