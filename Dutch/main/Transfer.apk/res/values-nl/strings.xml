@@ -5,7 +5,7 @@
   <string name="action_bar_home_description">Ga naar startscherm</string>
   <string name="action_bar_up_description">Naar boven</string>
   <string name="activate">Activeer</string>
-  <string name="activate_fail_notification_title">Reactivativeer Xiaomi sync. service</string>
+  <string name="activate_fail_notification_title">Heractiveer Xiaomi sync. service</string>
   <string name="activating">Activeren…</string>
   <string name="alwaysUsePrompt">Instellen als standaard</string>
   <string name="anniversary_of_lifting_martial_law">Xie Yan Memorial</string>
@@ -23,7 +23,7 @@
   <string name="button_pre">Vorige</string>
   <string name="callNoAnswerTimeFormat">%s maal bellen</string>
   <string name="call_record_or">or</string>
-  <string name="call_record_sample_prefix_miui">Gesperksopname</string>
+  <string name="call_record_sample_prefix_miui">Gespreksopname</string>
   <string name="caller_info_name_delimiter">Of</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_alert">Weiger de wijzigingen?</string>
@@ -73,7 +73,7 @@
   <string name="error_bad_file">Corrupt bestand</string>
   <string name="error_connect_service">Kon niet verbinden met overdracht service</string>
   <string name="error_download">Download mislukt</string>
-  <string name="error_forbidden">Je account stuite op problemen. Sync. uitgeschakeld.</string>
+  <string name="error_forbidden">Je account stuitte op problemen. Sync. uitgeschakeld.</string>
   <string name="error_general">Algemene fout opgetreden</string>
   <string name="error_network">Netwerk fout</string>
   <string name="error_not_acceptable">Server werkt slecht. Sync. uitgeschakeld.</string>
@@ -102,7 +102,7 @@
   <string name="find_device_turn_off_flight_mode">Vliegmodus uitschakelen</string>
   <string name="find_device_turn_off_flight_mode_instructions">Je apparaat is geblokkeerd. Schakel vliegmodus uit"</string>
   <string name="finish">Voltooid</string>
-  <string name="firewall_setting">AntiSpam</string>
+  <string name="firewall_setting">Anti-spam</string>
   <string name="first_back_long_press_message">"Wilt u de van de lange druk functie op de terug toets om het huidige processen en de achtergrond diensten in te schakelen? Inschakelen via Instellingen &gt; Toetsen &gt;"</string>
   <string name="first_in_tip">Gebruik overdracht voor de eerste keer</string>
   <string name="fm_record_smaple_prefix_miui">FM opname</string>
@@ -110,7 +110,7 @@
   <string name="force_exit_message">Succesvol afgesloten \"%1$s\"</string>
   <string name="forget_password_string">Wachtwoord vergeten</string>
   <string name="format_time_in_12_hours">hh:mma</string>
-  <string name="global_action_privacy_mode_dialog_message">In bewaak modus, zijn gesprekken, notities, galerij gegevens en SMS berichten verborgen en en zal de launcher niet in staat om bewerken in te schakelen. U kunt instellen voor wachtwoord Bewaak modus Toegangs controle instellingen</string>
+  <string name="global_action_privacy_mode_dialog_message">In bewaak modus, zijn gesprekken, notities, galerij gegevens en SMS berichten verborgen en en zal de launcher niet in staat om bewerken in te schakelen. U kunt instellen voor wachtwoord Bewaak modus Toegangscontrole instellingen</string>
   <string name="global_action_toggle_privacy_mode">Bewaak</string>
   <string name="goback">Vorige</string>
   <string name="good_friday">Goede vrijdag</string>
@@ -125,7 +125,7 @@
   <string name="group_name_coworkers">"Collega's"</string>
   <string name="group_name_family">Familie</string>
   <string name="group_name_friends">Vrienden</string>
-  <string name="guide_label">Overdrachts handleiding</string>
+  <string name="guide_label">Overdracht handleiding</string>
   <string name="heavy_snow">Zware sneeuwval</string>
   <string name="history">Overdracht geschiedenis</string>
   <string name="history_all">Alle geschiedenis</string>
@@ -139,11 +139,11 @@
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Foute PUK code, a%d resterende pogingen</string>
   <string name="input_device_name">Apparaat naam invoeren</string>
-  <string name="input_device_name_tip">Gebruik overdracht om bestanden te versturen, voor Bluetooth interconnectiviteit en het oprichten van een gedeelde hotspot. Andere apparaten zullen uw appraat naam zien.</string>
+  <string name="input_device_name_tip">Gebruik overdracht om bestanden te versturen, voor Bluetooth interconnectiviteit en het oprichten van een gedeelde hotspot. Andere apparaten zullen uw apparaat naam zien.</string>
   <string name="input_pin_code">PIN code invoeren</string>
-  <string name="input_pin_code_to_unlock">PIN code invoeren om het apparaat te ongrendelen</string>
+  <string name="input_pin_code_to_unlock">PIN code invoeren om het apparaat te ontgrendelen</string>
   <string name="input_puk_code">PUK code invoeren</string>
-  <string name="input_puk_code_to_unlock">PUK ccode invoeren om het apparaat te ongrendelen</string>
+  <string name="input_puk_code_to_unlock">PUK code invoeren om het apparaat te ontgrendelen</string>
   <string name="insects_awaken">惊蛰</string>
   <string name="international_womens_day">Dag van de vrouw</string>
   <string name="labour_day">Dag van de Arbeid</string>
@@ -151,12 +151,12 @@
   <string name="light_snow">Lichte sneeuw</string>
   <string name="loading">Laden…</string>
   <string name="lock_screen_date">"yyyy/MM/dd EEEE"</string>
-  <string name="lockscreen_access_pattern_cell_added">GSM toegevooegd</string>
+  <string name="lockscreen_access_pattern_cell_added">GSM toegevoegd</string>
   <string name="lockscreen_access_pattern_cleared">Patroon verwijderd</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
   <string name="lockscreen_access_pattern_start">Patroon gestart</string>
   <string name="lockscreen_emergency_call">Noodoproep</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Je hebt uw wachtwoord %d keer verkeerd  ingevoerd. Na nog %d  %d  %d mislukte pogingen, wordt u gevraagd om uw telefoon te ontgrendelen met uw account login, probeer opnieuw in %d seconden."</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Je hebt uw wachtwoord %d keer verkeerd  ingevoerd. Na nog %d  % d  % d mislukte pogingen, wordt u gevraagd om uw telefoon te ontgrendelen met uw account login, probeer opnieuw in %d seconden."</string>
   <string name="lockscreen_forgot_pattern_button_text">Patroon vergeten?</string>
   <string name="lockscreen_pattern_instructions">Teken patroon om te ontgrendelen </string>
   <string name="lockscreen_pattern_wrong">Probeer opnieuw</string>
@@ -212,7 +212,7 @@
   <string name="month_of_november">Nov</string>
   <string name="month_of_october">Okt</string>
   <string name="month_of_september">Sep</string>
-  <string name="multi_select_title">%1$s geslecteerde item(s)</string>
+  <string name="multi_select_title">%1$s geselecteerde item(s)</string>
   <string name="national_day">Nationale feestdag</string>
   <string name="national_father_day">Vaderdag</string>
   <string name="never">Nooit</string>
@@ -241,12 +241,12 @@
   <string name="perm_payment_dspt">App toestaan te betalen met Xiaomi betalingsdienst</string>
   <string name="perm_payment_lab">Xiaomi betalingsdienst</string>
   <string name="perm_send_push_dspt">Xiaomi toestaan om een push bericht te sturen</string>
-  <string name="perm_send_push_lab">Push bericht verzenedn</string>
+  <string name="perm_send_push_lab">Push bericht verzenden</string>
   <string name="perm_tigger_toggle_dspt">Apps toelaten schakelaar te bedienen in statusbalk</string>
   <string name="perm_tigger_toggle_lab">Start schakelaar uit statusbalk</string>
   <string name="perm_use_find_device">Vind apparaat</string>
   <string name="permdesc_accessNote">Hiermee kan de app te lezen en uw notities  wijzigen. Schadelijke apps kunnen uw notities naar andere mensen sturen of notities verwijderen.</string>
-  <string name="permlab_accessNote">Toegaand tot notities</string>
+  <string name="permlab_accessNote">Toegang tot notities</string>
   <string name="picker_title">Kies apk</string>
   <string name="pin_operation_failed">PIN code mislukt.</string>
   <string name="pincode_set_to_default_msg">PIN code is ingesteld op 1234, uw PIN code hier resetten.</string>
@@ -270,7 +270,7 @@
   <string name="receive_tip"/>
   <string name="receive_uncompleted">Ontvang proces incompleet</string>
   <string name="received">Ontvangen</string>
-  <string name="recv_sound">Ontvangen gluid</string>
+  <string name="recv_sound">Ontvangen geluid</string>
   <string name="resend">Opnieuw zenden</string>
   <string name="retrocession_day">Onafhankelijkheidsdag</string>
   <string name="return_to_me_message">Gelieve terug te keren als het verloren is gegaan</string>
@@ -297,7 +297,7 @@
   <string name="send_cancel_tip">Overdracht incompleet. Weet u zeker dat u de overdacht wilt stoppen en afsluiten??</string>
   <string name="send_cancel_tip2">Verzenden geannuleerd.: %1$d / %2$d bestand(en) verzonden</string>
   <string name="send_files">%1$d bestanden verzenden</string>
-  <string name="send_finish">Betand verzonden!</string>
+  <string name="send_finish">Bestand verzonden!</string>
   <string name="send_finish_tip">%1$d  bestand(en) verzonden naar:</string>
   <string name="send_nfc">Verzenden met NFC</string>
   <string name="send_sms_for_sync_notice">Een activate SMS moeten worden gestuurd, doorgaan?</string>
@@ -309,8 +309,8 @@
   <string name="sent">Verzenden</string>
   <string name="settings_auto_pair_sender_summary">Auto koppelen audio met ontvanger/verzender</string>
   <string name="settings_auto_pair_sender_title">Auto koppelen van audio</string>
-  <string name="settings_connect">Verbindings instellingen</string>
-  <string name="settings_label">Overdracht instellingen</string>
+  <string name="settings_connect">Verbindingsinstellingen</string>
+  <string name="settings_label">Overdrachtsinstellingen</string>
   <string name="settings_photo">Avatar</string>
   <string name="settings_photo_camera">Maak een nieuwe foto</string>
   <string name="settings_photo_pick">Uit Galerij selecteren</string>
@@ -359,7 +359,7 @@
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord vereist.</string>
   <string name="today">Vandaag</string>
   <string name="tomorrow">Morgen</string>
-  <string name="transfer_history">Overdachts geschiedenis</string>
+  <string name="transfer_history">Overdachtsgeschiedenis</string>
   <string name="trasfer_list">Overdracht lijst</string>
   <string name="tw_childrens_day">Dag van het Kind</string>
   <string name="tw_youth_day">Dag van de Jeugd</string>
@@ -373,21 +373,21 @@
   <string name="unlockscreen_recharging_message">Opladen %d%%</string>
   <string name="use_start">Nu starten</string>
   <string name="user_agreement1">Je zal het systeem en online diensten gebruiken aangeboden door Xiaomi</string>
-  <string name="user_agreement2">Gebruikers overeenkomstt</string>
+  <string name="user_agreement2">Gebruikers overeenkomst</string>
   <string name="user_agreement3">" en "</string>
   <string name="user_agreement4">Privacybeleid</string>
-  <string name="user_agreement5">，Klik op OK als u akkoord gaat en bereid zijn te voldoen aan de inhoud hierboven, klikt  op Annuleren om af te sluiten.</string>
+  <string name="user_agreement5">，Klik op OK als u akkoord gaat en bereid zijn te voldoen aan de inhoud hierboven, klikt op Annuleren om af te sluiten.</string>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>
-  <string name="v5_date_time_picker_dialog_title">Instellen herinnerings tijd</string>
+  <string name="v5_date_time_picker_dialog_title">Instellen herinneringstijd</string>
   <string name="v5_deselect_all">Alles deselecteren</string>
-  <string name="v5_edit_mode_title_empty">Contrleer Items</string>
+  <string name="v5_edit_mode_title_empty">Controleer Items</string>
   <string name="v5_icon_menu_bar_more_item_label">Meer</string>
   <string name="v5_select_all">Alles selecteren</string>
   <string name="v5_time_picker_label_hour">H</string>
   <string name="v5_time_picker_label_minute">M</string>
-  <string name="valentines_day">Valentijntje</string>
+  <string name="valentines_day">Valentijnsdag</string>
   <string name="vernal_equinox">春分</string>
   <string name="voice_assist_match">Snel automatisch vergelijken</string>
   <string name="voice_match">Snel vergelijken…</string>

@@ -18,7 +18,7 @@
   <string name="AD_TITLE_NON_COUNT">Geen adware gedetecteerd</string>
   <string name="AD_Unistall">Installatie ongedaan maken</string>
   <string name="Call_ADRESS">Lokale blokkeerlijst</string>
-  <string name="Call_BLACKLIST">Gespreks blokkeerlijst</string>
+  <string name="Call_BLACKLIST">Gespreksblokkeer lijst</string>
   <string name="Call_DEFAULT">Slimme blokkeerlijst</string>
   <string name="Call_PREFIX">Voorvoegsel blokkeerlijst</string>
   <string name="Call_PRIVATE_CALL">Privé gesprekken</string>
@@ -41,12 +41,12 @@
   <string name="ad_relative_setting">Gerelateerde instellingen</string>
   <string name="ad_single_block_hint">Geblokkeerd</string>
   <string name="ad_update_setting">Update</string>
-  <string name="ad_update_time">Laaste update: %s</string>
-  <string name="ad_update_time_unKnown">Laaste update: onbekend</string>
+  <string name="ad_update_time">Laatste update: %s</string>
+  <string name="ad_update_time_unKnown">Laatste update: onbekend</string>
   <string name="ad_update_title">Automatisch updaten</string>
   <string name="address_choose_hint">%1$s、%2$s en %3$d locaties </string>
   <string name="addwhitelist">Voeg toe aan uitzonderingen</string>
-  <string name="all_address_choose_hint">Alle lokaties</string>
+  <string name="all_address_choose_hint">Alle locaties</string>
   <string name="app_name">Blokkeerlijst</string>
   <string name="backsound_set_hint">Stel je verzend geluid in naar %s?</string>
   <string name="baidu_thanks">Gerealiseerd door Baidu</string>
@@ -69,7 +69,7 @@
   <string name="dlg_add_blacklist">Dit nummer blokkeren?</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s en %2$s andere contacten staan al op de lijst van uitzonderingen.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Voorzichtig</string>
-  <string name="dlg_add_keyword">Zoekwoorden toevoegen</string>
+  <string name="dlg_add_keyword">Trefwoorden toevoegen</string>
   <string name="dlg_add_manual_hint">Voer het telefoonnummer in</string>
   <string name="dlg_add_manual_ok">Toevoegen</string>
   <string name="dlg_antispam_mode_delete_message">U kunt geen aangepaste regels herstellen voor blokkeerlijst nadat ze zijn verwijderd.</string>
@@ -101,7 +101,7 @@
   <string name="dlg_remove_blacklist">Dit nummer deblokkeren?</string>
   <string name="dlg_remove_blacklist_ing">Verwijderen van blokkeerlijst…</string>
   <string name="dlg_remove_blacklist_ok">Verwijderen</string>
-  <string name="dlg_remove_whitelist">Deze nummers vewijderen uit uitzonderingen?</string>
+  <string name="dlg_remove_whitelist">Deze nummers verwijderen uit uitzonderingen?</string>
   <string name="dlg_remove_whitelist_ing">Verwijderen uit uitzonderingen…</string>
   <string name="dlg_retore">Herstellen berichten naar Postvak In?</string>
   <string name="dlg_retore_ok">Herstellen</string>
@@ -155,7 +155,7 @@
   <string name="menu_edit">Bewerk</string>
   <string name="menu_mark">Rapport nummer</string>
   <string name="menu_no_block">Deblokkeren</string>
-  <string name="menu_remove">Vewijderen</string>
+  <string name="menu_remove">Verwijderen</string>
   <string name="menu_report_block">Spam</string>
   <string name="menu_restore">Herstellen naar Postvak IN</string>
   <string name="menu_sms">Verstuur bericht</string>
@@ -178,7 +178,6 @@
   <string name="report_warning_title">Rapporteer SMS</string>
   <string name="sim_not_ready">SIM kaart niet klaar</string>
   <string name="sms_delete_hint">Verwijder alle geblokkeerde berichten verstuurd vanaf dit nummer?</string>
-  <string name="sms_smart_engine_update">Automatisch SMS filter updaten</string>
   <string name="special_number_group">Blokkeer gerapporteerde nummers</string>
   <string name="st_advanced_setting_group">Geavanceerd</string>
   <string name="st_antispam_black_adress_add">Locatie toevoegen</string>
@@ -233,7 +232,7 @@
   <string name="st_message_phone_AntiSpam">Gesprekken blokkeren</string>
   <string name="st_message_phonepass">Gesprekken toestaan</string>
   <string name="st_mute_all">Demp gesprekken en berichten</string>
-  <string name="st_mute_block">Demp gesprekken en geblokkerde berichten </string>
+  <string name="st_mute_block">Demp gesprekken en geblokkeerde berichten </string>
   <string name="st_mute_title">Niet bellen of trillen</string>
   <string name="st_other_setting_group">Overige instellingen</string>
   <string name="st_settings_name">Blokkeerlijst instellingen</string>
