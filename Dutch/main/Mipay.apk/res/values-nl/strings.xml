@@ -1,9 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="mipay_add_bank_card">Gebruik nieuwe bank kaart</string>
+  <string name="mipay_add_bank_debit_bankcard">Add debit card</string>
+  <string name="mipay_add_debit_bankcard">Add debit card</string>
   <string name="mipay_agreement">Instemmen met %1$s</string>
   <string name="mipay_alipay">Alipay</string>
   <string name="mipay_alipay_error">Alipay mislukt</string>
+  <string name="mipay_balance">Balance</string>
+  <string name="mipay_balance_amount_unit">Amount(RMB)</string>
+  <string name="mipay_balance_history">Receipts and Disbursements</string>
+  <string name="mipay_balance_history_empty">No receipts</string>
+  <string name="mipay_balance_history_item_balance_at_time">Balance: %1$s</string>
+  <string name="mipay_balance_more_function">More features</string>
+  <string name="mipay_balance_not_enough">Insufficient funds</string>
+  <string name="mipay_balance_title">Balance</string>
+  <string name="mipay_balance_unit">RMB</string>
+  <string name="mipay_balance_withdraw_bank_card_info">Card from %1$s ending in %2$s</string>
+  <string name="mipay_balance_withdraw_max_amount">Max withdraw%1$sRMB</string>
   <string name="mipay_bank_card_already_open">Ik ben klaar</string>
   <string name="mipay_bank_card_cvv2">CVV2</string>
   <string name="mipay_bank_card_cvv2_hint">CVV2</string>
@@ -54,10 +67,13 @@
   <string name="mipay_cancel_forget_password">Vinden van uw betalingswachtwoord stoppen?</string>
   <string name="mipay_cancel_modify_password">Wijzigen van uw betalingswachtwoord stoppen?</string>
   <string name="mipay_cancel_pay">Stoppen aankoop?</string>
+  <string name="mipay_cancel_recharge">Give up topping-up?</string>
   <string name="mipay_cancel_unbind_bank_card">Bankkaart ontkoppelen stoppen?</string>
+  <string name="mipay_cancel_withdraw">Give up withdrawing?</string>
   <string name="mipay_check_login_password_summary">Vul uw Xiaomi wachtwoord in</string>
   <string name="mipay_check_order_title">Teller</string>
   <string name="mipay_check_password_summary">Voer eerst uw PIN code in</string>
+  <string name="mipay_check_password_unbind_summary">Enter your PIN for unbinding bank card, you can rebind it later</string>
   <string name="mipay_check_personal_info_error">Gelieve uw persoonlijke gegevens te controleren</string>
   <string name="mipay_check_personal_info_id_card">ID Kaart nr.</string>
   <string name="mipay_check_personal_info_id_card_hint">Jouw ID Kaart nr.</string>
@@ -73,7 +89,6 @@
   <string name="mipay_choose_method_latest">Laatst gebruikt:</string>
   <string name="mipay_common_license">Gebruikersovereenkomst</string>
   <string name="mipay_counter_app_name">Bankkaarten</string>
-  <string name="mipay_create_order_progress">Maakt bestelling…</string>
   <string name="mipay_date_picker_label_month">Maand</string>
   <string name="mipay_date_picker_label_year">Jaar</string>
   <string name="mipay_denom_unit">RMB</string>
@@ -90,9 +105,13 @@
   <string name="mipay_i_know">Ik weet het</string>
   <string name="mipay_loading">Laden…</string>
   <string name="mipay_login_password_error">Controleer uw Xiaomi wachtwoord</string>
+  <string name="mipay_my_balance">Balance</string>
   <string name="mipay_nfc_balance_limit_title">E-Cash Saldo Limiet</string>
   <string name="mipay_nfc_bank_card_details_title">Bank kaart</string>
   <string name="mipay_nfc_bank_card_name_default">Een Bank</string>
+  <string name="mipay_nfc_bind_card">Bind card</string>
+  <string name="mipay_nfc_bind_card_dialog_title">Binding card …</string>
+  <string name="mipay_nfc_cancel_bind_card">Cancel binding card</string>
   <string name="mipay_nfc_card_balance_title">Saldo</string>
   <string name="mipay_nfc_card_title">NFC Kaart lezen</string>
   <string name="mipay_nfc_card_valid_date">"Geldig tot "</string>
@@ -135,6 +154,7 @@
   <string name="mipay_pass_err_reinput">Wachtwoord opnieuw invoeren</string>
   <string name="mipay_password_error">Controlleer het betaling wachtwoord</string>
   <string name="mipay_pay_check_cvv2_title">Vul CVV2 in</string>
+  <string name="mipay_pay_check_order_title">Please check payment information</string>
   <string name="mipay_pay_check_password_title">Vul uw betalings wachtwoord in</string>
   <string name="mipay_pay_check_sms_captcha_title">Vul verificatiecode in</string>
   <string name="mipay_pay_cvv2_edit_hint">Invoeren CVV2</string>
@@ -147,7 +167,6 @@
   <string name="mipay_pay_record_money_flow_price">%1$s%2$s</string>
   <string name="mipay_pay_record_title">Betalings gegevens</string>
   <string name="mipay_pay_sms_captcha_summary">Verificatiecode is verstuurd naar %1$s</string>
-  <string name="mipay_pay_sms_code_error">Controleer je verificatie code</string>
   <string name="mipay_pay_type_hint">Kies betalings methode</string>
   <string name="mipay_process_bind_bank_card">Bind bankkaart</string>
   <string name="mipay_process_expired">Uw bewerking is verlopen, gelieve opnieuw te starten</string>
@@ -161,6 +180,16 @@
   <string name="mipay_query_timeout">Betalings time-out</string>
   <string name="mipay_query_timeout_contact">Neem dan contact op met onze klantendienst</string>
   <string name="mipay_query_wait">Betalen</string>
+  <string name="mipay_recharge">Top-up</string>
+  <string name="mipay_recharge_notice">Please input top-up amount</string>
+  <string name="mipay_recharge_process">Creating order</string>
+  <string name="mipay_recharge_query_failed">"Couldn't top-up"</string>
+  <string name="mipay_recharge_query_success">Top-up complete</string>
+  <string name="mipay_recharge_query_success_summary">￥%1$ssuccessfully Topped-up</string>
+  <string name="mipay_recharge_query_timeout">Top-up timeout</string>
+  <string name="mipay_recharge_query_wait">Topping-up</string>
+  <string name="mipay_recharge_result_title">Top-up</string>
+  <string name="mipay_recharge_title">"Top-up: "</string>
   <string name="mipay_result_title">Betaling</string>
   <string name="mipay_set_password_first_summary">Stel  betalings wachtwoord in om je account te beschermen</string>
   <string name="mipay_set_password_hint">Vul zes cijfers in</string>
@@ -169,6 +198,7 @@
   <string name="mipay_setting_modify_password">Pas uw betalings wachtwoord aan</string>
   <string name="mipay_setting_title">Beveiligingsinstellingen</string>
   <string name="mipay_setting_title_password">Betalings wachtwoord</string>
+  <string name="mipay_sms_captcha_code_error">Please check your verification code</string>
   <string name="mipay_sms_captcha_error">Controleer uw verificatiecode</string>
   <string name="mipay_trade_type_consume">Aankopen</string>
   <string name="mipay_trade_type_deposit">Storten</string>
@@ -180,4 +210,14 @@
   <string name="mipay_update_title">Mipay heeft een update!</string>
   <string name="mipay_use_new_card">Gebruik nieuwe bank kaart</string>
   <string name="mipay_wallet_app_name">Bankkaarten</string>
+  <string name="mipay_withdraw">Withdraw</string>
+  <string name="mipay_withdraw_add_bankcard_prompt">"You haven't added any debit cards,Please add one."</string>
+  <string name="mipay_withdraw_failed">"Couldn't withdraw"</string>
+  <string name="mipay_withdraw_notice">Enter withdraw amount</string>
+  <string name="mipay_withdraw_result_title">Withdraw</string>
+  <string name="mipay_withdraw_success">Withdrew complete</string>
+  <string name="mipay_withdraw_success_summary">Withdraw request has been submitted</string>
+  <string name="mipay_withdraw_title">Withdraw:</string>
+  <string name="mipay_withdraw_wait">Withdrawing</string>
+  <string name="sms_captcha_pattern">.*支付验证码([0-9]{6})。请勿向任何人提供短信验证码！.*</string>
 </resources>

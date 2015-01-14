@@ -84,14 +84,6 @@
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">U heeft ervoor gekozen deze app toe te staan widgets te maken en toegang tot de widgetgegevens te geven.</string>
-  <string name="android_beam_disabled_summary">NFC delen van inhoud vereist dat de NFC ingeschakeld is</string>
-  <string name="android_beam_explained">U kunt een webpagina, een video of andere inhoud van uw scherm beamen naar een ander apparaat, door hetaanraken van de apparaten (meestal rug aan rug).</string>
-  <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">NFC delen van inhoud is uitgeschakeld</string>
-  <string name="android_beam_on_summary">NFC delen van inhoud is ingeschakeld</string>
-  <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Zorg ervoor dat de twee apparaten elkaar raken, en dan de inhoud aanraken die u wilt beamen.</string>
-  <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="anti_spam">Blokkeerlijst</string>
   <string name="apn_apn">APN</string>
@@ -102,6 +94,8 @@
   <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
   <string name="apn_chinaunicom_3gnet_general">3G internetverbinding</string>
   <string name="apn_chinaunicom_3gwap_general">3G mobiel internet</string>
+  <string name="apn_cm_net">CMNET</string>
+  <string name="apn_cm_wap">CMWAP</string>
   <string name="apn_edit">Toegangspunt bewerken</string>
   <string name="apn_general">Algemeen</string>
   <string name="apn_http_port">Poort</string>
@@ -1136,7 +1130,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="link_speed_label">Link snelheid:</string>
   <string name="local_auto_backup_off">Uit</string>
   <string name="local_auto_backup_on">Aan</string>
-  <string name="local_auto_backup_section_title">Auto backups</string> 
+  <string name="local_auto_backup_section_title">Auto backups</string>
   <string name="local_backup_password_summary_change">Raak dit aan om het wachtwoord voor volledige backups naar desktops te wijzigen of te verwijderen</string>
   <string name="local_backup_password_summary_none">Volledige backups naar desktops zijn momenteel niet beveiligd</string>
   <string name="local_backup_password_title">Wachtwoord desktop backup</string>
@@ -1470,7 +1464,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="music_headset_settings">Hoofdtelefoon en audio effecten</string>
   <string name="music_hifi_summary">Verminder ruis en vervorming en verhoging van audiokwaliteit.</string>
   <string name="music_hifi_title">HiFi audio</string>
-  <string name="music_hifi_volumn">HiFi volume</string>
+  <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Gebruik altijd de Mi geluidsversterker bij gebruik van luidsprekers</string>
   <string name="music_mi_effect_title">Gebruik de Mi geluidsversterker</string>
   <string name="musicfx_title">Muziekeffecten</string>
@@ -1867,6 +1861,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_color_temperature_and_saturation">Kleur temperatuur &amp; verzadiging</string>
   <string name="screen_compatibility_label">Schermcompatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
+  <string name="screen_effect">Contrast &amp; colors</string>
   <string name="screen_key_long_press">Toetsen ingedrukt houden</string>
   <string name="screen_key_long_press_action">Actie starten</string>
   <string name="screen_key_long_press_timeout">Tijd instellen om ingedrukt te houden</string>
@@ -1877,7 +1872,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzak gesprekken</string>
   <string name="screen_optimize">Contrast</string>
   <string name="screen_paper_mode_apps_title">Gebruik Lees modus voor deze apps</string>
-   <string name="screen_paper_mode_off_apps_title">Lees modus niet gebruiken voor de volgende apps</string>
+  <string name="screen_paper_mode_off_apps_title">Lees modus niet gebruiken voor de volgende apps</string>
   <string name="screen_paper_mode_summary">Verminder scherm achtergrond glans</string>
   <string name="screen_paper_mode_title">Lees Modus</string>
   <string name="screen_paper_mode_turn_off">Off</string>
@@ -2169,6 +2164,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="strict_mode_summary">Knipperend scherm bij lange bewerkingen door apps</string>
   <string name="sum_carrier_select">Een mobiele provider kiezen</string>
   <string name="summary_font_size">%1$s</string>
+  <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Toestand aanvrager:</string>
   <string name="symbols_not_allowed_for_password">Wachtwoord kan geen symbolen bevatten</string>
   <string name="sync_active">Synchronisatie actief</string>
@@ -2220,8 +2216,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="title_font_current">Kies systeem lettertype</string>
   <string name="title_font_size">Lettergrootte</string>
   <string name="title_hdmi_color_calibration">Kleur correctie voorkeuze</string>
-  <string name="title_local_resource">Lokale bronnen</string>
   <string name="title_layout_current">Kies systeem lettertype</string>
+  <string name="title_local_resource">Lokale bronnen</string>
   <string name="title_system_resource">Systeem bronnen</string>
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
   <string name="toast_need_login">Log in met uw Mi account</string>
@@ -2456,7 +2452,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="vibrate_when_ringing_title">Trillen bij bellen</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Scan voortzetten</string>
-  <string name="virus_scan_app_find_risk">"% d risico's gevonden"</string>
+  <string name="virus_scan_app_find_risk">"%d risico's gevonden"</string>
   <string name="virus_scan_app_finish">Scan gereed</string>
   <string name="virus_scan_app_force_stop">Scan gepauzeerd</string>
   <string name="virus_scan_app_is_stop_scan">Scan stoppen?</string>
@@ -2468,7 +2464,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="virus_scan_app_scan_finish">Scan gereed</string>
   <string name="virus_scan_app_scanning">Scannen…</string>
   <string name="virus_scan_app_stop_scan">Stop scan</string>
-  <string name="virus_scan_app_uninstall">Verwijder (% d)</string>
+  <string name="virus_scan_app_uninstall">Verwijder (%d)</string>
   <string name="virus_scan_app_waiting">Wachten…</string>
   <string name="virus_scanner_auto_update">Automatisch updaten</string>
   <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
@@ -2710,7 +2706,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="wifi_scan_always_available_summary">De locatieservice en andere apps van Google laten scannen naar netwerken, ook wanneer WiFi is uitgeschakeld</string>
   <string name="wifi_scan_always_confirm_allow">Toestaan</string>
   <string name="wifi_scan_always_confirm_deny">Afwijzen</string>
-    <string name="wifi_scan_always_turnon_message">"Om de locatienauwkeurigheid te verbeteren en voor andere doeleinden, wil %1$s de netwerkscan inschakelen, zelfs als WiFi is uitgeschakeld. Dit toestaan voor alle apps die willen scannen?"</string>
+  <string name="wifi_scan_always_turnon_message">"Om de locatienauwkeurigheid te verbeteren en voor andere doeleinden, wil %1$s de netwerkscan inschakelen, zelfs als WiFi is uitgeschakeld. Dit toestaan voor alle apps die willen scannen?"</string>
   <string name="wifi_scan_notify_remember_choice">Niet opnieuw weergeven</string>
   <string name="wifi_scan_notify_text_location_off">"Apps kunnen scannen naar netwerken in de buurt, ook wanneer WiFi is uitgeschakeld. Als u niet wilt dat dit gebeurt, gaat u naar 'Geavanceerd' &gt; 'Scannen altijd beschikbaar'."</string>
   <string name="wifi_scan_notify_text_location_on">"Als u de nauwkeurigheid van locaties en voor andere doeleinden wilt verbeteren, kunnen Google en andere apps scannen naar netwerken in de buurt, ook wanneer WiFi is uitgeschakeld. Als u niet wilt dat dit gebeurt, gaat u naar 'Geavanceerd' &gt; 'Scannen altijd beschikbaar'."</string>

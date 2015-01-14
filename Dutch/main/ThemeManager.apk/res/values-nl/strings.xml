@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_id_not_login">Touch to sign in</string>
   <string name="account_info">Mi Account</string>
+  <string name="account_name_not_login">Sign in</string>
   <string name="account_unactivated">Account niet geactiveerd</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
@@ -13,6 +15,7 @@
   <string name="backup_preference_title">Backup huidig thema</string>
   <string name="backup_theme_dialog_message">Huidige thema back-uppen?</string>
   <string name="backup_theme_dialog_ok">Backup</string>
+  <string name="backup_theme_fail_trial_rights_message">"Can't backup trial themes"</string>
   <string name="backup_theme_name">Mijn backup</string>
   <string name="backup_theme_progress_message">Bezig met backup…</string>
   <string name="backup_theme_success_message">Thema met succes gebackupt.</string>
@@ -151,6 +154,7 @@
   <string name="resource_detail_recommend_desiner_themes">"%1$s thema\'s"</string>
   <string name="resource_detail_recommend_other_themes">Gebruikers vonden dit ook leuk</string>
   <string name="resource_detail_update_log_title">Updates</string>
+  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Downloaden</string>
   <string name="resource_download_trial">Gratis trial</string>
@@ -179,8 +183,10 @@
   <string name="resource_get_auth_checking">Controleren…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 apparaten zijn reeds toegestaan op dit account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorisatie limiet bereikt</string>
-  <string name="resource_get_auth_missing">Thema is niet gedownload van de officiële thema markt, download via de officiële markt</string>
+  <string name="resource_get_auth_has_been_undercarriaged">This theme is no longer available.</string>
+  <string name="resource_get_auth_not_official">Themes from third-party sources are not supported</string>
   <string name="resource_get_auth_retrieving">Info verkrijgen…</string>
+  <string name="resource_has_been_downloaded">"You've already downloaded this theme."</string>
   <string name="resource_hint">Waarschuwing</string>
   <string name="resource_import_failed">Kan niet importeren</string>
   <string name="resource_import_successful">Voltooid</string>
@@ -218,6 +224,7 @@
   <string name="resource_search_list_empty">Kan niets vinden</string>
   <string name="resource_see_more">Meer weergegeven</string>
   <string name="resource_select">Selecteren</string>
+  <string name="resource_select_ringtone_confirm">Select this sound?</string>
   <string name="resource_selected">Uitgelicht</string>
   <string name="resource_send">Verzenden</string>
   <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
@@ -233,6 +240,7 @@
   <string name="resource_title_local">Lokaal</string>
   <string name="resource_title_rank">Hitlijsten</string>
   <string name="resource_title_select_ringtone">Beltoon selecteren</string>
+  <string name="resource_title_subject">Featured</string>
   <string name="resource_trial_end_message">Trial of %1$sverlopen.</string>
   <string name="resource_trial_end_purchase">Kopen</string>
   <string name="resource_trial_end_restore">Beëindig trial</string>
@@ -242,7 +250,6 @@
   <string name="resource_trial_fail_message">Maak dat je systeem klok juist staat.</string>
   <string name="resource_trial_fail_title">Kan de trial sessie kon niet instellen</string>
   <string name="resource_trial_time">（trial sessie: %1$d minuten）</string>
-  <string name="resource_unable_to_access">"Momenteel beschikbaar in uw regio/land."</string>
   <string name="resource_unknow_error">Onbekende fout</string>
   <string name="resource_update">Bijwerken</string>
   <string name="resource_user_know">OK</string>
@@ -287,9 +294,18 @@
   <string name="theme_current_using_has_update">Er is een update voor het thema dat u momenteel gebruikt</string>
   <string name="theme_description_title_customized">Aangepast</string>
   <string name="theme_description_title_default">Standaard</string>
+  <string name="theme_empty_redirect">Back to Theme Store</string>
+  <string name="theme_favorite_add_fail">"Can't star theme"</string>
+  <string name="theme_favorite_add_success">Theme starred</string>
+  <string name="theme_favorite_delete">Unstar</string>
+  <string name="theme_favorite_delete_fail">"Can't unstar theme"</string>
+  <string name="theme_favorite_delete_success">Theme unstarred</string>
+  <string name="theme_favorite_list_empty">"You haven't starred any themes."</string>
+  <string name="theme_favorite_waiting">Just a sec…</string>
   <string name="theme_fresh_man_notifaction">"Nieuwe thema's beschikbaar"</string>
   <string name="theme_immediately_apply_tip">Het thema is bijgewerkt, meteen toepassen?</string>
   <string name="theme_import_from_sdcard">Importeren van SD kaart</string>
+  <string name="theme_multiple_button_title_customize">Customize</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Nee</string>
   <string name="theme_purchased_list_empty">Je hebt geen enkel thema aangekocht</string>
