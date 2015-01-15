@@ -3,7 +3,7 @@
   <string name="UMAppUpdate">app update</string>
   <string name="UMBreak_Network">Geen Netwerken</string>
   <string name="UMDialog_InstallAPK">De nieuwste versie downloaden en installeren?</string>
-  <string name="UMGprsCondition">（Tip: Niet WIFI omgeving）</string>
+  <string name="UMGprsCondition">（Tip: Niet Wi-Fi omgeving）</string>
   <string name="UMIgnore">Negeer de versie</string>
   <string name="UMNewVersion">de nieuwste versie:</string>
   <string name="UMNotNow">Op later tijdstip</string>
@@ -49,7 +49,7 @@
   <string name="debug_force_update_direct_hosts">Forceer update directe hosts</string>
   <string name="debug_force_update_traffic_packages">Forceer update verkeerspakketten</string>
   <string name="debug_forever_blocked_apps_label">Altijd geblokkeerde apps:</string>
-  <string name="debug_include_wifi_traffic">Inbegrepen WiFi verkeer</string>
+  <string name="debug_include_wifi_traffic">Inbegrepen Wi-Fi verkeer</string>
   <string name="debug_log_file_flush">Flush BoostLog</string>
   <string name="debug_log_level_caption">Log niveau</string>
   <string name="debug_loguploader_add_log">LogUploader: tes log toevoegen</string>
@@ -99,7 +99,7 @@
   <string name="oupeng_apn_net_name">%1$snetwerk（%2$sNET）</string>
   <string name="oupeng_apn_saving_foreshow_for_cellular">Wanneer de telefoon wordt ingeschakeld op 2/3/4G netwerk，te besparen dienst zal automatisch openen，voor Provinciale verkeer.</string>
   <string name="oupeng_apn_saving_prompt_confirm">Ik weet het</string>
-  <string name="oupeng_apn_saving_prompt_for_wifi">Momenteel WiFi-netwerken,geen verbruik. pauzeer 2/3/4G service</string>
+  <string name="oupeng_apn_saving_prompt_for_wifi">Momenteel Wi-Fi-netwerken,geen verbruik. pauzeer 2/3/4G service</string>
   <string name="oupeng_apn_saving_prompt_title">Tips</string>
   <string name="oupeng_apn_unknown">Onbekende netwerken</string>
   <string name="oupeng_apn_wap_name">%1$s WAP netwerk（%2$sWAP）</string>
@@ -186,7 +186,7 @@
   <string name="oupeng_master_notification_title_savings_on">流量宝正在为你节省流量</string>
   <string name="oupeng_master_notification_title_savings_paused_no_network">无网络连接，暂停节省</string>
   <string name="oupeng_master_notification_title_savings_paused_service_not_available">网络异常，暂停节省</string>
-  <string name="oupeng_master_notification_title_savings_paused_wifi">WiFi下暂停节省，2/3/4G时自动恢复</string>
+  <string name="oupeng_master_notification_title_savings_paused_wifi">Wi-Fi下暂停节省，2/3/4G时自动恢复</string>
   <string name="oupeng_master_notification_title_tether_enabled">热点开启，节省和联网管理暂停</string>
   <string name="oupeng_menu_app_scan">应用扫描</string>
   <string name="oupeng_menu_capture">流量截屏</string>
@@ -304,7 +304,7 @@
   <string name="oupeng_tab_title_daily">今天</string>
   <string name="oupeng_tab_title_monthly">本月</string>
   <string name="oupeng_text_2g_3g">2/3/4G</string>
-  <string name="oupeng_text_wifi">WiFi</string>
+  <string name="oupeng_text_wifi">Wi-Fi</string>
   <string name="oupeng_this_day_marker">今天</string>
   <string name="oupeng_this_month_marker">本月</string>
   <string name="oupeng_timeline_empty_data">0MB / 0MB</string>
@@ -349,7 +349,7 @@
   <string name="oupeng_upgrade_dialog_title">升级提示</string>
   <string name="oupeng_upgrade_fail">升级失败，网络连接异常</string>
   <string name="oupeng_upgrade_no_update">当前已是最新版本</string>
-  <string name="oupeng_upgrade_none_wifi">请切换至WiFi网络再试</string>
+  <string name="oupeng_upgrade_none_wifi">请切换至Wi-Fi网络再试</string>
   <string name="oupeng_upgrade_progress">正在检查升级，请稍等...</string>
   <string name="oupeng_upgrade_timeout">请检查你的网络稍候再试</string>
   <string name="oupeng_upgrade_title">检查新版本</string>
@@ -407,7 +407,7 @@
   <string name="v2_about_read_more">更多详情，请访问流量宝的Google+ 页面</string>
   <string name="v2_about_version">版本 %1$s</string>
   <string name="v2_adjusted_usage_name">校对流量</string>
-  <string name="v2_app_control_description">选中的应用将被禁止使用2/3/4G网络，WiFi网络下不会受影响。</string>
+  <string name="v2_app_control_description">选中的应用将被禁止使用2/3/4G网络，Wi-Fi网络下不会受影响。</string>
   <string name="v2_app_control_list_collapse_apps">隐藏更多应用</string>
   <string name="v2_app_control_list_empty_blocked_apps">没有使用流量的应用</string>
   <string name="v2_app_control_list_expand_apps">显示更多应用</string>
@@ -553,9 +553,9 @@ My Opera Max version is %4$s"</string>
   <string name="v2_timeline_item_large_gap_details">%1$s没有流量产生</string>
   <string name="v2_timeline_item_no_connection">无网络连接</string>
   <string name="v2_timeline_item_no_connection_paused">无网络连接，节省功能暂停</string>
-  <string name="v2_timeline_item_wifi_active">当前正使用WiFi网络</string>
-  <string name="v2_timeline_item_wifi_active_paused">正在使用WiFi，节省功能暂停</string>
-  <string name="v2_timeline_item_wifi_usage">在WiFi下使用了%1$s</string>
+  <string name="v2_timeline_item_wifi_active">当前正使用Wi-Fi网络</string>
+  <string name="v2_timeline_item_wifi_active_paused">正在使用Wi-Fi，节省功能暂停</string>
+  <string name="v2_timeline_item_wifi_usage">在Wi-Fi下使用了%1$s</string>
   <string name="v2_timeline_no_data_used">没有流量产生</string>
   <string name="v2_timeline_opera_max_installed_prompt">感谢使用流量宝！</string>
   <string name="v2_timeline_opera_max_installed_title">安装流量宝</string>
@@ -582,6 +582,6 @@ My Opera Max version is %4$s"</string>
   <string name="v2_vpn_not_supported_line2">使用流量宝，你可以继续记录和管理你的2/3/4G下网络的流量使用。</string>
   <string name="v2_wifi_is_off">使用2/3/4G网络</string>
   <string name="v2_wifi_is_off_prompt">你的设备接入了2/3/4G网络</string>
-  <string name="v2_wifi_is_on">使用WiFi网络</string>
-  <string name="v2_wifi_is_on_prompt">你的设备接入了WiFi网络</string>
+  <string name="v2_wifi_is_on">使用Wi-Fi网络</string>
+  <string name="v2_wifi_is_on_prompt">你的设备接入了Wi-Fi网络</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Downloadbeheer</string>
-  <string name="auto_restart_under_wifi">WiFi zal dit bestand automatisch downloaden</string>
+  <string name="auto_restart_under_wifi">Wi-Fi zal dit bestand automatisch downloaden</string>
   <string name="button_cancel_download">Annuleren</string>
   <string name="button_queue_for_wifi">Wachtrij</string>
   <string name="button_start_now">Nu starten</string>
@@ -17,7 +17,7 @@
   <string name="download_unknown_title">&lt;Zonder titel&gt;</string>
   <string name="notification_download_complete">Downloaden is voltooid.</string>
   <string name="notification_download_failed">Downloaden is mislukt.</string>
-  <string name="notification_need_wifi_for_size">WiFi nodig voor download</string>
+  <string name="notification_need_wifi_for_size">Wi-Fi nodig voor download</string>
   <string name="notification_paused_in_background">Onderbr. op achtergrond.</string>
   <string name="permdesc_accessAllDownloads">Hiermee kan de app alle downloads weergeven en wijzigen die door een systeemapp zijn gestart.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Hiermee kan de app bestanden downloaden naar de downloadcache die niet automatische kunnen worden verwijderd wanneer downloadbeheer meer ruimte nodig heeft.</string>
@@ -25,7 +25,7 @@
   <string name="permdesc_downloadManager">Hiermee heeft de app toegang tot downloadbeheer en kan de app via downloadbeheer bestanden downloaden. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
   <string name="permdesc_downloadManagerAdvanced">Hiermee heeft de app toegang tot de geavanceerde functies van downloadbeheer. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
   <string name="permdesc_downloadWithoutNotification">Hiermee kan de app bestanden downloaden via downloadbeheer zonder dat de gebruiker een melding krijgt.</string>
-  <string name="permdesc_seeAllExternal">Hiermee kan de app alle downloads op de SD kaart zien, ongeacht welke app ze heeft gedownload.</string>
+  <string name="permdesc_seeAllExternal">Hiermee kan de app alle downloads op de SD-kaart zien, ongeacht welke app ze heeft gedownload.</string>
   <string name="permlab_accessAllDownloads">Toegang geven tot alle systeemdownloads</string>
   <string name="permlab_downloadCacheNonPurgeable">Ruimte in de downloadcache reserveren</string>
   <string name="permlab_downloadCompletedIntent">Downloadmeldingen verzenden.</string>
@@ -43,10 +43,10 @@
   <string name="task_already_exist">Taak bestaat al</string>
   <string name="wifi_recommended_body" formatted="false">"Als u deze download van %s nu start, kan dit de levensduur van de batterij verkorten en/of leiden tot bovenmatig gebruik van uw mobiele gegevensverbinding. Uw provider kan hiervoor kosten aanrekenen.
 
- Raak '%s' aan om deze download te starten wanneer u verbinding heeft met een WiFi netwerk."</string>
+ Raak '%s' aan om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_recommended_title">In wachtrij plaatsen voor later downloaden?</string>
-  <string name="wifi_required_body" formatted="false">"U moet WiFi gebruiken om deze download van %s te voltooien. 
+  <string name="wifi_required_body" formatted="false">"U moet Wi-Fi gebruiken om deze download van %s te voltooien.
 
-Raak %s aan om deze download te starten wanneer u verbinding heeft met een WiFi netwerk."</string>
+Raak %s aan om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_required_title">Download te groot voor providernetwerk</string>
 </resources>
