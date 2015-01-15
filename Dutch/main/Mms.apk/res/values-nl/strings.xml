@@ -70,7 +70,7 @@
   <string name="confirm_delete_message">Dit bericht verwijderen?</string>
   <string name="confirm_dialog_locked_title">Vergrendeld bericht verwijderen?</string>
   <string name="confirm_dialog_title">Verwijderen?</string>
-  <string name="confirm_dlg__msg">CMCC mededeling: CMCC gratis post dienst zal niet worden verstrekt als u de service annuleerd. Wil dit annuleren?</string>
+  <string name="confirm_dlg__msg">CMCC mededeling: CMCC gratis post dienst zal niet worden verstrekt als u de service annuleert. Wil dit annuleren?</string>
   <string name="confirm_dlg_title">Apparaten beheer</string>
   <string name="confirm_export_dialog_description">Alle gesprekken met dit nummer worden niet langer verborgen.</string>
   <string name="confirm_export_dialog_title">Verwijderen uit privé contacten</string>
@@ -80,7 +80,7 @@
   <string name="confirm_restore_all_title">Alle berichten herstellen van dit nummer?</string>
   <string name="confirm_restore_positive">Herstellen</string>
   <string name="confirm_restore_title">Geselecteerde berichten herstellen?</string>
-  <string name="confirm_send_mms">Een van uw ontvangers heeft een emailadres. Dit bericht wordt verzonden als een MMS, uw provider kan hiervoor extra kosten aanrekenen.</string>
+  <string name="confirm_send_mms">Een van uw ontvangers heeft een e-mailadres. Dit bericht wordt verzonden als een MMS, uw provider kan hiervoor extra kosten aanrekenen.</string>
   <string name="context_menu_add_calendar">Toon in kalender</string>
   <string name="context_menu_add_contact">Toevoegen aan contacten</string>
   <string name="context_menu_add_to_browser_favorite">Toevoegen aan browser favorieten</string>
@@ -180,7 +180,7 @@
   <string name="hidden_sender_address">Verborgen adres verzender</string>
   <string name="hint_search_sms">%d berichten</string>
   <string name="hms_add_image_progress_message">Verwerken…</string>
-  <string name="hms_first_use_tips">Om berichten te onvangen, moet je verbonden zijn met een WiFi netwerk</string>
+  <string name="hms_first_use_tips">Om berichten te onvangen, moet je verbonden zijn met een Wi-Fi netwerk</string>
   <string name="importing_progress_private_message">Berichten importeren naar privé Berichtenbox…</string>
   <string name="in_sms">Bericht</string>
   <string name="insufficient_drm_rights">Onvoldoende DRM rechten gedetecteerd.</string>
@@ -260,9 +260,9 @@
   <string name="mx_activate_int_hint_sim_change">Het lijkt erop dat je SIM kaarten hebt omgewisseld. Uw provider kan kosten aanrekenen voor een SMS bericht om het Mi bericht te heractiveren.</string>
   <string name="mx_activate_user_agreement_p1">Door het gebruik van deze dienst, gaat u akkoord met Mi Message.</string>
   <string name="mx_auto_resend_mms">Verzenden als MMS</string>
-  <string name="mx_auto_resend_mms_summary">MMS versturen via de mobiele dataverbinding als u niet verbonden bent met WiFi(regelmatige dataverbruik kan kosten meebrengen).</string>
+  <string name="mx_auto_resend_mms_summary">MMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi(regelmatige dataverbruik kan kosten meebrengen).</string>
   <string name="mx_auto_resend_sms">Vezenden als SMS</string>
-  <string name="mx_auto_resend_sms_summary">"Als SMS versturen via de mobiele dataverbinding als u niet verbonden bent met WiFi(regelmatige dataverbruik kan kosten meebrengen)."</string>
+  <string name="mx_auto_resend_sms_summary">"Als SMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi(regelmatige dataverbruik kan kosten meebrengen)."</string>
   <string name="mx_btn_enable">Activeren</string>
   <string name="mx_btn_enable_now">Uitschakelen</string>
   <string name="mx_count_dspt">"Sinds de activatie, heeft MIUI %1$d SMS cloud bericht(en) verzonden voor u %2$d MMS"</string>
@@ -378,7 +378,7 @@
   <string name="recipient_editor_count_format">Ontvangen %d contact(en)</string>
   <string name="recipient_label">"Ontvanger: "</string>
   <string name="recording_failed">Kan niet opnemen</string>
-  <string name="refill_now">Nu herladen</string>
+  <string name="refill_now">Nu opwaarderen</string>
   <string name="refresh">Vernieuwen</string>
   <string name="refresh_failed">Vernieuwen mislukt</string>
   <string name="refreshing">Vernieuwen…</string>
@@ -407,7 +407,7 @@
   <string name="saved_ringtone">Beltoon opgeslagen</string>
   <string name="saved_ringtone_fail">Kan beltoon niet opslaan</string>
   <string name="saved_to_sim">Opgeslaan op SIM kaart</string>
-  <string name="sdcard_has_not_enough_space">Niet genoeg ruimte op SD kaart</string>
+  <string name="sdcard_has_not_enough_space">Niet genoeg ruimte op SD-kaart</string>
   <string name="search">Berichten</string>
   <string name="search_empty">Geen resultaten</string>
   <string name="search_hint">Zoeken in berichten</string>
@@ -501,7 +501,7 @@
   <string name="to_label">"Aan "</string>
   <string name="to_send_wrapper">Wordt verzonden op %s</string>
   <string name="toast_description_required">Feedback mag niet leeg zijn</string>
-  <string name="toast_feedback_finish">Feedback wordt automatisch verzonden als u verbonden bent met WiFi</string>
+  <string name="toast_feedback_finish">Feedback wordt automatisch verzonden als u verbonden bent met Wi-Fi</string>
   <string name="toast_feedback_max">U mag maar 3 keer per dag een feedback geven</string>
   <string name="toast_feedback_start">Feedback verzenden…</string>
   <string name="too_many_attachments">Er is een limiet van %1$s bijlagen. Alleen de eerste %2$s worden toegevoegd.</string>
