@@ -82,7 +82,7 @@
   <string name="auto_ip_setting_miui">Automatisch IP instellingen</string>
   <string name="auto_ip_summary_not_enabled">Niet ingeschakeld</string>
   <string name="auto_ip_support_local_numbers">IP prefix altijd gebruiken</string>
-  <string name="auto_record_call_summary_miui">Start met opnemen terwijl er verbonden wordt en opslaan in map MIUI/sound_recorder/call_rec van de SD kaart</string>
+  <string name="auto_record_call_summary_miui">Start met opnemen terwijl er verbonden wordt en opslaan in map MIUI/sound_recorder/call_rec van de SD-kaart</string>
   <string name="auto_record_call_title_miui">Automatisch Opnemen</string>
   <string name="auto_record_scenario_enteries_always_miui">Auto opnemen voor alle nummers</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Auto opnemen voor gekozen nummers</string>
@@ -151,8 +151,8 @@
   <string name="call_record_notification_message_start_failed">Recorder wordt gebruikt door een andere app.</string>
   <string name="call_record_notification_title_error_miui">Gespreksopname mislukt</string>
   <string name="call_record_notification_title_miui">Gespreksopname gelukt</string>
-  <string name="call_record_sd_error_miui">"SD kaart toegangsfout"</string>
-  <string name="call_record_sd_space_low_miui">Onvoldoende ruimte: geen plaats meer op SD kaart</string>
+  <string name="call_record_sd_error_miui">"SD-kaart toegangsfout"</string>
+  <string name="call_record_sd_space_low_miui">Onvoldoende ruimte: geen plaats meer op SD-kaart</string>
   <string name="call_record_setting_miui">Oproep Opname Instellingen</string>
   <string name="call_record_unknown_error">Er is een onbekende fout opgetreden.</string>
   <string name="call_recording_notification_summary_miui">Toon melding wanneer opname klaar is</string>
@@ -434,7 +434,7 @@
   <string name="enable_miui">Inschakelen</string>
   <string name="enable_pin">SIM kaart PIN code in-/uitschakelen</string>
   <string name="enable_pin_ok">SIM kaart PIN code ingeschakeld.</string>
-  <string name="enable_proximity_summary_miui">Nabijheidssensor inschakelen om scherm uit te schakelen gedurende telefoongesprekke</string>
+  <string name="enable_proximity_summary_miui">Nabijheidssensor inschakelen om scherm uit te schakelen gedurende telefoongesprekken</string>
   <string name="enable_proximity_title_miui">Nabijheidssensor inschakelen</string>
   <string name="enable_sim_pin">SIM kaart PIN code inschakelen</string>
   <string name="enable_sim_pin_miui">SIM kaart PIN code inschakelen</string>
@@ -676,8 +676,8 @@
   <string name="no_vm_number_msg">Er is geen voicemailnummer op de SIM kaart opgeslagen.</string>
   <string name="no_voip">Bellen via internet niet ondersteund</string>
   <string name="no_volte">Kan geen IMS oproep maken</string>
-  <string name="no_wifi_available">"Voor internetgesprekken moet u verbinding hebben met een WiFi netwerk(gebruik 'Draadloze en netwerkinstellingen')."</string>
-  <string name="no_wifi_available_title">Geen WiFi verbinding</string>
+  <string name="no_wifi_available">"Voor internetgesprekken moet u verbinding hebben met een Wi-Fi netwerk(gebruik 'Draadloze en netwerkinstellingen')."</string>
+  <string name="no_wifi_available_title">Geen Wi-Fi verbinding</string>
   <string name="non_ivr_menu_collapse_menu">Instorten menu</string>
   <string name="non_ivr_menu_view_menu">Bekijk menu</string>
   <string name="not_a_valid_port">Het poortnummer moet tussen 1000 en 65534 liggen.</string>
@@ -759,7 +759,7 @@
   <string name="ota_listen">Volg de gesproken instructies tot u hoort dat de activering is voltooid.</string>
   <string name="ota_next">Volgende</string>
   <string name="ota_progress">Wacht even totdat uw telefoon is geprogrammeerd.</string>
-  <string name="ota_skip_activation_dialog_message">Als u de activering overslaat, kan u niet bellen of geen verbinding maken met mobiele gegevensnetwerken(u kunt wel verbinding maken met WiFi netwerken). Tot u de telefoon activeert, wordt u gevraagd deze telkens te activeren wanneer u de telefoon inschakelt.</string>
+  <string name="ota_skip_activation_dialog_message">Als u de activering overslaat, kan u niet bellen of geen verbinding maken met mobiele gegevensnetwerken(u kunt wel verbinding maken met Wi-Fi netwerken). Tot u de telefoon activeert, wordt u gevraagd deze telkens te activeren wanneer u de telefoon inschakelt.</string>
   <string name="ota_skip_activation_dialog_skip_label">Overslaan</string>
   <string name="ota_skip_activation_dialog_title">Activatie overslaan?</string>
   <string name="ota_spc_failure">VEEL SPC FOUTEN</string>
@@ -884,7 +884,7 @@
   <string name="registration_status_failed_try_later">Accountregistratie mislukt: (%s); We proberen het later opnieuw</string>
   <string name="registration_status_invalid_credentials">Accountregistratie mislukt: gebruikersnaam of wachtwoord onjuist.</string>
   <string name="registration_status_no_data">Accountregistratie gestopt omdat er geen internetverbinding is.</string>
-  <string name="registration_status_no_wifi_data">Accountregistratie gestopt omdat er geen WiFi-verbinding is.</string>
+  <string name="registration_status_no_wifi_data">Accountregistratie gestopt omdat er geen Wi-Fi-verbinding is.</string>
   <string name="registration_status_not_receiving">Geen ontvangen gesprekken.</string>
   <string name="registration_status_not_running">Account registratie mislukt.</string>
   <string name="registration_status_registering">Registering…</string>
@@ -1013,7 +1013,7 @@
   <string name="sip_call_options_entry_3">Vragen voor bellen</string>
   <string name="sip_call_options_title">Gebruik internetbellen</string>
   <string name="sip_call_options_wifi_only_entry_1">Vragen bij elk gesprek</string>
-  <string name="sip_call_options_wifi_only_title">Internetgesprekken gebruiken (alleen WiFi)</string>
+  <string name="sip_call_options_wifi_only_title">Internetgesprekken gebruiken (alleen Wi-Fi)</string>
   <string name="sip_edit_new_title">SIP account details</string>
   <string name="sip_edit_title">SIP account details</string>
   <string name="sip_menu_add">Toevoegen</string>
@@ -1029,7 +1029,7 @@
   <string name="sliding_up_hint_miui">Sleep omhoog om te weigeren</string>
   <string name="sms_content">Inhoud:</string>
   <string name="sms_sender">Van</string>
-  <string name="sp_unlock_failed">SIM kaart Service Provider ontgrenelingsverzoek misluk.</string>
+  <string name="sp_unlock_failed">SIM kaart Service Provider ontgrendelingsverzoek misluk.</string>
   <string name="sp_unlock_success">SIM kaart Service Provider ontgrendeling geslaagd.</string>
   <string name="sports_news_settings">Sportnieuws</string>
   <string name="stk_cc_ss_to_dial_error">SS verzoek gewijzigd naar KIES verzoek.</string>
@@ -1127,8 +1127,8 @@
   <string name="updating_settings">Instellingen bijwerken…</string>
   <string name="updating_title">Oproepinstellingen</string>
   <string name="upgrade_vt_prompt">Wilt u het gesprek upgraden naar video gesprek ?</string>
-  <string name="upgrade_vt_rx_prompt">Wilt u het gesprek alleen upgraden naar ontvangen video gesprek ?</string>
-  <string name="upgrade_vt_tx_prompt">Wilt u het gesprek alleen upgraden naar verzenden videogesprek ?</string>
+  <string name="upgrade_vt_rx_prompt">Wilt u het gesprek alleen upgraden naar ontvangen videogesprek?</string>
+  <string name="upgrade_vt_tx_prompt">Wilt u het gesprek alleen upgraden naar verzenden videogesprek?</string>
   <string name="use_ims_default">UseImsDefault</string>
   <string name="use_ims_default_summary">Gebruik IMS voor alle video oproepen</string>
   <string name="use_ims_default_title">GebruikIMS altijd</string>
