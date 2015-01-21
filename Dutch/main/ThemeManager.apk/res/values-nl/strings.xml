@@ -157,6 +157,9 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Downloaden</string>
+  <string name="resource_download_notification_content">Click to check</string>
+  <string name="resource_download_notification_title_many">Download %1$s themes success!</string>
+  <string name="resource_download_notification_title_one">Download theme success!</string>
   <string name="resource_download_trial">Gratis trial</string>
   <string name="resource_downloaded_title">Gedownloade bronnen</string>
   <string name="resource_downloading">Downloaden…</string>
@@ -260,7 +263,6 @@
   <string name="selected_resource_file_invalid">"Geselecteerd bestand is ongeldig"</string>
   <string name="settings">Instellingen</string>
   <string name="short_ringtone_resource">Kort</string>
-  <string name="theme_batch_has_update_text">"Er zijn voor %1$d thema's updates beschikbaar."</string>
   <string name="theme_batch_update_all">Alles bijwerken</string>
   <string name="theme_batch_update_dlg_content">Wilt u nu bijwerken?</string>
   <string name="theme_batch_update_dlg_content_single">Nu bijwerken?</string>
@@ -304,12 +306,8 @@
   <string name="theme_favorite_waiting">Een momentje…</string>
   <string name="theme_fresh_man_notifaction">"Nieuwe thema's beschikbaar"</string>
   <string name="theme_immediately_apply_tip">Het thema is bijgewerkt, meteen toepassen?</string>
-<<<<<<< HEAD
-  <string name="theme_import_from_sdcard">Importeren van SD kaart</string>
-  <string name="theme_multiple_button_title_customize">Aanpassen</string>
-=======
   <string name="theme_import_from_sdcard">Importeren van SD-kaart</string>
->>>>>>> 758db8be7f93b63f6994de366627ff4a20b35773
+  <string name="theme_multiple_button_title_customize">Aanpassen</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Nee</string>
   <string name="theme_purchased_list_empty">Je hebt geen enkel thema aangekocht</string>
@@ -321,6 +319,7 @@
   <string name="theme_user_agreement_content3">" en "</string>
   <string name="theme_user_agreement_content4">Privacybeleid</string>
   <string name="theme_user_agreement_content5">.</string>
+  <string name="theme_user_agreement_exit">Exit</string>
   <string name="theme_user_agreement_remind_again">De gebruiksvoorwaarden meteen weergegeven</string>
   <string name="theme_user_agreement_remind_never">Niet meer weergegeven</string>
   <string name="theme_user_agreement_remind_summary">Toon de gebruiksvoorwaarden elke keer. Deze instelling worden van kracht na herstarten van apparaat.</string>

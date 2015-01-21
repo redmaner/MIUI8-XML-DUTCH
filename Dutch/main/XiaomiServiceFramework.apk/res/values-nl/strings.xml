@@ -13,6 +13,7 @@
   <string name="activate_popup_confirm_failed_receive_sms">Opnieuw proberen</string>
   <string name="activate_popup_confirm_failed_send_sms">Opnieuw verzenden</string>
   <string name="activate_popup_confirm_failed_server">Opnieuw proberen</string>
+  <string name="activate_popup_confirm_upload_diagnosis_info">Upload</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Uw provider kan kosten aanrekenen voor 2 internationale SMS berichten die worden gebruikt om te activeren %s.</string>
   <string name="activate_popup_desc_2_sim_cards">Uw provider kan kosten aanrekenen voor 2 SMS berichten die worden gebruikt om te activeren %s.</string>
   <string name="activate_popup_desc_failed_phone_error">Opgegeven telefoonnummer is ongeldig</string>
@@ -33,6 +34,9 @@
   <string name="activate_popup_desc_register_account_intl">Uw provider kan kosten aanrekenen voor een internationaal SMS bericht gebruikt om uw Mi account aan te maken.</string>
   <string name="activate_popup_desc_sim_card">Uw provider kan kosten aanrekenen voor een SMS bericht gebruikt om te activeren %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Om in te schakelen %s, voer je telefoonnummer in</string>
+  <string name="activate_popup_desc_upload_diagnosis_info">"Couldn't activate SIM card. Please consider uploading dianosis information to help us identity the problem. (Report ID : %s)"</string>
+  <string name="activate_popup_link_diagnosis_detail">What privacy information will be included?</string>
+  <string name="activate_popup_title_diagnosis_detail">Diagnosis Information</string>
   <string name="activate_popup_title_failed_phone_error">Ongeldig telefoonnummer</string>
   <string name="activate_popup_title_failed_query_info">Kan telefoonnummer niet vinden</string>
   <string name="activate_popup_title_failed_receive_sms">Geen antwoord</string>
@@ -41,6 +45,7 @@
   <string name="activate_popup_title_manual">Activeer %s</string>
   <string name="activate_popup_title_new_sim_card">Heractiveer %s</string>
   <string name="activate_popup_title_register_account">Maak een Mi Account aan</string>
+  <string name="activate_popup_title_upload_diagnosis_info">"Couldn't activate SIM card"</string>
   <string name="activate_status_desc_acquire_phone_number">Ophalen telefoonnummer van de server</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Een serverfout opgetreden tijdens het ophalen van het telefoonnummer</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Ophalen telefoonnummer mislukt</string>
