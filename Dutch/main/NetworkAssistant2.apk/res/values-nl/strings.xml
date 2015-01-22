@@ -105,7 +105,7 @@
   <string name="international_roaming_whitelist_count">%d apps kan verbinding maken met datadiensten bij internationaal roameny</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Leeg</string>
-  <string name="lock_screen_traffic_notify_body">Data usage when screen off: %s</string>
+  <string name="lock_screen_traffic_notify_body">Dataverbruik wanneer scherm uit is: %s</string>
   <string name="lock_screen_traffic_warn_title">Dataverbruik waarschuwing</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_no_mobile_package">Mobiel datalimiet is ingesteld</string>
@@ -320,9 +320,9 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer de provider instellingen</string>
   <string name="traffic_correction_success">Dataverbruik bijgewerkt</string>
   <string name="traffic_none">Geen</string>
-  <string name="traffic_over_purchase_body">Touch to view details.</string>
-  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier could charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
-  <string name="traffic_over_purchase_title">Data limit exceeded</string>
+  <string name="traffic_over_purchase_body">Aanraken om details weer te geven.</string>
+  <string name="traffic_over_purchase_link">"Je hebt dataverbruiks limiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Herlaad nu om 50% te besparen.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_title">Dataverbruiks limiet overschreden</string>
   <string name="traffic_protection_data_usage_summary">Verbruik buiten uw databundel kan leiden tot extra kosten.</string>
   <string name="traffic_protection_label">Dataverbruik waarschuwing</string>
   <string name="traffic_protection_next">Volgende</string>
@@ -330,8 +330,8 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_protection_text_hint">Een datalimiet instellen voor %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Later instellen &lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Data ingeschakeld</string>
-  <string name="traffic_purchase_body">Save 50% when you top up now.</string>
-  <string name="traffic_purchse_suggestion">Time to top up</string>
+  <string name="traffic_purchase_body">Bespaar 50% als je nu herlaad.</string>
+  <string name="traffic_purchse_suggestion">Tijd om te herladen</string>
   <string name="traffic_saving_button_sorted">Details</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sorteren op</string>
   <string name="traffic_saving_button_start">Inschakelen</string>
@@ -366,11 +366,11 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_whitelist_no_app">Geen apps</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
-  <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>
-  <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
-  <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
-  <string name="traffic_setting_extra_pkg_title">Additional settings</string>
-  <string name="traffic_setting_extra_traffic_title">Additional settings</string>
+  <string name="traffic_setting_daily_limit_summary">Stel dataverbruik in</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Pas abonnement en dataverbruik aan</string>
+  <string name="traffic_setting_extra_pkg_summary">Pas abonnement en dataverbruik aan</string>
+  <string name="traffic_setting_extra_pkg_title">Extra instellingen</string>
+  <string name="traffic_setting_extra_traffic_title">Extra instellingen</string>
   <string name="traffic_setting_fragment_area">Lokaal</string>
   <string name="traffic_setting_fragment_brand">Merk</string>
   <string name="traffic_setting_fragment_button1_text">Annuleren</string>
@@ -386,9 +386,9 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_setting_fragment_sms_content_tips">Schrijf uw bericht hier</string>
   <string name="traffic_setting_fragment_template">Bericht template</string>
   <string name="traffic_setting_fragment_title">Dataverbruik vraag instellingen</string>
-  <string name="traffic_setting_open">On</string>
-  <string name="traffic_setting_step_num">Data plan settings</string>
-  <string name="traffic_warning_purchase_title">Remaining balance is less than %d%%</string>
+  <string name="traffic_setting_open">Aan</string>
+  <string name="traffic_setting_step_num">Instellingen Data plan</string>
+  <string name="traffic_warning_purchase_title">Overgebleven saldo is minder dan %d%%</string>
   <string name="usage_sorted_activity_lable">Dataverbruik</string>
   <string name="usage_sorted_empty_text">Leeg</string>
   <string name="usage_sorted_loading_text">Laden…</string>

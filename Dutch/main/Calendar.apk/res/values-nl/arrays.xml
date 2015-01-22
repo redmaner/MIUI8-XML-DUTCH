@@ -187,4 +187,83 @@
         <item>Begin maar vast zonder mij.</item>
         <item>Ik red het helaas niet. Laten we een nieuwe afspraak maken.</item>
     </string-array>
+ <string-array name="repeat_frequency_spinner">
+        <item>dag</item>
+        <item>week</item>
+        <item>maand</item>
+        <item>jaar</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1st</item>
+        <item>2de</item>
+        <item>3de</item>
+        <item>4de</item>
+        <item>5de</item>
+        <item>6de</item>
+        <item>7de</item>
+        <item>8ste</item>
+        <item>9de</item>
+        <item>10de</item>
+        <item>11de</item>
+        <item>12de</item>
+        <item>13de</item>
+        <item>14de</item>
+        <item>15de</item>
+        <item>16de</item>
+        <item>17de</item>
+        <item>18de</item>
+        <item>19de</item>
+        <item>20ste</item>
+        <item>21ste</item>
+        <item>22ste</item>
+        <item>23ste</item>
+        <item>24ste</item>
+        <item>25ste</item>
+        <item>26ste</item>
+        <item>27ste</item>
+        <item>28ste</item>
+        <item>29ste</item>
+        <item>30ste</item>
+        <item>31ste</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Man</item>
+        <item>Din</item>
+        <item>Woe</item>
+        <item>Don</item>
+        <item>Vrij</item>
+        <item>Zat</item>
+        <item>Zon</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Dec</item>
+        <item>Nov</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>eerste</item>
+        <item>tweede</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laatste</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Man - Vrij</item>
+        <item>Weekend</item>
+        <item>Hele week</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nooit</item>
+        <item>Tijd</item>
+        <item>Tellen</item>
+    </string-array>
 </resources>
