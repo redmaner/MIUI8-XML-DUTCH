@@ -139,7 +139,7 @@ Wilt u het sluiten?"</string>
   <string name="badPuk">De PUK code die u heeft ingevoerd, is onjuist.</string>
   <string name="beforeOneMonthDurationPast">Meer dan 1 maand geleden</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth audio</string>
-  <string name="bugreport_message">Hiermee worden gegevens over de huidige status van uw apparaat verzameld en als email verzonden. Wanneer u een foutenrapport start, duurt het even voordat het kan worden verzonden. Even geduld.</string>
+  <string name="bugreport_message">Hiermee worden gegevens over de huidige status van uw apparaat verzameld en als e-mail verzonden. Wanneer u een foutenrapport start, duurt het even voordat het kan worden verzonden. Even geduld.</string>
   <string name="bugreport_title">Foutenrapport genereren</string>
   <string name="byteShort">B</string>
   <string name="cancel">Annuleren</string>
@@ -201,9 +201,9 @@ Wilt u het sluiten?"</string>
   <string name="create_contact_using">"Contact maken
 met %s"</string>
   <string name="cut">Knippen</string>
-  <string name="data_usage_3g_limit_snoozed_title">Gegevenslimiet 2G-/3G overschreden</string>
+  <string name="data_usage_3g_limit_snoozed_title">Datalimiet 2G-/3G overschreden</string>
   <string name="data_usage_3g_limit_title">2G-/3G-gegevens uitgeschakeld</string>
-  <string name="data_usage_4g_limit_snoozed_title">Gegevenslimiet 4G overschreden</string>
+  <string name="data_usage_4g_limit_snoozed_title">Datalimiet 4G overschreden</string>
   <string name="data_usage_4g_limit_title">4G gegevens uitgeschakeld</string>
   <string name="data_usage_limit_body">Raak aan om in te schakelen.</string>
   <string name="data_usage_limit_snoozed_body">%s meer dan limiet.</string>
@@ -449,7 +449,7 @@ Weet u zeker dat u deze pagina wilt verlaten?"</string>
   <string name="keyguard_password_wrong_pin_code">Onjuiste PIN code.</string>
   <string name="kg_emergency_call_label">Noodoproep</string>
   <string name="kg_enter_confirm_pin_hint">Gewenste PIN code bevestigen</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. Bij nog eens %d mislukte pogingen wordt u gevraagd uw tablet te ontgrendelen via een emailaccount.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. Bij nog eens %d mislukte pogingen wordt u gevraagd uw tablet te ontgrendelen via een e-mailaccount.
 
  Probeer het over %d seconden opnieuw."</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">U heeft %d keer geprobeerd de tablet op een onjuiste manier te ontgrendelen. Bij nog eens %d mislukte pogingen worden de fabrieksinstellingen hersteld op de tablet en gaan alle gebruikersgegevens verloren.</string>
@@ -467,7 +467,7 @@ Ga naar "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_password_hint">Wachtwoord</string>
   <string name="kg_login_submit_button">Inloggen</string>
   <string name="kg_login_too_many_attempts">Te veel patroon pogingen</string>
-  <string name="kg_login_username_hint">Gebruikersnaam(email)</string>
+  <string name="kg_login_username_hint">Gebruikersnaam(e-mail)</string>
   <string name="kg_password_instructions">Wachtwoord invoeren</string>
   <string name="kg_password_wrong_pin_code">Onjuiste PIN code.</string>
   <string name="kg_pattern_instructions">Teken uw patroon</string>
@@ -525,7 +525,7 @@ Ga naar "&lt;b&gt;https://www.google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_glogin_password_hint">Wachtwoord</string>
   <string name="lockscreen_glogin_submit_button">Inloggen</string>
   <string name="lockscreen_glogin_too_many_attempts">Te veel patroonpogingen</string>
-  <string name="lockscreen_glogin_username_hint">Gebruikersnaam (email)</string>
+  <string name="lockscreen_glogin_username_hint">Gebruikersnaam (e-mail)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">"Druk op 'Menu' om te ontgrendelen."</string>
   <string name="lockscreen_instructions_when_pattern_enabled">"Druk op 'Menu' om te ontgrendelen of noodoproep te plaatsen."</string>
   <string name="lockscreen_low_battery">Sluit de oplader aan.</string>
@@ -955,7 +955,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permgroupdesc_display">De gebruikersinterface van andere applicaties beïnvloeden.</string>
   <string name="permgroupdesc_hardwareControls">Rechtstreekse toegang tot hardware op de handset.</string>
   <string name="permgroupdesc_location">Uw fysieke locatie bijhouden.</string>
-  <string name="permgroupdesc_messages">SMS, email en andere berichten lezen en schrijven.</string>
+  <string name="permgroupdesc_messages">SMS, e-mail en andere berichten lezen en schrijven.</string>
   <string name="permgroupdesc_microphone">Rechtstreeks toegang krijgen tot de microfoon om geluid op te nemen.</string>
   <string name="permgroupdesc_network">Toegang tot verschillende netwerkfuncties.</string>
   <string name="permgroupdesc_personalInfo">Rechtstreeks toegang krijgen tot informatie over u die is opgeslagen op uw contactkaart.</string>
@@ -1206,7 +1206,7 @@ voor account %s."</string>
   <string name="permlab_vibrate">Trilling beheren</string>
   <string name="permlab_wakeLock">Voorkomen dat tablet overschakelt naar slaapmodus</string>
   <string name="permlab_writeApnSettings">Netwerkinstellingen en -verkeer wijzigen/onderscheppen</string>
-  <string name="permlab_writeCalendar">Agenda afspraken toevoegen of wijzigen en emails verzenden aan gasten zonder medeweten van de eigenaren</string>
+  <string name="permlab_writeCalendar">Agenda afspraken toevoegen of wijzigen en e-mails verzenden aan gasten zonder medeweten van de eigenaren</string>
   <string name="permlab_writeCallLog">Gesprekkenlijst schrijven</string>
   <string name="permlab_writeContacts">Uw contacten aanpassen</string>
   <string name="permlab_writeDictionary">Woorden toevoegen aan het gebruikerswoordenboek</string>

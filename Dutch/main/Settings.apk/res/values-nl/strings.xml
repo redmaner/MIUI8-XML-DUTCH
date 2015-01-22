@@ -3,7 +3,7 @@
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_title">Machtigingen</string>
-  <string name="ac_privacy_mode_sum">Wachtwoord vereist om Gast modus uit te schakelen</string>
+  <string name="ac_privacy_mode_sum">Wachtwoord vereist om Gastmodus uit te schakelen</string>
   <string name="ac_privacy_mode_title">Wachtwoord</string>
   <string name="ac_set_apps_title">Vergrendel apps</string>
   <string name="accelerometer_summary_off">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
@@ -52,7 +52,7 @@
   <string name="account_list">Alle</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync.</string>
-  <string name="activate_miui_screensaver">Screensaver tijdens slaap</string>
+  <string name="activate_miui_screensaver">Schermbeveiliging tijdens slaap</string>
   <string name="activating">Activeren…</string>
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
@@ -73,7 +73,7 @@
   <string name="advanced_settings_summary">Meer opties voor instellingen inschakelen</string>
   <string name="airplane_mode">Vliegmodus</string>
   <string name="alarm_volume_title">Alarm</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de screensaver kost extra batterij.</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de schermbeveiliging kost extra batterij.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Batterij gebruikt</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Toestaan</string>
@@ -85,7 +85,7 @@
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">U heeft ervoor gekozen deze app toe te staan widgets te maken en toegang tot de widgetgegevens te geven.</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
-  <string name="anti_spam">Blokkeerlijst</string>
+  <string name="anti_spam">Zwarte lijst</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Verificatietype</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -1385,8 +1385,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="miui_screensaver_show_time_select_title">Stel diavoorstelling duur in</string>
   <string name="miui_screensaver_state_off">Uit</string>
   <string name="miui_screensaver_state_on">Aan</string>
-  <string name="miui_screensaver_title">Screensaver</string>
-  <string name="miui_screensaver_usage">"Foto's in het album van de screensaver worden vijf seconden getoond nadat het scherm uit gaat.</string>
+  <string name="miui_screensaver_title">Schermbeveiliging</string>
+  <string name="miui_screensaver_usage">"Foto's in het album van de schermbeveiliging worden vijf seconden getoond nadat het scherm uit gaat.</string>
   <string name="mms_breathing_light_color_title">LED licht voor berichten</string>
   <string name="mms_breathing_light_freq_title">LED knipper frequentie berichten</string>
   <string name="mobile_connect_to_internet">Maak verbinding met internet</string>
@@ -1671,9 +1671,9 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="priority_storage_summary">Kies standaard locatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslag instellingen</string>
   <string name="privacy_mode_dialog_message">Gesprekken, notities, afbeeldingen, berichten, en launcher instellingen zijn verborgen voor gebruiker</string>
-  <string name="privacy_mode_dialog_title">Gast modus</string>
+  <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_mode_enable_sum">Verberg bel geschiedenis, berichten en andere data om privacy te beschermen</string>
-  <string name="privacy_mode_enable_title">Gast modus</string>
+  <string name="privacy_mode_enable_title">Gastmodus</string>
   <string name="privacy_protect_title">Privacy bescherming</string>
   <string name="privacy_relative">Privacy gerelateerd</string>
   <string name="privacy_settings">Back-up maken en opnieuw instellen</string>
@@ -2082,7 +2082,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="ssl_ca_cert_info_message">"Dit apparaat wordt beheerd door: %s Uw beheerder kan uw netwerkactiviteit bijhouden, waaronder e-mails, apps en beveiligde websites. Neem voor meer informatie contact op met uw beheerder."</string>
   <string name="ssl_ca_cert_settings_button">Vertrouwde inloggegevens controleren</string>
   <string name="ssl_ca_cert_warning">Netwerk kan worden gecontroleerd</string>
-  <string name="ssl_ca_cert_warning_message">"Een derde partij kan uw netwerkactiviteit, waaronder emails, apps en beveiligde websites, bijhouden. Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogelijk."</string>
+  <string name="ssl_ca_cert_warning_message">"Een derde partij kan uw netwerkactiviteit, waaronder e-mails, apps en beveiligde websites, bijhouden. Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogelijk."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Standby tijd</string>
   <string name="status_bar_and_notification_bar">Notificatie en statusbalk</string>
@@ -2886,7 +2886,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router_available_notif_summary">Tip voor gegevens info.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router beschikbaar</string>
-  <string name="xiaomi_router_notif_summary">Waarshuw me als er een Mi Router beschikbaar is</string>
+  <string name="xiaomi_router_notif_summary">Waarschuw me als er een Mi Router beschikbaar is</string>
   <string name="xiaomi_router_notif_title">Mi Router notificatie</string>
   <string name="yes">Ja</string>
   <string name="zone_auto">Automatische tijdzone</string>
