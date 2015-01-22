@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">Over</string>
-  <string name="about_mi_band">Use Mi Band to set, track, and follow your health and fitness data day and night.</string>
+  <string name="about_mi_band">Gebruik de Mi Band voor het volgen van uw gezondheid en fitness gegevens dag en nacht.</string>
   <string name="accept">Akkoord</string>
   <string name="action_badminton">Badminton</string>
-  <string name="action_basketball">Basketball</string>
-  <string name="action_bath">Bath</string>
-  <string name="action_bike">Bike</string>
-  <string name="action_brush_tooth">Brush teeth</string>
+  <string name="action_basketball">Basketbal</string>
+  <string name="action_bath">Bad</string>
+  <string name="action_bike">Fietsen</string>
+  <string name="action_brush_tooth">Tanden poetsen</string>
   <string name="action_exit">Afsluiten</string>
   <string name="action_local_ota">Update pakket kiezen</string>
   <string name="action_mark">Gedrag van Tagging</string>
@@ -20,10 +20,10 @@
   <string name="action_pop_smart_alarms">Alarm</string>
   <string name="action_pop_unlock_screen">Scherm deblokkeren</string>
   <string name="action_pop_weixin_enter">Toevoegen Wechat</string>
-  <string name="action_run">Run</string>
+  <string name="action_run">Lopen</string>
   <string name="action_settings">Instellingen</string>
-  <string name="action_sleep">Sleep</string>
-  <string name="action_walk">Walk</string>
+  <string name="action_sleep">Slapen</string>
+  <string name="action_walk">Wandelen</string>
   <string name="agree">Toestaan</string>
   <string name="alarm">Alarm</string>
   <string name="alarm_cycle">Herhaal</string>
@@ -52,10 +52,10 @@
   <string name="bin_weixin_device_not_connect">Mi Band niet aangesloten.</string>
   <string name="bind_bracelet">Mi Band gevonden</string>
   <string name="bind_bracelet_ok">Koppeling gelukt.</string>
-  <string name="bind_devices">Apparaten binden</string>
+  <string name="bind_devices">Apparaten koppelen</string>
   <string name="bind_mi_band">Bind Mi Band</string>
   <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;View Mi Bind Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-  <string name="bind_mi_weight">Bind Weight Scale</string>
+  <string name="bind_mi_weight">Weegschaal koppelen</string>
   <string name="bind_mi_weight_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;View Mi Weight Scale Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_mi_weight_howto">玩转体重秤</string>
   <string name="bind_new_mili">Koppelen met nieuwe Mi Band</string>
@@ -63,9 +63,9 @@
   <string name="bind_qq_health">Sync. met QQ Gezondheid</string>
   <string name="bind_qq_health_tip">Sync. stappen en slapen info aan QQ gezondheidsplatform, je netwerk verbinding nodig.</string>
   <string name="bind_qq_health_title">Toevoegen QQ Account</string>
-  <string name="bind_weight_fail">Bind Failed</string>
-  <string name="bind_weight_ok">Bind Weight Scale OK.</string>
-  <string name="bind_weight_scale">Weegschaal binden</string>
+  <string name="bind_weight_fail">Koppelen mislukt</string>
+  <string name="bind_weight_ok">Koppelen weegschaal gelukt.</string>
+  <string name="bind_weight_scale">Weegschaal koppelen</string>
   <string name="bind_weixin_failed">Mislukt, probeer opnieuw.</string>
   <string name="bind_weixin_new_disable_tips">Na koppeling met uw Wechat account volg Mi Band Wechat serviceaccount, kunt u de informatie, zoals het aantal  gedane stappen in Wechat controleren. U kunt ook uw resultaat status tussen uw vrienden zien.</string>
   <string name="bind_weixin_new_now">Synchroniseren met Wechat, een momentje…</string>
@@ -103,26 +103,26 @@
   <string name="cancel">Annuleren</string>
   <string name="check_upgrade">Controleer op updates</string>
   <string name="checking_new_apk">Controleren op nieuwe update…</string>
-  <string name="choose_tag_item">Which item are you going to do?</string>
+  <string name="choose_tag_item">Welk item ga je doen?</string>
   <string name="clock_closed">Uit</string>
   <string name="closed">Gesloten</string>
   <string name="cm">cm</string>
   <string name="come_from_xiaomi_bracelet">Van Mi Band</string>
-  <string name="complete">Complete</string>
+  <string name="complete">Voltooid</string>
   <string name="confirm">Bevestigen</string>
-  <string name="confirm_complete_tag">Are you sure to complete this tag task?</string>
+  <string name="confirm_complete_tag">Weet u zeker dat deze tag taak zal voltooien?</string>
   <string name="confirm_lazy_day">Vandaag een luie dag maken?</string>
   <string name="connect_bracelet_now">Verbinden…</string>
   <string name="connected_broadcast">Fitness Center verbinding</string>
   <string name="connected_broadcast_disconnect_tips">Maak verbinding met de armband, vervolgens instellen</string>
   <string name="connected_broadcast_tips">Test verbinding</string>
-  <string name="connecting">Connecting…</string>
+  <string name="connecting">Verbinden…</string>
   <string name="content_too_short">Inhoud ontbreekt.</string>
   <string name="continue_reach_goal">Bereik doel</string>
   <string name="continue_reach_goal_new_record">Maak een nieuwe prestatie</string>
   <string name="continue_tips_format">Je beste prestatie is je doel bereiken voor %1$s dagen.</string>
   <string name="daily_sporty">Stappen per</string>
-  <string name="data_loading">Loading...Please wait for a moment</string>
+  <string name="data_loading">Laden…een momentje</string>
   <string name="date_from_to">%1$s naar %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Laatste maand</string>
@@ -203,13 +203,13 @@
   <string name="exit_login">Uitloggen</string>
   <string name="exit_login_1">Ben je zeker dat je wilt uitloggen?</string>
   <string name="failed_enable_bt">Gelieve Bluetooth in te schakelen.</string>
-  <string name="family_member">Family</string>
+  <string name="family_member">Familie</string>
   <string name="feedback">Feedback</string>
   <string name="female">Vrouwelijk</string>
   <string name="find_bracelet">Zoeken naar Mi Band</string>
   <string name="find_bracelet_warning">Verbruikt veel batterij bij het zoeken van de Mi Band.</string>
-  <string name="find_weight_scale">Find Weight Scale</string>
-  <string name="find_weight_scale_info">Please stand on Weight Scale to bind.</string>
+  <string name="find_weight_scale">Weegschaal zoeken</string>
+  <string name="find_weight_scale_info">Gelieve op weegschaal te staan om te koppelen.</string>
   <string name="finding_bracelet">Zoeken naar Mi Band…</string>
   <string name="firmware_upgrade">Firmware update</string>
   <string name="firmware_version">Firmware Versie</string>
@@ -236,7 +236,7 @@
   <string name="gen_qr_code">Maak QR code</string>
   <string name="get_help">Help verzoek</string>
   <string name="get_image_file_fail">Ophalen Image mislukt</string>
-  <string name="goal_weight">Goal</string>
+  <string name="goal_weight">Doel</string>
   <string name="goals_push_five">Achieve 50%</string>
   <string name="goals_push_nine">Achieve 90%</string>
   <string name="goals_push_none">Geen push notificatie</string>
@@ -275,7 +275,7 @@
   <string name="incomingcall_info_2">"Gelieve de Mi Band app te vergrendelen  en 
 Mi Band toevoegen aan de witte lijst van de 3rd party manager als die bestaat."</string>
   <string name="incomingcall_info_3">Gelieve de Mi Band toevoegen aan de witte lijst van de 3rd party manager als die bestaat..</string>
-  <string name="input_family_member_name">Please input ​name</string>
+  <string name="input_family_member_name">Naam invoeren</string>
   <string name="input_precise_person_info">Vul uw persoonlijke gegevens. Meer informatie zal helpen om nauwkeurige resultaten te krijgen.</string>
   <string name="input_your_name">Please input name</string>
   <string name="instruction_tip_1">Neem een kijkje bij training vooruitgang</string>
@@ -378,7 +378,7 @@ Mi Band toevoegen aan de witte lijst van de 3rd party manager als die bestaat."<
   <string name="login_failed_check_sys_time">Login mislukt, controleer de tijdsinstelling en gebruik de tijd aangeven door het netwerk.</string>
   <string name="logining">Inloggen…</string>
   <string name="look_device_list">Een Mi Band zoeken in de buurt</string>
-  <string name="look_weight_device_list">Show scales nearby</string>
+  <string name="look_weight_device_list">Geef weegschalen in de buurt weer</string>
   <string name="main_ui_share_tips">"Getraind voor %1$s%2$s vandaag. %3$s"</string>
   <string name="main_ui_sleep_share_tips">"Lichte slaap %1$s%2$s Ingeslapen om %3$s, opgestaan om %4$s."</string>
   <string name="male">Mannelijk</string>
@@ -410,8 +410,8 @@ Mi Band toevoegen aan de witte lijst van de 3rd party manager als die bestaat."<
   <string name="move_and_capture">Beweging en Opname</string>
   <string name="multi_devices_info">Er zijn meerdere Mi Bands in de buurt. U moet met uw Mi Band en telefoon ten minste 10 meter van andere Mi Bands zijn , dan opnieuw laten zoeken</string>
   <string name="multi_devices_title">Koppelen niet mogelijk.</string>
-  <string name="multi_weight_devices_info">Please keep away from other Weight Scales more than 10 meters.</string>
-  <string name="name">Name</string>
+  <string name="multi_weight_devices_info">Blijf ten minste 10 meter uit de buurt van andere Weegschalen.</string>
+  <string name="name">Naam</string>
   <string name="network_error">Kan geen verbinding met het netwerk maken, controleer de netwerkverbinding.</string>
   <string name="new_friend_accept">Akkoord</string>
   <string name="new_friend_cancel">Niet Akkoord</string>
@@ -422,7 +422,7 @@ Mi Band toevoegen aan de witte lijst van de 3rd party manager als die bestaat."<
   <string name="no_bracelet_tips">(enkel beschibaar bij verbonden Mi Band)</string>
   <string name="no_network_connection">Netwerk verbroken</string>
   <string name="no_network_connection_retry">Klik om opnieuw te verbinden.</string>
-  <string name="no_steps">NGeen stappen info vandaag.</string>
+  <string name="no_steps">Geen stappen info vandaag.</string>
   <string name="no_wear_bracelet">Je had de vorige nacht Mi Band niet aan.</string>
   <string name="no_wear_user_modified">Mijn slaap details manueel invoeren</string>
   <string name="noti_bracelet_low_battery_content_high">Batterij minder dan 10%.</string>
@@ -430,7 +430,7 @@ Mi Band toevoegen aan de witte lijst van de 3rd party manager als die bestaat."<
   <string name="noti_bracelet_low_battery_content_mid">Opladen nodig.</string>
   <string name="noti_bracelet_low_battery_title">Batterij laag</string>
   <string name="noti_bracelet_low_battery_title_low">Mi Band uitgeschakeld</string>
-  <string name="notice_for_tag_time">Notice: the number after X means that the number of times you marked</string>
+  <string name="notice_for_tag_time">Let op: het aantal na X betekent dat het aantal keren dat u het hebt aangegeven</string>
   <string name="notice_for_users">Exclusive Millet armband gebruiker </string>
   <string name="notify_status_motor">Armband schok</string>
   <string name="notify_status_motor_alarm">Reden: gewone wekker</string>
@@ -489,14 +489,14 @@ Mi Band toevoegen aan de witte lijst van de 3rd party manager als die bestaat."<
   <string name="search_weight_scale">Weegschaal zoeken</string>
   <string name="search_weight_scale_info">Dicht bij de weegschaal blijven</string>
   <string name="second">Seconde</string>
-  <string name="select_devices">Select devices</string>
-  <string name="select_devices_info">Please select Mi Devices to bind</string>
+  <string name="select_devices">Selecteer apparaten</string>
+  <string name="select_devices_info">Selecteer Mi apparaat om te koppelen</string>
   <string name="select_from_camera">Camera</string>
   <string name="select_from_local">Uit galerij kiezen</string>
   <string name="select_image">Bewerk profiel foto</string>
   <string name="sensor_hub_tip">"Telefoon stappenteller weergegeven door interne coprocessor van de telefoon
  (Sensor Hub)Bewegings data record.
- Na binding armband, deze gegevens is zijn als referentie, niet opgeslagen in de cloud"</string>
+ Na koppeling armband, deze gegevens is zijn als referentie, niet opgeslagen in de cloud"</string>
   <string name="service_call_notice">Bel de 24 uurs telefoon, toegang tot diensten</string>
   <string name="set_alarm_time">ALARM TIJD INSTELLEN</string>
   <string name="set_goal_step">8000 stappen/dag</string>
@@ -580,13 +580,13 @@ Notificaties by mksaint13"</string>
   <string name="sport_running_auto_pause">Auto pauseer detectie</string>
   <string name="sport_running_auto_pause_desc">Opname automatisch stoppen bij pauze tijdens het lopen</string>
   <string name="sport_running_average_speed">Gemiddeld</string>
-  <string name="sport_running_backgroud_notification">Running...,go go</string>
+  <string name="sport_running_backgroud_notification">Lopen…,go go</string>
   <string name="sport_running_burn">Verbrand</string>
   <string name="sport_running_cal_burnt">%d cal</string>
   <string name="sport_running_cal_desc">Verbrand</string>
   <string name="sport_running_cal_with_unit">Verbrand(cal)</string>
   <string name="sport_running_cost_cal">%.1f cal</string>
-  <string name="sport_running_delete_track_item_confirm">"Are you sure to delete this record? It can't be restored after deleting."</string>
+  <string name="sport_running_delete_track_item_confirm">Weet u zeker dat u dit record wilt verwijderen? Het kan niet worden hersteld na het wissen.</string>
   <string name="sport_running_distance">Afstand</string>
   <string name="sport_running_distance_desc">Kilometers</string>
   <string name="sport_running_distance_detail">%.2fkm</string>
@@ -708,23 +708,23 @@ Notificaties by mksaint13"</string>
   <string name="system_low_title">Update uw systeem.</string>
   <string name="system_not_support_info">Om Mi Band gebruiken, moet je de telefoon updaten. Alleen Android 4.4 of hoger ondersteunen Mi Band.</string>
   <string name="system_not_support_title">Niet ondersteunt.</string>
-  <string name="tag_data_collecting">Data collecting, please waiting...</string>
+  <string name="tag_data_collecting">Gegevens verzamelen, wachten…</string>
   <string name="time_format_hour_min">%1$sh %2$sm</string>
   <string name="time_format_min">%s min</string>
   <string name="title_activity_mark">MarkData</string>
   <string name="title_activity_open">Partner Bind Pagina</string>
-  <string name="title_activity_tag_data">TagDataActivity</string>
-  <string name="title_activity_tag_history">TagHistoryActivity</string>
-  <string name="title_activity_weight_tips">WeightTipsActivity</string>
+  <string name="title_activity_tag_data">TagDataActiviteit</string>
+  <string name="title_activity_tag_history">TagGeschiedenisActiviteit</string>
+  <string name="title_activity_weight_tips">WeightTipsActiviteit</string>
   <string name="title_health_link_service">Gezondheid Zorgservice</string>
-  <string name="toast_behavior_tag_failed">Behavior data collect failed!</string>
-  <string name="toast_disable_behavior_tag">Behavior tag feature disable！</string>
-  <string name="toast_enable_behavior_tag">Behavior tag feature enable！</string>
+  <string name="toast_behavior_tag_failed">Gedrag gegevens verzamelen mislukt!</string>
+  <string name="toast_disable_behavior_tag">Gedrag tag functie uitschakelen！</string>
+  <string name="toast_enable_behavior_tag">Gedrag tag functie inschakelen！</string>
   <string name="today">Vandaag</string>
   <string name="unbind">Loskoppelen</string>
   <string name="unbind_mili">Loskoppelen</string>
   <string name="unbind_short">Loskoppelen</string>
-  <string name="unbind_weight_scale">Unbind weight scale ?</string>
+  <string name="unbind_weight_scale">Weegschaal loskoppelen?</string>
   <string name="unbinding">Loskoppelen…</string>
   <string name="unit_calorie">cal</string>
   <string name="unit_hour">u</string>
@@ -754,10 +754,10 @@ Notificaties by mksaint13"</string>
   <string name="unlock_screen_invalid">Wat kan ik doen als ik niet in staat ben om te ontgrendelen?</string>
   <string name="unlock_screen_invalid_helper">Niet in staat om het scherm te ontgrendelen met de Mi Band?</string>
   <string name="unlock_screen_miui_version_low">Update naar de huidige MIUI versie.</string>
-  <string name="unlock_screen_modify_unlock_v5">"如需修改请打开
-设置-&gt;安全和隐私-&gt;屏幕安全保护-&gt;蓝牙设备解锁"</string>
-  <string name="unlock_screen_modify_unlock_v6">"如需修改请打开
-设置-&gt;锁屏和密码-&gt;蓝牙设备解锁"</string>
+  <string name="unlock_screen_modify_unlock_v5">"Wijzigen instellingen
+ geopend -&gt;Beveiliging en privacy-&gt;Scherm beveiliging-&gt;Bluetooth apparaat is ontgrendeld"</string>
+  <string name="unlock_screen_modify_unlock_v6">"Wijzigen instellingen
+ geopend -&gt;Vergrendelscherm en wachtwoord-&gt;Bluetooth apparaat is ontgrendeld"</string>
   <string name="unlock_screen_not_connect">Gelieve Mi Band eerst te koppelen voordat scherm ontgrendeling instelt.</string>
   <string name="unlock_screen_set_password">Stap 1) Instellen wachtwoord.</string>
   <string name="unlock_screen_set_password_tips_has_set">Wachtwoord scherm vergrendeling gelukt.</string>
@@ -772,11 +772,11 @@ Notificaties by mksaint13"</string>
   <string name="user_agreement_prefix">Om dit product te gebruiken moet je akkoord zijn met onze 
 </string>
   <string name="user_agreement_ux">Toetreden UX Improvement Program UX Improvement Program</string>
-  <string name="user_staron_me">Followers</string>
+  <string name="user_staron_me">Volgelingen</string>
   <string name="vibrate_notify">Tril Status</string>
   <string name="vibrate_notify_tips">Geef armband trillingsinfo in de statusbalk weer</string>
   <string name="visit_micom">Bezoek de officiële site</string>
-  <string name="visitor_weight">Weight</string>
+  <string name="visitor_weight">Gewicht</string>
   <string name="wait">Een momentje…</string>
   <string name="walked">Gewandeld</string>
   <string name="watermark_btn_confirm">Bevestigen</string>
@@ -796,42 +796,42 @@ Notificaties by mksaint13"</string>
   <string name="weather_description_snow">Sneeuw,</string>
   <string name="week"/>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
-  <string name="weight_delete_confirm_msg">%s weight record?</string>
-  <string name="weight_delete_confirm_title">Confirm To Delete</string>
+  <string name="weight_delete_confirm_msg">%s gewichts record?</string>
+  <string name="weight_delete_confirm_title">Bevestigen om te verwijderen</string>
   <string name="weight_device_list">Nabijgelegen weegschalen</string>
   <string name="weight_dynamic_detail">%1$s</string>
-  <string name="weight_dynamic_list_visit_tips">点击选择成员告诉我你是谁吧</string>
-  <string name="weight_dynamic_title">%1$s %2$s, weight%3$s%4$s</string>
-  <string name="weight_dynamic_visitor_title">%1$s weight%2$s%3$s</string>
-  <string name="weight_edit">Edit</string>
-  <string name="weight_edit_delete">Delete weight record</string>
-  <string name="weight_edit_move">Move weight record</string>
-  <string name="weight_fw_upgrade_tips">升级中保持手机靠近体重秤</string>
-  <string name="weight_fw_upgrade_title">升级体重秤固件</string>
-  <string name="weight_guest">访客</string>
-  <string name="weight_help_info_0">Make sure the Weight Scale is close to your device throughout the entire pairing process.</string>
-  <string name="weight_help_info_1">"Make sure the Weight Scale is charged and hasn't run out of power."</string>
-  <string name="weight_help_info_2">Restart Bluetooth by turning it off and then on again in Settings.</string>
-  <string name="weight_help_info_3">"Make sure your Weight Scale isn't already paired with another device nearby."</string>
-  <string name="weight_help_title_0">Is your Weight Scale too far away?</string>
-  <string name="weight_help_title_1">"Check the Weight Scale's battery"</string>
-  <string name="weight_help_title_2">Restart Bluetooth</string>
-  <string name="weight_help_title_3">Is this Weight Scale paired with another device?</string>
-  <string name="weight_history_dynamic_detail">同步了%1$s到%2$s的数据</string>
-  <string name="weight_history_dynamic_title">成功同步%1$s条历史体重数据</string>
-  <string name="weight_measure">Measure</string>
-  <string name="weight_not_found_info">Please stay close to your Weight Scale</string>
-  <string name="weight_not_found_title">Weight Scale not found</string>
-  <string name="weight_not_response">Weight Scale not response</string>
-  <string name="weight_report_suggest">建议：</string>
-  <string name="weight_report_user_info_header">%1$s 测量报告</string>
+  <string name="weight_dynamic_list_visit_tips">Klik om leden te selecteren en vertel me wie gelijk heeft</string>
+  <string name="weight_dynamic_title">%1$s %2$s, gewicht%3$s%4$s</string>
+  <string name="weight_dynamic_visitor_title">%1$s gewicht%2$s%3$s</string>
+  <string name="weight_edit">Bewerken</string>
+  <string name="weight_edit_delete">Verwijder gewichts record</string>
+  <string name="weight_edit_move">Verplaats gewichts record</string>
+  <string name="weight_fw_upgrade_tips">Upgrade naar de telefoon dicht bij weegschaal houden</string>
+  <string name="weight_fw_upgrade_title">Weegschaal firmware upgrade</string>
+  <string name="weight_guest">Bezoekers</string>
+  <string name="weight_help_info_0">Zorg ervoor dat de weegschaal dicht bij het apparaat is gedurende het hele koppelings proces.</string>
+  <string name="weight_help_info_1">Zorg ervoor dat de weegschaal is opgeladen en is niet zonder stroom valt.</string>
+  <string name="weight_help_info_2">Herstart Bluetooth door aan- en uit te schakelen in Instellingen.</string>
+  <string name="weight_help_info_3">Zorg ervoor dat de weegschaal niet is gekoppeld aan een ander apparaat in de buurt.</string>
+  <string name="weight_help_title_0">Is de weegschaal te ver weg?</string>
+  <string name="weight_help_title_1">Controleer de batterij van de weegschaal</string>
+  <string name="weight_help_title_2">Bluetooth herstarten</string>
+  <string name="weight_help_title_3">Is de weegschaal gekoppeld aan een ander apparaat?</string>
+  <string name="weight_history_dynamic_detail">Gesynchroniseerd%1$snaar%2$sgegevens</string>
+  <string name="weight_history_dynamic_title">Succesvol gesynchroniseerd%1$sgeschiedenis gegevens over het gewicht</string>
+  <string name="weight_measure">Meten</string>
+  <string name="weight_not_found_info">Blijf dicht bij de weegschaal</string>
+  <string name="weight_not_found_title">Weegschaal niet gevonden</string>
+  <string name="weight_not_response">Geen reactie van de weegschaal</string>
+  <string name="weight_report_suggest">Aanbeveling:</string>
+  <string name="weight_report_user_info_header">%1$s meetrapport</string>
   <string name="weight_scale">Weegschaal</string>
-  <string name="weight_settings_merge_tips">同一成员两次称重间隔30秒内，覆盖前一条记录</string>
-  <string name="weight_settings_merge_title">合并频繁称重记录</string>
+  <string name="weight_settings_merge_tips">Leden van hetzelfde interval werden twee keer binnen 30 seconden afgewogen, record wordt overschrijven</string>
+  <string name="weight_settings_merge_title">Samenvoegen frequente weegboeken</string>
   <string name="weight_unbinded">Verbinding weegschaal verbreken</string>
-  <string name="weight_weighting_now">测量中</string>
-  <string name="weighting_failed">"Weight unstable
-Please get off after the LED blinked."</string>
+  <string name="weight_weighting_now">Meting</string>
+  <string name="weighting_failed">"Gewicht onstabiel
+Gelieve af te stappen na het knipperen van de LED ."</string>
   <string name="welcom_back">Welkom terug</string>
   <string name="welcome">Hallo</string>
   <string name="wrong_system_time">Je systeem tijd op je apparaat is niet juist</string>
