@@ -54,7 +54,8 @@
   <string name="hot_problem">Bekijk veel voorkomende bugs</string>
   <string name="hot_problem_empty">Leeg</string>
   <string name="loading_apps">Lijst aanmaken…</string>
-  <string name="loading_hot_problem">Laden</string>
+  <string name="loading_hot_problem">Laden…</string>
+  <string name="loading_problem_list">Lijst laden…</string>
   <string name="menu_copy">Kopiëer</string>
   <string name="network_err">Kan geen verbinding maken met het netwerk.</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
@@ -62,6 +63,8 @@
   <string name="network_unavailable_dialog_title">Kan geen verbinding maken met het netwerk</string>
   <string name="non_system_app_select">Gedownloade apps</string>
   <string name="packaging_dialog_content">Rapport aanmaken…</string>
+  <string name="plus_one_submit_dialog_content">Uw geselecteerde feedback, samen met error logs, zullen worden verzonden naar de Mi servers.</string>
+  <string name="plus_one_submit_dialog_not_show_again">Mijn voorkeur onthouden</string>
   <string name="power_consuming_problem1">Toename van het energieverbruik na de update</string>
   <string name="power_consuming_problem2">Bij het gebruik van deze app verbruikt veel batterij</string>
   <string name="power_consuming_problem3">Hoog verbruik in standby</string>
@@ -80,7 +83,7 @@
   <string name="signal_problem2">Slecht signaal</string>
   <string name="submit_dialog_cancel">Annuleren</string>
   <string name="submit_dialog_confirm">Indienen</string>
-  <string name="submit_dialog_content">"Uw feedback, samen met error logs en de bijgevoegde foto's, zullen worden verzonden naar de servers van Xiaomi."</string>
+  <string name="submit_dialog_content">"Uw feedback, samen met error logs en de bijgevoegde foto's, zullen worden verzonden naar de Mi servers."</string>
   <string name="submit_dialog_title">Send report to Xiaomi</string>
   <string name="suggestion_description">Schrijf uw suggestie hier</string>
   <string name="suggestion_problem1">Vertel ons welke functies u graag zou willen zien in de toekomst</string>
@@ -94,6 +97,7 @@
   <string name="toast_feedback_network_unavailable">Kan geen verbinding maken met netwerk</string>
   <string name="toast_feedback_pending_wlan">Rapport wordt verzonden wanneer u verbinding hebt met een Wi-Fi netwerk</string>
   <string name="toast_feedback_submitted">Rapport is verstuurd</string>
+  <string name="toast_feedback_submitting">Indienen…</string>
   <string name="toast_feedbackservice_in_submit">Vorige feedback verzenden…</string>
   <string name="toast_network_unavailable">Kon niet verzenden. Kan niet verbinden met netwerk</string>
   <string name="toast_pending_log_collection">Er komen nog steeds logs binnen…</string>
