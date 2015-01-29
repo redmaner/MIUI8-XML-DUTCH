@@ -105,8 +105,10 @@
   <string name="international_roaming_whitelist_count">%d apps kan verbinding maken met datadiensten bij internationaal roameny</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Leeg</string>
-  <string name="lock_screen_traffic_notify_body">Dataverbruik wanneer scherm uit is: %s</string>
+  <string name="lock_screen_setting_summary">Toon notificatie nadat 100KB is gebruikt</string>
+  <string name="lock_screen_traffic_notify_body">Vergrendeld %1$s | Gebruikt %2$s van mobiele data</string>
   <string name="lock_screen_traffic_warn_title">Dataverbruik waarschuwing</string>
+  <string name="main_alert_message_month_limit_error">Het datalimiet u hebt instelt is fout</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_no_mobile_package">Mobiel datalimiet is ingesteld</string>
   <string name="main_alert_message_slot_no_data_connection">De SIM kaart ondersteund geen mobiele dataverbinding</string>
@@ -151,6 +153,12 @@
   <string name="network_assistant_upgraded_title">Update voltooid</string>
   <string name="network_control">App instellingen bekijken</string>
   <string name="none_mi_service_app_detail">Leeg</string>
+  <string name="notify_daily_data_usage_body">%s verbruikt vandaag. Tik om een limiet in te stellen.</string>
+  <string name="notify_daily_limit_body">%s verbruikt deze week. Tik om een limiet in te stellen.</string>
+  <string name="notify_daily_limit_title">Stel dagelijkse datalimiet in</string>
+  <string name="notify_month_traffic_body">%s verbruikt deze maand. Tik om een limiet in te stellen.</string>
+  <string name="notify_setting_pkg_title">Stel maandelijkse datalimiet in</string>
+  <string name="notify_weekly_pkg_body">%s verbruikt deze week. Tik om een limiet in te stellen.</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Lezen</string>
@@ -239,7 +247,6 @@
   <string name="pref_whitelist_setting">Uitzonderingen</string>
   <string name="privacy_declare_dialog_message">"Door het gebruik van deze dienst, gaat u akkoord met Opera's &lt;a href=%s&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
-  <string name="privacy_prompt_purchase_history_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om uw mobiele data aankoopgeschiedenis te krijgen.</string>
   <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en carrier details zullen om uw dataverbruik informatie bij te werken worden geüpload naar de servers van Xiaomi.</string>
   <string name="privacy_prompt_traffic_adjust_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om SMSquery templates te updaten en om te controleren of deze functie beschikbaar is in uw regio.</string>
   <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om meer info over data inkoop opties te krijgen.</string>
@@ -319,6 +326,10 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_correction_start_correction">Verbinden met providers servers…</string>
   <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer de provider instellingen</string>
   <string name="traffic_correction_success">Dataverbruik bijgewerkt</string>
+  <string name="traffic_limit_error_alert_body">Je provider accounting geeft aan dat je %1$s resterende hebt deze maand. Dat is meer dan de %2$s  % 1 $ s % 2 $ s limiet die u handmatig hebt ingesteld.</string>
+  <string name="traffic_limit_error_alert_iknow">OK</string>
+  <string name="traffic_limit_error_alert_reset">Limiet resseten</string>
+  <string name="traffic_limit_error_alert_title">Data limiets herinnering %s</string>
   <string name="traffic_none">Geen</string>
   <string name="traffic_over_purchase_body">Aanraken om details weer te geven.</string>
   <string name="traffic_over_purchase_link">"Je hebt dataverbruiks limiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Herlaad nu om 50% te besparen.&lt;/U&gt;&lt;/font&gt;"</string>
@@ -388,6 +399,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_setting_fragment_title">Dataverbruik vraag instellingen</string>
   <string name="traffic_setting_open">Aan</string>
   <string name="traffic_setting_step_num">Instellingen Data plan</string>
+  <string name="traffic_setting_update_template_falure">Kan niet verbinden met netwerk</string>
   <string name="traffic_warning_purchase_title">Overgebleven saldo is minder dan %d%%</string>
   <string name="usage_sorted_activity_lable">Dataverbruik</string>
   <string name="usage_sorted_empty_text">Leeg</string>
