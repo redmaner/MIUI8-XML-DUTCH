@@ -517,7 +517,7 @@
   <string name="loading_conversations">Laden…</string>
   <string name="loading_from_remote">Zoeken…</string>
   <string name="local_search">Lokaal zoeken</string>
-  <string name="local_search_result">%s e-mails gevonden op apparaat.</string>
+  <string name="local_search_result">%s e-mails gevonden 10 e-mails gevonden van alle lokale e-mails.</string>
   <string name="login">Login</string>
   <string name="login_failed_ticker">%s: aanmelden mislukt.</string>
   <string name="login_failed_title">Kan niet inloggen</string>
@@ -808,7 +808,7 @@ Cc: %4$s
   <string name="release_to_refresh">Loslaten om te vernieuwen</string>
   <string name="remote_folders_heading">Server mappen</string>
   <string name="remote_search">Alle e-mails op de server</string>
-  <string name="remote_search_result">%s e-mails gevonden op de server.</string>
+  <string name="remote_search_result">%s e-mails gevonden 10 e-mails gevonden van alle lokale e-mails op de server.</string>
   <string name="remove_account">Account verwijderen</string>
   <string name="remove_account_confirm">Het account \"%1$s\" wordt verwijderd van Mail.</string>
   <string name="remove_account_confirm_title">Account verwijderen</string>
@@ -835,6 +835,10 @@ Cc: %4$s
   <string name="search_results_header">Resultaten</string>
   <string name="search_results_loaded">%1$d</string>
   <string name="search_results_searching_header">Zoeken…</string>
+  <string name="search_tabs_name_all">Alle</string>
+  <string name="search_tabs_name_recipient">Ontvanger</string>
+  <string name="search_tabs_name_sender">Verzender</string>
+  <string name="search_tabs_name_subject">Onderwerp</string>
   <string name="search_title">Uniforme e-mail</string>
   <string name="search_txt_size_limit_prompt">Zoekwoord moet groter zijn dan 3 tekens</string>
   <string name="search_unsupported">Zoeken wordt niet ondersteund in dit account.</string>

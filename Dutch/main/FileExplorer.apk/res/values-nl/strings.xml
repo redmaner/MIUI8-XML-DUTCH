@@ -21,10 +21,10 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Documenten</string>
   <string name="category_favorite">Sterren</string>
-  <string name="category_log">Logs</string>
   <string name="category_music">Muziek</string>
   <string name="category_other">Overige</string>
   <string name="category_picture">"Foto's"</string>
+  <string name="category_recent">Recente</string>
   <string name="category_theme">"Thema's"</string>
   <string name="category_type_document">Documenten</string>
   <string name="category_type_meida">Media</string>
@@ -43,7 +43,7 @@
   <string name="compress_title">Comprimeer</string>
   <string name="confirm">Ok</string>
   <string name="confirm_know">OK</string>
-  <string name="connect_network_setting_des">Herinner me ervan wanneer ik op het internet ga</string>
+  <string name="connect_network_setting_des">Prompt voor internetverbinding</string>
   <string name="copy_failed">Kan niet kopiëren</string>
   <string name="copy_file_to_kuaipan">Kopieer het bestand naar KuaiPan</string>
   <string name="create_kuaipan_shortcut_pref">Plaats op startscherm</string>
@@ -121,7 +121,7 @@
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Niet genoeg ruimte.</string>
   <string name="kuaipan_prompt">Mededeling</string>
-  <string name="kuaipan_prompt_message">De server is down is voor onderhoud op het moment. Probeer het later opnieuw…."</string>
+  <string name="kuaipan_prompt_message">Helaas is onze server down op dit moment. Probeer het later opnieuw….</string>
   <string name="kuaipan_tech_support">Login at kuaipan.cn</string>
   <string name="load_err">Kan niet laden</string>
   <string name="loading">Laden…</string>
@@ -173,8 +173,8 @@
   <string name="name_illegal">Naam invullen.</string>
   <string name="net_lose_connected">Verbinding verbroken.</string>
   <string name="networkView_notConnected">Kan geen netwerkverbinding maken</string>
-  <string name="network_connect_confirm_des">Netwerk openen voor het gebruik van file explorer, akkoord?</string>
-  <string name="never_notify_network_connect">Niet meer weergeven </string>
+  <string name="network_connect_confirm_des">File Explorer moet verbinding maken met internet om normaal te werken</string>
+  <string name="never_notify_network_connect">Keuze onthouden</string>
   <string name="new_folder_name">Naamloze map</string>
   <string name="no">Nee</string>
   <string name="no_enough_storage_indication">Opslagruimte apparaat is vol.</string>
@@ -188,10 +188,10 @@
   <string name="notif_title">FTP server is actief</string>
   <string name="open_changed_file_message">Het bestand dat u probeert te openen is gewijzigd. 1. Download het bestand opnieuw om het bij te werken. 2. Upload het naar uw KuaiPan account.</string>
   <string name="open_changed_file_title">Verandering toegepast.</string>
-  <string name="open_file_failed">Openen mislukt</string>
+  <string name="open_file_failed">Kan niet worden geopend</string>
   <string name="operate_confirm_in_3g">Uw mobiele gegevensverbinding gebruiken om dit grote bestand te downloaden?</string>
   <string name="operating">Verwerken…</string>
-  <string name="operation_agree">Toestaan &amp; Doorgaan</string>
+  <string name="operation_agree">Toestaan</string>
   <string name="operation_cancel">Annuleren</string>
   <string name="operation_compress">Comprimeren</string>
   <string name="operation_compressing">Comprimeren…</string>
@@ -264,7 +264,7 @@
   <string name="storage_usb">USB opslag</string>
   <string name="storage_warning">Kan externe opslag niet gebruiken</string>
   <string name="sys_size_enable">Inschakelen</string>
-  <string name="system_alert">Opmerking</string>
+  <string name="system_alert">Internetverbinding</string>
   <string name="tab_category">Categorieën</string>
   <string name="tab_expand">Uitbreiden</string>
   <string name="tab_local">Lokaal</string>
