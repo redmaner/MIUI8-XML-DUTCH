@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="webview_matches_found">
-        <item quantity="other">%1$d van %2$d overeenkomsten</item>
+    <plurals name="last_num_days">
+        <item quantity="other">Laaste %d dagen</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d of %2$d</item>
         <item quantity="one">1 overeenkomst</item>
-    </plurals>
-    <plurals name="webview_last_num_days">
-        <item quantity="other">%d dagen geleden</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d overeenkomsten</item>
         <item quantity="one">%d overeenkomst</item>
     </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d items geblokkeerd</item>
         <item quantity="one">%d item geblokkeerd</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_pop">
-        <item quantity="other">%d populaire nummers</item>
-        <item quantity="one">%d populair nummer</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_albums">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">%d album</item>
-    </plurals>
-    <plurals name="suggest_access_item_album_songs">
-        <item quantity="other">%d nummers</item>
-        <item quantity="one">%d nummer</item>		
     </plurals>
 </resources>

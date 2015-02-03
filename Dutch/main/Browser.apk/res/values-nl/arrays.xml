@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="config_keySystemUuidMapping" />
     <string-array name="menu_theme_setting">
         <item>Wit</item>
         <item>Geel</item>
@@ -10,22 +11,22 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Standaard startpagina</item>
-        <item>Aangepaste</item>
+        <item>Aangepast</item>
     </string-array>
-    <string-array name="pref_volume_key_choices">
+	 <string-array name="pref_volume_key_choices">
         <item>Vorige pagina / Volgende pagina</item>
         <item>Vorige tabblad / Volgende tabblad</item>
     </string-array>
-    <string-array name="pref_fling_on_border_choices">
+	 <string-array name="pref_fling_on_border_choices">
         <item>Pagina vooruit / achteruit</item>
         <item>Verwissel van venster</item>
     </string-array>
-    <string-array name="pref_default_zoom_choices">
+	   <string-array name="pref_default_zoom_choices">
         <item>Klein</item>
         <item>Medium</item>
         <item>Groot</item>
     </string-array>
-    <string-array name="pref_images_preload_choices">
+	  <string-array name="pref_images_preload_choices">
         <item>Nooit</item>
         <item>Alleen bij Wi-Fi</item>
         <item>Altijd</item>
@@ -37,39 +38,32 @@
         <item>Groot</item>
         <item>Enorm</item>
     </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Nooit</item>
-        <item>Alleen bij Wi-Fi</item>
-        <item>Altijd</item>
+	    <string-array name="pre_webapp_text_sizes">
+        <item>Groter</item>
+        <item>Groot</item>
+        <item>Normaal</item>
+        <item>Klein</item>
     </string-array>
-    <string-array name="pref_link_prefetch_choices">
-        <item>Nooit</item>
-        <item>Alleen bij Wi-Fi</item>
-        <item>Altijd</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Nooit</item>
-        <item>Alleen bij Wi-Fi</item>
-        <item>Altijd</item>
-    </string-array>
-    <string-array name="pref_content_plugins_choices">
+	    <string-array name="pref_content_plugins_choices">
         <item>Altijd aan</item>
         <item>Eerst vragen</item>
         <item>Uit</item>
     </string-array>
-    <string-array name="pref_text_size_choices">
+	    <string-array name="pref_text_size_choices">
         <item>Uiterst klein</item>
         <item>Klein</item>
         <item>Normaal</item>
         <item>Groot</item>
         <item>Enorm</item>
     </string-array>
-    <string-array name="pref_development_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo N1</item>
-        <item>Honeycomb-Xoom</item>
+	    <string-array name="pref_data_preload_choices">
+        <item>Nooit</item>
+        <item>Alleen bij Wi-Fi</item>
+        <item>Altijd</item>
     </string-array>
-</resources>
+	    <string-array name="pref_link_prefetch_choices">
+        <item>Nooit</item>
+        <item>Alleen bij Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+	</resources>
