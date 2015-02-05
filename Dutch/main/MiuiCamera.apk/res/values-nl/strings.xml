@@ -8,6 +8,7 @@
   <string name="accessibility_panorama_review_cancel">Panorama Annuleren Opslaan</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
+  <string name="accessibility_setting_button">Extra instellings knop</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
   <string name="accessibility_skin_beautify_button">HuidVerfraaiKnop</string>
   <string name="accessibility_video_capture_button">VideoOpnameKnop</string>
@@ -21,6 +22,8 @@
   <string name="cannot_connect_camera_once">Kan geen verbinding maken met de camera</string>
   <string name="cannot_connect_camera_twice">Kan nog steeds geen verbinding maken met de camera. Probeer uw telefoon opnieuw te starten.</string>
   <string name="cannot_move_warning_message">Een foto nemen, houd het apparaat stil</string>
+  <string name="confirm_location_alert">Opslaglocatie info</string>
+  <string name="confirm_location_message">Wij stellen voor dat u de geografische locatie informatie opslaat bij het nemen van een foto, dan kunt u gemakkelijk bladeren en zoeken in foto's op geografische locatie.</string>
   <string name="confirm_location_message">"Label uw foto's en videos met de locaties waar ze gemaakt zijn?"</string>
   <string name="confirm_location_title">Opslaglocatie info</string>
   <string name="confirm_restore_message">Herstellen standaard Camera instellingen ?</string>
@@ -50,7 +53,6 @@
   <string name="face_beauty_intelligent_level_3">Hoog</string>
   <string name="find_other_qrcode">Zoek een andere QR code</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="no_save">Nee bedankt</string>
   <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt</string>
   <string name="not_enough_space">Intern geheugen is vol</string>
   <string name="object_track_enable_toast">Schuif over voorbeeldscherm om mogelijk te maken het voorwerp te volgen.</string>
@@ -184,9 +186,6 @@
   <string name="pref_camera_multilevel_entry_lowest">Laagst</string>
   <string name="pref_camera_multilevel_entry_middle">Gemiddeld(standaard)</string>
   <string name="pref_camera_multilevel_entry_normal">Normaal</string>
-  <string name="pref_camera_multiple_face_beauty_entry_off">1 persoon</string>
-  <string name="pref_camera_multiple_face_beauty_entry_on">2 mensen</string>
-  <string name="pref_camera_multiple_face_beauty_title">Markeer huidtinten</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -315,7 +314,6 @@
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
   <string name="preparing_sd">Voorbereiden van interne opslag…</string>
   <string name="record_back_pressed_hint">Raak aan om opname te stoppen</string>
-  <string name="save">Ja</string>
   <string name="see_qrcode_detals">Weergeven details</string>
   <string name="setting_top_text">Camera modi</string>
   <string name="simple_mode_button_asd_flash">Sluit Flash opname</string>
@@ -336,6 +334,7 @@
   <string name="snapshot_lower_than_video">Video Snapshot resolutie lager is dan grootte van de video. Aftoppen naar Video grootte. Selecteer een resolutie hoger of gelijk is aan de huidige grootte van de video.</string>
   <string name="snapshotsize_low_powermode">Resolutie wordt niet ondersteund door uw huidige energiebeheer instellingen. Video formaat zal worden gebruikt.</string>
   <string name="spaceIsLow_content">Er is bijna geen ruimte meer op de USB opslag  </string>
+  <string name="start_capture">Start met foto te nemen</string>
   <string name="tap_to_exposure">Aanraken om de belichting handmatig in te stellen</string>
   <string name="tap_to_focus">Aanraken om scherp te stellen</string>
   <string name="time_lapse_error">Kan deze video grootte voor time lapse opname niet gebruiken</string>

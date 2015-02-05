@@ -33,7 +33,7 @@
   <string name="data_usage_limit_body">Aanraken om dataverbruik details weer te geven</string>
   <string name="data_usage_limit_snoozed_body">U heeft uw datalimiet bereikt</string>
   <string name="data_usage_mobile_limit_snoozed_title">Datalimiet overschreden</string>
-  <string name="data_usage_mobile_limit_title">Mobiele data is uitgeschakeld</string>
+  <string name="data_usage_mobile_limit_title">Mobiele data limiet bereikt</string>
   <string name="data_usage_no_total_package_body">Wilt u een datalimiet instellen?.</string>
   <string name="data_usage_no_total_package_body_dual">Wilt u een datalimiet instellen voor %s.</string>
   <string name="data_usage_no_total_package_title">Dataverbruik</string>
@@ -248,7 +248,7 @@
   <string name="privacy_declare_dialog_message">"Door het gebruik van deze dienst, gaat u akkoord met Opera's &lt;a href=%s&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
   <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en carrier details zullen om uw dataverbruik informatie bij te werken worden geüpload naar de servers van Xiaomi.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om SMSquery templates te updaten en om te controleren of deze functie beschikbaar is in uw regio.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Deze functie dient apparaat IMEI, telefoonnummer en provider informatie naar de servers van Mi te sturen om dataverbruik statistieken van uw provider te verkrijgen.</string>
   <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om meer info over data inkoop opties te krijgen.</string>
   <string name="privacy_prompt_upload">Privacy notification</string>
   <string name="reach_daily_limit_value_body">Verminder het mobiele data verbruik.</string>
@@ -332,7 +332,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_limit_error_alert_title">Data limiets herinnering %s</string>
   <string name="traffic_none">Geen</string>
   <string name="traffic_over_purchase_body">Aanraken om details weer te geven.</string>
-  <string name="traffic_over_purchase_link">"Je hebt dataverbruiks limiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Herlaad nu om 50% te besparen.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Je hebt dataverbruiks limiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tik om je saldo bij te vullen.&lt;/U&gt;&lt;/font&gt;""</string>
   <string name="traffic_over_purchase_title">Dataverbruiks limiet overschreden</string>
   <string name="traffic_protection_data_usage_summary">Verbruik buiten uw databundel kan leiden tot extra kosten.</string>
   <string name="traffic_protection_label">Dataverbruik waarschuwing</string>
@@ -400,7 +400,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_setting_open">Aan</string>
   <string name="traffic_setting_step_num">Instellingen Data plan</string>
   <string name="traffic_setting_update_template_falure">Kan niet verbinden met netwerk</string>
-  <string name="traffic_warning_purchase_title">Overgebleven saldo is minder dan %d%%</string>
+  <string name="traffic_warning_purchase_title">Mobiele data verbruiks waarschuwing</string>
   <string name="usage_sorted_activity_lable">Dataverbruik</string>
   <string name="usage_sorted_empty_text">Leeg</string>
   <string name="usage_sorted_loading_text">Laden…</string>
