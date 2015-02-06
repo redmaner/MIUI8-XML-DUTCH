@@ -22,8 +22,10 @@
   <string name="cannot_connect_camera_once">Kan geen verbinding maken met de camera</string>
   <string name="cannot_connect_camera_twice">Kan nog steeds geen verbinding maken met de camera. Probeer uw telefoon opnieuw te starten.</string>
   <string name="cannot_move_warning_message">Een foto nemen, houd het apparaat stil</string>
-  <string name="confirm_location_alert">Opslaglocatie info</string>
-  <string name="confirm_location_message">Wij stellen voor dat u de geografische locatie informatie opslaat bij het nemen van een foto, dan kunt u gemakkelijk bladeren en zoeken in foto's op geografische locatie.</string>
+  <string name="confirm_location_alert">Fotolocatie onthouden</string>
+  <string name="confirm_location_message">"Tag je foto's en video's met de locaties waar ze zijn genomen.
+  
+  Andere apps hebben toegang tot deze informatie samen met uw opgeslagen afbeeldingen."</string>
   <string name="confirm_location_message">"Label uw foto's en videos met de locaties waar ze gemaakt zijn?"</string>
   <string name="confirm_location_title">Opslaglocatie info</string>
   <string name="confirm_restore_message">Herstellen standaard Camera instellingen ?</string>
@@ -334,7 +336,7 @@
   <string name="snapshot_lower_than_video">Video Snapshot resolutie lager is dan grootte van de video. Aftoppen naar Video grootte. Selecteer een resolutie hoger of gelijk is aan de huidige grootte van de video.</string>
   <string name="snapshotsize_low_powermode">Resolutie wordt niet ondersteund door uw huidige energiebeheer instellingen. Video formaat zal worden gebruikt.</string>
   <string name="spaceIsLow_content">Er is bijna geen ruimte meer op de USB opslag  </string>
-  <string name="start_capture">Start met foto te nemen</string>
+  <string name="start_capture">Ok</string>
   <string name="tap_to_exposure">Aanraken om de belichting handmatig in te stellen</string>
   <string name="tap_to_focus">Aanraken om scherp te stellen</string>
   <string name="time_lapse_error">Kan deze video grootte voor time lapse opname niet gebruiken</string>

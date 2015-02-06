@@ -661,6 +661,7 @@ Cc: %4$s
   <string name="outbox_alert_button_confirm">Bewerken</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
+  <string name="outbox_alert_certificate_error">E-mail certificaat uitzondering, gelieve te updaten</string>
   <string name="outbox_alert_description_auth_error">Oorzaak: Auth fout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_http_error">Oorzaak: HTTP fout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_provision_error">Oorzaak: Provisie fout van de server tijdens het sync. van Postvak Uit </string>
@@ -669,6 +670,7 @@ Cc: %4$s
   <string name="outbox_alert_edit_resend">Bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_failed_edit_resend">Verzenden mislukt, bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_mailbox_not_found">E-mailadres niet gevonden</string>
+  <string name="outbox_alert_rw_io_error">Mail lezen en schrijven uitzondering, opnieuw schrijven en versturen</string>
   <string name="outbox_alert_select_operation">Selecteer actie</string>
   <string name="outbox_alert_title_sent_failed">Kon mail niet verzenden</string>
   <string name="outbox_no_mails">Geen mails in Postvak UIT</string>
@@ -827,6 +829,7 @@ Cc: %4$s
   <string name="save_action">Opslaan</string>
   <string name="save_attachment">Opslaan</string>
   <string name="save_draft">Concept opslaan</string>
+  <string name="save_draft_failed">Concept opslaan mislukt</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="search_attachment">Zoeken</string>
