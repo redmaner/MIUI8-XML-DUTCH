@@ -8,6 +8,7 @@
   <string name="action_bath">Bad</string>
   <string name="action_bike">Fietsen</string>
   <string name="action_brush_tooth">Tanden poetsen</string>
+  <string name="action_bus">bus</string>
   <string name="action_exit">Afsluiten</string>
   <string name="action_local_ota">Update pakket kiezen</string>
   <string name="action_mark">Gedrag van Tagging</string>
@@ -21,9 +22,13 @@
   <string name="action_pop_unlock_screen">Scherm deblokkeren</string>
   <string name="action_pop_weixin_enter">Toevoegen Wechat</string>
   <string name="action_run">Lopen</string>
+  <string name="action_scan_friend">QR Code</string>
   <string name="action_settings">Instellingen</string>
+  <string name="action_sit">sit</string>
   <string name="action_sleep">Slapen</string>
+  <string name="action_stand">stand</string>
   <string name="action_walk">Wandelen</string>
+  <string name="add_family_member">添加家庭成员</string>
   <string name="agree">Toestaan</string>
   <string name="alarm">Alarm</string>
   <string name="alarm_cycle">Herhaal</string>
@@ -120,10 +125,22 @@
   <string name="connecting">Verbinden…</string>
   <string name="content_too_short">Inhoud ontbreekt.</string>
   <string name="continue_reach_goal">Bereik doel</string>
+  <string name="continue_reach_goal_days">"Longest 
+streak"</string>
   <string name="continue_reach_goal_new_record">Maak een nieuwe prestatie</string>
   <string name="continue_tips_format">Je beste prestatie is je doel bereiken voor %1$s dagen.</string>
+  <string name="daily_consume">Consumed today（Cal）</string>
+  <string name="daily_sport_report">Daily sport result</string>
+  <string name="daily_sport_report_contintue_info">"%1$s lazy days left,
+ personal record is %2$s days"</string>
+  <string name="daily_sport_report_notify">Today walked %s, excellent!</string>
+  <string name="daily_sport_report_notify_content">Click to see the results.</string>
+  <string name="daily_sport_report_notify_hurry">"Need %1$s steps to reach today's goal!"</string>
+  <string name="daily_sport_report_week_info">"Walked %1$s steps.
+saved %2$s gallons of gas"</string>
   <string name="daily_sporty">Stappen per</string>
   <string name="data_loading">Laden…een momentje</string>
+  <string name="data_not_supported">--</string>
   <string name="date_from_to">%1$s naar %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Laatste maand</string>
@@ -142,7 +159,10 @@
   <string name="day">dagen</string>
   <string name="day_active_detail">Dagelijkse details</string>
   <string name="debug_host_label">Een test host adres toevoegen:</string>
+  <string name="del_family_member">确认删除家庭成员?</string>
+  <string name="del_family_member_content">删除家庭成员会同步删除名下所有的称重纪录，并且无法恢复，确认继续?</string>
   <string name="delete">Delete</string>
+  <string name="delete_family_member">删除家庭成员</string>
   <string name="device_list">In de omgeving van Mi Banden</string>
   <string name="device_not_found">Device not found</string>
   <string name="device_not_found_not_knocked">Gelieve opnieuw zoeken na het tikken Mi Band eens hij knippert.</string>
@@ -197,8 +217,11 @@
   <string name="dynamic_title_weight_unbind">Ontkoppelde weegschalen</string>
   <string name="enable_debug_log">Debug mode geopend！</string>
   <string name="enable_hidden_feature">Verborgen activiteit ingeschakeld</string>
+  <string name="equals_fat">"Equals to burn 
+%1$s grams of fat."</string>
   <string name="error_code">Fout</string>
   <string name="everyday">Alle dagen</string>
+  <string name="exceed_user">Exceed user</string>
   <string name="exit_app">Afsluiten</string>
   <string name="exit_app_continue">Doorgaan</string>
   <string name="exit_app_tips">"Ben je zeker dat je wilt uitloggen? Verbinding zal verloren gaan na het uitloggen.</string>
@@ -371,6 +394,7 @@ Mi Fit toevoegen aan de witte lijst van de 3rd party manager als die bestaat."</
   <string name="lab_factory_sport_vote_result_sub_desc">U koos voor</string>
   <string name="lab_factory_sport_vote_sub_desc">Binnenkort</string>
   <string name="lab_factory_title">Extra functies</string>
+  <string name="label_runner_group">Runner Club</string>
   <string name="left_hand">Links</string>
   <string name="light_color">LED licht kleur</string>
   <string name="light_color_title">Geeft lichtkleur aan voor de trainings vooruitgang</string>
@@ -386,6 +410,7 @@ Mi Fit toevoegen aan de witte lijst van de 3rd party manager als die bestaat."</
   <string name="male">Mannelijk</string>
   <string name="marathon_format_0">"Is ongeveer %1$s marathons"</string>
   <string name="marathon_format_1">"Is meer dan %1$s marathons"</string>
+  <string name="mi_band">Mi Band</string>
   <string name="mili_exit_login_info">U staat op het punt om uit te loggen bij je Mi Account. Wilt u doorgaan?</string>
   <string name="mili_exit_login_info_continue">Sync. mislukt , controleer de netwerkverbinding. Als u ervoor kiest om af te sluiten, zult u de gegevens verliezen die niet gesynchroniseerd zijn. Weet je zeker dat je wilt afsluiten?</string>
   <string name="mili_exit_login_info_continue_tip">Weet je zeker dat wilt doorgaan?</string>
@@ -520,6 +545,8 @@ Mi Fit toevoegen aan de witte lijst van de 3rd party manager als die bestaat."</
 Tweaked by dezmen3
 Notificaties by mksaint13"</string>
   <string name="setting_about_fw">Firmware versie </string>
+  <string name="setting_daily_sport_notify">Daily sport result notify</string>
+  <string name="setting_daily_sport_notify_info">Remind me at 9:30PM.</string>
   <string name="setting_feedback_address">Hoe kunnen we je bereiken?</string>
   <string name="setting_feedback_hint">Bedankt voor de feedback.</string>
   <string name="setting_feedback_send">Verzenden</string>
@@ -615,6 +642,7 @@ Notificaties by mksaint13"</string>
   <string name="sport_running_history_no_data">Geen data</string>
   <string name="sport_running_history_no_data_refresh">Geen data. Klik op vernieuwen.</string>
   <string name="sport_running_history_no_data_refreshing">Vernieuwen. Een momentje…</string>
+  <string name="sport_running_history_no_more_data">No more data</string>
   <string name="sport_running_history_title">Geschiedenis</string>
   <string name="sport_running_kilometers">km</string>
   <string name="sport_running_kilometers_per_hour">km/h</string>
@@ -718,9 +746,19 @@ Notificaties by mksaint13"</string>
   <string name="system_low_title">Update uw systeem.</string>
   <string name="system_not_support_info">Om Mi Band gebruiken, moet je de telefoon updaten. Alleen Android 4.4 of hoger ondersteunen Mi Band.</string>
   <string name="system_not_support_title">Niet ondersteunt.</string>
+  <string name="tag_action_tips">在%s的过程中，请确保手环和手机保持在5米的范围内，并且中间不要隔墙，以确保标注成功。</string>
+  <string name="tag_connection">正在连接手环</string>
+  <string name="tag_connection_f">连接失败，点击重试</string>
+  <string name="tag_connection_f1">请将手环靠近手机</string>
   <string name="tag_data_collecting">Gegevens verzamelen, wachten…</string>
+  <string name="tag_doing_label">%s中…</string>
+  <string name="tag_error_notice">"手环与app连接断开，标注失败，请确保手环
+与app在5米以内，且不隔墙,再次开始标注"</string>
+  <string name="tag_reconnect_notice">Bracelet reconnected, please try again!</string>
+  <string name="tag_waiting">请稍后………</string>
   <string name="time_format_hour_min">%1$sh %2$sm</string>
   <string name="time_format_min">%s min</string>
+  <string name="title_action_tag_agreement">Behavior Tagging Agreement</string>
   <string name="title_activity_mark">MarkData</string>
   <string name="title_activity_open">Partner Bind Pagina</string>
   <string name="title_activity_tag_data">TagDataActiviteit</string>
@@ -730,7 +768,9 @@ Notificaties by mksaint13"</string>
   <string name="toast_behavior_tag_failed">Gedrag gegevens verzamelen mislukt!</string>
   <string name="toast_disable_behavior_tag">Gedrag tag functie uitschakelen！</string>
   <string name="toast_enable_behavior_tag">Gedrag tag functie inschakelen！</string>
+  <string name="toast_url_parse_error">Url format is error!</string>
   <string name="today">Vandaag</string>
+  <string name="today_steps">Today steps</string>
   <string name="unbind">Loskoppelen</string>
   <string name="unbind_mili">Loskoppelen</string>
   <string name="unbind_short">Loskoppelen</string>
@@ -762,6 +802,7 @@ Notificaties by mksaint13"</string>
   <string name="unlock_screen_help_title0">Was Mi Band dicht genoeg bij de telefoon?</string>
   <string name="unlock_screen_help_title1">Herstart Bluetooth</string>
   <string name="unlock_screen_help_title2">Herstart scherm beveiliging</string>
+  <string name="unlock_screen_help_title3">Reboot and try again</string>
   <string name="unlock_screen_invalid">Wat kan ik doen als ik niet in staat ben om te ontgrendelen?</string>
   <string name="unlock_screen_invalid_helper">Niet in staat om het scherm te ontgrendelen met de Mi Band?</string>
   <string name="unlock_screen_miui_version_low">Update naar de huidige MIUI versie.</string>
@@ -805,6 +846,7 @@ Notificaties by mksaint13"</string>
   <string name="weather_description_sand">Fijn stof,</string>
   <string name="weather_description_snow">Sneeuw,</string>
   <string name="week"/>
+  <string name="week_total_distance">Week distance（Km）</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
   <string name="weight_delete_confirm_msg">%s gewichts record?</string>
   <string name="weight_delete_confirm_title">Bevestigen om te verwijderen</string>
@@ -834,6 +876,9 @@ Notificaties by mksaint13"</string>
   <string name="weight_not_found_info">Blijf dicht bij de weegschaal</string>
   <string name="weight_not_found_title">Weegschaal niet gevonden</string>
   <string name="weight_not_response">Geen reactie van de weegschaal</string>
+  <string name="weight_overload_confirm">知道了</string>
+  <string name="weight_overload_content">目前小米体重秤最大可称量150公斤, 超出此标准的重量级人物只能对不起啦</string>
+  <string name="weight_overload_title">超出测量最大值</string>
   <string name="weight_report_suggest">Aanbeveling:</string>
   <string name="weight_report_user_info_header">%1$s meetrapport</string>
   <string name="weight_scale">Weegschaal</string>
