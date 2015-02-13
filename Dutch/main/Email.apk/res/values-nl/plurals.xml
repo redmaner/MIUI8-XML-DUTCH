@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="move_conversation">
-        <item quantity="other">%1$d conversaties verplaatsen</item>
-        <item quantity="one">Conversatie verplaatsen</item>
-    </plurals>
     <plurals name="draft">
         <item quantity="other">Concepten</item>
         <item quantity="one">Concept</item>
@@ -56,22 +52,12 @@
         <item quantity="other">Mappen gewijzigd.</item>
         <item quantity="one">Map gewijzigd.</item>
     </plurals>
-    <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d nieuwe berichten. Weergeven.</item>
-    </plurals>
-    <plurals name="show_messages_read">
-        <item quantity="other">%1$d oudere berichten</item>
-    </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d ongelezen</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d berichten worden permanent verwijderd.</item>
         <item quantity="one">%1$d bericht wordt permanent verwijderd.</item>
-    </plurals>
-    <plurals name="move_messages">
-        <item quantity="other">Berichten verplaatsen</item>
-        <item quantity="one">Bericht verplaatsen</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d B</item>
@@ -88,10 +74,6 @@
     <plurals name="message_view_attachment_gigabytes">
         <item quantity="other">%d GB</item>
         <item quantity="one">%d GB</item>
-    </plurals>
-    <plurals name="conversation_folder_changed">
-        <item quantity="other">Gewijzigde mappen.</item>
-        <item quantity="one">Gewijzigde map.</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Verplaats %1$d conversaties</item>
