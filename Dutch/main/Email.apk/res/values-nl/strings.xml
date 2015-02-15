@@ -15,7 +15,7 @@
   <string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
-  <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account '%s'."</string>
+  <string name="account_duplicate_dlg_message_fmt">U gebruikt deze gebruikersnaam al voor het account \"%s\".</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_folder_list_summary_drafts">Concepten</string>
   <string name="account_folder_list_summary_inbox">Postvak IN</string>
@@ -506,7 +506,7 @@
   <string name="inline_picture_deleted">Kan de afbeelding niet vinden, downloaden…</string>
   <string name="inline_picture_download_complete">inline afbeeldingsdownload voltooid</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
-  <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
+  <string name="invalid_recipient">Het adres \"%s\" is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers Error</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -678,7 +678,7 @@ Cc: %4$s
   <string name="password_expire_warning_content_title">Wachtwoord schermvergrendeling bijna verlopen</string>
   <string name="password_expire_warning_dialog_content_fmt">U moet uw PIN code of wachtwoord voor schermvergrendeling snel wijzigen of de gegevens voor %s worden gewist. Nu wijzigen?</string>
   <string name="password_expire_warning_dialog_title">Wachtwoord schermvergrendeling bijna verlopen</string>
-  <string name="password_expire_warning_ticker_fmt">"Voor '%s' moet u uw pincode of wachtwoord voor schermvergrendeling wijzigen."</string>
+  <string name="password_expire_warning_ticker_fmt">Voor \"%s\" moet u uw pincode of wachtwoord voor schermvergrendeling wijzigen.</string>
   <string name="password_expired_content_title">Wachtwoord schermvergrendeling verlopen</string>
   <string name="password_expired_dialog_content_fmt">De gegevens voor %s worden gewist op uw apparaat. U kunt het account herstellen door uw PIN code of wachtwoord voor schermvergrendeling te wijzigen. Nu wijzigen?</string>
   <string name="password_expired_dialog_title">Wachtwoord schermvergrendeling verlopen</string>
@@ -844,12 +844,12 @@ Cc: %4$s
   <string name="search_title">Uniforme e-mail</string>
   <string name="search_txt_size_limit_prompt">Zoekwoord moet groter zijn dan 3 tekens</string>
   <string name="search_unsupported">Zoeken wordt niet ondersteund in dit account.</string>
-  <string name="security_changed_ticker_fmt">"De beveiligingsinstellingen van het account '%s' zijn gewijzigd, er is geen gebruikersactie vereist."</string>
-  <string name="security_needed_ticker_fmt">"Account '%s' vereist een update van de beveiligingsinstellingen."</string>
+  <string name="security_changed_ticker_fmt">"De beveiligingsinstellingen van het account \"%s\" zijn gewijzigd, er is geen gebruikersactie vereist."</string>
+  <string name="security_needed_ticker_fmt">Account \"%s\" vereist een update van de beveiligingsinstellingen.</string>
   <string name="security_notification_content_change_title">Beveiligingsbeleid gewijzigd</string>
   <string name="security_notification_content_unsupported_title">Beveiligingsbeleid niet voldaan</string>
   <string name="security_notification_content_update_title">Beveiligingsupdate vereist</string>
-  <string name="security_unsupported_ticker_fmt">"Account '%s' kan niet worden gesynchroniseerd wegens beveiligingsvereisten."</string>
+  <string name="security_unsupported_ticker_fmt">Account \"%s\" kan niet worden gesynchroniseerd wegens beveiligingsvereisten.</string>
   <string name="select_attachment_type">Bijlagetype selecteren</string>
   <string name="select_no_file">Geen geselecteerde bijlagen om te delen</string>
   <string name="send">Verzenden</string>
