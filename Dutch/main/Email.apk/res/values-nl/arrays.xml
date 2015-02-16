@@ -1,17 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="compose_modes">
         <item>Beantwoorden</item>
         <item>Allen beantwoorden</item>
         <item>Doorsturen</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>Geslaagd</item>
-        <item>Geen verbinding.</item>
-        <item>Kan niet inloggen.</item>
-        <item>Beveiligingsfout.</item>
-        <item>Kan niet synchroniseren.</item>
-        <item>Interne fout</item>
+    <string-array name="general_preference_text_zoom_size">
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Heel kleine tekst</item>
+        <item>Kleine tekst</item>
+        <item>Normale tekst</item>
+        <item>Grote tekst</item>
+        <item>Heel grote tekst</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#fff16364</item>
+        <item>#fff58559</item>
+        <item>#fff9a43e</item>
+        <item>#ffe4c62e</item>
+        <item>#ff67bf74</item>
+        <item>#ff59a2be</item>
+        <item>#ff2093cd</item>
+        <item>#ffad62a7</item>
+    </array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recent</item>
+        <item>Indeling</item>
+        <item>Naam</item>
+        <item>Afzender</item>
+        <item>Datum</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Systeem</item>
@@ -23,34 +46,55 @@
         <item>Ouder</item>
         <item>Conversatielijst</item>
     </string-array>
-    <string-array name="prefSummaries_autoAdvance">
-        <item>Nieuwere conversatie weergeven na het verwijderen</item>
-        <item>Oudere conversatie weergeven na het verwijderen</item>
-        <item>Conversatielijst weergeven na het verwijderen</item>
-    </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Alleen archief weergeven</item>
         <item>Alleen verwijderen weergeven</item>
         <item>Archief en verwijderen weergeven</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Nieuwere conversatie weergeven na het verwijderen</item>
+        <item>Oudere conversatie weergeven na het verwijderen</item>
+        <item>Conversatielijst weergeven na het verwijderen</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>Alleen archief weergeven</item>
         <item>Alleen verwijderen weergeven</item>
         <item>Archief en verwijderen weergeven</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Heel kleine tekst</item>
-        <item>Kleine tekst</item>
-        <item>Normale tekst</item>
-        <item>Grote tekst</item>
-        <item>Heel grote tekst</item>
+    <integer-array name="senders_lengths">
+        <item>27</item>
+        <item>27</item>
+    </integer-array>
+    <integer-array name="senders_with_attachment_lengths">
+        <item>25</item>
+        <item>25</item>
+    </integer-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>Email:</item>
+        <item>mobile:</item>
+        <item>Phone:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
     </string-array>
-    <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recent</item>
-        <item>Indeling</item>
-        <item>Naam</item>
-        <item>Afzender</item>
-        <item>Datum</item>
+    <string-array name="signature_normal_string_array_next">
+        <item>Address:</item>
+        <item>Tel:</item>
+        <item>Name:</item>
+        <item>Email:</item>
+        <item>Mobile:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Postal Code:</item>
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Gebruiksvoorwaarden:</item>
@@ -71,5 +115,18 @@
         <item>Deze e-mail</item>
         <item>Gebruiksvoorwaarden</item>
         <item>E-mail Gebruiksvoorwaarden</item>
+    </string-array>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Geslaagd</item>
+        <item>Geen verbinding.</item>
+        <item>Kan niet inloggen.</item>
+        <item>Beveiligingsfout.</item>
+        <item>Kan niet synchroniseren.</item>
+        <item>Interne fout</item>
     </string-array>
 </resources>

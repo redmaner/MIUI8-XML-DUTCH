@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="show_dev_countdown">
         <item quantity="other">U moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
@@ -39,5 +39,17 @@
     <plurals name="print_search_result_count_utterance">
         <item quantity="other">%1$s printers gevonden</item>
         <item quantity="one">%1$s printer gevonden</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">"You're %1$d steps away from entering phone info."</item>
+        <item quantity="one">"You're %1$d step away from entering phone info."</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">"You're %1$d steps away from entering CIT."</item>
+        <item quantity="one">"You're %1$d step away from entering CIT."</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">"You're %1$d steps away from reporting bug."</item>
+        <item quantity="one">"You're %1$d step away from reporting bug."</item>
     </plurals>
 </resources>

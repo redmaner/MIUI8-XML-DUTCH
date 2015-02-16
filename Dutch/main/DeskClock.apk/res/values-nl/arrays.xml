@@ -1,10 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="timer_notifications">
-        <item>Minder dan een minuut resterend</item>
-        <item>%1$s resterend</item>
-        <item>%2$s resterend</item>
-        <item>%1$s %2$s resterend</item>
+    <string-array name="alarm_in_furture">
+        <item>Alarm in less than 1 minute</item>
+        <item>Alarm in %1$s</item>
+        <item>Alarm in %2$s</item>
+        <item>Alarm in %1$s %2$s</item>
+        <item>Alarm in %3$s</item>
+        <item>Alarm in %1$s %3$s</item>
+        <item>Alarm in %2$s %3$s</item>
+        <item>Alarm in %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Yesterday</item>
+        <item>Today</item>
+        <item>Tomorrow</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Work days</item>
+        <item>Mon to Fri</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Fri</item>
+        <item>Custom</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Alarm is ingesteld voor minder dan 1 minuut vanaf nu.</item>
@@ -15,6 +37,15 @@
         <item>Alarm is ingesteld voor %1$s en %3$s vanaf nu.</item>
         <item>Alarm is ingesteld voor %2$s en %3$s vanaf nu.</item>
         <item>Alarm is ingesteld voor %1$s, %2$s en %3$s vanaf nu.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>5 minuten</item>
@@ -29,21 +60,5 @@
         <item>Snooze</item>
         <item>Sluiten</item>
         <item>Niets doen</item>
-    </string-array>
-    <string-array name="sw_share_strings">
-        <item>U bent wel erg snel.</item>
-        <item>Profiteer van uw inspanningen.</item>
-        <item>Androids staan bekend om hun snelheid, maar u bent nog sneller.</item>
-        <item>Oef.</item>
-        <item>Mooie tijden.</item>
-        <item>Wat een wonderbaarlijke snelheid.</item>
-        <item>Laten we weer gaan tijdreizen.</item>
-        <item>Spring gewoon naar links.</item>
-        <item>Haast zit in uw aard.</item>
-        <item>Lichtsnelheid.</item>
-    </string-array>
-    <string-array name="clock_style_entries">
-        <item>Analoog</item>
-        <item>Digitaal</item>
     </string-array>
 </resources>

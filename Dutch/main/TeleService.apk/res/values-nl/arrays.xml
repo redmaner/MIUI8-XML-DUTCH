@@ -1,9 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="clir_display_values">
-        <item>Netwerkstandaard</item>
-        <item>Nummer verbergen</item>
-        <item>Nummer weergeven</item>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="ims_call_cap_types">
+        <item>Voice</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Voice</item>
+        <item>Video</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Video</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Voice</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="cs_call_type">
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Triple mode</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple mode</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/WCDMA</item>
@@ -20,15 +51,6 @@
         <item>Alleen GSM</item>
         <item>Voorkeur voor GSM/WCDMA</item>
     </string-array>
-    <string-array name="list_language_entries">
-        <item>Engels</item>
-        <item>Frans</item>
-        <item>Spaans</item>
-        <item>Japans</item>
-        <item>Koreaans</item>
-        <item>Chinees</item>
-        <item>Hebreeuws</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Alleen thuis</item>
         <item>Automatisch</item>
@@ -37,14 +59,13 @@
         <item>UIM/SIM</item>
         <item>NV</item>
     </string-array>
-    <string-array name="tty_mode_entries">
-        <item>TTY uit</item>
-        <item>TTY vol</item>
-        <item>TTY HCO</item>
-        <item>TTY VCO</item>
-    </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Normaal</item>
-        <item>Lang</item>
+    <string-array name="list_language_entries">
+        <item>Engels</item>
+        <item>Frans</item>
+        <item>Spaans</item>
+        <item>Japans</item>
+        <item>Koreaans</item>
+        <item>Chinees</item>
+        <item>Hebreeuws</item>
     </string-array>
 </resources>
