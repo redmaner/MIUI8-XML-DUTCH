@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto's in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Delete %s photos?</item>
-        <item quantity="one">Delete %s photo?</item>
+        <item quantity="other">"%s foto's verwijderen?"</item>
+        <item quantity="one">%s foto verwijderen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Delete %s videos?</item>
-        <item quantity="one">Delete %s video?</item>
+        <item quantity="other">%s videos verwijderen?</item>
+        <item quantity="one">%s video verwijderen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto's in beide &amp;lt;font color=#323232>&amp;lt;b>local in de cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto in beide &amp;lt;font color=#323232>&amp;lt;b>local in de cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in beide &amp;lt;font color=#323232>&amp;lt;b>lokaal in de  cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video in beide &amp;lt;font color=#323232>&amp;lt;b>lokaal in de cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="zero">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
@@ -35,33 +35,33 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="how_many_pics">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="how_many_videos">
         <item quantity="other">%d videos</item>
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="how_many_sub_folders">
-        <item quantity="other">%d folders</item>
-        <item quantity="one">%d folder</item>
+        <item quantity="other">%d mappen</item>
+        <item quantity="one">%d map</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"You don't have permission to delete these %d files."</item>
-        <item quantity="one">"You don't have permission to delete these %d file."</item>
+        <item quantity="other">"Je heb geen toestemming om deze %d bestanden te verwijderen."</item>
+        <item quantity="one">"Je heb geen toestemming om dit %d bestand te verwijderen."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">You can select %d items</item>
-        <item quantity="one">You can select %d item</item>
+        <item quantity="other">Je kan deze artikelen %d niet selecteren</item>
+        <item quantity="one">Je kan dit artikel %d niet selecteren</item>
     </plurals>
     <plurals name="number_of_images">
-        <item quantity="other">%1$d pictures</item>
-        <item quantity="zero">%1$d pictures</item>
-        <item quantity="one">%1$d picture</item>
+        <item quantity="other">"%1$d foto's"</item>
+        <item quantity="zero">"%1$d foto's"</item>
+        <item quantity="one">%1$d foto</item>
     </plurals>
     <plurals name="number_of_items">
-        <item quantity="other">%1$d items</item>
-        <item quantity="zero">%1$d items</item>
-        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d artikelen</item>
+        <item quantity="zero">%1$d artikelen</item>
+        <item quantity="one">%1$d artikel</item>
     </plurals>
 </resources>

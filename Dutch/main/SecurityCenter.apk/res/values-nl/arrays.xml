@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="cache_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>Grootte</item>
+        <item>Naam</item>
     </string-array>
     <string-array name="large_file_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>Grootte</item>
+        <item>Naam</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Frequently used</item>
-        <item>Size</item>
+        <item>Frequent gebruikt</item>
+        <item>Grootte</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Everyday</item>
-        <item>Every 3 days</item>
-        <item>Every 7 days</item>
+        <item>Dagelijks</item>
+        <item>Alle 3 dagen</item>
+        <item>Alle 7 dagen</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100MB</item>
@@ -24,56 +24,56 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Prompt with notification</item>
-        <item>Clean in background</item>
-        <item>Show notification after clean</item>
+        <item>Prompt met notificatie</item>
+        <item>Opruimen op de achtergrond</item>
+        <item>Toon notificatie na opruimen</item>
     </string-array>
     <string-array name="auto_memory_clean">
-        <item>In 1 minute</item>
-        <item>In 5 minutes</item>
-        <item>In 10 minutes</item>
-        <item>Never</item>
+        <item>Binnen 1 minuut</item>
+        <item>Binnen 5 minuten</item>
+        <item>Binnen 10 minuten</item>
+        <item>Nooit</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>After 1 minute</item>
-        <item>After 5 minutes</item>
-        <item>After 10 minutes</item>
-        <item>Never</item>
+        <item>Na 1 minuut</item>
+        <item>Na 5 minuten</item>
+        <item>Na 10 minuten</item>
+        <item>Nooit</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>Never</item>
+        <item>15 seconden</item>
+        <item>30 seconden</item>
+        <item>1 minuut</item>
+        <item>2 minuten</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>Nooit</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>High performance</item>
-        <item>Balanced</item>
+        <item>Hoge prestaties</item>
+        <item>Gebalanceerd</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Turn off</item>
-        <item>Turn on</item>
-        <item>"Don't change"</item>
+        <item>Uitschakelen</item>
+        <item>Inschakelen</item>
+        <item>Niets veranderen</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-        <item>Never vibrate</item>
-        <item>Vibrate when ringer is silenced</item>
-        <item>Always vibrate</item>
+        <item>Nooit trillen</item>
+        <item>Trillen bij stil</item>
+        <item>Altijd trillen</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Everyday</item>
-        <item>Legal workdays</item>
-        <item>Weekdays</item>
-        <item>Custom</item>
+        <item>Eenmaal</item>
+        <item>Dagelijks</item>
+        <item>Werkdagen</item>
+        <item>Weekdagen</item>
+        <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Everyday</item>
-        <item>Weekdays</item>
-        <item>Custom</item>
+        <item>Eenmaal</item>
+        <item>Dagelijks</item>
+        <item>Weekdagen</item>
+        <item>Aangepast</item>
     </string-array>
 </resources>

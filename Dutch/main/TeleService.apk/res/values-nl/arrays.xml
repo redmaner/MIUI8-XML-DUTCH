@@ -5,21 +5,21 @@
         <item>TCP</item>
     </string-array>
     <string-array name="ims_call_cap_types">
-        <item>Voice</item>
+        <item>Stem</item>
         <item>Video</item>
     </string-array>
     <string-array name="ims_call_types">
-        <item>Voice</item>
+        <item>Stem</item>
         <item>Video</item>
-        <item>CSVoice</item>
+        <item>CSStem</item>
     </string-array>
     <string-array name="ims_video_cs_call_types">
         <item>Video</item>
-        <item>CSVoice</item>
+        <item>CSStem</item>
     </string-array>
     <string-array name="ims_voice_cs_call_types">
         <item>Voice</item>
-        <item>CSVoice</item>
+        <item>CSStem</item>
     </string-array>
     <string-array name="cs_call_type">
         <item>CSVoice</item>
@@ -28,13 +28,13 @@
         <item>GSM</item>
         <item>TD-SCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>Triple modus</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_w_choices">
         <item>GSM</item>
         <item>WCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>Triple modus</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/WCDMA</item>
