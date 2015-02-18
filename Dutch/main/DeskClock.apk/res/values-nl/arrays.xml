@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>Alarm in less than 1 minute</item>
+        <item>Alarm binnen 1 minuut</item>
         <item>Alarm in %1$s</item>
         <item>Alarm in %2$s</item>
         <item>Alarm in %1$s %2$s</item>
@@ -11,22 +11,22 @@
         <item>Alarm in %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>Tomorrow</item>
+        <item>Gisteren</item>
+        <item>Vaandaag</item>
+        <item>Morgen</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Work days</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Eenmaal</item>
+        <item>Dagelijks</item>
+        <item>Werkdagen</item>
+        <item>Maan to Vrij</item>
+        <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Eenmaal</item>
+        <item>Dagelijks</item>
+        <item>Maan to Vrij</item>
+        <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Alarm is ingesteld voor minder dan 1 minuut vanaf nu.</item>
@@ -39,13 +39,13 @@
         <item>Alarm is ingesteld voor %1$s, %2$s en %3$s vanaf nu.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>5 minuten</item>
