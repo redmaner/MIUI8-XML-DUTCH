@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto's in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">"%s foto's verwijderen?"</item>
-        <item quantity="one">%s foto verwijderen?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">%s videos verwijderen?</item>
-        <item quantity="one">%s video verwijderen?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto's in beide &amp;lt;font color=#323232>&amp;lt;b>local in de cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto in beide &amp;lt;font color=#323232>&amp;lt;b>local in de cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in beide &amp;lt;font color=#323232>&amp;lt;b>lokaal in de  cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijderen &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video in beide &amp;lt;font color=#323232>&amp;lt;b>lokaal in de cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d geselecteerd</item>
         <item quantity="zero">%1$d geselecteerd</item>
