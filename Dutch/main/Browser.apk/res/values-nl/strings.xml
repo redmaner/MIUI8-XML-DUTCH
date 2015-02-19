@@ -104,7 +104,6 @@
   <string name="bookmark_url_already_exisit">Deze URL staat al bij favorieten</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">Ongeldige URL.</string>
-  <string name="bookmarks">Bladwijzers</string>
   <string name="bookmarks_content_is_null">Geen bladwijzers</string>
   <string name="bookmarks_management">Bladwijzers</string>
   <string name="bookmarks_root_folder">Root map</string>
@@ -436,7 +435,6 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="pref_content_night_read_mode">Nacht modus</string>
   <string name="pref_content_open_in_background">Openen in achtergrond</string>
   <string name="pref_content_open_in_background_summary">Nieuwe tabbladen openen achter het huidige tabblad</string>
-  <string name="pref_content_plugins">Plugins inschakelen</string>
   <string name="pref_content_search_engine">Standaard zoekmachine instellen</string>
   <string name="pref_content_search_engine_summary">Selecteer een zoekmachine</string>
   <string name="pref_content_title">Pagina inhoud</string>
@@ -444,10 +442,8 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="pref_data_preload_summary">: Browser toestaan resultaten met hoog betrouwbaarheidsniveau te preloaden</string>
   <string name="pref_data_preload_title">Zoekresultaten preloaden</string>
   <string name="pref_data_title">Bandbreedtebeheer</string>
-  <string name="pref_default_text_encoding">Tekstcodering</string>
   <string name="pref_default_text_encoding_default">UTF 8</string>
   <string name="pref_default_text_encoding_dialogtitle">Tekstcodering</string>
-  <string name="pref_default_zoom">Standaardzoom</string>
   <string name="pref_default_zoom_dialogtitle">Standaardzoom</string>
   <string name="pref_development_cpu_upload_path">CPU upload path inschakelen</string>
   <string name="pref_development_error_console">JavaScript console weergeven</string>
@@ -561,7 +557,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="pref_webapp_settings_wifisave_key">pref_webapp_settings_wifisave_key</string>
   <string name="pref_zoom_on_double_tap">Zoomen bij dubbeltikken</string>
   <string name="preview">Voorbeeld</string>
-  <string name="private_browsing_warning">This functionality is not supported in this version of Android.</string>
+  <string name="private_browsing_warning">Deze functie wordt niet ondersteund in deze versie van Android.</string>
   <string name="profiler_error_toast">Kon Profiler niet starten</string>
   <string name="profiler_no_storage_toast">De externe opslag nog niet klaar is</string>
   <string name="profiler_started_toast">Profiler gestart</string>
@@ -627,7 +623,6 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="save_to_camera_success">Opgeslagen in camera</string>
   <string name="saving_snapshot">Opslaan…</string>
   <string name="sdcard_error">Controleer de SD-kaart</string>
-  <string name="search">Zoeken</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Ga</string>
@@ -656,7 +651,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="share_page_text">"Ik geniet van 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Deze URL van de website wordt verzonden naar servers Xiaomi om de veiligheid te verifiëren. U kunt deze functie op elk moment uitschakelen in Instellingen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Controleer URL beveiliging</string>
-  <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
+  <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="snapshot_failed">Opslaan om offline te lezen mislukt</string>
   <string name="snapshot_go_live">Go live</string>
   <string name="snapshot_successed">Opslaan voor ofline lezen voltooid</string>

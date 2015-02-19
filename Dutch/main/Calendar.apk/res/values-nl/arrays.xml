@@ -1,36 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="timezone_rename_labels">
-        <item>Australian Central - Noordelijk Territorium</item>
-        <item>Australian Central - Zuid-Australië</item>
-        <item>Australian Eastern - Queensland</item>
-        <item>Australian Eastern - Nieuw-Zuid-Wales</item>
-        <item>Mountain Standard - Dawson Creek</item>
-        <item>Central Standard - Saskatchewan</item>
-        <item>Eastern Standard - Atikokan</item>
-        <item>Atlantic Standard - Quebec</item>
-        <item>Hawaii-Aleutian - Hawaï</item>
-        <item>Hawaii-Aleutian - Alaska</item>
-        <item>Pacific Standard - Metlakatla</item>
-        <item>Mountain Standard - Arizona</item>
-        <item>Pacific - Baja California</item>
-        <item>Mountain - Chihuahua</item>
-        <item>Central - Tamaulipas</item>
-        <item>Mountain - Sonora</item>
-        <item>Oost-Afrikaanse tijd</item>
-        <item>Atlantic standaardtijd</item>
-        <item>Atlantic standaardtijd</item>
-        <item>Oost-Europese tijd</item>
-        <item>Kaliningrad tijd</item>
-        <item>Amazone - Rondônia</item>
-        <item>Brasilia - Pará</item>
-    </string-array>
-    <string-array name="backup_country_names">
-        <item>Sint Maarten</item>
-        <item>Caribisch Nederland</item>
-        <item>Curaçao</item>
-        <item>Zuid-Soedan</item>
-    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Melding</item>
         <item>E-mail</item>
@@ -55,30 +24,97 @@
         <item>2 dagen</item>
         <item>1 week</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Geen</item>
-        <item>0 minuten</item>
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-        <item>45 minuten</item>
-        <item>1 uur</item>
-        <item>2 uur</item>
-        <item>3 uur</item>
-        <item>12 uur</item>
-        <item>24 uur</item>
-        <item>2 dagen</item>
-        <item>1 week</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Standaardlandinstelling</item>
         <item>Zaterdag</item>
         <item>Zondag</item>
         <item>Maandag</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall eilanden</item>
+        <item>Midway eiland</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Centraal Amerika</item>
+        <item>Central Time</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time(Barbados)</item>
+        <item>Atlantic Time(Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilië</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Azores</item>
+        <item>Cape Verde eilanden</item>
+        <item>Casablanca</item>
+        <item>Londen, Dublin</item>
+        <item>Amsterdam, Berlijn</item>
+        <item>Belgrado</item>
+        <item>Brussel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>W. Africa Time</item>
+        <item>Amman, Jordan</item>
+        <item>Athene, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moskou</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
     </string-array>
     <string-array name="availability">
         <item>Bezet</item>
@@ -122,76 +158,20 @@
         <item>Maand</item>
         <item>Agenda</item>
     </string-array>
-    <string-array name="preferences_skip_reminders_labels">
-        <item>Alleen indien geweigerd</item>
-        <item>Indien geweigerd of niet gereageerd</item>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen bij stil</item>
+        <item>Nooit</item>
     </string-array>
-    <string-array name="recurrence_freq">
-        <item>Dagelijks herhalen</item>
-        <item>Wekelijks herhalen</item>
-        <item>Maandelijks herhalen</item>
-        <item>Jaarlijks herhalen</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sun">
-        <item>op elke eerste zondag</item>
-        <item>op elke tweede zondag</item>
-        <item>op elke derde zondag</item>
-        <item>op elke vierde zondag</item>
-        <item>op elke laatste zondag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_mon">
-        <item>op elke eerste maandag</item>
-        <item>op elke tweede maandag</item>
-        <item>op elke derde maandag</item>
-        <item>op elke vierde maandag</item>
-        <item>op elke laatste maandag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_tues">
-        <item>op elke eerste dinsdag</item>
-        <item>op elke tweede dinsdag</item>
-        <item>op elke derde dinsdag</item>
-        <item>op elke vierde dinsdag</item>
-        <item>op elke laatste dinsdag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_wed">
-        <item>op elke eerste woensdag</item>
-        <item>op elke tweede woensdag</item>
-        <item>op elke derde woensdag</item>
-        <item>op elke vierde woensdag</item>
-        <item>op elke laatste woensdag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_thurs">
-        <item>op elke eerste donderdag</item>
-        <item>op elke tweede donderdag</item>
-        <item>op elke derde donderdag</item>
-        <item>op elke vierde donderdag</item>
-        <item>op elke laatste donderdag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_fri">
-        <item>op elke eerste vrijdag</item>
-        <item>op elke tweede vrijdag</item>
-        <item>op elke derde vrijdag</item>
-        <item>op elke vierde vrijdag</item>
-        <item>op elke laatste vrijdag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sat">
-        <item>op elke eerste zaterdag</item>
-        <item>op elke tweede zaterdag</item>
-        <item>op elke derde zaterdag</item>
-        <item>op elke vierde zaterdag</item>
-        <item>op elke laatste zaterdag</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Ik ben een paar minuten te laat.</item>
-        <item>Ik ben er over ongeveer 10 minuten.</item>
-        <item>Begin maar vast zonder mij.</item>
-        <item>Ik red het helaas niet. Laten we een nieuwe afspraak maken.</item>
+    <string-array name="widget_style_list">
+        <item>Transparant</item>
+        <item>Witte achtergrond</item>
     </string-array>
  <string-array name="repeat_frequency_spinner">
-        <item>dag</item>
-        <item>week</item>
-        <item>maand</item>
-        <item>jaar</item>
+        <item>Dag</item>
+        <item>Week</item>
+        <item>Maand</item>
+        <item>Jaar</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1st</item>
@@ -266,4 +246,40 @@
         <item>Tijd</item>
         <item>Tellen</item>
     </string-array>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset2">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset4">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
 </resources>

@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="searchFoundContacts">
-        <item quantity="other">%d gevonden</item>
-        <item quantity="one">1 gevonden</item>
-    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacten met telefoonnummers</item>
         <item quantity="one">1 contact met telefoonnummer</item>
@@ -13,6 +9,10 @@
         <item quantity="one">1 contact</item>
     </plurals>
     <plurals name="listFoundAllContacts">
+        <item quantity="other">%d gevonden</item>
+        <item quantity="one">1 gevonden</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
         <item quantity="other">%d gevonden</item>
         <item quantity="one">1 gevonden</item>
     </plurals>
@@ -31,5 +31,62 @@
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d personen</item>
         <item quantity="one">%1$d persoon</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d nummers</item>
+        <item quantity="one">%1$d nummer</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favorieten</item>
+        <item quantity="one">%1$d favoriet</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d recente contacten</item>
+        <item quantity="one">1 recent contact</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d contacten</item>
+        <item quantity="one">%1$d contact</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d nummers</item>
+        <item quantity="one">%1$d nummer</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d contact emails</item>
+        <item quantity="one">1 contact email</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favorieten</item>
+        <item quantity="one">%1$d favoriet</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d recente contacten</item>
+        <item quantity="one">%1$d recent contact</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  contacten toegevoegd"</item>
+        <item quantity="one">%1$d contact toegevoegd</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d personen</item>
+        <item quantity="one">1 persoon</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d contacten geïmporteerd</item>
+        <item quantity="one">%1$d contact geïmporteerd</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="zero">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
     </plurals>
 </resources>

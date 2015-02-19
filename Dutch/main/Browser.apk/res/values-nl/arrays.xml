@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <array name="config_keySystemUuidMapping" />
     <string-array name="menu_theme_setting">
@@ -13,6 +13,34 @@
         <item>Standaard startpagina</item>
         <item>Aangepast</item>
     </string-array>
+    <string-array name="bookmarks_cm_customization">
+        <item>10086门户</item>
+        <item>http://10086.cn/m</item>
+        <item>Mobiele markt</item>
+        <item>http://a.10086.cn</item>
+        <item>Monternet</item>
+        <item>http://wap.monternet.com</item>
+        <item>Telefoon lezen</item>
+        <item>http://wap.cmread.com</item>
+        <item>Mobiele game</item>
+        <item>http://g.10086.cn</item>
+        <item>Mobiele video</item>
+        <item>http://wap.cmvideo.cn</item>
+        <item>Draadloze muziek</item>
+        <item>http://m.10086.cn</item>
+        <item>12580</item>
+        <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
+    </string-array>
+    <string-array name="bookmarks_cu_customization">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
 	 <string-array name="pref_volume_key_choices">
         <item>Vorige pagina / Volgende pagina</item>
         <item>Vorige tabblad / Volgende tabblad</item>
@@ -20,11 +48,6 @@
 	 <string-array name="pref_fling_on_border_choices">
         <item>Pagina vooruit / achteruit</item>
         <item>Verwissel van venster</item>
-    </string-array>
-	   <string-array name="pref_default_zoom_choices">
-        <item>Klein</item>
-        <item>Medium</item>
-        <item>Groot</item>
     </string-array>
 	  <string-array name="pref_images_preload_choices">
         <item>Nooit</item>
@@ -44,6 +67,168 @@
         <item>Normaal</item>
         <item>Klein</item>
     </string-array>
+    <string-array name="bing_zh_HK">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?setmkt=zh-HK&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="bing_zh_CN">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?setmkt=zh-CN&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="yahoo_tw">
+        <item>Yahoo!奇摩</item>
+        <item>tw.yahoo.com</item>
+        <item>http://tw.search.yahoo.com/favicon.ico</item>
+        <item>http://tw.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>UTF-8</item>
+        <item></item>
+    </string-array>
+    <string-array name="yahoo">
+        <item>Yahoo!</item>
+        <item>yahoo.com</item>
+        <item>http://search.yahoo.com/favicon.ico</item>
+        <item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;ei={inputEncoding}</item>
+        <item>UTF-8</item>
+        <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+    </string-array>
+    <string-array name="bing_zh_TW">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?setmkt=zh-TW&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="yahoo_hk">
+        <item>Yahoo! Hong Kong</item>
+        <item>hk.yahoo.com</item>
+        <item>http://hk.search.yahoo.com/favicon.ico</item>
+        <item>http://hk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>UTF-8</item>
+        <item></item>
+    </string-array>
+    <string-array name="bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="baidu">
+        <item>Baidu</item>
+        <item>baidu.com</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="sogou">
+        <item>Sogou</item>
+        <item>sogou.com</item>
+        <item>http://wap.sogou.com/favicon.ico</item>
+        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;pid=xiaomi9&amp;e=1187</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="s139">
+        <item>Baidu</item>
+        <item>139.com</item>
+        <item>http://s.139.com/favicon.ico</item>
+        <item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="yicha">
+        <item>Yicha</item>
+        <item>yicha.cn</item>
+        <item>http://yicha.cn/favicon.ico</item>
+        <item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="easou">
+        <item>Easou</item>
+        <item>easou.com:8080</item>
+        <item>http://ad3.easou.com:8080/favicon.ico</item>
+        <item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="taobao">
+        <item>Taobao</item>
+        <item>taobao.com</item>
+        <item>http://r.m.taobao.com/favicon.ico</item>
+        <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="dianping">
+        <item>Dianping</item>
+        <item>dianping.com</item>
+        <item>http://developer.dianping.com/favicon.ico</item>
+        <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="tupian">
+        <item>Tupian</item>
+        <item>baidu.com</item>
+        <item>http://image.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="shipin">
+        <item>Youku</item>
+        <item>youku.com</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>google</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="search_engines_cmcc">
+        <item>s139</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
+        <item>google</item>
+        <item>shipin</item>
+        <item>tupian</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_cmcc">
+        <item>s139</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
+        <item>shipin</item>
+        <item>tupian</item>
+    </string-array>
 	    <string-array name="pref_content_plugins_choices">
         <item>Altijd aan</item>
         <item>Eerst vragen</item>
@@ -56,6 +241,14 @@
         <item>Groot</item>
         <item>Enorm</item>
     </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
 	    <string-array name="pref_data_preload_choices">
         <item>Nooit</item>
         <item>Alleen bij Wi-Fi</item>
@@ -66,4 +259,39 @@
         <item>Alleen bij Wi-Fi</item>
         <item>Altijd</item>
     </string-array>
-	</resources>
+    <string-array name="pref_video_preload_choices">
+        <item>Nooit</item>
+        <item>Alleen bij Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://www.msn.com/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>CNN</item>
+        <item>http://www.cnn.com/</item>
+        <item>NY Times</item>
+        <item>http://www.nytimes.com/</item>
+        <item>ESPN</item>
+        <item>http://espn.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+    </string-array>
+</resources>
