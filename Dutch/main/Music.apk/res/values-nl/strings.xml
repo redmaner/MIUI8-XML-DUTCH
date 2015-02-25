@@ -82,7 +82,7 @@
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_page_no_album">Geen albums.</string>
   <string name="empty_page_no_artist">Geen artiesten.</string>
-  <string name="empty_page_no_document">Geen documenten met audio inhoud</string>
+  <string name="empty_page_no_document">Geen audio bestanden</string>
   <string name="empty_page_no_track">Geen nummers.</string>
   <string name="enabled">Aan</string>
   <string name="eq_auto">Handmatig</string>
@@ -121,15 +121,15 @@
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 sec</string>
-  <string name="filter_by_duration_prefix">"Minimum lengte: "</string>
-  <string name="filter_by_duration_summary">Geen korte audiobestanden weergeven</string>
+  <string name="filter_by_duration_prefix">"Verberg audiobestanden korter dan "</string>
+  <string name="filter_by_duration_summary">Verberg korte audiobestanden</string>
   <string name="filter_by_folder">Op mappen</string>
   <string name="filter_by_folder_summary">Map kiezen om weer te geven</string>
   <string name="filter_by_size">Op grootte</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
-  <string name="filter_by_size_prefix">"Minimum grootte: "</string>
-  <string name="filter_by_size_summary">Geen kleine audiobestanden weergeven</string>
+  <string name="filter_by_size_prefix">"Verberg bestanden korter dan "</string>
+  <string name="filter_by_size_summary">Verberg kleine audiobestanden</string>
   <string name="find_music">Ontdek nummers</string>
   <string name="format_not_support">Deze indeling is niet ondersteund</string>
   <string name="format_unsupported">Indeling is niet ondersteund.</string>
@@ -157,9 +157,9 @@
   <string name="list_item_play_all_tracks">Raak aan om alle tracks te spelen</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Laden</string>
-  <string name="local_music">Lokale muziek</string>
+  <string name="local_music">Offline</string>
   <string name="local_music_is_not_available">Lokale muziek niet beschikbaar.</string>
-  <string name="local_tracks_short">Lokale muziek</string>
+  <string name="local_tracks_short">Offline</string>
   <string name="login_first">Eerst inloggen op je Mi Account</string>
   <string name="lrc_search_failed">Geen songteksten gevonden</string>
   <string name="lrc_searching">Zoeken naar songtekst…</string>
@@ -184,7 +184,7 @@
   <string name="music_settings">Muziek</string>
   <string name="my_account">Mijn account</string>
   <string name="my_music">Mijn muziek</string>
-  <string name="my_music_empty">\"Mijn muziek\" is leeg. Download of voeg favorieten toe aan \"Online Music\"</string>
+  <string name="my_music_empty">Afspeellijst is leeg</string>
   <string name="my_music_empty_goto_online">Geen nummers gevonden</string>
   <string name="my_playlist">Mijn afspeellijst</string>
   <string name="network_error">Netwerk verbinding is niet beschikbaar. Maak netwerkverbinding en probeer het opnieuw/</string>
@@ -207,7 +207,7 @@
   <string name="not_selected">Kies een nummer</string>
   <string name="nowplaying_menu_item_delete">Verwijderen</string>
   <string name="ok">OK</string>
-  <string name="online_music">Online</string>
+  <string name="online_music">Ontdek</string>
   <string name="online_playlist_is_empty">De online afspeellijst is leeg!</string>
   <string name="order_process_fail">Kon niet je account verifiëren. Probeer het later opnieuw.</string>
   <string name="payment_fail">Betaling mislukt</string>
@@ -242,7 +242,7 @@
   <string name="select_local_album">Kies album</string>
   <string name="select_local_lyric">Kies songtekst</string>
   <string name="select_lyric">Kies songtekst</string>
-  <string name="send_to">Verzenden naar</string>
+  <string name="send_to">Delen</string>
   <string name="send_to_title">Verzenden naar(%1$s)</string>
   <string name="set_album_successful">Album opgeslagen</string>
   <string name="set_as_ring">Instellen voor bellen</string>
