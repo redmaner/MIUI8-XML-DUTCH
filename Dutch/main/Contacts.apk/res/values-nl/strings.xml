@@ -841,7 +841,7 @@
   <string name="resource_exchange_wrong_format_by_local">Ongeldige code ingevoerd</string>
   <string name="resource_exchange_wrong_format_by_server">Code kan niet worden gevalideerd. Controleer uw code en probeer het opnieuw.</string>
   <string name="resource_expand_full_text">Vergroten</string>
-  <string name="resource_failed_to_load_list">Kan lijst niet laden</string>
+  <string name="resource_failed_to_load_list">"Kan thema's niet laden"</string>
   <string name="resource_get_auth_checking">Controleren……</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 apparaten zijn reeds toegestaan op dit account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
@@ -857,11 +857,11 @@
   <string name="resource_local">Lokaal %1$s</string>
   <string name="resource_menu_refresh">Vernieuwen</string>
   <string name="resource_mute">Geen</string>
-  <string name="resource_my">Lokaaal</string>
+  <string name="resource_my">Offline</string>
   <string name="resource_no_match_app">Geen app gevonden om deze actie te hanteren.</string>
   <string name="resource_no_network_text">Kan niet verbinden met netwerk</string>
   <string name="resource_no_result">Kon niets vinden</string>
-  <string name="resource_notification_default">Notificaties</string>
+  <string name="resource_notification_default">Meldingen</string>
   <string name="resource_on_trial">Proberen: %1$s</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">U heeft al %1$d items gekocht, maar de huidige prijs is nog steeds beter dan het individueel aanschaffen van de overige items, wilt u doorgaan?</string>
@@ -883,7 +883,7 @@
   <string name="resource_ringtone_playing_error">Fout</string>
   <string name="resource_ringtone_volume_mute">Beltoon volume is gedempt</string>
   <string name="resource_save_to_note">Opslaan in notities</string>
-  <string name="resource_search_list_empty">Kon niets vinden</string>
+  <string name="resource_search_list_empty">Kon niets vinden.</string>
   <string name="resource_see_more">Meer weergeven</string>
   <string name="resource_select">Selecteren</string>
   <string name="resource_select_ringtone_confirm">Dit geluid selecteren?</string>
@@ -1113,6 +1113,7 @@
   <string name="yellowpage_navigation_network_location_not_enabled_title">Netwerk locatie service inschakelen</string>
   <string name="yellowpage_navigation_no_content">Geen zoekresultaten</string>
   <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
+  <string name="yellowpage_navigation_search_history">Geschiedenis</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_average_price">Gemiddelde RMB %d </string>
   <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het netwerk maken.</string>

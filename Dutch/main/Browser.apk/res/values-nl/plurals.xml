@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Laaste %d dagen</item>
 		<item quantity="one">Gisteren</item>
@@ -11,10 +15,6 @@
     <plurals name="find_on_page_matches">
         <item quantity="other">%d overeenkomsten</item>
         <item quantity="one">%d overeenkomst</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
     </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d items geblokkeerd</item>
