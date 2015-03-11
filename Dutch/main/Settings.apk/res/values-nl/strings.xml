@@ -439,6 +439,11 @@
   <string name="bluetooth_unlock_settings_devices_title">Apparaat</string>
   <string name="bluetooth_unlock_settings_toggle_title">Toepassen op</string>
   <string name="bluetooth_unlock_settings_unlock_device">App ontgrendelen</string>
+  <string name="bluetooth_unlock_state_disconnected">Verbinding verbroken</string>
+  <string name="bluetooth_unlock_state_key_error">Sleutel fout</string>
+  <string name="bluetooth_unlock_state_label">Status:</string>
+  <string name="bluetooth_unlock_state_ok">Gesllagd</string>
+  <string name="bluetooth_unlock_state_too_far">Niet dicht genoeg</string>
   <string name="bluetooth_unlock_title">Ontgrendelen met Bluetooth apparaat</string>
   <string name="bluetooth_unlock_turned_off">Uitgeschakeld</string>
   <string name="bluetooth_unlock_turned_on">Ingeschakeld</string>
@@ -735,13 +740,14 @@
   <string name="device_name_usage_point">Toestaan apparaat zichtbaar te maken voor andere Bluetooth apparaten voor bestandsoverdracht en andere functies.</string>
   <string name="device_picker">Bluetooth apparaatkiezer</string>
   <string name="device_sd_memory">SD-kaart</string>
+  <string name="device_security_settings_title">Beveilig</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Status van de batterij, het netwerk en andere gegevens</string>
   <string name="dialog_content_login">De update benodigd een Mi account, wilt u inloggen?</string>
   <string name="dialog_no">Nee</string>
   <string name="dialog_title_color_calibration">Kleur kalibratie</string>
-  <string name="dialog_title_font_size">Lettergrootte</string>
+  <string name="dialog_title_font_size">Tekstgrootte</string>
   <string name="dialog_title_hdmi_color_calibration">Kleur kalibratie voorkeur</string>
   <string name="dialog_title_login">Log in Mi account</string>
   <string name="dialog_yes">Ja</string>
@@ -863,6 +869,7 @@
   <string name="enable_adb">USB foutopsporing</string>
   <string name="enable_adb_summary">Foutopsporingsmodus bij USB verbinding</string>
   <string name="enable_compatibility">App schalen</string>
+  <string name="enable_crypt_keeper_encrypt">Encryptie inschakelen</string>
   <string name="enable_drive_mode">Auto modus</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobiele data verbinding inschakelen?</string>
   <string name="enable_opengl_traces_title">OpenGL sporen inschakelen</string>
@@ -1133,6 +1140,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="local_backup_section_summary">Back-up systeem instellingen, accountgegevens en apps</string>
   <string name="local_backup_section_title">Automatisch back-uppen</string>
   <string name="locale_default">Standaard</string>
+  <string name="location_access_off">Uit</string>
+  <string name="location_access_on">Aan</string>
   <string name="location_access_summary">Apps die uw toestemming hebben gevraagd, toestaan uw locatiegegevens te gebruiken</string>
   <string name="location_access_title">Toegang tot mijn locatie</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
@@ -1636,6 +1645,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_mode_enable_sum">Verberg bel geschiedenis, berichten en andere data om privacy te beschermen</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
+  <string name="privacy_mode_summary">Gebruikersgegevens zal worden verborgen voor de gebruiker</string>
+  <string name="privacy_mode_title">Toestemmingen</string>
   <string name="privacy_protect_title">Privacy bescherming</string>
   <string name="privacy_relative">Privacy gerelateerd</string>
   <string name="privacy_settings">Back-up maken en opnieuw instellen</string>
@@ -1797,8 +1808,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="ringtone_title">Beltoon telefoon</string>
   <string name="ringtone_uniform_setting_title">Dual SIM instellingen</string>
   <string name="roaming">Gegevensroaming</string>
-  <string name="roaming_disable">Verbinding maken met gegevensservices tijdens roaming</string>
-  <string name="roaming_enable">Verbinding maken met gegevensservices tijdens roaming</string>
+  <string name="roaming_disable">Gebruik mobiele data tijdens roaming</string>
+  <string name="roaming_enable">Gebruik mobiele data tijdens roaming</string>
   <string name="roaming_reenable_message">De gegevensverbinding is verbroken, omdat u uw thuisnetwerk heeft verlaten terwijl gegevensroaming was uitgeschakeld.</string>
   <string name="roaming_reenable_title">Gegevensroaming toestaan?</string>
   <string name="roaming_turn_it_on_button">Inschakelen</string>
@@ -2183,7 +2194,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Lettertype</string>
   <string name="title_font_current">Kies systeem lettertype</string>
-  <string name="title_font_size">Lettergrootte</string>
+  <string name="title_font_size">Tekstgrootte</string>
   <string name="title_hdmi_color_calibration">Kleur correctie voorkeuze</string>
   <string name="title_layout_current">Kies systeem lettertype</string>
   <string name="title_local_resource">Lokale bronnen</string>
