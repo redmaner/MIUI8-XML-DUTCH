@@ -29,6 +29,7 @@
   <string name="add_account">Account toevoegen</string>
   <string name="add_calendar">Abonneren</string>
   <string name="add_topic_success">Abonneren\"%s\"gelukt</string>
+  <string name="add_topic_unsuccess">Abonneren\"%s\"mislukt</string>
   <string name="adding_calendar">Abonnementen</string>
   <string name="agenda_today">VANDAAG, %1$s</string>
   <string name="agenda_tomorrow">MORGEN, %1$s</string>
@@ -289,6 +290,11 @@
   <string name="snooze_all_label">5 min. uitstellen</string>
   <string name="snooze_label">Snooze</string>
   <string name="subscribe_all">Alle abonnementen</string>
+  <string name="sync_notice_cancel_toast_message">Lokale kalender wordt niet gesync. met Mi Cloud"</string>
+  <string name="sync_notice_message">je hebt de Mi kalender nog niet gesync., wil je dat nu inschakelen?</string>
+  <string name="sync_notice_ok">Toestaan</string>
+  <string name="sync_notice_ok_toast_message">Lokale kalender wordt gesync. Mi Cloud</string>
+  <string name="sync_notice_title">Sync. aanvraag</string>
   <string name="synced">Gesynchroniseerd</string>
   <string name="tab_category">Classificatie</string>
   <string name="tab_local">Geabonneerd</string>
@@ -324,7 +330,7 @@
   <string name="widget_select_style">Kies een stijl</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Vijf</string>
-  <string name="xiaomi_calendar_display_name">Kalender</string>
+  <string name="xiaomi_calendar_display_name">Mi Account kalender</string>
   <string name="xingxiu">Sterren</string>
   <string name="yearly">Jaarlijks (op %s)</string>
   <string name="yearly_plain">Jaarlijks</string>

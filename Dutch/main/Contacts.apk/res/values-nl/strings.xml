@@ -40,11 +40,8 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Meerdere verwijderen</string>
-  <string name="batch_delete_msg">%d contactpersonen verwijderen? De bijbehorende gegevens die zijn opgeslagen in Mi Cloud worden ook verwijderd.</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth verbinding verbroken</string>
   <string name="blurbJoinContactDataWith">Selecteer het contactpersoon dat u met %s wilt samenvoegen:</string>
-  <string name="btn_delete_multi_contacts">%d contactpersonenen verwijderen</string>
-  <string name="btn_delete_one_contact">Contactpersoon verwijderen</string>
   <string name="btn_rotation">Draaien</string>
   <string name="btn_split_contact">Afsplitsen</string>
   <string name="button_cancel_scan">Stoppen</string>
@@ -55,7 +52,6 @@
   <string name="callBack">Terugbellen</string>
   <string name="callDetailTitle">Gespreksdetails</string>
   <string name="callDetailsDurationFormat" formatted="false">%s min. %s sec.</string>
-  <string name="callNoAnswerTimeFormat">%s Gebeld</string>
   <string name="callShortcutActivityTitle">Kies een nummer om te bellen</string>
   <string name="call_assistant">%s bellen</string>
   <string name="call_callback">Nummer terug bellen</string>
@@ -162,7 +158,6 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Belgeschiedenis verwijderen?</string>
   <string name="confirm_delete_selected_all_call_logs">Belgeschiedenis verwijderen?</string>
-  <string name="confirm_delete_sim_entry_miui">%d contacten verwijderen van SIM kaart?</string>
   <string name="confirm_export_message">Uw lijst met contactpersonen wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contactpersonen exporteren?</string>
   <string name="connections">Verbindingen</string>
@@ -349,8 +344,6 @@
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Contacten geëxporteerd</string>
   <string name="export_sim_contact_finish_failure">%1$d overgedragen | %2$d resterende</string>
-  <string name="export_sim_contact_finish_success">%d Contact(en)gekopiëerd </string>
-  <string name="export_sim_contacts_dialog_message">De SIM kaart kan %d contacten opslaan</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar SIM kaart</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
