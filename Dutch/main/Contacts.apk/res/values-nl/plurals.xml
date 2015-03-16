@@ -40,6 +40,14 @@
         <item quantity="other">%1$d Voicemails</item>
         <item quantity="one">Voicemail</item>
     </plurals>
+	<plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM kaart kan %d contacten opslaan.</item>
+        <item quantity="one">SIM kaart kan %d contact opslaan.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Delete %d contacts from SIM card?</item>
+        <item quantity="one">Delete %d contact from SIM card?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d geselecteerd</item>
         <item quantity="one">%1$d geselecteerd</item>
@@ -76,6 +84,14 @@
         <item quantity="other">" %1$d  contacten toegevoegd"</item>
         <item quantity="one">%1$d contact toegevoegd</item>
     </plurals>
+	<plurals name="export_sim_contact_finish_success">
+        <item quantity="other">%d gekopiëerde contact</item>
+        <item quantity="one">%d gekopiëerd contact</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Delete %d contacts</item>
+        <item quantity="one">Delete contact</item>
+    </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d personen</item>
         <item quantity="one">1 persoon</item>
@@ -84,9 +100,17 @@
         <item quantity="other">%1$d contacten geïmporteerd</item>
         <item quantity="one">%1$d contact geïmporteerd</item>
     </plurals>
+	<plurals name="batch_delete_msg">
+        <item quantity="other">%d contacten verwijderen?</item>
+        <item quantity="one">%d contact verwijderen?</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d geselecteerd</item>
         <item quantity="zero">%1$d geselecteerd</item>
         <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+	<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">%d maal bellen</item>
+        <item quantity="one">%d maal bellen</item>
     </plurals>
 </resources>
