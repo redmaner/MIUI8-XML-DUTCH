@@ -405,7 +405,7 @@
         <item>Animatieschaal 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>720x480 mdpi</item>
         <item>720x480 mdpi (secure)</item>
         <item>1280x720 tvdpi</item>
@@ -476,6 +476,11 @@
         <item>Chimpansee</item>
         <item>Aap</item>
     </string-array>
+	    <string-array name="security_settings_premium_sms_values">
+        <item>Vragen</item>
+        <item>Nooit toestaan</item>
+        <item>Altijd toestaan</item>
+    </string-array>
     <string-array name="ram_states">
         <item>Normaal</item>
         <item>Gemiddeld</item>
@@ -529,6 +534,13 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
+	    <string-array name="pink_panel_led_color_entries">
+        <item>Lila</item>
+        <item>Robijnrood</item>
+        <item>Oranje</item>
+        <item>Groen</item>
+        <item>Margenta</item>
+    </string-array> 
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
