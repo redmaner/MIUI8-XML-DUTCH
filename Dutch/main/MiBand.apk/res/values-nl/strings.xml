@@ -53,7 +53,7 @@
   <string name="alarm_repeat">Herhalen</string>
   <string name="alarm_repeat_title_format">Geselecteerd %s</string>
   <string name="alarm_ring">Alarm</string>
-  <string name="alarm_tips">Band stopt automatisch trillen wanneer het detecteert je dat je uit bed bent. Tik elk moment op de sensor van de band om het alarm handmatig te stoppen.</string>
+  <string name="alarm_tips">Band stopt automatisch met trillen wanneer het detecteert je dat je uit bed bent. Tik elk moment op de sensor van de band om het alarm handmatig te stoppen.</string>
   <string name="alarm_setting">Alarm instellen</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mma</string>
@@ -94,7 +94,7 @@
   <string name="bind_qq_health_title">Toevoegen QQ Account</string>
   <string name="bind_weibo">Weibo toevoegen</string>
   <string name="bind_weibo_health">Aanmelden bij Weibo Gezondheid</string>
-  <string name="bind_weibo_health_tip">Sync. stappen en slaap info aan gezondheidsplatform Weibo, 
+  <string name="bind_weibo_health_tip">Sync. stappen en slaap info aan gezondheidsplatform van Weibo, 
 je hebt een netwerk verbinding nodig.</string>
   <string name="bind_weibo_health_tip_init">Aanmelden bij Weibo Gezondheid</string>
   <string name="bind_weibo_health_title">Weibo Account toevoegen</string>
@@ -155,12 +155,12 @@ Klik op de lijst om een nieuwe gebruiker toe te voegen"</string>
   <string name="come_from_xiaomi_bracelet">Van Mi Fit</string>
   <string name="complete">Afgewerkt</string>
   <string name="confirm">Ok</string>
-  <string name="confirm_abort_tag">Wil je deze markering annuleren ?</string>
+  <string name="confirm_abort_tag">Wil je deze markering annuleren?</string>
   <string name="confirm_complete_tag">Markeer deze activiteit als afgewerkt</string>
   <string name="confirm_lazy_day">Vandaag een luie dag maken?</string>
   <string name="confirm_pair">Vebinding bevestigen</string>
   <string name="connect_bracelet_now">Verbinden…</string>
-  <string name="connect_to_retrive">GKan niet verbinden met netwerk.</string>
+  <string name="connect_to_retrive">Kan niet verbinden met netwerk.</string>
   <string name="connected_broadcast">Fitness Center verbinding</string>
   <string name="connected_broadcast_disconnect_tips">Maak verbinding met de armband, vervolgens instellen</string>
   <string name="connected_broadcast_tips">Test verbinding</string>
@@ -171,7 +171,8 @@ Klik op de lijst om een nieuwe gebruiker toe te voegen"</string>
 reeks"</string>
   <string name="continue_reach_goal_new_record">Maak een nieuwe prestatie</string>
   <string name="continue_tips_format">Je beste prestatie is je doel bereiken voor %1$s dagen.</string>
-  <string name="contour_track_failed_to_create">Delen mislukt, controleer de opslag ruimte.</string><string name="daily_consume">Vandaag verbruikt（Cal）</string>
+  <string name="contour_track_failed_to_create">Delen mislukt, controleer de opslag ruimte.</string>
+  <string name="daily_consume">Vandaag verbruikt（Cal）</string>
   <string name="daily_sport_report">Dagelijkse sport resultaten</string>
   <string name="daily_sport_report_contintue_info">"%1$s overige rustdagen,
  persoonlijk record is %2$s dagen"</string>
@@ -216,9 +217,9 @@ bespaarde %2$s gallons aan benzine"</string>
   <string name="discard_alarm_change">Veranderingen verwerpen？</string>
   <string name="distance">Afstand</string>
   <string name="done_with_add_weight_goal">Gefeliciteerd!
-Je hebt je doel bereikt. </string>
+Je bent op je streefgewicht.</string>
   <string name="done_with_lose_weight_goal">Gefeliciteerd!
-Je hebt je doel bereikt. </string>
+Je bent op je streefgewicht.</string>
   <string name="donot_bind">Later koppelen</string>
   <string name="donot_have_band">Heb geen band?</string>
   <string name="download_failed">Downloaden APK mislukt.</string>
@@ -478,7 +479,7 @@ Mi Fit toevoegen aan de witte lijst van de 3rd party manager als die bestaat."</
   <string name="label_mileage">Kilometerstand (Km)</string>
   <string name="label_more">meer</string>
   <string name="label_my_qrcode">My QRCode</string>
-  <string name="label_no_care_time_by_me">Nooit nudgesnaar hem verzenden</string>
+  <string name="label_no_care_time_by_me">Nooit nudges naar hem verzenden</string>
   <string name="label_preparing_share_image">Voorbereiden om afbeelding te delen…</string>
   <string name="label_pull_to_load">Naar beneden trekken om meer te laden</string>
   <string name="label_pull_to_refresh">Naar beneden trekken om te vernieuwen</string>
@@ -495,7 +496,7 @@ Mi Fit toevoegen aan de witte lijst van de 3rd party manager als die bestaat."</
   <string name="label_runner_group">Loop Club</string>
   <string name="label_scan_add">Scan QRcode</string>
   <string name="label_search_result_empty">ID bestaat niet! Probeer opnieuw!</string>
-  <string name="label_share_info1">Afbeelding lokaal opslann, dan scannen en hem contacteren</string>
+  <string name="label_share_info1">Afbeelding lokaal opslaan, dan scannen en hem contacteren</string>
   <string name="label_share_info2">Open Mi Fit app - Vriend - Vriend toevoegen - Kies Qrcode voor album</string>
   <string name="label_share_to_friend">Delen met vreinden en bouw contacten op</string>
   <string name="label_sleep">Slaap van laatste nacht</string>
@@ -527,15 +528,15 @@ minder dan laatst"</string>
   <string name="look_weight_device_list">Geef weegschalen in de buurt weer</string>
   <string name="lose_weight_succ">Gewichtsverlies gelukt</string>
   <string name="lose_weight_succ_with_value">"Gewichtsverlies gelukt
-%1$s lichetr dan streefdoel"</string>
-  <string name="losegoal_child_fat">"You're over your target weight"</string>
-  <string name="losegoal_child_heavy">"You're over your target weight"</string>
-  <string name="losegoal_child_normal">"Congratulations! You're at your at your target weight."</string>
-  <string name="losegoal_fat">"You're over your target weight"</string>
-  <string name="losegoal_heavy">"You're over your target weight"</string>
-  <string name="losegoal_light_female">"You're under your target weight"</string>
-  <string name="losegoal_light_male">"You're under your target weight"</string>
-  <string name="losegoal_normal">"Congratulations! You're at your at your target weight."</string>
+%1$s lichter dan streefdoel"</string>
+  <string name="losegoal_child_fat">Je bent over je streefgewicht</string>
+  <string name="losegoal_child_heavy">Je bent over je streefgewicht</string>
+  <string name="losegoal_child_normal">Gefeliciteerd! Je bent op je streefgewicht.</string>
+  <string name="losegoal_fat">Je bent over je streefgewicht</string>
+  <string name="losegoal_heavy">Je bent over je streefgewicht</string>
+  <string name="losegoal_light_female">Je bent onder je streefgewicht</string>
+  <string name="losegoal_light_male">Je bent onder je streefgewicht</string>
+  <string name="losegoal_normal">Gefeliciteerd! Je bent op je streefgewicht.</string>
   <string name="lost_weight_fail_with_value">Nog %1$s afvalen</string>
   <string name="main_ui_share_tips">"Getraind voor %1$s%2$s vandaag. %3$s"</string>
   <string name="main_ui_sleep_share_tips">"Lichte slaap %1$s%2$s Ingeslapen om %3$s, opgestaan om %4$s."</string>
@@ -573,7 +574,7 @@ minder dan laatst"</string>
   <string name="move_and_capture">Beweging en Opname</string>
   <string name="multi_devices_info">Er zijn meerdere Mi Bands in de buurt. U moet met uw Mi Band en telefoon ten minste 10 meter van andere Mi Bands zijn , dan opnieuw laten zoeken</string>
   <string name="multi_devices_title">Koppelen mislukt.</string>
-  <string name="multi_weight_devices_info">Heropen de Bluetooth en probeer opnieuw</string>
+  <string name="multi_weight_devices_info">Heropen Bluetooth en probeer opnieuw</string>
   <string name="name">Naam</string>
   <string name="network_error">Kan geen verbinding met het netwerk maken, controleer de netwerkverbinding.</string>
   <string name="new_friend_accept">Akkoord</string>
@@ -589,7 +590,7 @@ minder dan laatst"</string>
   <string name="no_steps">Geen stappen info vandaag.</string>
   <string name="no_wear_bracelet">Geen slaap data van vorige nacht.</string>
   <string name="no_wear_user_modified">Mijn slaap details manueel invoeren</string>
-  <string name="no_weight_record">No scale history for %1$s.</string>
+  <string name="no_weight_record">Geen weegschaal geschiedenis voor %1$s.</string>
   <string name="nogoal_child_fat">Je bent over je streefdoel</string>
   <string name="nogoal_child_heavy">Je bent over je streefdoel</string>
   <string name="nogoal_child_normal">Gefeliciteerd! Je bent op je streefgewicht.</string>
@@ -670,7 +671,7 @@ Hou vol!</string>
   <string name="running_short_track_desc">Je hebt %d meters bewogen. Weet u zeker dat u wilt annuleren?</string>
   <string name="running_stop_sport_confirm">Ben je er zeker van dat je wilt stoppen?</string>
   <string name="s_mili">Mi Band</string>
-  <string name="scan_label">De twee dimensionale code in het vak, kunt u automatisch scannen</string>
+  <string name="scan_label">De twee dimensionale code in het vak kan u automatisch scannen</string>
   <string name="search_again">Probeer opnieuw</string>
   <string name="search_bracelet">Zoeken</string>
   <string name="search_bracelet_ok">Mi Band gevonden!</string>
@@ -700,7 +701,7 @@ Hou vol!</string>
   <string name="set_sport_goal">Zet doel</string>
   <string name="set_unit">Eenheiden</string>
   <string name="set_user_suc_tips">有了第一条称重记录，以后系统会自动识别属于你的称重记录，而且可以设置自己的体重控制目标哦。</string>
-  <string name="set_user_succ">Gebruiker instellen gelukt</string>
+  <string name="set_user_succ">Instellen gebruiker gelukt</string>
   <string name="set_weight_goal">Stel doelgewicht in</string>
   <string name="set_weight_goal_no">Doelgewicht niet ingesteld</string>
   <string name="set_weight_goal_tips">%1$s，stel doelgewicht in</string>
@@ -947,13 +948,13 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="title_friend_detail">Details</string>
   <string name="title_friend_list">Familie&amp;Vriend</string>
   <string name="title_health_link_service">Gezondheid Zorgservice</string>
-  <string name="title_message">Message</string>
+  <string name="title_message">Bericht</string>
   <string name="toast_add_friend_failed">Verzenden uitnodiging mislukt!</string>
   <string name="toast_add_friend_success">Uitnodiging is reeds verzonden!</string>
   <string name="toast_behavior_tag_failed">Kon gegevens niet verzamelen</string>
   <string name="toast_care_send_failed">Verzenden Nudge mislukt!</string>
   <string name="toast_care_send_success">Verzenden Nudge gelukt!</string>
-  <string name="toast_content_empty_error">"Content can't be empty"</string>
+  <string name="toast_content_empty_error">Inhoud kan niet gewist worden</string>
   <string name="toast_disable_behavior_tag">Uw activiteit gegevens worden niet verzameld</string>
   <string name="toast_enable_behavior_tag">Uw activiteit gegevens worden verzameld</string>
   <string name="toast_friend_remove_failed">Vriend verwijderen mislukt!</string>
@@ -1079,7 +1080,7 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="weight_help_info_1">Zorg ervoor dat de weegschaal is opgeladen en is niet zonder stroom valt.</string>
   <string name="weight_help_info_2">Herstart Bluetooth door aan- en uit te schakelen in Instellingen.</string>
   <string name="weight_help_info_3">Zorg ervoor dat de weegschaal niet is gekoppeld aan een ander apparaat in de buurt.</string>
-  <string name="weight_help_info_4">Sluit en heropen de Mi Fit App en om de weegschaal te verbinden.</string>
+  <string name="weight_help_info_4">Sluit en heropen de Mi Fit App om de weegschaal te verbinden.</string>
   <string name="weight_help_title_0">Is de weegschaal te ver weg?</string>
   <string name="weight_help_title_1">Controleer de batterij van de weegschaal</string>
   <string name="weight_help_title_2">Bluetooth herstarten</string>
@@ -1111,7 +1112,7 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="weight_unit_british">Pounds (lbs)</string>
   <string name="weight_unit_metric">Kilo (kg)</string>
   <string name="weight_unit_shijin">Jin (jin)</string>
-  <string name="weight_unit_text_info">Je hebt je weegschaal al  gekoppeld met behulp van een andere meeteenheid. Verwijder het batterijklepje van de weegschaal en gebruik de draaiknop om deze instelling aan te passen.</string>
+  <string name="weight_unit_text_info">Je hebt je weegschaal al gekoppeld met een andere meeteenheid. Verwijder het batterijklepje van de weegschaal en gebruik de draaiknop om deze instelling aan te passen.</string>
   <string name="weight_weighting_now">Meting…</string>
   <string name="weighting_failed">"Gewicht onstabiel
 Gelieve af te stappen na het knipperen van de LED ."</string>
