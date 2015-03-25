@@ -488,7 +488,7 @@
   <string name="head_only_enable_dialog_positive">Inschakelen</string>
   <string name="head_only_enable_dialog_title">Verminder mobiel data verbruik</string>
   <string name="header_category_account">Account instellingen</string>
-  <string name="header_category_other">Overige</string>
+  <string name="header_category_other">Geef uw mening</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
   <string name="hide_atts_remaining">Verberg %1$d bijlagen</string>
@@ -835,6 +835,7 @@ Cc: %4$s
   <string name="save_power_title">Batterij besparing</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
+  <string name="sdcard_cannot_use">Kaartopslag kan niet worden gebruikt</string>
   <string name="search_attachment">Zoeken</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">Resultaten</string>
@@ -943,6 +944,12 @@ Cc: %4$s
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="updated_at">Laatst bijgewerkt: %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
+  <string name="upload_log">Upload diagnostische logs</string>
+  <string name="upload_log_failed">Logs uploaden mislukt</string>
+  <string name="upload_log_success">Logs uploaden gelukt</string>
+  <string name="upload_log_title">De diagnostische logs uploaden?</string>
+  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+  <string name="uploading_logs">Uploaden logs</string>
   <string name="validation_failed_prompt">Account kan niet worden geverifieerd , controleer %s server instellingen</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -966,5 +973,6 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_other_views">Overige</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="yes">Ja</string>
+  <string name="you_are_in_mobile_network">U gebruikt momenteel een mobiel netwerk, let op het verbruik!</string>
   <string name="zip_viewer_no_file">Geen bestanden</string>
 </resources>
