@@ -10,7 +10,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Gisteren bijgewerkt om %s</string>
   <string name="adjust_traffic_data">Dataverbruik instellen</string>
   <string name="alter_dialog_message">Gebruik van mobile data bij internationaal roamen kan leiden tot extra kosten van uw provider. Laat apps op lijst uitzonderingen toe om verbinding te maken tot dataservices bij internationaal roamen?</string>
-  <string name="apn_exception_summary">Netwerk toegangspunt informatie geeft afwijkingen aan</string>
+  <string name="apn_exception_summary">"Test  configuratie's van providers Netwerk toegangspunt"</string>
   <string name="apn_exception_title">Controleer APN configuraties</string>
   <string name="app_detail">Details</string>
   <string name="app_mobile">Data</string>
@@ -124,7 +124,7 @@
   <string name="international_roaming_whitelist_count">%d apps kan mobiele data gebruiken bij internationaal roamen</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Leeg</string>
-  <string name="load_fail">Kan het niet laden</string>
+  <string name="load_fail">Kon het niet laden</string>
   <string name="lock_screen_setting_summary">Melding weergeven wanneer meer dan 100KB wordt verbruikt in minder dan 2 dagen</string>
   <string name="lock_screen_traffic_guide_notification_summary">Mobiel data verbruikt tijdens het vergrendelscherm.</string>
   <string name="lock_screen_traffic_guide_notification_title">%s verbruikte mobiele data</string>
@@ -181,10 +181,12 @@
   <string name="network_diagnostics">Test netwerk</string>
   <string name="none_mi_service_app_detail">Leeg</string>
   <string name="notify_daily_data_usage_body">%s verbruikt vandaag. Tik om een limiet in te stellen.</string>
-  <string name="notify_daily_limit_body">%s verbruikt deze week. Tik om een limiet in te stellen.</string>
+  <string name="notify_daily_limit_body">%s verbruikt van vandaag. Tik om een limiet in te stellen.</string>
   <string name="notify_daily_limit_title">Stel dagelijkse datalimiet in</string>
   <string name="notify_month_traffic_body">%s verbruikt deze maand. Tik om een limiet in te stellen.</string>
   <string name="notify_setting_pkg_title">Stel maandelijkse datalimiet in</string>
+  <string name="notify_daily_limit_title_for_slotnum">Dagelijks limiet instellen op %s</string>
+  <string name="notify_setting_pkg_title_for_slotnum">Maandelijks limiet instellen op %s</string>
   <string name="notify_weekly_pkg_body">%s verbruikt deze week. Tik om een limiet in te stellen.</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
@@ -196,7 +198,7 @@
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
-  <string name="pay_charge">Opwaarderen</string>
+  <string name="pay_charge">Koop extra data</string>
   <string name="per_month_pkg_traffic_settings">Datalimiet instellen</string>
   <string name="permit_running_network">Achtergrond data toestaan</string>
   <string name="person_hotpot">Mobiele hotspots</string>
@@ -284,7 +286,7 @@
   <string name="read_number">86 artikels</string>
   <string name="read_unit">" artikels"</string>
   <string name="repair">Herstellen</string>
-  <string name="replace_dns">Auto vervanging</string>
+  <string name="replace_dns">DNS automatisch vervangen</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Apps op de witte lijst kunnen gebruik maken van mobiele data bij internationaal roamen.</string>
   <string name="roaming_not_start_title">Internationale roaming</string>

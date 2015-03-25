@@ -137,6 +137,10 @@
   <string name="clean_content_three">Sla %s over</string>
   <string name="clean_content_two">%1$s en %2$s</string>
   <string name="clean_content_zero">Niet alles opruimen</string>
+  <string name="cmcc_app_check_dialog_message">Herstart je apparaat om herstel te voltooien.</string>
+  <string name="cmcc_app_check_dialog_negative">Later</string>
+  <string name="cmcc_app_check_dialog_positive">Nu herstarten</string>
+  <string name="cmcc_app_check_dialog_title">Systeem hersteld</string>
   <string name="confirm_auto_cleaner">Ok</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Annuleren</string>
@@ -347,8 +351,10 @@
   <string name="never">1 maal</string>
   <string name="notification_button_text_of_low_memory">Opruimen</string>
   <string name="notification_summary_after_auto_cleanup">Opgeruimd %s.</string>
+  <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
   <string name="notification_summary_of_garbage_cleanup">Je afval is over de %s.</string>
   <string name="notification_summary_of_low_memory">Wanneer het geheugen bijna vol is, kan je geen nieuwe apps installeren</string>
+  <string name="notification_title_cmcc_app_check">%d dagen sinds laatste controle</string>
   <string name="notification_title_firewall_blocked">Geblokkeerd</string>
   <string name="notification_title_of_garbage_cleanup">Vuilnis grootte waarschuwing</string>
   <string name="notification_title_of_low_memory">Systeem geheugen gebruikt: %s</string>
@@ -604,6 +610,7 @@
   <string name="summary_cleaner_cloudscan">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_cloud_account">Haal het meeste uit uw Mi apparaat</string>
   <string name="summary_cloud_service">"Sync. uw foto's, contactpersonen en meer op al uw apparaten"</string>
+  <string name="summary_cmcc_app_check">Sommige apps konden niet geverifieerd worden</string>
   <string name="summary_data_flow">Vermijdt om maandelijkse datalimiet uw provider te overschrijden</string>
   <string name="summary_default_app">"%s is niet ingesteld als een standaard systeem app"</string>
   <string name="summary_delete_cache">Sommige apps kunnen deze gegevens nodig hebben om normaal te werken</string>
@@ -643,6 +650,7 @@
   <string name="title_cleaner_cloudscan">Mapnamen uploaden</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
+  <string name="title_cmcc_app_check">Verificatie is niet voltooid</string>
   <string name="title_data_flow">Stel een dataverbruik waarschuwing in</string>
   <string name="title_data_flow_no">Data verbruiksmonitor uitgeschakeld</string>
   <string name="title_data_flow_yes">Data verbruiksmonitor ingeschakeld</string>
