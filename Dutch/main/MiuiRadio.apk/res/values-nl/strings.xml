@@ -15,6 +15,7 @@
   <string name="category_download">DOWNLOAD</string>
   <string name="category_sleep_mode">SLAAP TIMER</string>
   <string name="category_tone_quality">GELUIDS KWALITEIT</string>
+  <string name="channel_off">Dit programma langer beschikbaar</string>
   <string name="click_to_play">Leeg</string>
   <string name="device_connected">Verbonden</string>
   <string name="device_not_connected">Niet verbonden</string>
@@ -38,7 +39,7 @@
   <string name="hotlist_name">Aanbevolen</string>
   <string name="impunity_declaration">Radio heeft internet verbinding nodig om normaal te functioneren.</string>
   <string name="impunity_declaration_ignore">Niet meer weergeven</string>
-  <string name="impunity_declaration_negative_text">Stoppen</string>
+  <string name="impunity_declaration_negative_text">Weigeren</string>
   <string name="impunity_declaration_positive_text">Ok</string>
   <string name="impunity_declaration_title">Internet verbinding</string>
   <string name="intelligent_model">Hoge kwaliteit streamen bij Wi-Fi</string>
@@ -53,12 +54,15 @@
   <string name="metered_alert_msg">Het gebruik van uw mobiele netwerk om naar muziek te luisteren zal uw dataverbruik te verhogen. Als je over dataverbruik limietsplan beschikt, kan uw provider extra kosten aanrekenen.</string>
   <string name="metered_allow">Streamen</string>
   <string name="metered_disallow">Annuleren</string>
+  <string name="metered_network_text">Streamen met behulp van gemeten netwerk</string>
   <string name="metered_play_toast">Gebruik mobiele data om Radio te streamen</string>
   <string name="min_sleep_time">1</string>
   <string name="more">Meer</string>
   <string name="my_favorite">FAVORIETEN</string>
   <string name="my_program">Offline</string>
+  <string name="no_display_channel_text">Geen kanalen</string>
   <string name="no_display_history_text">Geen geschiedenis</string>
+  <string name="no_display_other_text">Geen resultaten</string>
   <string name="no_network_button_radio">Gebruik FM radio</string>
   <string name="no_network_button_refresh">Vernieuwen</string>
   <string name="no_network_text">"Kan niet verbinden met netwerk</string>
@@ -79,6 +83,7 @@
   <string name="select_device">CKies apparaat</string>
   <string name="share">Delen</string>
   <string name="share_button">Delen</string>
+  <string name="share_in_development"/>
   <string name="share_text">Van Radio</string>
   <string name="share_text_other">Luisteren naar %1$s op %2$s.</string>
   <string name="sleep_mode_canceled">Slaapp modus uitgeschakeld</string>
@@ -99,5 +104,5 @@
   <string name="ultra_high_quality">Goed (64 bps)</string>
   <string name="unfavorite">Favoriet verwijderen</string>
   <string name="updated">" bijgewerkt"</string>
-  <string name="use_fm_radio_failed">Dit apparaat kan FM radio niet gebruiken</string>
+  <string name="use_fm_radio_failed">Deze apparaten kunnen FM radio niet gebruiken</string>
 </resources>
