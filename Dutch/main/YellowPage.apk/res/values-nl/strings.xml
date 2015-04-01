@@ -109,6 +109,7 @@
   <string name="express_inquiry_history_remark_hint">Geschiedenis</string>
   <string name="express_inquiry_internal_failure">Er is een fout opgetreden. Controleer volg nummer</string>
   <string name="express_inquiry_logistics">Koerier selecteren</string>
+  <string name="express_inquiry_logistics_prefix">Koerierdienst : %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Overige</string>
   <string name="express_inquiry_no_history">Geen geschiedenis</string>
   <string name="express_inquiry_no_result">Geen resultaten</string>
@@ -116,7 +117,7 @@
   <string name="express_inquiry_number_invalid">Ingevoerd nummer is ongeldig. Controleer het volg nummer.</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Volg nummer</string>
-  <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
+  <string name="express_inquiry_serial_number_prefix">Serienummer: %s</string>
   <string name="express_inquiry_trace">Volgen</string>
   <string name="express_inquiry_trace_device_login_notice">Je gebruikt deze service op een ander apparaat. Als u  bestellings status van dit apparaat wilt ontvangen, moet u uw Mi account bevestigen.</string>
   <string name="express_inquiry_trace_success">Gevolgd</string>
@@ -128,7 +129,6 @@
   <string name="express_no_order_info">Nr. bestelling info</string>
   <string name="express_order_confirmation">Bestel bevestiging</string>
   <string name="express_order_created_time">Tijd van de bestelling</string>
-  <string name="express_order_detail">Detail</string>
   <string name="express_order_failed">Mislukt</string>
   <string name="express_order_info">Bestel info</string>
   <string name="express_order_internal_id">Bestel ID</string>
@@ -243,16 +243,18 @@ Deze gele gids volgen bevestigen?"</string>
   <string name="no_price">Geen prijs info</string>
   <string name="notify_connect_summary">Toon me meteen als ik verbinding maakt met internet</string>
   <string name="notify_connect_title">Internetverbinding notificatie</string>
-  <string name="order_date_label">Bestel datum: %s</string>
+  <string name="order_date_label">Bestel datum:</string>
+  <string name="order_detail">Details</string>
   <string name="order_empty_hint">Geen bestellingen</string>
-  <string name="order_id_label">Bestel ID: %s</string>
+  <string name="order_id_label">Bestel ID:</string>
   <string name="order_merchant_title">Mijn bestellingen</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Geen gerelateerde bestelling gevonden</string>
-  <string name="order_price_label">Prijs bestelling: %s</string>
-  <string name="order_product_name_label">"Product naam: "</string>
+  <string name="order_price_label">Prijs bestelling:</string>
+  <string name="order_product_name_label">Product naam:</string>
   <string name="order_status">%s</string>
-  <string name="order_status_label">Bestel status: %s</string>
+  <string name="order_status_label">Bestel status:</string>
+  <string name="order_type_recharge">Opwaarderen</string>
   <string name="packages_no_package">Geen aanbevolen pakketten</string>
   <string name="packages_pay">Kopen</string>
   <string name="packages_pay_confirm">Betaling bevestigen</string>
@@ -354,4 +356,5 @@ Deze gele gids volgen bevestigen?"</string>
   <string name="yellowpage_navigation_network_location_enabled">Service is geopend, je kan het uitschakelen in locatie instellingen</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Verbeter zoekresultaten door Directory toegang te geven tot je locatie info.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Locatie toegang</string>
+  <string name="yuan">Yuan</string>
 </resources>

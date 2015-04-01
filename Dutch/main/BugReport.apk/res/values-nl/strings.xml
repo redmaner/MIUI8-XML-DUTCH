@@ -83,7 +83,8 @@
   <string name="signal_problem2">Slecht signaal</string>
   <string name="submit_dialog_cancel">Annuleren</string>
   <string name="submit_dialog_confirm">Indienen</string>
-  <string name="submit_dialog_content">"Uw feedback, samen met error logs en de bijgevoegde foto's, zullen worden verzonden naar de Mi servers."</string>
+  <string name="submit_dialog_content">"Uw feedback samen met error logs en de bijgevoegde foto's zullen worden verzonden naar de Mi servers waneer je apparaat verbonden is met Wi-Fi."</string>
+  <string name="submit_dialog_not_wifi_content">"Uw feedback samen met error logs en de bijgevoegde foto's zullen worden verzonden naar de Mi servers waneer je apparaat verbonden is met Wi-Fi."</string>
   <string name="submit_dialog_title">Send report to Xiaomi</string>
   <string name="suggestion_description">Schrijf uw suggestie hier</string>
   <string name="suggestion_problem1">Vertel ons welke functies u graag zou willen zien in de toekomst</string>
@@ -94,11 +95,12 @@
   <string name="title_nonsystem_app">Andere apps</string>
   <string name="title_system_app">MIUI apps</string>
   <string name="toast_description_required">Omschrijving is vereist</string>
+  <string name="toast_feedback_collect_store">Logs aan het verzamelen…</string>
   <string name="toast_feedback_network_unavailable">Kan geen verbinding maken met netwerk</string>
   <string name="toast_feedback_pending_wlan">Rapport wordt verzonden wanneer u verbinding hebt met een Wi-Fi netwerk</string>
   <string name="toast_feedback_submitted">Rapport is verstuurd</string>
   <string name="toast_feedback_submitting">Indienen…</string>
-  <string name="toast_feedbackservice_in_submit">Vorige feedback verzenden…</string>
+  <string name="toast_feedbackservice_in_submit">Vorige feedback in behandeling…</string>
   <string name="toast_network_unavailable">Kon niet verzenden. Kan niet verbinden met netwerk</string>
   <string name="toast_pending_log_collection">Er komen nog steeds logs binnen…</string>
   <string name="toast_report_copied_to_clipboard">Rapport gekopieerd naar het klembord</string>
