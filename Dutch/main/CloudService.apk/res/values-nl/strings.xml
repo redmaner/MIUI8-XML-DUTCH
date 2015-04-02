@@ -14,7 +14,11 @@
   <string name="bad_authentication">Ongeldig account of wachtwoord</string>
   <string name="btn_return">Vorige</string>
   <string name="button_cancel">Annuleren</string>
-  <string name="buy_space_expire">Gekochte ruimte verloopt %s</string>
+  <string name="buy_more_space_b_class">"Aanmelden bij mi.com/micloud om meer ruimte te verkrijgen.
+Je hebt een bankkaart van het vaste land van China nodig om extra ruimte te kopen."</string>
+  <string name="buy_more_space_c_class">"Deze functie geef een bankkaart van het vaste land van China nodig.
+Om meer ruimte te verkrijgen, bezoek mi.com/micloud."</string>
+  <string name="buy_space_expire">Gekochte ruimte verloopt op %s</string>
   <string name="buy_space_expire_concat">%1$s to %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Automatisch verlengen</string>
   <string name="buy_space_sulotion_message">Koop %sGB extra ruimte</string>
@@ -24,6 +28,18 @@
   <string name="buy_space_sulotion_title">Koop opslag ruimte</string>
   <string name="calendar_sync">Kalender</string>
   <string name="click_to_enabled">Aanraken om te sync.</string>
+  <string name="cloud_back_up_button_ok">Forceer stoppen</string>
+  <string name="cloud_back_up_close_info">Til om te backuppen.</string>
+  <string name="cloud_back_up_dialog_content">"Huidige backup stoppen? Als je nu stopt, zal je deze backup nietkunnen gebruiken om apps te herstellen."</string>
+  <string name="cloud_back_up_interval_long">7 dagen</string>
+  <string name="cloud_back_up_interval_short">1 uur</string>
+  <string name="cloud_back_up_network_unavailable">"Kon niet worden verwijderd. Maak verbinding met Wi-Fi en probeer opnieuw."</string>
+  <string name="cloud_back_up_open_info">"Backup je beginscherm layout en apps iedere %1$s wanneer je verbonden bent mer Wi-Fi
+Laatste backup: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Backup je beginscherm layout en apps iedere %1$s wanneer je verbonden bent mer Wi-Fi</string>
+  <string name="cloud_back_up_remove_success">Backup verwijdered</string>
+  <string name="cloud_back_up_title">Backup beginscherm</string>
+  <string name="cloud_backup_dialog_title">Backup met Mi Cloud</string>
   <string name="cloud_find_device">Zoek apparaat</string>
   <string name="cloud_space_upgrade_message">Tik om %sGB toe te voegen aan cloud</string>
   <string name="cloud_space_upgrade_no_quota_info">Kon opslag info niet verkrijgen</string>
@@ -194,7 +210,7 @@ Deze functie versleutelt en uploadt de ID van uw apparaat naar de Mi servers.</s
   <string name="setting">Instellingen</string>
   <string name="share_cancel">Delen geannuleerd</string>
   <string name="share_failed">Kon niet delen</string>
-  <string name="share_miliao_not_installed">MiTalk is niet geïnstaleerd.</string>
+  <string name="share_miliao_not_installed">Mi Talk is niet geïnstaleerd.</string>
   <string name="share_success">Gedeelt</string>
   <string name="share_weibo_not_installed">Weibo is niet geïnstaleerd.</string>
   <string name="share_weixin_not_installed">Wechat is niet geïnstaleerd.</string>

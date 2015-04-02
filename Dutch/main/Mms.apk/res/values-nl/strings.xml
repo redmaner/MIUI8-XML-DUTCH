@@ -79,8 +79,10 @@
   <string name="confirm_no_block_title">Nummer niet blokkeren en alle berichten herstellen?</string>
   <string name="confirm_rate_limit">Er wordt een groot aantal multimediaberichten verzonden.</string>
   <string name="confirm_restore_all_title">Alle berichten herstellen van dit nummer?</string>
+  <string name="confirm_restore_checkbox">Unblock Messages send from this number</string>
+  <string name="confirm_restore_message">Geselecteerde berichten herstellen?</string>
   <string name="confirm_restore_positive">Herstellen</string>
-  <string name="confirm_restore_title">Geselecteerde berichten herstellen?</string>
+  <string name="confirm_restore_title">Berichten herstellen</string>
   <string name="confirm_send_mms">Een van uw ontvangers heeft een e-mailadres. Dit bericht wordt verzonden als een MMS, uw provider kan hiervoor extra kosten aanrekenen.</string>
   <string name="context_menu_add_calendar">Toon in kalender</string>
   <string name="context_menu_add_contact">Toevoegen aan contacten</string>
@@ -359,6 +361,8 @@
   <string name="pref_title_ringtone_repeat_summary">Aantal meldings geluiden bij SMS ontvangen bericht terwijl scherm is uitgeschakeld:</string>
   <string name="pref_title_show_recent_contacts">Toon recente contacten</string>
   <string name="pref_title_sms_delete">Tekst berichten limiet</string>
+  <string name="pref_title_sms_validity_period">SMS geldigheidsduur</string>
+  <string name="pref_title_storage_status">Bericht opslag status</string>
   <string name="pref_title_system_mms_priority">Instellen als standaard</string>
   <string name="pref_title_vcard">Verzenden via vCard</string>
   <string name="pref_title_wake_up_screen">Schakel scherm in</string>
@@ -383,6 +387,7 @@
   <string name="received_label">"Ontvangen: "</string>
   <string name="recipient_editor_count_format">Ontvangen %d contact(en)</string>
   <string name="recipient_label">"Ontvanger: "</string>
+  <string name="recipients_over_size">Teveel onvangers.</string>
   <string name="recording_failed">Kan niet opnemen</string>
   <string name="refill_now">Nu opwaarderen</string>
   <string name="refresh">Vernieuwen</string>
@@ -488,6 +493,12 @@
   <string name="stick">Prik vast</string>
   <string name="stick_conversation">Prik huidige conversatie vast</string>
   <string name="sticked_conversation">Gesprek is al vastgeprikt</string>
+  <string name="storage_dialog_attachments">Mms bijlagen:</string>
+  <string name="storage_dialog_available_space">Beschikbare ruimte:</string>
+  <string name="storage_dialog_database">Database:</string>
+  <string name="storage_dialog_mms">Mms: %d</string>
+  <string name="storage_dialog_mms_size">Mms grootte:</string>
+  <string name="storage_dialog_sms">Sms: %d</string>
   <string name="storage_limits_activity">Opslaglimiet</string>
   <string name="storage_limits_message">Het aantal berichten beperken dat u kunt opslaan per conversatie?</string>
   <string name="storage_limits_setting">Ingesteld limiet</string>
