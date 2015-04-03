@@ -283,7 +283,7 @@
   <string name="chat_view_description">Bekijk e-mail discussies als conversatie bubbels</string>
   <string name="chat_view_quote_text">-----Geciteerd Tekst-----</string>
   <string name="chat_view_retract_quote_text">---Verberg Geciteerd Tekst---</string>
-  <string name="chat_view_title">Bekijk onderwerpen als gesprekken</string>
+  <string name="chat_view_title">Conversatieweergave</string>
   <string name="check_setup_data">Valideren server instellingen…</string>
   <string name="checking_for_mail">Controleren op e-mail</string>
   <string name="choosertitle_sharevia">Delen via</string>
@@ -483,6 +483,11 @@
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Minuscuul</string>
   <string name="generic_attachment_problem">Kan bestand niet bijvoegen.</string>
+  <string name="gmail_acceleration">Proxy server gebruiken voor Gmail Account</string>
+  <string name="gmail_login_confirm_to_use_proxy">Proxy server gebruiken om toegang te krijgen tot je Gmail Account?</string>
+  <string name="gmail_login_verify">Gmail Account toevoegen</string>
+  <string name="gmail_web_login_go">Ok</string>
+  <string name="gmail_web_login_required_message">Aanmelden bij Gmail</string>
   <string name="head_only_enable_dialog_message">Download bericht titels alleen(in plaats van de hele e-mail) bij mobiele data.</string>
   <string name="head_only_enable_dialog_nagative">Nu niet</string>
   <string name="head_only_enable_dialog_positive">Inschakelen</string>
@@ -653,8 +658,9 @@ Cc: %4$s
   <string name="notification_action_undo_delete">Verwijderd</string>
   <string name="notification_action_undo_remove_label">Label verwijderd</string>
   <string name="notification_exchange_calendar_added">Uitwissel kalender toegevoegd</string>
-  <string name="ok">OK</string>
-  <string name="okay_action">OK</string>
+  <string name="ok">Ok</string>
+  <string name="okay_action">Ok</string>
+  <string name="open_proxy_in_settings">Gmail is niet beschikbaar op uw huidige locatie. U kunt nog steeds berichten verzenden en ontvangen vanuit je Gmail Postvak In door gebruik van de Mail proxy server. Je kan deze functie elk moment in- of uitschakelen in Instellingen.</string>
   <string name="other_mail">Overige mails</string>
   <string name="outbox_alert_button_confirm">Bewerken</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
@@ -944,12 +950,14 @@ Cc: %4$s
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="updated_at">Laatst bijgewerkt: %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
-  <string name="upload_log">Upload diagnostische logs</string>
+  <string name="upload_log">Uploaden logs</string>
   <string name="upload_log_failed">Logs uploaden mislukt</string>
+  <string name="upload_log_no">Annuleren</string>
   <string name="upload_log_success">Logs uploaden gelukt</string>
-  <string name="upload_log_title">De diagnostische logs uploaden?</string>
+  <string name="upload_log_title">De logs nu uploaden?</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-  <string name="uploading_logs">Uploaden logs</string>
+  <string name="uploading_logs">Uploaden</string>
+  <string name="uploading_logs">De logs zijn aan het uploaden</string>
   <string name="validation_failed_prompt">Account kan niet worden geverifieerd , controleer %s server instellingen</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -973,6 +981,6 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_other_views">Overige</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="yes">Ja</string>
-  <string name="you_are_in_mobile_network">U gebruikt momenteel een mobiel netwerk, let op het verbruik!</string>
+  <string name="you_are_in_mobile_network">U gebruikt nu het mobiele netwerk</string>
   <string name="zip_viewer_no_file">Geen bestanden</string>
 </resources>
