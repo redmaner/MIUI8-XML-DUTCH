@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>1 uur</item>
+    </string-array>
+    <string-array name="sleep_duration_values_seconds">
+        <item>900</item>
+        <item>1800</item>
+        <item>2700</item>
+        <item>3600</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Alle Stations</item>
+        <item>Volwassene Hits</item>
+        <item>Klassiek</item>
+        <item>Klassieke Rock</item>
+        <item>Universiteits</item>
+        <item>Country</item>
+        <item>Noodtoestand</item>
+        <item>Noodtoestand Test</item>
+        <item>Vreemde Taal</item>
+        <item>Informatie</item>
+        <item>Jazz</item>
+        <item>Nieuws</item>
+        <item>Nostalgie</item>
+        <item>Oldies</item>
+        <item>Personaliteit</item>
+        <item>Publieke</item>
+        <item>Godsdienstige Muziek</item>
+        <item>Godsdienstige praatjes</item>
+        <item>Rhythm en Blues</item>
+        <item>Rock</item>
+        <item>Zachte</item>
+        <item>Zachte Rock</item>
+        <item>Zachte Rhythm en Blues</item>
+        <item>Sport</item>
+        <item>Praatjes</item>
+        <item>Top 40</item>
+        <item>Weer</item>
+    </string-array>
+    <string-array name="search_category_rbds_values">
+        <item>0</item>
+        <item>7</item>
+        <item>15</item>
+        <item>6</item>
+        <item>23</item>
+        <item>10</item>
+        <item>31</item>
+        <item>30</item>
+        <item>18</item>
+        <item>2</item>
+        <item>14</item>
+        <item>1</item>
+        <item>13</item>
+        <item>11</item>
+        <item>21</item>
+        <item>22</item>
+        <item>19</item>
+        <item>20</item>
+        <item>16</item>
+        <item>5</item>
+        <item>12</item>
+        <item>8</item>
+        <item>17</item>
+        <item>3</item>
+        <item>4</item>
+        <item>9</item>
+        <item>29</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Alle Stations</item>
+        <item>Cultuur</item>
+        <item>Lopende Zaken</item>
+        <item>"Kinder programma's"</item>
+        <item>Country Muziek</item>
+        <item>Documentaire</item>
+        <item>Drama</item>
+        <item>Luister Muziek</item>
+        <item>Onderwijs</item>
+        <item>Noodtoestand</item>
+        <item>Noodtoestand Test</item>
+        <item>Financiën</item>
+        <item>Folk Muziek</item>
+        <item>Informatie</item>
+        <item>Jazz Muziek</item>
+        <item>Light classical</item>
+        <item>Vrije Tijd</item>
+        <item>Nieuws</item>
+        <item>Nationale Muziek</item>
+        <item>Andere Muziek</item>
+        <item>Oldies Muziek</item>
+        <item>Phone In</item>
+        <item>Pop Muziek</item>
+        <item>Godsdienstig</item>
+        <item>Rock Muziek</item>
+        <item>Wetenschappen</item>
+        <item>Ernstig Klassiek</item>
+        <item>Sociale Zaken</item>
+        <item>Sport</item>
+        <item>Reizen</item>
+        <item>Gevarieerd</item>
+        <item>Weer</item>
+    </string-array>
+    <string-array name="search_category_rds_values">
+        <item>0</item>
+        <item>7</item>
+        <item>2</item>
+        <item>18</item>
+        <item>25</item>
+        <item>29</item>
+        <item>6</item>
+        <item>12</item>
+        <item>5</item>
+        <item>31</item>
+        <item>30</item>
+        <item>17</item>
+        <item>28</item>
+        <item>3</item>
+        <item>24</item>
+        <item>13</item>
+        <item>23</item>
+        <item>1</item>
+        <item>26</item>
+        <item>15</item>
+        <item>27</item>
+        <item>21</item>
+        <item>10</item>
+        <item>20</item>
+        <item>11</item>
+        <item>8</item>
+        <item>14</item>
+        <item>19</item>
+        <item>4</item>
+        <item>22</item>
+        <item>9</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Hernoemen</item>
+        <item>Auto-select</item>
+        <item>Verwijderen</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item>Noord Amerika</item>
+        <item>Europa</item>
+        <item>Japan</item>
+        <item>Japan(Groot)</item>
+        <item>Australië</item>
+        <item>Oostenrijk</item>
+        <item>België</item>
+        <item>Brazilië</item>
+        <item>China</item>
+        <item>Tsjechischië</item>
+        <item>Denemarken</item>
+        <item>Finland</item>
+        <item>Frankrijk</item>
+        <item>Duitsland</item>
+        <item>Griekenland</item>
+        <item>Hong Kong</item>
+        <item>Indië</item>
+        <item>Ierland</item>
+        <item>Italië</item>
+        <item>Korea</item>
+        <item>Mexico</item>
+        <item>Nederland</item>
+        <item>Nieuw Zeeland</item>
+        <item>Noorwegen</item>
+        <item>Polen</item>
+        <item>Portugal</item>
+        <item>Rusland</item>
+        <item>Singapore</item>
+        <item>Slowakije</item>
+		<item>Spanje</item>
+        <item>Zwitserland</item>
+        <item>Zeden</item>
+        <item>Taiwan</item>
+        <item>Turkije</item>
+        <item>Verenigd Koninkrijk</item>
+        <item>Verenigde Staten</item>
+    </string-array>
+    <string-array name="regional_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>Noord Amerika (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
+        <item>Europa (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Japan (76.0MHz To 90.0MHz In 100 Khz Steps)</item>
+        <item>Japan (Wide) (90.0MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Australië (87.7MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Oostenrijk (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>België (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Brazilië (87.8MHz To 108.0MHz In 200 Khz Step)</item>
+        <item>China (87.0MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Tsjechischië (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Denemarken (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Finland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Frankrijk (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Duitsland (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Griekenland (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Hong Kong (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Indië (91.0MHz To 106.4MHz In 100 Khz Steps)</item>
+        <item>Ierland (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Italië (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Korea (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
+        <item>Mexico (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
+        <item>Nederland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Nieuw Zeeland (88.0MHz To 107.0MHz In 100 Khz Steps)</item>
+        <item>Noorwegen (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Polen (88.0MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Portugal (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Rusland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Singapore (88.0MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Slowakije (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Spanje (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Zwitserland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Zweden (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Taiwan (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Turkije (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Verenigd Koninkrijk (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Verenigde Staten (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Verkrijg huidige zender parameters</item>
+        <item>Verkrijg zender parameters(20 maal herhalen)</item>
+        <item>VerkrijgZoeken station parameters</item>
+        <item>Verkrijg FM band bereik parameters</item>
+        <item>Configureer FM zoekparameters</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Stel FM RSSI delta in</item>
+        <item>Stel signaal drempel in</item>
+        <item>RF statistieken</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Extra opties</item>
+        <item>Configureer FM zoekparameters</item>
+        <item>RF statistieken</item>
+    </string-array>
+    <string-array name="freq_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+    <array name="freq_entryValues">
+        <item>@drawable/fm_number_empty</item>
+        <item>@drawable/fm_number_0</item>
+        <item>@drawable/fm_number_1</item>
+        <item>@drawable/fm_number_2</item>
+        <item>@drawable/fm_number_3</item>
+        <item>@drawable/fm_number_4</item>
+        <item>@drawable/fm_number_5</item>
+        <item>@drawable/fm_number_6</item>
+        <item>@drawable/fm_number_7</item>
+        <item>@drawable/fm_number_8</item>
+        <item>@drawable/fm_number_9</item>
+        <item>@drawable/fm_number_point</item>
+    </array>
+</resources>
