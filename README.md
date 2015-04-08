@@ -1,18 +1,12 @@
-License of this work is covered below, for more information contact github@miuiandroid.com
-
 #MIUI6 - Dutch translations#
 
 ---------------------------------------------------------------------------------------------
 
 MIUI6 Dutch Translations (Started August 2014 by Jacketti and Redmaner) 
 
+Currently maintained by Cueie and Redmaner
+
 Based on the work of http://miui.com and http://xiaomi.eu
-
----------------------------------------------------------------------------------------------
-
-MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License.
-
-This license can be found at http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---------------------------------------------------------------------------------------------
 
@@ -23,4 +17,13 @@ http://miui.connortumbleson.com/dev_guide
 It can be used in other languages to be included in multi language ROM
 
 ---------------------------------------------------------------------------------------------
-This is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License.
+
+This translation is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License.
+
+---------------------------------------------------------------------------------------------
+A special thanks to all the contributors of this translation:
+Cueie (lead translator)
+Redmaner (repository maintainer)
+cokeguy13
+Jacketti
+SKLCH
