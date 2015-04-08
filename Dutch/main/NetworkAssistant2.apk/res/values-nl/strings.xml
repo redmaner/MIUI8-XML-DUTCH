@@ -152,10 +152,10 @@
   <string name="main_primary_message_traffic_overlimit_purchase">Opwaarderen</string>
   <string name="main_primary_message_traffic_purchase">Opwaarderen</string>
   <string name="main_primary_message_traffic_warning">Je nader je dataverbruiks limiet</string>
-  <string name="main_secondary_message_traffic_detail_leisure">"Daluren: %1$s resterend | %2$s verbruikt</string>
-  <string name="main_secondary_message_traffic_detail_normal">Piekuren: %1$s%2$s resterend | %3$s verbruikt</string>
-  <string name="main_secondary_message_traffic_over">Over</string>
-  <string name="main_secondary_message_traffic_remain">resterend</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"Daluren: %1$s | %2$s verbruikt"</string>
+  <string name="main_secondary_message_traffic_detail_normal">"Piekuren: %1$s%2$s | %3$s verbruikt"</string>
+  <string name="main_secondary_message_traffic_over">"over "</string>
+  <string name="main_secondary_message_traffic_remain">"resterend "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s daluren dataverbruik</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s piekuren data verbruikt| geen daluren data resterend</string>
   <string name="main_secondary_message_traffic_used_normal">%s piekuren data verbruikt</string>
@@ -288,6 +288,7 @@
   <string name="read_number">86 artikels</string>
   <string name="read_unit">" artikels"</string>
   <string name="repair">Herstellen</string>
+  <string name="repair_loading_text">Laden…</string>
   <string name="replace_dns">DNS automatisch vervangen</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Apps op de witte lijst kunnen gebruik maken van mobiele data bij internationaal roamen.</string>
