@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Backup beginscherm apps​</string>
+  <string name="app_name">Back-up beginscherm apps​</string>
   <string name="back_up_task_in_process">Bezig met backup</string>
-  <string name="back_up_task_unfinished">Backup niet voltooid</string>
-  <string name="backing_up_to_micloud">Bezig met backup…</string>
-  <string name="backup_fail">Backup beginscherm apps mislukt</string>
+  <string name="back_up_task_unfinished">Back-up niet voltooid</string>
+  <string name="backing_up_to_micloud">Bezig met back-up…</string>
+  <string name="backup_fail">Back-up beginscherm apps mislukt</string>
   <string name="backup_size">Grootte: %s</string>
-  <string name="backup_success">Backup beginscherm apps gelukt</string>
-  <string name="backup_to_cloud">App backuppen</string>
+  <string name="backup_success">Back-up beginscherm apps gelukt</string>
+  <string name="backup_to_cloud">App back-uppen</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_delete">Verwijderen</string>
   <string name="button_next">Volgende</string>
   <string name="cancel_recover_settings">&lt;u&gt;Annuleren&lt;/u&gt;</string>
-  <string name="cloud_app_backup_success">App backup voltooid</string>
+  <string name="cloud_app_backup_success">App back-up voltooid</string>
   <string name="cloud_app_check_data">Communiceren met Mi Cloud…</string>
   <string name="cloud_app_current_device">Huidig apparaat</string>
   <string name="cloud_app_dont_restore">Niet herstellen</string>
@@ -24,10 +24,10 @@
   <string name="cloud_app_restore_error">Kon niet herstellen</string>
   <string name="cloud_app_restore_success">Apps hersteld</string>
   <string name="cloud_app_restore_wifi_prompt">Om je app te herstellen, verbind met een Wi-Fi netwerk.</string>
-  <string name="cloud_back_up_task">Backup</string>
+  <string name="cloud_back_up_task">Back-up</string>
   <string name="cloud_restore_from_other_device">Het herstellen van %s is in bezig, het verwijderen van de back-up zal deze taak te annuleren, wil je deze verwijderen?</string>
   <string name="cloud_restore_task">Herstellen</string>
-  <string name="cloud_task_in_process">Er is een %s taak bezig! Deze taak zal worden geanuleerd bij het verwijderen van de Backup huidig apparaat, wil je deze verwijderen?</string>
+  <string name="cloud_task_in_process">Er is een %s taak bezig! Deze taak zal worden geanuleerd bij het verwijderen van de back-up huidig apparaat, wil je deze verwijderen?</string>
   <string name="customization">&lt;u&gt;Aanpassen&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="desktop_downloading">Downloaden</string>
@@ -35,14 +35,14 @@
   <string name="desktop_recovering">Hertsellen</string>
   <string name="desktop_wait_wifi">Wacht op Wi-Fi</string>
   <string name="desktop_waiting">Wachten</string>
-  <string name="device_delete_prompt">Backup verwijderen van %s?</string>
+  <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
   <string name="device_xiaomi">Mi Telefoon</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="download_settings">Download beginscherm instellingen: %s%%</string>
   <string name="download_settings_fail">Downloaden van beginscherm instellingen mislukt</string>
   <string name="error_unknown">Er liep iets fout</string>
   <string name="latest_backup_time_loading">Laden…</string>
-  <string name="managespace_delete_backup">Backup verwijderen</string>
+  <string name="managespace_delete_backup">Back-up verwijderen</string>
   <string name="managespace_total_space">Totale ruimte: %s</string>
   <string name="menu_item_managespace">Beheer ruimte</string>
   <string name="menu_item_sort">Sorteren op</string>
@@ -64,7 +64,7 @@
   <string name="restoreing_file_tile">Herstellen van %d bestanden</string>
   <string name="retry">Probeer opnieuw</string>
   <string name="self_phone">Deze telefoon</string>
-  <string name="start_backup_to_micloud">Backup apps naar Mi Cloud</string>
+  <string name="start_backup_to_micloud">Back-up apps naar Mi Cloud</string>
   <string name="start_recover">Herstel %s</string>
   <string name="wait_icon_download">Downloaden van applicatie icoon</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
