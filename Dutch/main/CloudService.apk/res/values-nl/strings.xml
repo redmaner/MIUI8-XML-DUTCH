@@ -30,25 +30,26 @@ Om meer ruimte te verkrijgen, bezoek mi.com/micloud."</string>
   <string name="click_to_enabled">Aanraken om te sync.</string>
   <string name="close_cloud_app_backup_cancel">Annuleren</string>
   <string name="close_cloud_app_backup_close">Sluiten</string>
-  <string name="close_cloud_app_backup_local_backup">Backup</string>
-  <string name="close_cloud_app_backup_message">Cloud App Backup dienst zal worden gestopd en gegevens worden verwijderd op 1 mei 2015, maak zo snel mogelijk u een backup van uw gegevens.</string>
+  <string name="close_cloud_app_backup_local_backup">Back-up</string>
+  <string name="close_cloud_app_backup_message">Cloud App Back-up dienst zal worden gestopd en gegevens worden verwijderd op 1 mei 2015, maak zo snel mogelijk u een back-up van uw gegevens.</string>
   <string name="close_cloud_app_backup_notification_message">Klik om details weer te geven</string>
   <string name="close_cloud_app_backup_notification_title">Micloud dienst aanpassingsmelding</string>
   <string name="close_cloud_app_backup_title">Sluit melding</string>
-  <string name="cloud_app_back_up_quit_notification_content1">Mi Cloud App Backup diensten zullen worden stopgezet voor niet MIUI apps. Verwante gegevens voor apps van derden zullen worden verwijderd op 1 mei 2015. Om te voorkomen dat je belangrijke informatie verliest, maak een lokale backup van uw app gegevens.</string>
-  <string name="cloud_app_back_up_quit_notification_content3">Backup app data</string>
+  <string name="cloud_app_back_up_quit_notification_content1">Mi Cloud App Back-up diensten zullen worden stopgezet voor niet MIUI apps. Verwante gegevens voor apps van derden zullen worden verwijderd op 1 mei 2015. Om te voorkomen dat je belangrijke informatie verliest, maak een lokale backup van uw app gegevens.</string>
+  <string name="cloud_app_back_up_quit_notification_content2">Contacten, Berichten, Gallerij en andere MIUI system apps zullen onaangetast blijven.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Back-up app data</string>
   <string name="cloud_back_up_button_ok">Forceer stoppen</string>
-  <string name="cloud_back_up_close_info">Til om te backuppen.</string>
-  <string name="cloud_back_up_dialog_content">"Huidige backup stoppen? Als je nu stopt, zal je deze backup nietkunnen gebruiken om apps te herstellen."</string>
+  <string name="cloud_back_up_close_info">Til om te back-uppen.</string>
+  <string name="cloud_back_up_dialog_content">"Huidige back-up stoppen? Als je nu stopt, zal je deze back-up nietkunnen gebruiken om apps te herstellen."</string>
   <string name="cloud_back_up_interval_long">7 dagen</string>
   <string name="cloud_back_up_interval_short">1 uur</string>
   <string name="cloud_back_up_network_unavailable">"Kon niet worden verwijderd. Maak verbinding met Wi-Fi en probeer opnieuw."</string>
-  <string name="cloud_back_up_open_info">"Backup je beginscherm layout en apps iedere %1$s wanneer je verbonden bent mer Wi-Fi
+  <string name="cloud_back_up_open_info">"Back-up je beginscherm layout en apps iedere %1$s wanneer je verbonden bent mer Wi-Fi
 Laatste backup: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Backup je beginscherm layout en apps iedere %1$s wanneer je verbonden bent mer Wi-Fi</string>
-  <string name="cloud_back_up_remove_success">Backup verwijdered</string>
-  <string name="cloud_back_up_title">Backup beginscherm</string>
-  <string name="cloud_backup_dialog_title">Backup met Mi Cloud</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Back-up je beginscherm layout en apps iedere %1$s wanneer je verbonden bent mer Wi-Fi</string>
+  <string name="cloud_back_up_remove_success">Back-up verwijdered</string>
+  <string name="cloud_back_up_title">Back-up beginscherm</string>
+  <string name="cloud_backup_dialog_title">Back-up met Mi Cloud</string>
   <string name="cloud_find_device">Zoek apparaat</string>
   <string name="cloud_space_upgrade_message">Tik om %sGB toe te voegen aan cloud</string>
   <string name="cloud_space_upgrade_no_quota_info">Kon opslag info niet verkrijgen</string>
@@ -79,8 +80,7 @@ Laatste backup: %2$s"</string>
   <string name="find_device_disabled_title">Apparaat zoeken is uitgeschakeld</string>
   <string name="find_device_disabling">Uitschakelen…</string>
   <string name="find_device_dspt">Lokaliseren, vergrendelen, of uw apparaat op afstand te resetten</string>
-  <string name="find_device_dspt_provision">"Apparaat vinden
-localiseren, vergrendelen of resetten vanaf "</string>
+  <string name="find_device_dspt_provision">"Als u uw toestel verliest, kunt u naar %s gaan om hem te lokaliseren, vergrendelen of resetten. U kunt deze functie in- en uitschakelen op elk gewenst moment in Instellingen."</string>
   <string name="find_device_dspt_provision_2">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. U kunt deze functie op elk moment in- en uitschakelen in de instellingen.</string>
@@ -92,7 +92,9 @@ localiseren, vergrendelen of resetten vanaf "</string>
   <string name="find_device_notice_p1">Ga naar</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">Om je telefoon te lokaliseren, vergrendelen of te herstellen. Zal er automatisch een SMS verstuurd worden om de functie te heractiveren als u van SIM kaarten verwisseld.</string>
-  <string name="find_device_send_sms_alert">Als u van SIM kaarten verwisseld zal er automatisch een SMS verstuurd worden om de functie te heractiveren.</string>
+  <string name="find_device_send_sms_alert">
+  
+Als u van SIM kaarten verwisseld zal er automatisch een SMS verstuurd worden om de functie te heractiveren.</string>
   <string name="find_device_status_ok">Apparaat van overal vinden op i.mi.com</string>
   <string name="find_device_status_ok_international">Je apparaat zoeken van overal op www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Tik op OK om de dempen</string>
@@ -239,8 +241,13 @@ Deze functie versleutelt en uploadt de ID van uw apparaat naar de Mi servers.</s
   <string name="sub_sync_item_sms_title_wifi_only">Enkel Wi-Fi gebruiken om MMS te synchroniseren</string>
   <string name="success_upgraded_space">%s toegevoegd</string>
   <string name="sync_dspt">Synchronisatie inschakelen</string>
-  <string name="sync_dspt_entrance_provision">"Sync. uw foto's, contacten en berichten, of de locatie van uw apparaat."</string>
+  <string name="sync_dspt_entrance_provision">"Sync. uw foto's, contacten en belgeschiedenis en berichten op al uw apparaten. Je hebt toegang tot deze dingen die je sync. vanuit elke browser op %s." "</string>
   <string name="sync_dspt_entrance_provision_2">Meer informatie</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">Niet gebruiken</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's ingebouwde apps hebben Mi Cloud nodig om een back-up te maken van uw foto's, contacten, notities en nog meer. Mi Cloud is gratis."</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Gebruik Mi Cloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">Mi Cloud gebruiken?</string>
+  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Deze stap overslaan&lt;/u&gt;</string>
   <string name="sync_dspt_provision">"Sync
 Sync. uw foto's, contacten, notities, en meer op al uw apparaten of bereik ze op"</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
@@ -275,7 +282,7 @@ Sync. uw foto's, contacten, notities, en meer op al uw apparaten of bereik ze op
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Gebruikers overeenkomst</string>
   <string name="user_agreement_p6">"
-Uw gebruik van deze functie is afhankelijk van "</string>
+Door gebruik te maken van deze service gaat u akkoord met "</string>
   <string name="user_agreement_p7">"Mi Cloud's Servicevoorwaarden"</string>
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Mi Cloud's Servicevoorwaarden"</string>

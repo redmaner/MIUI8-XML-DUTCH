@@ -568,6 +568,7 @@
   <string name="controls_label">Bedieningselementen</string>
   <string name="controls_subtitle">Energieverbruik aanpassen</string>
   <string name="copyright_title">Auteursrecht</string>
+  <string name="country_name">%s (systeem)</string>
   <string name="create">Aanmaken</string>
   <string name="credential_storage_type">Opslagtype</string>
   <string name="credential_storage_type_hardware">Ondersteund door hardware</string>
@@ -873,6 +874,7 @@
   <string name="enable_adb">USB foutopsporing</string>
   <string name="enable_adb_summary">Foutopsporingsmodus bij USB verbinding</string>
   <string name="enable_compatibility">App schalen</string>
+  <string name="enable_data_string">Data verbinding inschakelen</string>
   <string name="enable_crypt_keeper_encrypt">Encryptie inschakelen</string>
   <string name="enable_drive_mode">Auto modus</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobiele data verbinding inschakelen?</string>
@@ -1072,6 +1074,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="input_settings">Invoer instellingen</string>
   <string name="install_all_warning">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen door apps van onbekende bronnen. U gaat ermee akkoord dat alleen u verantwoordelijk bent voor enige schade aan uw apparaat of verlies van gegevens die voortkomen uit het gebruik van deze apps.</string>
   <string name="install_applications">Onbekende bronnen</string>
+  <string name="install_preinstall_app">Apps laden…</string>
   <string name="install_text">Installeren</string>
   <string name="install_unknown_applications">Toestaan dat apps uit andere bronnen dan de Play Store worden geïnstalleerd</string>
   <string name="install_whole_rom">Download ROM</string>
@@ -1126,7 +1129,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="led_colors_summary">Meldingen</string>
   <string name="led_frequence_summary">Stel de interval tussen LED knipperingen</string>
   <string name="led_pulse_summary">Knipper meldings licht op als er een nieuwe melding is</string>
-  <string name="led_settings">Melding licht</string>
+  <string name="led_settings">Meldings licht</string>
   <string name="legal_information">Juridische informatie</string>
   <string name="license_title">Licentie</string>
   <string name="line_breaking_summary">Paragraaf lijn breuken optimaliseren</string>
@@ -1144,6 +1147,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="local_backup_section_summary">Back-up systeem instellingen, accountgegevens en apps</string>
   <string name="local_backup_section_title">Automatisch back-uppen</string>
   <string name="locale_default">Standaard</string>
+  <string name="locale_settings">Lokaal</string>
   <string name="location_access_off">Uit</string>
   <string name="location_access_on">Aan</string>
   <string name="location_access_summary">Apps die uw toestemming hebben gevraagd, toestaan uw locatiegegevens te gebruiken</string>
@@ -1851,12 +1855,26 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_on_proximity_sensor_summary">Automatisch vergrendelen  wanneer je hem in je zak steekt</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzak gesprekken</string>
   <string name="screen_optimize">Contrast</string>
+  <string name="screen_paper_mode_adjust_level">Pas leesmodus effect aan</string>
+  <string name="screen_paper_mode_apps_loading">Laden…</string>
   <string name="screen_paper_mode_apps_title">Gebruik Lees modus voor deze apps</string>
+  <string name="screen_paper_mode_global_summary">Gebruik leesmodus globaal, niet aangepast</string>
+  <string name="screen_paper_mode_global_title">Globaal</string>
+  <string name="screen_paper_mode_local_summary">Gebruik leesmodus lokaal, klik op de pijl naar rechts om aan te passen</string>
+  <string name="screen_paper_mode_local_title">Lokaal</string>
   <string name="screen_paper_mode_off_apps_title">Lees modus niet gebruiken voor de volgende apps</string>
+  <string name="screen_paper_mode_range_title">Bereik</string>
+  <string name="screen_paper_mode_set_apps_title">Aangepaste lees modus</string>
   <string name="screen_paper_mode_summary">Verminder scherm achtergrond glans</string>
   <string name="screen_paper_mode_title">Lees Modus</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Niet vragen</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Akkoord en doorgaan</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Om de lijst met toepassingen te updaten kan leesmodus gebruikt worden, je hebt een netwerk verbinding nodig.Bent u akkoord?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Algemene voorwaarden</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst van applicaties updaten met behulp van leesmodus over het netwerk</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Netwerk update lijst</string>
   <string name="screen_saturation">Kleur verzadiging</string>
   <string name="screen_timeout">Slapen na</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
@@ -2038,6 +2056,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="sim_reenter_new">Nieuwe PIN code nogmaals invoeren</string>
   <string name="sim_status_title">SIM status</string>
   <string name="skip_label">Overslaan</string>
+  <string name="skip_lock_screen_confirm_msg">De volgende functies worden uitgeschakeld voor het vergrendelscherm: meldingen, muziekspeler controles, veeg naar links om toegang te krijgen tot de camera, en veeg naar rechts toegang Mi Startpagina.</string>
   <string name="skip_step">Overslaan</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>

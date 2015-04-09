@@ -52,7 +52,8 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Uw aanmelding bij %s is mislukt. De server retourneerde het volgende bericht: %s Wilt u uw gebruikersnaam en/of wachtwoord bijwerken?</string>
   <string name="account_settings_login_dialog_title">Kan niet inloggen</string>
   <string name="account_settings_mail_check_frequency_label">Frequentie</string>
-  <string name="account_settings_name_label">Uw naam</string>
+  <string name="account_settings_mibill_resolve_label">Analyseer e-mail verklaringen</string>
+  <string name="account_settings_name_label">Gebruikersnaam</string>
   <string name="account_settings_notifications">Meldingen</string>
   <string name="account_settings_notify_label">Meldingen via e-mail</string>
   <string name="account_settings_notify_summary">Melding tonen wanneer er een e-mail binnenkomt</string>
@@ -283,7 +284,7 @@
   <string name="chat_view_description">Bekijk e-mail discussies als conversatie bubbels</string>
   <string name="chat_view_quote_text">-----Geciteerd Tekst-----</string>
   <string name="chat_view_retract_quote_text">---Verberg Geciteerd Tekst---</string>
-  <string name="chat_view_title">Bekijk onderwerpen als gesprekken</string>
+  <string name="chat_view_title">Conversatieweergave</string>
   <string name="check_setup_data">Valideren server instellingen…</string>
   <string name="checking_for_mail">Controleren op e-mail</string>
   <string name="choosertitle_sharevia">Delen via</string>
@@ -377,7 +378,7 @@
   <string name="done_action">Voltooid</string>
   <string name="donot_disturb_endtime_title">Naar</string>
   <string name="donot_disturb_starttime_title">Van</string>
-  <string name="donot_disturb_summary">Niet storen in de vooraf ingestelde tijd</string>
+  <string name="donot_disturb_summary">Meldingen voor binnenkomende e-mails zullen gedempt worden</string>
   <string name="donot_disturb_title">Niet storen</string>
   <string name="downlaod_cancel_confirm_download">Annuleer download</string>
   <string name="downlaod_cancel_continue_download">Niet stoppen</string>
@@ -483,6 +484,11 @@
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Minuscuul</string>
   <string name="generic_attachment_problem">Kan bestand niet bijvoegen.</string>
+  <string name="gmail_acceleration">Gebruik proxy server voor Gmail Account</string>
+  <string name="gmail_login_confirm_to_use_proxy">Proxy server gebruiken voor toegang tot je Gmail Account?</string>
+  <string name="gmail_login_verify">Gmail Account toevoegen</string>
+  <string name="gmail_web_login_go">Ok</string>
+  <string name="gmail_web_login_required_message">Aanmelden bij Gmail</string>
   <string name="head_only_enable_dialog_message">Download bericht titels alleen(in plaats van de hele e-mail) bij mobiele data.</string>
   <string name="head_only_enable_dialog_nagative">Nu niet</string>
   <string name="head_only_enable_dialog_positive">Inschakelen</string>
@@ -615,6 +621,12 @@ Cc: %4$s
   <string name="message_saved">Bericht opgeslagen als concept.</string>
   <string name="message_type_name">Bericht</string>
   <string name="message_view_attachment_background_load">Een of meer bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
+  <string name="mibill_privacy_policy_button1">Nu niet</string>
+  <string name="mibill_privacy_policy_button2">Akkoord</string>
+  <string name="mibill_privacy_policy_description">Mi Wallet zal alle ontvangen e-mail verklaringen analyseren in uw Mail-app en al uw kredit kaart rekeningen beheren. Deze service is standaard ingesteld op af voor bedrijf mailbox.</string>
+  <string name="mibill_privacy_policy_link">Akkoord &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Krediet Kaart Rekening Dienst gebruikersovereenkomst&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Mi Wallet analyseert e-mail verklaringen</string>
+  <string name="mock_content_provider">Immiteer Inhoud Provider</string>
   <string name="more_atts_remaining">%1$d meer overgebleven</string>
   <string name="more_atts_total">%1$d bijlagen in totaal</string>
   <string name="more_context">Meer</string>
@@ -736,7 +748,7 @@ Cc: %4$s
   <string name="preference_head_load_description">Alleen bericht titels downloaden met mobiele data.</string>
   <string name="preference_head_load_title">Verminder mobiel data verbruik</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">In POP3, zal bijlage (n) automatisch gedownload worden met e-mail zelf. Let op de mobiele data.</string>
+  <string name="preference_pop_tips">In POP3, zullen bijlagen automatisch gedownload worden met e-mail zelf. Let op de mobiele data.</string>
   <string name="preference_removal_action_title">Acties voor archiveren of verwijderen</string>
   <string name="preference_sender_image_description">Afbeelding van afzender weergeven in Postvak In</string>
   <string name="preference_sender_image_title">Afbeelding van afzender weergeven in Postvak In</string>
@@ -746,7 +758,7 @@ Cc: %4$s
   <string name="preferences_default_reply_all_summary">Gebruiken als standaard voor beantwoorden</string>
   <string name="preferences_default_reply_all_title">Allen beantwoorden</string>
   <string name="preferences_signature_dialog_title">Handtekening</string>
-  <string name="preferences_signature_summary_not_set">Niet ingesteld</string>
+  <string name="preferences_signature_summary_not_set">Geen</string>
   <string name="preferences_signature_title">Handtekening</string>
   <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Voorbeeld</string>
@@ -804,8 +816,8 @@ Cc: %4$s
   <string name="recipient_needed">"Voeg ten minste één ontvanger toe."</string>
   <string name="recipient_needed_title">Waarschuwing</string>
   <string name="recipient_null_dialog_title">Waarschuwing</string>
-  <string name="reduce_the_receiving_frequencye_summary">Lagere e-mail sync. snelheid in vooraf ingestelde tijd</string>
-  <string name="reduce_the_receiving_frequencye_title">Lagere e-mail sync. snelheid</string>
+  <string name="reduce_the_receiving_frequencye_summary">Sync. Postvak In minder vaak terwijl Niet storen ingeschakeld is</string>
+  <string name="reduce_the_receiving_frequencye_title">Sync. minder vaak</string>
   <string name="refresh">Vernieuwen</string>
   <string name="refreshing">Vernieuwen…</string>
   <string name="refreshing_done">Voltooid</string>
@@ -832,8 +844,8 @@ Cc: %4$s
   <string name="save_attachment">Opslaan</string>
   <string name="save_draft">Concept opslaan</string>
   <string name="save_draft_failed">Concept opslaan mislukt</string>
-  <string name="save_power_summary">Batterij besparing in vooraf ingestelde tijd</string>
-  <string name="save_power_title">Batterij besparing</string>
+  <string name="save_power_summary">Meldingen voor binnenkomende e-mails zullen gedempt worden</string>
+  <string name="save_power_title">Niet Storen</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="sdcard_cannot_use">Kaartopslag kan niet worden gebruikt</string>
@@ -927,6 +939,11 @@ Cc: %4$s
   <string name="tip_cannot_switchview_in_unread_folder">Niet in staat om het zicht te veranderen in ongelezen mail aggregatie modus</string>
   <string name="to">Aan</string>
   <string name="to_heading">"Aan: "</string>
+  <string name="toast_bar_fail_synchronization">Abnormale netwerkverbinding. Probeer later opnieuw</string>
+  <string name="toast_bar_insufficient_memory_space">Onvoldoende opslagruimte op de telefoon, e-mail synchronisatie mislukt</string>
+  <string name="toast_bar_invalid_account">Account verlopen, opnieuw inloggen</string>
+  <string name="toast_bar_no_connection_network">Netwerk is niet aangesloten, klikt op instellen</string>
+  <string name="toast_bar_open_gmail_synchronization">Niet langer beperkt tot gebruik van Gmail, klik om te gebruiken</string>
   <string name="too_large_to_attach_additional">Bestand niet bijgevoegd. Limiet van %1$s bereikt.</string>
   <string name="too_large_to_attach_multiple">Een of meer bestanden niet bijgevoegd. Limiet van %1$s.</string>
   <string name="too_large_to_attach_single">Kan bestand groter dan %1$s niet bijvoegen.</string>
@@ -945,12 +962,14 @@ Cc: %4$s
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="updated_at">Laatst bijgewerkt: %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
-  <string name="upload_log">Uploaden diagnostische logs</string>
-  <string name="upload_log_failed">Logs uploaden mislukt</string>
+  <string name="upload_log">Upload logs</string>
+  <string name="upload_log_failed">Uploaden logs mislukt</string>
+  <string name="upload_log_no">Annueleren</string>
   <string name="upload_log_success">Uploaden logs gelukt</string>
-  <string name="upload_log_title">Uploaden diagnostische logs?</string>
+  <string name="upload_log_title">Logs nu uploaden？</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-  <string name="uploading_logs">Logs aan het uploaden </string>
+  <string name="upload_log_yes">Uploaden</string>
+  <string name="uploading_logs">De logs zijn aan het uploaden</string>
   <string name="validation_failed_prompt">Account kan niet worden geverifieerd , controleer %s server instellingen</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -974,6 +993,6 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_other_views">Overige</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="yes">Ja</string>
-  <string name="you_are_in_mobile_network">U gebruikt momenteel het mobiele netwerk, hoe rekening met data verbruik</string>
+  <string name="you_are_in_mobile_network">U gebruikt momenteel het mobiele netwerk</string>
   <string name="zip_viewer_no_file">Geen bestanden</string>
 </resources>

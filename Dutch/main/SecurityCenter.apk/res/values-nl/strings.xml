@@ -26,7 +26,7 @@
   <string name="activity_title_perm_manager">Toestemmingen</string>
   <string name="activity_title_permission_manager">Toestemmingen</string>
   <string name="activity_title_permissions_manager">Toestemmingen</string>
-  <string name="activity_title_power_manager">Power</string>
+  <string name="activity_title_power_manager">Batterij</string>
   <string name="activity_title_residual">Restanten</string>
   <string name="activity_title_risk">"Risico's"</string>
   <string name="activity_title_risk_detail">Risico detail</string>
@@ -319,7 +319,7 @@
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Fout</string>
   <string name="menu_item_notification_power_text">Uitschakelen</string>
-  <string name="menu_item_notification_title">Weergeven in notificatie schaduw</string>
+  <string name="menu_item_notification_title">Weergeven in meldigsschaduw</string>
   <string name="menu_item_settings_title">Instellingen</string>
   <string name="menu_item_shortcut_summary">Plaats functies op het startscherm</string>
   <string name="menu_item_shortcut_title">Snelkoppelingen beheren</string>
@@ -616,7 +616,7 @@
   <string name="summary_delete_cache">Sommige apps kunnen deze gegevens nodig hebben om normaal te werken</string>
   <string name="summary_delete_large_file">"Sommige grote bestanden kan handig zijn als u niet beschikt over een internetverbinding (bijvoorbeeld kaarten, schema's, etc.). Zorg ervoor dat u dit bestand niet nodig."</string>
   <string name="summary_dev">Voorkom dat apps toegang hebben tot je gebruikersgegevens</string>
-  <string name="summary_flow_notification">Toon uw maandelijkse dataverbruik in de notificatie schaduw</string>
+  <string name="summary_flow_notification">Toon uw maandelijkse dataverbruik in de meldigsschaduw</string>
   <string name="summary_flow_purchase_beyond">Je hebt maandelijkse datalimiet van uw provider overschreden met %sMB"</string>
   <string name="summary_flow_purchase_left">Je hebt nog maar  maar %sMB mobiele data over deze maand</string>
   <string name="summary_flow_verify">Provider dataverbruik de laatste %d  10 dagen niet gesync.</string>
@@ -702,6 +702,7 @@
   <string name="toast_network_eror">Kan geen verbinding maken met netwerk</string>
   <string name="toast_network_switch">Deze app kan verbinding maken met het internet</string>
   <string name="toast_removed_from_white_list">" verwijderd uit uitzonderingen"</string>
+  <string name="toast_resolve_apk_error">Oplossen apk fout</string>
   <string name="toast_root_apply_accept">Root toegang verleent %s</string>
   <string name="toast_root_apply_reject">Root toegang geweigerd voor %s</string>
   <string name="toast_shortcut_install">Snelkoppeling op startscherm geplaatst</string>
