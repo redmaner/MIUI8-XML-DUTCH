@@ -30,6 +30,7 @@
   <string name="all_episode">Alle Episodes</string>
   <string name="app_latest_version">Dit is reeds de laatste versie van de applicatie</string>
   <string name="app_name">Video</string>
+  <string name="app_update_background">App bijwerken in de achtergrond</string>
   <string name="app_upgrade_version">Laatste versie</string>
   <string name="app_version">Applicatie Versie</string>
   <string name="authenticated_failed">Kan niet inloggen</string>
@@ -78,7 +79,7 @@
   <string name="datastream_alert_title">Dataverbruikswaarschuwing</string>
   <string name="day">Dag</string>
   <string name="debug_mode">Debug Modus</string>
-  <string name="debug_mode_desc">Gecontroleerd, toon video id in de linker bovenhoek en geef de reclame weer bij opstarten van de toepassing</string>
+  <string name="debug_mode_desc">Gecontroleerd, uitvoeren in debug mode en toon video-id in de linkerbovenhoek</string>
   <string name="declaration">Servicevoorwaarden</string>
   <string name="declaration_allow">Akkoord</string>
   <string name="declaration_content">"1.Door gebruik te maken van deze dienst, gaat u akkoord met Sohu video, iQiyi "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Service&lt;/a&gt;" en andere inhoud van de providers.
@@ -102,7 +103,7 @@
   <string name="disk_volume">Verwijderbare opslag</string>
   <string name="dlna_list_name">DLNA toestel</string>
   <string name="dlna_name">Gedeeld toestel</string>
-  <string name="douban_score">Douban Score</string>
+  <string name="douban_score">Score</string>
   <string name="download_add_success">Toegevoegd aan wachtrij downloaden</string>
   <string name="download_error">Offline fout</string>
   <string name="download_fail">Mislukt</string>
@@ -120,6 +121,8 @@
   <string name="edit">Bewerken</string>
   <string name="edit_comment">Voeg opmerking toe</string>
   <string name="empty_data">Laad fout</string>
+  <string name="empty_keyword_hint">Sleutelwoord mag niet leeg zijn</string>
+  <string name="episode_name_format">artikel%1$s集</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Geen resultaten</string>
   <string name="error_empty_title">Er liep iets mis</string>
@@ -300,8 +303,8 @@
   <string name="use_cellular_network_summary">Gebruik mobiele data verbinding om videos te downloaden. Dit zal uw mobiele dataverbruik verhogen.</string>
   <string name="use_cellular_offlinedownload_summary">Toon melding bij het gebruik van mobiele data om video te downloaden</string>
   <string name="use_cellular_offlinedownload_title">Download melding</string>
-  <string name="use_cellular_play_summary">Melding weergeven bij het gebruik van mobiele data om een video te kijken</string>
-  <string name="use_cellular_play_title">Streaming melding</string>
+  <string name="use_cellular_play_summary">Sluite om kosten uit te sparen</string>
+  <string name="use_cellular_play_title">Gebruik mobiele data om video te bekijken</string>
   <string name="user_tab">Mijn App</string>
   <string name="version_select">Selecteer Versie</string>
   <string name="version_select_summary">Selecteer alpha, ontwikkelings of stabiele versie</string>
