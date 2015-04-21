@@ -30,6 +30,7 @@
   <string name="all_episode">Alle Episodes</string>
   <string name="app_latest_version">Dit is reeds de laatste versie van de applicatie</string>
   <string name="app_name">Video</string>
+  <string name="app_plugin_ready">%1$s onderdeel is klaar</string>
   <string name="app_update_background">App bijwerken in de achtergrond</string>
   <string name="app_upgrade_version">Laatste versie</string>
   <string name="app_version">Applicatie Versie</string>
@@ -106,7 +107,7 @@
   <string name="douban_score">Score</string>
   <string name="download_add_success">Toegevoegd aan wachtrij downloaden</string>
   <string name="download_error">Offline fout</string>
-  <string name="download_fail">Mislukt</string>
+  <string name="download_fail">Offline mislukt</string>
   <string name="download_file_fail">Lokale toegang tot bestanden is mislukt, misschien is er geen ruimte op de SD-kaart</string>
   <string name="download_finished">Afgewerkt</string>
   <string name="download_geturl_fail">Kan URL niet laden</string>
@@ -116,8 +117,11 @@
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Adres verkrijgen</string>
   <string name="download_running">Uitvoeren</string>
+  <string name="download_start_message">%1$s onderdeel zal gedownload en geïnstalleerd worden</string>
   <string name="download_task_with">%d taken</string>
+  <string name="download_url_waiting">Wachten om url op te halen</string>
   <string name="download_with">Downloaden %1$s/%2$s</string>
+  <string name="downloading_app_plugin">Downloaden %1$s onderdeel</string>
   <string name="edit">Bewerken</string>
   <string name="edit_comment">Voeg opmerking toe</string>
   <string name="empty_data">Laad fout</string>
@@ -143,8 +147,8 @@
   <string name="good">OK</string>
   <string name="hint_apk_download">Klik op \"%1$s\" om apllicatie te downloaden en te installeren</string>
   <string name="hint_apk_install">Applicatie download</string>
-  <string name="hint_apk_text_update">Nieuwere versie van app beschikbaar, wens je het te downloaden en te installeren?</string>
-  <string name="hint_apk_title_update">Nieuwe Versie</string>
+  <string name="hint_apk_text_update">Nieuwere versie van %1$s beschikbaar, wens je het te downloaden en te installeren?</string>
+  <string name="hint_apk_title_update">%1$s Nieuwe Versie</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Laden…</string>
   <string name="init">Init</string>
@@ -165,6 +169,7 @@
   <string name="login_tip_content">Om weer te geven wat je volgt, meld je aan met je Mi account om te sync. en updaten.</string>
   <string name="login_tip_title">Aanmelden</string>
   <string name="media_name_comment">%s opmerking</string>
+  <string name="memory_mode_desc">Bespaar geheugengebruik</string>
   <string name="menu_item_enable_audio_enhance">Audio verbeteren</string>
   <string name="menu_name">Menu</string>
   <string name="mine_info_account_summary_none">Niet aangemeld</string>
@@ -173,6 +178,7 @@
   <string name="mipush_setting">Mi push</string>
   <string name="month">Maand</string>
   <string name="my_favorite">Met ster</string>
+  <string name="my_local_favorite">Lokaal geteerd</string>
   <string name="my_offline">Offline</string>
   <string name="mycamera">"Mijn video's"</string>
   <string name="myfavorite">Ster</string>
@@ -299,7 +305,7 @@
   <string name="update_to_count_qi">Geupdate naar %s</string>
   <string name="updatedalready">Geupdate</string>
   <string name="upgrade">Upgrade</string>
-  <string name="use_cellular_network">Gebruik mobiele data verbinding</string>
+  <string name="use_cellular_network">Mobiele dataverbindings instellingen</string>
   <string name="use_cellular_network_summary">Gebruik mobiele data verbinding om videos te downloaden. Dit zal uw mobiele dataverbruik verhogen.</string>
   <string name="use_cellular_offlinedownload_summary">Toon melding bij het gebruik van mobiele data om video te downloaden</string>
   <string name="use_cellular_offlinedownload_title">Download melding</string>
@@ -310,6 +316,7 @@
   <string name="version_select_summary">Selecteer alpha, ontwikkelings of stabiele versie</string>
   <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">video</string>
+  <string name="video_app_update">Update</string>
   <string name="video_bbs">Voeg je bij ons</string>
   <string name="video_bbs_url">Voeg je bij ons en help ons de video applicatie te onwikkelen</string>
   <string name="video_count">"%d video's"</string>
