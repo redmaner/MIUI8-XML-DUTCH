@@ -17,6 +17,7 @@
   <string name="add_2sec_pause">2 sec pauze toevoegen</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_blacklist">Blokkeren</string>
+  <string name="add_blacklist_dialog_title">Dit nummer blokkeren?</string>
   <string name="add_connection_button">Connectie toevoegen</string>
   <string name="add_contact_dlg_message_fmt">Voeg \"%s\" toe aan contactpersonen?</string>
   <string name="add_field">Nog een veld toevoegen</string>
@@ -40,6 +41,7 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Meerdere verwijderen</string>
+  <string name="blacklist">Blokkeren</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth verbinding verbroken</string>
   <string name="blurbJoinContactDataWith">Selecteer het contactpersoon dat u met %s wilt samenvoegen:</string>
   <string name="btn_rotation">Draaien</string>
@@ -319,8 +321,6 @@
   <string name="display_sim_contacts">Laat SIM contacten zien</string>
   <string name="display_ungrouped">Alle andere contacten</string>
   <string name="display_warn_remove_ungrouped">"Als u '%s' verwijdert uit de synchronisatie worden ook contacten die niet bij een groep horen uit de synchronisatie verwijderd."</string>
-  <string name="dlg_add_blacklist">Nummer blokkeren?</string>
-  <string name="dlg_remove_blacklist">Nummer deblokkeren?</string>
   <string name="download_failed">Download mislukt!</string>
   <string name="download_preview_failed">Voorbeeld laden mislukt</string>
   <string name="duplicate_group_name">Groepnaam bestaat al</string>
@@ -741,6 +741,7 @@
   <string name="relationLabelsGroup">Relatie</string>
   <string name="removePhoto">Foto verwijderen</string>
   <string name="remove_blacklist">Deblokkeren</string>
+  <string name="remove_blacklist_dialog_title">Deze nummers deblokkeren?</string>
   <string name="remove_duplicate">MIUI zal u helpen met het vinden en samenvoegen van dubbele contacten.  Om te beginnen raak het Samenvoeg icoon aan onderaan het scherm.</string>
   <string name="resource_account_abnormal_state">Account fout, probeer het later opnieuw.</string>
   <string name="resource_account_fail_to_add">Kan geen account toevoegen</string>
@@ -881,6 +882,7 @@
   <string name="resource_see_more">Meer weergeven</string>
   <string name="resource_select">Selecteren</string>
   <string name="resource_select_ringtone_confirm">Dit geluid selecteren?</string>
+  <string name="resource_select_ringtone_confirm_picker">Dit geluid selecteren?</string>
   <string name="resource_selected">Uitgelicht</string>
   <string name="resource_send">Verzenden</string>
   <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
