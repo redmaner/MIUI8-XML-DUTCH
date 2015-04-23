@@ -47,7 +47,6 @@
   <string name="preference_record_type_title">Opname type</string>
   <string name="preference_scenes">Instellingen voor scenes</string>
   <string name="preference_silent_mode">Stille modus bij opnames</string>
-  <string name="preference_tip_rename">Weergeven of je de dialoog wilt hernoemen na het stoppen van de opname</string>
   <string name="record_back_pressed_hint">Druk op vorige om opname te stoppen</string>
   <string name="record_download">Downloaden van Mi Cloud</string>
   <string name="record_download_activity">Download lijst</string>
@@ -67,13 +66,13 @@
   <string name="record_list_cloud_call">Cloud gespreksopnames</string>
   <string name="record_list_cloud_fm">Cloud FM Opnames</string>
   <string name="record_list_fm">FM Opnames</string>
-  <string name="record_mark_point">%smerkteken</string>
   <string name="record_name_hour">.</string>
   <string name="recording">Opnemen</string>
   <string name="recording_stopped">Opname gestopt</string>
   <string name="rename">Naam wijzigen</string>
   <string name="rename_dialog_title">Naam opname wijzigen</string>
-  <string name="rename_duplicate">Dubbele opname naam, opnieuw invoeren a.u.b.</string>
+  <string name="rename_duplicate">Er bestaat reeds een opname met de zelfde naam.</string>
+  <string name="rename_no_more_tip">Niet meer weergeven</string>
   <string name="record_picker_title">Kies een opname</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="sound_recorder_settings">Opname Instellingen</string>
@@ -88,7 +87,7 @@
   <string name="toast_file_is_downloading">Dit bestand wordt gedownload, een moment geduld</string>
   <string name="toast_max_record_time">%1$s maximale ondersteunde opname tijd %2$s</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
-  <string name="wifi_recommended_body" formatted="false">Klaar om te downloaden via provider\'s netwerk： %s  Het downloaden van dit bestand kan leiden tot hogere data kosten. Raak %s Raak %s aan om de download te starten de volgende keer dat u verbinding hebt met een Wi-Fi netwerk. </string>
+  <string name="wifi_recommended_body" formatted="false">Klaar om te downloaden via provider\'s netwerk： %s  Het downloaden van dit bestand kan leiden tot hogere data kosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tikt %s.</string>
   <string name="wifi_recommended_title">Verkeersherinnering</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

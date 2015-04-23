@@ -449,8 +449,8 @@
   <string name="bluetooth_unlock_state_ok">Gesllagd</string>
   <string name="bluetooth_unlock_state_too_far">Niet dicht genoeg</string>
   <string name="bluetooth_unlock_title">Ontgrendelen met Bluetooth apparaat</string>
-  <string name="bluetooth_unlock_turned_off">Uitgeschakeld</string>
-  <string name="bluetooth_unlock_turned_on">Ingeschakeld</string>
+  <string name="bluetooth_unlock_turned_off">Uit</string>
+  <string name="bluetooth_unlock_turned_on">Aan</string>
   <string name="bluetooth_untether_blank">Tethering van %1$s wordt opgeheven.</string>
   <string name="bluetooth_visibility_timeout">Zichtbaarheid uitstellen</string>
   <string name="breathing_light_color_menu_title">Licht kleur</string>
@@ -1871,7 +1871,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_paper_mode_turn_on">On</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Niet meer weergeven</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Akkoord en doorgaan</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Om de lijst met toepassingen te updaten kan leesmodus gebruikt worden, je hebt een netwerk verbinding nodig.Bent u akkoord?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Om de lijst van apps bij te werken die u in lees modus kan gebruiken, moet u verbinding maken met het internet.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Algemene voorwaarden</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst van applicaties updaten met behulp van leesmodus over het netwerk</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Netwerk update lijst</string>
@@ -2092,6 +2092,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Standby tijd</string>
   <string name="status_bar_and_notification_bar">Meldings- en statusbalk</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Vergrendelscherm, meldings schaduw</string>
+  <string name="status_bar_app_enable_on_notificationBar">Meldings schaduw</string>
   <string name="status_bar_key_position_custom">Aangepaste toets positie</string>
   <string name="status_bar_screen_button_key">Virtuele schermtoetsen</string>
   <string name="status_bar_screen_key_back">Terug toets</string>
@@ -2221,10 +2223,12 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="title_color_calibration">Kleur correctie voorkeuze</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Lettertype</string>
+  <string name="title_font2">Lettertype</string>
   <string name="title_font_current">Kies systeem lettertype</string>
   <string name="title_font_size">Tekstgrootte</string>
   <string name="title_hdmi_color_calibration">Kleur correctie voorkeuze</string>
-  <string name="title_layout_current">Kies systeem lettertype</string>
+  <string name="title_layout_current">Kies grootte lettertype</string>
+  <string name="title_layout_current2">Kies grootte lettertype</string>
   <string name="title_local_resource">Lokale bronnen</string>
   <string name="title_system_resource">Systeem bronnen</string>
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
