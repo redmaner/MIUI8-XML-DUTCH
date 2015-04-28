@@ -46,6 +46,7 @@
   <string name="activate_popup_title_new_sim_card">Heractiveer %s</string>
   <string name="activate_popup_title_register_account">Maak een Mi Account aan</string>
   <string name="activate_popup_title_upload_diagnosis_info">Kon SIM kaart niet activeren.</string>
+  <string name="activate_sms_postfix">[Deze SMS wordt gebruikt om uw Mi apparaat te activeren.]</string>
   <string name="activate_status_desc_acquire_phone_number">Ophalen telefoonnummer van de server</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Een serverfout opgetreden tijdens het ophalen van het telefoonnummer</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Ophalen telefoonnummer mislukt</string>
@@ -53,8 +54,6 @@
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Een serverfout opgetreden tijdens het controleren van Mi Account</string>
   <string name="activate_status_desc_failed_getting_gateway">Ophalen SMS gateway mislukt</string>
   <string name="activate_status_desc_getting_gateway">Ophalen SMS gateway</string>
-  <string name="activate_status_desc_getting_sim_info">Ophalen SIM kaart info</string>
-  <string name="activate_status_desc_getting_sim_info_fail">Ophalen SIM kaart info mislukt</string>
   <string name="activate_status_desc_prepare_sending_sms">Voorbereiden voor het versturen voor activerings-SMS gateway</string>
   <string name="activate_status_desc_query_activation_info">Activeringsinfo opvragen van de server</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">De server kan geen activerings-SMS verzenden naar uw telefoon</string>
@@ -64,15 +63,11 @@
   <string name="activate_status_desc_registering_sim_account_server_error">Een serverfout opgetreden tijdens het registreren van de SIM kaart</string>
   <string name="activate_status_desc_registering_xiaomi_account">Mi Account op de server registreren</string>
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Een serverfout opgetreden tijdens het registreren van Mi Account</string>
-  <string name="activate_status_desc_registration">Registreren SIM kaart</string>
-  <string name="activate_status_desc_registration_server_error">Een serverfout opgetreden tijdens het registreren van de SIM kaart</string>
   <string name="activate_status_desc_request_activation_sms">Het aanvragen van een activatie SMS van de server naar de telefoon</string>
-  <string name="activate_status_desc_request_activation_sms_phone_error">Het telefoonnummer dat u hebt ingevoerd is ongeldig</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Een serverfout opgetreden tijdens het opvragen van de activering SMS van de server naar de telefoon</string>
   <string name="activate_status_desc_sending_sms">Verzenden van de Activerings-SMS naar gateway</string>
   <string name="activate_status_desc_sending_sms_fail">Activerings-SMS sturen naar gateway mislukt</string>
   <string name="activate_status_desc_sms_sent">Activerings-SMS verstuurd</string>
-  <string name="activate_status_desc_wait_for_phone_service">Wachten op telefoon service</string>
   <string name="activate_status_desc_wait_for_sms">Wachten op Activerings-SMS van de server</string>
   <string name="activate_status_desc_wait_for_sms_fail">Activerings-SMS ontvangen van de server mislukt</string>
   <string name="activate_status_desc_wait_for_sms_success">Activerings-SMS ontvangen van de server gelukt</string>
