@@ -74,7 +74,7 @@
   <string name="agps_roaming">A-GPS bij roaming</string>
   <string name="agps_roaming_dia">A-GPS gebruiken tijdens roaming kan uw mobiele dataverbruik verhogen. Als je over datalimiet gaat, kan uw provider extra kosten aanrekenen.</string>
   <string name="agps_roaming_dia_title">A-GPS gebruiken bij roaming</string>
-  <string name="agps_roaming_summary">A-GPS gebruiken bij roaming, kan leiden tot extra kosten</string>
+  <string name="agps_roaming_summary">Gebruik mobiele data om de GPS bij te staan tijdens roaming</string>
   <string name="airplane_mode">Vliegmodus</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de schermbeveiliging kost extra batterij.</string>
@@ -924,6 +924,12 @@
   <string name="firmware_version">Android versie</string>
   <string name="floating_window_switch_label">Toon popup schermen</string>
   <string name="floating_window_switch_label_disable">Verberg popup schermen</string>
+  <string name="fluency_mode">Optimaliseer prestaties van systeem</string>
+  <string name="fluency_mode_confirm_title">Nu herstarten?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Uw apparaat moet opnieuw opstarten om deze instellingen toe te passen.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Het inschakelen van animaties en gebruik van extra geheugen kan de prestaties op sommige apparaten verminderen.</string>
+  <string name="fluency_mode_enabled_name">Optimaliseer prestaties van systeem</string>
+  <string name="fluency_mode_summary">Schakel systeem animaties uit en verminder geheugengebruik</string>
   <string name="font_size_huge">Gigantisch</string>
   <string name="font_size_large">Groot</string>
   <string name="font_size_medium">Gemiddeld</string>
@@ -989,6 +995,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="gadget_toggle_wifi">Wi-Fi instelling bijwerken</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Game controller</string>
+  <string name="gesture_wakeup_title">Dubbel tikken om scherm te ontwaken</string>
   <string name="getConfiguredNetworks">Geconfigureerde netwerken ophalen</string>
   <string name="getConnectionInfo">Ophalen verbindingsinfo</string>
   <string name="global_change_warning">Deze instelling is van invloed op alle gebruikers van deze apparaat.</string>
@@ -1929,6 +1936,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="search_date_time">Datum tijd</string>
   <string name="search_description">Zoek instellingen</string>
   <string name="search_display">Scherm</string>
+  <string name="search_fluency_mode">Vlotte modus</string>
   <string name="search_font">Lettertype</string>
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">Een hand modus</string>
@@ -2092,6 +2100,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Standby tijd</string>
   <string name="status_bar_and_notification_bar">Meldings- en statusbalk</string>
+  <string name="status_bar_app_disable_notification">Leeg</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Vergrendelscherm, meldings schaduw</string>
   <string name="status_bar_app_enable_on_notificationBar">Meldings schaduw</string>
   <string name="status_bar_key_position_custom">Aangepaste toets positie</string>
@@ -2104,6 +2113,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="status_bar_settings_advanced">Additionele instellingen</string>
   <string name="status_bar_settings_all_app_display_loading">Laden…</string>
   <string name="status_bar_settings_basic_settings">Basis instellingen</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Providernaam aanpassen</string>
   <string name="status_bar_settings_custom_notification">Beheer meldingen</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi naam aanpassen</string>
