@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Grootte</item>
+        <item>Naam</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Grootte</item>
+        <item>Naam</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Frequent gebruikt</item>
+        <item>Grootte</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Dagelijks</item>
+        <item>Alle 3 dagen</item>
+        <item>Alle 7 dagen</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Direct met melding</item>
+        <item>Opruimen op de achtergrond</item>
+        <item>Toon melding na opruimen</item>
+    </string-array>
+</resources>
