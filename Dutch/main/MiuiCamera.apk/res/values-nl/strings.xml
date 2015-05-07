@@ -108,11 +108,7 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Yesteryear</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_title">Contrast</string>
-  <string name="pref_camera_countdown_entry_10s">10s</string>
-  <string name="pref_camera_countdown_entry_3s">3s</string>
-  <string name="pref_camera_countdown_entry_5s">5s</string>
-  <string name="pref_camera_countdown_title">Timer</string>
-  <string name="pref_camera_delay_capture_default">3</string>
+  <string name="pref_camera_delay_capture_default">5</string>
   <string name="pref_camera_delay_capture_entry_10s">10s</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
@@ -238,9 +234,9 @@
   <string name="pref_camera_settings_category">Camera instellingen</string>
   <string name="pref_camera_settings_title">Instellingen</string>
   <string name="pref_camera_sharpness_title">Beeldscherpte</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Weergeven leeftijd</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Leeftijd weergeven en verfraaien</string>
   <string name="pref_camera_show_gender_age_entry_off">Uit</string>
-  <string name="pref_camera_show_gender_age_entry_on">Weergeven leeftijd en geslacht</string>
+  <string name="pref_camera_show_gender_age_entry_on">Leeftijd en geslacht weergeven en verfraaien</string>
   <string name="pref_camera_show_gender_age_title">Gezichtsherkenning</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto verbeteren</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Uitschakelen</string>
@@ -321,10 +317,8 @@
   <string name="setting_top_text">Camera modi</string>
   <string name="simple_mode_button_asd_flash">Sluit Flash opname</string>
   <string name="simple_mode_button_asd_hdr">Sluit HDR opname</string>
-  <string name="simple_mode_button_text_audio_capture">Sluit audio opname</string>
   <string name="simple_mode_button_text_color_effect">Sluit filter</string>
-  <string name="simple_mode_button_text_countdown">Sluit timer</string>
-  <string name="simple_mode_button_text_delay_capture">timer sluiten</string>
+  <string name="simple_mode_button_text_delay_capture">Timer sluiten</string>
   <string name="simple_mode_button_text_face_beauty">Sluit Verfraaien</string>
   <string name="simple_mode_button_text_fast_video">Sluit slow motion</string>
   <string name="simple_mode_button_text_gradienter">Kleurverloop uitschakelen</string>
