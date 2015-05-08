@@ -193,7 +193,7 @@ reeks"</string>
   <string name="contour_track_failed_to_create">Delen mislukt, controleer de opslag ruimte.</string>
 <string name="crash_report_btn_exit">Afsluiten</string>
   <string name="crash_report_btn_report">Raporteren</string>
-  <string name="crash_report_dialog_text">"Er is een onverwachte fout opgetreden waardoor de applicatie is getopt. Help ons dit probleem op te lossen door het sturen van foute data. Het enige wat je hoeft te doen is tikken op 'Rapporteren'."</string>
+  <string name="crash_report_dialog_text">"Er is een onverwachte fout opgetreden waardoor de applicatie is gestopt. Help ons dit probleem op te lossen door het sturen van de foute data. Het enige wat je hoeft te doen is tikken op 'Rapporteren'."</string>
   <string name="crash_report_dialog_title">Mi Fit is gecrashed</string>
   <string name="crash_report_email_subject" formatted="false">%s Bug Rapport %s</string>
   <string name="crash_report_email_text">"Extra opmerkingen:
@@ -261,7 +261,7 @@ Je bent op je streefgewicht.</string>
   <string name="dynamic_detail_step_title">%s</string>
   <string name="dynamic_detail_step_title_today">Vandaag</string>
   <string name="dynamic_detail_weight_title">%s</string>
-  <string name="dynamic_pull_connect_failed">Verbinden Band mislukt, probeer opnieuw door naar beneden te trekken.</string>
+  <string name="dynamic_pull_connect_failed">Verbinden met Band mislukt, probeer opnieuw door naar beneden te trekken.</string>
   <string name="dynamic_pull_connect_failed_hint">Zorg ervoor dat uw Mi Band voldoende opgeladen is.</string>
   <string name="dynamic_pull_connecting_bracelet">Mi Band verbinden…</string>
   <string name="dynamic_pull_last_sync_time">Laatst gesynchroniseerd %s</string>
@@ -269,8 +269,8 @@ Je bent op je streefgewicht.</string>
   <string name="dynamic_pull_pull_to_sync">Trek naar beneden om Band te sync.</string>
   <string name="dynamic_pull_release_to_sync">Loslaten om Band te sync.</string>
   <string name="dynamic_pull_sync_after_connected">Info verkrijgen van je MI band.</string>
-  <string name="dynamic_pull_sync_error">Synchroniseren Band mislukt, trek naar beneden om opnieuw te proberen.</string>
-  <string name="dynamic_pull_syncing">Synchroniseren van Band data…</string>
+  <string name="dynamic_pull_sync_error">Synchroniseren van Band mislukt, trek naar beneden om opnieuw te proberen.</string>
+  <string name="dynamic_pull_syncing">Synchroniseren van Band gegevens…</string>
   <string name="dynamic_pull_syncing_progress">Gesynchroniseerd %s%%</string>
   <string name="dynamic_sleep_active">Ontwaaktijd</string>
   <string name="dynamic_sleep_active_end">Klaar om 
@@ -759,7 +759,7 @@ Hou vol!</string>
   <string name="running_cal_with_unit">Cal</string>
   <string name="running_come_from_xiaomi_bracelet">Mi Fit</string>
   <string name="running_confirm">Ok</string>
-  <string name="running_contour_track_failed_to_create">Delen mislukt, bekijk opslagruimte.</string>
+  <string name="running_contour_track_failed_to_create">Delen mislukt.</string>
   <string name="running_cost_cal">%.1f cal</string>
   <string name="running_data_loading">Laden…</string>
   <string name="running_date_last_month">Laatste maand</string>
@@ -773,9 +773,9 @@ Hou vol!</string>
   <string name="running_distance_detail">%.2fkm</string>
   <string name="running_distance_unit">Afstand(km)</string>
   <string name="running_end_time">Einde</string>
-  <string name="running_failed_to_get_history_neterror">"Kan niet verbinden met netwerk</string>
+  <string name="running_failed_to_get_history_neterror">Kan niet verbinden met netwerk</string>
   <string name="running_gallery">Gallerij</string>
-  <string name="running_get_history_no_more_data">Geen data meer</string>
+  <string name="running_get_history_no_more_data">Geen gegevens meer</string>
   <string name="running_gps_cancel">Annuleren</string>
   <string name="running_gps_locating">GPS locatie…</string>
   <string name="running_gps_poor_signal">Slecht GPS signaal. Zorg ervoor dat u een onbelemmerd zicht hebt op de hemel.</string>
@@ -784,9 +784,9 @@ Hou vol!</string>
   <string name="running_history">Geschiedenis</string>
   <string name="running_history_date" formatted="false">%d/%d/%d</string>
   <string name="running_history_no_data">Geen data</string>
-  <string name="running_history_no_data_refresh">Taik om te vernieuwen</string>
+  <string name="running_history_no_data_refresh">Tik om te vernieuwen</string>
   <string name="running_history_no_data_refreshing">Vernieuwen…</string>
-  <string name="running_history_no_more_data">Geen data meer</string>
+  <string name="running_history_no_more_data">Geen gegevens meer</string>
   <string name="running_history_title">Geschiedenis</string>
   <string name="running_history_total_calorie">Warmte(kilocalorie)</string>
   <string name="running_history_total_distance">Afstand(km)</string>
@@ -805,11 +805,11 @@ Hou vol!</string>
   <string name="running_main_back_button_in_dialog">Terug</string>
   <string name="running_main_continue_button_in_dialog">Doorgaan</string>
   <string name="running_main_go_outdoor">Ga naar buiten</string>
-  <string name="running_main_gps_cannot_record">Your GPS may not available</string>
+  <string name="running_main_gps_cannot_record">Je GPS niet beschikbaar</string>
   <string name="running_main_gps_prefix">GPS:</string>
   <string name="running_main_mileage">%1$d/%2$dkm</string>
   <string name="running_main_title">Sport</string>
-  <string name="running_marathon_cost_time">Marathon tiid: %s</string>
+  <string name="running_marathon_cost_time">Marathon tijd: %s</string>
   <string name="running_min">%dm</string>
   <string name="running_min_sec" formatted="false">%dm %ds</string>
   <string name="running_name">Kopen</string>
@@ -822,10 +822,10 @@ Hou vol!</string>
   <string name="running_pause">Pauze</string>
   <string name="running_per_kilometers">/km</string>
   <string name="running_percent_mark">%</string>
-  <string name="running_prepare_map">Data voorbereiden om te delen…</string>
+  <string name="running_prepare_map">Gegevens voorbereiden om te delen…</string>
   <string name="running_prompt_come_on">Ga!!</string>
   <string name="running_prompt_great">Goed!!</string>
-  <string name="running_prompt_per_kilometer" formatted="false">Je hebt %s kilometers gelopen. Het koste %s. Het tempo is %s.%s</string>
+  <string name="running_prompt_per_kilometer" formatted="false">Je hebt %s kilometers gelopen. Het koste %s. Het tempo was %s.%s</string>
   <string name="running_real_time_pace">Het kost (km)</string>
   <string name="running_resume">Hervatten</string>
   <string name="running_sec">%ds</string>
@@ -850,7 +850,7 @@ Hou vol!</string>
   <string name="running_speed">Snelheid</string>
   <string name="running_speed_detail">%.2fkm/h</string>
   <string name="running_speed_with_unit">km/h</string>
-  <string name="running_sport_state_sr_tips">Auto gepauzeerd, overschakelen naar hervatten als je terug loopt</string>
+  <string name="running_sport_state_sr_tips">Auto gepauzeerd, overschakelen naar hervatten wanner je terug loopt</string>
   <string name="running_start">Start</string>
   <string name="running_start_time">Start</string>
   <string name="running_state_paused">Pauze</string>
@@ -873,8 +873,8 @@ Hou vol!</string>
   <string name="running_unit_step">steappen</string>
   <string name="running_unit_weight">kg</string>
   <string name="running_unlogin_notice">Uw gegevens worden niet gesync. met Mi Cloud. Nu aanmelden?</string>
-  <string name="running_unsynchronous">Niet gelijktijdig</string>
-  <string name="running_volumn_notice">Lage media volume voor kilometer spraak, dan kunt u aanpassen in Music/Instellingen</string>
+  <string name="running_unsynchronous">Ongelijktijdig</string>
+  <string name="running_volumn_notice">Laag media volume voor kilometer spraak, dan kunt u aanpassen in Music/Instellingen</string>
   <string name="running_watermark">Watermerk</string>
   <string name="running_watermark_btn_confirm">Ok</string>
   <string name="running_watermark_guide_tips">Aanraken om te verplaatsen</string>
@@ -924,7 +924,7 @@ Hou vol!</string>
   <string name="setting_about_fw">Versie </string>
   <string name="setting_daily_sleep_notify">Slaap gegevens melding</string>
   <string name="setting_daily_sleep_notify_info">Slaap gegevens weergeven na het onwaken</string>
-  <string name="setting_daily_sport_notify">eit stats meldingen</string>
+  <string name="setting_daily_sport_notify">Activiteit statuut meldingen</string>
   <string name="setting_daily_sport_notify_info">Herriner me om 9:30PM</string>
   <string name="setting_feedback_address">Hoe kunnen we je bereiken?</string>
   <string name="setting_feedback_hint">Bedankt voor de feedback.</string>
@@ -1247,7 +1247,7 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="weight_history_dynamic_detail">Gesynchroniseerd%1$snaar%2$sgegevens</string>
   <string name="weight_history_dynamic_detail_oneday">Gesynchroniseerd%1$snaar%2$sgegevens</string>
   <string name="weight_history_dynamic_title">Succesvol gesynchroniseerd%1$sgeschiedenis gegevens over het gewicht</string>
-  <string name="weight_less_than_tips">Volgens uw BMI info is het  aanbevolen gewicht is minder dan %1$s</string>
+  <string name="weight_less_than_tips">Volgens uw BMI info is het aanbevolen gewicht minder dan %1$s</string>
   <string name="weight_low_battery">Vervang weegschaal batterij</string>
   <string name="weight_measure">Wegen</string>
   <string name="weight_not_found_info">Blijf dicht bij de weegschaal</string>
