@@ -231,6 +231,7 @@
   <string name="playlist_renamed_message">"Naam van afspeellijst gewijzigd in '%s'."</string>
   <string name="please_download_first">Download eerst.</string>
   <string name="please_search_or_select">Zoek of selecteer een veld</string>
+  <string name="preset_music_playlist">Mi Music afspeellijst</string>
   <string name="presonal_center">Account Instellingen</string>
   <string name="priority_storage">Gebruik externe SD-kaart</string>
   <string name="priority_storage_summary">Automatisch downloaden naar externe SD-kaart, indien beschikbaar</string>
@@ -263,6 +264,8 @@
   <string name="set_album_successful">Album opgeslagen</string>
   <string name="set_as_ring">Instellen voor bellen</string>
   <string name="set_id3_failed">Kan info niet opslaan</string>
+  <string name="set_id3_not_have_read_or_write_permission">Je hebt geen toestemming om dit bestand te bewerken</string>
+  <string name="set_id3_not_support_format">Kan dit bestandsformaat niet bewerken</string>
   <string name="set_id3_successful">Nummer info opgeslaan</string>
   <string name="set_lyric_successful">Songteksten opgeslaan</string>
   <string name="set_ringtones_failed">Beltonen instellen mislukt.</string>
@@ -273,7 +276,6 @@
   <string name="sleep_mode_summary">Stop speler na een bepaalde tijd</string>
   <string name="sleep_mode_title">Slaap timer</string>
   <string name="song_name">Nummer</string>
-  <string name="song_not_find">Verbinding met netwerk mislukt of dit nummer niet beschikbaar."</string>
   <string name="sort_by_language">Taal</string>
   <string name="sort_by_name">Naam</string>
   <string name="sort_by_time">Datum</string>
