@@ -1213,6 +1213,9 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="lock_after_timeout">Automatisch vergrendelen</string>
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
   <string name="lock_intro_message">Beveilig uw telefoon tegen ongeoorloofd gebruik door een persoonlijk ontgrendelingspatroon in te stellen. Gebruik op het volgende scherm uw vinger om de punten met elkaar te verbinden. U moet minimaal vier punten met elkaar verbinden</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direkt nodig</string>
+  <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig binnen de %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig</string>
   <string name="lock_screen_unlock_show">Veeg scherm uitschakelen</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord na het ontwaken</string>
   <string name="lock_settings">Schermvergrendeling</string>
@@ -2344,11 +2347,11 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="unlock_set_unlock_none_title">Vegen</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Geen</string>
-  <string name="unlock_set_unlock_password_summary">Zware beveiliging</string>
+  <string name="unlock_set_unlock_password_summary">Je kan cijfers en letters gebruiken</string>
   <string name="unlock_set_unlock_password_title">Wachtwoord</string>
-  <string name="unlock_set_unlock_pattern_summary">Gemiddelde beveiliging</string>
+  <string name="unlock_set_unlock_pattern_summary">Je moet minimum 4 punten verbinden</string>
   <string name="unlock_set_unlock_pattern_title">Patroon</string>
-  <string name="unlock_set_unlock_pin_summary">Gemiddelde tot zware beveiliging</string>
+  <string name="unlock_set_unlock_pin_summary">Voer 4 getalen in</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
   <string name="unmount_inform_text">USB opslag wordt ontkoppeld.</string>

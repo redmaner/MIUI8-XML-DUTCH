@@ -739,6 +739,12 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
         <item>Toestemming vragen</item>
-        <item>Toestaan</item>	
+        <item>Toestaan</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>2 minuten</item>
+        <item>5 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>		
     </string-array>
 </resources>
