@@ -266,7 +266,7 @@
         <item>Audiofocus</item>
         <item>Hoofdvolume</item>
         <item>Stemvolume</item>
-        <item>Beltoonvolume</item>
+        <item>Belvolume</item>
         <item>Mediavolume</item>
         <item>Alarmvolume</item>
         <item>Meldingsvolume</item>
@@ -732,5 +732,21 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>HEET</item>
         <item>WARM</item>
         <item>KOUD</item>
+	</string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Toestemming vragen voor apps met risico</item>
+        <item>Toestaan</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Toestemming vragen</item>
+        <item>Toestaan</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Direkt</item>
+        <item>1 minuut</item>
+        <item>2 minuten</item>
+        <item>5 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>		
     </string-array>
 </resources>

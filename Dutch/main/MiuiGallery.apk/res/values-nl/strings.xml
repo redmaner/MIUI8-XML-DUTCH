@@ -133,11 +133,11 @@
   <string name="confirm_all_photo_not_this_people_face">Geen overeenkomsten?</string>
   <string name="confirm_delete">"%s foto's verwijderen?"</string>
   <string name="confirm_delete_album" formatted="false">%s albums verwijderen(%s items totaal)?</string>
-  <string name="confirm_delete_has_cloud_image_video">%s item(s) verwijderen in &lt;b&gt;de cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">%s item(s)lokaal verwijderen en in &lt;b&gt;de cloud&lt;/b&gt;?</string>
+ <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string> 
   <string name="confirm_delete_has_local_image_video">%s item(s) verwijderen?</string>
-  <string name="confirm_delete_init_message">~De foto wordt verwijderd van dit apparaat en van uw Mi Cloud. Als u alleen lokaal wilt verwijderen, werkt dan lokaal.</string>
-  <string name="confirm_delete_init_title">Notitie</string>
+  <string name="confirm_delete_init_message">De foto wordt verwijderd van dit apparaat en van uw Mi Cloud. Als u alleen lokaal wilt verwijderen, werkt dan lokaal..</string>
+  <string name="confirm_delete_init_title">Foto verwijderen</string>
   <string name="confirm_delete_system_album">%s is een systeem album.</string>
   <string name="confirm_download">"U moet %s downloaden. Deze tip wordt niet opnieuw weergegeven."</string>
   <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
