@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other"> %d dagen geleden gebruikt</item>
+        <item quantity="one">Gisteren gebruikt</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Zoek %d apps</item>
+        <item quantity="one">Zoek %d app</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d apps kunnen mobiele data gebruiken tijdens roaming</item>
+        <item quantity="one">%d app kan mobiele data gebruiken tijdens roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d apps kunnen geen mobiele data gebruiken tijdens roaming</item>
+        <item quantity="one">%d app kan geen mobiele data gebruiken tijdens roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d apps gevonden</item>
+        <item quantity="one">%d app gevonden</item>
+    </plurals>
+</resources>
