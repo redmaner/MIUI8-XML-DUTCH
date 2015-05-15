@@ -53,7 +53,6 @@
   <string name="always_rotate_alert_msg">U kunt deze functie op elk gewenst moment in- of uitschakelen in de Galerij Instellingen</string>
   <string name="always_rotate_alert_positive_button_text">Inschakelen</string>
   <string name="always_rotate_alert_title">Auto rotatie afbeeldingen</string>
-  <string name="androidesk_wallpapers">Android achtergronden</string>
   <string name="aperture">Diafragma</string>
   <string name="app_name">Galerij</string>
   <string name="appwidget_empty_text">"Geen foto's."</string>
@@ -133,8 +132,8 @@
   <string name="confirm_all_photo_not_this_people_face">Geen overeenkomsten?</string>
   <string name="confirm_delete">"%s foto's verwijderen?"</string>
   <string name="confirm_delete_album" formatted="false">%s albums verwijderen(%s items totaal)?</string>
- <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
-  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string> 
+  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">%s item(s) verwijderen?</string>
   <string name="confirm_delete_init_message">De foto wordt verwijderd van dit apparaat en van uw Mi Cloud. Als u alleen lokaal wilt verwijderen, werkt dan lokaal..</string>
   <string name="confirm_delete_init_title">Foto verwijderen</string>
@@ -151,6 +150,7 @@
   <string name="context_menu_copy">Kopiëren</string>
   <string name="context_menu_copy_notice">Gekopiëerd naar het klembord</string>
   <string name="contrast">Contrast</string>
+  <string name="contrast_abbr">C</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Koel</string>
   <string name="cool_portrait">Portret</string>
@@ -289,9 +289,11 @@
   <string name="has_invalid_recipient">Ongeldige ontvanger(s): %1$s;</string>
   <string name="height">Hoogte</string>
   <string name="highlight">Hoogtepunten</string>
+  <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">"Foto's in camera roll"</string>
   <string name="home_page_tab_cloud">Mi Cloud</string>
+  <string name="home_page_tab_face">Face</string>
   <string name="home_page_tab_local">Offline</string>
   <string name="home_page_tab_photo">"Foto's"</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
@@ -361,6 +363,7 @@
   <string name="menu_item_sort_size_asc">Grootte(Oplopend)</string>
   <string name="menu_item_sort_size_desc">Grootte(Aflopend)</string>
   <string name="menu_view_contact">Bekijk contact</string>
+  <string name="merge_album_positive_button_text">Merge</string>
   <string name="message_no_delete_access">"U bent niet bevoegd om %s te verwijderen"</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="miliao">MiTalk</string>
@@ -447,9 +450,7 @@
   <string name="photo_page_save_image">Opslaan</string>
   <string name="photo_page_save_uri_image_fail">Opslaan foto mislukt.</string>
   <string name="photo_page_save_uri_image_ok">"Foto opgeslagen in camera foto's."</string>
-  <string name="photo_paint_adjust">Aanpassen</string>
-  <string name="photo_paint_effect">Effect</string>
-  <string name="photo_saved">Foto opgeslagen in %s</string>
+  <string name="photo_save_succeed">Saved successfully</string>
   <string name="photo_size">Grootte</string>
   <string name="photoeditor_name">Photo Studio</string>
   <string name="photos">"Foto's"</string>
@@ -508,6 +509,7 @@
   <string name="rotate_tooltip">Sleep foto om te draaien</string>
   <string name="same_name_album_exists_alert">"Foto's worden toegevoegd naar een bestaand album met dezelfde naam"</string>
   <string name="saturation">Verzadiging</string>
+  <string name="saturation_abbr">S</string>
   <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Opslaan</string>
   <string name="save_error">Kan bijgesneden afbeelding niet opslaan.</string>
@@ -584,6 +586,7 @@
   <string name="sports_camera">Sport Camera</string>
   <string name="square">Vierkant</string>
   <string name="start_slide_show">Start diavoorstelling</string>
+  <string name="start_to_use_face_albumset">Sort by people</string>
   <string name="storage_all_volumes">Alle opslagapparaten</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
   <string name="straighten">Recht maken</string>
@@ -634,6 +637,7 @@
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>
   <string name="videos">"Video's"</string>
+  <string name="view_face_album">View album</string>
   <string name="view_sharers">Bekijk delers</string>
   <string name="vignette">Vervloeien</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
@@ -646,6 +650,7 @@
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Waar is de QR code?</string>
   <string name="white_balance">Witbalans</string>
+  <string name="who_is_this">Who is this?</string>
   <string name="widget_type">Afbeeldingen kiezen</string>
   <string name="widget_type_album">Een album selecteren</string>
   <string name="widget_type_photo">Een afbeelding kiezen</string>

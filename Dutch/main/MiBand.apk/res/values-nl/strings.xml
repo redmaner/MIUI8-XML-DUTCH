@@ -55,8 +55,8 @@ met %1$s"</string>
   <string name="alarm_repeat">Herhalen</string>
   <string name="alarm_repeat_title_format">Geselecteerd %s</string>
   <string name="alarm_ring">Alarm</string>
-  <string name="alarm_tips">Band stopt automatisch met trillen wanneer het detecteert je dat je uit bed bent. Tik elk moment op de sensor van de band om het alarm handmatig te stoppen.</string>
   <string name="alarm_setting">Alarm instellen</string>
+  <string name="alarm_tips">Band stopt automatisch met trillen wanneer het detecteert je dat je uit bed bent. Tik elk moment op de sensor van de band om het alarm handmatig te stoppen.</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mma</string>
   <string name="ampm_format_hhmmss">hh:mm:ssa</string>
@@ -178,6 +178,7 @@ Aanraken om nieuwe gebruiker toe te voegen."</string>
   <string name="confirm_complete_tag">Markeer deze activiteit als afgewerkt</string>
   <string name="confirm_lazy_day">Vandaag een luie dag maken?</string>
   <string name="confirm_pair">Vebinding bevestigen</string>
+  <string name="congrats"/>
   <string name="connect_bracelet_now">Verbinden…</string>
   <string name="connect_to_retrive">Kan niet verbinden met netwerk.</string>
   <string name="connected_broadcast">Fitness Center verbinding</string>
@@ -191,7 +192,7 @@ reeks"</string>
   <string name="continue_reach_goal_new_record">Maak een nieuwe prestatie</string>
   <string name="continue_tips_format">Je beste prestatie is je doel bereiken voor %1$s dagen.</string>
   <string name="contour_track_failed_to_create">Delen mislukt, controleer de opslag ruimte.</string>
-<string name="crash_report_btn_exit">Afsluiten</string>
+  <string name="crash_report_btn_exit">Afsluiten</string>
   <string name="crash_report_btn_report">Raporteren</string>
   <string name="crash_report_dialog_text">"Er is een onverwachte fout opgetreden waardoor de applicatie is gestopt. Help ons dit probleem op te lossen door het sturen van de foute data. Het enige wat je hoeft te doen is tikken op 'Rapporteren'."</string>
   <string name="crash_report_dialog_title">Mi Fit is gecrashed</string>
@@ -638,6 +639,7 @@ met %1$s"</string>
   <string name="move_and_capture">Beweging en Opname</string>
   <string name="multi_devices_info">Er zijn meerdere Mi Bands in de buurt. U moet met uw Mi Band en telefoon ten minste 10 meter van andere Mi Bands zijn , dan opnieuw laten zoeken</string>
   <string name="multi_devices_title">Kon apparaat niet koppelen</string>
+  <string name="multi_devices_weight_title">"Couldn't pair device"</string>
   <string name="multi_weight_devices_info">Herstart Bluetooth en probeer opnieuw</string>
   <string name="name">Naam</string>
   <string name="network_error">Kan geen verbinding met het netwerk maken, controleer de netwerkverbinding.</string>
@@ -736,13 +738,14 @@ Hou vol!</string>
   <string name="remain_days_format">%s dagen sinds laatste oplaadbeurt</string>
   <string name="remain_days_today_format">Minder dan een dag sinds laatste oplaadbeurt</string>
   <string name="rename_mili">Naam</string>
+  <string name="report_email">453185402@qq.com</string>
   <string name="reset_mili">Reset Mi Band</string>
   <string name="reset_weight_goal">Resetten</string>
   <string name="restart_bluetooth_tips">Herstart Bluetooth.</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="right_hand">Rechts</string>
   <string name="runed">Gelopen</string>
-<string name="running_altitude">Hoogte</string>
+  <string name="running_altitude">Hoogte</string>
   <string name="running_auto_pause">Automatisch pauze detectie</string>
   <string name="running_auto_pause_desc">Stop met het verzamelen van info als het lopen is onderbroken</string>
   <string name="running_average_speed">Gemiddeld</string>
@@ -779,7 +782,7 @@ Hou vol!</string>
   <string name="running_gps_cancel">Annuleren</string>
   <string name="running_gps_locating">GPS locatie…</string>
   <string name="running_gps_poor_signal">Slecht GPS signaal. Zorg ervoor dat u een onbelemmerd zicht hebt op de hemel.</string>
-   <string name="running_gps_turnon">Inschakelen</string>
+  <string name="running_gps_turnon">Inschakelen</string>
   <string name="running_helper">Route volger</string>
   <string name="running_history">Geschiedenis</string>
   <string name="running_history_date" formatted="false">%d/%d/%d</string>
@@ -1210,9 +1213,9 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="week">" "</string>
   <string name="week_total_distance">Week totaal
 （km）</string>
-   <string name="week_total_distance_miles">"Week totaal 
+  <string name="week_total_distance_miles">"Week totaal 
 (miles)"</string>
- <string name="weibosdk_toast_auth_canceled">Account verwijderd</string>
+  <string name="weibosdk_toast_auth_canceled">Account verwijderd</string>
   <string name="weibosdk_toast_auth_canceled_f">Kon account niet verwijderen</string>
   <string name="weibosdk_toast_auth_failed">Kon geen account toevoegen</string>
   <string name="weibosdk_toast_binded">Dit account is al gekoppeld aan een andere Weibo Account</string>
@@ -1249,6 +1252,7 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="weight_history_dynamic_title">Succesvol gesynchroniseerd%1$sgeschiedenis gegevens over het gewicht</string>
   <string name="weight_less_than_tips">Volgens uw BMI info is het aanbevolen gewicht minder dan %1$s</string>
   <string name="weight_low_battery">Vervang weegschaal batterij</string>
+  <string name="weight_match_no_user">Select user</string>
   <string name="weight_measure">Wegen</string>
   <string name="weight_not_found_info">Blijf dicht bij de weegschaal</string>
   <string name="weight_not_found_title">Mi weegschaal niet gevonden</string>

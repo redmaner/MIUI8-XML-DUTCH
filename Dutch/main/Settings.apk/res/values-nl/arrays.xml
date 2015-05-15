@@ -476,11 +476,6 @@
         <item>Chimpansee</item>
         <item>Aap</item>
     </string-array>
-	    <string-array name="security_settings_premium_sms_values">
-        <item>Vragen</item>
-        <item>Nooit toestaan</item>
-        <item>Altijd toestaan</item>
-    </string-array>
     <string-array name="ram_states">
         <item>Normaal</item>
         <item>Gemiddeld</item>
@@ -517,14 +512,6 @@
         <item>8 seconden</item>
         <item>9 seconden</item>
     </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>Blauw</item>
-        <item>Rood</item>
-        <item>Groen</item>
-        <item>Roze</item>
-        <item>Violet</item>
-        <item>Paars</item>
-    </string-array>
     <string-array name="led_color_entries">
         <item>Blauw</item>
         <item>Rood</item>
@@ -533,6 +520,14 @@
         <item>Cyaan</item>
         <item>Wit</item>
         <item>Violet</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Blauw</item>
+        <item>Rood</item>
+        <item>Groen</item>
+        <item>Roze</item>
+        <item>Violet</item>
+        <item>Paars</item>
     </string-array>
 	    <string-array name="pink_panel_led_color_entries">
         <item>Lila</item>
@@ -555,6 +550,10 @@
         <item>PWD</item>
         <item>SIM</item>
         <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Show recent apps tray</item>
