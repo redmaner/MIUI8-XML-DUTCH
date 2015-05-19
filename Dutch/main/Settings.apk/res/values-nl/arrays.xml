@@ -736,10 +736,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Toestemming vragen voor apps met risico</item>
         <item>Toestaan</item>
     </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Toestemming vragen</item>
-        <item>Toestaan</item>
-    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Direkt</item>
         <item>1 minuut</item>
@@ -748,4 +744,16 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>15 minuten</item>
         <item>30 minuten</item>		
     </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Verberg systeem animaties</item>
+        <item>Toon systeem animaties</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Om de prestaties van uw apparaat te versnellen, verberg systeem animaties</item>
+        <item>Het tonen van systeem animaties kan de prestaties van het apparaat vertragen</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Apparaat herstarten om deze instellingen toe te passen?</item>
+        <item>Apparaat herstarten om deze instellingen toe te passen?</item>
+	</string-array>
 </resources>

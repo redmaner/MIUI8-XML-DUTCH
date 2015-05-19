@@ -2,16 +2,16 @@
 <resources>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
-  <string name="ac_enable_title">Machtigingen</string>
+  <string name="ac_enable_title">Vergrendel individuele apps</string>
   <string name="ac_privacy_mode_sum">Wachtwoord vereist om Gastmodus uit te schakelen</string>
   <string name="ac_privacy_mode_title">Wachtwoord</string>
-  <string name="ac_set_apps_title">Vergrendel apps</string>
+  <string name="ac_set_apps_title">VKies apps om te vergrendelen</string>
   <string name="accelerometer_summary_off">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
   <string name="accelerometer_summary_on">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
   <string name="accelerometer_title">Scherm automatisch draaien</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open app</string>
-  <string name="access_control_need_password">"%s is beveiligd"</string>
+  <string name="access_control_need_password">"%s is vergrendeld"</string>
   <string name="access_control_need_to_unlock">Wachtwoord vereist:</string>
   <string name="access_control_no_back_footer">Klik[icon] om te verlaten</string>
   <string name="access_control_password_title">Wachtwoord</string>
@@ -921,11 +921,7 @@
   <string name="floating_window_switch_label">Toon popup schermen</string>
   <string name="floating_window_switch_label_disable">Verberg popup schermen</string>
   <string name="fluency_mode">Optimaliseer prestaties van systeem</string>
-  <string name="fluency_mode_confirm_title">Nu herstarten?</string>
-  <string name="fluency_mode_confirm_will_fluency_mode_text">Uw apparaat moet opnieuw opstarten om deze instellingen toe te passen.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">Het inschakelen van animaties en gebruik van extra geheugen kan de prestaties op sommige apparaten verminderen.</string>
-  <string name="fluency_mode_enabled_name">Optimaliseer prestaties van systeem</string>
-  <string name="fluency_mode_summary">Schakel systeem animaties uit en verminder geheugengebruik</string>
+  <string name="fluency_mode_confirm_and_reboot">Nu herstarten</string>
   <string name="font_size_huge">Gigantisch</string>
   <string name="font_size_large">Groot</string>
   <string name="font_size_medium">Gemiddeld</string>
@@ -1563,6 +1559,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="passwordIncorrect">Het ingevoerde wachtwoord is niet juist</string>
   <string name="password_guard">Wachtwoord</string>
   <string name="percentage">%d%%</string>
+  <string name="performance_category">Prestatie</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">Machtigingen: Beveiliging %1$d，Privacy %2$d，Overige %3$d</string>
   <string name="permission_manage">Beheer machtigingen</string>
@@ -1657,12 +1654,12 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="priority_storage_settings_summary">Als er geen SD-kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag.</string>
   <string name="priority_storage_summary">Kies standaard locatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslag instellingen</string>
-  <string name="privacy_mode_dialog_message">Gesprekken, notities, afbeeldingen, berichten, en launcher instellingen zijn verborgen voor gebruiker</string>
+  <string name="privacy_mode_dialog_message">"Verberg inkomende gesprekken en berichten, notities, foto's en launcher instellingen"</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_mode_enable_sum">Verberg bel geschiedenis, berichten en andere data om privacy te beschermen</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
-  <string name="privacy_mode_summary">Gebruikersgegevens zal worden verborgen voor de gebruiker</string>
-  <string name="privacy_mode_title">Toestemmingen</string>
+  <string name="privacy_mode_summary">Vergrendel individuele apps of verberg persoonlijke info</string>
+  <string name="privacy_mode_title">Privacy instellingen</string>
   <string name="privacy_protect_title">Privacy bescherming</string>
   <string name="privacy_relative">Privacy gerelateerd</string>
   <string name="privacy_settings">Back-up maken en opnieuw instellen</string>
@@ -1928,7 +1925,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="search_date_time">Datum tijd</string>
   <string name="search_description">Zoek instellingen</string>
   <string name="search_display">Scherm</string>
-  <string name="search_fluency_mode">Systeemprestaties optimaliseren</string>
   <string name="search_font">Lettertype</string>
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">Een hand modus</string>

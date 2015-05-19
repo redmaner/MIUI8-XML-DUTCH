@@ -51,6 +51,7 @@ Laatst geback-upt op:%2$s"</string>
   <string name="cloudservice_new_sync">Sync. %s met Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren, je apparaat zoeken en dingen te delen met je vrienden.</string>
   <string name="contact">Contacten</string>
+  <string name="deskclock_backup">Backup klokken</string>
   <string name="disable_find_device_error">"Kan apparaat zoeken niet uitschakelen. %1$s"</string>
   <string name="enableAll">Sync. alle</string>
   <string name="enable_cloud_service_notification">Mi Cloud is niet ingeschakeld </string>
@@ -138,17 +139,25 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_main_space_full">Verkrijg meer opslagruimte</string>
   <string name="micloud_main_space_risk">%d items gesynced</string>
   <string name="micloud_main_stop_sync">Synchronisatie gestopt</string>
+  <string name="micloud_main_suggest_setting">"Wachten op Wi-Fi verbinding om te sync.
+Klik op de instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_main_suggest_sync">Sommige items zijn niet gesynchroniseerd met Mi Cloud</string>
   <string name="micloud_main_sync_exception">Sync. fout</string>
   <string name="micloud_main_sync_init">Info verkrijgen</string>
   <string name="micloud_main_sync_now">Nu synchroniseren</string>
   <string name="micloud_main_sync_on_wifi">Wi-Fi gebruiken</string>
   <string name="micloud_main_sync_pause">Synchronisatie gepauzeerd</string>
+  <string name="micloud_main_sync_setting">Sync. instellingen</string>
   <string name="micloud_main_sync_stop">Synchronisatie gestopt</string>
   <string name="micloud_main_synced_data_count">%d items gesync.</string>
   <string name="micloud_main_syncing">Sync…</string>
+  <string name="micloud_main_title_sync_fail">Kan niet sync.</string>
+  <string name="micloud_main_title_sync_off">Sync. uit</string>
+  <string name="micloud_main_title_sync_on_wifi">Gebruik Wi-Fi</string>
   <string name="micloud_main_update_space">Vergroot opslagruimte</string>
   <string name="micloud_main_wlan_sync_data_count">%d items wachten om te sync.</string>
+  <string name="micloud_member">Premium</string>
+  <string name="micloud_member_advantage">Verkrijg meer opslagruimte.</string>
   <string name="micloud_more">Meer informatie</string>
   <string name="micloud_other_product_price">Vergelijk prijzen</string>
   <string name="micloud_proceed">Doorgaan</string>
@@ -156,6 +165,7 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_setting_antispam_summary">Uitzonderingen voor Niet Storen en geblokkeerde nummers.</string>
   <string name="micloud_setting_browser_summary">Favorieten, geschiedenis en tags</string>
   <string name="micloud_setting_contact_summary">"Contact info en profiel foto's"</string>
+  <string name="micloud_setting_deskclock_summary">Klok instellingen</string>
   <string name="micloud_setting_gallery_summary">"Foto's en videos"</string>
   <string name="micloud_setting_music_summary">Afspeellijsten en favorieten and favorites</string>
   <string name="micloud_setting_sms_summary">SMS en MMS berichten</string>
@@ -164,11 +174,16 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_space_duokan_detail">Beheer je Duokan inhoud door het gebruik van de Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Wat gebeurt er als ik niet genoeg ruimte meer heb?&lt;/u&gt;</string>
+  <string name="micloud_storage">Opslag</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Zorg dat er voldoende Mi Credits zijn voor automatische verlengingen.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Sommige cloud diensten kunnen worden beëindigd. Het wordt aanbevolen om de automatische te  verlengen</string>
   <string name="micloud_storage_expires_soon_title">Mi Cloud opslag verloopt binnenkort</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud opslag verloopt binnenkort</string>
   <string name="micloud_storage_usage" formatted="false">Totaal gebruikte  %s/ruimte %s</string>
+  <string name="micloud_sync_alert_dialog_message">"Sync. uw foto's, contacten, notities en meer over al je apparaten.</string>
+  <string name="micloud_sync_alert_dialog_negative">Annuleren</string>
+  <string name="micloud_sync_alert_dialog_positive">Ok</string>
+  <string name="micloud_sync_alert_dialog_title">Gebruik Mi Cloud</string>
   <string name="micloud_title_dspt" formatted="false">"%s totaal %s gebruikte | %s resterend"</string>
   <string name="micloud_title_dspt_remain">%s resterend</string>
   <string name="micloud_title_full_dspt">Je opslagruimte limiet is bereikt</string>
@@ -213,6 +228,7 @@ Deze functie versleutelt en uploadt de ID van uw apparaat naar de Mi servers.</s
   <string name="remind_later">Later</string>
   <string name="restoreSync">Nu synchroniseren</string>
   <string name="setting">Instellingen</string>
+  <string name="settings_backup_title">Backup systeem instellingen</string>
   <string name="share_cancel">Delen geannuleerd</string>
   <string name="share_failed">Kon niet delen</string>
   <string name="share_miliao_not_installed">Mi Talk is niet geïnstaleerd.</string>
