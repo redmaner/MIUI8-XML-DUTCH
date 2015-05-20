@@ -95,7 +95,7 @@
   <string name="cannot_remove_creator">Kan de maker niet verwijderen</string>
   <string name="cannot_send_message">"Het bericht kan niet worden verzonden"</string>
   <string name="cannot_send_message_reason">Geen geldige ontvangers</string>
-  <string name="cant_delete_cloud_album">Verwijderen mislukt: %s is een systeem album of gedeeld door andere mensen.</string>
+  <string name="cant_delete_system_album">Verwijderen mislukt: %s is een systeem album of gedeeld door andere mensen.</string>
   <string name="choose_cloud_album">Choose album</string>
   <string name="cleaning_cache">Cache wissen</string>
   <string name="clear_thumbnail_cache">Wis thumbnail cache</string>
@@ -131,7 +131,6 @@
   <string name="confirm">Bevestigen</string>
   <string name="confirm_all_photo_not_this_people_face">Geen overeenkomsten?</string>
   <string name="confirm_delete">"%s foto's verwijderen?"</string>
-  <string name="confirm_delete_album" formatted="false">%s albums verwijderen(%s items totaal)?</string>
   <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">%s item(s) verwijderen?</string>
@@ -443,6 +442,8 @@
   <string name="paint_crop_cancel_title">Wijzigingen annuleren</string>
   <string name="paint_crop_tips">Om een beter beeld te krijgen, kunt u proberen om het op de rasterpunten te plaatsen door het formaat te wijzigen en te bewegen.</string>
   <string name="paint_highlight">Markeren</string>
+  <string name="paint_highlight_cancel_context">Gemarkerde afbeelding opslaan?</string>
+  <string name="paint_highlight_cancel_title">Veranderingen niet wijzigen</string>
   <string name="path">Pad</string>
   <string name="people">Mensen</string>
   <string name="photo_page_always_rotate">Auto rotatie afbeeldingen</string>
@@ -576,7 +577,7 @@
   <string name="size_above">%1$s of groter</string>
   <string name="size_below">%1$s of kleiner</string>
   <string name="size_between">%1$s tot %2$s</string>
-  <string name="skip_hide_special_album">Systeem albums(Camera, schermafdrukken) kunnen niet worden verborgen.</string>
+  <string name="skip_hide_special_album">Systeem albums(Camera, schermafdrukken, alle videos) kunnen niet worden verborgen.</string>
   <string name="slideshow_category">Diavoorstelling</string>
   <string name="slideshow_dream_name">Diavoorstelling</string>
   <string name="slideshow_interval">Toon iedere dia</string>
