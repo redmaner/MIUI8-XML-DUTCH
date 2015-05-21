@@ -556,8 +556,8 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Show recent apps tray</item>
-        <item>Show menu</item>
+        <item>Toon recente apps tray</item>
+        <item>Toon menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Geen</item>
@@ -734,6 +734,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 	</string-array>
     <string-array name="install_non_market_app_entries">
         <item>Toestemming vragen voor apps met risico</item>
+        <item>Toestaan</item>
+    </string-array>
+	<string-array name="install_non_market_app_contents">
+        <item>Toestemming vragen</item>
         <item>Toestaan</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">

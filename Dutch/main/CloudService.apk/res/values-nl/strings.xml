@@ -34,7 +34,7 @@ Om meer ruimte te verkrijgen, bezoek mi.com/micloud."</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_dialog_content">"Huidige back-up stoppen? Als je nu stopt, zal je deze back-up nietkunnen gebruiken om apps te herstellen."</string>
   <string name="cloud_back_up_interval_long">7 dagen</string>
-  <string name="cloud_back_up_interval_short">1 uur</string>
+  <string name="cloud_back_up_interval_short">1 dag</string>
   <string name="cloud_back_up_network_unavailable">"Kon niet worden verwijderd. Maak verbinding met Wi-Fi en probeer opnieuw."</string>
   <string name="cloud_back_up_open_info">"Back-up Startscherm apps en opmaak wanneer Wi-F- verbonden eens eens per %1$s
 Laatst geback-upt op:%2$s"</string>
@@ -109,6 +109,7 @@ Als u van SIM kaarten verwisseld zal er automatisch een SMS verstuurd worden om 
   <string name="master_alert_notif_dspt_add">Wachten om %s items te synchroniseren</string>
   <string name="master_alert_notif_dspt_no">Gesynchroniseerd</string>
   <string name="master_alert_notif_title">Laatst gesynchroniseerd %s dagen geleden</string>
+  <string name="micloud_buy_member">Upgraden lidmaatschap</string>
   <string name="micloud_check_sim_notify_text">Je hebt SIM kaarten veranderd. Log in 
 om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_check_sim_notify_title">Heractiveer Mi Cloud</string>
@@ -156,8 +157,21 @@ Klik op de instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_main_title_sync_on_wifi">Gebruik Wi-Fi</string>
   <string name="micloud_main_update_space">Vergroot opslagruimte</string>
   <string name="micloud_main_wlan_sync_data_count">%d items wachten om te sync.</string>
-  <string name="micloud_member">Premium</string>
+  <string name="micloud_member">Mi Cloud lidmaatschap</string>
   <string name="micloud_member_advantage">Verkrijg meer opslagruimte.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Geldig voor %s-%s-%s
+
+%s Mi Credits per jaar"</string>
+  <string name="micloud_member_buy_title">Bevestig bestelling</string>
+  <string name="micloud_member_net_error_alert_message">Je hebt geen internet verbinding"</string>
+  <string name="micloud_member_net_error_alert_title">Kan niet verbinden met netwerk</string>
+  <string name="micloud_member_pay_fail_toast">Kon de betaling niet voltooien</string>
+  <string name="micloud_member_pay_miid_error_toast">Account fout</string>
+  <string name="micloud_member_pay_order_error_toast">Gegevens fout</string>
+  <string name="micloud_member_refresh_button">Vernieuwen</string>
+  <string name="micloud_member_webload_fail_error_message">Netwerk fout</string>
+  <string name="micloud_member_webload_fail_toast_4xx">Kon pagina niet laden</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Server fout</string>
   <string name="micloud_more">Meer informatie</string>
   <string name="micloud_other_product_price">Vergelijk prijzen</string>
   <string name="micloud_proceed">Doorgaan</string>
