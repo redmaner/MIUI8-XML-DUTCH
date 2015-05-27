@@ -115,7 +115,7 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
-        <item>PIN code van peer</item>
+        <item>PIN code van peer apparaat</item>
         <item>PIN van dit apparaat</item>
     </string-array>
     <string-array name="wifi_p2p_status">
@@ -177,7 +177,7 @@
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>passief</item>
+        <item>Statisch</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Geen</item>
@@ -231,7 +231,7 @@
         <item>Apparaat</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>geschatte locatie</item>
+        <item>Geschatte locatie</item>
         <item>Nauwkeurige locatie</item>
         <item>GPS</item>
         <item>Trillen</item>
@@ -369,7 +369,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nooit controleren</item>
-        <item>Alleen controleren op DRM-inhoud</item>
+        <item>Alleen controleren op DRM inhoud</item>
         <item>Altijd controleren</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -407,11 +407,11 @@
     <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
+        <item>720x480 mdpi (veilig)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
+        <item>1280x720 tvdpi (veilig)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
+        <item>1920x1080 xhdpi (veilig)</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">

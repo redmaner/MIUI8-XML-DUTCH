@@ -26,7 +26,7 @@
   <string name="account_name_toast">Kan geen account aanmaken. Een account met dezelfde naam al bestaat</string>
   <string name="account_options_acc_title">Account</string>
   <string name="account_options_common_title">Algemeen</string>
-  <string name="account_options_only_title">Download bericht titels enkel met behulp van het mobiele netwerk</string>
+  <string name="account_options_only_title">Bij gebruik van mobiele netwerk enkel de berichttitels downloaden</string>
   <string name="account_options_sync_title">Sync.</string>
   <string name="account_password_spaces_error">Dit wachtwoord begint of eindigt met een of meer spaties. Veel servers bieden geen ondersteuning voor wachtwoorden met spaties.</string>
   <string name="account_security_dialog_content_fmt">Voor %s moet u uw beveiligingsinstellingen bijwerken.</string>
@@ -54,7 +54,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Uw aanmelding bij %s is mislukt. De server retourneerde het volgende bericht: %s Wilt u uw gebruikersnaam en/of wachtwoord bijwerken?</string>
   <string name="account_settings_login_dialog_title">Kan niet inloggen</string>
   <string name="account_settings_mail_check_frequency_label">Frequentie</string>
-  <string name="account_settings_mibill_resolve_label">Analyseer e-mail verklaringen</string>
+  <string name="account_settings_mibill_resolve_label">Rekeningen automatisch beheren</string>
   <string name="account_settings_name_label">Gebruikersnaam</string>
   <string name="account_settings_notifications">Meldingen</string>
   <string name="account_settings_notify_label">Meldingen via e-mail</string>
@@ -141,6 +141,7 @@
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_title">Accountinstellingen</string>
   <string name="account_setup_incoming_username_label">Gebruikersnaam</string>
+  <string name="account_setup_incoming_username_label_default_hint">Bevat domeinnaam</string>
   <string name="account_setup_names_account_name_label">Geef dit account een naam(optioneel)</string>
   <string name="account_setup_names_headline">Uw account is ingesteld.</string>
   <string name="account_setup_names_title">Accountinstellingen</string>
@@ -313,12 +314,12 @@
   <string name="confirm_send_message_with_no_subject">Het berichtonderwerp bevat geen tekst.</string>
   <string name="confirm_send_title">Bericht verzenden?</string>
   <string name="contact_content_provider">Contactgegevens Provider</string>
-  <string name="contact_edit_set_black_list">Zwarte lijst instellen</string>
+  <string name="contact_edit_set_black_list">Blokkerlijst instellen</string>
   <string name="contact_edit_set_phone_contact">Bewerk telefoon contacten</string>
   <string name="contact_edit_set_pop_up_tips">Popup tips</string>
   <string name="contact_edit_set_unread_top">Eerst ongelezen mails weergeven</string>
   <string name="contact_edit_set_vip">VIP instellen</string>
-  <string name="contact_edit_title_permission">"Contact' toestemmingen"</string>
+  <string name="contact_edit_title_permission">Contact toestemmingen</string>
   <string name="contact_edit_title_phone_contact">Telefoon contact lijst</string>
   <string name="contact_info_string">Contactgegevens weergeven voor %1$s</string>
   <string name="contact_info_string_default">Contactgegevens weergeven</string>
@@ -377,7 +378,9 @@
   <string name="device_admin_label">E-mail</string>
   <string name="device_not_activiey_lint1">Apparaatbeheer is niet geactiveerd</string>
   <string name="device_not_activiey_lint2">Mail service werkt niet goed wisselen</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Sync. mail optie is uitgeschakeld, kan geen nieuwe berichten ontvangen.</string>
   <string name="dialog_auto_download_failed">Kan het automatisch downloaden niet voltooien, probeer manueel te downloaden</string>
+  <string name="dialog_auto_sync_setting_no_open">Sync. mail optie is uitgeschakeld, kan geen nieuwe berichten ontvangen.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Niet genoeg ruimte voor %s.</string>
   <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Er is niet genoeg ruimte op de externe opslag.</string>
   <string name="dialog_insufficient_space_on_internal">Gebrek aan opslagruimte om attachments automatisch te downloaden.</string>
@@ -469,7 +472,7 @@
   <string name="folder_sent_name_en3">Verzonden Items</string>
   <string name="folder_sent_name_en4">[Gmail]/Verzonden Mail</string>
   <string name="folder_shortcut_widget_label">E-mailmap</string>
-  <string name="folder_synchronization_mail_settings">Map synchronisatie  voor mail instellingen</string>
+  <string name="folder_synchronization_mail_settings">Map sync. instellingen</string>
   <string name="folder_trash_name_cn0">Verwijderde</string>
   <string name="folder_trash_name_cn1">Verwijderde items</string>
   <string name="folder_trash_name_cn2">[Gmail]/Prullenbak</string>
@@ -520,11 +523,11 @@
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
   <string name="ignore_spam_warning">Negeren, ik vertrouw dit bericht</string>
   <string name="imap_name">IMAP</string>
-  <string name="imap_password_error">Het wachtwoord van de inkomende e-mail server is fout</string>
+  <string name="imap_password_error">Wachtwoord van de inkomende e-mail server is fout</string>
   <string name="inbox_folders_heading">Lokale mappen</string>
   <string name="info">Info</string>
-  <string name="inline_picture_deleted">Kan de afbeelding niet vinden, downloaden…</string>
-  <string name="inline_picture_download_complete">inline afbeeldingsdownload voltooid</string>
+  <string name="inline_picture_deleted">Downloaden van ontbrekende afbeelding…</string>
+  <string name="inline_picture_download_complete">Gedownloade afbeelding</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
   <string name="invalid_recipient">Het adres \"%s\" is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers Error</string>
@@ -636,17 +639,17 @@ Cc: %4$s
   <string name="message_saved">Bericht opgeslagen als concept.</string>
   <string name="message_type_name">Bericht</string>
   <string name="message_view_attachment_background_load">Een of meer bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
-  <string name="mibill_privacy_policy_button1">Nu niet</string>
+  <string name="mibill_privacy_policy_button1">Niet akkoord</string>
   <string name="mibill_privacy_policy_button2">Akkoord</string>
-  <string name="mibill_privacy_policy_description">Mi Wallet zal alle ontvangen e-mail verklaringen analyseren in uw Mail-app en al uw kredit kaart rekeningen beheren. Deze service is standaard ingesteld op af voor bedrijf mailbox.</string>
-  <string name="mibill_privacy_policy_link">Akkoord &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Krediet Kaart Rekening Dienst gebruikersovereenkomst&lt;/a&gt;</string>
-  <string name="mibill_privacy_policy_title">Mi Wallet analyseert e-mail verklaringen</string>
+  <string name="mibill_privacy_policy_description">Laat Mi Wallet analyseren en uw facturen automatisch beheren. Deze functie wordt automatisch uitgeschakeld voor werkgerelateerde e-mailadressen.</string>
+  <string name="mibill_privacy_policy_link">Lees &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Algemene Voorwaarden&lt;/a&gt;.</string>
+  <string name="mibill_privacy_policy_title">Akkoord gaan om rekeningen automatisch beheren</string>
   <string name="more_atts_remaining">%1$d meer overgebleven</string>
   <string name="more_atts_total">%1$d bijlagen in totaal</string>
   <string name="more_context">Meer</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
-  <string name="move_to_selection_dialog_title">Verplaatsen naar</string>
+  <string name="move_to_selection_dialog_title">Verplaatsen naar een ander map</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Negeren</string>
   <string name="name_or_number_is_error">Gebruikersnaam of wachtwoord fout</string>
@@ -655,7 +658,7 @@ Cc: %4$s
   <string name="new_incoming_messages_one">Nieuw bericht van %s. Weergeven.</string>
   <string name="new_messages">%1$d nieuwe berichten</string>
   <string name="next_action">Volgende</string>
-  <string name="next_not_prompt">Niet vragen</string>
+  <string name="next_not_prompt">Niet meer weergeven</string>
   <string name="no">Nee</string>
   <string name="no_address_email">noodadresemail@123.com</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
@@ -679,6 +682,9 @@ Cc: %4$s
   <string name="notification_action_undo_delete">Verwijderd</string>
   <string name="notification_action_undo_remove_label">Label verwijderd</string>
   <string name="notification_exchange_calendar_added">Uitwissel kalender toegevoegd</string>
+  <string name="oauth_error_description">Niet in staat om te authenticeren</string>
+  <string name="oauth_gmail_login_notify">Volgens de eisen van Google moet u uw wachtwoord invoeren op de Google authentificeer pagina</string>
+  <string name="oauth_login_continue">Doorgaan</string>
   <string name="ok">Ok</string>
   <string name="okay_action">Ok</string>
   <string name="open_proxy_in_settings">Gmail is niet beschikbaar op uw huidige locatie. U kunt nog steeds berichten verzenden en ontvangen vanuit je Gmail Postvak In door gebruik van de Mail proxy server. Je kan deze functie elk moment in- of uitschakelen in Instellingen.</string>
@@ -688,13 +694,13 @@ Cc: %4$s
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
   <string name="outbox_alert_certificate_error">E-mail certificaat uitzondering, gelieve te updaten</string>
   <string name="outbox_alert_description_auth_error">Autorisatie fout van de server tijdens het sync. van Postvak Uit</string>
-  <string name="outbox_alert_description_cannot_authenticate">%s Mail systeemfout</string>
+  <string name="outbox_alert_description_cannot_authenticate">Kon %s niet authenticeren</string>
   <string name="outbox_alert_description_http_error">HTTP fout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_insufficient_storage_error">Onvoldoende ruimte op de e-mailserver</string>
   <string name="outbox_alert_description_provision_error">Oorzaak: Provisie fout van de server tijdens het sync. van Postvak Uit </string>
   <string name="outbox_alert_description_reject_by_server">Geweigerd door %s</string>
   <string name="outbox_alert_description_sent_failed">Grootte van de bijlage heeft het limiet van de ontvanger overschreden.</string>
-  <string name="outbox_alert_description_time_out">Netwerk verbindings fout</string>
+  <string name="outbox_alert_description_time_out">Netwerk verbinding timed out</string>
   <string name="outbox_alert_duplicate_click">Bezig met synchroniseren</string>
   <string name="outbox_alert_edit_resend">Bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_failed_edit_resend">Niet verzonden, bewerken en opnieuw verzenden</string>
@@ -761,11 +767,11 @@ Cc: %4$s
   <string name="pop3_name">POP3</string>
   <string name="prefDialogTitle_conversationListIcon">Afbeelding van afzender</string>
   <string name="prefDialogTitle_removal_action">Acties voor archiveren of verwijderen</string>
-  <string name="preference_eas_tips">Klik op "Activeren" in de komende bevestigingspagina die wordt vereist is door e-mailserver</string>
+  <string name="preference_eas_tips">Tik op Activeren om mailserver in te stellen</string>
   <string name="preference_head_load_description">Alleen bericht titels downloaden met mobiele data.</string>
   <string name="preference_head_load_title">Verminder mobiel data verbruik</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">In POP3, zullen bijlagen automatisch gedownload worden met e-mail zelf. Let op de mobiele data.</string>
+  <string name="preference_pop_tips">In POP3, zullen bijlagen automatisch gedownload worden met e-mail zelf. Dit kan uw mobiele data gebruik verhogen.</string>
   <string name="preference_removal_action_title">Acties voor archiveren of verwijderen</string>
   <string name="preference_sender_image_description">Afbeelding van afzender weergeven in Postvak In</string>
   <string name="preference_sender_image_title">Afbeelding van afzender weergeven in Postvak In</string>
@@ -823,8 +829,8 @@ Cc: %4$s
   <string name="quote_divider_qq_zh">------------------ Origineel ------------------</string>
   <string name="quoted_text">Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="quoted_text_label">Geciteerde tekst</string>
-  <string name="re_download_message_button">Klik om opnieuw te downloaden</string>
-  <string name="re_download_message_info">Download e-mail mislukt</string>
+  <string name="re_download_message_button">Tik om opnieuw te downloaden</string>
+  <string name="re_download_message_info">Kon e-mail niet downloaden</string>
   <string name="read_string">Conversatie gelezen</string>
   <string name="recent_folders_heading">Recente mappen</string>
   <string name="recipient_needed">"Voeg ten minste één ontvanger toe."</string>
@@ -862,7 +868,7 @@ Cc: %4$s
   <string name="save_power_title">Niet Storen</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
-  <string name="sdcard_cannot_use">Kaartopslag kan niet worden gebruikt</string>
+  <string name="sdcard_cannot_use">Kan SD kaart niet gebruiken</string>
   <string name="search_attachment">Zoeken</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">Resultaten</string>
@@ -915,7 +921,7 @@ Cc: %4$s
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
-  <string name="smtp_password_error">Het wachtwoord van de uitgaande e-mail server is fout</string>
+  <string name="smtp_password_error">Het wachtwoord van de uitgaande mail server is ongeldig</string>
   <string name="sort_attachment">Sorteren op</string>
   <string name="spaceChar">" "</string>
   <string name="special_text_1">Schreef:</string>
@@ -978,13 +984,13 @@ Cc: %4$s
   <string name="updated_at">Laatst bijgewerkt: %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
   <string name="upload_log">Upload logs</string>
-  <string name="upload_log_failed">Uploaden logs mislukt</string>
+  <string name="upload_log_failed">Kon logs niet uploaden</string>
   <string name="upload_log_no">Annueleren</string>
   <string name="upload_log_success">Uploaden logs gelukt</string>
-  <string name="upload_log_title">Logs nu uploaden？</string>
+  <string name="upload_log_title">Upload bevestigen</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
   <string name="upload_log_yes">Uploaden</string>
-  <string name="uploading_logs">De logs zijn aan het uploaden</string>
+  <string name="uploading_logs">Uploaden logs…</string>
   <string name="validation_failed_prompt">Account kan niet worden geverifieerd , controleer %s server instellingen</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -1008,6 +1014,6 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_other_views">Overige</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="yes">Ja</string>
-  <string name="you_are_in_mobile_network">U gebruikt momenteel het mobiele netwerk</string>
+  <string name="you_are_in_mobile_network">U maakt gebruik van mobiele netwerk, deze log bestanden toch(grootte nKB) uploaden?</string>
   <string name="zip_viewer_no_file">Geen bestanden</string>
 </resources>

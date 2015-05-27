@@ -1,9 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="miui">miui</string>
+  <string name="alwaysUsePrompt">Keuze herrineren</string>
+  <string name="auto_start_warning_allow">Toestaan</string>
+  <string name="auto_start_warning_deny">Weigeren</string>
+  <string name="auto_start_warning_title">%s toestaan om in het vervolg automatisch op te starten?</string>
+  <string name="call_record_or">" of "</string>
+  <string name="call_record_sample_prefix_miui">Bellen</string>
+  <string name="caller_info_name_delimiter">" of "</string>
+  <string name="copy">Kopiëren</string>
+  <string name="cut">Knippen</string>
+  <string name="first_back_long_press_message">"Druk op &amp; en houdt de knop Terug in om huidig proces en de achtergrond diensten te stoppen.
+
+Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"</string>
+  <string name="fm_record_smaple_prefix_miui">FM opname</string>
+  <string name="force_exit_message">%1$s geforceerd sluiten</string>
+  <string name="force_exit_skip_message">Kan %1$s niet sluiten, is nodig voor systeem.</string>
+  <string name="global_actions_airplane_mode">Vliegmodus</string>
+  <string name="global_actions_reboot">Herstarten</string>
+  <string name="global_actions_shutdown">Uitschakelen</string>
+  <string name="global_actions_silent_mode">Stil</string>
+  <string name="key_btn_ok">Ok</string>
+  <string name="key_btn_space">Ruimte</string>
+  <string name="lockscreen_access_pattern_cell_added">Cel toegevoegd</string>
+  <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
+  <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
+  <string name="lockscreen_access_pattern_start">Patroon gestart</string>
+  <string name="memory_clear_nothing_result">Niets om te wissen in cache</string>
+  <string name="memory_clear_result">%1$sB gewist | %2$sB beschikbaar</string>
+  <string name="miui">Miui</string>
+  <string name="paste">plakken</string>
+  <string name="reboot_confirm_title">Uw apparaat wordt opnieuw opgestart.</string>
+  <string name="reboot_progress">Opnieuw opstarten…</string>
+  <string name="replace">Vervangen</string>
   <string name="screen_button_disabled_message">Navigatieknoppen uitgeschakeld. Om opnieuw in te schakelen raakt u gelijktijdig Thuis en de Power knop aan.</string>
   <string name="screen_button_enabled_message">Navigatieknoppen ingeschakeld.</string>
+  <string name="screen_button_notification_text">Om ze in te schakelen, drukt u op de Home- en Power knoppen tegelijk.</string>
+  <string name="screen_button_notification_title">Navigatieknoppen zijn uitgeschakeld</string>
+  <string name="screen_on_proximity_sensor_hint">Om ze uit te schakelen, drukt u op de Terug- and Volume omhoog knoppen tegelijk.</string>
+  <string name="screen_on_proximity_sensor_summary">Het oranje gedeelte van het scherm niet bedekken</string>
+  <string name="screen_on_proximity_sensor_title">Broek gesprekken voorkomen</string>
+  <string name="screen_paper_mode_enter_toast">Lees modus is ingeschakeld. U kunt deze functie in- en uitschakelen op elk gewenst moment in Extra instellingen &gt; Lees modus.</string>
   <string name="screen_rotation_freeze_message">Auto-rotatie uitgeschakeld.</string>
+  <string name="select">Selecteren</string>
+  <string name="select_all">Alles selecteren</string>
+  <string name="shutdown_confirm_title">Uw telefoon wordt uitgeschakeld.</string>
+  <string name="shutdown_progress">Uitschakelen…</string>
+  <string name="sim_added_reboot_confirm">Herstarten</string>
+  <string name="sim_added_reboot_title">SIM kaart zal geactiveerd worden nadat u uw apparaat opnieuw hebt opgestart.</string>
+  <string name="softap_notifif_summary">%d verbonden</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" ingeschakeld</string>
   <string name="status_bar_toggle_ac">Vergrendelscherm</string>
   <string name="status_bar_toggle_auto_brightness">Helderheid</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -25,12 +70,13 @@
   <string name="status_bar_toggle_screen_button">Uitschakelen</string>
   <string name="status_bar_toggle_screenshot">Schermafdruk</string>
   <string name="status_bar_toggle_shutdown">Power</string>
-  <string name="status_bar_toggle_sync">Sync</string>
-  <string name="status_bar_toggle_sync_auto">Sync</string>
-  <string name="status_bar_toggle_sync_manual">Sync</string>
-  <string name="status_bar_toggle_syncing">Syncing</string>
+  <string name="status_bar_toggle_sync">Sync.</string>
+  <string name="status_bar_toggle_sync_auto">Sync.</string>
+  <string name="status_bar_toggle_sync_manual">Sync.</string>
+  <string name="status_bar_toggle_syncing">Sync.</string>
   <string name="status_bar_toggle_torch">Zaklamp</string>
   <string name="status_bar_toggle_vibrate">Trillen</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="unknown_caller">Onbekend nummer</string>
 </resources>
