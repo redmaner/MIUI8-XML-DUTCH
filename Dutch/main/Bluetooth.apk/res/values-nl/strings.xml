@@ -9,6 +9,7 @@
   <string name="auth_notif_ticker">OBEX verificatieverzoek</string>
   <string name="auth_notif_title">Sessiesleutel</string>
   <string name="ble_device_address">Bluetooth Smart apparaat MAC</string>
+  <string name="ble_device_profile">Profiel Bluetooth apparaat</string>
   <string name="ble_device_profile_header_title">Instellingen</string>
   <string name="ble_device_profile_title">Gekoppeld Bluetooth Smart apparaat</string>
   <string name="ble_device_rename">Naam wijzigen</string>
@@ -64,6 +65,7 @@
   <string name="enabling_progress_content">Bluetooth inschakelen…</string>
   <string name="enabling_progress_title">Een ogenblik geduld…</string>
   <string name="format_progress_text">%1$d%%</string>
+  <string name="goto_package">%1$s openen</string>
   <string name="hello">Testactiviteit</string>
   <string name="inbound_history_title">Inkomende overdrachten</string>
   <string name="inbound_noti_title">Bluetooth delen: ontvangen bestanden</string>
@@ -79,6 +81,7 @@
   <string name="incoming_file_confirm_title">Bestandsoverdracht</string>
   <string name="incoming_file_toast_msg">Er is een inkomend bestand van een ander apparaat beschikbaar. Bevestig dat u dit bestand wilt ontvangen.</string>
   <string name="insert_record">Record invoegen</string>
+  <string name="install_package">Installeer %1$s voor meer functies</string>
   <string name="localPhoneName">Mijn naam</string>
   <string name="mi_band_vibrate_alarm">Trillen bij alarm</string>
   <string name="mi_band_vibrate_incall">Trillen bij bellen</string>
@@ -91,6 +94,10 @@
   <string name="mi_key_alert_dialog_title">Mi Key Alarm</string>
   <string name="mi_key_find_mikey">Vind Mi Key</string>
   <string name="mi_key_find_phone">Vind apparaat</string>
+  <string name="mi_key_open_camera">Open Camera</string>
+  <string name="mi_key_summary_find_phone">Druk op &amp; houdt de Mi-Key in om te laten bellen</string>
+  <string name="mi_key_summary_open_camera">Dubbel klik op Mi-Key om camera te openen</string>
+  <string name="mi_key_summary_take_photo">Klik op Mi-Key om foto te nemen</string>
   <string name="mi_key_take_photo">Foto nemen</string>
   <string name="miui_transfer_history_title">Bluetooth overdrachten</string>
   <string name="miui_transfer_inbound_title">Inkomend</string>
@@ -122,8 +129,10 @@
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
   <string name="permlab_handoverStatus">Overdrachtsgegevens via Bluetooth ontvangen.</string>
   <string name="process"/>
-  <string name="progress_scanning">Zoeken</string>
+  <string name="progress_scanning">Zoeken…</string>
+  <string name="reset_function_msg">De functie heropenen zal ongeldig zijn in %1$s</string>
   <string name="sharedUserId"/>
+  <string name="some_app_taking">(%1$s gebruikt deze functie al…)</string>
   <string name="start_server">TCP server starten</string>
   <string name="status_canceled">Overdracht geannuleerd door gebruiker.</string>
   <string name="status_connection_error">Verbinding mislukt.</string>
