@@ -2,16 +2,16 @@
 <resources>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
-  <string name="ac_enable_title">Machtigingen</string>
+  <string name="ac_enable_title">Vergrendel individuele apps</string>
   <string name="ac_privacy_mode_sum">Wachtwoord vereist om Gastmodus uit te schakelen</string>
   <string name="ac_privacy_mode_title">Wachtwoord</string>
-  <string name="ac_set_apps_title">Vergrendel apps</string>
+  <string name="ac_set_apps_title">VKies apps om te vergrendelen</string>
   <string name="accelerometer_summary_off">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
   <string name="accelerometer_summary_on">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
   <string name="accelerometer_title">Scherm automatisch draaien</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open app</string>
-  <string name="access_control_need_password">"%s is beveiligd"</string>
+  <string name="access_control_need_password">"%s is vergrendeld"</string>
   <string name="access_control_need_to_unlock">Wachtwoord vereist:</string>
   <string name="access_control_no_back_footer">Klik[icon] om te verlaten</string>
   <string name="access_control_password_title">Wachtwoord</string>
@@ -518,7 +518,7 @@
   <string name="carrier_enabled_summaryOn">APN ingeschakeld</string>
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
   <string name="cell_broadcast_settings">Cell broadcasts</string>
-  <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display</string>
+  <string name="cell_broadcast_settings_summary">Selecteer de types noodoproepen om weer te geven</string>
   <string name="change_password">Wachtwoord wijzigen</string>
   <string name="check_update">Controleer op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende gesprekken gebruiken voor meldingen</string>
@@ -922,7 +922,7 @@
   <string name="floating_window_switch_label">Toon popup schermen</string>
   <string name="floating_window_switch_label_disable">Verberg popup schermen</string>
   <string name="fluency_mode">Optimaliseer prestaties van systeem</string>
-  <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
+  <string name="fluency_mode_confirm_and_reboot">Nu herstarten</string>
   <string name="font_size_huge">Gigantisch</string>
   <string name="font_size_large">Groot</string>
   <string name="font_size_medium">Gemiddeld</string>
@@ -1041,7 +1041,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Verborgen SSID:</string>
-  <string name="high_performance_notif_summary">Prestatie modus ingeschakeld.</string>
+  <string name="high_performance_notif_summary">Prestatiemodus schakelt temperatuurregeling en batterij verbruiks limieten uit, waardoor uw apparaat op maximale capaciteit werkt. Dit kan veroorzaken dat uw apparaat te warm wordt en kan ook de levensduur van de batterij verminderen.</string>
   <string name="high_performance_notif_title">Waarschuwing batterij gebruik</string>
   <string name="high_performance_title">"Het lijkt erop dat u gebruik maakt van een benchmark test. Stel energiebeheer in op\ 'Prestatie'\ "voor het beste resultaat.""</string>
   <string name="history_details_title">Geschiedenisdetails</string>
@@ -1425,7 +1425,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
   <string name="music_dirac_mode_piston_basic">Basis Editie</string>
-  <string name="music_dirac_mode_piston_standard">Standard Edition</string>
+  <string name="music_dirac_mode_piston_standard">Standaard Editie</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
@@ -1561,7 +1561,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="passwordIncorrect">Het ingevoerde wachtwoord is niet juist</string>
   <string name="password_guard">Wachtwoord</string>
   <string name="percentage">%d%%</string>
-  <string name="performance_category">Performance</string>
+  <string name="performance_category">Prestatie</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">Machtigingen: Beveiliging %1$d，Privacy %2$d，Overige %3$d</string>
   <string name="permission_manage">Beheer machtigingen</string>
@@ -1656,12 +1656,12 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="priority_storage_settings_summary">Als er geen SD-kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag.</string>
   <string name="priority_storage_summary">Kies standaard locatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslag instellingen</string>
-  <string name="privacy_mode_dialog_message">Gesprekken, notities, afbeeldingen, berichten, en launcher instellingen zijn verborgen voor gebruiker</string>
+  <string name="privacy_mode_dialog_message">"Verberg inkomende gesprekken en berichten, notities, foto's en launcher instellingen"</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_mode_enable_sum">Verberg bel geschiedenis, berichten en andere data om privacy te beschermen</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
-  <string name="privacy_mode_summary">Gebruikersgegevens zal worden verborgen voor de gebruiker</string>
-  <string name="privacy_mode_title">Toestemmingen</string>
+  <string name="privacy_mode_summary">Vergrendel individuele apps of verberg persoonlijke info</string>
+  <string name="privacy_mode_title">Privacy instellingen</string>
   <string name="privacy_protect_title">Privacy bescherming</string>
   <string name="privacy_relative">Privacy gerelateerd</string>
   <string name="privacy_settings">Back-up maken en opnieuw instellen</string>
@@ -1956,8 +1956,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="search_wifi_display">Wi-Fi scherm</string>
   <string name="security_enable_widgets_disabled_summary">Uitgeschakeld door beheerder</string>
   <string name="security_enable_widgets_title">Widgets inschakelen</string>
-  <string name="security_keyguard_category_name">Vergrendelscherm</string>
-  <string name="security_password_category_name">Wachtwoord</string>
+  <string name="security_keyguard_category_name">Scherm vergrendeling</string>
+  <string name="security_password_category_name">Scherm vergrendeling</string>
   <string name="security_passwords_title">Wachtwoorden</string>
   <string name="security_privacy_settings_title">Beveiliging</string>
   <string name="security_relative">Beveiligingsgerelateerd</string>
@@ -2046,7 +2046,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="sim_lock_settings">Instellingen SIM kaart vergrendeling</string>
   <string name="sim_lock_settings_category">SIM vergrendeling instellen</string>
   <string name="sim_lock_settings_title">SIM kaart vergrendeling</string>
-  <string name="sim_management_title">SIM beheer</string>
+  <string name="sim_management_title">SIM kaarten &amp; mobiele netwerken</string>
   <string name="sim_pin_change">SIM PIN code wijzigen</string>
   <string name="sim_pin_toggle">SIM kaart vergrendelen</string>
   <string name="sim_pins_dont_match">PIN codes komen niet overeen</string>
@@ -2109,7 +2109,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="status_bar_settings_enable_notification">Meldingen toestaan</string>
   <string name="status_bar_settings_expandable_under_keyguard">Toestaan op vergrendelscherm</string>
   <string name="status_bar_settings_long_click_sort">Druk &amp; pak een schakelaar op</string>
-  <string name="status_bar_settings_manage_notification">Manage notifications</string>
+  <string name="status_bar_settings_manage_notification">Beheer meldingen</string>
   <string name="status_bar_settings_no_carrier">Geen</string>
   <string name="status_bar_settings_notification_bar">Meldingsbalk</string>
   <string name="status_bar_settings_notification_led">Meldingslicht</string>
@@ -2328,11 +2328,11 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="unlock_set_unlock_none_title">Vegen</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Geen</string>
-  <string name="unlock_set_unlock_password_summary">Je mag cijfers en letters gebruiken</string>
+  <string name="unlock_set_unlock_password_summary">Voer vier of meer letters of nummers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_password_title">Wachtwoord</string>
-  <string name="unlock_set_unlock_pattern_summary">Je moet minimum 4 punten verbinden</string>
+  <string name="unlock_set_unlock_pattern_summary">Teken een eenvoudig patroon met uw vinger om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pattern_title">Patroon</string>
-  <string name="unlock_set_unlock_pin_summary">Voer 4 getalen in</string>
+  <string name="unlock_set_unlock_pin_summary">Voer vier of meer nummers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
   <string name="unmount_inform_text">USB opslag wordt ontkoppeld.</string>
@@ -2457,9 +2457,9 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="vibrate_input_devices">Trilstand gebruiken</string>
   <string name="vibrate_input_devices_summary">Trilstand overschakelen naar gamecontroller wanneer deze is aangesloten.</string>
   <string name="vibrate_when_ringing_title">Trillen bij bellen</string>
-  <string name="virtual_sim_category_title">Virtual Sim</string>
-  <string name="virtual_sim_description">Reliable international roaming service</string>
-  <string name="virtual_sim_title">Roaming data network</string>
+  <string name="virtual_sim_category_title">Virtuele Sim</string>
+  <string name="virtual_sim_description">Betrouwbare internationale roaming service</string>
+  <string name="virtual_sim_title">Roaming datanetwerk</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Scan voortzetten</string>
   <string name="virus_scan_app_find_risk">"%d risico's gevonden"</string>

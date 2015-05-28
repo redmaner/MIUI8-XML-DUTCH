@@ -115,7 +115,7 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
-        <item>PIN code van peer</item>
+        <item>PIN code van peer apparaat</item>
         <item>PIN van dit apparaat</item>
     </string-array>
     <string-array name="wifi_p2p_status">
@@ -177,7 +177,7 @@
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>passief</item>
+        <item>Statisch</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Geen</item>
@@ -231,7 +231,7 @@
         <item>Apparaat</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>geschatte locatie</item>
+        <item>Geschatte locatie</item>
         <item>Nauwkeurige locatie</item>
         <item>GPS</item>
         <item>Trillen</item>
@@ -369,7 +369,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nooit controleren</item>
-        <item>Alleen controleren op DRM-inhoud</item>
+        <item>Alleen controleren op DRM inhoud</item>
         <item>Altijd controleren</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -407,11 +407,11 @@
     <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
+        <item>720x480 mdpi (veilig)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
+        <item>1280x720 tvdpi (veilig)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
+        <item>1920x1080 xhdpi (veilig)</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -556,8 +556,8 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Show recent apps tray</item>
-        <item>Show menu</item>
+        <item>Toon recente apps tray</item>
+        <item>Toon menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Geen</item>
@@ -568,7 +568,7 @@
         <item>Toon menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 seconde</item>
+        <item>0.5 seconden</item>
         <item>1 seconde</item>
         <item>1.5 seconden</item>
         <item>2 seconden</item>
@@ -662,7 +662,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gezichts ontgrendeling</item>
-        <item>Potroon</item>
+        <item>Patroon</item>
         <item>PIN</item>
         <item>Wachtwoord</item>
     </string-array>
@@ -676,7 +676,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>15 minuten</item>
         <item>30 minuten</item>
         <item>1 uur</item>
-        <item>Ongelimiteerd</item>
+        <item>Onbeperkt</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -701,8 +701,8 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Zeer traag</item>
         <item>Traag</item>
         <item>Normaal</item>
-        <item>Rap</item>
-        <item>Rapper</item>
+        <item>Snel</item>
+        <item>Sneller</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>Uit</item>
@@ -736,7 +736,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Toestemming vragen voor apps met risico</item>
         <item>Toestaan</item>
     </string-array>
-    <string-array name="install_non_market_app_contents">
+	<string-array name="install_non_market_app_contents">
         <item>Toestemming vragen</item>
         <item>Toestaan</item>
     </string-array>
@@ -749,15 +749,15 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>30 minuten</item>		
     </string-array>
     <string-array name="fluency_mode_entries">
-        <item>Hide system animations</item>
-        <item>Show system animations</item>
+        <item>Verberg systeem animaties</item>
+        <item>Toon systeem animaties</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"To speed up device's performance, hide system animations"</item>
-        <item>"Showing system animations may slow down device's performance"</item>
+        <item>Om de prestaties van uw apparaat te versnellen, verberg systeem animaties</item>
+        <item>Het tonen van systeem animaties kan de prestaties van het apparaat vertragen</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-        <item>Reboot your device to apply this setting?</item>
-        <item>Reboot your device to apply this setting?</item>
-    </string-array>
+        <item>Apparaat herstarten om deze instellingen toe te passen?</item>
+        <item>Apparaat herstarten om deze instellingen toe te passen?</item>
+	</string-array>
 </resources>
