@@ -54,6 +54,7 @@
   <string name="description_uploadtime">Update</string>
   <string name="description_version">Versie</string>
   <string name="description_version_szie">Versie: %1$s Grootte: %2$s</string>
+  <string name="deselect_all">@miui:string/deselect_all</string>
   <string name="download_failed">Download mislukt</string>
   <string name="download_preview_failed">Kan preview niet laden</string>
   <string name="edit_city">Bewerken</string>
@@ -103,8 +104,6 @@
   <string name="resource_comment_edit_comment">Opmerkingen toevoegen</string>
   <string name="resource_comment_edit_comment_waiting">Geschiedenis controleren…</string>
   <string name="resource_comment_edit_text_default">Een opmerking schrijven</string>
-  <string name="resource_comment_edit_title">Bewerk opmerking: %1$s</string>
-  <string name="resource_comment_entry_tips">Opmerkingen (%1$s)</string>
   <string name="resource_comment_edit_title">Bewerk opmerking: %1$s</string>
   <string name="resource_comment_entry_tips">Opmerkingen (%1$s)</string>
   <string name="resource_comment_expand_full_text">Alle tekst uitklappen▼</string>
@@ -250,6 +249,7 @@
   <string name="sdcard_not_mounted_dialog_message">"SD kaart nu insteken.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Geen SD kaart gedetecteerd</string>
+  <string name="select_all">@miui:string/select_all</string>
   <string name="share_btn_cancel">Annuleren</string>
   <string name="share_btn_confirm">Delen</string>
   <string name="share_button">Delen</string>
@@ -260,7 +260,7 @@
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Kan geen schermafdruk maken</string>
-    <string name="to_activate_the_account">Nu je Mi Account activeren</string>
+  <string name="to_activate_the_account">Nu je Mi Account activeren</string>
   <string name="view_aqi_detail_item_null">--</string>
   <string name="view_aqi_detail_item_unit">μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
   <string name="view_aqi_detail_no2">NO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt;</string>
