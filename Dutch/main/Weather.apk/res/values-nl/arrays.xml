@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Nieuwe maan</item>
+        <item>Maansikkel</item>
+        <item>Eerste kwartier</item>
+        <item>Wassende maan</item>
+        <item>Volle maan</item>
+        <item>Afnemende maan</item>
+        <item>Laatste kwartier</item>
+        <item>Tanende maan</item>
+        <item>Duistere maan</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Zonnig</item>
         <item>Bewolkt</item>
@@ -45,16 +56,5 @@
         <item>Wind ZW</item>
         <item>Wind W</item>
         <item>Wind NW</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Nieuwe maan</item>
-        <item>Maansikkel</item>
-        <item>Eerste kwartier</item>
-        <item>Wassende maan</item>
-        <item>Volle maan</item>
-        <item>Afnemende maan</item>
-        <item>Laatste kwartier</item>
-        <item>Tanende maan</item>
-        <item>Duistere maan</item>
     </string-array>
 </resources>

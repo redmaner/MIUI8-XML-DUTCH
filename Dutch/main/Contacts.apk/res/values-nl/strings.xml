@@ -224,6 +224,7 @@
   <string name="delete_unknown_contact_calllog_title">Belgeschiedenis verwijderen?</string>
   <string name="deleting">Verwijderen…</string>
   <string name="deleting_sim_entry_miui">Contacten op SIM kaart verwijderen…</string>
+  <string name="deleting_sim_entry_miui_prepare">Prepare for the delete…</string>
   <string name="description_add_contact">Contact toevoegen</string>
   <string name="description_author">Auteur</string>
   <string name="description_call">%1$s bellen</string>
@@ -343,7 +344,7 @@
   <string name="eventTypeCustom">Aangepast</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Contacten geëxporteerd</string>
-  <string name="export_sim_contact_finish_failure">%1$d overgedragen | %2$d resterende</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d skipped | %3$d remaining</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar SIM kaart</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
@@ -399,6 +400,7 @@
   <string name="group_rename_dialog_title">Groepnaam veranderen</string>
   <string name="group_rename_fail_toast">Kon de groepnaam niet veranderen</string>
   <string name="group_rename_success_toast">Groepnaam veranderd</string>
+  <string name="group_sms_error_message">"SMS can't have more than %s recipients."</string>
   <string name="group_sms_progress_msg">Groeperen…</string>
   <string name="groupsLabel">Groepen</string>
   <string name="groups_list_empty">Geen groepen</string>
@@ -446,6 +448,7 @@
   <string name="import_weibo_progress_name">Overeenkomende \"%1$s\"…</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importeren van SIM contacten…</string>
+  <string name="importing_sim_contacts_miui_prepare">Prepare for the import…</string>
   <string name="importing_vcard_canceled_title">Importeren van %s geannuleerd</string>
   <string name="importing_vcard_description">%s importeren</string>
   <string name="importing_vcard_finished_title">Importeren van vCard %s voltooid</string>
@@ -475,6 +478,7 @@
   <string name="list_filter_phones">Alle contacten met telefoonnummers</string>
   <string name="list_filter_single">Contact</string>
   <string name="loading">Laden…</string>
+  <string name="loading_accounts">Loading SIM info...</string>
   <string name="loading_group_members">Laden van groepsleden…</string>
   <string name="loading_groups">Groepen laden…</string>
   <string name="loading_recent">Recente contacten laden…</string>
@@ -892,7 +896,7 @@
   <string name="resource_share_text">Hier is een thema die je misschien leuk vindt: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Delen</string>
   <string name="resource_system_title">Systeem hulpbronnen</string>
-   <string name="resource_tab_to_view">Tik om weer te geven.</string>
+  <string name="resource_tab_to_view">Tik om weer te geven.</string>
   <string name="resource_tip_select_none">Geen beltoon geselecteerd</string>
   <string name="resource_title">Detail</string>
   <string name="resource_title_category">Categorieën</string>

@@ -102,6 +102,13 @@
         <item>Zwaarlijvig</item>
         <item>Zwaarlijvig</item>
     </string-array>
+    <string-array name="weight_body_figures_for_child">
+        <item>Underweight</item>
+        <item>Normal</item>
+        <item>Overweight</item>
+        <item>Obese</item>
+        <item>Obese</item>
+    </string-array>
     <string-array name="weight_dynamic_list_bmi_tips">
         <item>BMI Categorie: Ondergewicht</item>
         <item>BMI Categorie: Normaal gewicht</item>
@@ -141,5 +148,9 @@
         <item>Band laten trillen bij inkomende gespreken op verbonden apparaat</item>
         <item>Band laten trillen bij alarm geluiden op verbonden apparaat</item>
         <item>Band laten trillen al het verbonden apparaat een SMS bericht ontvangt</item>
+    </string-array>
+    <string-array name="contacts_notify_title">
+        <item>Only for calls from contacts</item>
+        <item>Only for SMS from contacts</item>
     </string-array>
 </resources>

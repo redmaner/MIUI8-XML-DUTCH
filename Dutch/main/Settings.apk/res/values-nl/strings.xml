@@ -475,7 +475,6 @@
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
   <string name="button_disconnect_network">Verbreek de verbinding met het netwerk</string>
-  <string name="button_light_timeout">Knop licht instellingen</string>
   <string name="button_text_login">Log in</string>
   <string name="button_text_reboot_now">Herstart nu</string>
   <string name="cache_header_label">Cachegeheugen</string>
@@ -509,7 +508,6 @@
   <string name="captioning_edge_color">Randkleur</string>
   <string name="captioning_foreground_color">Tekstkleur</string>
   <string name="captioning_locale">Taal</string>
-  <string name="captioning_preset">Ondertitel stijl</string>
   <string name="captioning_preview_characters">Aa</string>
   <string name="captioning_preview_text">Ondertiteling ziet er zo uit</string>
   <string name="captioning_preview_title">Voorbeeld</string>
@@ -520,8 +518,8 @@
   <string name="carrier_enabled_summaryOn">APN ingeschakeld</string>
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
   <string name="cell_broadcast_settings">Cell broadcasts</string>
+  <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display</string>
   <string name="change_password">Wachtwoord wijzigen</string>
-  <string name="change_security_lock">Probeer andere vergrendel methodes</string>
   <string name="check_update">Controleer op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende gesprekken gebruiken voor meldingen</string>
   <string name="checking_for_updates">Controleren op updates…</string>
@@ -874,7 +872,6 @@
   <string name="enable_adb">USB foutopsporing</string>
   <string name="enable_adb_summary">Foutopsporingsmodus bij USB verbinding</string>
   <string name="enable_compatibility">App schalen</string>
-  <string name="enable_data_string">Data verbinding inschakelen</string>
   <string name="enable_crypt_keeper_encrypt">Encryptie inschakelen</string>
   <string name="enable_drive_mode">Auto modus</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobiele data verbinding inschakelen?</string>
@@ -925,11 +922,7 @@
   <string name="floating_window_switch_label">Toon popup schermen</string>
   <string name="floating_window_switch_label_disable">Verberg popup schermen</string>
   <string name="fluency_mode">Optimaliseer prestaties van systeem</string>
-  <string name="fluency_mode_confirm_title">Nu herstarten?</string>
-  <string name="fluency_mode_confirm_will_fluency_mode_text">Uw apparaat moet opnieuw opstarten om deze instellingen toe te passen.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">Het inschakelen van animaties en gebruik van extra geheugen kan de prestaties op sommige apparaten verminderen.</string>
-  <string name="fluency_mode_enabled_name">Optimaliseer prestaties van systeem</string>
-  <string name="fluency_mode_summary">Schakel systeem animaties uit en verminder geheugengebruik</string>
+  <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_huge">Gigantisch</string>
   <string name="font_size_large">Groot</string>
   <string name="font_size_medium">Gemiddeld</string>
@@ -1003,12 +996,9 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="global_locale_change_title">Taal wijzigen</string>
   <string name="google_backup_section_title">Google back-up &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">Data naar WiFi</string>
-  <string name="handy_mode">Een hand modus</string>
   <string name="handy_mode_enable">Een hand modus</string>
-  <string name="handy_mode_size">Scherm grootte</string>
   <string name="handy_mode_tips">Veeg naar links of rechts van de Home knop om het scherm dichter bij de ene kant te trekken.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
-  <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
   <string name="hdcp_checking_dialog_title">HDCP controlegedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
@@ -1210,7 +1200,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="location_sources_heading">Locatiebronnen</string>
   <string name="location_street_level">Apps toestaan GPS op uw apparaat te gebruiken om uw locatie te bepalen</string>
   <string name="location_title">Mijn locatie</string>
-  <string name="lock_after_timeout">Automatisch vergrendelen</string>
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
   <string name="lock_intro_message">Beveilig uw telefoon tegen ongeoorloofd gebruik door een persoonlijk ontgrendelingspatroon in te stellen. Gebruik op het volgende scherm uw vinger om de punten met elkaar te verbinden. U moet minimaal vier punten met elkaar verbinden</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direkt nodig</string>
@@ -1436,6 +1425,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
   <string name="music_dirac_mode_piston_basic">Basis Editie</string>
+  <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
@@ -1571,6 +1561,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="passwordIncorrect">Het ingevoerde wachtwoord is niet juist</string>
   <string name="password_guard">Wachtwoord</string>
   <string name="percentage">%d%%</string>
+  <string name="performance_category">Performance</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">Machtigingen: Beveiliging %1$d，Privacy %2$d，Overige %3$d</string>
   <string name="permission_manage">Beheer machtigingen</string>
@@ -1859,10 +1850,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_compatibility_label">Schermcompatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
   <string name="screen_effect">Contrast &amp; kleuren</string>
-  <string name="screen_key_long_press">Lang in te drukken navigatieknoppen</string>
-  <string name="screen_key_long_press_action">Trigger functie</string>
-  <string name="screen_key_long_press_timeout">Bepaal de tijd voor lang drukken</string>
-  
   <string name="screen_never_timeout_title">Altijd aan</string>
   <string name="screen_on_proximity_sensor_summary">Automatisch vergrendelen  wanneer je hem in je zak steekt</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzak gesprekken</string>
@@ -1888,7 +1875,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst van applicaties updaten met behulp van leesmodus over het netwerk</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Netwerk update lijst</string>
   <string name="screen_saturation">Kleur verzadiging</string>
-  <string name="screen_timeout">Slaapstand</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Slaapmodus</string>
   <string name="screensaver_settings_button">Instellingen</string>
@@ -1941,7 +1927,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="search_date_time">Datum tijd</string>
   <string name="search_description">Zoek instellingen</string>
   <string name="search_display">Scherm</string>
-  <string name="search_fluency_mode">Systeemprestaties optimaliseren</string>
   <string name="search_font">Lettertype</string>
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">Een hand modus</string>
@@ -2120,11 +2105,11 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="status_bar_settings_basic_settings">Basis instellingen</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Providernaam aanpassen</string>
-  <string name="status_bar_settings_custom_notification">Beheer meldingen</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi naam aanpassen</string>
   <string name="status_bar_settings_enable_notification">Meldingen toestaan</string>
   <string name="status_bar_settings_expandable_under_keyguard">Toestaan op vergrendelscherm</string>
   <string name="status_bar_settings_long_click_sort">Druk &amp; pak een schakelaar op</string>
+  <string name="status_bar_settings_manage_notification">Manage notifications</string>
   <string name="status_bar_settings_no_carrier">Geen</string>
   <string name="status_bar_settings_notification_bar">Meldingsbalk</string>
   <string name="status_bar_settings_notification_led">Meldingslicht</string>
@@ -2141,12 +2126,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="status_bar_settings_show_wifi_name">Toon Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Statusbalk</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Inklappen na aanraken</string>
-  <string name="status_bar_settings_toggle_layout_style">Toggle layout stijl</string>
-  <string name="status_bar_settings_toggle_layout_style_applying">Stijl wordt aangepast</string>
-  <string name="status_bar_settings_toggle_layout_style_compact">Balk</string>
-  <string name="status_bar_settings_toggle_layout_style_single_page">Pagina</string>
   <string name="status_bar_settings_toggle_position">Positie schakelaars</string>
-  <string name="status_bar_style_settings">Meldingen</string>
   <string name="status_bt_address">Bluetooth adres</string>
   <string name="status_data_state">Status mobiel netwerk</string>
   <string name="status_icc_id">ICCID</string>
@@ -2240,6 +2220,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="title_font">Lettertype</string>
   <string name="title_font2">Lettertype</string>
   <string name="title_font_current">Kies systeem lettertype</string>
+  <string name="title_font_current2">Choose system font</string>
   <string name="title_font_size">Tekstgrootte</string>
   <string name="title_hdmi_color_calibration">Kleur correctie voorkeuze</string>
   <string name="title_layout_current">Kies grootte lettertype</string>
@@ -2476,6 +2457,9 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="vibrate_input_devices">Trilstand gebruiken</string>
   <string name="vibrate_input_devices_summary">Trilstand overschakelen naar gamecontroller wanneer deze is aangesloten.</string>
   <string name="vibrate_when_ringing_title">Trillen bij bellen</string>
+  <string name="virtual_sim_category_title">Virtual Sim</string>
+  <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Scan voortzetten</string>
   <string name="virus_scan_app_find_risk">"%d risico's gevonden"</string>
@@ -2618,6 +2602,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="wifi_context_menu_change_wapi_certificate">Verander WAPI certificaat</string>
   <string name="wifi_context_menu_connect">Verbinden</string>
   <string name="wifi_context_menu_forget">Vergeten</string>
+  <string name="wifi_datanetwork_switch_not_remind">"Don't show again"</string>
   <string name="wifi_disabled_generic">Uitgeschakeld</string>
   <string name="wifi_disabled_help">Wi-Fi verbinding is verbroken vanwege de slechte verbinding</string>
   <string name="wifi_disabled_network_failure">Slechte internetverbinding vermeden</string>
@@ -2866,6 +2851,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="wifi_tether_starting">Hotspot inschakelen…</string>
   <string name="wifi_tether_stopping">Hotspot uitschakelen…</string>
   <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(ongewijzigd)</string>
   <string name="wifi_unspecified">(niet opgegeven)</string>

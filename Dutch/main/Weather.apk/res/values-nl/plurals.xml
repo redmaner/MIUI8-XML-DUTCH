@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Helder</item>
-        <item quantity="one">Zonnig</item>
-    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d min geleden</item>
         <item quantity="one">%d min geleden</item>
@@ -15,5 +11,9 @@
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d dagen geleden</item>
         <item quantity="one">%d dag geleden</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Helder</item>
+        <item quantity="one">Zonnig</item>
     </plurals>
 </resources>
