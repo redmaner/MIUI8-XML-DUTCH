@@ -13,7 +13,7 @@
   <string name="add_to_cloud_exceeded_the_size_message">Bestand is te groot</string>
   <string name="add_to_cloud_failed_message_with_count">"%2$s items kunnen niet aan de cloud worden toegevoegd: %1$s."</string>
   <string name="add_to_cloud_file_exist_message">Foto bestaat reeds in geselecteerde album.</string>
-  <string name="add_to_cloud_folder">Aan map toevoegen</string>
+  <string name="add_to_cloud_folder">Aan album toevoegen</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Afbeeldingslimiet overschreden</string>
   <string name="add_to_cloud_local_space_full_message">Opslag is vol of niet gereed</string>
   <string name="add_to_cloud_reasons"/>
@@ -121,17 +121,17 @@
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">Alle</string>
-  <string name="cloudfolder_already_exists">Er bestaat reeds een map met deze naam.</string>
-  <string name="cloudfolder_cannot_start_with">"De naam van een map kan niet beginnen met'%s'"</string>
-  <string name="cloudfolder_contain_invalidate_char">"De naam van een map kan geen '%s' bevatten"</string>
+  <string name="cloudfolder_already_exists">Er bestaat reeds een album met deze naam.</string>
+  <string name="cloudfolder_cannot_start_with">"De naam van een album kan niet beginnen met'%s'"</string>
+  <string name="cloudfolder_contain_invalidate_char">"De naam van een album kan geen '%s' bevatten"</string>
   <string name="cloudfolder_fail_to_load_data">Kon geen data laden. Probeer het later opnieuw.</string>
-  <string name="cloudfolder_loading_data">(Laden…)</string>
-  <string name="cloudfolder_name_cannot_empty">Geef de map een naam</string>
-  <string name="cloudfolder_name_reserved">Deze map naam is voorbehouden</string>
+  <string name="cloudfolder_loading_data">Laden…</string>
+  <string name="cloudfolder_name_cannot_empty">Geef de album een naam</string>
+  <string name="cloudfolder_name_reserved">Deze album naam is voorbehouden</string>
   <string name="comfirm_delete_current_album">Dit album verwijderen?</string>
   <string name="comma">, </string>
   <string name="confirm">Ok</string>
-  <string name="confirm_all_photo_are_this_people_face">Alle overeenkomende？</string>
+  <string name="confirm_all_photo_are_this_people_face">"Alle foto's met deze persoon Koppelen?"</string>
   <string name="confirm_all_photo_not_this_people_face">Geen overeenkomsten?</string>
   <string name="confirm_delete">"%s foto's verwijderen?"</string>
   <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto's van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
@@ -143,9 +143,9 @@
   <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Passen</string>
-  <string name="confirm_left_photo_will_move_out">"Foto's aan de linkse kant zijn niet van hem of haar?"</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Dit album samenvoegen met &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Deze albums samenvoegen met &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_left_photo_will_move_out">"Bevatten foto's aan de linkse deze persoon niet?"</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Dit album samenvoegen met %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Deze albums samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Niet deze persoon</string>
   <string name="contact_photo">Stel foto in voor contactpersoon</string>
   <string name="context_menu_add_contact">Toevoegen aan contactpersonen</string>
@@ -156,7 +156,7 @@
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Koel</string>
   <string name="cool_portrait">Portret</string>
-  <string name="create_new_cloud_folder">Nieuwe map aanmaken</string>
+  <string name="create_new_cloud_folder">Nieuwe album aanmaken</string>
   <string name="create_new_face">Nieuwe persoon</string>
   <string name="crop">Bijsnijden</string>
   <string name="crop_fail_to_load_image">Foto laden mislukt</string>
@@ -209,7 +209,7 @@
   <string name="email_picker_title">Voeg gedeelde e-mail toe</string>
   <string name="enable">Inschakelen</string>
   <string name="enable_cloud_for_sharing">U moet cloud albums inschakelen om gedeelde afbeeldingen te bekijken.</string>
-  <string name="enabling_face_feature">Inschakelen…</string>
+  <string name="enabling_face_feature">Een momentje…</string>
   <string name="enter_email_hint">Voer e-mailadres in</string>
   <string name="error_album_not_exist">Album bestaat niet</string>
   <string name="error_cloud_not_active">Cloud album niet in gebruik</string>
@@ -244,7 +244,7 @@
   <string name="face_albumset_empty">Leeg.</string>
   <string name="face_albumset_loading_data">Data laden…</string>
   <string name="face_albumset_pending_enable_tip">"Zal foto's sorteren als het apparaat verbonden is met Wi-Fi"</string>
-  <string name="face_albumset_use_tip">"Gebruik gezichtsherkenning om foto's te sorteren van de personen er in "</string>
+  <string name="face_albumset_use_tip">"Sorteer foto's van de personen er in "</string>
   <string name="face_move_dialog_title">Kies een album</string>
   <string name="facelift">Gezichtsgloed</string>
   <string name="facetan">Gezichtskleur</string>
@@ -298,11 +298,11 @@
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">"Foto's in camera roll"</string>
   <string name="home_page_tab_cloud">Mi Cloud</string>
-  <string name="home_page_tab_face">Face</string>
+  <string name="home_page_tab_face">Personen</string>
   <string name="home_page_tab_local">Offline</string>
   <string name="home_page_tab_photo">"Foto's"</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
-  <string name="ignore_album">Negeren</string>
+  <string name="ignore_album">Dit album niet meer weergeven?</string>
   <string name="ignore_alert_title">Wanneer genegeerd zal deze niet meer worden weergegeven, doorgaan?</string>
   <string name="ignore_face">Negeer deze persoon</string>
   <string name="image_download_item_title">Download foto(%s)</string>
@@ -320,7 +320,7 @@
   <string name="initial_cloud_button_text">Aanmelden</string>
   <string name="initial_cloud_text">"Bewaar en bekijk uw foto's overal."</string>
   <string name="initializing_cloud">Initialiseren</string>
-  <string name="input_cloudfolder_name">map naam</string>
+  <string name="input_cloudfolder_name">Album naam</string>
   <string name="internal_camera_folder_display_name">"Interne camera foto's"</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne schermafdrukken</string>
   <string name="internal_sd_card">Interne opslag</string>
@@ -371,7 +371,7 @@
   <string name="menu_view_contact">Bekijk contact</string>
   <string name="merge_album">Samenvoegen</string>
   <string name="merge_album_positive_button_text">Samenvoegen</string>
-  <string name="merge_album_title">Albums samenvoegen naar</string>
+  <string name="merge_album_title">Albums samenvoegen</string>
   <string name="message_no_delete_access">"U bent niet bevoegd om %s te verwijderen"</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="miliao">MiTalk</string>
@@ -463,8 +463,8 @@
   <string name="photo_save_succeed">Saved successfully</string>
   <string name="photo_size">Grootte</string>
   <string name="photoeditor_name">Photo Studio</string>
-  <string name="photos">"Foto's"</string>
-  <string name="pick_from_contact">Neem van contact</string>
+  <string name="photos">" Foto's"</string>
+  <string name="pick_from_contact">Kies deze van contact</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
   <string name="pick_too_much_tips">Maximaal %d items</string>
   <string name="picker_no_album_selected">Geen albums geselecteerd</string>
@@ -542,7 +542,7 @@
   <string name="select_auto_upload_albums">Kies albums om naar de cloud te sync.</string>
   <string name="select_image">Foto selecteren</string>
   <string name="select_item">Item selecteren</string>
-  <string name="select_item_face">"Selecteer de foto's toebehorend aan %1"</string>
+  <string name="select_item_face">"Foto's van %1"</string>
   <string name="select_too_much_to_send_tips">"Zoveel items kunnen niet verzonden worden(maximaal %d items)."</string>
   <string name="select_video">Video selecteren</string>
   <string name="send">Verzenden</string>
@@ -647,7 +647,7 @@
   <string name="user_alias_self">Zelf</string>
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>
-  <string name="videos">"Video's"</string>
+  <string name="videos">" Video's"</string>
   <string name="view_face_album">View album</string>
   <string name="view_sharers">Bekijk delers</string>
   <string name="vignette">Vervloeien</string>
@@ -661,7 +661,7 @@
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Waar is de QR code?</string>
   <string name="white_balance">Witbalans</string>
-  <string name="who_is_this">Who is this?</string>
+  <string name="who_is_this">Wie staat er om deze foto?</string>
   <string name="widget_type">Afbeeldingen kiezen</string>
   <string name="widget_type_album">Een album selecteren</string>
   <string name="widget_type_photo">Een afbeelding kiezen</string>
