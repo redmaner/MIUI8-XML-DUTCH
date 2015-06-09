@@ -141,7 +141,7 @@
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_title">Accountinstellingen</string>
   <string name="account_setup_incoming_username_label">Gebruikersnaam</string>
-  <string name="account_setup_incoming_username_label_default_hint">Bevat domeinnaam</string>
+  <string name="account_setup_incoming_username_label_default_hint">Mag domeinnaam bevatten</string>
   <string name="account_setup_names_account_name_label">Geef dit account een naam(optioneel)</string>
   <string name="account_setup_names_headline">Uw account is ingesteld.</string>
   <string name="account_setup_names_title">Accountinstellingen</string>
@@ -641,9 +641,9 @@ Cc: %4$s
   <string name="message_view_attachment_background_load">Een of meer bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
   <string name="mibill_privacy_policy_button1">Niet akkoord</string>
   <string name="mibill_privacy_policy_button2">Akkoord</string>
-  <string name="mibill_privacy_policy_description">Laat Mi Wallet analyseren en uw facturen automatisch beheren. Deze functie wordt automatisch uitgeschakeld voor werkgerelateerde e-mailadressen.</string>
-  <string name="mibill_privacy_policy_link">Lees &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Algemene Voorwaarden&lt;/a&gt;.</string>
-  <string name="mibill_privacy_policy_title">Akkoord gaan om rekeningen automatisch beheren</string>
+  <string name="mibill_privacy_policy_description">Laat Mi Wallet analyseren en uw facturen automatisch beheren. Deze functie wordt standaard uitgeschakeld voor werkgerelateerde e-mailadressen.</string>
+  <string name="mibill_privacy_policy_link">"Door deze functie te gebruiken ga akkoord met onze "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Algemene voorwaarden&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Rekeningen automatisch beheren</string>
   <string name="more_atts_remaining">%1$d meer overgebleven</string>
   <string name="more_atts_total">%1$d bijlagen in totaal</string>
   <string name="more_context">Meer</string>
@@ -682,8 +682,8 @@ Cc: %4$s
   <string name="notification_action_undo_delete">Verwijderd</string>
   <string name="notification_action_undo_remove_label">Label verwijderd</string>
   <string name="notification_exchange_calendar_added">Uitwissel kalender toegevoegd</string>
-  <string name="oauth_error_description">Niet in staat om te authenticeren</string>
-  <string name="oauth_gmail_login_notify">Volgens de eisen van Google moet u uw wachtwoord invoeren op de Google authentificeer pagina</string>
+  <string name="oauth_error_description">Kon niet authentificeren</string>
+  <string name="oauth_gmail_login_notify">Voer uw Google account gebruikersnaam en wachtwoord op de volgende aanmeldings pagina </string>
   <string name="oauth_login_continue">Doorgaan</string>
   <string name="ok">Ok</string>
   <string name="okay_action">Ok</string>
@@ -984,13 +984,12 @@ Cc: %4$s
   <string name="updated_at">Laatst bijgewerkt: %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
   <string name="upload_log">Upload logs</string>
-  <string name="upload_log_failed">Kon logs niet uploaden</string>
+  <string name="upload_log_failed">Kon logs niet verzenden</string>
   <string name="upload_log_no">Annueleren</string>
-  <string name="upload_log_success">Uploaden logs gelukt</string>
-  <string name="upload_log_title">Upload bevestigen</string>
-  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-  <string name="upload_log_yes">Uploaden</string>
-  <string name="uploading_logs">Uploaden logs…</string>
+  <string name="upload_log_success">Verzenden logs gelukt</string>
+  <string name="upload_log_title">Verzend log naar Xiaomi</string>
+    <string name="upload_log_yes">Uploaden</string>
+  <string name="uploading_logs">Een momentje…</string>
   <string name="validation_failed_prompt">Account kan niet worden geverifieerd , controleer %s server instellingen</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -1014,6 +1013,6 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_other_views">Overige</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="yes">Ja</string>
-  <string name="you_are_in_mobile_network">U maakt gebruik van mobiele netwerk, deze log bestanden toch(grootte nKB) uploaden?</string>
+  <string name="you_are_in_mobile_network">Log verzenden door gebruik van mobiele data verbinding? Als je over datalimiet zit kan uw kan je provider extra kosten aanrekenen.</string>
   <string name="zip_viewer_no_file">Geen bestanden</string>
 </resources>
