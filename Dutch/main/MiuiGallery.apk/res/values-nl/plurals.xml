@@ -5,32 +5,32 @@
         <item quantity="one">Verwijder %1$s album (%2$s totaal)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto's van Mi Cloud?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto van Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto's van Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto van Mi Cloud?&lt;/Data>" "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">"Verwijder %s foto's?"</item>
         <item quantity="one">"Verwijder %s foto's?"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos van Mi Cloud?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video van Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos van dit apparaat en Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video van dit apparaat en Mi Cloud?&lt;/Data>" "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Verwijder %s videos?</item>
         <item quantity="one">Verwijder %s video?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto's van Mi Cloud?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo van Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto's van Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto van Mi Cloud?&lt;/Data>" "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
          <item quantity="other">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos van dit apparaat en Mi Cloud?&lt;/Data>" "</item>
         <item quantity="one">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video van dit apparaat en Mi Cloud?&lt;/Data>" "</item>
     </plurals>
 	<plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> van %2$d albums?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Verwijder  &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> van %2$d albums?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%1$d videos&lt;/xliff:g> van %2$d albums?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Verwijder &lt;xliff:g id=ITEM>%1$d video&lt;/xliff:g> van %2$d albums?&lt;/Data>" "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d geselecteerd</item>
@@ -73,7 +73,7 @@
         <item quantity="one">%1$d artikel</item>
 	</plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s nieuwe gezichten kunnen ook behoren tot %2$s >></item>
-        <item quantity="one">%1$s nieuw gezicht kan ook behoren tot %2$s >></item>	
+        <item quantity="other">"%1$s foto's van %2$s >>"</item>
+        <item quantity="one">%1$s foto van %2$s >></item>	
     </plurals>
 </resources>

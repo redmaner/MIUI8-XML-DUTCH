@@ -118,6 +118,7 @@
   <string name="caller_id_title">ID beller</string>
   <string name="callind_multi_sim">SUBS Instellingen</string>
   <string name="callwait_open_hint">\"Gesprek in de wacht\" is een feature van uw provider. Bij fouten, neem contact op met uw provider om er zeker van te zijn dat deze feature ingeschakeld is.</string>
+  <string name="can_not_use_for_not_data_sim">"(Kan gebruikt worden: Moet worden ingesteld als standaard data SIM)"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_call">Annuleren</string>
   <string name="card_title_MOcall_forwarding">Uitgaande doorgeschakelde oproepen</string>
@@ -164,9 +165,6 @@
   <string name="cfnrc_title_cta">Doorschakelen bij onbereikbaar</string>
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
   <string name="cfu_title">Gesprekken altijd doorschakelen</string>
-  <string name="change_default_data">Wijzigen</string>
-  <string name="change_default_data_alert_message">U zal niet in staat zijn om uw China Telecom SIM kaart te gebruiken.</string>
-  <string name="change_default_data_alert_title">UIM kaart moet als standaard kaart gebruikt worden</string>
   <string name="change_num">Bijwerken</string>
   <string name="change_password">Verander wachtwoord voor afbuigen</string>
   <string name="change_pin">SIM PIN code wijzigen</string>
@@ -178,8 +176,8 @@
   <string name="close_profile">Sluiten</string>
   <string name="cloud_antispam_title">Identificeer onbekende nummers</string>
   <string name="command_error_fdn_failure">U dient eerst de PDN uit te schakelen</string>
+  <string name="config_default_data_sim">Instellingen</string>
   <string name="config_dialing_emergency_number_suffix"/>
-  <string name="confirm_change_default_data">Wijzigen</string>
   <string name="confirm_password_label">Bevestig het nieuwe wachtwoord</string>
   <string name="confirm_pin2_label">Bevestig de nieuwe PIN 2</string>
   <string name="confirm_pin_label">Bevestig de nieuwe PIN</string>
@@ -330,6 +328,7 @@
   <string name="get_pin2">Type PIN 2</string>
   <string name="get_smsc_address_error">"`Kan geen verbinding met het netwerk maken, controleer uw verbinding en probeer het opnieuw."</string>
   <string name="get_smsc_address_timeout">Connectie timed out</string>
+  <string name="got_it">Ok</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Netwerk Modus</string>
   <string name="gsm_umts_network_preferences_title">Netwerk Modus</string>
   <string name="gsm_umts_options">GSM-/UMTS opties</string>
@@ -377,6 +376,7 @@
   <string name="ivr_type_cu_1">China Unicom 3G</string>
   <string name="ivr_type_cu_2">China Unicom 4G</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
+  <string name="ivr_type_settings">Data plan instellingen</string>
   <string name="ivr_type_settings_hint">Voer data plan code in</string>
   <string name="labelCDMAMore">CDMA oproepinstellingen</string>
   <string name="labelCF">Oproep doorschakelen</string>
@@ -520,7 +520,6 @@
   <string name="no_wifi_available_title">Geen Wi-Fi verbinding</string>
   <string name="not_a_valid_port">Het poortnummer moet tussen 1000 en 65534 liggen.</string>
   <string name="not_allowed">Uw SIM kaart staat geen verbinding met dit netwerk toe.</string>
-  <string name="not_change_default_data">Niet wijzigen</string>
   <string name="not_voice_capable">Spraakoproepen worden niet ondersteund</string>
   <string name="notification_missedCallTicker">Gemiste oproep van %s</string>
   <string name="notification_missedCall_call_back">Terugbellen</string>
@@ -659,7 +658,6 @@
   <string name="reject_via_sms_summary">Snelle berichten aanpassen</string>
   <string name="reject_via_sms_title">Snelle antwoorden</string>
   <string name="remember_my_choice">Altijd gebruiken voor internetoproepen</string>
-  <string name="remind_another_time">Niet meer weergeven</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_ims_account">Verwijder account</string>
   <string name="remove_sip_account">Account verwijderen</string>

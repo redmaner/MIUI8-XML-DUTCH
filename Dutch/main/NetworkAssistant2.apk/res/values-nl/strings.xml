@@ -25,7 +25,6 @@
   <string name="btn_start_diagnostic">Test netwerk</string>
   <string name="btn_stop_diagnostic">Stoppen</string>
   <string name="cancel_button">Annuleren</string>
-  <string name="captive_portal_exception_title">Verbinden met openbaar netwerk</string>
   <string name="chat_number">10 Uren</string>
   <string name="chat_uint">" Uren"</string>
   <string name="check_network_state">Test netwerk</string>
@@ -120,6 +119,7 @@
   <string name="free_time_traffic_title">Voer Daluren datalimiet in</string>
   <string name="free_traffic_settings">Daluren datalimiet instellingen</string>
   <string name="gateway_exception_summary">Controleer je router en probeer opnieuw.</string>
+  <string name="gateway_exception_summary2">Kan niet verbinden met server</string>
   <string name="gateway_exception_title">Test router</string>
   <string name="hints_input_roaming_daily_limit">Voer datavebruikslimiet in</string>
   <string name="hints_install_apps_new">Nooit gebruikt</string>
@@ -186,11 +186,16 @@
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
+  <string name="miuishare_title_more">Meer</string>
+  <string name="miuishare_title_share">Delen</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Tijdlijn</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Tik om dataverbruik te beperken</string>
   <string name="network_assistant_upgraded_title">Geupdate</string>
   <string name="network_blocked_connected_open_wifi">Verbinden met openbaar netwerk</string>
   <string name="network_blocked_notification_summary">Tik om details weer te geven.</string>
   <string name="network_blocked_switch_wifi">Verander van netwerk</string>
+  <string name="network_connected_exception_title">Test netwerk</string>
   <string name="network_control">App instellingen bekijken</string>
   <string name="network_diagnostics">Test netwerk</string>
   <string name="network_mobile_exception_detail">"Uw apparaat kan geen verbinding maken met internet:
@@ -200,6 +205,7 @@
  2. Als je balans bijgevuld hebt, herstart uw apparaat en probeer het opnieuw.
  
  3. Het signaal van uw providernetwerk kan te zwak zijn op uw huidige locatie."</string>
+  <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="network_operator_exception_summary">Kon de SIM kaart niet activeren. Zorg ervoor dat de SIM kaart juist geplaatst is en dat uw mobiele plan is geactiveerd door uw provider.</string>
   <string name="network_permission_exception_tips">Kunnen mobiele data niet gebruiken om verbinding te maken met netwerk</string>
   <string name="network_roaming_exception_tips">Kan mobiele data niet gebruiken tijdens roamen om verbinding te maken met netwerk.</string>
@@ -227,6 +233,9 @@
  2. Als u twee SIM kaarten gebruikt, probeer dan over te schakelen naar de andere kaart en kijk of je in staat bent om te verbinden.
  
  3. Maak er u zeker van dat uw SIM kaart en het toestel SIM slot niet beschadigd zijn. Controleer of de SIM kaart die u gebruikt goed in de apparaat SIM lade is geplaatst."</string>
+  <string name="networkchanged_exception_summary">Netwerk verbinding is veranderd. Opnieuw testen.</string>
+  <string name="networkchanged_exception_title">Verbinding is veranderd</string>
+  <string name="no_network_btn">Probeer opnieuw</string>
   <string name="none_mi_service_app_detail">Leeg</string>
   <string name="notify_daily_data_usage_body">%s verbruikt vandaag. Tik om een limiet in te stellen.</string>
   <string name="notify_daily_limit_body">%s verbruikt van vandaag. Tik om een limiet in te stellen.</string>
@@ -251,6 +260,8 @@
   <string name="other_exception_title">Controleren op andere problemen</string>
   <string name="pay_charge">Koop extra data</string>
   <string name="per_month_pkg_traffic_settings">Datalimiet instellen</string>
+  <string name="permission_exception_summary">Sommige apps hebben geen toestemmig om te verbinden met internet</string>
+  <string name="permission_exception_title">Bekijk netwerk toestemmingen</string>
   <string name="permit_running_network">Achtergrond data toestaan</string>
   <string name="person_hotpot">Mobiele hotspots</string>
   <string name="pkg_traffic">Datalimiet instellen</string>
@@ -309,6 +320,7 @@
   <string name="pref_specified_adjust">Aangepast datalimiet instellen</string>
   <string name="pref_specified_traffic_settings">Aangepast datalimiet instellen</string>
   <string name="pref_title_declaration">Belangrijke voorwaarden</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Geef waarschuwingen weer in meldings schaduw</string>
   <string name="pref_title_mobile_traffic">Dataverbruik weergeven wanneer vergrendeld</string>
   <string name="pref_title_network_diagnostics">Netwerk testen</string>
   <string name="pref_title_over_traffic_limit_warning">Wanneer overschreden</string>
