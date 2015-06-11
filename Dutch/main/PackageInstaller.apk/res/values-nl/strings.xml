@@ -2,13 +2,19 @@
 <resources>
   <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het ontleden van het pakket.</string>
   <string name="Parse_error_dlg_title">Parseer fout</string>
+  <string name="activity_package_delete_confirm_title">Belangerijke waarschuwing</string>
   <string name="allow_source_dlg_text">"%1$s wil andere apps installeren. Dit voortaan toestaan?"</string>
   <string name="allow_source_dlg_title">Nieuwe bron voor apps toestaan?</string>
   <string name="app_name">Installatieprogramma van pakket</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
   <string name="app_not_found_dlg_title">App niet gevonden</string>
   <string name="auto_startup_dialog_msg">Deze app kan niet worden gestart zonder toestemming.</string>
-  <string name="caller_app">Beller: %1$s</string>
+  <string name="button_text_cancel">Annuleren</string>
+  <string name="button_text_delete">Verwijderen</string>
+  <string name="button_text_delete_timer">Verwijder (%d)</string>
+  <string name="button_text_next_step">Volgende</string>
+  <string name="button_text_next_step_timer">Volgende (%d)</string>
+  <string name="caller_app">Toestemmings aanvraag van %1$s</string>
   <string name="cancel">Annuleren</string>
   <string name="dlg_app_replacement_statement">De app die u installeert, vervangt een andere app. Al uw eerdere gebruikersgegevens worden opgeslagen.</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) zal de huidige versie vervangen (%3$s). Gebruikersgegevens worden opgeslagen. Nieuwe versie installeren?"</string>
@@ -42,6 +48,9 @@
   <string name="other_relative">Overige machtigingen</string>
   <string name="out_of_space_dlg_text">%1$s kan niet worden geïnstalleerd. Maak ruimte vrij en probeer het opnieuw.</string>
   <string name="out_of_space_dlg_title">Geen ruimte beschikbaar</string>
+  <string name="package_delete_confirm_step_1">%s verwijderen?</string>
+  <string name="package_delete_confirm_step_2">Door deze app te verwijderen kan het systeem onstabiel worden.</string>
+  <string name="package_delete_confirm_step_3">Het zal niet meer mogelijk zijn om deze app na verwijdering te openen</string>
   <string name="perm_action_accept">Toestaan</string>
   <string name="perm_action_prompt">Vragen</string>
   <string name="perm_action_reject">Weigeren</string>
