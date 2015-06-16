@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Niet bijhouden van dataverbruik voor %d apps</item>
+        <item quantity="one">Niet bijhouden van dataverbruik voor %d app</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">TBijhouden van dataverbruik voor %d apps</item>
+        <item quantity="one">Bijhouden van dataverbruik voor %d app</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apps gebruiken Data Saver</item>
+        <item quantity="one">%d app gebruikt Data Saver</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apps gebruiken Data Saver niet</item>
+        <item quantity="one">%d app gebruikt Data Saver niet</item>
+    </plurals>
     <plurals name="hints_install_apps_interval">
         <item quantity="other"> %d dagen geleden gebruikt</item>
         <item quantity="one">Gisteren gebruikt</item>
