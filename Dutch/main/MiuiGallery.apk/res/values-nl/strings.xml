@@ -7,7 +7,7 @@
   <string name="activity_not_found">Er is geen app gevonden voor deze actie</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_event">Evenement toevoegen</string>
-  <string name="add_event_hint">Voer een label in</string>
+  <string name="add_event_hint">Voer label in</string>
   <string name="add_sharer">Lid toevoegen</string>
   <string name="add_to_cloud_album">Aan album toevoegen</string>
   <string name="add_to_cloud_exceeded_the_size_message">Bestand is te groot</string>
@@ -131,10 +131,10 @@
   <string name="comfirm_delete_current_album">Dit album verwijderen?</string>
   <string name="comma">, </string>
   <string name="confirm">Ok</string>
-  <string name="confirm_all_photo_are_this_people_face">"Alle foto's met deze persoon Koppelen?"</string>
-  <string name="confirm_all_photo_not_this_people_face">Geen overeenkomsten?</string>
+  <string name="confirm_all_photo_are_this_people_face">"Alle foto's koppelen met %s?"</string>
+  <string name="confirm_all_photo_not_this_people_face">Geen overeenkomsten voor %s?</string>
   <string name="confirm_delete">"%s foto's verwijderen?"</string>
-  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto\'s van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_image_video">"&lt;Data&gt;Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto\'s van dit apparaat Mi Cloud?&lt;/Data&gt;"</string>
   <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Verwijderen &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; foto\'s van dit apparaat en Mi Cloud?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">%s item(s) verwijderen?</string>
   <string name="confirm_delete_init_message">De foto wordt verwijderd van dit apparaat en van uw Mi Cloud. Als u alleen lokaal wilt verwijderen, werkt dan lokaal..</string>
@@ -143,7 +143,8 @@
   <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Passen</string>
-  <string name="confirm_left_photo_will_move_out">"Bevatten foto's aan de linkse deze persoon niet?"</string>
+  <string name="confirm_left_photo_will_move_in">"%s staat in alle resterende foto's?"</string>
+  <string name="confirm_left_photo_will_move_out">"%s staat niet in alle resterende foto's?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Dit album samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Deze albums samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Niet deze persoon</string>
@@ -225,6 +226,7 @@
   <string name="error_title">Sync. fout</string>
   <string name="error_unauthorized">Te veel inlog pogingen: Sync. uitgeschakeld.</string>
   <string name="error_unknown_host">Er is geen netwerk gedetecteerd</string>
+  <string name="event_create_long_photo">Foto maken…</string>
   <string name="event_manage_photos">"Beheer foto's"</string>
   <string name="exit">Sluiten</string>
   <string name="exit_share">Verlaat album</string>
@@ -250,7 +252,7 @@
   <string name="facetan">Gezichtskleur</string>
   <string name="fail_hint">Handeling mislukt</string>
   <string name="fail_init_gallery_db_helper">Galerij in database laden is mislukt</string>
-  <string name="fail_to_download_n_items">Download van %s mislukt</string>
+  <string name="fail_to_download_n_items">Download van %s items mislukt</string>
   <string name="fail_to_pick_email">E-mail ongeldig</string>
   <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerk verbinding.</string>
   <string name="file_not_exist_message">Bestand bestaat niet</string>
@@ -328,10 +330,11 @@
   <string name="internal_sdcard_root">Interne SD-kaart root map</string>
   <string name="invalid_invition_url">Foutieve uitnodiging URL</string>
   <string name="invalid_recipient_message">De namen van de ontvangers zijn ongeldig</string>
+  <string name="is">Is dit %s?</string>
   <string name="iso">ISO</string>
-  <string name="item_not_sync_for_origin_image">Kan deze foto niet downloaden, omdat het niet is gesync. met cloud.</string>
-  <string name="item_not_sync_for_origin_video">Kan deze video niet downloaden, omdat het niet is gesync. met cloud.</string>
-  <string name="item_not_sync_for_refocus_data">Kan de herfocusseringsdata van deze foto niet downloaden, omdat het niet is gesync. met cloud.</string>
+  <string name="item_not_sync_for_origin_image">Kan deze foto niet downloaden dat niet is gesync. met Mi Cloud.</string>
+  <string name="item_not_sync_for_origin_video">Kan deze video niet downloaden dat niet is gesync. met Mi Cloud.</string>
+  <string name="item_not_sync_for_refocus_data">Kan de herfocusseringsdata van deze foto niet downloaden dat niet is gesync. met Mi Cloud.</string>
   <string name="kick_owner_user_positive_button_text">Verwijderen</string>
   <string name="kick_owner_user_title">Dit lid verwijderen?</string>
   <string name="kick_sharer">Verwijder gedeelde gebruiker</string>
@@ -370,7 +373,6 @@
   <string name="menu_item_sort_size_desc">Grootte(Aflopend)</string>
   <string name="menu_view_contact">Bekijk contact</string>
   <string name="merge_album">Samenvoegen</string>
-  <string name="merge_album_positive_button_text">Samenvoegen</string>
   <string name="merge_album_title">Albums samenvoegen</string>
   <string name="message_no_delete_access">"U bent niet bevoegd om %s te verwijderen"</string>
   <string name="messagelist_sender_self">Ik</string>
@@ -399,7 +401,7 @@
   <string name="name_wrong">"Dit is niet %s"</string>
   <string name="negative">Negatief</string>
   <string name="netease_newsreader_netease_down_pic">Netease nieuwslezer</string>
-  <string name="network_connected_rescan">Verbinden met internet en opnieuw proberen</string>
+  <string name="network_connected_rescan">Kan niet verbinden met netwerk</string>
   <string name="new_device_tips">Nieuw apparaat gevonden, klik om weer te geven</string>
   <string name="no">Nee</string>
   <string name="no_albums_alert">Geen albums beschikbaar.</string>
@@ -415,6 +417,7 @@
   <string name="no_thumbnail">Geen miniatuur</string>
   <string name="none_picture">Geen afbeeldingen</string>
   <string name="not_auto_create_recent_album">Aanmaken favorieten ongedaan maken</string>
+  <string name="not_is">Niet %s?</string>
   <string name="not_now">Nu niet</string>
   <string name="not_show_hidden_albums">Verborgen albums niet tonen</string>
   <string name="old">Ouderwets</string>
@@ -502,6 +505,7 @@
   <string name="remove_from_secret_unfinished_message_with_count">%1$s items niet verwijderd uit verborgen album</string>
   <string name="remove_hidden_album">Weergeven</string>
   <string name="remove_recent_album">Verwijderen uit favorieten</string>
+  <string name="rename_event">Event naam wijzigen</string>
   <string name="rename_face_album">Naam wijzigen</string>
   <string name="rename_fail_msg">Kon naam niet wijzigen</string>
   <string name="rename_failed">Kon naam niet wijzigen</string>
@@ -542,7 +546,7 @@
   <string name="select_auto_upload_albums">Kies albums om naar de cloud te sync.</string>
   <string name="select_image">Foto selecteren</string>
   <string name="select_item">Item selecteren</string>
-  <string name="select_item_face">"Foto's van %1"</string>
+  <string name="select_item_face">"Foto's zijn misschien van '%s'"</string>
   <string name="select_too_much_to_send_tips">"Zoveel items kunnen niet verzonden worden(maximaal %d items)."</string>
   <string name="select_video">Video selecteren</string>
   <string name="send">Verzenden</string>
@@ -562,7 +566,7 @@
   <string name="set_screensaver_path_title">Schermbeveiliging diavoorstelling</string>
   <string name="set_wallpaper">Achtergrond inst.</string>
   <string name="settings">Instellingen</string>
-  <string name="settings_i_xiaomi_com">Bekijk al je afbeeldingen op www.mi.com/micloud</string>
+  <string name="settings_i_xiaomi_com">"Bekijk je foto's die je gesync. hebt op www.mi.com/micloud"</string>
   <string name="shadow">Schaduwen</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share_album">Deel album</string>
@@ -572,6 +576,7 @@
   <string name="share_by_email_successfully">%1$s gedeeld</string>
   <string name="share_current_album">Deel huidig album</string>
   <string name="share_public_url_text">"Ik heb het album %1$s met u gedeeld. Bekijk het op %2$s"</string>
+  <string name="share_title_more">Meer</string>
   <string name="sharer_quota_fulfiled">Kan gebruiker niet toevoegen: gebruiker limiet bereikt.</string>
   <string name="sharpen">Verscherpen</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
@@ -656,6 +661,7 @@
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Waarschuwing</string>
   <string name="wechat">WeChat</string>
+  <string name="wechat_timeline_title">WeChat tijdslijn</string>
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
