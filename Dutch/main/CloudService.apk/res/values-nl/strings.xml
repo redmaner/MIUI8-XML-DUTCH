@@ -36,11 +36,11 @@ Om meer ruimte te verkrijgen, bezoek mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 dagen</string>
   <string name="cloud_back_up_interval_short">1 dag</string>
   <string name="cloud_back_up_network_unavailable">"Kon niet worden verwijderd. Maak verbinding met Wi-Fi en probeer opnieuw."</string>
-  <string name="cloud_back_up_open_info">"Back-up Startscherm apps en opmaak wanneer Wi-F- verbonden eens eens per %1$s
-Laatst geback-upt op:%2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Back-up Startscherm app opmaak wanneer Wi-F- verbonden eens eens per %1$s</string>
+  <string name="cloud_back_up_open_info">"Apps backuppen bij verbinding Wi-Fi eens elke %1$s
+Laatst geback-upt op %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Apps backuppen bij verbinding Wi-Fi eens elke %1$s</string>
   <string name="cloud_back_up_remove_success">Back-up verwijdered</string>
-  <string name="cloud_back_up_title">Back-up beginscherm opmaak</string>
+  <string name="cloud_back_up_title">Back-up aaps</string>
   <string name="cloud_backup_dialog_title">Back-up met Mi Cloud</string>
   <string name="cloud_find_device">Zoek apparaat</string>
   <string name="cloud_space_upgrade_message">Tik om %sGB toe te voegen aan cloud</string>
@@ -110,7 +110,7 @@ Als u van SIM kaarten verwisseld zal er automatisch een SMS verstuurd worden om 
   <string name="master_alert_notif_dspt_add">Wachten om %s items te synchroniseren</string>
   <string name="master_alert_notif_dspt_no">Gesynchroniseerd</string>
   <string name="master_alert_notif_title">Laatst gesynchroniseerd %s dagen geleden</string>
-  <string name="micloud_buy_member">Upgraden lidmaatschap</string>
+  <string name="micloud_buy_member">Account</string>
   <string name="micloud_check_sim_notify_text">Je hebt SIM kaarten veranderd. Log in 
 om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_check_sim_notify_title">Heractiveer Mi Cloud</string>
@@ -177,18 +177,22 @@ Klik op de instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_other_product_price">Vergelijk prijzen</string>
   <string name="micloud_proceed">Doorgaan</string>
   <string name="micloud_sec_dspt">en dingen delen met vrienden.</string>
-  <string name="micloud_setting_antispam_summary">Uitzonderingen voor Niet Storen en geblokkeerde nummers.</string>
+  <string name="micloud_setting_antispam_summary">Uitzonderingen en geblokkeerde telefoonnummers.</string>
   <string name="micloud_setting_browser_summary">Favorieten, geschiedenis en tags</string>
   <string name="micloud_setting_contact_summary">"Contact info en profiel foto's"</string>
-  <string name="micloud_setting_deskclock_summary">Klok instellingen</string>
+  <string name="micloud_setting_deskclock_summary">Tijdszone en alarm instellingen</string>
   <string name="micloud_setting_gallery_summary">"Foto's en videos"</string>
   <string name="micloud_setting_music_summary">Afspeellijsten en favorieten and favorites</string>
   <string name="micloud_setting_sms_summary">SMS en MMS berichten</string>
   <string name="micloud_setting_wifi_summary">WiFi instellingen</string>
   <string name="micloud_single_dspt">Gebruik Mi Cloud om data te sync., je apparaat te zoeken en dingen te delen met je vrienden.</string>
+  <string name="micloud_space_applist_detail">Beheer apps op je Startscherm</string>
+  <string name="micloud_space_applist_title">Beheer apps</string>
   <string name="micloud_space_duokan_detail">Beheer je Duokan inhoud door het gebruik van de Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Wat gebeurt er als ik niet genoeg ruimte meer heb?&lt;/u&gt;</string>
+  <string name="micloud_space_soundrecorder_detail">Beheer opgeslagen opnames op je apparaat</string>
+  <string name="micloud_space_soundrecorder_title">Opnames</string>
   <string name="micloud_storage">Opslag</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Zorg dat er voldoende Mi Credits zijn voor automatische verlengingen.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Sommige cloud diensten kunnen worden beëindigd. Het wordt aanbevolen om de automatische te  verlengen</string>
@@ -240,7 +244,7 @@ Deze functie versleutelt en uploadt de ID van uw apparaat naar de Mi servers.</s
   <string name="pref_title_sync_display_photo_on_wifi_only">"Foto's alleen over Wi-Fi synchroniseren"</string>
   <string name="pref_title_sync_my_profile_title">Synchronisatie profiel</string>
   <string name="privacy_policy">Privacy Beleid</string>
-  <string name="remind_later">Later</string>
+  <string name="remind_later">Nu niet</string>
   <string name="restoreSync">Nu synchroniseren</string>
   <string name="setting">Instellingen</string>
   <string name="settings_backup_title">Backup systeem instellingen</string>
@@ -256,7 +260,7 @@ Deze functie versleutelt en uploadt de ID van uw apparaat naar de Mi servers.</s
   <string name="sina_share_success">Verzonden</string>
   <string name="sina_token_expired_warning">Weibo account is verlopen: Opnieuw koppelen</string>
   <string name="sina_token_invalid_warning">Weibo account is niet geldig: Opnieuw koppelen</string>
-  <string name="sms">SMS</string>
+  <string name="sms">Berichten</string>
   <string name="start_micloud">Starten</string>
   <string name="storage">Opslagruimte</string>
   <string name="sub_alert_notif_dspt_add">%s te synchroniseren items</string>

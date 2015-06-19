@@ -99,9 +99,9 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Uitgaand: "</string>
   <string name="callrecordview_menu_add_call_note">Notitie toevoegen</string>
   <string name="callrecordview_menu_batch_delete">Weigeren</string>
-  <string name="callrecordview_menu_delete">Belgeschiedenis verwijderen</string>
+  <string name="callrecordview_menu_delete">Verwijderen</string>
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
-  <string name="callrecordview_menu_delete_all">Alle belgeschiedenis verwijderen</string>
+  <string name="callrecordview_menu_delete_all">Verwijderen</string>
   <string name="callrecordview_menu_delete_called">Uitgaande gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Gemiste gesprekken verwijderen</string>
@@ -149,6 +149,7 @@
   <string name="close_dial_pad">Toetsenblok sluiten</string>
   <string name="cloud_antispam_mark">Markeren als spam</string>
   <string name="cloud_antispam_title">Onbekende nummers identificeren</string>
+  <string name="cloud_recommend_msg">Tik om contacten te sync. met Mi Cloud.</string>
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw telefoon heeft opgeslagen staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard editor is niet correct gestart.</string>
@@ -163,7 +164,7 @@
   <string name="confirm_export_message">Uw lijst met contactpersonen wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contactpersonen exporteren?</string>
   <string name="connections">Verbindingen</string>
-  <string name="contactDetailAbout">Over</string>
+  <string name="contactDetailAbout">Contact info</string>
   <string name="contactDetailCalllog">Belgeschiedenis</string>
   <string name="contactDetailUpdates">Updates</string>
   <string name="contactMultiPickerActivityTitle">Selecteer contactpersonen</string>
@@ -175,9 +176,9 @@
   <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
   <string name="contact_directory_description">Map %1$s</string>
   <string name="contact_edit_title_edit">Contactpersoon bewerken</string>
-  <string name="contact_edit_title_insert">%s contactpersonen toevoegen</string>
+  <string name="contact_edit_title_insert">Opslaan naar %s</string>
   <string name="contact_edit_title_readonly">Alleen lezen contact</string>
-  <string name="contact_editor_prompt_multiple_accounts">U kunt uw nieuwe contactpersoon synchroniseren met een van de volgende accounts. Welk account wilt u gebruiken?</string>
+  <string name="contact_editor_prompt_multiple_accounts">Contact opslaan naar</string>
   <string name="contact_editor_prompt_one_account">Uw nieuwe contactpersoon wordt gesynchroniseerd met %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Er wordt geen back-up van uw nieuwe contactpersoon gemaakt. Een account toevoegen waarmee online een back-up van contacten wordt gemaakt?</string>
   <string name="contact_is_readOnly">Kan alleen lezen contacten niet bewerken</string>
@@ -479,9 +480,9 @@
   <string name="list_filter_single">Contact</string>
   <string name="loading">Laden…</string>
   <string name="loading_accounts">Een momentje……</string>
-  <string name="loading_group_members">Laden van groepsleden…</string>
-  <string name="loading_groups">Groepen laden…</string>
-  <string name="loading_recent">Recente contacten laden…</string>
+  <string name="loading_group_members">Een momentje……</string>
+  <string name="loading_groups">Een momentje……</string>
+  <string name="loading_recent">Een momentje……</string>
   <string name="loading_resource_detail_fail">Hulpbron laden mislukt!</string>
   <string name="loading_resource_detail_info">Hulpbron info laden...</string>
   <string name="local_invisible_directory">Overige</string>
