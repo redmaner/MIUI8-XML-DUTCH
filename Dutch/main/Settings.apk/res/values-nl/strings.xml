@@ -472,7 +472,6 @@
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
   <string name="button_disconnect_network">Verbreek de verbinding met het netwerk</string>
-  <string name="button_light_timeout">Knop licht instellingen</string>
   <string name="button_text_login">Aanmelden</string>
   <string name="button_text_reboot_now">Herstart nu</string>
   <string name="cache_header_label">Cachegeheugen</string>
@@ -521,6 +520,7 @@
   <string name="check_update">Controleer op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende gesprekken gebruiken voor meldingen</string>
   <string name="checking_for_updates">Controleren op updates…</string>
+  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="cleaner">Opruimer</string>
   <string name="clear_activities">Standaardwaarden wissen</string>
@@ -994,7 +994,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="global_locale_change_title">Taal wijzigen</string>
   <string name="google_backup_section_title">Google back-up &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
-  <string name="handy_mode">Een hand modus</string>
   <string name="handy_mode_enable">Een hand modus</string>
   <string name="handy_mode_tips">Veeg naar links of rechts van de Home knop om het scherm dichter bij de ene kant te trekken.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
@@ -1488,6 +1487,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="no_updates_warning2">We laten je weten als er een update is.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
   <string name="normal_date_format">Regionaal(%s)</string>
+  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Niet geïnstalleerd</string>
   <string name="notification_breathing_light_color_title">Meldings LED kleur</string>
   <string name="notification_breathing_light_freq_title">Meldingen LED oplichtingsfrequentie</string>
@@ -1844,11 +1844,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_compatibility_label">Schermcompatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
   <string name="screen_effect">Contrast &amp; kleuren</string>
-  <string name="screen_key_long_press">Lang drukken navigatie knoppen</string>
-  <string name="screen_key_long_press_action">Trigger functie</string>
-  <string name="screen_key_long_press_timeout">Bepaal lang drukken tijd</string>
-  <string name="screen_key_press">Druk op navigatie knoppen</string>
-  <string name="screen_key_press_action">Trigger function</string>
   <string name="screen_never_timeout_title">Altijd aan</string>
   <string name="screen_on_proximity_sensor_summary">Automatisch vergrendelen  wanneer je hem in je zak steekt</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzak gesprekken</string>
@@ -1874,7 +1869,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst van applicaties updaten met behulp van leesmodus over het netwerk</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Netwerk update lijst</string>
   <string name="screen_saturation">Kleur verzadiging</string>
-  <string name="screen_timeout">Slapen</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Slaapmodus</string>
   <string name="screensaver_settings_button">Instellingen</string>
@@ -2058,6 +2052,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="skip_step">Overslaan</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
+  <string name="smallwindow_smartcover_title">Transparent front cover</string>
   <string name="smartcover_sensitive_title">Smartcover modus</string>
   <string name="sms_application_title">Standaard SMS app</string>
   <string name="sms_change_default_dialog_text" formatted="false">Wilt u %s als uw SMS app gebruiken in plaats van %s?</string>
@@ -2592,7 +2587,6 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="wifi_certificate">Certificaat</string>
   <string name="wifi_config_info">Wi-Fi configureren</string>
   <string name="wifi_configured_ap_list">Eerder geconfigureerde APs</string>
-  <string name="wifi_connect">Verbinden</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Annuleren</string>
   <string name="wifi_connect_cmcc_dialog_confirm">Ok</string>
   <string name="wifi_connect_cmcc_dialog_content">Verbinden met CMCC netwerk data services.</string>
