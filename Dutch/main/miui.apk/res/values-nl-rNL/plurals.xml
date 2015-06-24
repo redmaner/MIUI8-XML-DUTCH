@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Pas</item>
     </plurals>
@@ -51,9 +55,5 @@
     <plurals name="in_num_minutes">
         <item quantity="other">in %d minuten</item>
         <item quantity="one">in 1 minuut</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">%d items geselecteerd</item>
-        <item quantity="one">%d item geselecteerd</item>
     </plurals>
 </resources>
