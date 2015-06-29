@@ -308,7 +308,7 @@
   <string name="dialog_new_group_account">Groep in account maken</string>
   <string name="dialog_phone_call_prohibited_message">Gesprek niet uitgevoerd</string>
   <string name="dialog_sync_add">Synchronisatiegroep toevoegen</string>
-  <string name="dialog_voicemail_airplane_mode_message">Om voicemail te gebruiken, moet u eerst Vliegmodus uitzetten.</string>
+  <string name="dialog_voicemail_airplane_mode_message">Om voicemail te gebruiken, moet u Vliegmodus uitzetten.</string>
   <string name="dialog_voicemail_not_ready_message">Om de voicemail in te stellen, ga naar het menu&gt; Instellingen.</string>
   <string name="directory_search_label">Adresboek</string>
   <string name="display_all_contacts">Alle contacten</string>
@@ -456,7 +456,7 @@
   <string name="insertContactDescription">Contact maken</string>
   <string name="insertGroupDescription">Groep maken</string>
   <string name="invalidContactMessage">Het contact bestaat niet.</string>
-  <string name="keep_local">Lokaal opslaan</string>
+  <string name="keep_local">Niet sync.</string>
   <string name="keep_local_btn">"Gebruik de interne opslag van de telefoon"</string>
   <string name="label_custom_type">Aangepast</string>
   <string name="label_duplicate_count">(%1$d)</string>
@@ -486,7 +486,7 @@
   <string name="loading_resource_detail_fail">Hulpbron laden mislukt!</string>
   <string name="loading_resource_detail_info">Hulpbron info laden...</string>
   <string name="local_invisible_directory">Overige</string>
-  <string name="local_profile_title">Mijn lokale profiel</string>
+  <string name="local_profile_title">Mijn profiel</string>
   <string name="local_search_label">Alle contacten</string>
   <string name="locale_change_in_progress">Lijst met contacten wordt bijgewerkt om de gewijzigde taal te weerspiegelen.</string>
   <string name="login_ok">Inloggen</string>
@@ -1064,6 +1064,8 @@
   <string name="type_mx_msg">Cloud Berichten</string>
   <string name="type_outgoing">Uitgaande gesprekken</string>
   <string name="type_voicemail">Voicemail</string>
+  <string name="unknow_phone_number_call_failed">Kan onbekend nummer niet bellen</string>
+  <string name="unknow_phone_number_mms_failed">Kan onbekend nummer geen bericht zenden</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_contact_name">Onbekend contact</string>
   <string name="upgrade_in_progress">Lijst met contactpersonen wordt bijgewerkt.</string>
@@ -1121,7 +1123,7 @@
   <string name="yellowpage_navigation_send_to_desktop_downloading">Download icoon…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Kan geen verbinding met het netwerk maken. Controleer de verbinding en probeer het opnieuw.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Toegevoegd aan startscherm</string>
-  <string name="yellowpage_search_the_yellowpage">Zoek in de directory</string>
-  <string name="yellowpage_user_profile">Profile</string>
+  <string name="yellowpage_search_the_yellowpage">Zoek in de Gele Gids</string>
+  <string name="yellowpage_user_profile">Profiel</string>
   <string name="zero_items_selected">Selecteer item</string>
 </resources>
