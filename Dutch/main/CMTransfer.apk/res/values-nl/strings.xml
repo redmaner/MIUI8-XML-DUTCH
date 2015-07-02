@@ -9,7 +9,7 @@
   <string name="about_copyright">Cheetah Mobile Inc.</string>
   <string name="about_copyright_eng">© 2015 All Rights Reserved.</string>
   <string name="about_desc">CM Transfer</string>
-  <string name="about_email">mail naar:%s</string>
+
   <string name="about_qq_qun">Onze e-mail: &lt;font color=#2a7fe9 &gt;cmtransfer@cmcm.com&lt;/font&gt;</string>
   <string name="about_subject">Dit wil ik zeggen aan CM Transfer.</string>
   <string name="about_title_face_to_face">Deel bestanden naar vrienden oog in oog</string>
@@ -276,8 +276,8 @@
   <string name="connected_failed">Verbindingsfout, probeer opnieuw</string>
   <string name="contact_import_permission_string">Om contacten te importeren, moeten we uw contacten wijzigen.</string>
   <string name="contact_permission_string">Om contacten te transfereren, moeten we uw contacten lezen.</string>
-  <string name="contact_recv_import_hint_string">%d ontvangen contacten, wil je ze nu importeren?</string>
-  <string name="contact_recv_import_hint_string_one">%1$d contact ontvangen, wil je ze nu importeren?</string>
+  <string name="contact_recv_import_hint_string">Ontvangen &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contacten, wil je die nu importeren?</string>
+  <string name="contact_recv_import_hint_string_one">Ontvangen &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contact, wil je die nu importeren?</string>
   <string name="contact_transfer_easily">Transfereer je contacten gemakkelijk</string>
   <string name="continue_recv">Nee</string>
   <string name="continue_send">Meer verzenden</string>
@@ -321,6 +321,8 @@
   <string name="image_browse">View Afbeeldingen</string>
   <string name="image_browse_error">Verzendingsfout</string>
   <string name="imported">Geïmporteerd</string>
+  <string name="inbox">Postvak In</string>
+  <string name="inbox_contacts_from_device">Van</string>
   <string name="install">INSTALLEER</string>
   <string name="installed">Geïnstalleerd</string>
   <string name="invite_bluetooth_explain">Gemakkelijk te verzenden</string>
