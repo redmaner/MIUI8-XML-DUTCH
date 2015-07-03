@@ -9,7 +9,7 @@
   <string name="about_copyright">Cheetah Mobile Inc.</string>
   <string name="about_copyright_eng">© 2015 All Rights Reserved.</string>
   <string name="about_desc">CM Transfer</string>
-  <string name="about_email">mail naar:%s</string>
+
   <string name="about_qq_qun">Onze e-mail: &lt;font color=#2a7fe9 &gt;cmtransfer@cmcm.com&lt;/font&gt;</string>
   <string name="about_subject">Dit wil ik zeggen aan CM Transfer.</string>
   <string name="about_title_face_to_face">Deel bestanden naar vrienden oog in oog</string>
@@ -230,7 +230,7 @@
   <string name="com_surpax_ledflashlight_panel_save_pic">Flashlight Afbeeldingen</string>
   <string name="com_talkray_client_save_pic">Talkray Afbeeldingen</string>
   <string name="com_taobao_taobao_save_pic">TaoBao Afbeeldingen</string>
-  <string name="com_tdo_showbox_save_pic">Show Box Pictures</string>
+  <string name="com_tdo_showbox_save_pic">Show Box Afbeeldingen</string>
   <string name="com_tencent_minihd_qq_save_pic">QQ Afbeeldingen</string>
   <string name="com_tencent_mm_save_pic">WeChat Afbeeldingen</string>
   <string name="com_tencent_mobileqq_received_music">Mobile QQ Received Muziek</string>
@@ -276,9 +276,9 @@
   <string name="connected_failed">Verbindingsfout, probeer opnieuw</string>
   <string name="contact_import_permission_string">Om contacten te importeren, moeten we uw contacten wijzigen.</string>
   <string name="contact_permission_string">Om contacten te transfereren, moeten we uw contacten lezen.</string>
-  <string name="contact_recv_import_hint_string">%d ontvangen contacten, wil je ze nu importeren?</string>
-  <string name="contact_recv_import_hint_string_one">Received %1$d contact, do you want to import it now?</string>
-  <string name="contact_transfer_easily">Transfer your contacts easily</string>
+  <string name="contact_recv_import_hint_string">Ontvangen &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contacten, wil je die nu importeren?</string>
+  <string name="contact_recv_import_hint_string_one">Ontvangen &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contact, wil je die nu importeren?</string>
+  <string name="contact_transfer_easily">Transfereer je contacten gemakkelijk</string>
   <string name="continue_recv">Nee</string>
   <string name="continue_send">Meer verzenden</string>
   <string name="contracts">Contacten</string>
@@ -320,7 +320,9 @@
   <string name="image_album_msg">%d totaal</string>
   <string name="image_browse">View Afbeeldingen</string>
   <string name="image_browse_error">Verzendingsfout</string>
-  <string name="imported">imported</string>
+  <string name="imported">Geïmporteerd</string>
+  <string name="inbox">Postvak In</string>
+  <string name="inbox_contacts_from_device">Van</string>
   <string name="install">INSTALLEER</string>
   <string name="installed">Geïnstalleerd</string>
   <string name="invite_bluetooth_explain">Gemakkelijk te verzenden</string>
@@ -369,7 +371,7 @@
   <string name="local_micromsg_video">"Wechat Video's"</string>
   <string name="local_screen_shots">Schermafdrukken</string>
   <string name="local_video_album">"Lokale Video's"</string>
-  <string name="location_txt">Primary storage location</string>
+  <string name="location_txt">Primaire opslaglocatie</string>
   <string name="main_dlg_butn">Help Vrienden om te installeren</string>
   <string name="main_dlg_msg_first">&lt;font size=6 &gt;Both phones&lt;/font&gt; moet CM Transfer hebben geïnstalleerd om bestanden te delen.</string>
   <string name="main_share_bottom_text">&lt;u&gt;Stuur CM Transfer naar andere telefoon&lt;/u&gt;</string>
@@ -384,7 +386,7 @@
   <string name="micromsg_video">"WeChat Video's"</string>
   <string name="micromsg_voice">WeChat Stem</string>
   <string name="mobi_mgeek_tunnybrowser_save_pic">Dolphin Browser voor Android Afbeeldingen</string>
-  <string name="mobile_path_txt">Mobile phone</string>
+  <string name="mobile_path_txt">Mobiele telefoon</string>
   <string name="more_language_msg">Binnenkort meertalen beschikbaar…</string>
   <string name="mp3musicdownloader_audio">MP3 Muziek Downloader Muziek</string>
   <string name="msg_affirm_recv">Ontvang bestand op PC</string>
@@ -408,7 +410,7 @@
   <string name="net_mobigame_zombietsunami1_save_pic">Zombie Tsunami Afbeeldingen</string>
   <string name="no_contact_tip">Geen contacten</string>
   <string name="no_file_tip">Geen bestanden</string>
-  <string name="nosdcard_txt">No SD card</string>
+  <string name="nosdcard_txt">Geen SD kaart</string>
   <string name="notification_backup">Backup</string>
   <string name="notification_backup_html"> &lt;font color=#ffffff &gt;Backup&lt;/font&gt;</string>
   <string name="notification_bell">Bericht</string>
@@ -436,7 +438,7 @@
   <string name="notification_upgrade_title">CM Transfer is upgedate!</string>
   <string name="notify_five_star_like">Vind ik leuk</string>
   <string name="notify_five_star_msg">CM Transfer bedankt jullie allemaal!</string>
-  <string name="notify_five_star_title">\#1 File Transfer App on Google Play</string>
+  <string name="notify_five_star_title">\#1 File Transfer App op Google Play</string>
   <string name="oovoo_video">"ooVoo Video's"</string>
   <string name="open">OPEN</string>
   <string name="open_wifi">Open Wi-Fi</string>
@@ -478,7 +480,7 @@
   <string name="ru_mail_save_music">Mail Muziek</string>
   <string name="saavn_audio">Saavn Muziek</string>
   <string name="screenshots_save_pic">Schermafdrukken</string>
-  <string name="sdcard_path_txt">External SD card</string>
+  <string name="sdcard_path_txt">Externe SD kaart</string>
   <string name="select_send_error">Eerst bestand selecteren</string>
   <string name="send_confirm_back_msg">Je hebt &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; bestanden geselecteerd, ben je er zeker van om te annuleren?</string>
   <string name="send_history_list_item_title">%2$d verzonden bestanden naar %1$s</string>
@@ -510,36 +512,36 @@
   <string name="tr_music_download_paradise_save_music">Muziek download Muziek</string>
   <string name="trans_item_num">( %1$d )</string>
   <string name="trans_table_msg">Je vrienden moeten ook CM Transfer installeren om betsanden te ontvangen.</string>
-  <string name="transfer_app_count">( %d totaal )</string>
+  <string name="transfer_app_count">( %1$d totaal )</string>
   <string name="transfer_app_size">%s</string>
   <string name="transfer_button_done">KLAAR</string>
   <string name="transfer_computer">Verbonden met: %1$s</string>
-  <string name="transfer_contracts_count">(%d totaal)</string>
-  <string name="transfer_devices_title">%d Telefoon gevonden, selecteer om naar te verzenden</string>
+  <string name="transfer_contracts_count">(%1$d totaal)</string>
+  <string name="transfer_devices_title">%1$d Telefoon gevonden, selecteer om naar te verzenden</string>
   <string name="transfer_file">Betand verzenden</string>
   <string name="transfer_history">Verzend geschiedenis</string>
   <string name="transfer_info_doing_format" formatted="false">Bestand verzenden (%d/%d) op %s</string>
   <string name="transfer_info_gone_format" formatted="false">%d bestanden verzonden, gemiddelde snelheid van %s</string>
   <string name="transfer_phone">Telefoon</string>
   <string name="transfer_receive_timeout">Verbinding verbroken</string>
-  <string name="transfer_recv_contact_msg">Gemakkelijk contacten importeren </string>
-  <string name="transfer_recv_contact_msg_one">Import contacts easily</string>
+  <string name="transfer_recv_contact_msg">Gemakkelijk contacten importeren</string>
+  <string name="transfer_recv_contact_msg_one">Gemakkelijk contacten importeren</string>
   <string name="transfer_recv_contact_title">Contacten worden ontvangen</string>
-  <string name="transfer_recv_contact_title_one">contact is being received</string>
+  <string name="transfer_recv_contact_title_one">Contact wordt ontvangen</string>
   <string name="transfer_recv_finish_contact_msg">Importeer %d contacten naar je telefoon</string>
-  <string name="transfer_recv_finish_contact_msg_one">Import %1$d contact to your phone</string>
+  <string name="transfer_recv_finish_contact_msg_one">Importeer %1$d contact naar je telefoon</string>
   <string name="transfer_recv_finish_contact_title">Contacten ontvangen</string>
-  <string name="transfer_recv_finish_contact_title_one">contact received</string>
+  <string name="transfer_recv_finish_contact_title_one">Contact ontvangen</string>
   <string name="transfer_recv_finish_text">Ontvangen voltooid</string>
   <string name="transfer_send_contact_msg">Gemakkelijk, snel en veilig je contacten transfereren</string>
-  <string name="transfer_send_contact_msg_one">Transfer your contacts easily, quickly and safely</string>
+  <string name="transfer_send_contact_msg_one">Transfereer je contacten gemakkelijk, rap en veilig</string>
   <string name="transfer_send_contact_title">Contacts worden verzonden</string>
-  <string name="transfer_send_contact_title_one">contact is being sent</string>
+  <string name="transfer_send_contact_title_one">Contact wordt verzonden</string>
   <string name="transfer_send_finish_contact_msg">De ontvanger kan %d contacten niet importeren</string>
-  <string name="transfer_send_finish_contact_msg_one">The receiver can import %1$d contact</string>
+  <string name="transfer_send_finish_contact_msg_one">De ontvanger kan %1$d contact importeren</string>
   <string name="transfer_send_finish_contact_title">Contacten verzonden</string>
-  <string name="transfer_send_finish_contact_title_one">contact sent</string>
-  <string name="transfer_send_finish_text">Verzending vol$</string>
+  <string name="transfer_send_finish_contact_title_one">Contact verzonden</string>
+  <string name="transfer_send_finish_text">Verzending voltooid</string>
   <string name="tunein_player_save_music">Tunein Muziek</string>
   <string name="tunein_radio_save_pic">TuneIn Radio Afbeeldingen</string>
   <string name="tv_peel_samsung_app_save_pic">Samsung WatchON Afbeeldingen</string>
@@ -548,7 +550,7 @@
   <string name="ucbrowser_video">"UC Browser Video's"</string>
   <string name="unknown_album">Onbekend album</string>
   <string name="unknown_device">Onbekend Apparaat</string>
-  <string name="unmount_sdcard_txt">"Can't write SD card"</string>
+  <string name="unmount_sdcard_txt">Kan niet op SD kaart schrijven</string>
   <string name="unpermission_contact_tip">Kan contacten niet openen</string>
   <string name="upgrade_dialog_button_upgrade">Nu updaten</string>
   <string name="upgrade_dialog_checking">Controleren op updates…</string>

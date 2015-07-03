@@ -520,7 +520,7 @@
   <string name="check_update">Controleer op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende gesprekken gebruiken voor meldingen</string>
   <string name="checking_for_updates">Controleren op updates…</string>
-  <string name="choose_smartcover_type">Choose case type</string>
+  <string name="choose_smartcover_type">Kies typegeval</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="cleaner">Opruimer</string>
   <string name="clear_activities">Standaardwaarden wissen</string>
@@ -550,6 +550,7 @@
   <string name="common_settings">Snelle instellingen</string>
   <string name="complete_settings">Algemene instellingen</string>
   <string name="computing_size">Berekenen…</string>
+  <string name="config_charging_function_name">Aan het laden</string>
   <string name="config_list_label">Geconfigureerde netwerken</string>
   <string name="config_mass_storage_function_name">Massaopslag</string>
   <string name="config_mtp_function_name">mtp</string>
@@ -724,9 +725,9 @@
   <string name="device_admin_title">Apparaatbeheer</string>
   <string name="device_admin_warning">Als u deze beheerder activeert, staat u de app %1$s toe de volgende bewerkingen uit te voeren:</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">Dual core</string>
-  <string name="device_cpu4_info">Quad core</string>
-  <string name="device_cpu8_info">Octa core</string>
+  <string name="device_cpu2_info">"Dual core "</string>
+  <string name="device_cpu4_info">"Quad core "</string>
+  <string name="device_cpu8_info">"Octa core "</string>
   <string name="device_edit_title">Apparaat naam wijzigen</string>
   <string name="device_info_default">Onbekend</string>
   <string name="device_info_label">Apparaatinfo</string>
@@ -784,7 +785,7 @@
   <string name="dlg_error_unmount_text">Kan USB opslag niet ontkoppelen. Probeer het later opnieuw.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
-  <string name="dndm_auto_button_title">Tijd</string>
+  <string name="dndm_auto_button_title">Herhalen niet storen tijd</string>
   <string name="dndm_auto_setting_group">Gepland</string>
   <string name="dndm_auto_time_setting">Tijdsinstellingen</string>
   <string name="dndm_auto_time_setting_summary">Van %1$s tot %2$s</string>
@@ -995,6 +996,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="google_backup_section_title">Google back-up &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
   <string name="handy_mode_enable">Een hand modus</string>
+  <string name="handy_mode_size">Scherm grootte</string>
   <string name="handy_mode_tips">Veeg naar links of rechts van de Home knop om het scherm dichter bij de ene kant te trekken.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
@@ -1142,7 +1144,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="local_backup_password_toast_success">Nieuw back-up wachtwoord ingesteld</string>
   <string name="local_backup_password_toast_validation_failure">Instellen van back-up wachtwoord is mislukt</string>
   <string name="local_backup_section_summary">Back-up systeem instellingen, accountgegevens en apps</string>
-  <string name="local_backup_section_title">Automatisch back-uppen</string>
+  <string name="local_backup_section_title">Locale backups</string>
   <string name="locale_default">Standaard</string>
   <string name="locale_settings">Lokaal</string>
   <string name="location_access_off">Uit</string>
@@ -1487,7 +1489,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="no_updates_warning2">We laten je weten als er een update is.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
   <string name="normal_date_format">Regionaal(%s)</string>
-  <string name="normal_smartcover_title">Opaque front cover</string>
+  <string name="normal_smartcover_title">Ondoorzichtige voorklep</string>
   <string name="not_installed">Niet geïnstalleerd</string>
   <string name="notification_breathing_light_color_title">Meldings LED kleur</string>
   <string name="notification_breathing_light_freq_title">Meldingen LED oplichtingsfrequentie</string>
@@ -2052,7 +2054,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="skip_step">Overslaan</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
-  <string name="smallwindow_smartcover_title">Transparent front cover</string>
+  <string name="smallwindow_smartcover_title">Doorzichtige voorklep</string>
   <string name="smartcover_sensitive_title">Smartcover modus</string>
   <string name="sms_application_title">Standaard SMS app</string>
   <string name="sms_change_default_dialog_text" formatted="false">Wilt u %s als uw SMS app gebruiken in plaats van %s?</string>
@@ -2353,6 +2355,8 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ingeschakeld houden</string>
   <string name="usage_type_wifi_running">Wi-Fi actief</string>
+  <string name="usb_charging_summary">Schakel alle andere USB functies uit om het opladen te versnellen.</string>
+  <string name="usb_charging_title">Opladen versnellen</string>
   <string name="usb_connection_category">Verbinding maken als</string>
   <string name="usb_host_mode_subtext">Door het gebruik van game controllers en andere randapparatuur kan de batterij duur verkorten.</string>
   <string name="usb_host_mode_text">USB host modus</string>

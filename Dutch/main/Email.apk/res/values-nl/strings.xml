@@ -112,6 +112,7 @@
   <string name="account_setup_failed_dlg_certificate_message">Kan geen veilige verbinding met de server tot stand brengen.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan geen veilige verbinding met de server tot stand brengen.
 (%s)"</string>
+<string name="account_setup_failed_dlg_device_locked">Uw adres was geblokkeerd door apparaat vergrendeling</string>
   <string name="account_setup_failed_dlg_edit_details_action">Details bewerken</string>
   <string name="account_setup_failed_dlg_server_message">Kan niet verbinden met de server.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">Kan niet verbinden met de server(%s)"</string>
@@ -128,7 +129,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Optioneel</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Voorvoegsel IMAP pad</string>
   <string name="account_setup_incoming_mail_adress_label">E-mail Adres</string>
-  <string name="account_setup_incoming_mail_domain_hint">Dit veld kan leeg zijn</string>
+  <string name="account_setup_incoming_mail_domain_hint">Optioneel</string>
   <string name="account_setup_incoming_mail_domain_label">Domein</string>
   <string name="account_setup_incoming_password_label">Wachtwoord</string>
   <string name="account_setup_incoming_port_label">Poort</string>
@@ -243,6 +244,8 @@
   <string name="attachment_mgr_name">Bijlagen</string>
   <string name="attachment_not_exists">Bijlage niet beschikbaar!</string>
   <string name="attachment_not_found">Bijlage downloaden mislukt.</string>
+  <string name="attachment_open_SecurityException_hint">Controleer de toestemmingen, schade, enz.</string>
+  <string name="attachment_open_SecurityException_title">Bestand openen mislukt</string>
   <string name="attachment_stop_all">Stoppen</string>
   <string name="attachment_text">Tekst</string>
   <string name="attachment_type_blocked">U kunt dit type bijlage niet opslaan of openen.</string>
@@ -378,12 +381,13 @@
   <string name="device_admin_label">E-mail</string>
   <string name="device_not_activiey_lint1">Apparaatbeheer is niet geactiveerd</string>
   <string name="device_not_activiey_lint2">Mail service werkt niet goed wisselen</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Sync. mail optie is uitgeschakeld, kan geen nieuwe berichten ontvangen.</string>
-  <string name="dialog_auto_download_failed">Kan het automatisch downloaden niet voltooien, probeer manueel te downloaden</string>
-  <string name="dialog_auto_sync_setting_no_open">Sync. mail optie is uitgeschakeld, kan geen nieuwe berichten ontvangen.</string>
-  <string name="dialog_insufficient_space_for_single_account_on_internal">Niet genoeg ruimte voor %s.</string>
-  <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Er is niet genoeg ruimte op de externe opslag.</string>
-  <string name="dialog_insufficient_space_on_internal">Gebrek aan opslagruimte om attachments automatisch te downloaden.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Kan geen nieuwe berichten ontvangen. Sync. is uit.</string>
+  <string name="dialog_auto_download_failed">Kon niet automatisch downloaden</string>
+  <string name="dialog_auto_sync_setting_no_open">Kan geen nieuwe berichten ontvangen. Sync. is uit.</string>
+  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server fout.</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">Niet genoeg ruimte om bijlagen te downloaden voor %s.</string>
+  <string name="dialog_insufficient_space_on_external">Kan bijlage niet downloaden. Niet genoeg ruimte op externe opslag</string>
+  <string name="dialog_insufficient_space_on_internal">Niet genoeg ruimte op interne opslag.</string>
   <string name="disable_admin_warning">WAARSCHUWING: als u de rechten van de app E-mail voor het beheren van uw apparaat uitschakelt, worden alle e-mailaccounts verwijderd waarvoor deze rechten vereist zijn, samen met de bijbehorende e-mails, contacten, agenda afspraken en andere gegevens.</string>
   <string name="discard">Verwijderen</string>
   <string name="discard_drafts">Concepten verwijderen</string>
@@ -482,6 +486,7 @@
   <string name="folder_trash_name_en3">[Gmail]/Prullenbak</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s %2$s</string>
+  <string name="forward">Doorsturen</string>
   <string name="forward_attachment">Doorsturen</string>
   <string name="forward_attribution">---------- Doorgestuurd bericht ----------&lt;br&gt;Van: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Onderwerp: %3$s&lt;br&gt;Aan: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
@@ -692,7 +697,7 @@ Cc: %4$s
   <string name="outbox_alert_button_confirm">Bewerken</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
-  <string name="outbox_alert_certificate_error">E-mail certificaat uitzondering, gelieve te updaten</string>
+  <string name="outbox_alert_certificate_error">Contacteer je email systeems administrator en update je certificaat.</string>
   <string name="outbox_alert_description_auth_error">Autorisatie fout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_cannot_authenticate">Kon %s niet authenticeren</string>
   <string name="outbox_alert_description_http_error">HTTP fout van de server tijdens het sync. van Postvak Uit</string>
@@ -705,7 +710,7 @@ Cc: %4$s
   <string name="outbox_alert_edit_resend">Bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_failed_edit_resend">Niet verzonden, bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_mailbox_not_found">E-mailadres niet gevonden</string>
-  <string name="outbox_alert_rw_io_error">Mail lezen en schrijven uitzondering, opnieuw schrijven en versturen</string>
+  <string name="outbox_alert_rw_io_error">Er is een fout opgetreden. Wacht een minuutje of twee en probeer opnieuw.</string>
   <string name="outbox_alert_select_operation">Selecteer actie</string>
   <string name="outbox_alert_title_sent_failed">Kon mail niet verzenden</string>
   <string name="outbox_no_mails">Geen mails in Postvak UIT</string>
@@ -801,8 +806,8 @@ Cc: %4$s
   <string name="quick_4">Laten we een afspraak maken om dit te bespreken.</string>
   <string name="quick_reply_dialog_title">Kiezen</string>
   <string name="quick_reply_hint">Allen %1$d beantwoorden</string>
-  <string name="quick_reply_hint_bcc">(In BCC)</string>
-  <string name="quick_reply_hint_cc">(In CC)</string>
+  <string name="quick_reply_hint_bcc">"(In BCC) "</string>
+  <string name="quick_reply_hint_cc">"(In CC) "</string>
   <string name="quick_responses_empty_view">Geen snelle reacties.</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">--------  Origineel  --------</string>
@@ -850,8 +855,10 @@ Cc: %4$s
   <string name="remove_account_confirm_title">Account verwijderen</string>
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Ster verwijderen</string>
+  <string name="reply">Beantw.</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
+  <string name="reply_subject_label">Ant:</string>
   <string name="replyto_heading">"Antwoord: "</string>
   <string name="report_phishing">Phishing melden</string>
   <string name="report_spam">Spam melden</string>
@@ -905,6 +912,7 @@ Cc: %4$s
   <string name="ser_resp_err_map_or">Of</string>
   <string name="ser_resp_err_map_pserr">Onjuiste gebruikersnaam of wachtwoord</string>
   <string name="ser_resp_err_map_serclosed">Service is gesloten</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">Hoe oplossen?</string>
   <string name="ser_resp_err_map_ssl">"Probeer te kiezen voor 'SSL/TLS(alle certificaten accepteren)' in 'Beveiligingstype'"</string>
   <string name="set_network">Netwerk instellen</string>
   <string name="settings_activity_title">Instellingen</string>
@@ -981,7 +989,9 @@ Cc: %4$s
   <string name="unread_from_someone">Mail van % is niet gelezen</string>
   <string name="unread_string">Conversatie ongelezen</string>
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
-  <string name="updated_at">Laatst bijgewerkt: %1$s</string>
+  <string name="unzip_file_failed">Unzippen mislukt</string>
+  <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+  <string name="updated_at">Laatst bijgewerkt op %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
   <string name="upload_log">Upload logs</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
@@ -990,7 +1000,7 @@ Cc: %4$s
   <string name="upload_log_title">Verzend log naar Xiaomi</string>
   <string name="upload_log_yes">Uploaden</string>
   <string name="uploading_logs">Een momentje…</string>
-  <string name="validation_failed_prompt">Account kan niet worden geverifieerd , controleer %s server instellingen</string>
+  <string name="validation_failed_prompt">Kan account niet bevestigen, controleer de server instellingen voor %s"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>

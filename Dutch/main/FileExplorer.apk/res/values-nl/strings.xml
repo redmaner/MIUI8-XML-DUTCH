@@ -6,7 +6,8 @@
   <string name="add_task">Taken toevoegen</string>
   <string name="adding_upload_tasks">Toevoegen taken#8230;</string>
   <string name="already_signin_description">Je bent al ingecheckt voor vandaag</string>
-  <string name="app_name">Explorer</string>
+  <string name="app_name">File Explorer</string>
+  <string name="archive_send_to">Verzenden naar…</string>
   <string name="background">Verberg</string>
   <string name="big5_summary">Traditionele Chinese Windows standaard codering</string>
   <string name="big5_title">BIG5</string>
@@ -24,10 +25,11 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Documenten</string>
   <string name="category_favorite">Met ster</string>
-  <string name="category_log">Logbestanden</string>
+  <string name="category_file">Bestanden</string>
   <string name="category_music">Muziek</string>
   <string name="category_other">Overige</string>
   <string name="category_picture">"Foto's"</string>
+  <string name="category_recent">Recente</string>
   <string name="category_theme">"Thema's"</string>
   <string name="category_type_document">Documenten</string>
   <string name="category_type_meida">Media</string>
@@ -57,6 +59,7 @@
   <string name="data_capacity">Data %1$s</string>
   <string name="decompress_cancel">Annuleren</string>
   <string name="decompress_confirm">Uitpakken</string>
+  <string name="decompress_destination_error">Uitpakken mislukt: kan de bstanden hier niet uitpakken</string>
   <string name="decompress_fail">Uitpakken mislukt: er bestaat al bestand met dezelfde naam of het archief is beschadigd.</string>
   <string name="decompress_success">Uitpakken voltooid</string>
   <string name="decompress_to">Uitpakken naar…</string>
@@ -86,6 +89,7 @@
   <string name="error_filename_too_long">Bestandsnaam is te lang.</string>
   <string name="error_info_cant_send_folder">Kan dit type bestand niet verzenden.</string>
   <string name="error_open_file_failed_no_app_found">Geen app  gevonden om deze actie uit te voeren.</string>
+  <string name="expand_all">Alle</string>
   <string name="fail_to_create_folder">Niet genoeg ruimte of de map bestaat al.</string>
   <string name="fail_to_create_folder_unknown">Kan map niet aanmaken</string>
   <string name="fail_to_rename">Een bestand met dezelfde naam bestaat al.</string>
@@ -121,6 +125,7 @@
   <string name="gbk_title">GBK</string>
   <string name="get_cloud_space">500GB toevoegen</string>
   <string name="gigabyteShort">GB</string>
+  <string name="group_title">%2$s van %1$s</string>
   <string name="instruction">Voer het volgende adres in op FTP client:</string>
   <string name="instruction_pre">Aanraken om de FTP server te starten</string>
   <string name="kilobyteShort">KB</string>
@@ -164,6 +169,7 @@
   <string name="migrate_announcement_title">Verplaatsen compleet</string>
   <string name="mobile_photo">"Foto's op telefoon"</string>
   <string name="mobile_photo_desc"/>
+  <string name="month_day_format">MMM dd</string>
   <string name="move_failed">Kan niet knippen</string>
   <string name="multi_select_title">%1$s geselecteerd</string>
   <string name="my_app">App data</string>
@@ -259,8 +265,11 @@
   <string name="rename_description">Naam wijzigen…</string>
   <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
   <string name="sd_card_available">Beschikbaar: %1$s</string>
-  <string name="sd_card_size">SD-kaart: %1$s</string>
-  <string name="sd_full">SD-kaart is vol.</string>
+  <string name="sd_card_size">SD kaart: %1$s</string>
+  <string name="sd_full">SD kaart is vol.</string>
+  <string name="sdcard">SD kaart</string>
+  <string name="sdcard_available">Beschikbaar %1$s</string>
+  <string name="sdcard_total">Totaal %1$s</string>
   <string name="search_hint">Zoeken</string>
   <string name="search_title">Zoeken</string>
   <string name="send_to_midrive">KuaiPan</string>
@@ -292,8 +301,13 @@
   <string name="tab_category">Categorieën</string>
   <string name="tab_expand">Uitbreiden</string>
   <string name="tab_local">Lokaal</string>
-  <string name="tab_path">Pad</string>
+  <string name="tab_more">meer</string>
+  <string name="tab_path">FOLDERS</string>
+  <string name="tab_source">APPS</string>
+  <string name="tab_storage">OPSLAG</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_more_source">Meer apps</string>
+  <string name="title_recent">Recente</string>
   <string name="toast_file_not_can_read">Geen app gevonden om deze actie uit te voeren.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netwerk overdracht</string>
@@ -331,7 +345,9 @@
   <string name="wait_wifi">Wachten op Wi-Fi</string>
   <string name="waiting">Wachten</string>
   <string name="wangpan_root_path">Mijn harde schijf</string>
+  <string name="wechat_video">Video op %s</string>
   <string name="wifi_state">Wi-Fi netwerk</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Ja</string>
 </resources>

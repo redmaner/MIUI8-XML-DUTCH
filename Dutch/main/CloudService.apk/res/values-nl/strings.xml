@@ -57,8 +57,8 @@ Laatst geback-upt op %2$s"</string>
   <string name="enable_cloud_service_notification">Mi Cloud is niet ingeschakeld </string>
   <string name="enable_find_device_error">Zoeken apparaat niet uitgeschakeld. %1$s</string>
   <string name="enable_micloud">Aanmelden of een account aanmaken</string>
-  <string name="enable_sync">Inschakelen synchroniseren</string>
-  <string name="enable_sync_dspt">Synchronisatie is uitgeschakeld</string>
+  <string name="enable_sync">Sync.</string>
+  <string name="enable_sync_dspt">Niet sync.</string>
   <string name="error_data_in_transfer">Synchronisatie binnen de %s uren.</string>
   <string name="error_data_in_transfer_title">Mi Cloud niet beschikbaar</string>
   <string name="error_forbidden">Synchronisatie is uitgeschakeld als gevolg van problemen met uw Mi account.</string>
@@ -117,12 +117,12 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_check_sim_title">Je hebt SIM kaarten veranderd. Log in
 om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_fail">Kan niet sync.</string>
-  <string name="micloud_detail_lastest">Synced</string>
+  <string name="micloud_detail_lastest">Gesync.</string>
   <string name="micloud_detail_pending">In afwachting</string>
-  <string name="micloud_detail_preference_syncing">Syncing</string>
+  <string name="micloud_detail_preference_syncing">Sync.</string>
   <string name="micloud_detail_preference_wlan">Sync. op Wi-Fi</string>
-  <string name="micloud_detail_success">Synced</string>
-  <string name="micloud_detail_syncing">Syncing</string>
+  <string name="micloud_detail_success">Gesync.</string>
+  <string name="micloud_detail_syncing">Sync.</string>
   <string name="micloud_detail_wlan">%d wacht om te sync.</string>
   <string name="micloud_detail_wlan_contact">%d wacht om contact foto te sync.</string>
   <string name="micloud_detail_wlan_mms">%d wacht om MMS te sync.</string>
@@ -226,7 +226,10 @@ Klik op de instellingsknop om meer opties weer te geven"</string>
   <string name="mx_dspt">Mi berichten</string>
   <string name="mx_dspt_provision">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder kosten.U kunt deze functie op elk moment in- en uitschakelen in de instellingen.</string>
   <string name="mx_dspt_provision_privacy">Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.
-Deze functie versleutelt en uploadt de ID van uw apparaat naar de Mi servers.</string>
+Deze functie versleutelt en verzend de ID van uw apparaat naar de Mi servers.</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor twee SMS berichten gebruikt om deze functie te activeren.
+
+Deze functie codeert en verzend de ID van uw apparaat naar de Mi servers."</string>
   <string name="mx_dspt_provision_with_voip">Bel andere MIUI gebruikers gratis met gebruik van uw internet verbinding. U kunt deze functie op elk gewenst moment in- of uitschakelen in Instellingen.</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
