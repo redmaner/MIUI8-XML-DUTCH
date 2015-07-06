@@ -35,6 +35,7 @@
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="current_network_state_not_need_diagnose">Normale internet verbinding</string>
   <string name="daily_limit_network_available_body">Raak aan om gebruiksgegevens statistieken te bekijken.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Tik om Mobiele data in te schakelen.</string>
   <string name="daily_limit_over_message">Je hebt je dagelijkse datalimiet overschreden.</string>
   <string name="daily_pkg_traffic">Piek dataverbruik limiet instellen</string>
   <string name="data_network_blocked_notification_title">Geen internet verbinding</string>
@@ -241,6 +242,7 @@
   <string name="notify_daily_limit_body">%s verbruikt van vandaag. Tik om een limiet in te stellen.</string>
   <string name="notify_daily_limit_title">Stel dagelijkse datalimiet in</string>
   <string name="notify_daily_limit_title_for_slotnum">Dagelijks limiet instellen op %s</string>
+  <string name="notify_daily_traffic_saving_title">%s vandaag verbruikt</string>
   <string name="notify_month_traffic_body">%s verbruikt deze maand. Tik om een limiet in te stellen.</string>
   <string name="notify_setting_pkg_title">Stel maandelijkse datalimiet in</string>
   <string name="notify_setting_pkg_title_for_slotnum">Maandelijks limiet instellen op %s</string>
@@ -327,10 +329,15 @@
   <string name="pref_title_traffic_limit_number">Grootte</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Dataverbruik meldingen weergeven</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Verminder data verbruik voor nieuwe apps </string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatisch activeren van data saver voor nieuw geïnstalleerde apps waarvoor het data verbruik aanzienlijk kan worden verminderd</string>
+  <string name="pref_traffic_saving_compressed">Gecomprimeerd</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Zal Data Saver effect hebben op mijn privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nee. Uw gegevens blijven prive en zal niet worden gedeeld met derden. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Waarom werkt Data Saver niet? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data Saver alleen maar wanneer probeert te verstueren of downloaden u via de netwerk provider."</string>
+  <string name="pref_traffic_saving_no_compress">Ongecomprimeerd</string>
   <string name="pref_traffic_saving_notify_switch">Weergeven in meldings schaduw</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Weergeven Data Saver info in meldings schaduw</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Geef data verbuiks stats in meldings schaduw weer</string>
+  <string name="pref_traffic_saving_pic_compress_level">Afbeelding compressieverhouding</string>
   <string name="pref_traffic_saving_switch">Beperken datverbruik</string>
   <string name="pref_traffic_saving_switch_hint">Gebruik proxy om data te comprimeren</string>
   <string name="pref_traffic_saving_title">Instellingen Data saver</string>
@@ -348,6 +355,7 @@
   <string name="protocol_exception_title">Netwerk protocol diagnose</string>
   <string name="protocol_loop_back_exception_summary">Openbaar net loop test is mislukt. Om dit probleem aan MIUI melden, gaat u naar de Rappoteer Bug app en stuur een log van uw apparaat.</string>
   <string name="reach_daily_limit_value_body">Verminder het mobiele data verbruik.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Tik om Data Saver in te schakelen.</string>
   <string name="reach_daily_limit_value_title">Dagelijks data verbruik bereikt</string>
   <string name="read_number">86 artikels</string>
   <string name="read_unit">" artikels"</string>
@@ -460,6 +468,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_protection_use_data">Data ingeschakeld</string>
   <string name="traffic_purchase_body">Bespaar 50% als je nu herlaad.</string>
   <string name="traffic_purchse_suggestion">Datalimiet opwaarderen</string>
+  <string name="traffic_saving_button_mng">Beheer Data saver apps</string>
   <string name="traffic_saving_button_sorted">Details</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sorteren op</string>
   <string name="traffic_saving_button_start">Inschakelen</string>
@@ -477,9 +486,20 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_msg_month">Bespaard deze maand</string>
   <string name="traffic_saving_msg_not_started">Data Saver is uitgeschakeld</string>
   <string name="traffic_saving_msg_today">Resterend vandaag</string>
+  <string name="traffic_saving_need_optimize">Kan niet geoptimaliseerd worden</string>
+  <string name="traffic_saving_notification_button_start">Activeren</string>
   <string name="traffic_saving_notify_start_content">%s bespaard deze maand</string>
   <string name="traffic_saving_notify_start_title">Verminder je datavebruik</string>
-  <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
+  <string name="traffic_saving_one_key_optimize">Optimaliseer naar data besparing</string>
+  <string name="traffic_saving_optimized">Reeds geoptimaliseerd</string>
+  <string name="traffic_saving_pic_compress_orig">Origineel</string>
+  <string name="traffic_saving_ratio">Data verbruik verminderd %.2f%%</string>
+  <string name="traffic_saving_ratio_low">Kan data verbruik niet aanzienlijk verminderen</string>
+  <string name="traffic_saving_recommanded_close">Schakel dit item uit</string>
+  <string name="traffic_saving_recommanded_open">Schakel dit item in</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatisch Data saver activeren om apps te verminderen' mobiele data gebruik.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Als je een maandelijks data plan hebt, herinner u eraan om de data saver uit te schakelen voor individuele apps om extra kosten van uw provider te voorkomen.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Activeren</string>
+  <string name="traffic_saving_tecsupport">Powered by Opera</string>
   <string name="traffic_saving_title">Data Saver</string>
   <string name="traffic_saving_toast_start_mobile">Data Saver is ingeschakeld</string>
   <string name="traffic_saving_toast_start_none_mobile">Data bespaarder zal starten bij het gebruik van mobiele data</string>

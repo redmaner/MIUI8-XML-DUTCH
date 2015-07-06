@@ -5,8 +5,16 @@
         <item quantity="one">Niet bijhouden van dataverbruik voor %d app</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">TBijhouden van dataverbruik voor %d apps</item>
+        <item quantity="other">Bijhouden van dataverbruik voor %d apps</item>
         <item quantity="one">Bijhouden van dataverbruik voor %d app</item>
+    </plurals>
+	<plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apps geoptimaliseerd</item>
+        <item quantity="one">%d app geoptimaliseerd</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apps kunnen geoptimaliseerd worden</item>
+        <item quantity="one">%d app kan geoptimaliseerd worden</item>
     </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">%d apps gebruiken Data Saver</item>
