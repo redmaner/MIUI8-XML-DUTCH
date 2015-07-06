@@ -35,7 +35,8 @@
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Uw gegevens zijn met succes van de Xiaomi Authenticator app geïmporteerd. Het is nu veilig om de eerdere versie van de app te verwijderen door hieronder te klikken.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importeren voltooid</string>
   <string name="decoding_exception">Decoderingsuitzondering</string>
-  <string name="details_patternforgotten">"Heractiveren： Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina 'Klik op de "Heractiveren""</string>
+  <string name="details_patternforgotten">"Heractiveren： 
+Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina 'Klik op de "Heractiveren""</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Voer account naam in</string>
   <string name="enter_key_hint">Voer sleutel waarde in</string>
@@ -110,6 +111,7 @@
   <string name="remove_Xiaomi_account_dialog_message">Deze account verwijderen zal &lt;b&gt;verwijder uw mogelijkheid&lt;/b&gt; om codes genereren, echter zal het &lt;b&gt;not&lt;/b&gt; Uitschakelen 2 staps verificatie. Dit kan voorkomen om in te loggen bij uw account. &lt;p&gt; Voordat u verwijderd: &lt;ul&gt; &lt;li&gt;Schakel 2 staps verificatie uit voor dit account, or&lt;/li&gt; &lt;li&gt;Zorg ervoor dat u een alternatief methode hebt voor het genereren van codes.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account">Account verwijderen</string>
   <string name="remove_account_dialog_message">"Dit account verwijderen zal je vermogen om codes te genereren verwijderen. Dit kan voorkomen dat u kan inloggen op uw account. Vóór het verwijderen van: Schakel 2-factor authenticatie voor dit account, of Zorg ervoor dat u een alternatief mechanisme voor het genereren van codes.
+
 Voor dat u verwijderd:
 Schakel 2 factor authenticatie voor dit account,
 of zorg ervoor dat u een alternatief mechanisme voor het genereren van codes hebt."</string>
@@ -143,7 +145,9 @@ of zorg ervoor dat u een alternatief mechanisme voor het genereren van codes heb
   <string name="timesync_sync_now_screen_title">Nu sync.</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">Interne klok Authenticator werd niet aangepast, omdat hij al gesync. is met de servers.</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">De tijd is al juist</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"Interne klok Authenticator's is aangepast aan de tijd van de servers. De datum &amp; Tijd instellingen op dit apparaat zijn niet gewijzigd."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Interne klok Authenticator's is aangepast aan de tijd van de servers. 
+  
+De datum &amp; Tijd instellingen op dit apparaat zijn niet gewijzigd."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Tijd gecorrigeerd</string>
   <string name="tip1_patternforgotten">Opnieuw installeren en activeren</string>
   <string name="tip2_patternforgotten">Tik op reset om account gegevens te verwijderen en opnieuw te activeren</string>

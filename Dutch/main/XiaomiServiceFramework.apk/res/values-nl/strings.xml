@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">OK</string>
+  <string name="activate">Activeren</string>
   <string name="activate_feature_call_log_sync">Sync. gespreksgeschiedenis</string>
   <string name="activate_feature_find_device">Vind apparaat</string>
   <string name="activate_feature_mms_sync">SMS Sync.</string>
@@ -72,11 +73,12 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="activate_status_desc_sms_sent">Activerings-SMS verstuurd</string>
   <string name="activate_status_desc_wait_for_sms">Wachten op Activerings-SMS van de server…</string>
   <string name="activate_status_desc_wait_for_sms_fail">Activerings-SMS ontvangen van de server mislukt</string>
-  <string name="activate_status_desc_wait_for_sms_success">Activerings-SMS ontvangen van de server gelukt</string>
+  <string name="activate_status_desc_wait_for_sms_success">Activerings SMS ontvangen van de server gelukt</string>
   <string name="activate_status_title_activating">SIM kaart activeren…</string>
   <string name="activate_status_title_activating_msim">SIM kaart activeren %s…</string>
   <string name="app_name">Xiaomi service framework</string>
-  <string name="error_device_id_message">Sommige account cloud functies zijn niet beschikbaar</string>
+  <string name="error_device_id_message">"Invalid Device ID: %s
+Apparaat ID moet geldig IMEI of MAC-adres hebben. Zonder apparaat id, zullen sommige account en cloud functies niet beschikbaar zijn."</string>
   <string name="error_device_id_title">Kan IMEI nummer niet ophalen</string>
   <string name="sim_unactivated_title">Uw SIM kaart is niet geactiveerd</string>
   <string name="sync_notification_title_format">Sync. huidige item: %1$s</string>
