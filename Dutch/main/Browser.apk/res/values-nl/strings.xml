@@ -106,6 +106,7 @@
   <string name="bookmark_url_already_exisit">Deze URL staat al bij favorieten</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">Ongeldige URL.</string>
+  <string name="bookmarks">Bladwijzers</string>
   <string name="bookmarks_content_is_null">Geen bladwijzers</string>
   <string name="bookmarks_management">Bladwijzers</string>
   <string name="bookmarks_root_folder">Root map</string>
@@ -215,7 +216,7 @@
   <string name="download_dialog_file_length_hint_txt">"Bestandsgrootte:"</string>
   <string name="download_dialog_file_length_lessthan1kb">Kleiner dan 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Bestandsgrootte berekenen mislukt</string>
-  <string name="download_dialog_file_length_nolength_txt">Bestandsgrootte berekenen…</string>
+  <string name="download_dialog_file_length_nolength_txt">Downloaden…</string>
   <string name="download_failed">Download mislukt</string>
   <string name="download_no_sdcard_dlg_msg">USB opslag is vereist om  %s te downloaden.</string>
   <string name="download_no_sdcard_dlg_title">USB opslag niet beschikbaar</string>
@@ -288,6 +289,7 @@
   <string name="history_most_visited">Meest bezocht</string>
   <string name="history_saved_webpage">Pagina opslaan</string>
   <string name="history_track">Geschiedenis</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Startpagina ingesteld</string>
   <string name="http">http://</string>
   <string name="in_incognito">"U bent in incognito modus! Webpagina's uw die u bekijkt in dit tabblad verschijnen niet in uw browser geschiedenis."</string>
@@ -455,6 +457,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="pref_content_night_read_mode">Nacht modus</string>
   <string name="pref_content_open_in_background">Openen in achtergrond</string>
   <string name="pref_content_open_in_background_summary">Nieuwe tabbladen openen achter het huidige tabblad</string>
+  <string name="pref_content_plugins">Plug-ins inschakelen</string>
   <string name="pref_content_search_engine">Zoekmachine in adresbar</string>
   <string name="pref_content_search_engine_summary">Selecteer een zoekmachine</string>
   <string name="pref_content_title">Pagina inhoud</string>
@@ -462,8 +465,10 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="pref_data_preload_summary">: Browser toestaan resultaten met hoog betrouwbaarheidsniveau te preloaden</string>
   <string name="pref_data_preload_title">Zoekresultaten preloaden</string>
   <string name="pref_data_title">Bandbreedtebeheer</string>
+  <string name="pref_default_text_encoding">Tekst codering</string>
   <string name="pref_default_text_encoding_default">UTF 8</string>
   <string name="pref_default_text_encoding_dialogtitle">Tekstcodering</string>
+  <string name="pref_default_zoom">Standaardzoom</string>
   <string name="pref_default_zoom_dialogtitle">Standaardzoom</string>
   <string name="pref_development_cpu_upload_path">CPU upload path inschakelen</string>
   <string name="pref_development_error_console">JavaScript console weergeven</string>
@@ -503,8 +508,11 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="pref_images_preload_dialogtitle">Afbeelding preloaden</string>
   <string name="pref_images_preload_summary">Browser toestaan afbeeldingen voor te laden wanneer het wordt ondersteund door de server</string>
   <string name="pref_images_preload_title">Afbeelding preloaden</string>
+  <string name="pref_images_preload_value_always">2</string>
   <string name="pref_images_preload_value_always_summary">Browser altijd toestaan afbeeldingen te preloaden bij server ondersteuning</string>
+  <string name="pref_images_preload_value_never">0</string>
   <string name="pref_images_preload_value_never_summary">Browser nooit toestaan afbeeldingen te preloaden</string>
+  <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_images_preload_value_wifi_only_summary">Afbeeldingen alleen preloaden met Wi-Fi</string>
   <string name="pref_inverted">Omgekeerde opbouw</string>
   <string name="pref_inverted_category">Omgekeerde opbouw van scherm</string>
@@ -558,6 +566,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="pref_set_homepage_to">Ingesteld op</string>
   <string name="pref_setting_title">Pagina instellingen</string>
   <string name="pref_ua_mione_entry">MiOne</string>
+  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">Apparatuur</string>
   <string name="pref_ua_title">Identificatie Apparatuur beheer</string>
   <string name="pref_version_summary">Versie:%s</string>
@@ -600,7 +609,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Volgende hoofdstukken vereisen inloggen voordat lezen kan worden ingeschakeld.</string>
   <string name="readmode_page_load_error">Pagina laden mislukt, klik vernieuwen om het opnieuw te proberen :(</string>
-  <string name="readmode_page_loading">Laden, een moment geduld…</string>
+  <string name="readmode_page_loading">Laden…</string>
   <string name="readmode_pay">Abonneren op hoofdstuk</string>
   <string name="readmode_pay_message">Volgende hoofdstukken vereisen een abonnement voordat lezen kan worden ingeschakeld.</string>
   <string name="readmode_reach_last_page">Laaste pagina bereikt</string>
@@ -643,6 +652,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="save_to_camera_success">Opgeslagen in camera</string>
   <string name="saving_snapshot">Opslaan…</string>
   <string name="sdcard_error">Controleer de SD-kaart</string>
+  <string name="search">Zoeken</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Ga</string>
@@ -786,6 +796,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="webapp_add_to_favorite_toast">Toegevoegd aan favorieten</string>
   <string name="webapp_addtodeskpop_append">Toegevoegd</string>
   <string name="webapp_app_name">Light Web Apps Store</string>
+  <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
   <string name="webapp_bottom_bar_addtodesk">Toevoegen aan startscherm</string>
   <string name="webapp_dialog_title">App toevoegen aan startscherm</string>
   <string name="webapp_menu_addtodesk">Toevoegen aan bureaublad</string>
@@ -795,7 +806,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="webapp_menu_nightmode">Nacht modus</string>
   <string name="webapp_menu_settings">Instellingen</string>
   <string name="webapp_menu_share">Delen</string>
-  <string name="webapp_settings_title">Instellen</string>
+  <string name="webapp_settings_title">Instellingen</string>
   <string name="webapp_splashview_loading">Laden…</string>
   <string name="webapp_webapp_favortes_title">Favorieten</string>
   <string name="webpage_bookmark_title">Bladwijzer</string>
