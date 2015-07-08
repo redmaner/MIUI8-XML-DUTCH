@@ -17,7 +17,6 @@
   <string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
-  <string name="account_cache_provider">Account cache provider</string>
   <string name="account_duplicate_dlg_message_fmt">U gebruikt deze gebruikersnaam al voor het account \"%s\".</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_folder_list_summary_drafts">Concepten</string>
@@ -306,7 +305,6 @@
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
   <string name="compose">Opstellen</string>
-  <string name="compose_help_context">opstellen</string>
   <string name="compose_send">Verzenden</string>
   <string name="compose_sent">Verzonden</string>
   <string name="confirm">Bevestigen</string>
@@ -423,7 +421,6 @@
   <string name="drawer_open">Navigatie lader openen</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
-  <string name="eas_template">domein\\gebruiker</string>
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
@@ -571,14 +568,6 @@
   <string name="mailbox_name_display_starred">Met ster</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
-  <string name="mailbox_name_server_all_unread">Ongelezen</string>
-  <string name="mailbox_name_server_drafts">Concepten</string>
-  <string name="mailbox_name_server_inbox">Postvak IN</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Postvak UIT</string>
-  <string name="mailbox_name_server_sent">Verzonden</string>
-  <string name="mailbox_name_server_starred">Met ster</string>
-  <string name="mailbox_name_server_trash">Prullenbak</string>
   <string name="mailbox_settings_activity_title">Sync. instellingen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Sync. instellingen(%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail sync van</string>
@@ -663,7 +652,6 @@ Cc: %4$s
   <string name="mibill_privacy_policy_description">Laat Mi Wallet analyseren en uw facturen automatisch beheren. Deze functie wordt standaard uitgeschakeld voor werkgerelateerde e-mailadressen.</string>
   <string name="mibill_privacy_policy_link">"Door deze functie te gebruiken ga akkoord met onze "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Algemene voorwaarden&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Rekeningen automatisch beheren</string>
-    <string name="mock_content_provider">Melden Content Provider</string>
   <string name="more_atts_remaining">%1$d meer overgebleven</string>
   <string name="more_atts_total">%1$d bijlagen</string>
   <string name="more_context">Meer</string>
@@ -874,12 +862,8 @@ Cc: %4$s
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="replyto_heading">"Antwoord: "</string>
-    <string name="report">Rapporteren</string>
+  <string name="report">Rapporteren</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">Dit bericht is goed.</string>
-  <string name="report_rendering_problem">Ziet er goed uit</string>
-  <string name="report_rendering_problem_desc">Dit bericht is fout</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Bestand is te groot</string>
   <string name="require_manual_sync_message">Synchronisatie voor dit account is uitgeschakeld tijdens roaming.</string>
