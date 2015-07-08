@@ -17,6 +17,7 @@
   <string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+  <string name="account_cache_provider">Account cache provider</string>
   <string name="account_duplicate_dlg_message_fmt">U gebruikt deze gebruikersnaam al voor het account \"%s\".</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_folder_list_summary_drafts">Concepten</string>
@@ -115,7 +116,8 @@
 <string name="account_setup_failed_dlg_device_locked">Uw adres was geblokkeerd door apparaat vergrendeling</string>
   <string name="account_setup_failed_dlg_edit_details_action">Details bewerken</string>
   <string name="account_setup_failed_dlg_server_message">Kan niet verbinden met de server.</string>
-  <string name="account_setup_failed_dlg_server_message_fmt">Kan niet verbinden met de server(%s)"</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">Kan niet verbinden met de server
+(%s)"</string>
   <string name="account_setup_failed_dlg_title">Kon account niet aanmaken</string>
   <string name="account_setup_failed_ioerror">Kan geen verbinding met de server maken.</string>
   <string name="account_setup_failed_protocol_unsupported">U heeft een onjuist serveradres ingevoerd of de server vereist een protocolversie die niet door e-mail wordt ondersteund.</string>
@@ -180,7 +182,7 @@
   <string name="account_setup_outgoing_require_login_label">Aanmelding vereisen</string>
   <string name="account_setup_outgoing_security_label">Beveiligingstype</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP server</string>
-  <string name="account_setup_outgoing_title">Accountinstellingen</string>
+  <string name="account_setup_outgoing_title">Account instellen</string>
   <string name="account_setup_outgoing_username_label">Gebruikersnaam</string>
   <string name="account_setup_security_policies_required_fmt">De server %s vereist dat u de server toestemming geeft bepaalde beveiligingsfuncties van uw Android apparaat extern te bedienen. Wilt u het instellen van dit account voltooien?</string>
   <string name="account_setup_security_required_title">Extern beveiligingsbeheer</string>
@@ -257,7 +259,7 @@
   <string name="auto_advance_help_title">Na het verwijderen van een bericht, bekijk…</string>
   <string name="auto_advance_label">Bericht verwijderingsdebiet</string>
   <string name="auto_advance_summary">Kies naar welk bericht je wilt scrollen nadat een bericht is verwijderd</string>
-  <string name="auto_sync_off">Automatische synchronisatie is uitgeschakeld.</string>
+  <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">De feedback is leeg, voer feedback in!</string>
@@ -288,7 +290,7 @@
   <string name="chat_item_msg_people_unit">Personen</string>
   <string name="chat_item_msg_user_etc">…</string>
   <string name="chat_item_msg_user_saying">Zegen:</string>
-  <string name="chat_type_name">Chat</string>
+  <string name="chat_type_name">Conversaties</string>
   <string name="chat_view_description">Bekijk e-mail discussies als conversatie bubbels</string>
   <string name="chat_view_quote_text">-----Geciteerd Tekst-----</string>
   <string name="chat_view_retract_quote_text">---Verberg Geciteerd Tekst---</string>
@@ -303,6 +305,8 @@
   <string name="click_download_all_content">[Tik op om inhoud te downloaden]</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
+  <string name="compose">Opstellen</string>
+  <string name="compose_help_context">opstellen</string>
   <string name="compose_send">Verzenden</string>
   <string name="compose_sent">Verzonden</string>
   <string name="confirm">Bevestigen</string>
@@ -415,10 +419,11 @@
   <string name="download_show_image">Download en geef afbeelding weer</string>
   <string name="downloading_message_body">Downloaden…</string>
   <string name="draft_count_format"> (%1$s)</string>
-  <string name="drawer_close">Roots sluiten</string>
-  <string name="drawer_open">Roots openen</string>
+  <string name="drawer_close">Navigatie lader sluiten</string>
+  <string name="drawer_open">Navigatie lader openen</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
+  <string name="eas_template">domein\\gebruiker</string>
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
@@ -545,11 +550,12 @@
   <string name="loading_from_remote">Zoeken…</string>
   <string name="local_search">Lokaal zoeken</string>
   <string name="local_search_result">%s gevonden resultaten in gesync. berichten.</string>
-  <string name="login">Login</string>
+  <string name="login">Aanmelden</string>
   <string name="login_failed_ticker">%s: aanmelden mislukt.</string>
   <string name="login_failed_title">Kan niet inloggen</string>
   <string name="long_press_to_select_tip">"Blijf aanraken om één gesprek te selecteren en raak aan om meer te selecteren."</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
+  <string name="mail">E-mail</string>
   <string name="mail_body_turncated">Deze e-mail is te groot om te laden, kan slechts een deel weergeven, probeer later op de PC</string>
   <string name="mail_header_downloading_message_body">Downloaden…</string>
   <string name="mail_header_message_body_auto_download_complete">E-mail inhoud gedownload met Wi-Fi.</string>
@@ -565,6 +571,14 @@
   <string name="mailbox_name_display_starred">Met ster</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
+  <string name="mailbox_name_server_all_unread">Ongelezen</string>
+  <string name="mailbox_name_server_drafts">Concepten</string>
+  <string name="mailbox_name_server_inbox">Postvak IN</string>
+  <string name="mailbox_name_server_junk">Junk</string>
+  <string name="mailbox_name_server_outbox">Postvak UIT</string>
+  <string name="mailbox_name_server_sent">Verzonden</string>
+  <string name="mailbox_name_server_starred">Met ster</string>
+  <string name="mailbox_name_server_trash">Prullenbak</string>
   <string name="mailbox_settings_activity_title">Sync. instellingen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Sync. instellingen(%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail sync van</string>
@@ -642,15 +656,16 @@ Cc: %4$s
   <string name="message_invite_tentative">Misschien</string>
   <string name="message_invite_title">Agenda uitnodiging</string>
   <string name="message_saved">Bericht opgeslagen als concept.</string>
-  <string name="message_type_name">Bericht</string>
+  <string name="message_type_name">Berichten</string>
   <string name="message_view_attachment_background_load">Een of meer bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
   <string name="mibill_privacy_policy_button1">Niet akkoord</string>
   <string name="mibill_privacy_policy_button2">Akkoord</string>
   <string name="mibill_privacy_policy_description">Laat Mi Wallet analyseren en uw facturen automatisch beheren. Deze functie wordt standaard uitgeschakeld voor werkgerelateerde e-mailadressen.</string>
   <string name="mibill_privacy_policy_link">"Door deze functie te gebruiken ga akkoord met onze "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Algemene voorwaarden&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Rekeningen automatisch beheren</string>
+    <string name="mock_content_provider">Melden Content Provider</string>
   <string name="more_atts_remaining">%1$d meer overgebleven</string>
-  <string name="more_atts_total">%1$d bijlagen in totaal</string>
+  <string name="more_atts_total">%1$d bijlagen</string>
   <string name="more_context">Meer</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
@@ -859,7 +874,12 @@ Cc: %4$s
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="replyto_heading">"Antwoord: "</string>
+    <string name="report">Rapporteren</string>
   <string name="report_phishing">Phishing melden</string>
+  <string name="report_rendering_improvement">Looks good</string>
+  <string name="report_rendering_improvement_desc">Dit bericht is goed.</string>
+  <string name="report_rendering_problem">Ziet er goed uit</string>
+  <string name="report_rendering_problem_desc">Dit bericht is fout</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Bestand is te groot</string>
   <string name="require_manual_sync_message">Synchronisatie voor dit account is uitgeschakeld tijdens roaming.</string>
@@ -922,7 +942,9 @@ Cc: %4$s
   <string name="show_n_more_folders">Nog %1$s andere mappen weergeven</string>
   <string name="signature">"
 
-%s"</string>
+
+  
+  %s"</string>
   <string name="signin">Inloggen</string>
   <string name="silent_ringtone">Stil</string>
   <string name="single_new_message_notification_big_text">"%1$s
@@ -949,7 +971,7 @@ Cc: %4$s
   <string name="subject_hint">Onderwerp</string>
   <string name="swipe_down_to_refresh">Veeg omlaag om te vernieuwen</string>
   <string name="switch_as_tranditional_view">Klassiek uitzicht</string>
-  <string name="sync_error">Kan niet synchroniseren.</string>
+  <string name="sync_error">Kon niet synchroniseren.</string>
   <string name="sync_error_message">Uw apparaat heeft niet voldoende opslagruimte om te synchroniseren.</string>
   <string name="system_account_create_failed">Kan het account niet aanmaken. Probeer het opnieuw.</string>
   <string name="system_folders_sent_dlg">"Map 'Verzonden items' van uw server selecteren"</string>
