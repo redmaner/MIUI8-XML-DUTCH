@@ -40,8 +40,9 @@
   <string name="dialog_title_queued_body">Bestand in wachtrij</string>
   <string name="disable">Uitschakelen</string>
   <string name="display_expire_netiv1">Maand eigenaar</string>
-  <string name="doc_filter">DOCUMENT</string>
-  <string name="download_complete">Gedownload</string>
+  <string name="doc_filter">Document</string>
+  <string name="download">Downloads</string>
+  <string name="download_complete">Voltooid</string>
   <string name="download_error">Mislukt</string>
   <string name="download_error_insufficient_space">Onvoldoende ruimte</string>
   <string name="download_filesize_unknown">Onbekend</string>
@@ -72,6 +73,8 @@
   <string name="download_title_sorted_by_size">Downloads: op grootte</string>
   <string name="download_wait_connect">Wacht op verbinding</string>
   <string name="download_when_network_connected">Download via het mobiele netwerk</string>
+  <string name="downloaded_empty">Geen gedownloade inhoud</string>
+  <string name="downloading_empty">Geen downloading inhoud</string>
   <string name="downloads_operating">Bezig…</string>
   <string name="dredge_xunlei_account">Opening of the Xunlei member</string>
   <string name="editmode_menu_delete">Verwijder</string>
@@ -85,7 +88,7 @@
   <string name="high_speed_channel">Highspeed Kanaal</string>
   <string name="immediately_a_renewal">Onmiddellijke vernieuwing</string>
   <string name="keep_queued_download">Houden</string>
-  <string name="media_filter">MEDIA</string>
+  <string name="media_filter">Media</string>
   <string name="member_cost">Account jaarlijkse betaling</string>
   <string name="menu_all_task_pause">Pauseer alle</string>
   <string name="menu_all_task_start">Start alle</string>
@@ -102,8 +105,8 @@
   <string name="open_download">Open</string>
   <string name="open_xunlei_speed_service">Start Xunlei Highspeed service</string>
   <string name="original_price">(Originele prijs)</string>
-  <string name="other_filter">OVERIGE</string>
-  <string name="package_filter">PAKKET</string>
+  <string name="other_filter">Overige</string>
+  <string name="package_filter">Pakket</string>
   <string name="pause_download">Pauze</string>
   <string name="paused_by_app">Handmatig gepauseerd</string>
   <string name="paused_insufficient_space">Wachten op ruimte</string>
@@ -129,7 +132,7 @@
   <string name="recommend_installing">Installeren…</string>
   <string name="recommend_loading">Laden…</string>
   <string name="recommend_open">Openen</string>
-  <string name="recommend_other_downloads">Populair</string>
+  <string name="recommend_other_downloads">Ook gedownload</string>
   <string name="recommend_paused">Gepauzeerd</string>
   <string name="recommend_prepare">Wachten…</string>
   <string name="recommend_show_other_downloads">Weergeven populaire</string>
@@ -141,6 +144,7 @@
   <string name="select_all">Alles selecteren</string>
   <string name="select_operation_items">Selecteer bedieningsitems</string>
   <string name="selected_count">%1$d van %2$d geselecteerd</string>
+  <string name="show_more">Meer(%s)</string>
   <string name="toast_xunlei_engine_open">Xunlei download versneller ingeschakeld</string>
   <string name="turn_off_xunlei_message">Je kan langzamere download snelheden ervaren.</string>
   <string name="turn_off_xunlei_tips">Xunlei download versnelling is uitgeschakeld</string>

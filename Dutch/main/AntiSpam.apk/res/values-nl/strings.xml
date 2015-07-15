@@ -132,10 +132,13 @@
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Tussenpersoon</string>
   <string name="mark_agent_block">Gemarkeerd als tussenpersoon</string>
+  <string name="mark_agent_time_setting">Meer dan gewoonlijk gerapporteerde geblokkeerde nummers van telemarketeers</string>
   <string name="mark_fraud">Frauduleus</string>
   <string name="mark_fraud_block">Gemarkeerd als bedrieger</string>
+  <string name="mark_fraud_time_setting">Meer dan gewoonlijk geblokkeerde nummers gerapporteerde als scams</string>
   <string name="mark_harass">Lastigvallen</string>
   <string name="mark_harass_block">Rapporteerd als lastigvallen</string>
+  <string name="mark_harass_time_setting">Meer dan gewoonlijk geblokkeerde nummers gerapporteerde als lastigvallen</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_fraud">Frauduleus</string>
   <string name="mark_number_harass">Lastigvallen</string>
@@ -148,6 +151,9 @@
   <string name="mark_number_setting_guide_title">Blokkeer gerapporteerde nummers</string>
   <string name="mark_sell">Sales</string>
   <string name="mark_sell_block">Gemarkeerd als verkoop</string>
+  <string name="mark_sell_time_setting">Meer dan gewoonlijk geblokkeerde nummers gerapporteerde als sales</string>
+  <string name="mark_time_setting_dialog_title">Rapporteer tijds instellingen</string>
+  <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d andere gebruikers gemarkeerd als "</string>
   <string name="marked_by_user">"Jij bent gemarkeerd als "</string>
   <string name="menu_add">Toevoegen</string>
@@ -184,6 +190,8 @@
   <string name="quiet_mode">Alle storingen dempen</string>
   <string name="quiet_off_mode">Storingen altijd toestaan</string>
   <string name="read_all_sms">Markeren als ongelezen</string>
+  <string name="repeated_marked_number_summary">Tweede oproep van dezelfde persoon binnen 3 minuten niet blokkeren.</string>
+  <string name="repeated_marked_number_title">Herhaaldelijk gemelde oproepen niet blokkeren</string>
   <string name="report">Rapporteer</string>
   <string name="report_error">Kon bericht niet melden</string>
   <string name="report_error_not_net">Kan niet verbinden met netwerk</string>

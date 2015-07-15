@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">App is niet geïnstalleerd op uw apparaat</string>
+  <string name="app_already_exist">App bestaat reeds</string>
   <string name="app_being_backup_message">App wordt geback-upt</string>
   <string name="app_being_restored_message">App wordt hersteld</string>
   <string name="app_category_books">Boeken</string>
@@ -108,6 +109,7 @@
   <string name="gadget_photo_24_label">Afbeelding 4x2</string>
   <string name="gadget_photo_44_label">Afbeelding 4x4</string>
   <string name="gadget_photo_label">Afbeelding</string>
+  <string name="gadget_power_clear_button_label">Super Cleaner</string>
   <string name="gadget_search_label">Zoeken</string>
   <string name="gadget_weather_app_not_installed">"Aanraken om MIUI's app opnieuw te downloaden"</string>
   <string name="gadget_weather_aqi_title">"Lucht kwaliteit: "</string>
@@ -118,7 +120,7 @@
   <string name="gadget_weather_loading">Geen gegevens</string>
   <string name="gadget_weather_low_temp">Lage temperatuur</string>
   <string name="gadget_weather_theme_type">Gadget type</string>
-  <string name="gadget_weather_time_format">EEE MM/d</string>
+  <string name="gadget_weather_time_format">EEEE, MMMM dd</string>
   <string name="gadget_weather_title">Weer</string>
   <string name="gadget_weather_title_14">Weer</string>
   <string name="gadget_weather_title_24">Weer</string>
@@ -187,6 +189,11 @@
   <string name="preferences_general_title">Standaard instellingen</string>
   <string name="preferences_title">Launcher instellingen</string>
   <string name="process"/>
+  <string name="recommend_apps_default_title">Leeg</string>
+  <string name="recommend_apps_notice">Aanbevolen apps</string>
+  <string name="recommend_apps_switch_summary">Aanbevolen apps aan de onderkant van het scherm weergeven.</string>
+  <string name="recommend_apps_switch_title">Aanbevolen apps</string>
+  <string name="recommend_apps_tips">Deze functie moet verbonden zijn met internet om normaal te werken. Om deze functie uit te schakelen, raakt de naam van deze map aan.</string>
   <string name="reset_scene_prompt">Dit scherm wordt hersteld naar de standaard layout.</string>
   <string name="scroll_tip_format_when_announce_accessibility">pagina %1$d, %2$d apps</string>
   <string name="select_all">Alle selecteren</string>

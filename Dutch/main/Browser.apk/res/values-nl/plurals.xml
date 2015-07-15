@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
-    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Laaste %d dagen</item>
-		<item quantity="one">Gisteren</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d of %2$d</item>
         <item quantity="one">1 overeenkomst</item>
+    </plurals>
+	    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d overeenkomsten</item>
