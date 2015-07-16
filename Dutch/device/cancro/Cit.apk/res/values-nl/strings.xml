@@ -10,7 +10,35 @@
   <string name="cit_ac_charger_out">AC oplader verwijderd</string>
   <string name="cit_accelermeter_sensor_check_summary">"Beweeg het apparaat snel in een richting. X, Y, Z coördinaten worden hieronder weergegeven. (Wanneer de telefoon in beweging is: X staat voor links / rechts, y staat voor voor / achter, Z voor op en neer).
 Voordat u het apparaat kalibreert, plaatst u deze op een vlakke ondergrond. "</string>
-  <string name="cit_accelermeter_sensor_check_title">versnellingsmeter</string>
+  <string name="cit_accelermeter_sensor_check_title">Versnellingsmeter</string>
+  <string name="cit_aud_spkcal">Kalibreer</string>
+  <string name="cit_audio_cali_done">Kalibratie voltooid!</string>
+  <string name="cit_audio_cali_failed">Kalibratie mislukt, probeer opnieuw!</string>
+  <string name="cit_audio_cali_file_existed">Muziek bestand bestaat niet, kan niet kalibreren!</string>
+  <string name="cit_audio_cali_playing">Druk op knop om te kalibreren</string>
+  <string name="cit_audio_cali_summary">Kalibreer Speaker PA</string>
+  <string name="cit_audio_cali_title">Speaker PA Kalibratie Test</string>
+  <string name="cit_audio_cali_valueC">Teller:</string>
+  <string name="cit_audio_cali_valueF0">F0:</string>
+  <string name="cit_audio_cali_valueR">Ref_diff:</string>
+  <string name="cit_audio_cali_valueT">Temp_acc:</string>
+  <string name="cit_audio_calibrating">Bezig met kalibreren…</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Achterste mic speaker feedback test</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Hoofd mic speaker feedback test</string>
+  <string name="cit_audio_lb_phonecall_title">Bel simulatie test</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Achterste microphone naar speaker feedback test. 
+
+Draai de apparaat, Spreek in achterste microphone , je zou je stem in speaker moeten horen"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Hoofd microphone naar receiver feedback test.
+
+Houd de apparaat vast zoals je zou bellen, spreek in de hoofd microphone, je zou je stem in reveiver moeten horen"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Simulatie bel test.
+
+Houd de apparaat vast zoals je zou bellen, spreek in de hoofd, je zou je stem in reveiver moeten horen. Test in stille omgeving doen"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Bovenste microphone naar speaker feedback test.
+
+Draai het apparaat, Spreek in de bovenste microphone , je zou je stem in speaker moeten horen"</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Bovenste mic speaker feedback test</string>
   <string name="cit_audio_loopback_check_one_title">Belangrijkste microfoon linker luidspreker feedback-test</string>
   <string name="cit_audio_loopback_check_summary_first">"Belangrijkste microfoon linker luidspreker feedback test.
 
@@ -46,11 +74,15 @@ Draai het apparaat zodat de hoofdtelefoon ingang naar beneden is gericht. Spreek
   <string name="cit_button_light_on">Knoppen lichten aan</string>
   <string name="cit_calibration_fail">Kalibratie mislukt</string>
   <string name="cit_calibration_pass">Kalibratie gelukt</string>
+  <string name="cit_camera_calibration_summary">"Test instructies:
+
+1.Tik op de calibratie knop onderaan om in de camera te komen
+2.Druk op terug om de camera interface te verlaten
+3.Er zal een kalibratie passeer label zijn om aan te geven dat de OIS gekalibreerd is"</string>
   <string name="cit_camera_sdcard_error">"Kan geen foto nemen. SD-kaart is vol."</string>
   <string name="cit_charger_plugin_check_summary">Wanneer USB lader is aangesloten, moet de tekst \ "Opladen via USB / AC \" hieronder worden weergegeven.</string>
   <string name="cit_charger_plugin_check_title">Lader (verbinden)</string>
-  <string name="cit_charger_plugout_check_summary">Als USB-lader wordt losgekoppeld moet de tekst \ "USB / AC-oplader is losgekoppeld \" hieronder 
-  worden weergegeven.</string>
+  <string name="cit_charger_plugout_check_summary">Als USB-lader wordt losgekoppeld moet de tekst \ "USB / AC-oplader is losgekoppeld \" hieronder worden weergegeven.</string>
   <string name="cit_charger_plugout_check_title">Oplader (niet verbonden)</string>
   <string name="cit_charger_waiting_in">Verbind oplader</string>
   <string name="cit_charger_waiting_out">Verwijder de oplader</string>
@@ -83,6 +115,8 @@ Draai het apparaat zodat de hoofdtelefoon ingang naar beneden is gericht. Spreek
   <string name="cit_gps_disabled">"GPS is niet gestart
 
 Raak het scherm aan om de GPS te starten…"</string>
+  <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
+  <string name="cit_gps_location">Locatie: %s</string>
   <string name="cit_gps_satellite_count">Aantal Satellieten: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
@@ -100,8 +134,7 @@ Raak het scherm aan om de GPS te starten…"</string>
   <string name="cit_headset_button_rewind">Terugspoelen</string>
   <string name="cit_headset_button_stop">Stop</string>
   <string name="cit_headset_button_unknown">Onbekend</string>
-  <string name="cit_headset_loopback_check_summary">"Tijdens het dragen van de hoofdtelefoon, sluit haar aan op het apparaat. Spreek in de hoofdtelefoon microfoon (vaak gelegen op het snoer). Je moet je stem in de luidsprekers van de hoofdtelefoon te horen."
-</string>
+  <string name="cit_headset_loopback_check_summary">"Tijdens het dragen van de hoofdtelefoon, sluit haar aan op het apparaat. Spreek in de hoofdtelefoon microfoon (vaak gelegen op het snoer). Je moet je stem in de luidsprekers van de hoofdtelefoon te horen."</string>
   <string name="cit_headset_loopback_check_title">Hoofdtelefoon microfoon feedback test</string>
   <string name="cit_headset_plug_detect_summary">Wanneer een hoofdtelefoon is aangesloten, moet de tekst \ "Headphones ontdekt \" hieronder worden weergegeven.</string>
   <string name="cit_headset_plug_detect_title">Detectie hoofdtelefoon (verbinden)</string>
@@ -123,8 +156,8 @@ Raak het scherm aan om de GPS te starten…"</string>
   <string name="cit_lcdlight_brightness">Achtergrondverlichting</string>
   <string name="cit_lcdlight_brightness_max">MAX</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
-  <string name="cit_leds_check_summary">Achtergrondverlichting, notificatie licht en flitslicht (achter), moet reageren als bijbehorende toets.</string>
-  <string name="cit_leds_check_title">Notificatie licht (LED)</string>
+  <string name="cit_leds_check_summary">Achtergrondverlichting, meldings licht en flitslicht (achter), moet reageren als bijbehorende toets.</string>
+  <string name="cit_leds_check_title">Meldings licht (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC waarde moet hieronder worden weergegeven</string>
   <string name="cit_light_sensor_check_title">Licht sensor</string>
   <string name="cit_magnetic_sensor_check_summary">Waarden voor X, Y, Z coördinaten moeten  hieronder verschijnen</string>
@@ -139,11 +172,13 @@ Raak het scherm aan om de GPS te starten…"</string>
   <string name="cit_main_camera_check_title">Achterste Camera</string>
   <string name="cit_name">Hardware testen</string>
   <string name="cit_not_available">Deze test is niet beschikbaar op deze versie van MIUI</string>
-  <string name="cit_notificationlight">Notificatie licht</string>
-  <string name="cit_notificationlight_off">Notificatie licht uit</string>
-  <string name="cit_notificationlight_on">Notificatie licht aan</string>
+  <string name="cit_notificationlight">Meldings licht</string>
+  <string name="cit_notificationlight_off">Meldings licht uit</string>
+  <string name="cit_notificationlight_on">Meldings licht aan</string>
   <string name="cit_otg_not_supported">Dit apparaat biedt geen ondersteuning OTG testen</string>
   <string name="cit_pass">Overslaan</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Bevestig dat er een bestand is opgeslagen op de SD kaart met de naam \"music.mp3\". Het Bestand \"music.mp3\" zou moeten worden afgespeeld via HIFI pad van het apparaat wanneer u deze test opent."</string>
+  <string name="cit_play_sd_mp3_hifi_title">Afspelen MP3(HIFI) opgeslagen op SD kaart</string>
   <string name="cit_play_sd_mp3_summary">"&gt;"Controleer of er een bestand met de naam \" MUSIC.mp3 \ "opgeslagen is op de SD-kaart. Het bestand \" MUSIC.mp3 \" moet worden afgespeeld via de externe luidsprekers van het apparaat \  als u deze test opent."</string>
   <string name="cit_play_sd_mp3_title">Speel MP3 opgeslagen op SD-kaart</string>
   <string name="cit_playing_sd_mp3">Afspelen van de muziek.mp3…</string>
@@ -200,6 +235,8 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD-kaart, tikt u 
   <string name="cit_tool_bluetooth_on">Bluetooth inschakelen</string>
   <string name="cit_tool_bluetooth_tx_h">Start de Bluetooth BR/EDR 2.480GHz Freq Test Modus</string>
   <string name="cit_tool_bluetooth_tx_l">Start de Bluetooth BR/EDR 2.402GHz Freq Test Modus</string>
+  <string name="cit_tool_cal_camera">Camera Kalibratie Tool</string>
+  <string name="cit_tool_enable_3A_log">Inschakelen 3A log Switch</string>
   <string name="cit_tool_log">Logs ophalen</string>
   <string name="cit_tool_log_bugreport">Bug report</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -214,10 +251,13 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD-kaart, tikt u 
   <string name="cit_tool_log_toast_generate_bugreport">Aanmaken bug report… (dit duurt ongeveer 1 minuut)</string>
   <string name="cit_tool_modem">MODEM test tools</string>
   <string name="cit_tool_modem_bugreport">Forceer MODEM Coredump</string>
-  <string name="cit_tool_modem_cta_test">Open/Sluit conformiteitsprotocol test</string>
+  <string name="cit_tool_modem_exit_ftm">Sluit FTM modus</string>
   <string name="cit_tool_modem_offline_log">Open/Sluit Offline Log</string>
-  <string name="cit_tool_modem_pcap_switch">Open/Sluit  DATA output</string>
-  <string name="cit_tool_modem_pcm_switch">Open/Sluit  PCM output</string>
+  <string name="cit_tool_nfc">NFC test tools</string>
+  <string name="cit_tool_nfc_st">Nfc ST:</string>
+  <string name="cit_tool_nfc_st_confreq">freq:</string>
+  <string name="cit_tool_nfc_st_run">Start</string>
+  <string name="cit_tool_nfc_st_stop">Stop</string>
   <string name="cit_tool_wifi">Wi-Fi test tool</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
@@ -283,7 +323,15 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD-kaart, tikt u 
   <string name="cit_wifi_ap_scan_check_summary">Hieronder is de Wi-Fi AP info van de gedetecteerde apparaten in de buurt . Bevestigen dat de informatie groen gemarkeerd correct is</string>
   <string name="cit_wifi_ap_scan_check_title">Wi-Fi AP scan</string>
   <string name="cit_wifi_ap_scan_retry">Opnieuw scannen…</string>
-  <string name="cit_wifi_ap_scanning">Scannen……</string>
+  <string name="cit_wifi_ap_scanning">Scannen…</string>
   <string name="cit_wifi_fail_to_scan">Kon niet scannen naar netwerken</string>
   <string name="cit_wifi_state_refresh">Vernieuw</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Voorste microphone naar speaker feedback test.
+
+Draai het apparaat, Spreek in de microphone op de hoogte van de receiver, je zou je stem moeten horen in de speaker"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Bovenste microphone naar speaker feedback test. 
+
+Draai het apparaat, Spreek in de bovenste microphone , je zou je stem moeten horen in de speaker"</string>
+  <string name="cit_x5_audio_lb_topmic_to_speaker_title">Bovenste mic speaker feedback test</string>
 </resources>
