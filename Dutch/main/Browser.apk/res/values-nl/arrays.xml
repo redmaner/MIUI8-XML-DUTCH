@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pref_homepage_values">
-        <item>miui_home</item>
-        <item>Andere</item>
-    </string-array>
     <string-array name="menu_theme_setting">
         <item>Wit</item>
         <item>Geel</item>
@@ -12,9 +8,60 @@
         <item>Groen</item>
         <item>Blauw</item>
     </string-array>
+	<string-array name="pref_content_plugins_choices">
+        <item>Altijd aan</item>
+        <item>Eerst vragen</item>
+        <item>Uit</item>
+    </string-array>
+	<string-array name="pref_text_size_choices">
+        <item>Extra Klein</item>
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Extra Groot</item>
+    </string-array>
+	<string-array name="pref_data_preload_choices">
+        <item>Nooit</item>
+        <item>Enkel bij Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+	<string-array name="pref_link_prefetch_choices">
+        <item>Nooit</item>
+        <item>Enkel bij Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+	<string-array name="pref_video_preload_choices">
+        <item>Nooit</item>
+        <item>Enkel bij Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Standaard start Pagina</item>
         <item>Aangepast</item>
+    </string-array>
+	<string-array name="pref_volume_key_choices">
+        <item>Vorige pagina/Volgende pagina</item>
+        <item>Vorige tab/Volgende tab</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Pagina vooruit/terug</item>
+        <item>Verander van scherm</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Klein</item>
+        <item>Medium</item>
+        <item>Groot</item>
+    </string-array>
+	<string-array name="pref_images_preload_choices">
+        <item>Nooit</item>
+        <item>Enkel bij Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Groter</item>
+        <item>Groot</item>
+        <item>Normaal</item>
+        <item>Klein</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Extra Klein</item>
