@@ -11,7 +11,6 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">2 dagen geleden bijgewerkt</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Gisteren bijgewerkt om %s</string>
   <string name="adjust_traffic_data">Dataverbruik instellen</string>
-  <string name="alter_dialog_message">Gebruik van mobile data bij internationaal roamen kan leiden tot extra kosten van uw provider. Laat apps op lijst uitzonderingen toe om verbinding te maken tot dataservices bij internationaal roamen?</string>
   <string name="apn_exception_summary">"Test  configuratie's van providers Netwerk toegangspunt"</string>
   <string name="apn_exception_title">Controleer APN configuraties</string>
   <string name="app_detail">Details</string>
@@ -34,6 +33,7 @@
   <string name="connect_internet_by_usbshare">Deel internet via USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="current_network_state_not_need_diagnose">Normale internet verbinding</string>
+  <string name="daily_limit_and_lock_screen">Dagelijks data verbruik &amp; meldingen</string>
   <string name="daily_limit_network_available_body">Raak aan om gebruiksgegevens statistieken te bekijken.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tik om Mobiele data in te schakelen.</string>
   <string name="daily_limit_over_message">Je hebt je dagelijkse datalimiet overschreden.</string>
@@ -136,12 +136,15 @@
   <string name="list_empty_text">Leeg</string>
   <string name="load_fail">Kon het niet laden</string>
   <string name="local_ip_exception_summary">Kon openbaar IP-adres niet verkrijgen. Om dit probleem aan MIUI melden, gaat u naar de Rapporteer Bug app en stuur een log van uw toestel.</string>
-  <string name="lock_screen_setting_summary">Melding weergeven wanneer meer dan 100KB wordt verbruikt in minder dan 2 dagen</string>
- <string name="lock_screen_traffic_guide_notification_summary">Tik om data gebruik te beheren.</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Tik om data gebruik te beheren.</string>
   <string name="lock_screen_traffic_guide_notification_title">%s gebruikt in schermvergendeling</string>
   <string name="lock_screen_traffic_notify_body">Vergrendeld voor %2$s op %1$s, data verbruikt %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Koop mobiele data aan</string>
-  <string name="lock_screen_traffic_warn_title">Vergrendelscherm melding</string>
+  <string name="lock_screen_traffic_warn_title">Vergrendelscherm meldingen</string>
+  <string name="lock_screen_warning_category">Vergrendelscherm meldingen</string>
+  <string name="lock_screen_warning_switch_summary">Geef een waarschuwing op het vergrendelscherm weer wanneer het dataverbruik een bepaald bedrag overschrijdt</string>
+  <string name="lock_screen_warning_switch_title">Geef waarschuwingen op het vergrendelscherm</string>
+  <string name="lock_screen_warning_value">Data verbruiks bedrag waarschuwing </string>
   <string name="main_alert_message_month_limit_error">Het datalimiet u hebt instelt is fout</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_no_mobile_package">Mobiel datalimiet is ingesteld</string>
@@ -234,6 +237,12 @@
  2. Als u twee SIM kaarten gebruikt, probeer dan over te schakelen naar de andere kaart en kijk of je in staat bent om te verbinden.
  
  3. Maak er u zeker van dat uw SIM kaart en het toestel SIM slot niet beschadigd zijn. Controleer of de SIM kaart die u gebruikt goed in de apparaat SIM lade is geplaatst."</string>
+  <string name="network_speed_for_apps_close">Stoppen forceren</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Deze app geforceerd stoppen?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">Kan systeem apps niet geforceerd stoppen</string>
+  <string name="network_speed_for_apps_others">Andere</string>
+  <string name="network_speed_for_apps_title">Verbindings snelheid details</string>
+  <string name="network_speed_for_apps_total">Verbindings snelheid</string>
   <string name="networkchanged_exception_summary">Netwerk verbinding is veranderd. Opnieuw testen.</string>
   <string name="networkchanged_exception_title">Verbinding is veranderd</string>
   <string name="no_network_btn">Probeer opnieuw</string>
@@ -258,6 +267,9 @@
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="operator_setted_error_dialog_message">De SIM kaart die je gebruikt is van %1$s. Deze is anders dan de locatie die manueel hebt ingesteld (%2$s). Wijzig SIM locatie naar %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Tik om SIM locatie te wijzigen.</string>
+  <string name="operator_setted_error_notify_title">SIM kaart fout</string> 
   <string name="other_exception_summary">U hebt geen internet verbinding</string>
   <string name="other_exception_title">Controleren op andere problemen</string>
   <string name="pay_charge">Koop extra data</string>
@@ -275,9 +287,7 @@
   <string name="pref_add_traffic_pkg">Extra gekochte data</string>
   <string name="pref_adjust_data_usage">Provider bericht template</string>
   <string name="pref_adjust_traffic_data">Dataverbruik instellen</string>
-  <string name="pref_allow_connect_network_summary">Gebruikt mobiele data bij internationaal roamen</string>
   <string name="pref_allow_connect_network_title">Internationale data roaming</string>
-  <string name="pref_allow_connect_network_whitelist_summary">Apps op de witte lijst toelaten om mobiele data te gebruiken bij internationaal roamen</string>
   <string name="pref_allow_connect_network_whitelist_title">Apps uit de witte lijst toestaan om mobiele data te gebruiken</string>
   <string name="pref_app_traffic_managent">Datavebruik beperken per app</string>
   <string name="pref_auto_adjust_settings">Autosync. dataverbruik stats instellingen</string>
@@ -315,6 +325,7 @@
   <string name="pref_package_traffic_settings">Mobiel datalimiet</string>
   <string name="pref_pkg_begin_date">Gebruik cyclus reset datum</string>
   <string name="pref_roaming_daily_limit_setting">Dagelijks datalimiet voor roaming</string>
+  <string name="pref_roaming_setting_gategory">Data roaming</string>
   <string name="pref_setting_operators_message">Bericht aanpassen dat uw apparaat verzend naar uw provider om uw dataverbruik stats te sync.</string>
   <string name="pref_show_mobile_traffic">Als u uw telefoon ontgrendelt, toon dataverbruik stats van de periode dat het apparaat standby was(moet langer zijn dan 5 minuten)</string>
   <string name="pref_special_traffic_exceed_limit">Waarschuw mij als datalimiet bereikt is</string>
@@ -473,6 +484,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_button_sorted_chose_simcard">Sorteren op</string>
   <string name="traffic_saving_button_start">Inschakelen</string>
   <string name="traffic_saving_button_stop">Uitschakelen</string>
+  <string name="traffic_saving_can_optimized">Optimaliseer</string>
   <string name="traffic_saving_history_title">Geschiedenis</string>
   <string name="traffic_saving_history_total_money">Totaal bespaard</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -514,7 +526,6 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_whitelist_no_app">Geen apps</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
-  <string name="traffic_setting_daily_limit_summary">Stel dataverbruik in</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Pas abonnement en dataverbruik aan</string>
   <string name="traffic_setting_extra_pkg_summary">Pas abonnement en dataverbruik aan</string>
   <string name="traffic_setting_extra_pkg_title">Extra instellingen</string>
@@ -536,7 +547,6 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_setting_fragment_title">Dataverbruik vraag instellingen</string>
   <string name="traffic_setting_open">Aan</string>
   <string name="traffic_setting_step_num">Instellingen Data plan</string>
-  <string name="traffic_setting_update_template_falure">Kan niet verbinden met netwerk</string>
   <string name="traffic_warning_purchase_title">Mobiele data verbruiks waarschuwing</string>
   <string name="unable_connect_internet">Geen internet verbinding</string>
   <string name="usage_sorted_activity_lable">Dataverbruik</string>

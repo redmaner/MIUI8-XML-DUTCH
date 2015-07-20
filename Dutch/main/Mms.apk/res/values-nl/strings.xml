@@ -247,7 +247,7 @@
   <string name="message_too_big_for_video">Dit bericht is te groot om er een video aan te koppelen.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Ik</string>
-  <string name="mipub_messaging_entry_title">Mi Berichten</string>
+  <string name="mipub_messaging_entry_title">Mi Bericht</string>
   <string name="mms">MMS</string>
   <string name="move_down">Naar beneden</string>
   <string name="move_up">Naar boven</string>
@@ -438,7 +438,9 @@
   <string name="search_setting_description">Tekst in uw berichten</string>
   <string name="search_show_more_results">Meer weergeven</string>
   <string name="secs">Seconden</string>
-  <string name="security_alert_desc">"De afzender staat niet in je contacten. "&lt;u&gt;&lt;font color="red"&gt;Rapporteer dit nummer&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"De afzender staat niet in je contacten.
+"&lt;/font&gt;</string>
+  <string name="security_alert_desc_highlight">Rapporteer dit nummer</string>
   <string name="security_alert_dialog_desc">Verzend dit nummer (%s) en het bericht door het te sturen naar Xiaomi voor beoordeling.</string>
   <string name="security_alert_dialog_title">Rapporteren</string>
   <string name="select_audio">Audio selecteren</string>
