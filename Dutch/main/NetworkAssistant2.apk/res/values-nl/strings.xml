@@ -2,7 +2,7 @@
 <resources>
   <string name="add_miservice_dialog_content">"%s vereist dat je MIUI Service framework toevoegd aan de lijst met uitzonderingen. U kunt meldingen ontvangen van MIUI ingebouwde apps en andere apps van derden."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
-  <string name="add_to_whitelist_button">Witte lijst beheren</string>
+  <string name="add_to_whitelist_button">Uitzonderingen beheren</string>
   <string name="add_white_list">Toevoegen</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Meer dan 1 maand geleden bijgewerkt</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Meer dan 1 maand geleden bijgewerkt</string>
@@ -41,7 +41,7 @@
   <string name="data_network_blocked_notification_title">Geen internet verbinding</string>
   <string name="data_usage_correction_timeout_body">Aanraken om handmatig bij te werken.</string>
   <string name="data_usage_correction_timeout_title">Dataverbruik synchronisatie gepauzeerd</string>
-  <string name="data_usage_disabled_dialog">U heeft uw datalimiet bereikt. Gebruik van data over uw datalimiet kan extra kosten opleveren.</string>
+  <string name="data_usage_disabled_dialog">Je dataverbruik limiet is bereikt. Als je over je limiet gaat, kan uw provider extra kosten aanrekenen.</string>
   <string name="data_usage_disabled_dialog_enable">Data inschakelen</string>
   <string name="data_usage_leisure_warning_body">Tik om datavebruiksgegevens weer te geven.</string>
   <string name="data_usage_leisure_warning_title">Daluren datavebruikslimiet</string>
@@ -71,7 +71,7 @@
   <string name="datausage_purchase_order_history">Geschiedenis</string>
   <string name="datausage_purchase_ordering">Kopen…</string>
   <string name="datausage_purchase_pay_captcha_hint">De ontvangen code invoeren</string>
-  <string name="datausage_purchase_pay_captcha_tips">Nadat u uw verificatiecode ontvangen, voer het in in het kader hierboven en tik \"Kopen\" om uw aankoop te voltooien. Let op de code is maar 10 minuten geldig .</string>
+  <string name="datausage_purchase_pay_captcha_tips">Nadat u uw verificatiecode ontvangen, voer het in in het kader hierboven en tik u op Kopen om uw aankoop te voltooien. Let op de code is maar 10 minuten geldig .</string>
   <string name="datausage_purchase_pay_confirm">Kopen</string>
   <string name="datausage_purchase_pay_hint">Om te annuleren, bel %s</string>
   <string name="datausage_purchase_pkglist_networkerror">Netwerk verbinding mislukt. Controleer uw verbinding en probeer het opnieuw.</string>
@@ -87,9 +87,9 @@
   <string name="declaration_dialog_msg">Deze functie kan u helpen om uw verbruik te volgen, maar is niet gegarandeerd om extra kosten te voorkomen. Voor het beste resultaat stel een limiet in.</string>
   <string name="deleted_apps">Verwijderde Apps</string>
   <string name="detail_app_button">App info</string>
-  <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u internationaal roamt, kunnen apps alleen die toegevoegd zijn aan de witte lijst mobiele data gebruiken."</string>
+  <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u internationaal roamt, kunnen apps alleen die toegevoegd zijn aan uitzonderingen mobiele data gebruiken."</string>
   <string name="dialog_app_roaming_title">"Internationale roaming is niet ingeschakeld voor %1$s"</string>
-  <string name="dialog_roaming_apps_sorted_title">Sort by</string>
+  <string name="dialog_roaming_apps_sorted_title">Sorteren op</string>
   <string name="dialog_roaming_message">Deze app toelaten om mobiele data gebruiken bij het internationaal roamen?</string>
   <string name="dialog_roaming_title">Internationale roaming</string>
   <string name="disable_air_mode">Vliegmodus eerst uitschakelen</string>
@@ -147,7 +147,7 @@
   <string name="lock_screen_warning_value">Data verbruiks bedrag waarschuwing </string>
   <string name="main_alert_message_month_limit_error">Het datalimiet u hebt instelt is fout</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
-  <string name="main_alert_message_no_mobile_package">Mobiel datalimiet is ingesteld</string>
+  <string name="main_alert_message_no_mobile_package">Mobiel datalimiet is foutief</string>
   <string name="main_alert_message_slot_no_data_connection">De SIM kaart ondersteund geen mobiele dataverbinding</string>
   <string name="main_button_idel_traffic">Daluren</string>
   <string name="main_button_normal_traffic">Piekuren</string>
@@ -288,7 +288,7 @@
   <string name="pref_adjust_data_usage">Provider bericht template</string>
   <string name="pref_adjust_traffic_data">Dataverbruik instellen</string>
   <string name="pref_allow_connect_network_title">Internationale data roaming</string>
-  <string name="pref_allow_connect_network_whitelist_title">Apps uit de witte lijst toestaan om mobiele data te gebruiken</string>
+  <string name="pref_allow_connect_network_whitelist_title">Apps uit uitzonderingen toestaan om mobiele data te gebruiken</string>
   <string name="pref_app_traffic_managent">Datavebruik beperken per app</string>
   <string name="pref_auto_adjust_settings">Autosync. dataverbruik stats instellingen</string>
   <string name="pref_auto_adjust_traffic">Autosync. dataverbruik stats</string>
@@ -299,7 +299,7 @@
   <string name="pref_connect_settings_enable_background">Achtergrond data toestaan</string>
   <string name="pref_connect_settings_enable_background_hint">Apps toestaan mobiele data te gebruiken als u de apps niet gebruikt</string>
   <string name="pref_connect_settings_exceed_limit">Dataverbruik beperken</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Dataverbinding verbreken als datalimiet is bereikt</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Dataverbinding uitschakelen als datalimiet is bereikt</string>
   <string name="pref_daily_adjust">Datalimiet instellen</string>
   <string name="pref_daily_traffic">Datalimiet</string>
   <string name="pref_data_usage_ignore_settings">Negeer dataverbruik</string>
@@ -318,7 +318,7 @@
   <string name="pref_month_first_day">Eerste dag van de maand</string>
   <string name="pref_more_traffic_settings">Extra instellingen</string>
   <string name="pref_new_installed_preconfig_title">Standaard instellingen voor nieuwe apps</string>
-  <string name="pref_open_adjust_traffic">Werk uw dataverbruik saldo bij met statistieken van uw provider</string>
+  <string name="pref_open_adjust_traffic">Werk uw dagelijks dataverbruik bij met statistieken van uw provider</string>
   <string name="pref_package_traffic_leisure">%1$s | Daluren: %2$s</string>
   <string name="pref_package_traffic_normal">Piekuren: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Extra: %2$s</string>
@@ -327,7 +327,7 @@
   <string name="pref_roaming_daily_limit_setting">Dagelijks datalimiet voor roaming</string>
   <string name="pref_roaming_setting_gategory">Data roaming</string>
   <string name="pref_setting_operators_message">Bericht aanpassen dat uw apparaat verzend naar uw provider om uw dataverbruik stats te sync.</string>
-  <string name="pref_show_mobile_traffic">Als u uw telefoon ontgrendelt, toon dataverbruik stats van de periode dat het apparaat standby was(moet langer zijn dan 5 minuten)</string>
+  <string name="pref_show_mobile_traffic">Toon dataverbruik statistieken tijdens ontgrendelen, nadat apparaat is vergrendeld voor meer dan 5 minuten</string><string name="pref_show_mobile_traffic">Als u uw telefoon ontgrendelt, toon dataverbruik stats van de periode dat het apparaat standby was(moet langer zijn dan 5 minuten)</string>
   <string name="pref_special_traffic_exceed_limit">Waarschuw mij als datalimiet bereikt is</string>
   <string name="pref_special_traffic_limit_warn">Dataverbruik waarschuwing instellen</string>
   <string name="pref_specified_adjust">Aangepast datalimiet instellen</string>
@@ -356,12 +356,12 @@
   <string name="pref_traffic_saving_whitelist_hint">Het dataverbruik voor geselecteerde apps niet beperken</string>
   <string name="pref_version">Versie %s</string>
   <string name="pref_warning_values">Dataverbruik waarschuwingsniveau</string>
-  <string name="pref_whitelist_setting">Witte lijst beheren</string>
+  <string name="pref_whitelist_setting">Uitzonderingen beheren</string>
   <string name="privacy_declare_dialog_message">"Door het gebruik van deze dienst, gaat u akkoord met Opera's &lt;a href=%s&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
-  <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en carrier details zullen om uw dataverbruik informatie bij te werken worden geüpload naar de servers van Xiaomi.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Deze functie dient apparaat IMEI, telefoonnummer en provider informatie naar de servers van Mi te sturen om dataverbruik statistieken van uw provider te verkrijgen.</string>
-  <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en carrier details zullen worden geüpload naar de servers van Xiaomi om meer info over data inkoop opties te krijgen.</string>
+  <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en provider details zullen geüpload worden naar de servers van Mi om uw dataverbruik info te actualiseren.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Deze functie moet IMEI, telefoonnummer en provider informatie van uw apparaat naar de servers van Mi sturen om de dataverbruik statistieken van uw provider te verkrijgen.</string>
+  <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en provider details zullen worden geüpload naar de servers van Mi om meer informatie over data aankoop opties te verkrijgen.</string>
   <string name="privacy_prompt_upload">Privacy meldingen</string>
   <string name="protocol_exception_title">Netwerk protocol diagnose</string>
   <string name="protocol_loop_back_exception_summary">Openbaar net loop test is mislukt. Om dit probleem aan MIUI melden, gaat u naar de Rappoteer Bug app en stuur een log van uw apparaat.</string>
@@ -381,7 +381,7 @@
   <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
   <string name="roaming_not_start_body">Aanraken om dataroaming instellingen te bekijken.</string>
   <string name="roaming_not_start_title">Internationale roaming</string>
-  <string name="roaming_start_body">Aanraken om dataroaming witte lijst te bekijken.</string>
+  <string name="roaming_start_body">Aanraken om dataroaming van uitzonderingen te bekijken.</string>
   <string name="roaming_start_title">International roaming</string>
   <string name="root">Root toegang</string>
   <string name="sc_allow_network_dialog_message">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
@@ -442,7 +442,7 @@
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Weet u uw datalimiet niet?</string>
-  <string name="tips_message">Als u de details van uw databundel niet kent, dan kunt u deze bekijken door de provider te bellen %2$s (%1$s)."</string>
+  <string name="tips_message">"Om je data plan te bekijken, bel %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Dagelijks gebruik datalimiet</string>
   <string name="traffic_config_alert_body">Uw provider laten zien wat je hebt verbruikt %s Bijwerken dataverbruiks info?</string>
   <string name="traffic_config_alert_body_extra">"
@@ -534,9 +534,9 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_setting_fragment_brand">Merk</string>
   <string name="traffic_setting_fragment_button1_text">Annuleren</string>
   <string name="traffic_setting_fragment_button2_text">Opslaan</string>
-  <string name="traffic_setting_fragment_get_template_falure">Update mislukt, Controleer uw dataverbinding en probeer het opnieuw</string>
+  <string name="traffic_setting_fragment_get_template_falure">Kan niet verbinden met netwerk. Controleer je data verbinding en probeer opnieuw."</string>
   <string name="traffic_setting_fragment_loading_text">Netwerk info ophalen…</string>
-  <string name="traffic_setting_fragment_no_network">Verbinden met internet mislukt</string>
+  <string name="traffic_setting_fragment_no_network">Kan niet verbinden met netwerk</string>
   <string name="traffic_setting_fragment_null">Leeg</string>
   <string name="traffic_setting_fragment_operator">Provider</string>
   <string name="traffic_setting_fragment_send_num">Telefoonnr. provider</string>

@@ -180,14 +180,14 @@
   <string name="download_dialog_file_length_hint_txt">"Bestandsgrootte:"</string>
   <string name="download_dialog_file_length_lessthan1kb">Kleiner dan 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Bestandsgrootte berekenen mislukt</string>
-  <string name="download_dialog_file_length_nolength_txt">Downloaden…</string>
+  <string name="download_dialog_file_length_nolength_txt">Een momentje…</string>
   <string name="download_failed">Download mislukt</string>
   <string name="download_no_sdcard_dlg_msg">Er is een SD kaart nodig om %s te downloaden.</string>
   <string name="download_no_sdcard_dlg_title">Geen SD kaart</string>
   <string name="download_pending">Downloaden starten…</string>
   <string name="download_phone_tip">Apparaat</string>
   <string name="download_router_tip">Download naar Mi Router</string>
-  <string name="download_sdcard_busy_dlg_msg">SD kaart is bezig. Om downloads toe te staan, tik op Uitschakelen USB opslag in meldingen.</string>
+  <string name="download_sdcard_busy_dlg_msg">SD kaart is bezig. Om downloads toe te staan, schakel USB opslag uit in meldings schaduw.</string>
   <string name="download_sdcard_busy_dlg_title">SD kaart niet beschikbaar</string>
   <string name="edit">Bewerken</string>
   <string name="edit_bookmark">Bladwijzer bewerken</string>
@@ -227,8 +227,8 @@
   <string name="geolocation_settings_page_dialog_cancel_button">Annuleren</string>
   <string name="geolocation_settings_page_dialog_message">Locatietoegang voor deze website ongedaan maken?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
-  <string name="geolocation_settings_page_summary_allowed">Deze site geeft momenteel toegang tot uw locatie</string>
-  <string name="geolocation_settings_page_summary_not_allowed">Deze site heeft momenteel geen toegang tot uw locatie</string>
+  <string name="geolocation_settings_page_summary_allowed">Deze site geeft toegang tot uw locatie</string>
+  <string name="geolocation_settings_page_summary_not_allowed">Deze site heeft geen toegang tot uw locatie</string>
   <string name="geolocation_settings_page_title">Locatietoegang blokkeren</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Op startscherm geplaatst</string>
@@ -276,7 +276,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="menu_hv_swap">V/H Scherm</string>
   <string name="menu_nightmode">Nacht modus aan/uit</string>
   <string name="menu_preferences">Instellingen</string>
-  <string name="menu_theme_setting">Thema Instellingen</string>
+  <string name="menu_theme_setting">Thema instellingen</string>
   <string name="miui_autologin_bar_error">Kan niet aanmelden</string>
   <string name="miui_autologin_bar_title">Aanmelden met je Mi Account</string>
   <string name="miui_bookmark_action_bar_add_group_title">Groep toevoegen</string>
@@ -318,7 +318,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="miuishare_title_share">Delen</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="modify_download_path_no_sdcard_dlg_msg">Een USB opslag is vereist om de map aan te passen</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">USB opslag is vereist om de map aan te passen</string>
   <string name="month_picker_dialog_title">Maand instellen</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi verbinding gevonden, wilt u verbinden?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Open Wi-Fi netwerk beschikbaar</string>
@@ -442,7 +442,7 @@ Weet u zeker dat je deze pagina wilt verlaten?"</string>
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Volgende hoofdstukken vereisen inloggen voordat lezen kan worden ingeschakeld.</string>
   <string name="readmode_page_load_error">Pagina laden mislukt, klik vernieuwen om het opnieuw te proberen :(</string>
-  <string name="readmode_page_loading">Laden…</string>
+  <string name="readmode_page_loading">Een momentje…</string>
   <string name="readmode_pay">Abonneren op hoofdstuk</string>
   <string name="readmode_pay_message">Volgende hoofdstukken vereisen een abonnement voordat lezen kan worden ingeschakeld.</string>
   <string name="readmode_reach_last_page">Laaste pagina bereikt</string>

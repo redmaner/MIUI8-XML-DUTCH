@@ -116,6 +116,8 @@
   <string name="cloud_folder_chooser_move">Verwijder afbeeldingen van originele album</string>
   <string name="cloud_gallery_recyclebin_full">Uw prullenbak is vol. Leeg de prullenbak op www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Onvoldoende ruimte in uw cloud</string>
+  <string name="cloud_gallery_space_full_buy_more">"Kan nieuwe foto's niet synchroniseren met uw Mi Cloud. Om meer foto's te synchroniseren, koop extra opslagruimte."</string>
+  <string name="cloud_gallery_space_full_title">Mi Cloud is vol</string>
   <string name="cloud_media_set_set">Mi Cloud</string>
   <string name="cloud_owner_album_share_guide">U kunt dit album delen met vrienden.</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
@@ -238,6 +240,7 @@
   <string name="external_usb_device_hm">Externe USB opslag</string>
   <string name="face_album">Personen</string>
   <string name="face_album_long_tap_tip">Om meerdere personen te selecteren of groeps instellingen te wijzigen, Druk op &amp; en houdt een profiel foto ingedrukt</string>
+  <string name="face_album_new_name_hint">Nieuwe naam</string>
   <string name="face_album_not_named">Naamloos</string>
   <string name="face_album_rename_hint">Naam invoeren</string>
   <string name="face_albumset_detecting_tip">Een klein momentje…</string>
@@ -245,6 +248,7 @@
   <string name="face_albumset_loading_data">Data laden…</string>
   <string name="face_albumset_pending_enable_tip">"Zal foto's sorteren als het apparaat verbonden is met Wi-Fi"</string>
   <string name="face_albumset_use_tip">Foto's automatisch sorteren op mensen die er in staan.</string>
+  <string name="face_choose_tip">Selecteer uit bestaand album</string>
   <string name="face_move_dialog_title">Kies een album</string>
   <string name="facelift">Gezichtsgloed</string>
   <string name="facetan">Gezichtskleur</string>
@@ -494,7 +498,7 @@
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Afbeelding herkennen…</string>
-  <string name="recommanded_face_abandon_tip">Verwijderd uit suggesties</string>
+  <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevelingen</string>
   <string name="recommanded_face_added_tip">Toegevoegd aan \"%s\"</string>
   <string name="redeye">Rode ogen</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
@@ -649,6 +653,7 @@
   <string name="unpublish_succeeded">Publicatie album ongedaan gemaakt</string>
   <string name="unpublishing">Annuleren…</string>
   <string name="untagged">Geen tags</string>
+  <string name="upgrade_micloud_space">Verkrijg meer ruimte</string>
   <string name="user_alias_self">Zelf</string>
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>

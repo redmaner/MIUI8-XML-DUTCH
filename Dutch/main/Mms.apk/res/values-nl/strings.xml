@@ -262,6 +262,7 @@
   <string name="multimedia_notification">Melding van MMS</string>
   <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Activeer Mi Message</string>
+  <string name="mx_activate_dlg_title_ex">Activeer Mi Message &amp; Stem</string>
   <string name="mx_activate_error_malformed_info">Heractiveren Mi bericht nodig.</string>
   <string name="mx_activate_error_server">Activatie mislukt</string>
   <string name="mx_activate_error_sim_change">Het lijkt erop dat je SIM kaarten hebt omgewisseld. Je moet je Mi Berichten opnieuw activeren.</string>
@@ -272,7 +273,6 @@
   <string name="mx_activate_int_hint_malformed_info">Uw provider kan internationele kosten aanrekenen voor dit SMS bericht  omhet Mi bericht te heractiveren.</string>
   <string name="mx_activate_int_hint_server">Uw provider kan internationele kosten aanrekenen voor dit SMS bericht  om het Mi bericht te heractiveren.</string>
   <string name="mx_activate_int_hint_sim_change">Het lijkt erop dat je SIM kaarten hebt omgewisseld. Uw provider kan kosten aanrekenen voor een SMS bericht om het Mi bericht te heractiveren.</string>
-  <string name="mx_activate_user_agreement_p1">Door het gebruik van deze dienst, gaat u akkoord met Mi Message.</string>
   <string name="mx_auto_resend_mms">Verzenden als MMS</string>
   <string name="mx_auto_resend_mms_summary">MMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi(regelmatige dataverbruik kan kosten meebrengen).</string>
   <string name="mx_auto_resend_sms">Vezenden als SMS</string>
@@ -283,8 +283,11 @@
   <string name="mx_current_status">Online</string>
   <string name="mx_dspt">Mi Message kan je berichten sturen naar andere MIUI gebruiker zonder SMS kosten.</string>
   <string name="mx_dspt_provision">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider  kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
+  <string name="mx_dspt_provision_ex">Berichten versturen en bellen naar andere MIUI gebruikers zonder  kosten van uw provider. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid.</string>
+  <string name="mx_dspt_provision_ex2">Privacybeleid</string>
   <string name="mx_enable">Mi Message</string>
-  <string name="mx_enable_popup_msg">Mi Message kan je berichten sturen naar andere MIUI gebruiker zonder SMS kosten</string>
+  <string name="mx_enable_ex">Mi Message &amp; Stem</string>
+  <string name="mx_enable_popup_msg">Met Mi Message kan je berichten sturen naar andere MIUI gebruiker zonder SMS kosten</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Mi Messaging met SIM slot 1 %s</string>
