@@ -338,12 +338,14 @@
   <string name="content_description">%1$s over %2$s, %3$s op %4$s, %5$s</string>
   <string name="content_description_today">%1$s over %2$s, %3$s om %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
+  <string name="contextmenu_call">Bel</string>
   <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL Link kopiëren</string>
   <string name="contextmenu_dial_dot">Bellen...</string>
   <string name="contextmenu_feedback">Feedback verzenden</string>
   <string name="contextmenu_help">Help</string>
-  <string name="contextmenu_map">Kaart</string>
+  <string name="contextmenu_map">Map</string>
+  <string name="contextmenu_open">Openen</string>
   <string name="contextmenu_openlink">Openen in browser</string>
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_sharelink">Link delen</string>
@@ -354,6 +356,7 @@
   <string name="conversation_list_net_check">Kan geen verbinding maken met het  netwerk, controleer de netwerkconfiguratie of probeer het later opnieuw</string>
   <string name="conversation_overload_toast">Deze e-mail is te groot om te laden, probeer het later op de PC</string>
   <string name="conversation_photo_welcome_text">Raak de afbeelding van een afzender aan om dat gesprek te selecteren.</string>
+  <string name="copied">Gekopiëerd</string>
   <string name="copy_email">E-mailadres kopiëren</string>
   <string name="copy_number">Telefoonnummer kopiëren</string>
   <string name="create_action">Nieuwe maken</string>
@@ -417,6 +420,7 @@
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
   <string name="download_failed">Downloaden mislukt. Raak aan om het opnieuw te proberen.</string>
+  <string name="download_message_failed_for_too_large">Dit bericht is te groot om te downloaden.</string>
   <string name="download_show_image">Download en geef afbeelding weer</string>
   <string name="downloading_message_body">Downloaden…</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -797,6 +801,7 @@ Cc: %4$s
   <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Voorbeeld</string>
   <string name="previous_action">Vorige</string>
+  <string name="print">Afdrukken</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol">Protocol</string>
   <string name="protocol_eas">eas</string>

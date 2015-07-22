@@ -25,9 +25,9 @@
   <string name="confirm_location_alert">Fotolocatie onthouden</string>
   <string name="confirm_location_message">"Tag je foto's en video's met de locaties waar ze zijn genomen. Andere apps hebt toegang tot deze informatie samen met uw opgeslagen afbeeldingen"</string>
   <string name="confirm_location_title">Foto locatie onthouden?</string>
-  <string name="confirm_recording_fail_calling_alert">Kan opname niet starten tijdens gesprek.</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">Een ander app neemt waarschijlijk geluid op, probeer opnieuw nadat het afgesloten is.</string>
-  <string name="confirm_recording_fail_title">Opname mislukt</string>
+  <string name="confirm_recording_fail_calling_alert">Kan geen opname maken tijdens gesprek.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Een ander app gebruikt waarschijlijk de microfoon van het apparaat al.</string>
+  <string name="confirm_recording_fail_title">Kan geen opname maken</string>
   <string name="confirm_restore_message">Herstellen standaard Camera instellingen ?</string>
   <string name="confirm_restore_title">Herstel standaard instellingen</string>
   <string name="dialog_ok">OK</string>
@@ -92,7 +92,7 @@
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Anti streepvorming</string>
   <string name="pref_camera_asd_night_title">"Automatisch verbeteren van weinig omgevingslicht foto's"</string>
-  <string name="pref_camera_asd_popup_title">Snel wanneer de flitser nodig is</string>
+  <string name="pref_camera_asd_popup_title">Melden wanneer de flitser nodig is</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto vastleggen wanneer stabiel</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flitser</string>

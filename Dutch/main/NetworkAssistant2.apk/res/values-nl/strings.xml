@@ -147,7 +147,7 @@
   <string name="lock_screen_warning_value">Data verbruiks bedrag waarschuwing </string>
   <string name="main_alert_message_month_limit_error">Het datalimiet u hebt instelt is fout</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
-  <string name="main_alert_message_no_mobile_package">Mobiel datalimiet is foutief</string>
+  <string name="main_alert_message_no_mobile_package">Datalimiet is niet ingesteld</string>
   <string name="main_alert_message_slot_no_data_connection">De SIM kaart ondersteund geen mobiele dataverbinding</string>
   <string name="main_button_idel_traffic">Daluren</string>
   <string name="main_button_normal_traffic">Piekuren</string>
@@ -171,7 +171,7 @@
   <string name="main_secondary_message_traffic_used_leisure">%s daluren dataverbruik</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s piekuren data verbruikt| geen daluren data resterend</string>
   <string name="main_secondary_message_traffic_used_normal">%s piekuren data verbruikt</string>
-  <string name="main_toolbar_firewall">Beperken</string>
+  <string name="main_toolbar_firewall">Beperk data verbruik</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobiele data verbinding</string>
   <string name="main_toolbar_internet_by_pc_brige">Deel internet via USB</string>
   <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
@@ -333,15 +333,15 @@
   <string name="pref_specified_adjust">Aangepast datalimiet instellen</string>
   <string name="pref_specified_traffic_settings">Aangepast datalimiet instellen</string>
   <string name="pref_title_declaration">Belangrijke voorwaarden</string>
-  <string name="pref_title_diagnostics_dont_show_float_notification">Geef waarschuwingen weer in meldings schaduw</string>
+  <string name="pref_title_diagnostics_show_float_notification">Zwevende meldingen</string>
   <string name="pref_title_mobile_traffic">Dataverbruik weergeven wanneer vergrendeld</string>
   <string name="pref_title_network_diagnostics">Netwerk testen</string>
   <string name="pref_title_over_traffic_limit_warning">Wanneer overschreden</string>
   <string name="pref_title_traffic_limit_number">Grootte</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Dataverbruik meldingen weergeven</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Verminder data verbruik voor nieuwe apps </string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatisch activeren van data saver voor nieuw geïnstalleerde apps waarvoor het data verbruik aanzienlijk kan worden verminderd</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Slimme uitzonderingen toestaan</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Apps met data besparing mogelijkheid automatisch toevoegen aan uitzonderingen </string>
   <string name="pref_traffic_saving_compressed">Gecomprimeerd</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Zal Data Saver effect hebben op mijn privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nee. Uw gegevens blijven prive en zal niet worden gedeeld met derden. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Waarom werkt Data Saver niet? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data Saver alleen maar wanneer probeert te verstueren of downloaden u via de netwerk provider."</string>
