@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">Over deze functie</string>
+  <string name="about_phone_event">Over Service Info</string>
   <string name="about_smart_antispam_summary">Over slimme anti-spam onbekend nummer detector</string>
   <string name="about_telephone_fraud">Over telefoon fraude</string>
   <string name="account_address">Algemeen adres</string>
@@ -78,6 +79,7 @@
   <string name="express_addressee_info">Info geadresseerde</string>
   <string name="express_addressee_name">Naam geadresseerde</string>
   <string name="express_addressee_region">Lokaal geadresseerde</string>
+  <string name="express_banner_header">%1$s / Volgnummer</string>
   <string name="express_cancel_order">Annuleren</string>
   <string name="express_company_list_empty">"Geen firma's"</string>
   <string name="express_company_phone_prefix">"Contact: "</string>
@@ -132,10 +134,7 @@ Controleer het volg nummer.</string>
   <string name="express_no_order">Geen bestelling</string>
   <string name="express_no_order_info">Nr. bestelling info</string>
   <string name="express_order_confirmation">Bestel bevestiging</string>
-  <string name="express_order_created_time">Tijd van de bestelling</string>
   <string name="express_order_failed">Mislukt</string>
-  <string name="express_order_info">Bestel info</string>
-  <string name="express_order_internal_id">Bestel #</string>
   <string name="express_order_ongoing">Bestellen…</string>
   <string name="express_order_result">Resultaat</string>
   <string name="express_order_state_accepted">Aanvaard</string>
@@ -176,8 +175,8 @@ Controleer het volg nummer.</string>
   <string name="express_view_status">Volgen</string>
   <string name="expresss_inquiry_all_logistics">Alle</string>
   <string name="expresss_inquiry_frequently_used_logistics">Vaak gebruikt</string>
-  <string name="follow_express">Volg %1$s</string>
-  <string name="follow_express_success">Nu volgend %1$s.</string>
+  <string name="follow_label">Volg %1$s</string>
+  <string name="follow_success">Nu volgend %1$s.</string>
   <string name="fraud_number_online_identification">Blokkeer niet gewenste gesprekken</string>
   <string name="gallery">Galerij</string>
   <string name="general_btn_follow">Volgen</string>
@@ -187,16 +186,14 @@ Controleer het volg nummer.</string>
   <string name="general_delete_recent_ok">Recent verwijderd</string>
   <string name="general_favorite_ok">Favoriet toegevoegd</string>
   <string name="general_favorite_title">Favorieten</string>
-  <string name="general_follow_hint">"Eens gevolgd %1$s, je kan informatie onvangen van %1$s, en meer service verkregen van %1$s.
-
-Deze gele gids volgen bevestigen?"</string>
+  <string name="general_follow_hint">Volg %1$s om desbetreffende updates te onvangen</string>
   <string name="general_follow_hint_title">Hint</string>
   <string name="general_menu_delete_recent">Recent verwijderd</string>
   <string name="general_menu_unfavorite">Verwijderen uit favorieten</string>
   <string name="general_menu_unfollow">Niet langer volgen</string>
   <string name="general_no_yellow_page">De lijst is leeg</string>
   <string name="general_recent_title">Recente</string>
-  <string name="general_unfollow_hint">Ben je er zeker van om %1$s niet langer te volgen?</string>
+  <string name="general_unfollow_hint">%1$s stoppen met volgen?</string>
   <string name="general_yellow_page_title">Algemeen</string>
   <string name="group_name_banner"/>
   <string name="group_name_basic"/>
@@ -261,17 +258,17 @@ Deze gele gids volgen bevestigen?"</string>
   <string name="no_price">Geen prijs info</string>
   <string name="notify_connect_summary">Toon me meteen als ik verbinding maakt met internet</string>
   <string name="notify_connect_title">Internetverbinding melding</string>
-  <string name="order_date_label">Bestel datum:</string>
+  <string name="order_date_label">Bestel datum: %1$s</string>
   <string name="order_detail">Details</string>
   <string name="order_empty_hint">Geen bestellingen</string>
-  <string name="order_id_label">"Bestel #: "</string>
+  <string name="order_id_label">Bestel #: %1$s</string>
+  <string name="order_info">Bestel info</string>
   <string name="order_merchant_title">Mijn bestellingen</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Geen bestellingen</string>
-  <string name="order_price_label">"Prijs bestelling: "</string>
-  <string name="order_product_name_label">"Product naam: "</string>
-  <string name="order_status">%s</string>
-  <string name="order_status_label">"Bestel status: "</string>
+  <string name="order_price_label">Bestel prijs: %1$s</string>
+  <string name="order_product_name_label">Product naam: %1$s</string>
+  <string name="order_status_label">Bestel status: %1$s</string>
   <string name="order_type_recharge">Opwaarderen</string>
   <string name="packages_no_package">Geen aanbevolen pakketten</string>
   <string name="packages_pay">Nu kopen</string>
@@ -287,6 +284,7 @@ Deze gele gids volgen bevestigen?"</string>
   <string name="payment_failed_common_problems">Een probleem heeft zich voorgedaan tijdens de betaling.</string>
   <string name="payment_unknown_status_summary">Controleer uw netwerk verbinding en probeer opnieuw.</string>
   <string name="payment_unknown_status_title">Betaal status fout</string>
+  <string name="phone_event_setting_notice_text">De Gouden Gids wil de geverifieerde servicenummers (zoals uw mobiele service provider) uploaden naar de servers van Mi, zodat u de service gerelateerde updates kan ontvangen.</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d totaal</string>
   <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen…</string>
@@ -297,6 +295,7 @@ Deze gele gids volgen bevestigen?"</string>
   <string name="recharge_actual_price">Prijs:</string>
   <string name="recharge_charge_range">Prijs: RMB %1$s-%2$s</string>
   <string name="recharge_charge_value">Prijs: RMB %s</string>
+  <string name="recharge_follow_name">Opwaarderen</string>
   <string name="recharge_history">Opwaardeergeschiedenis</string>
   <string name="recharge_history_empty">Leeg</string>
   <string name="recharge_input_phone_title">Voer telefoonnummer in(China Mobile, China Unicom, or China Telecom)</string>
@@ -314,6 +313,7 @@ Deze gele gids volgen bevestigen?"</string>
   <string name="recharge_payment_result_ok_title"> %s RMB toegevoegd betalingsresultaat controleren</string>
   <string name="recharge_payment_result_progress_summary">Betalingsresultaat controleren…</string>
   <string name="recharge_phone">Opwaardeernummer:</string>
+  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">Het telefoonnummer mag niet leeg zijn</string>
   <string name="recharge_phone_number_error">Ongeldig telefoonnummer</string>
   <string name="recharge_select_money_title">Selecteer opwaardeerbedrag</string>
@@ -330,6 +330,7 @@ Totaal bedrag: RMB %3$s"</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">Criminelen kunnen iemands identiteit stelen voor fraude, bij twijfel terugbellen om de beller te achterhalen. Banken, e-commerce bedrijven en providers vragen nooit om uw wachtwoord of bank gegevens.</string>
   <string name="remind_user_suspect_number_title">Kijk uit voor verdachte oproepen</string>
+  <string name="rmb">RMB</string>
   <string name="scan">Scannen</string>
   <string name="select_package_before_buy">Selecteer pakket</string>
   <string name="send_shortcut_failed">Kon niet verzenden</string>
@@ -351,6 +352,8 @@ Totaal bedrag: RMB %3$s"</string>
   <string name="toast_finish_delete_call_log">Gespreksgeschiedenis is verwijderd</string>
   <string name="toast_text_copied">Tekst gekopiëerd</string>
   <string name="try_again">Opnieuw proberen</string>
+  <string name="turn_on_phone_event_summary">Upload telefoon status van de service nummers</string>
+  <string name="turn_on_phone_event_title">Ontvang service info</string>
   <string name="turn_on_smart_antispam_hint">Na inschakelen zullen nummers worden geïdentificeerd. Onidentificeerbare nummers kunt u markeren om te helpen frauduleuze oproepen op te sporen</string>
   <string name="turn_on_smart_antispam_summary_off">Alleen de locale aanwezige nummers opvragen</string>
   <string name="turn_on_smart_antispam_summary_on">Identificeer onbekende nummers en upload uw spam nummers</string>
@@ -375,5 +378,4 @@ Totaal bedrag: RMB %3$s"</string>
   <string name="yellowpage_navigation_network_location_enabled">Locatie toegang is ingeschakeld. Je kan het elk moment uitschakelen in Instellingen</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Verbeter zoekresultaten door Gele Gids toegang te geven tot je locatie info.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Locatie toegang</string>
-  <string name="yuan">Yuan</string>
 </resources>

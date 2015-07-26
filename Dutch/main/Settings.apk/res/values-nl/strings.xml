@@ -216,6 +216,12 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterij en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
   <string name="background_data_summary">Onbeperkt gegevens sync., verzenden en ontvangen</string>
+  <string name="background_location_control_summary">Apps toestaan of verbieden om uw locatie info van apparaat te verkrijgen op de achtergrond</string>
+  <string name="background_location_control_title">Achtergrond locatie toegang</string>
+  <string name="background_location_deselect_apps">Alle deselecteren</string>
+  <string name="background_location_requests_summary">Laat apps toe om locatie service te gebruiken als je die niet gebruikt</string>
+  <string name="background_location_requests_title">Achtergrond locatie toestaan</string>
+  <string name="background_location_select_apps">Alle selecteren</string>
   <string name="background_process_stop_description">Dit is een oud app proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
   <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-up gegevens</string>
   <string name="backup_configure_account_title">Back-up account</string>
@@ -1045,12 +1051,11 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="global_locale_change_title">Taal wijzigen</string>
   <string name="google_backup_section_title">Google back-up &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
-
+  <string name="handy_mode">Een hand modus</string>
   <string name="handy_mode_enable">Een hand modus</string>
   <string name="handy_mode_size">Scherm grootte</string>
   <string name="handy_mode_tips">Veeg naar links of rechts van de Home knop om het scherm dichter bij de ene kant te trekken.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
-
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
   <string name="hdcp_checking_dialog_title">HDCP controlegedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
@@ -1483,6 +1488,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dirac_mode_general">Algemene</string>
   <string name="music_dirac_mode_general_earbuds">Algemene oordopjes</string>
   <string name="music_dirac_mode_general_inear">Algemene in oor</string>
+  <string name="music_dirac_mode_headset">Mi koptelefoons</string>
   <string name="music_dirac_mode_in_ear">Mi in oor koptelefoons</string>
   <string name="music_dirac_mode_off">Dirac uit</string>
   <string name="music_dirac_mode_piston_1">Mi Piston 1</string>
@@ -1490,6 +1496,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
   <string name="music_dirac_mode_piston_basic">Basis Editie</string>
   <string name="music_dirac_mode_piston_standard">Standaard Editie</string>
+  <string name="music_dirac_mode_piston_youth">Jeugd Editie</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
@@ -1515,8 +1522,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_hifi_summary">Verminder ruis en vervorming en verhoging van audiokwaliteit.</string>
   <string name="music_hifi_title">HiFi audio</string>
   <string name="music_hifi_volume">HiFi volume</string>
-  <string name="music_mi_effect_summary">Gebruik altijd de Mi geluidsversterker bij gebruik van luidsprekers</string>
-  <string name="music_mi_effect_title">Gebruik de Mi geluidsversterker</string>
+  <string name="music_mi_effect_summary">Gebruik Mi Geluids Versterker bij gebruik van koptelefoon</string>
+  <string name="music_mi_effect_title">Mi Geluids Versterker</string>
   <string name="music_title_dolby_control">Dolby digitaal plus</string>
   <string name="musicfx_title">Muziekeffecten</string>
   <string name="mvno_match_data">MVNO waarde</string>
@@ -1660,6 +1667,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobiele standby</string>
   <string name="power_center">Energiebeheer</string>
+  <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS</string>
+  <string name="power_hide_mode_title">Beheer batterij verbruik van apps</string>
   <string name="power_idle">Apparaat ideaal</string>
   <string name="power_mgr">Batterij</string>
   <string name="power_mode">Energie instellingen</string>
@@ -2753,6 +2762,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_eap_ca_cert">CA certificaat</string>
   <string name="wifi_eap_identity">Identiteit</string>
   <string name="wifi_eap_method">EAP methode</string>
+  <string name="wifi_eap_sim_simcard">Kies SIM</string>
   <string name="wifi_eap_user_cert">Gebruikerscertificaat</string>
   <string name="wifi_empty_list_user_restricted">U heeft geen toestemming om het Wi-Fi netwerk te wijzigen.</string>
   <string name="wifi_empty_list_wifi_off">Schakel Wi-Fi in om beschikbare netwerken te zien.</string>

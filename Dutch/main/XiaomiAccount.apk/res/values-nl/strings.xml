@@ -46,8 +46,8 @@
   <string name="account_user_using_facebook_avatar">Gebruik Facebook profiel foto</string>
   <string name="account_user_using_qq_avatar">Gebruik QQ profiel foto</string>
   <string name="account_user_using_weibo_avatar">Gebruik Sina Weibo profiel foto</string>
-  <string name="account_vip_level">Vip niveau</string>
-  <string name="account_vip_task">Taak</string>
+  <string name="account_vip_level">Account</string>
+  <string name="account_vip_task">Verloop</string>
   <string name="account_xiaomi_service">Diensten</string>
   <string name="add_account">Account verbinden</string>
   <string name="alert_title_remove_account">Account verwijderen?</string>
@@ -111,14 +111,12 @@ Gelieve de verificatiecode in te voeren in de e-mail"</string>
   <string name="exceed_binded_phone_times_notice">Dit telefoonnummer is al gekoppeld aan een andere Mi Account.</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Dit tel. is al gekoppeld aan een andere Mi-account</string>
-  <string name="failed_get_mibi_info">Kan saldo niet ophalen</string>
   <string name="find_password_on_web_msg">Bezoek account.mi.com om je wachtwoord te resetten.</string>
   <string name="forget_password">&lt;u&gt;Wachtwoord toevoegen&lt;/u&gt;</string>
   <string name="get_back_pwd">Ophalen account wachtwoord</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
   <string name="get_email_verifycode_exceed_limit">Te veel verificatie codes zijn verzonden naar dit e-mailadres. Wacht 24 uur en probeer opnieuw.</string>
   <string name="get_phone_verifycode_exceed_limit">Te veel verificatie codes zijn verzonden naar dit telefoonnr. Wacht 24 uur en probeer opnieuw.</string>
-  <string name="hide_mibi_info">Mi credit info is verborgen</string>
   <string name="input_captcha_hint">Voer code in</string>
   <string name="input_password_hint">Voer wachtwoord in</string>
   <string name="input_vcode_hint">Voer verificatie code in</string>
@@ -126,7 +124,6 @@ Gelieve de verificatiecode in te voeren in de e-mail"</string>
   <string name="license_host_unreachable">Kan niet verbinden netwerk. U kunt deze pagina bekijken op %s."</string>
   <string name="loading">Laden…</string>
   <string name="loading_micloud_sync_data">Laden…</string>
-  <string name="loading_mili_center">Laden…</string>
   <string name="login">Inloggen</string>
   <string name="login_failed">Inloggen mislukt</string>
   <string name="login_instead_reg">Gebruik dit nummer</string>
@@ -137,7 +134,6 @@ Gelieve de verificatiecode in te voeren in de e-mail"</string>
   <string name="mi_account_dspt_provision">Log in bij Mi Cloud, MIUI Thema Store, en andere Mi diensten van overal.</string>
   <string name="mi_account_identity_title">Verifieer uw identiteit</string>
   <string name="mi_pass">Mi Pas</string>
-  <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account_name">Mi Account</string>
   <string name="micloud_area_code_title">Landcode</string>
   <string name="micloud_delete_account">Uitloggen</string>
@@ -292,7 +288,7 @@ die verzonden is in je Postvak In."</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
   <string name="passport_xiaomi_account_dspt">Gebruik uw Mi account om aan te melden bij Mi Cloud, MIUI Thema Store, en andere Mi diensten, van overal.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2"/>
+  <string name="passport_xiaomi_account_sec_dspt2">Aanmelden bij uw Mi account vereist een internetverbinding en locatie toegang, Mi Cloud en Mi VIP worden automatisch ingeschakeld.</string>
   <string name="password">Voer je wachtwoord in</string>
   <string name="phone_activated">%s geactiveerd</string>
   <string name="phone_send_verify_code_prompt">Verzend verificatie code naar %s</string>

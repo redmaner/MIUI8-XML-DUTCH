@@ -116,6 +116,8 @@
   <string name="cloud_folder_chooser_move">Verwijder afbeeldingen van originele album</string>
   <string name="cloud_gallery_recyclebin_full">Uw prullenbak is vol. Leeg de prullenbak op www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Onvoldoende ruimte in uw cloud</string>
+  <string name="cloud_gallery_space_full_buy_more">"Kan nieuwe foto's niet synchroniseren met uw Mi Cloud. Om meer foto's te synchroniseren, koop extra opslagruimte."</string>
+  <string name="cloud_gallery_space_full_title">Mi Cloud is vol</string>
   <string name="cloud_media_set_set">Mi Cloud</string>
   <string name="cloud_owner_album_share_guide">U kunt dit album delen met vrienden.</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
@@ -197,6 +199,8 @@
   <string name="download_fail">Download mislukt</string>
   <string name="download_fail_confirm_continue">Download van %s gedaald. Verder gaan?</string>
   <string name="download_refocus_data">Download heroriëntatie data</string>
+  <string name="download_without_wifi_msg">"Het gebruik van uw mobiele data verbinding om foto's te downloaden zal uw dataverbruik verhogen. Als je over datalimiet zit, kan uw provider extra kosten aanrekenen."</string>
+  <string name="download_without_wifi_title">Data vebruiks wwarschuwing</string>
   <string name="duotone">Duotone</string>
   <string name="duration">Duur</string>
   <string name="early_bird">Vroege vogel</string>
@@ -236,14 +240,15 @@
   <string name="external_usb_device_hm">Externe USB opslag</string>
   <string name="face_album">Personen</string>
   <string name="face_album_long_tap_tip">Om meerdere personen te selecteren of groeps instellingen te wijzigen, Druk op &amp; en houdt een profiel foto ingedrukt</string>
+  <string name="face_album_new_name_hint">Nieuwe naam</string>
   <string name="face_album_not_named">Naamloos</string>
   <string name="face_album_rename_hint">Naam invoeren</string>
   <string name="face_albumset_detecting_tip">Een klein momentje…</string>
   <string name="face_albumset_empty">Leeg.</string>
   <string name="face_albumset_loading_data">Data laden…</string>
   <string name="face_albumset_pending_enable_tip">"Zal foto's sorteren als het apparaat verbonden is met Wi-Fi"</string>
-  <string name="face_albumset_use_tip">"Sorteer foto's van de personen er in.
-Deze vooruitgang wordt automatisch uitgevoerd door de machine zonder enige menselijke tussenkomst"</string>
+  <string name="face_albumset_use_tip">Foto's automatisch sorteren op mensen die er in staan.</string>
+  <string name="face_choose_tip">Kies uit bestaand album</string>
   <string name="face_move_dialog_title">Kies een album</string>
   <string name="facelift">Gezichtsgloed</string>
   <string name="facetan">Gezichtskleur</string>
@@ -301,6 +306,16 @@ Deze vooruitgang wordt automatisch uitgevoerd door de machine zonder enige mense
   <string name="home_page_tab_local">Offline</string>
   <string name="home_page_tab_photo">"Foto's"</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="hybrid_check_network">Netwerk instellingen</string>
+  <string name="hybrid_data_error">Er is een fout opgetreden</string>
+  <string name="hybrid_locating_fail">Kan uw locatie niet vinden</string>
+  <string name="hybrid_network_access_denied">Netwerk toegang geweigerd</string>
+  <string name="hybrid_network_unavaliable">Kan niet verbinden met netwerk</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Trekken om te vernieuwen…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Een momentje…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Loslaten om te vernieuwen…</string>
+  <string name="hybrid_service_unavailiable">Service niet beschikbaar</string>
+  <string name="hybrid_try_again">Probeer opnieuw</string>
   <string name="ignore_album">Dit album niet meer weergeven?</string>
   <string name="ignore_alert_title">Wanneer genegeerd zal deze niet meer worden weergegeven, doorgaan?</string>
   <string name="ignore_face">Negeer deze persoon</string>
@@ -449,7 +464,7 @@ Deze vooruitgang wordt automatisch uitgevoerd door de machine zonder enige mense
   <string name="paint_cancel_title">Wijzigingen annuleren</string>
   <string name="paint_crop_cancel_context">Wil je het bijgesneden resultaat opslaan?</string>
   <string name="paint_crop_cancel_title">Wijzigingen annuleren</string>
-  <string name="paint_crop_tips">Om een beter beeld te krijgen, kunt u proberen om het op de rasterpunten te plaatsen door het formaat te wijzigen en te bewegen.</string>
+  <string name="paint_crop_tips">Plaats het doelgebied van het beeld in het midden van het raster.</string>
   <string name="paint_highlight">Markeren</string>
   <string name="paint_highlight_cancel_context">Gemarkerde afbeelding opslaan?</string>
   <string name="paint_highlight_cancel_title">Veranderingen niet wijzigen</string>
@@ -493,7 +508,7 @@ Deze vooruitgang wordt automatisch uitgevoerd door de machine zonder enige mense
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Afbeelding herkennen…</string>
-  <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevolen</string>
+  <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevelingen</string>
   <string name="recommanded_face_added_tip">Toegevoegd aan \"%s\"</string>
   <string name="redeye">Rode ogen</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
@@ -648,6 +663,7 @@ Deze vooruitgang wordt automatisch uitgevoerd door de machine zonder enige mense
   <string name="unpublish_succeeded">Publicatie album ongedaan gemaakt</string>
   <string name="unpublishing">Annuleren…</string>
   <string name="untagged">Geen tags</string>
+  <string name="upgrade_micloud_space">Verkrijg meer ruimte</string>
   <string name="user_alias_self">Zelf</string>
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>

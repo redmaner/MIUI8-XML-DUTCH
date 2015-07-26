@@ -105,7 +105,7 @@ Als u van SIM kaarten verwisseld zal er automatisch een SMS verstuurd worden om 
   <string name="i_know">OK</string>
   <string name="internet_access_dspt">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
   <string name="license_host_unreachable">Kan geen verbinding maken met het netwerk. Als u deze informatie nu wilt weergeven gaat u naar %s.</string>
-  <string name="loading">Laden…</string>
+  <string name="loading">Een momentje…</string>
   <string name="loading_hint">Laden</string>
   <string name="master_alert_notif_dspt_add">Wachten om %s items te synchroniseren</string>
   <string name="master_alert_notif_dspt_no">Gesynchroniseerd</string>
@@ -188,7 +188,7 @@ Klik op de instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_single_dspt">Gebruik Mi Cloud om data te sync., je apparaat te zoeken en dingen te delen met je vrienden.</string>
   <string name="micloud_space_applist_detail">Beheer apps op je Startscherm</string>
   <string name="micloud_space_applist_title">Beheer apps</string>
-  <string name="micloud_space_duokan_detail">Beheer je Duokan inhoud door het gebruik van de Duokan app.</string>
+  <string name="micloud_space_duokan_detail">Download en beheer e-books met de Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Wat gebeurt er als ik niet genoeg ruimte meer heb?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">Beheer opgeslagen opnames op je apparaat</string>
@@ -230,9 +230,11 @@ Deze functie versleutelt en verzend de ID van uw apparaat naar de Mi servers.</s
   <string name="mx_dspt_provision_privacy_2_sim">"Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor twee SMS berichten gebruikt om deze functie te activeren.
 
 Deze functie codeert en verzend de ID van uw apparaat naar de Mi servers."</string>
-  <string name="mx_dspt_provision_with_voip">Bel andere MIUI gebruikers gratis met gebruik van uw internet verbinding. U kunt deze functie op elk gewenst moment in- of uitschakelen in Instellingen.</string>
+  <string name="mx_dspt_provision_with_voip">Bel andere MIUI gebruikers gratis met uw internet verbinding. U kunt deze functie in- of uitschakelen op elk gewenst moment in Instellingen. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid.</string>
+  <string name="mx_dspt_provision_with_voip2">Privacybeleid</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
+  <string name="mx_voip_dspt">Mi Communicatie</string>
   <string name="next">Volgende</string>
   <string name="noRemind">Me niet meer herinneren</string>
   <string name="no_sim">Geen SIM kaart gedetecteerd</string>
@@ -322,7 +324,6 @@ Door gebruik te maken van deze service gaat u akkoord met "</string>
   <string name="verify">Bevestig</string>
   <string name="view_storage_title">Opslag ruimte</string>
   <string name="voip_choose_sim">Kies telefoonnr. om Mi Voice te activeren</string>
-  <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

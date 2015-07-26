@@ -2,7 +2,7 @@
 <resources>
   <string name="action">Bekijk</string>
   <string name="already_used">Gebruikt</string>
-  <string name="app_name">XiaomiVip</string>
+  <string name="app_name">Mi Vip</string>
   <string name="award_taken">Verzamelde punten</string>
   <string name="award_time">Verzammeld op %s</string>
   <string name="awarded_package_is_expired">Vervallen</string>
@@ -20,20 +20,21 @@
   <string name="experience">Verv.</string>
   <string name="expired">Vervallen</string>
   <string name="fail_reach_server">Kan niet verbinden met de server</string>
+  <string name="giveup">Opgeven</string>
   <string name="in_progress">Verzoek verzenden…</string>
-  <string name="invalid_json">Antwoord is ongeldig JSON string</string>
+  <string name="invalid_json">Er liep iets fout</string>
   <string name="level">Niveau</string>
   <string name="level_detail">Dagelijkse taak limiet: %d</string>
   <string name="level_exp_value" formatted="false">%d/%d</string>
   <string name="level_info_format" formatted="false">"Niveau %d %d/%d
 %s"</string>
   <string name="my_award">Mijn onderscheidingen</string>
-  <string name="no_app">De app eerst installeren</string>
+  <string name="no_app">Mi Vip app eerst installeren</string>
   <string name="no_award">Geen onderscheidingen</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_task">Alle taken zijn voltooid</string>
-  <string name="passive_task">Passieve Taken</string>
-  <string name="privilege">Bevoorrechtigd</string>
+  <string name="passive_task">Achtergrond taken</string>
+  <string name="privilege">Privileges</string>
   <string name="promote">Een niveau omhoog</string>
   <string name="query_level_fail">Kon info niet verkrijgen</string>
   <string name="query_user_tasks_fail">Kan taak info niet verkrijgen</string>
@@ -43,7 +44,7 @@
   <string name="task_begin">In behandeling…</string>
   <string name="task_completed">Votooid</string>
   <string name="task_done">Klaar</string>
-  <string name="task_limit">Geen taken meer voor vandaag, tot morgen!</string>
+  <string name="task_limit">Geen taken meer vandaag, tot morgen!</string>
   <string name="task_not_completed">Niet voltooid</string>
   <string name="task_ongoing">Lopende</string>
   <string name="task_score">%d punten</string>
@@ -53,7 +54,7 @@
   <string name="today_task">Taken vandaag</string>
   <string name="today_task_format" formatted="false">%d/%d</string>
   <string name="unlimited_task">Speciale taken</string>
-  <string name="upgraded">Lv Up!</string>
+  <string name="upgraded">Lvl Up!</string>
   <string name="use">Gebruik</string>
   <string name="validity">vervald op %s</string>
 </resources>

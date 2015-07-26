@@ -105,11 +105,13 @@
   <string name="file_info_modified">Laatst aangepast:</string>
   <string name="file_info_size">Grootte:</string>
   <string name="file_loading">Laden…</string>
+  <string name="file_name_invalid">"Bestands namen mogen volgende karakters niet bevaten: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">Bestand bestaat niet</string>
   <string name="file_too_large">Bstand te groot om te uploaden</string>
   <string name="files">Bestanden</string>
   <string name="finished">Voltooid</string>
   <string name="folder_exist">De map bestaat al.</string>
+  <string name="folder_name_empty">Map naam mag niet leeg zijn</string>
   <string name="folder_name_illegal">Ongeldige map naam</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Raak aan&lt;/a&gt;om te verwijderen</string>
   <string name="ftp_account_req_notice">4-16 tekens, letters en cijfers, hoofdletters en kleine letters</string>
@@ -199,7 +201,7 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Videos</string>
   <string name="my_video_desc"/>
-  <string name="name_illegal">Naam invullen.</string>
+  <string name="name_empty">Naam invullen.</string>
   <string name="net_lose_connected">Verbinding verbroken.</string>
   <string name="networkView_notConnected">Kan geen netwerkverbinding maken</string>
   <string name="network_connect_confirm_des">File Explorer moet verbinding maken met internet om normaal te werken</string>
@@ -221,6 +223,7 @@
   <string name="open_file_failed">Kan niet worden geopend</string>
   <string name="operate_confirm_in_3g">Uw mobiele gegevensverbinding gebruiken om dit grote bestand te downloaden?</string>
   <string name="operating">Verwerken…</string>
+  <string name="operation_add_fav">Toevoegen aan ster…</string>
   <string name="operation_agree">Toestaan</string>
   <string name="operation_cancel">Annuleren</string>
   <string name="operation_compress">Comprimeren</string>
@@ -260,8 +263,10 @@
   <string name="paused">Gepauzeerd</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefoon</string>
-  <string name="pull_to_signin">Sleep naar beneden om in te checken.</string>
-  <string name="release_to_signin">Loslaten om in te checken</string>
+  <string name="port_range">Poort moet tussen 1024–65535 zijn</string>
+  <string name="pull_to_signin">Sleep naar beneden om aan te melden.</string>
+  <string name="release_to_signin">Loslaten aan te melden</string>
+  <string name="rename_alert">"Als je de extensie van bestand wijzigd, is mogelijks niet meer te openen."</string>
   <string name="rename_description">Naam wijzigen…</string>
   <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
   <string name="sd_card_available">Beschikbaar: %1$s</string>
@@ -301,9 +306,9 @@
   <string name="tab_category">Categorieën</string>
   <string name="tab_expand">Uitbreiden</string>
   <string name="tab_local">Lokaal</string>
-  <string name="tab_more">meer</string>
+  <string name="tab_more">Meer</string>
   <string name="tab_path">FOLDERS</string>
-  <string name="tab_source">APPS</string>
+  <string name="tab_source">Apps</string>
   <string name="tab_storage">OPSLAG</string>
   <string name="terabyteShort">TB</string>
   <string name="title_more_source">Meer apps</string>

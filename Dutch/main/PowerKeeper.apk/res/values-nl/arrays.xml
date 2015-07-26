@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_actions_device">
+        <item>cancro</item>
+    </string-array>
+    <string-array name="group_name">
+        <item>normaal</item>
+        <item>verbergen</item>
+        <item>lezen</item>
+        <item>media</item>
+    </string-array>
+    <string-array name="group_name_translate">
+        <item>Standaard Modus</item>
+        <item>Verberg Modus</item>
+        <item>Lees Modus</item>
+        <item>Media Modus</item>
+    </string-array>
+     <string-array name="event_name_translate">
+        <item>App in de voorgrond</item>
+        <item>Scherm Aan</item>
+        <item>Scherm Uit</item>
+        <item>Scrherm Uit in 10 minuten</item>
+        <item>Ga naar Volledig Scherm</item>
+        <item>Afsluiten Volledig Scherm</item>
+        <item>App is in achtergrond</item>
+        <item>Telefoon is aan het opladen</item>
+        <item>Telefoon is niet aan het opladen</item>
+        <item>Telefoon staat in ideale modus</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Max Helderheid scherm</item>
+        <item>MAX CPU Frequentie</item>
+        <item>Scherm modus</item>
+        <item>CPU verbruik</item>
+        <item>Data connectie</item>
+        <item>Locatie</item>
+        <item>Eerste bericht melding</item>
+        <item>Keyguard notificatie</item>
+    </string-array>
+    <string-array name="action_param">
+        <item>none</item>
+        <item>ui</item>
+        <item>still</item>
+        <item>movie</item>
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Geen operaties</item>
+        <item>Standaard</item>
+        <item>Afbeelding</item>
+        <item>Film</item>
+        <item>Batterij besparing</item>
+        <item>Gebalanceerd</item>
+        <item>Prestatie</item>
+        <item>Uitschakelen</item>
+        <item>Inschakelen</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>geselecteerd</item>
+        <item>gedeselecteerd</item>
+        <item>ander geselecteerde</item>
+    </string-array>
+</resources>

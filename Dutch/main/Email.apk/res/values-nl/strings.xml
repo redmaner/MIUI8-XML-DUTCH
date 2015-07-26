@@ -83,7 +83,7 @@
   <string name="account_setup_account_type_title">Accountinstellingen</string>
   <string name="account_setup_address_label">E-mail</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Controleer of de gebruikersnaam, het wachtwoord en de accountinstellingen correct zijn.</string>
-  <string name="account_setup_autodiscover_dlg_authfail_title">Probleem met instellen van account</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">Kon account niet instellen</string>
   <string name="account_setup_basics_email_label">E-mailadres</string>
   <string name="account_setup_basics_headline">E-mailaccount</string>
   <string name="account_setup_basics_manual_setup_action">Handmatig instellen</string>
@@ -107,12 +107,12 @@
   <string name="account_setup_failed_certificate_required">Er is een clientcertificaat vereist. Wilt u verbinding maken met de server met een client certificaat?</string>
   <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
   <string name="account_setup_failed_dlg_auth_message">Gebruikersnaam of wachtwoord is onjuist.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">"Aanmelden mislukt.
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Kon niet aanmelden
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">Kan geen veilige verbinding met de server tot stand brengen.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan geen veilige verbinding met de server tot stand brengen.
 (%s)"</string>
-<string name="account_setup_failed_dlg_device_locked">Uw adres was geblokkeerd door apparaat vergrendeling</string>
+<string name="account_setup_failed_dlg_device_locked">Kon niet aanmelden. deze account is vergrendeld</string>
   <string name="account_setup_failed_dlg_edit_details_action">Details bewerken</string>
   <string name="account_setup_failed_dlg_server_message">Kan niet verbinden met de server.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">Kan niet verbinden met de server
@@ -320,8 +320,11 @@
   <string name="confirm_send_title">Bericht verzenden?</string>
   <string name="contact_content_provider">Contactgegevens Provider</string>
   <string name="contact_edit_set_black_list">Blokkerlijst instellen</string>
+  <string name="contact_edit_set_black_list_from">Alle mails van deze afzender verwijderen</string>
+  <string name="contact_edit_set_black_list_receive">Alle mails van deze ontvanger verwijderen (normaal een e-mail groep)</string>
+  <string name="contact_edit_set_black_list_receive_summary">Naar/Cc lijsten bevatten slechts deze ontvanger </string>
   <string name="contact_edit_set_phone_contact">Bewerk telefoon contacten</string>
-  <string name="contact_edit_set_pop_up_tips">Popup tips</string>
+  <string name="contact_edit_set_pop_up_tips">Pop-up tips</string>
   <string name="contact_edit_set_unread_top">Eerst ongelezen mails weergeven</string>
   <string name="contact_edit_set_vip">VIP instellen</string>
   <string name="contact_edit_title_permission">Contact toestemmingen</string>
@@ -335,12 +338,14 @@
   <string name="content_description">%1$s over %2$s, %3$s op %4$s, %5$s</string>
   <string name="content_description_today">%1$s over %2$s, %3$s om %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
+  <string name="contextmenu_call">Bel</string>
   <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL Link kopiëren</string>
   <string name="contextmenu_dial_dot">Bellen...</string>
   <string name="contextmenu_feedback">Feedback verzenden</string>
   <string name="contextmenu_help">Help</string>
-  <string name="contextmenu_map">Kaart</string>
+  <string name="contextmenu_map">Map</string>
+  <string name="contextmenu_open">Openen</string>
   <string name="contextmenu_openlink">Openen in browser</string>
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_sharelink">Link delen</string>
@@ -351,6 +356,7 @@
   <string name="conversation_list_net_check">Kan geen verbinding maken met het  netwerk, controleer de netwerkconfiguratie of probeer het later opnieuw</string>
   <string name="conversation_overload_toast">Deze e-mail is te groot om te laden, probeer het later op de PC</string>
   <string name="conversation_photo_welcome_text">Raak de afbeelding van een afzender aan om dat gesprek te selecteren.</string>
+  <string name="copied">Gekopiëerd</string>
   <string name="copy_email">E-mailadres kopiëren</string>
   <string name="copy_number">Telefoonnummer kopiëren</string>
   <string name="create_action">Nieuwe maken</string>
@@ -414,6 +420,7 @@
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
   <string name="download_failed">Downloaden mislukt. Raak aan om het opnieuw te proberen.</string>
+  <string name="download_message_failed_for_too_large">Dit bericht is te groot om te downloaden.</string>
   <string name="download_show_image">Download en geef afbeelding weer</string>
   <string name="downloading_message_body">Downloaden…</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -794,6 +801,7 @@ Cc: %4$s
   <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Voorbeeld</string>
   <string name="previous_action">Vorige</string>
+  <string name="print">Afdrukken</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol">Protocol</string>
   <string name="protocol_eas">eas</string>
@@ -803,7 +811,17 @@ Cc: %4$s
   <string name="provider_note_live">Alleen sommige Plus accounts hebben POP toegang waarmee dit programma verbinding kan maken. Als u niet kunt inloggen met het juiste e-mailadres en wachtwoord, heeft u mogelijk niet betaald voor uw Plus account. Start de webbrowser voor toegang tot deze e-mailaccounts.</string>
   <string name="provider_note_t_online">Voordat u dit e-mailaccount instelt, gaat u naar de website van T Online en maakt u een wachtwoord voor toegang tot e-mail via POP3.</string>
   <string name="pull_to_refresh">Trek naar beneden om te vernieuwen</string>
-  <string name="quick_1">Hartelijke dank!</string>
+  <string name="push_wps_better_confirm_download">Downloaden</string>
+  <string name="push_wps_better_confirm_exit">Ander apps om te openen</string>
+  <string name="push_wps_better_confirm_message">WPS Office ondersteunt beter dit type van bijlage, zodat je efficient kan werken</string>
+  <string name="push_wps_better_confirm_noshow_hint">Niet meer weergeven</string>
+  <string name="push_wps_better_confirm_title">WPS Office aanbevolen</string>
+  <string name="push_wps_confirm_cancel">Annueleren</string>
+  <string name="push_wps_confirm_download">Downloaden</string>
+  <string name="push_wps_confirm_message">Geen enkle app kan deze bijlage openen, aanbevolen om WPS Office te gebruiken</string>
+  <string name="push_wps_confirm_title">WPS Office aanbevolen</string>
+  <string name="push_wps_no_response_app">Geen reactie applicatie</string>
+  <string name="quick_1">Hartelijke bedankt!</string>
   <string name="quick_2">Dat lijkt me prima.</string>
   <string name="quick_3">Ik zal dit later lezen en kom er dan op terug.</string>
   <string name="quick_4">Laten we een afspraak maken om dit te bespreken.</string>
@@ -994,7 +1012,7 @@ Cc: %4$s
   <string name="unread_from_someone">Mail van % is niet gelezen</string>
   <string name="unread_string">Conversatie ongelezen</string>
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
-  <string name="unzip_file_failed">Unzippen mislukt</string>
+  <string name="unzip_file_failed">Kon dit bestand niet unzippen</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Laatst bijgewerkt op %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
