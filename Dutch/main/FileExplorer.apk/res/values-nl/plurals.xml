@@ -63,5 +63,69 @@
         <item quantity="two"> (%1$d items)</item>
         <item quantity="few"> (%1$d items)</item>
         <item quantity="many"> (%1$d items)</item>
+	</plurals>
+	<plurals name="search_head_hint_app">
+        <item quantity="other">App %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="zero">App %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="one">App %1$s verwant bestand (%2$d item)</item>
+        <item quantity="two">App %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="few">App %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="many">App %1$s verwante bestanden (%2$d items)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s verwante bestanden (%2$d items)</item>
+        <item quantity="zero">%1$s verwante bestanden (%2$d items)</item>
+        <item quantity="one">%1$s verwant bestand (%2$d item)</item>
+        <item quantity="two">%1$s verwante bestanden (%2$d items)</item>
+        <item quantity="few">%1$s verwante bestanden (%2$d items)</item>
+        <item quantity="many">%1$s verwante bestanden (%2$d items)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Tag %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="zero">Tag %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="one">Tag %1$s verwant bestand (%2$d item)</item>
+        <item quantity="two">Tag %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="few">Tag %1$s verwante bestanden (%2$d items)</item>
+        <item quantity="many">Tag %1$s verwante bestanden (%2$d items)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d min geleden</item>
+        <item quantity="zero">%1$d min geleden</item>
+        <item quantity="one">%1$d min geleden</item>
+        <item quantity="two">%1$d min geleden</item>
+        <item quantity="few">%1$d min geleden</item>
+        <item quantity="many">%1$d min geleden</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d uren geleden</item>
+        <item quantity="zero">%1$d uren geleden</item>
+        <item quantity="one">%1$d uur geleden</item>
+        <item quantity="two">%1$d uren geleden</item>
+        <item quantity="few">%1$d uren geleden</item>
+        <item quantity="many">%1$d uren geleden</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="zero">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+        <item quantity="two">%1$d dagen geleden</item>
+        <item quantity="few">%1$d dagen geleden</item>
+        <item quantity="many">%1$d dagen geleden</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="zero">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="one">%1$d nieuw bestand gevonden</item>
+        <item quantity="two">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="few">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="many">%1$d nieuwe bestanden gevonden</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">%1$d bestanden ontvangen van App %2$s</item>
+        <item quantity="zero">%1$d bestanden ontvangen van App %2$s</item>
+        <item quantity="one">%1$d bestand ontvangen van App %2$s</item>
+        <item quantity="two">%1$d bestanden ontvangen van App %2$s</item>
+        <item quantity="few">%1$d bestanden ontvangen van App %2$s</item>
+        <item quantity="many">%1$d bestanden ontvangen van App %2$s</item>	
     </plurals>
 </resources>
