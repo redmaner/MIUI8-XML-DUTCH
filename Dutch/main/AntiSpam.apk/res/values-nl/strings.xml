@@ -60,8 +60,8 @@
   <string name="bl_no_block_call">Geen geblokkeerde gesprekken.</string>
   <string name="bl_no_block_sms">Geen geblokkeerde berichten.</string>
   <string name="blacklist_prefix_add_hint">Blokkeer alle nummers die beginnen met dit voorvoegsel</string>
-  <string name="block_message_number">SMS: %d</string>
-  <string name="block_phone_number">Gesprekken: %d</string>
+  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Gesprekken: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="button_text_delete">Verwijderen</string>
   <string name="button_to_setting">Instellingen</string>
   <string name="call_delete_hint">Verwijder alle geblokkeerde gesprekken van dit nummer?</string>
@@ -186,6 +186,7 @@
   <string name="one_address_choose_hint">%s1 locatie</string>
   <string name="open_callwait">Aan</string>
   <string name="quiet">Stil</string>
+  <string name="quiet_group">Niet storen</string>
   <string name="quiet_important_interruptions_mode">Alle uitzonderingen toestaan</string>
   <string name="quiet_mode">Alle storingen dempen</string>
   <string name="quiet_off_mode">Storingen altijd toestaan</string>
@@ -201,6 +202,7 @@
   <string name="report_warning">"Meld %1$s SMS naar Mi? Deze berichten en de telefoonnummers zij werden verzonden uit en zullen worden geüpload naar Mi's servers voor beoordeling. Geen persoonlijke informatie in verband met deze berichten blijven altijd anoniem."</string>
   <string name="report_warning_title">Rapporteer SMS</string>
   <string name="sim_not_ready">SIM kaart niet klaar</string>
+  <string name="sim_not_ready_toast">SIM kaart niet klaar, instellen mislukt</string>
   <string name="sms_delete_hint">Verwijder alle geblokkeerde berichten verstuurd vanaf dit nummer?</string>
   <string name="sms_delete_title">Bericht verwijderen</string>
   <string name="sms_smart_engine_update">SMS filter automatisch updaten</string>
