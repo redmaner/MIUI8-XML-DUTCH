@@ -9,7 +9,6 @@
   <string name="about_copyright">Cheetah Mobile Inc.</string>
   <string name="about_copyright_eng">© 2015 All Rights Reserved.</string>
   <string name="about_desc">CM Transfer</string>
-
   <string name="about_qq_qun">Onze e-mail: &lt;font color=#2a7fe9 &gt;cmtransfer@cmcm.com&lt;/font&gt;</string>
   <string name="about_subject">Dit wil ik zeggen aan CM Transfer.</string>
   <string name="about_title_face_to_face">Deel bestanden naar vrienden oog in oog</string>
@@ -35,7 +34,8 @@
   <string name="cancel">Nee</string>
   <string name="cancel_recv">Ja</string>
   <string name="cancel_send">Annuleren</string>
-  <string name="ch_smalltech_ledflashlight_free_save_pic">LEDflashlight Afbeeldingen</string>
+  <string name="ch_smalltech_ledflashlight_free_save_pic">LED flitslicht Afbeeldingen</string>
+  <string name="check_upgrade">Update</string>
   <string name="cmbrowser_audio">CM Browser Muziek</string>
   <string name="cmbrowser_video">"CM Browser Video's"</string>
   <string name="cn_andouya_save_pic">Xender Afbeeldingen</string>
@@ -287,6 +287,9 @@
   <string name="deezer_android_app_save_pic">Deezer Afbeeldingen</string>
   <string name="delete_not_exists_media">Bestand bestaat niet</string>
   <string name="devian_tubemate_home_save_pic">TubeMate Afbeeldingen</string>
+  <string name="dlg_self_upgrade_progress_msg">Updaten…(%1$s,%2$s totaal)</string>
+  <string name="dlg_self_upgrade_progress_title">Laatste versie:%1$s</string>
+  <string name="dlg_sendmsg_contact_title">Ontvanger selecteren</string>
   <string name="documents">Documenten</string>
   <string name="dreamleague_video">"Dream League Soccer Video's"</string>
   <string name="elfyourself_video">"ElfYourself Video's'</string>
@@ -405,6 +408,8 @@
   <string name="msg_other_recv_wait">De telefoon is bezet , probeer later opnieuw…</string>
   <string name="msg_pc_refuse_accept_files">Geweigerd</string>
   <string name="msg_sdcard_no_volume">Andere telefoon heeft niet genoeg ruimte, kan bestanden niet verzenden</string>
+  <string name="msg_self_upgrade_loading">Controleren op update,</string>
+  <string name="msg_self_upgrade_loading_second">Een momentje…</string>
   <string name="msg_send_other_wait">De telefoon is bezet , probeer later opnieuw…</string>
   <string name="msg_update_inbox_loading">Updaten Postvak In…</string>
   <string name="msg_wait_for_server_accept_files">De telefoon is bezet , een momentje…</string>
@@ -494,9 +499,21 @@
   <string name="screenshots_save_pic">Schermafdrukken</string>
   <string name="sdcard_path_txt">Externe SD kaart</string>
   <string name="select_send_error">Eerst bestand selecteren</string>
+  <string name="send_app">%1$d apps</string>
   <string name="send_confirm_back_msg">Je hebt &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; bestanden geselecteerd, ben je er zeker van om te annuleren?</string>
+  <string name="send_contact">%1$d contacten</string>
+  <string name="send_document">%1$d documenten</string>
+  <string name="send_file">%1$d bestanden</string>
   <string name="send_history_list_item_title">%2$d verzonden bestanden naar %1$s</string>
+  <string name="send_image">"%1$d foto's"</string>
+  <string name="send_message_content">Hey, ik stuurde u juist %s, u kunt  deze ontvangen door CM Transfer te installeren.</string>
+  <string name="send_msg_finish">Vraag de ontvanger om hun berichten te bekijken</string>
+  <string name="send_msg_info_hint">U kunt ook verzenden naar een van uw contacten</string>
+  <string name="send_music">%1$d muziek</string>
   <string name="send_name">CM Transfer</string>
+  <string name="send_no_contact">Niemand aanwezig</string>
+  <string name="send_package">%1$d paketten</string>
+  <string name="send_video">"%1$d video's"</string>
   <string name="send_waiting">Wachten op de andere persoon om berichten te ontvangen…</string>
   <string name="share_face_to_face">Deel CM Transfer oog in oog</string>
   <string name="share_to">Delen naar</string>
@@ -520,10 +537,13 @@
   <string name="toast_recv_cancel">Andere persoon heeft het ontvangen van het bestand geannuleerd</string>
   <string name="toast_transfer_break">Netwerk problemen, probeer opnieuw</string>
   <string name="toast_transfer_cancel">Andere persoon heeft het verzenden van het bestand geannuleerd</string>
+  <string name="toast_upgrade_network_problem">Netwerk fout, controleer de netwerk instellingen</string>
+  <string name="toast_upgrade_newest_version">U hebt reeds de laatste versie</string>
+  <string name="toast_upgrade_sdcard_problem">Niet genoeg ruimte, controleer en probeer opnieuw</string>
   <string name="top_com_mobogenie_free_save_music">Gratis Muziek</string>
   <string name="tr_music_download_paradise_save_music">Muziek download Muziek</string>
   <string name="trans_item_num">( %1$d )</string>
-  <string name="trans_table_msg">Je vrienden moeten ook CM Transfer installeren om betsanden te ontvangen.</string>
+  <string name="trans_table_msg">Je vrienden moeten ook CM Transfer installeren om bestanden te ontvangen.</string>
   <string name="transfer_app_count">( %1$d totaal )</string>
   <string name="transfer_app_size">%s</string>
   <string name="transfer_button_done">KLAAR</string>
@@ -569,7 +589,13 @@
   <string name="upgrade_dialog_button_upgrade">Nu updaten</string>
   <string name="upgrade_dialog_checking">Controleren op updates…</string>
   <string name="upgrade_dialog_latest">Reeds de nieuwste versie</string>
-  <string name="upgrade_dialog_publish_date">Release datum: %s</string>
+  <string name="upgrade_dialog_network_btn_continue">Doorgaan</string>
+  <string name="upgrade_dialog_network_title">Updaten op &lt;font color=#47c580 &gt;%1$s&lt;/font&gt; zullen er netwerk kosten worden aangerekend, wil je doorgaan met updaten?</string>
+  <string name="upgrade_dialog_popup_btn_notnow">Nu niet</string>
+  <string name="upgrade_dialog_popup_btn_rightnow">Nu updaten</string>
+  <string name="upgrade_dialog_popup_subtitle">"Wat is er nieuw(%s):"</string>
+  <string name="upgrade_dialog_popup_title">Updaten naar de laatste versie!</string>
+  <string name="upgrade_dialog_publish_date">Afgifte datum: %s</string>
   <string name="upgrade_dialog_size_format">Update grootte: %s</string>
   <string name="upgrade_dialog_version_format">Update CM Transfer naar v%s</string>
   <string name="vcwe_video">Stemwisselaar met Video effecten </string>
