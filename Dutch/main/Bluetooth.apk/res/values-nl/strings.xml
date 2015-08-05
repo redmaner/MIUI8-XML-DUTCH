@@ -114,6 +114,8 @@
   <string name="notification_sent">Delen via Bluetooth: %1$s verzonden</string>
   <string name="notification_sent_complete">100% voltooid</string>
   <string name="notification_sent_fail">Delen via Bluetooth: bestand %1$s niet verzonden</string>
+  <string name="notify_device_lose_connection_text">%1$s verloren verbinding voor een langere tijd, klik om te ontkoppelen.</string>
+  <string name="notify_device_lose_connection_title">Apparaat %1$s verloren verbinding</string>
   <string name="notify_server">Melden aan TCP server</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Uitgaande overdrachten</string>
@@ -150,6 +152,10 @@
   <string name="transfer_menu_clear">Verwijderen uit lijst</string>
   <string name="transfer_menu_clear_all">Lijst Verwijderen</string>
   <string name="transfer_menu_open">Openen</string>
+  <string name="unbind_device_alert_cancel">Annuleren</string>
+  <string name="unbind_device_alert_content">Apparaat %1$s verloren verbinding voor een langere tijd, ontkoppelen zal de prestaties verbeteren. Wil je nu ontkoppelen?</string>
+  <string name="unbind_device_alert_ok">Ok</string>
+  <string name="unbind_device_alert_title">Ontkoppelen apparaat</string>
   <string name="unknownName">Onbekende naam</string>
   <string name="unknownNumber">Onbekend</string>
   <string name="unknown_device">Onbekend apparaat</string>
