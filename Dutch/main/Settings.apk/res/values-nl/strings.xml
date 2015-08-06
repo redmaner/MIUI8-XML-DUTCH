@@ -760,7 +760,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="debug_log">Gebruikerservaring programma</string>
   <string name="debug_monitoring_category">Controle</string>
   <string name="default_date_format">MM/dd/yyyy</string>
-  <string name="default_input_method">Kies standaard invoer methode</string>
+  <string name="default_input_method">Kies standaard toetsenbord</string>
   <string name="default_usb_mode">USB verbinding</string>
   <string name="delete">Verwijderen</string>
   <string name="deny">Weigeren</string>
@@ -793,7 +793,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="device_name">Apparaat naam</string>
   <string name="device_name_input_error">Het opslaan van de naam van het apparaat is gefaald.</string>
   <string name="device_name_input_hint">Verander apparaat naam</string>
-  <string name="device_name_usage_point">Toestaan apparaat zichtbaar te maken voor andere Bluetooth apparaten voor bestandsoverdracht en andere functies.</string>
+  <string name="device_name_usage_point">Apparaten dichtbij kunnen deze naam zien</string>
   <string name="device_picker">Bluetooth apparaatkiezer</string>
   <string name="device_sd_memory">SD-kaart</string>
   <string name="device_security_settings_title">Beveilig</string>
@@ -979,16 +979,15 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="fluency_mode">Optimaliseer prestaties van systeem</string>
   <string name="fluency_mode_confirm_and_reboot">Nu herstarten</string>
   <string name="font_size_huge">Gigantisch</string>
-  <string name="font_size_large">Groot</string>
-  <string name="font_size_medium">Gemiddeld</string>
-  <string name="font_size_normal">Standaard</string>
+  <string name="font_size_large">Groter</string>
+  <string name="font_size_medium">Groot</string>
+  <string name="font_size_normal">Klein</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">De appel valt niet ver van de boom.</string>
   <string name="font_size_save">OK</string>
-  <string name="font_size_small">Klein</string>
-  <string name="font_size_summary">Verander de lettergrootte voor de tekst op het beginscherm, meldings schaduw, kiezer en zowat voor alles</string>
-  <string name="font_size_summary1">"
-Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
+  <string name="font_size_small">Kleiner</string>
+  <string name="font_size_summary">"Verander de lettergrootte voor de tekst op het beginscherm, meldings schaduw, kiezer en systeem menu's"</string>
+  <string name="font_size_summary1">"Als de tekst van uw systeem nog te klein is, probeer"</string>
   <string name="font_size_summary2">Lite mode</string>
   <string name="force_hw_ui">GPU rendering afdwingen</string>
   <string name="force_hw_ui_summary">Gebruik van GPU voor 2D tekening forceren</string>
@@ -1113,7 +1112,7 @@ Als de tekst van uw systeem nog te klein is, probeer dan met behulp"</string>
   <string name="incoming_call_breathing_light_color_title">LED kleur bij gesprekken</string>
   <string name="incoming_call_breathing_light_freq_title">LED oplichtingsfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
-  <string name="input_method">Invoer methode</string>
+  <string name="input_method">Toetsenbord</string>
   <string name="input_method_selector">Invoer methode kiezer</string>
   <string name="input_method_selector_always_hide_title">Altijd verbergen</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -1816,8 +1815,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="radioInfo_phone_idle">Inactief</string>
   <string name="radioInfo_phone_offhook">Actieve oproep</string>
   <string name="radioInfo_phone_ringing">Telefoon gaat over</string>
-  <string name="radioInfo_roaming_in">Roaming</string>
-  <string name="radioInfo_roaming_not">Geen roaming</string>
+  <string name="radioInfo_roaming_in">Actief</string>
+  <string name="radioInfo_roaming_not">Niet actief</string>
   <string name="radioInfo_service_emergency">Alleen noodoproepen</string>
   <string name="radioInfo_service_in">In gebruik</string>
   <string name="radioInfo_service_off">Radio uit</string>
@@ -2328,12 +2327,12 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Lettertype</string>
   <string name="title_font2">Lettertype</string>
-  <string name="title_font_current">Kies systeem lettertype</string>
-  <string name="title_font_current2">Kies systeem lettertype</string>
+  <string name="title_font_current">Systeem lettertype</string>
+  <string name="title_font_current2">Systeem lettertype</string>
   <string name="title_font_size">Tekstgrootte</string>
   <string name="title_hdmi_color_calibration">Kleur correctie voorkeuze</string>
-  <string name="title_layout_current">Kies grootte lettertype</string>
-  <string name="title_layout_current2">Kies grootte lettertype</string>
+  <string name="title_layout_current">Tekst grootte</string>
+  <string name="title_layout_current2">Tekst grootte</string>
   <string name="title_local_resource">Lokale bronnen</string>
   <string name="title_system_resource">Systeem bronnen</string>
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
