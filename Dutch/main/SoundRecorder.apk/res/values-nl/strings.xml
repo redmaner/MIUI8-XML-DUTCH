@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Verwijder geselecteerde opname?</string>
+  <string name="alert_message_delete_record_title">Opname verwijderen</string>
   <string name="app_name">Geluidsrecorder</string>
   <string name="back">Terug</string>
   <string name="button_queue_for_wifi">In wachtrij</string>
@@ -26,6 +27,7 @@
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
   <string name="error_sdcard_unmounted">SD kaar losgekoppeld, steek de SD-kaart in</string>
   <string name="fm_record">Radio opname(%d)</string>
+  <string name="loading_recording">Laden</string>
   <string name="low_battery_error">Batterij is nog maar 5% opgeladen, om te verzekeren dat de opname niet verloren gaat, is de opname gestopt en opgeslagen.</string>
   <string name="message_file_size_error">Opname heeft de maximale ondersteunde opname tijd bereikt voor %s</string>
   <string name="no_downloading_file">Geen downloadbestand</string>
@@ -67,7 +69,6 @@
   <string name="record_list_cloud_call">Cloud gespreksopnames</string>
   <string name="record_list_cloud_fm">Cloud FM Opnames</string>
   <string name="record_list_fm">FM Opnames</string>
-  <string name="record_mark_point">Markeer %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Kies een opname</string>
   <string name="recording">Opnemen</string>

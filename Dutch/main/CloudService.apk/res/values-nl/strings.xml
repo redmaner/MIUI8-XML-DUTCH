@@ -67,7 +67,7 @@ Laatst geback-upt op %2$s"</string>
   <string name="error_unauthorized">Synchronisatie is uitgeschakeld als gevolg van te veel inlog pogingen.</string>
   <string name="error_unknown">Kan niet inloggen</string>
   <string name="find_device">Apparraat zoeken is ingeschakeld</string>
-  <string name="find_device_disabled_notice">U kunt deze functie op elk moment uitschakelen in Mi Cloud &gt; Instellingen.</string>
+  <string name="find_device_disabled_notice">U kunt deze functie op elk moment uitschakelen in Mi Cloud Instellingen.</string>
   <string name="find_device_disabled_title">Apparaat zoeken is uitgeschakeld</string>
   <string name="find_device_disabling">Uitschakelen…</string>
   <string name="find_device_dspt">Lokaliseren, vergrendelen, of uw apparaat op afstand te resetten</string>
@@ -114,6 +114,7 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_check_sim_notify_title">Heractiveer Mi Cloud</string>
   <string name="micloud_check_sim_title">Je hebt SIM kaarten veranderd. Log in
 om uw Mi account om je Mi Cloud te heractiveren</string>
+<string name="micloud_detail_download_syncing">%s downloaden</string>
   <string name="micloud_detail_fail">Kan niet sync.</string>
   <string name="micloud_detail_lastest">Gesync.</string>
   <string name="micloud_detail_pending">In afwachting</string>
@@ -121,6 +122,7 @@ om uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_preference_wlan">Sync. op Wi-Fi</string>
   <string name="micloud_detail_success">Gesync.</string>
   <string name="micloud_detail_syncing">Sync.</string>
+  <string name="micloud_detail_upload_syncing">%s Uploaden</string>
   <string name="micloud_detail_wlan">%d wacht om te sync.</string>
   <string name="micloud_detail_wlan_contact">%d wacht om contact foto te sync.</string>
   <string name="micloud_detail_wlan_mms">%d wacht om MMS te sync.</string>
@@ -228,11 +230,11 @@ Deze functie versleutelt en verzend de ID van uw apparaat naar de Mi servers.</s
   <string name="mx_dspt_provision_privacy_2_sim">"Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor twee SMS berichten gebruikt om deze functie te activeren.
 
 Deze functie codeert en verzend de ID van uw apparaat naar de Mi servers."</string>
-  <string name="mx_dspt_provision_with_voip">Bel andere MIUI gebruikers gratis met uw internet verbinding. U kunt deze functie in- of uitschakelen op elk gewenst moment in Instellingen. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid.</string>
+  <string name="mx_dspt_provision_with_voip">Bel andere MIUI gebruikers gratis met uw internet verbinding. U kunt deze functie in- of uitschakelen op elk gewenst moment in Instellingen. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid</string>
   <string name="mx_dspt_provision_with_voip2">Privacybeleid</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
-  <string name="mx_voip_dspt">Mi Communicatie</string>
+  <string name="mx_voip_dspt">Mi Stem</string>
   <string name="next">Volgende</string>
   <string name="noRemind">Me niet meer herinneren</string>
   <string name="no_sim">Geen SIM kaart gedetecteerd</string>
@@ -242,9 +244,10 @@ Deze functie codeert en verzend de ID van uw apparaat naar de Mi servers."</stri
   <string name="phone_number_required_dspt_provision">"Deze service kan uw telefoonnummer nodig hebben. "</string>
   <string name="photo">"Foto's"</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Alleen contacten synchroniseren(profiel foto's) wanneer u bent verbonden met Wi-Fi"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"Alleen contact' profiel videos sync. wanneer verbonden met Wi-Fi netwerk"</string>
   <string name="pref_title_sync_contacts_title">Contacten synchroniseren</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">"Foto's alleen over Wi-Fi synchroniseren"</string>
-  <string name="pref_title_sync_my_profile_title">Synchronisatie profiel</string>
+  <string name="pref_title_sync_video_on_wifi_only">Alleen Wi-Fi gebruiken om video te sync.</string>
   <string name="privacy_policy">Privacy Beleid</string>
   <string name="remind_later">Nu niet</string>
   <string name="restoreSync">Nu synchroniseren</string>

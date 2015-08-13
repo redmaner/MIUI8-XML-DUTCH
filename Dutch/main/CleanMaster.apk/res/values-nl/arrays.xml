@@ -24,8 +24,25 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Direct met melding</item>
-        <item>Opruimen op de achtergrond</item>
-        <item>Toon melding na opruimen</item>
+        <item>Weergeven</item>
+        <item>Niet weergeven</item>
+        <item>Nadien weergeven</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Opruimen</item>
+        <item>Bestand</item>
+        <item>Uitzondering</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Opruimen</item>
+        <item>Bestand</item>
+        <item>Uitzondering</item>
+        <item>Installeer</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Details</item>
+        <item>Bestand</item>
+        <item>Back up en installeer</item>
+        <item>Verwijderen</item>
     </string-array>
 </resources>
