@@ -40,10 +40,11 @@
         <item>30 minuten</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Klein</item>
         <item>Normaal</item>
+        <item>Medium</item>
         <item>Groot</item>
-        <item>Enorm</item>
+        <item>Groter</item>
+        <item>Enorm groot</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Zeer langzaam</item>
@@ -140,7 +141,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Altijd</item>
         <item>Alleen indien aangesloten</item>
-        <item>Nooit(verhoogt het gegevensgebruik)</item>
+        <item>Nooit(verbruikt meer mobiele data)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Altijd</item>
@@ -760,4 +761,14 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Apparaat herstarten om deze instellingen toe te passen?</item>
         <item>Apparaat herstarten om deze instellingen toe te passen?</item>
 	</string-array>
+	<string-array name="alarm_repeat_type">
+        <item>Dagelijks</item>
+        <item>Weekdagen</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Dagelijks</item>
+        <item>Weekdagen</item>
+        <item>Aangepast</item>
+    </string-array>
 </resources>

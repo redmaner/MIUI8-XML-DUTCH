@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importeren</string>
-  <string name="abandon">Verlaten</string>
+  <string name="abandon">Annuleren</string>
   <string name="accept">Accepteren</string>
   <string name="accept_or_deny">%1$s deel album %2$s met u.</string>
   <string name="activity_not_found">Er is geen app gevonden voor deze actie</string>
   <string name="add_account">Account toevoegen</string>
+  <string name="add_automatically_alert_msg">"Foto's toevoegen van \"%1$s\" automatisch toevoegen aan dit album?</string>
+  <string name="add_automatically_alert_title">"Foto's automatisch toevoegen</string>
   <string name="add_event">Evenement toevoegen</string>
   <string name="add_event_hint">Voer label in</string>
   <string name="add_sharer">Lid toevoegen</string>
@@ -52,11 +54,14 @@
   <string name="alert_secret_album_title">Toegevoegd aan verborgen album</string>
   <string name="all_video_album_display_name">"Alle video's"</string>
   <string name="already_apply_album">Open %1$s?</string>
+  <string name="already_create_baby_album">Baby album bestaat reeds in Mi Cloud.</string>
   <string name="always_rotate_alert_msg">U kunt deze functie op elk gewenst moment in- of uitschakelen in de Galerij Instellingen</string>
   <string name="always_rotate_alert_positive_button_text">Inschakelen</string>
   <string name="always_rotate_alert_title">Auto rotatie afbeeldingen</string>
   <string name="aperture">Diafragma</string>
   <string name="app_name">Galerij</string>
+  <string name="app_name_view_picture">Afbeelding weergegeven</string>
+  <string name="apply">Toepassen</string>
   <string name="appwidget_empty_text">"Geen foto's."</string>
   <string name="appwidget_title">Fotogalerij</string>
   <string name="auto">Autom.</string>
@@ -64,12 +69,35 @@
   <string name="auto_create_recent_album_confirm">De Galerij ruimt de favoriete album data op. Handmatig als favoriet gemarkeerde albums zullen niet geraakt worden.</string>
   <string name="auto_create_recent_album_over_ten_times">Een album wordt als favoriet gemarkeerd wanneer u het vaker dan 10 maal opent.</string>
   <string name="auto_upload_album_comfirm_to_share">Deze album wordt automatisch gesynced.</string>
+  <string name="auto_upload_face">"Foto's automatisch toevoegen"</string>
+  <string name="auto_upload_face_summary">"Automatisch vergelijken en foto's toevoegen aan baby album"</string>
+  <string name="auto_upload_face_summary_with_people_name_when_off">"Foto's toevoegen van \"%1$s\" automatisch toevoegen aan dit album"</string>
+  <string name="auto_upload_face_summary_with_people_name_when_on">"Foto's toevoegen van \"%1$s\" automatisch toevoegen aan dit album"</string>
   <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Uw foto\'s automatisch sunc. van andere apps naar Mi Cloud. Bekijk instellingen in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Gallerij instellinge&amp;gt;Sync met Mi Cloud&amp;gt;Autmatisch uploaden&amp;lt;/b&amp;gt;&amp;lt;/lettertype&amp;gt;. &lt;/Data&gt;" "</string>
   <string name="auto_upload_guide_title">"Foto's synchroniseren met Mi Cloud"</string>
   <string name="auto_upload_title">Automatisch synchroniseren</string>
   <string name="autofix">Auto fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
+  <string name="baby_album">Baby album</string>
+  <string name="baby_album_new_photo_page_title">"%1$s's album"</string>
+  <string name="baby_album_picker_default_title">"Selecteer %1$s's gezicht"</string>
+  <string name="baby_album_setting_title">Baby info</string>
+  <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
+%3$s's %4$s gedeelde %5$s's album met jou"</string>
+  <string name="baby_album_sharer_recommand_face">"Bestaande foto's van %1$s toevoegen?"</string>
+  <string name="baby_birthday">Verjaardag</string>
+  <string name="baby_lock_wallpaper">Achtergrond vergrendelscherm</string>
+  <string name="baby_lock_wallpaper_at_least_one_selected">Kies een album</string>
+  <string name="baby_lock_wallpaper_save_settings_msg">Huidige instellingen toepassen?</string>
+  <string name="baby_lock_wallpaper_title">"Baby foto's gebruiken als achtergrond vergrendelscherm"</string>
+  <string name="baby_name_cannot_empty">Naam invoeren</string>
+  <string name="baby_name_cannot_start_with">"Naam kan niet beginnen met '%s'"</string>
+  <string name="baby_name_contain_invalidate_char">"Naam kan '%s' niet bevatten"</string>
+  <string name="baby_name_reserved">Deze naam is gereserveerd voor een andere album</string>
+  <string name="baby_nick_name">Roepnaam</string>
+  <string name="baby_sexy">Geslacht</string>
+  <string name="baby_suffix">baby</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
   <string name="beautyphone">Beauty telefoon</string>
@@ -98,7 +126,9 @@
   <string name="cannot_send_message">"Het bericht kan niet worden verzonden"</string>
   <string name="cannot_send_message_reason">Geen geldige ontvangers</string>
   <string name="cant_delete_system_album">Verwijderen mislukt: %s is een systeem album of gedeeld door andere mensen.</string>
-  <string name="choose_cloud_album">Choose album</string>
+  <string name="choose_baby_sexy">Geslacht</string>
+  <string name="choose_cloud_album">Kies album</string>
+  <string name="choose_owner_relation">Relatie</string>
   <string name="cleaning_cache">Cache wissen</string>
   <string name="clear_thumbnail_cache">Wis thumbnail cache</string>
   <string name="clear_thumbnail_cache_confirm">Alle thumbnails gecached in de Browser worden gewist.</string>
@@ -109,7 +139,7 @@
   <string name="cloud_album_more_settings">Sync. met Mi Cloud</string>
   <string name="cloud_album_set_create">Nieuw</string>
   <string name="cloud_album_set_scan_qr_code">QR code</string>
-  <string name="cloud_albums">Mi Cloud</string>
+  <string name="cloud_albums">Cloud</string>
   <string name="cloud_be_shared_guide_message">"U kunt de foto's van uw vrienden bekijken, en zelf foto's toevoegen aan het album."</string>
   <string name="cloud_be_shared_guide_title">Dit album komt van een vriend</string>
   <string name="cloud_camera_display_name">"Camera foto's"</string>
@@ -118,7 +148,7 @@
   <string name="cloud_gallery_space_full">Onvoldoende ruimte in uw cloud</string>
   <string name="cloud_gallery_space_full_buy_more">"Kan nieuwe foto's niet synchroniseren met uw Mi Cloud. Om meer foto's te synchroniseren, koop extra opslagruimte."</string>
   <string name="cloud_gallery_space_full_title">Mi Cloud is vol</string>
-  <string name="cloud_media_set_set">Mi Cloud</string>
+  <string name="cloud_media_set_set">Cloud</string>
   <string name="cloud_owner_album_share_guide">U kunt dit album delen met vrienden.</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
   <string name="cloud_tab_albums">Albums</string>
@@ -152,11 +182,14 @@
   <string name="context_menu_copy_notice">Gekopiëerd naar het klembord</string>
   <string name="contrast">Contrast</string>
   <string name="contrast_abbr">C</string>
-  <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Koel</string>
   <string name="cool_portrait">Portret</string>
+  <string name="create_baby_album">Maak een baby album aan</string>
+  <string name="create_baby_album_dialog_msg">Maak een album voor \"%s\"?</string>
   <string name="create_new_cloud_folder">Nieuwe album aanmaken</string>
   <string name="create_new_face">Nieuwe persoon</string>
+  <string name="create_quick_icon_on_desk">Snelkoppeling maken</string>
+  <string name="creating_baby_album">Album aanmaken…</string>
   <string name="crop">Bijsnijden</string>
   <string name="crop_fail_to_load_image">Foto laden mislukt</string>
   <string name="crop_label">Foto bijsnijden</string>
@@ -257,10 +290,13 @@
   <string name="fail_to_download_n_items">Download van %s items mislukt</string>
   <string name="fail_to_pick_email">E-mail ongeldig</string>
   <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerk verbinding.</string>
+  <string name="family_member_invitation_text">Ander familie lid</string>
   <string name="file_not_exist_message">Bestand bestaat niet</string>
   <string name="file_size">Bestandsgrootte</string>
   <string name="filllight">Verlichten</string>
   <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
+  <string name="finish_create_baby_album_toast">Album aanmaken voor \"%s\" in Mi Cloud</string>
+  <string name="finish_fill_baby">Aanmaken</string>
   <string name="fisheye">Vis ogen</string>
   <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
   <string name="flash">Flits</string>
@@ -301,7 +337,7 @@
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">"Foto's in camera roll"</string>
-  <string name="home_page_tab_cloud">Mi Cloud</string>
+  <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_face">Personen</string>
   <string name="home_page_tab_local">Offline</string>
   <string name="home_page_tab_photo">"Foto's"</string>
@@ -334,6 +370,8 @@
   <string name="initial_cloud_button_text">Aanmelden</string>
   <string name="initial_cloud_text">"Bewaar en bekijk uw foto's overal."</string>
   <string name="initializing_cloud">Initialiseren</string>
+  <string name="finish_create_baby_album_toast">Album aanmaken voor \"%s\" in Mi Cloud</string>
+  <string name="finish_fill_baby">Aanmaken</string>
   <string name="input_cloudfolder_name">Album naam</string>
   <string name="internal_camera_folder_display_name">"Interne camera foto's"</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne schermafdrukken</string>
@@ -342,7 +380,15 @@
   <string name="internal_sdcard_root">Interne SD-kaart root map</string>
   <string name="invalid_invition_url">Foutieve uitnodiging URL</string>
   <string name="invalid_recipient_message">De namen van de ontvangers zijn ongeldig</string>
-  <string name="is">Is dit %s?</string>
+  <string name="invite_send_sms_tip">Uw provider kan kosten aanrekenen voor een SMS bericht die gebruikt is om deze uitnodiging te sturen.</string>
+  <string name="invite_sharer_again_confirm_button_text">Invite again</string>
+  <string name="invite_sharer_confirm_button_text">Uitnodigen</string>
+  <string name="invite_sharer_phone_number_tip">Telefoonnr. invoeren</string>
+  <string name="invite_sharer_relation_tip">Relatie van %1$s</string>
+  <string name="invite_sharer_title">"Uitnodigen %1$s's %2$s"</string>
+  <string name="invite_tip">"Deel je baby foto's"</string>
+  <string name="invited_tip">Uitnodigen</string>
+  <string name="is">Is</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">Kan deze foto niet downloaden dat niet is gesync. met Mi Cloud.</string>
   <string name="item_not_sync_for_origin_video">Kan deze video niet downloaden dat niet is gesync. met Mi Cloud.</string>
@@ -403,6 +449,7 @@
   <string name="moman_camera_icon">Moman Camera emoticons</string>
   <string name="moman_camera_picture">"Moman Camera foto's"</string>
   <string name="more">Meer</string>
+  <string name="more_face_album_name">Meer gezicht</string>
   <string name="mosaic">Mozaïek</string>
   <string name="move">Verplaats</string>
   <string name="move_to_cloud_album">Verplaats naar</string>
@@ -410,7 +457,6 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Raak een gezicht aan om te beginnen.</string>
   <string name="must_pick_file">Kies een afbeelding</string>
-  <string name="name_wrong">"Dit is niet %s"</string>
   <string name="negative">Negatief</string>
   <string name="netease_newsreader_netease_down_pic">Netease nieuwslezer</string>
   <string name="network_connected_rescan">Kan niet verbinden met netwerk</string>
@@ -429,7 +475,7 @@
   <string name="no_thumbnail">Geen miniatuur</string>
   <string name="none_picture">Geen afbeeldingen</string>
   <string name="not_auto_create_recent_album">Aanmaken favorieten ongedaan maken</string>
-  <string name="not_is">Niet %s?</string>
+  <string name="not_is">Niet</string>
   <string name="not_now">Nu niet</string>
   <string name="not_show_hidden_albums">Verborgen albums niet tonen</string>
   <string name="old">Ouderwets</string>
@@ -440,10 +486,11 @@
   <string name="open_public_title">Publiekelijk delen</string>
   <string name="open_single_image_failure">Kan afbeelding niet laden</string>
   <string name="open_sync_title">Sync. inschakelen</string>
-  <string name="operation_add_picture">"Foto's toevoegen"</string>
+  <string name="operation_add_picture">Items toevoegen</string>
   <string name="operation_add_secret">Toegevoegd aan verborgen album</string>
   <string name="operation_delete_confirm_message_folder">Volledige mapinhoud wordt verwijderd.</string>
-  <string name="operation_failed">Operatie mislukt</string>
+  <string name="operation_failed">Uitvoering mislukt</string>
+  <string name="operation_give_name">Naam</string>
   <string name="operation_in_process">Bezig…</string>
   <string name="operation_refresh">Vernieuw</string>
   <string name="operation_remove_from_face_album">Uit album verwijderen</string>
@@ -470,6 +517,8 @@
   <string name="paint_highlight_cancel_title">Veranderingen niet wijzigen</string>
   <string name="path">Pad</string>
   <string name="people">Mensen</string>
+  <string name="pet_album_display_name">"Foto's van huisdieren"</string>
+  <string name="phone_number_empty_alert">Telefoonnr. toevoegen</string>
   <string name="photo_page_always_rotate">Auto rotatie afbeeldingen</string>
   <string name="photo_page_detail_show_in_the_map">Toon de locatie op de kaart</string>
   <string name="photo_page_save_image">Opslaan</string>
@@ -514,6 +563,14 @@
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tik om rode ogen te verwijderen</string>
   <string name="refocus_data_downloading">Heroriëntatie downloaden…</string>
+  <string name="relation_text_empty_alert">Relatie info toevoegen</string>
+  <string name="relation_text_family">Familie lid</string>
+  <string name="relation_text_father">Vader</string>
+  <string name="relation_text_grandfather">Grootvader van vaderszijde</string>
+  <string name="relation_text_grandmother">Grootmoeder van vaderszijde</string>
+  <string name="relation_text_maternal_grandfather">Grootvader van moederszijde</string>
+  <string name="relation_text_maternal_grandmother">Grootmoeder van moederszijde</string>
+  <string name="relation_text_mother">Moeder</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s items kunnen niet verwijderd worden uit verborgen album: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Verwijderd uit verborgen album</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s items niet verwijderd uit verborgen album</string>
@@ -536,6 +593,7 @@
   <string name="rotate">Draaien</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Sleep foto om te draaien</string>
+  <string name="same_name_album_exist_and_toast">"Een album met dezelfde naam bestaat reeds. Maak '%s' aan in plaats daarvan."</string>
   <string name="same_name_album_exists_alert">"Foto's worden toegevoegd naar een bestaand album met dezelfde naam"</string>
   <string name="saturation">Verzadiging</string>
   <string name="saturation_abbr">S</string>
@@ -554,7 +612,6 @@
   <string name="script">Script</string>
   <string name="sd_not_available">Geen toegang tot SD-kaart</string>
   <string name="sdcard_root">SD-kaart root directory</string>
-  <string name="seconds">Seconden</string>
   <string name="secret_album_display_name">Geheim album</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_auto_upload_albums">Kies albums om naar de cloud te sync.</string>
@@ -564,9 +621,11 @@
   <string name="select_too_much_to_send_tips">"Zoveel items kunnen niet verzonden worden(maximaal %d items)."</string>
   <string name="select_video">Video selecteren</string>
   <string name="send">Verzenden</string>
+  <string name="send_invitation_fail">Kon uitnodiging niet verzenden</string>
   <string name="send_multiple_files_hint_format">Verzend (%s)</string>
   <string name="send_public_url">Verzend album URL</string>
   <string name="sepia">Sepia</string>
+  <string name="set_as_baby_lock_wallpaper">Instellen als vergrendelscherm achtergrond</string>
   <string name="set_hidden_album">Verbergen</string>
   <string name="set_label_all_albums">Alle albums</string>
   <string name="set_label_local_albums">Offline</string>
@@ -622,6 +681,7 @@
   <string name="straighten">Recht maken</string>
   <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
   <string name="straighten_tooltip">Sleep foto om hem recht te maken</string>
+  <string name="success_create_quick_icon_on_desk">Met succes aangemaakt</string>
   <string name="sync_album">Sync. albums</string>
   <string name="sync_album_error">"Foto's in dit album downloaden mislukt. Probeer het later opnieuw."</string>
   <string name="sync_album_in_proecess">Album sync. met server…</string>
@@ -648,6 +708,7 @@
   <string name="times">Opnametijden</string>
   <string name="tint">Tint</string>
   <string name="title">Titel</string>
+  <string name="title_set_name">Naam instellen</string>
   <string name="to_count">%d totaal</string>
   <string name="too_many_recipients">Te veel ontvangers(%1$s). (Max: %2$s ontvangers)</string>
   <string name="try_to_send">Verstuur</string>
@@ -682,7 +743,7 @@
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Waar is de QR code?</string>
   <string name="white_balance">Witbalans</string>
-  <string name="who_is_this">Wie staat er om deze foto?</string>
+  <string name="who_is_this">Wie?</string>
   <string name="widget_type">Afbeeldingen kiezen</string>
   <string name="widget_type_album">Een album selecteren</string>
   <string name="widget_type_photo">Een afbeelding kiezen</string>
@@ -691,5 +752,6 @@
   <string name="wps">WPS</string>
   <string name="yellow_page">Map</string>
   <string name="yes">Ja</string>
+  <string name="you_are"/>
   <string name="yunyi_pocket_camera">Sport Camera</string>
 </resources>

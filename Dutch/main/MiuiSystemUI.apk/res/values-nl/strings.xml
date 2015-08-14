@@ -55,6 +55,9 @@
   <string name="battery_low_percent_format">%d%% resterend</string>
   <string name="battery_low_title">Sluit de oplader aan</string>
   <string name="battery_profiles">Gebruik batterij profielen</string>
+  <string name="block_record_notification_more_text">%1$s %2$d apps. Aanraken om weer te geven</string>
+  <string name="block_record_notification_text">%1$s. Aanraken om weer te geven</string>
+  <string name="block_record_notification_title">Blokkeer record</string>
   <string name="bluetooth_tethered">Bluetooth getetherd</string>
   <string name="call_status_dialing">Kiezen</string>
   <string name="call_status_ringing">Bellen</string>
@@ -79,7 +82,7 @@
   <string name="description_direction_left">Veeg links voor %s.</string>
   <string name="description_direction_up">Veeg omhoog voor %s.</string>
   <string name="description_target_search">Zoeken</string>
-  <string name="disable_notification_summary">Nooit geen meldingen tonen van deze app.</string>
+  <string name="disable_notification_summary">"Verberg meldingen van apps'."</string>
   <string name="disable_notification_title">Blokkeer meldingen</string>
   <string name="dismount_storage">Nee</string>
   <string name="dlg_confirm_kill_storage_users_text">Als u de USB opslag inschakelt, zullen sommige apps stoppen en niet beschikbaar zijn tot u de USB opslag uitschakelt.</string>
@@ -87,6 +90,7 @@
   <string name="dlg_error_title">USB operatie gefaald</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">U bent in de auto modus</string>
+  <string name="expanded_confirm_disable_notification">Bevestigen</string>
   <string name="expanded_notification_manager">Meldingen beheren</string>
   <string name="ext_media_badremoval_notification_message">Ontkoppel de SD-kaart voor het verwijderen om het verlies van data te voorkomen.</string>
   <string name="ext_media_badremoval_notification_title">SD-kaart onverwacht verwijderd</string>
@@ -110,6 +114,7 @@
   <string name="headset_settings">Koptelefoon verbonden</string>
   <string name="hint_for_long_press_app_switch_key">Druk &amp; inhouden voor menu</string>
   <string name="invalid_charger">Opladen via USB niet ondersteund.Gebruik alleen de bijgeleverde oplader.</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Weergeven</string>
   <string name="lockscreen_carrier_default">Geen bereik</string>
   <string name="mdb_entering">Opstarten…</string>
@@ -122,7 +127,9 @@
   <string name="media_projection_action_text">Nu starten</string>
   <string name="media_projection_dialog_text">"%s begint met het vastleggen van alles wat er op je scherm verschijnt."</string>
   <string name="media_projection_remember_text">Niet meer weergeven</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mount_storage">Ja</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Geen meldingen</string>
   <string name="notification_otg_gamestick_in">Game controller verbonden</string>
   <string name="notification_otg_gamestick_out">Game controller ontkoppeld</string>

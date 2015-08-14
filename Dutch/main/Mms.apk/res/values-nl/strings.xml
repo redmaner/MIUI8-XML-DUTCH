@@ -105,7 +105,7 @@
   <string name="conversation_style">Bubble</string>
   <string name="converting_to_picture_message">Converteren naar MMS bericht, hieraan zijn kosten verbonden</string>
   <string name="converting_to_text_message">Converteren naar SMS…</string>
-  <string name="copy_message_text">Tekst kopiëren</string>
+  <string name="copy_message_text">Kopiëren</string>
   <string name="copy_message_text_success">Bericht succesvol gekopiëerd</string>
   <string name="copy_to_sdcard">Bijlage opslaan</string>
   <string name="copy_to_sdcard_fail">Bijlage opslaan mislukt</string>
@@ -252,8 +252,11 @@
   <string name="move_down">Naar beneden</string>
   <string name="move_up">Naar boven</string>
   <string name="msg_type_hint_mms">Multimedia bericht (MMS)</string>
-  <string name="msg_type_hint_mx">Cloud bericht</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
+  <string name="msg_type_hint_mx">Mi bericht</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Tekst bericht</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Naar beneden trekken om meer weer te geven</string>
   <string name="msglist_more_refreshing">Vernieuwen…</string>
   <string name="msglist_no_more_to_refresh">Al bijgewerkt</string>
@@ -335,6 +338,7 @@
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversaties lijst</string>
+  <string name="pref_show_sms_template_in_summary">Automatisch OTP detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Automatisch kopiëren en in de verificatie codes invullen</string>
   <string name="pref_sms_theme_title">Thema instellingen</string>
   <string name="pref_summary_allow_si_sl_push">Ontvangst en meldig toestaan aan WAP push berichten (SI/SL)</string>
@@ -354,6 +358,7 @@
   <string name="pref_summary_show_recent_contacts">Lijst met recente contacten weergeven tijdens het opstellen van een nieuw bericht</string>
   <string name="pref_summary_wake_up_screen">Scherm gaat aan bij inkomende berichten</string>
   <string name="pref_system_title">Systeem</string>
+  <string name="pref_time_auto_group_disabled_summary">Is niet ondersteunt in huidige letter grootte</string>
   <string name="pref_time_auto_group_summary">Groeps berichten die worden ontvangen binnen een minuut van elkaar in dezelfde thread</string>
   <string name="pref_time_auto_group_title">Groepeer op tijd</string>
   <string name="pref_title_allow_si_sl_push">WAP push toestaan</string>
@@ -421,7 +426,7 @@
   <string name="resize_image_error_information">Deze afbeelding is te groot om te verzenden, zelfs als het formaat wordt aangepast.</string>
   <string name="resource_price_free">Gratis</string>
   <string name="restore_all_button_msg">Geblokkeerde berichten herstellen van dit nummer</string>
-  <string name="restore_blocked_message">Geblokkeerd bericht herstellen</string>
+  <string name="restore_blocked_message">Herstellen</string>
   <string name="restore_to_phone_memory_failed">Herstellen naar telefoon geheugen mislukt</string>
   <string name="restored_to_phone_memory">Hersteld</string>
   <string name="retrive_hms_tips">Ontvangen…</string>
@@ -538,6 +543,7 @@
   <string name="title_date_type">Tijdstempel</string>
   <string name="title_show_blocked_messages">Geef geblokeerde SMS weer</string>
   <string name="title_show_sms_template">Controleer SMS voor verificatie codes</string>
+  <string name="title_show_sms_template_in">Controleer SMS op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
   <string name="to_address_label">"Aan: "</string>
   <string name="to_count">%d onvangers</string>
