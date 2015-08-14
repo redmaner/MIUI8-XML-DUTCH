@@ -152,7 +152,7 @@
   <string name="cloud_antispam_mark">Markeren als spam</string>
   <string name="cloud_antispam_title">Onbekende nummers identificeren</string>
   <string name="cloud_recommend_msg">Tik om contacten te sync. met Mi Cloud.</string>
-  <string name="cloud_state_disabled">Sync met Mi Cloud is uitgeschakeld</string>
+  <string name="cloud_state_disabled">Sync. met Mi Cloud is uitgeschakeld</string>
   <string name="cloud_state_loading">Een momentje…</string>
   <string name="cloud_state_sync_finished">Sync. met Mi Cloud</string>
   <string name="cloud_state_syncing">Gesync. met Mi Cloud</string>
@@ -183,17 +183,17 @@
   <string name="contact_delete_toast">Contactpersoon verwijderd</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
   <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
-  <string name="contact_detail_menu_delete_miprofile">Kaart verwijderen</string>
+  <string name="contact_detail_menu_delete_miprofile">Visitekaartje verwijderen</string>
   <string name="contact_detail_miprofile_accept">Visitekaartjes  uitwisselen</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Kon visitekaartje niet uitwisselen</string>
   <string name="contact_detail_miprofile_accept_success_toast">Visitekaartjes uitgewisseld</string>
   <string name="contact_detail_miprofile_binded_label">Toegevoegd</string>
   <string name="contact_detail_miprofile_exchange_closed">"Telefoonnummer wordt niet geassocieerd met dit Mi Account.
 Visitekaartjes zijn uitgeschakeld"</string>
-  <string name="contact_detail_miprofile_privacy_settings">Contacten moet uw toestemming krijgen om uw visitekaartje te bekijken</string>
+  <string name="contact_detail_miprofile_privacy_settings">Contacten moeten uw toestemming krijgen om uw visitekaartje te bekijken</string>
   <string name="contact_detail_miprofile_request">Tik om kaarten ui te wisselen</string>
   <string name="contact_detail_miprofile_request_fail_toast">Kon verzoek niet verzenden</string>
-  <string name="contact_detail_miprofile_request_subtitle">Na aanvaarding van de ontvanger , zal profiel foto en contactgegevens automatisch worden bijgewerkt</string>
+  <string name="contact_detail_miprofile_request_subtitle">Na aanvaarding van de ontvanger, zal profiel foto en contactgegevens automatisch worden bijgewerkt</string>
   <string name="contact_detail_miprofile_request_success_toast">Verzoek verzonden</string>
   <string name="contact_detail_miprofile_save">Tik om visitekaartje te verkrijgen</string>
   <string name="contact_detail_miprofile_save_fail_toast">Kon visitekaartje niet verkrijgen</string>
@@ -600,7 +600,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_alertdialog_edit">Naam invoeren</string>
   <string name="miprofile_alertdialog_message">Toon deze naam aan contacten wanneer u vraagt om visitekaartjes uit te wisselen.</string>
   <string name="miprofile_alertdialog_title">Naam invoeren</string>
-  <string name="miprofile_bind_account_alertdialog_message">Je moet het telefoonnummer van dit apparaat toevoegen aan uw Mi-account om deze functie te gebruiken.</string>
+  <string name="miprofile_bind_account_alertdialog_message">Je moet het telefoonnummer van dit apparaat toevoegen aan uw Mi account om deze functie te gebruiken.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Nummer toevoegen</string>
   <string name="miprofile_bind_account_alertdialog_title">Telefoonnr. toevoegen</string>
   <string name="miprofile_edit_title">Visitekaartje bewerken</string>
@@ -608,7 +608,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_error_no_miaccount">Aanmelden op je Mi Account</string>
   <string name="miprofile_error_not_opened">Visitekaartjes zijn uitgeschakeld</string>
   <string name="miprofile_error_not_set">Je visitekaartje is niet gesync. met de server</string>
-  <string name="miprofile_error_unknown">Onberkende fout</string>
+  <string name="miprofile_error_unknown">Onbekende fout</string>
   <string name="miprofile_name">Mijn visitekaartje</string>
   <string name="miprofile_notice_text">"Tik om profiel foto van contact te bekijken</string>
   <string name="miprofile_request_agenda_date">%1$s wil visitekaartjes uitwisselen</string>
@@ -616,7 +616,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_request_agenda_yesterday">%1$s wil visitekaartjes uitwisselen</string>
   <string name="miprofile_request_agree">Aanvaarden</string>
   <string name="miprofile_request_agree_exchange_profile">Visitekaartjes uitwisselen</string>
-  <string name="miprofile_request_agreed">%1$s Gaat akkoord om visitekaartjes uit te wisselen met mij</string>
+  <string name="miprofile_request_agreed">%1$s gaat akkoord om visitekaartjes uit te wisselen met mij</string>
   <string name="miprofile_request_alertdialog_message">Uw visitekaartje wordt automatisch verzonden na deze persoon het aanvaarde.</string>
   <string name="miprofile_request_alertdialog_title">Visitekaartjes uitwisselen</string>
   <string name="miprofile_request_clear_alertdialog_message">Geschiedenis uitwisselen visitekaartjes verwijderen?</string>
@@ -629,7 +629,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_request_notification_message">Aanvaarden om profiel foto en meer info te bekijken</string>
   <string name="miprofile_request_notification_title">%1$s personen willen visitekaartjes uitwisselen</string>
   <string name="miprofile_request_notification_title_name">%1$s personen willen visitekaartjes uitwisselen</string>
-  <string name="miprofile_request_time_expired_deleted">Verzoeken ouder dan 1 week worden automa verwijderd.</string>
+  <string name="miprofile_request_time_expired_deleted">Verzoeken ouder dan 1 week worden automatisch verwijderd.</string>
   <string name="miprofile_save_alertdialog_message">Je visitekaartje word automatisch naar dit contact verzonden.</string>
   <string name="miprofile_save_alertdialog_title">Visitekaartje ontvangen</string>
   <string name="miprofile_switch_off_alertdialog_message">Je zal niet in staat zijn om visitekaartjes uit te wisselen met andere mensen. Uw contacten zullen uw profiel video niet zien.</string>
@@ -775,7 +775,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="preference_phone">Telefoon</string>
   <string name="preference_phone_more_title">Bel instellingen</string>
   <string name="preference_remove_duplicate">Voeg dubbele contacten samen</string>
-  <string name="preference_simple_mode_description">Foto's weergeven en andere contactgegevens in de lijstweergave</string>
+  <string name="preference_simple_mode_description">Foto's en andere contactgegevens weergeven in de lijstweergave</string>
   <string name="preference_simple_mode_title">"Foto's en info weergeven"</string>
   <string name="preference_smart_group_company_summary">Groepeer per bedrijf</string>
   <string name="preference_smart_group_company_title">Per bedrijf</string>
