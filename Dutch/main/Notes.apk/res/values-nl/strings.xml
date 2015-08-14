@@ -5,12 +5,12 @@
   <string name="alert_action_edit_anyway">Doorgaan met aanpassen</string>
   <string name="alert_edit_action_delete">Verwijderen</string>
   <string name="alert_edit_action_update">Bijwerken</string>
-  <string name="alert_message_delete_folders">%1$s verwijderen?</string>
-  <string name="alert_message_delete_folders_notes">%1$s en %2$s verwijderen?</string>
-  <string name="alert_message_delete_note">Verwijderen bevestigen?</string>
-  <string name="alert_message_delete_notes">%1$s verwijderen?</string>
+  <string name="alert_message_delete">%1$s verwijderen?</string>
+  <string name="alert_message_delete_note">Deze notitie verwijderen?</string>
   <string name="alert_message_edit_anyway">Deze notitie bevat inhoud die niet wordt ondersteund, aanpassen kan resulteren in gegevensverlies.</string>
+  <string name="alert_title_delete">Notitie verwijderen</string>
   <string name="alert_title_edit_anyway">Bevestig aanpassen notitie, dit kan dataverlies veroorzaken, weet u het zeker?</string>
+  <string name="all_terms">%1$s en %2$s</string>
   <string name="app_name">Notities</string>
   <string name="app_widget">Notities</string>
   <string name="attachment_camera">Camera</string>
@@ -47,7 +47,8 @@
   <string name="menu_source">Van: %1$s</string>
   <string name="menu_stick">Prik</string>
   <string name="menu_title_select_folder">Selecteer map</string>
-  <string name="menu_unstick">Prik los</string>
+  <string name="menu_unstick">Losprikken</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Nu niet</string>
   <string name="note_alert_expired">Verlopen</string>
   <string name="note_link_email">Stuur e-mail</string>

@@ -3,5 +3,9 @@
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d recente apps</item>
         <item quantity="one">1 recente app</item>
+	</plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Blokkeer %d apps</item>
+        <item quantity="one">Blokkeer %d app</item>
     </plurals>
 </resources>

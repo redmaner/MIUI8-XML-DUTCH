@@ -9,6 +9,8 @@
   <string name="caller_info_name_delimiter">" of "</string>
   <string name="copy">Kopiëren</string>
   <string name="cut">Knippen</string>
+  <string name="fc_dialog_body">Bug rapport verzenden naar Mi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug te helpen oplossen en zal nooit worden gedeeld in een commerciële context.</string>
+  <string name="fc_dialog_jump_to_preview">Sammenvatting bekijken</string>
   <string name="first_back_long_press_message">"Druk op &amp; en houdt de knop Terug in om huidig proces en de achtergrond diensten te stoppen.
 
 Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"</string>
@@ -19,8 +21,10 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"<
   <string name="global_actions_reboot">Herstarten</string>
   <string name="global_actions_shutdown">Uitschakelen</string>
   <string name="global_actions_silent_mode">Stil</string>
+  <string name="handy_mode_enter_dlg_msg">Naar een-hand modus gaan?</string>
+  <string name="handy_mode_enter_dlg_title">Naar een-hand modus gaan</string>
   <string name="handy_mode_summary">Om te sluiten, tik op een donkere plaats</string>
-  <string name="handy_mode_title">Een hand modus</string>
+  <string name="handy_mode_title">Een-hand modus</string>
   <string name="key_btn_ok">Ok</string>
   <string name="key_btn_space">Ruimte</string>
   <string name="location_usage_restricted_body">Aanraken om beperkingen te verwijderen.</string>
@@ -60,28 +64,19 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"<
   <string name="status_bar_toggle_ac">Vergrendelscherm</string>
   <string name="status_bar_toggle_auto_brightness">Helderheid</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_brightness">Helderheid</string>
   <string name="status_bar_toggle_data">Data</string>
-  <string name="status_bar_toggle_divider">Meer</string>
-  <string name="status_bar_toggle_drive_mode">Auto</string>
   <string name="status_bar_toggle_flight_mode">Vliegmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Vergrendelen</string>
   <string name="status_bar_toggle_mute">Stil</string>
-  <string name="status_bar_toggle_network_type">Netwerk</string>
   <string name="status_bar_toggle_paper_mode">Lees modus</string>
   <string name="status_bar_toggle_power_mode">Prestatie</string>
   <string name="status_bar_toggle_privacy_mode">Gast</string>
   <string name="status_bar_toggle_quiet_mode">Niet storen</string>
-  <string name="status_bar_toggle_reboot">Herstarten</string>
   <string name="status_bar_toggle_rotate">Rotatie uit</string>
   <string name="status_bar_toggle_screen_button">Uitschakelen</string>
   <string name="status_bar_toggle_screenshot">Schermafdruk</string>
-  <string name="status_bar_toggle_shutdown">Power</string>
   <string name="status_bar_toggle_sync">Sync.</string>
-  <string name="status_bar_toggle_sync_auto">Sync.</string>
-  <string name="status_bar_toggle_sync_manual">Sync.</string>
-  <string name="status_bar_toggle_syncing">Sync.</string>
   <string name="status_bar_toggle_torch">Zaklamp</string>
   <string name="status_bar_toggle_vibrate">Trillen</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>

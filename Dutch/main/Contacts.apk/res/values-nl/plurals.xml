@@ -116,5 +116,13 @@
 	<plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%d maal bellen</item>
         <item quantity="one">%d maal bellen</item>
+	</plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d contacten</item>
+        <item quantity="one">%1$d contact</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d contacten zijn niet gesync."</item>
+        <item quantity="one">"1 contact is niet gesync."</item>	
     </plurals>
 </resources>
