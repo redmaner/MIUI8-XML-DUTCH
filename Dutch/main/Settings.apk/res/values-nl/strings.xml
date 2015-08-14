@@ -838,7 +838,13 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="disable_service_title">%1$s beëindigen?</string>
   <string name="disable_text">Uitschakelen</string>
   <string name="disabled">Uitgeschakeld</string>
-  <string name="disconnect">Connectie verbreken</string>
+  <string name="disabled_because_no_backup_security">Om te gebruiken, eerst een vergrendelscherm instellen</string>
+  <string name="disconnect">Connectie verbroken</string>
+  <string name="display_auto_rotate_rotate">Draai de inhoud van het scherm</string>
+  <string name="display_auto_rotate_stay_in_current">Blijf in de huidige oriëntatie</string>
+  <string name="display_auto_rotate_stay_in_landscape">Blijf in liggende weergave</string>
+  <string name="display_auto_rotate_stay_in_portrait">Blijf in staande weergave</string>
+  <string name="display_auto_rotate_title">Wanneer apparaat gedraaid is</string>
   <string name="display_font_size_label">Lettergrootte:</string>
   <string name="display_label">Scherm</string>
   <string name="display_order_text">Sorteren op:</string>
@@ -1994,6 +2000,21 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Algemene voorwaarden</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst van applicaties updaten met behulp van leesmodus over het netwerk</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Netwerk update lijst</string>
+  <string name="screen_pinning_description">"Wanneer ingeschakeld, je kan scherm pinnen gebruiken om huidige scherm in zicht te houden toedat je die ontpind.
+
+Op scherm pinnen te gebruiken:
+
+1.Mmaak u er zeker van dat Scherm pinnen is ingeschakeld.
+
+2. Scherm openen die je wilt oinnen.
+
+3. Aanraken voor overzicht.
+
+4. Touch the pin icon."</string>
+<string name="screen_pinning_title">Op scherm pinnen</string>
+<string name="screen_resolution_summary">Verminderen van de resolutie van het scherm zal fijne graden verminderen, om enigszins de power en vlotheid te verbeterenen vice versa. De wijzigingen hebben een herstart van het syteem nodig.</string>
+<string name="screen_resolution_switch">Verwissel scherm resolutie</string>
+<string name="screen_resolution_title">Scherm resolutie</string>
   <string name="screen_saturation">Kleur verzadiging</string>
   <string name="screen_timeout">Slapen</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
