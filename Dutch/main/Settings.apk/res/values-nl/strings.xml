@@ -507,7 +507,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
   <string name="button_disconnect_network">Verbreek de verbinding met het netwerk</string>
-  <string name="button_light_timeout">Lichtinstellingen toetsen </string>
+  <string name="button_light_timeout">Tijsdduur knop licht</string>
   <string name="button_text_login">Aanmelden</string>
   <string name="button_text_reboot_now">Herstart nu</string>
   <string name="cache_header_label">Cachegeheugen</string>
@@ -980,6 +980,7 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="error_name_empty">"Het veld 'Naam' mag niet leeg zijn."</string>
   <string name="error_title"/>
   <string name="every_day">Dagelijks</string>
+  <string name="experience_optimization_category">Ervarings optimalisatie</string>
   <string name="external_code_size_label">USB opslagapparaat</string>
   <string name="external_data_size_label">USB opslaggegevens</string>
   <string name="factory_reset_summary">U kunt uw persoonlijke gegevens wissen door uw telefoon te resetten, of ervoor te kiezen om de geïnstalleerde apps te wissen en de SD-kaart te formatteren om naar de fabrieksinstellingen terug te keren</string>
@@ -1183,8 +1184,8 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="keep_screen_on">Standby</string>
   <string name="keep_screen_on_summary">Scherm gaat nooit uit tijdens het opladen</string>
   <string name="kernel_version">Kernel versie</string>
-  <string name="key_settings">Toetsen</string>
-  <string name="key_settings_title">Toetsen</string>
+  <string name="key_settings">Knoppen</string>
+  <string name="key_settings_title">Knoppen</string>
   <string name="keyboard_layout_default_label">Standaard</string>
   <string name="keyboard_layout_dialog_setup_button">Toetsenbordindelingen instellen</string>
   <string name="keyboard_layout_dialog_switch_hint">Druk op Ctrl spatiebalk om te schakelen</string>
@@ -1713,11 +1714,11 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_usage_summary">Waarvoor de batterij is gebruikt</string>
   <string name="power_usage_summary_title">Batterij &amp; prestatie</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="pref_button_light">Toets verlichting</string>
-  <string name="pref_button_light_summary">Menu, Home en Terug toets indicator</string>
-  <string name="pref_operational_key">Operationele toets</string>
+  <string name="pref_button_light">Knop lichten</string>
+  <string name="pref_button_light_summary">Menu, Home en Terug knop aanduiding verlichten</string>
+  <string name="pref_operational_key">Operationele knop</string>
   <string name="pref_volume_wake_summary">Volume knoppen ontwaken het apparaat</string>
-  <string name="pref_volume_wake_title">Ontwaken door middel van Volume toetsen</string>
+  <string name="pref_volume_wake_title">Ontwaken door middel van Volume Knoppen</string>
   <string name="preference_change_password_title">Wachtwoord wijzigen</string>
   <string name="preferred_app_settings">Standaard app instellingen</string>
   <string name="preferred_app_settings_default">Standaard</string>
@@ -2010,7 +2011,7 @@ Op scherm pinnen te gebruiken:
 
 3. Aanraken voor overzicht.
 
-4. Touch the pin icon."</string>
+4. Aanraken om icoon te pinnen."</string>
 <string name="screen_pinning_title">Op scherm pinnen</string>
 <string name="screen_resolution_summary">Verminderen van de resolutie van het scherm zal fijne graden verminderen, om enigszins de power en vlotheid te verbeterenen vice versa. De wijzigingen hebben een herstart van het syteem nodig.</string>
 <string name="screen_resolution_switch">Verwissel scherm resolutie</string>
@@ -2062,7 +2063,7 @@ Op scherm pinnen te gebruiken:
   <string name="search_access_control">Toegang beheer</string>
   <string name="search_accessibility">Toegankelijkheid</string>
   <string name="search_airplane">Vliegtuig</string>
- <string name="search_android_beam">beam</string>
+  <string name="search_android_beam">beam</string>
   <string name="search_battery">Batterij</string>
   <string name="search_battery_indicator">Batterij indicatie</string>
   <string name="search_bluetooth">Bluetooth</string>
@@ -2074,7 +2075,7 @@ Op scherm pinnen te gebruiken:
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">Handige modus</string>
   <string name="search_hint">Zoek instellingen</string>
-  <string name="search_key">Toets</string>
+  <string name="search_key">Knop</string>
   <string name="search_label">Instellingen</string>
   <string name="search_language">Taal</string>
   <string name="search_led">Led</string>
@@ -2247,18 +2248,18 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Standby tijd</string>
   <string name="status_bar_and_notification_bar">Meldings- en statusbalk</string>
-  <string name="status_bar_app_disable_notification">Leeg</string>
+  <string name="status_bar_app_disable_notification">Verberg meldingen</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Vergrendelscherm, meldings schaduw</string>
   <string name="status_bar_app_enable_on_notificationBar">Meldings schaduw</string>
-  <string name="status_bar_key_position_custom">Aangepaste toets positie</string>
-  <string name="status_bar_screen_button_key">Virtuele schermtoetsen</string>
-  <string name="status_bar_screen_key_back">Terug toets</string>
-  <string name="status_bar_screen_key_home">Home toets</string>
-  <string name="status_bar_screen_key_menu">Menu toets</string>
-  <string name="status_bar_screen_key_recent_apps">Recente apps toets</string>
+  <string name="status_bar_key_position_custom">Aangepaste knop positie</string>
+  <string name="status_bar_screen_button_key">Virtuele schermknoppen</string>
+  <string name="status_bar_screen_key_back">Terug knop</string>
+  <string name="status_bar_screen_key_home">Home knop</string>
+  <string name="status_bar_screen_key_menu">Menu knop</string>
+  <string name="status_bar_screen_key_recent_apps">Recente apps knop</string>
   <string name="status_bar_settings">Meldingen</string>
   <string name="status_bar_settings_advanced">Additionele instellingen</string>
-  <string name="status_bar_settings_all_app_display_loading">Laden…</string>
+  <string name="status_bar_settings_all_app_display_loading">Een momentje…</string>
   <string name="status_bar_settings_basic_settings">Basis instellingen</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Providernaam aanpassen</string>
@@ -2274,7 +2275,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_priority_summary">Meldingen weergeven bovenaan de lijst</string>
   <string name="status_bar_settings_notification_sound_vibrate">Geluiden &amp; Trillingen</string>
   <string name="status_bar_settings_show_carrier">Toon provider</string>
-  <string name="status_bar_settings_show_carrier_summary">Alleen op vergrendelscherm weergeven</string>
+  <string name="status_bar_settings_show_carrier_summary">Provider naam zal nog steeds wordt weergegeven op het vergrendelscherm en in de melding schaduw als deze functie is uitgeschakeld</string>
   <string name="status_bar_settings_show_flow_info">Flow details weergegeven</string>
   <string name="status_bar_settings_show_home_message">App icoon badge</string>
   <string name="status_bar_settings_show_keyguard_notification">Zwevende meldingen en vergrendelscherm</string>
@@ -2745,7 +2746,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wfd_menu_teardown">Stoppen</string>
   <string name="wfd_settings_description">Met scherm verbinden via Wi-Fi</string>
   <string name="wfd_settings_title">Draadloze scherm</string>
-  <string name="wfd_wps_keypad">Druk op de gewenste toets</string>
+  <string name="wfd_wps_keypad">Druk op de gewenste knop</string>
   <string name="wfd_wps_pbc">Voorkeur voor PIN</string>
   <string name="whetstone_level_reboot">Deze instelling wordt van kracht nadat het toestel opnieuw is opgestart</string>
   <string name="whetstone_level_reboot_OK">Opnieuw opstarten</string>
