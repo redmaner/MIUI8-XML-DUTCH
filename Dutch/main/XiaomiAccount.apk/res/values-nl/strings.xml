@@ -30,9 +30,9 @@
   <string name="account_user_avatar">Profiel foto</string>
   <string name="account_user_avatar_from_album">Foto kiezen</string>
   <string name="account_user_avatar_from_camera">Foto nemen</string>
-  <string name="account_user_base_info">Gebruikers info</string>
+  <string name="account_user_base_info">Persoonlijke info</string>
   <string name="account_user_birthday">Verjaardag</string>
-  <string name="account_user_details">Gebruikers info</string>
+  <string name="account_user_details">Persoonlijke info</string>
   <string name="account_user_email">Email</string>
   <string name="account_user_gender">Geslacht</string>
   <string name="account_user_gender_female">Vrouw</string>
@@ -42,7 +42,7 @@
   <string name="account_user_name_dialog_title">Voer gebruikersnaam in</string>
   <string name="account_user_phone">Telefoon nummer</string>
   <string name="account_user_recovery_phone">Herstel telefoon</string>
-  <string name="account_user_secure_info">Veiligheids info</string>
+  <string name="account_user_secure_info">Telefoon &amp; email</string>
   <string name="account_user_using_facebook_avatar">Gebruik Facebook profiel foto</string>
   <string name="account_user_using_qq_avatar">Gebruik QQ profiel foto</string>
   <string name="account_user_using_weibo_avatar">Gebruik Sina Weibo profiel foto</string>
@@ -122,7 +122,7 @@ Gelieve de verificatiecode in te voeren in de e-mail"</string>
   <string name="input_vcode_hint">Voer verificatie code in</string>
   <string name="just_a_second">Een momentje…</string>
   <string name="license_host_unreachable">Kan niet verbinden netwerk. U kunt deze pagina bekijken op %s."</string>
-  <string name="loading">Laden…</string>
+  <string name="loading">Een momentje…</string>
   <string name="loading_micloud_sync_data">Laden…</string>
   <string name="login">Aanmelden</string>
   <string name="login_failed">Aanmelden mislukt</string>
@@ -158,6 +158,7 @@ Gelieve de verificatiecode in te voeren in de e-mail"</string>
   <string name="other_devices">Andere apparaten</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
   <string name="passport_account_hint_text">E-mail of telefoonnummer</string>
+  <string name="passport_account_identity_title">Bevestig je identiteit</string>
   <string name="passport_account_name">Account: %1$s</string>
   <string name="passport_account_not_activated">Account is niet geactiveerd</string>
   <string name="passport_account_not_actived">Uw account is niet geactiveerd</string>
@@ -265,6 +266,7 @@ die verzonden is in je Postvak In."</string>
   <string name="passport_remove_confirm">Uitloggen</string>
   <string name="passport_remove_unactivated_account_notice">Je account is niet geactiveerd</string>
   <string name="passport_resend_active_email">Activatie e-mail opnieuw verzenden</string>
+  <string name="passport_send_too_many_code">Te veel verificatie codes zijn verzonden naar dit nummer. Wacht 24 uur en probeer opnieuw.</string>
   <string name="passport_sim_index_info">SIM kaart %1$d - %2$s</string>
   <string name="passport_skip_login">Aanmelden overslaan</string>
   <string name="passport_skip_register">Inschrijven overslaan</string>

@@ -190,7 +190,7 @@
   <string name="contact_detail_miprofile_binded_label">Toegevoegd</string>
   <string name="contact_detail_miprofile_exchange_closed">"Telefoonnummer wordt niet geassocieerd met dit Mi Account.
 Visitekaartjes zijn uitgeschakeld"</string>
-  <string name="contact_detail_miprofile_privacy_settings">Contacten moeten uw toestemming krijgen om uw visitekaartje te bekijken</string>
+  <string name="contact_detail_miprofile_privacy_settings">Heeft toestemming nodig om te bekijken</string>
   <string name="contact_detail_miprofile_request">Tik om kaarten ui te wisselen</string>
   <string name="contact_detail_miprofile_request_fail_toast">Kon verzoek niet verzenden</string>
   <string name="contact_detail_miprofile_request_subtitle">Na aanvaarding van de ontvanger, zal profiel foto en contactgegevens automatisch worden bijgewerkt</string>
@@ -198,7 +198,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contact_detail_miprofile_save">Tik om visitekaartje te verkrijgen</string>
   <string name="contact_detail_miprofile_save_fail_toast">Kon visitekaartje niet verkrijgen</string>
   <string name="contact_detail_miprofile_save_success_toast">Visitekaartje ontvangen</string>
-  <string name="contact_detail_miprofile_settings_header">Instellingen uitwisselen</string>
+  <string name="contact_detail_miprofile_settings_header">EXTRA INSTELLINGEN</string>
   <string name="contact_detail_miprofile_subtitle">Visitekaartje is reeds uitgewisseld</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Kan niet verbinden met netwerk</string>
   <string name="contact_detail_profile_switch_fail_toast">Er liep iets fout met onze server</string>
@@ -299,7 +299,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_voicemail_button">Voicemail</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="details_list_group_header_more_action">Meer</string>
-  <string name="details_list_group_header_other">Andere</string>
+  <string name="details_list_group_header_other">ANDERE</string>
   <string name="device_bluetooth_title">Contacten overzetten</string>
   <string name="device_brand_title">Merk kiezen</string>
   <string name="device_import_account_dialog_title">Account kiezen</string>
@@ -487,7 +487,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="in_call_show_demo_present">Voorbeeld</string>
   <string name="in_call_show_guide_start_recording">Nu opnemen</string>
   <string name="in_call_show_long_press_to_record">Druk &amp; en houden om op te nemen</string>
-  <string name="in_call_show_pick_video">Kies</string>
+  <string name="in_call_show_pick_video">Kies video</string>
   <string name="in_call_show_preview">Voorbeeld</string>
   <string name="in_call_show_recording">Opnemen…</string>
   <string name="in_call_show_reshoot">Prbeer opnieuw</string>
@@ -603,7 +603,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_bind_account_alertdialog_message">Je moet het telefoonnummer van dit apparaat toevoegen aan uw Mi account om deze functie te gebruiken.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Nummer toevoegen</string>
   <string name="miprofile_bind_account_alertdialog_title">Telefoonnr. toevoegen</string>
-  <string name="miprofile_edit_title">Visitekaartje bewerken</string>
+  <string name="miprofile_edit_title">Profiel bewerken</string>
   <string name="miprofile_error_accept_self">Je kan eigen visitekaartje niet uitwisselen</string>
   <string name="miprofile_error_no_miaccount">Aanmelden op je Mi Account</string>
   <string name="miprofile_error_not_opened">Visitekaartjes zijn uitgeschakeld</string>
@@ -618,7 +618,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_request_agree_exchange_profile">Visitekaartjes uitwisselen</string>
   <string name="miprofile_request_agreed">%1$s gaat akkoord om visitekaartjes uit te wisselen met mij</string>
   <string name="miprofile_request_alertdialog_message">Uw visitekaartje wordt automatisch verzonden na deze persoon het aanvaarde.</string>
-  <string name="miprofile_request_alertdialog_title">Visitekaartjes uitwisselen</string>
+  <string name="miprofile_request_alertdialog_title">Visitekaartje uitwisselen</string>
   <string name="miprofile_request_clear_alertdialog_message">Geschiedenis uitwisselen visitekaartjes verwijderen?</string>
   <string name="miprofile_request_clear_alertdialog_title">Geschiedenis verwijderen</string>
   <string name="miprofile_request_deleted">Visitekaartje verwijdered</string>
@@ -797,7 +797,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="private_num">Geheim nummer</string>
   <string name="profile_display_name">Mijn profiel instellen</string>
   <string name="profile_name">Mijn profiel</string>
-  <string name="profile_name_photo">Ik</string>
+  <string name="profile_name_photo">Foto</string>
   <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen…</string>
   <string name="pull_to_refresh_refreshing_label">Laden…</string>
   <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen…</string>

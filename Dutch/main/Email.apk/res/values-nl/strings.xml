@@ -95,6 +95,7 @@
   <string name="account_setup_failed_security">Kan geen verbinding maken met de server wegens een beveiligingsfout.</string>
   <string name="account_setup_failed_security_policies_unsupported">Voor deze server zijn beveiligingsfuncties nodig die uw Android apparaat niet ondersteunt, waaronder: %s</string>
   <string name="account_setup_failed_tls_required">TLS is vereist maar wordt niet ondersteund door de server.</string>
+  <string name="account_setup_failed_too_many_partnerships">Aanmelden mislukt, het maximum aantal toegestane server verbindingen is bereikt.</string>
   <string name="account_setup_incoming_delete_policy_label">E-mail verwijderen van server</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nooit</string>
   <string name="account_setup_incoming_headline">Instellingen voor de inkomende server</string>
@@ -561,7 +562,7 @@
   <string name="outbox_alert_description_insufficient_storage_error">Onvoldoende ruimte op de e-mailserver</string>
   <string name="outbox_alert_description_provision_error">Oorzaak: Provisie fout van de server tijdens het sync. van Postvak Uit </string>
   <string name="outbox_alert_description_reject_by_server">Geweigerd door %s</string>
-  <string name="outbox_alert_description_sent_failed">Grootte van de bijlage heeft het limiet van de ontvanger overschreden.</string>
+  <string name="outbox_alert_description_sent_failed">Grootte van de bijlage heeft het limiet van de server overschreden.</string>
   <string name="outbox_alert_description_time_out">Netwerk verbinding timed out</string>
   <string name="outbox_alert_duplicate_click">Bezig met synchroniseren</string>
   <string name="outbox_alert_edit_resend">Bewerken en opnieuw verzenden</string>
