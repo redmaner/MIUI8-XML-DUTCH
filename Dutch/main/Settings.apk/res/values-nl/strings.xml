@@ -561,11 +561,11 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="check_update">Controleer op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende gesprekken gebruiken voor meldingen</string>
   <string name="checking_for_updates">Controleren op updates…</string>
-  <string name="children_mode_enable_title">Ouderlijk toezicht</string>
+  <string name="children_mode_enable_title">Kinder modus</string>
   <string name="children_mode_set_apps_title">Toegankelijke apps</string>
-  <string name="children_mode_tips_off">Na het inschakelen van ouderlijk toezicht, tik op de home knop om naar startscherm terug te keren</string>
-  <string name="children_mode_tips_on">Na het uitschakelen van ouderlijk toezicht, tik op de home knop om naar startscherm terug te keren</string>
-  <string name="children_mode_title">Ouderlijk toezicht</string>
+  <string name="children_mode_tips_off">Na het inschakelen kinder modus, tikt u op de knop Home om terug te keren naar het startscherm</string>
+  <string name="children_mode_tips_on">Na het uitschakelen kinder modus, tikt u op de knop Home om terug te keren naar het startscherm</string>
+  <string name="children_mode_title">Kinder modus</string>
   <string name="choose_smartcover_type">Kies typegeval</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="cleaner">Opruimer</string>
@@ -1632,7 +1632,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Eigenaarsgegevens</string>
   <string name="packages_subtitle">Bijgeleverde pakketten</string>
-  <string name="page_layout_1">Zon 28/12</string>
+  <string name="page_layout_1">Zon, 14 maart</string>
   <string name="page_layout_10">Instellingen</string>
   <string name="page_layout_11">Weer</string>
   <string name="page_layout_12">Beveiliging</string>
@@ -1642,7 +1642,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_2">Camera</string>
   <string name="page_layout_20">Directory</string>
   <string name="page_layout_21">182 contacten</string>
-  <string name="page_layout_22">Opzetten van mijn profiel</string>
+  <string name="page_layout_22">Mijn profiel</string>
   <string name="page_layout_23">Mijn groepen</string>
   <string name="page_layout_24">FAVORIETEN</string>
   <string name="page_layout_25">Daddy</string>
@@ -1996,26 +1996,11 @@ Deze instelling is van invloed op alle gebruikers van deze apparaat."</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Niet meer weergeven</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Akkoord en doorgaan</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Om de lijst van apps bij te werken die u in lees modus kan gebruiken, moet u verbinding maken met het internet.</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Algemene voorwaarden</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst van applicaties updaten met behulp van leesmodus over het netwerk</string>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Netwerk update lijst</string>
-  <string name="screen_pinning_description">"Wanneer ingeschakeld, je kan scherm pinnen gebruiken om huidige scherm in zicht te houden toedat je die ontpind.
-
-Op scherm pinnen te gebruiken:
-
-1.Mmaak u er zeker van dat Scherm pinnen is ingeschakeld.
-
-2. Scherm openen die je wilt oinnen.
-
-3. Aanraken voor overzicht.
-
-4. Aanraken om icoon te pinnen."</string>
-<string name="screen_pinning_title">Op scherm pinnen</string>
-<string name="screen_resolution_summary">Verminderen van de resolutie van het scherm zal fijne graden verminderen, om enigszins de power en vlotheid te verbeterenen vice versa. De wijzigingen hebben een herstart van het syteem nodig.</string>
-<string name="screen_resolution_switch">Verwissel scherm resolutie</string>
-<string name="screen_resolution_title">Scherm resolutie</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Toestaan</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Om de lijst van apps te updaten die Lees modus gebruiken, moet u verbinding maken met internet.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internet verbinding</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst met apps die lees modus gebruiken automatisch updaten</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch updaten</string>
   <string name="screen_saturation">Kleur verzadiging</string>
   <string name="screen_timeout">Slapen</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
@@ -2134,7 +2119,7 @@ Op scherm pinnen te gebruiken:
   <string name="service_stop_description">Deze service is gestart door de app. Als de service wordt gestopt, kan de app vastlopen.</string>
   <string name="services_subtitle">Services</string>
   <string name="set_password_action">Wachtwoord instellen</string>
-  <string name="set_password_message">Wachtwoord instellen om ouderlijk toezicht uit te schakelen en om apparaat te ontgrendelen</string>
+  <string name="set_password_message">Wachtwoord instellen om kinder modus uit te schakelen en om apparaat te ontgrendelen</string>
   <string name="set_password_title">Wachtwoord instellen</string>
   <string name="settings_backup">Back-up van instellingen maken</string>
   <string name="settings_backup_summary">Back-up maken van mijn instellingen</string>
@@ -2281,7 +2266,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_keyguard_notification">Zwevende meldingen en vergrendelscherm</string>
   <string name="status_bar_settings_show_keyguard_notification_summary"/>
   <string name="status_bar_settings_show_network_speed">Toon snelheid verbinding</string>
-  <string name="status_bar_settings_show_notification_icon">Meldings icoon weergeven</string>
+  <string name="status_bar_settings_show_notification_icon">Meldings iconen weergeven</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon schermafdruk melding</string>
   <string name="status_bar_settings_show_wifi_name">Toon Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Statusbalk</string>

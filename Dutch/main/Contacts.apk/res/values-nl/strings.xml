@@ -170,6 +170,7 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Belgeschiedenis verwijderen?</string>
   <string name="confirm_delete_selected_all_call_logs">Belgeschiedenis verwijderen?</string>
+  <string name="confirm_delete_sim_entry_miui_title">Verwijderen</string>
   <string name="confirm_export_message">Uw lijst met contactpersonen wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contactpersonen exporteren?</string>
   <string name="connections">Verbindingen</string>
@@ -191,9 +192,9 @@
   <string name="contact_detail_miprofile_exchange_closed">"Telefoonnummer wordt niet geassocieerd met dit Mi Account.
 Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contact_detail_miprofile_privacy_settings">Heeft toestemming nodig om te bekijken</string>
-  <string name="contact_detail_miprofile_request">Tik om kaarten ui te wisselen</string>
+  <string name="contact_detail_miprofile_request">Visitekaartjes uit wisselen</string>
   <string name="contact_detail_miprofile_request_fail_toast">Kon verzoek niet verzenden</string>
-  <string name="contact_detail_miprofile_request_subtitle">Na aanvaarding van de ontvanger, zal profiel foto en contactgegevens automatisch worden bijgewerkt</string>
+  <string name="contact_detail_miprofile_request_subtitle">Udate je profiel en contact foto</string>
   <string name="contact_detail_miprofile_request_success_toast">Verzoek verzonden</string>
   <string name="contact_detail_miprofile_save">Tik om visitekaartje te verkrijgen</string>
   <string name="contact_detail_miprofile_save_fail_toast">Kon visitekaartje niet verkrijgen</string>
@@ -205,9 +206,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contact_detail_profile_switch_off">Visitekaartjes is uitgeschakeld</string>
   <string name="contact_detail_profile_switch_off_fail_toast">Kon visitekaartjes niet uitschakelen</string>
   <string name="contact_detail_profile_switch_off_success_toast">Visitekaartjes uitgeschakeld</string>
-  <string name="contact_detail_profile_switch_on">"Geef contact' profiel foto weer"</string>
+  <string name="contact_detail_profile_switch_on">"Geef contact' profiel foto's weer"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">Kon visitekaartjes niet inschakelen</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Tik om deze functie in te schakelen.</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Tik om visitekaartjes in te schakelen.</string>
   <string name="contact_detail_profile_switch_on_success_toast">Visitekaartjes is reeds ingeschakeld</string>
   <string name="contact_directory_description">Map %1$s</string>
   <string name="contact_edit_title_edit">Contactpersoon bewerken</string>
@@ -485,12 +486,14 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="in_call_show_delete_message">Je video verwijderen?</string>
   <string name="in_call_show_delete_title">Video verwijderen?</string>
   <string name="in_call_show_demo_present">Voorbeeld</string>
+  <string name="in_call_show_guide_intro">"Een profiel video opnemen
+die zal afspelen op de apparaten van andere MIUI gebruikers 'als u belt "</string>
   <string name="in_call_show_guide_start_recording">Nu opnemen</string>
   <string name="in_call_show_long_press_to_record">Druk &amp; en houden om op te nemen</string>
   <string name="in_call_show_pick_video">Kies video</string>
   <string name="in_call_show_preview">Voorbeeld</string>
   <string name="in_call_show_recording">Opnemen…</string>
-  <string name="in_call_show_reshoot">Prbeer opnieuw</string>
+  <string name="in_call_show_reshoot">Opnieuw opnemen</string>
   <string name="in_call_show_save_completed">Profiel video opgeslaan</string>
   <string name="in_call_show_save_failed">Kon video niet opslaan</string>
   <string name="in_call_show_tap_to_show_demo">Tik om voorbeeld weer te geven</string>
@@ -606,7 +609,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_edit_title">Profiel bewerken</string>
   <string name="miprofile_error_accept_self">Je kan eigen visitekaartje niet uitwisselen</string>
   <string name="miprofile_error_no_miaccount">Aanmelden op je Mi Account</string>
-  <string name="miprofile_error_not_opened">Visitekaartjes zijn uitgeschakeld</string>
+  <string name="miprofile_error_not_opened">Visitekaartjes uitgeschakelen</string>
   <string name="miprofile_error_not_set">Je visitekaartje is niet gesync. met de server</string>
   <string name="miprofile_error_unknown">Onbekende fout</string>
   <string name="miprofile_name">Mijn visitekaartje</string>
@@ -845,8 +848,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="scan">Scan</string>
   <string name="scan_duplicate_message">%1$d contacten met overeenkomende gegevens</string>
   <string name="scan_merge">Bezig met zoeken naar dubbele contactpersonen…</string>
-  <string name="scan_qrcode_card_hint1">Scan QR code</string>
-  <string name="scan_qrcode_card_hint2">Mijn info toevoegen aan contacten</string>
+  <string name="scan_qrcode_card_hint1">Scan de QR code hierboven</string>
+  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">"De opslag kan niet worden gescand.(Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">"De opslag kan niet worden gescand"</string>
   <string name="sdcard_not_mounted_dialog_message">SD-kaart nu insteken.</string>
