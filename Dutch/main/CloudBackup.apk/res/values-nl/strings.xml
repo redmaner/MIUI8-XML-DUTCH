@@ -2,17 +2,18 @@
 <resources>
   <string name="about_to_recover">Een momentje…</string>
   <string name="app_name">Back-up apps​</string>
-  <string name="back_up_task_in_process">Bezig met back-up</string>
+  <string name="back_up_task_in_process">Bezig met back-up…</string>
   <string name="back_up_task_unfinished">Back-up niet voltooid</string>
   <string name="backing_up_to_micloud">Bezig met back-up…</string>
-  <string name="backup_fail">Back-up beginscherm apps mislukt</string>
+  <string name="backup_fail">Kon startscherm niet backuppen</string>
   <string name="backup_size">Grootte: %s</string>
-  <string name="backup_success">Back-up beginscherm apps gelukt</string>
+  <string name="backup_success">Back-up startscherm apps gebackuped</string>
   <string name="backup_to_cloud">App back-uppen</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_delete">Verwijderen</string>
   <string name="button_next">Volgende</string>
   <string name="cancel_recover_settings">&lt;u&gt;Annuleren&lt;/u&gt;</string>
+  <string name="click_try_to_restore_again">Tik om opnieuw te proberen</string>
   <string name="cloud_app_backup_success">App back-up voltooid</string>
   <string name="cloud_app_check_data">Communiceren met Mi Cloud…</string>
   <string name="cloud_app_current_device">Huidig apparaat</string>
@@ -25,9 +26,9 @@
   <string name="cloud_app_restore_error">Kon niet herstellen</string>
   <string name="cloud_app_restore_success">Apps hersteld</string>
   <string name="cloud_app_restore_wifi_prompt">Om te herstellen van een Mi Cloud back-up, moet u verbinding maken met een Wi-Fi netwerk.</string>
-  <string name="cloud_back_up_task">Bezig met Back-up</string>
+  <string name="cloud_back_up_task">Bezig met back-up…</string>
   <string name="cloud_restore_from_other_device">Stop met het herstellen van %s en deze back-up verwijderen? Je kan actie niet ongedaan maken.</string>
-  <string name="cloud_restore_task">Herstellen</string>
+  <string name="cloud_restore_task">Herstellen…</string>
   <string name="cloud_task_in_process">Stop %s en deze back-up verwijderen? Je kan deze actie niet ongedaan maken.</string>
   <string name="customization">&lt;u&gt;Aanpassen&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -40,8 +41,8 @@
   <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
   <string name="device_xiaomi">Mi Telefoon</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
-  <string name="download_settings">Download beginscherm instellingen: %s%%</string>
-  <string name="download_settings_fail">Downloaden van beginscherm instellingen mislukt</string>
+  <string name="download_settings">Downloaden van startscherm instellingen: %s%%</string>
+  <string name="download_settings_fail">Kon startscherm instellingen niet downloaden</string>
   <string name="error_unknown">Er liep iets fout</string>
   <string name="latest_backup_time_loading">Laden…</string>
   <string name="managespace_delete_backup">Back-up verwijderen</string>
@@ -57,11 +58,11 @@
   <string name="open_wifi_setting">Wi-Fi instellingen</string>
   <string name="process_whole_recovery">Herstellen van \"%s\"</string>
   <string name="recover_from_micloud">Herstellen van Mi Cloud back-up</string>
-  <string name="recover_home_settings">Herstel Home scherm instellingen</string>
+  <string name="recover_home_settings">Herstel startscherm instellingen</string>
   <string name="recover_miui_settings">Herstel MIUI systeem instellingen</string>
   <string name="recover_settings_description">Apparaat ingeschakeld laten</string>
   <string name="recovering">Herstellen van %s</string>
-  <string name="remove_task_in_process">Verwijderen</string>
+  <string name="remove_task_in_process">Verwijderen…</string>
   <string name="remove_task_unfinished">Verwijdering niet voltooid</string>
   <string name="restore_from_cloud">Herstellen van Mi Cloud back-up</string>
   <string name="restoreing_file_tile">Herstellen van %d bestanden</string>
@@ -70,6 +71,6 @@
   <string name="settings_backup">Systeem instellingen</string>
   <string name="start_backup_to_micloud">Back-up apps naar Mi Cloud</string>
   <string name="start_recover">Herstel %s</string>
-  <string name="wait_icon_download">Downloaden van applicatie icoon</string>
+  <string name="wait_icon_download">Downloaden van app icoon</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

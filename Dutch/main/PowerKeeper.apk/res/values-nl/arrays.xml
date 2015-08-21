@@ -4,25 +4,25 @@
         <item>cancro</item>
     </string-array>
     <string-array name="group_name">
-        <item>normaal</item>
-        <item>verbergen</item>
-        <item>lezen</item>
-        <item>media</item>
+        <item>Normaal</item>
+        <item>Verbergen</item>
+        <item>Lezen</item>
+        <item>Media</item>
     </string-array>
     <string-array name="group_name_translate">
-        <item>Standaard Modus</item>
+        <item>Standaard</item>
         <item>Verberg Modus</item>
         <item>Lees Modus</item>
         <item>Media Modus</item>
     </string-array>
      <string-array name="event_name_translate">
-        <item>App in de voorgrond</item>
+        <item>App loopt in de voorgrond</item>
         <item>Scherm Aan</item>
         <item>Scherm Uit</item>
         <item>Scrherm Uit in 10 minuten</item>
         <item>Ga naar Volledig Scherm</item>
         <item>Afsluiten Volledig Scherm</item>
-        <item>App is in achtergrond</item>
+        <item>App loopt in achtergrond</item>
         <item>Telefoon is aan het opladen</item>
         <item>Telefoon is niet aan het opladen</item>
         <item>Telefoon staat in ideale modus</item>
@@ -34,8 +34,9 @@
         <item>CPU verbruik</item>
         <item>Data connectie</item>
         <item>Locatie</item>
-        <item>Eerste bericht melding</item>
-        <item>Keyguard notificatie</item>
+        <item>Eerste melding</item>
+        <item>Vergrendelscherm meldingen</item>
+        <item>Beperk achtergrond data verbindingen</item>
     </string-array>
     <string-array name="action_param">
         <item>none</item>
@@ -53,11 +54,15 @@
         <item>Standaard</item>
         <item>Afbeelding</item>
         <item>Film</item>
-        <item>Batterij besparing</item>
+        <item>Batterij besparen</item>
         <item>Gebalanceerd</item>
         <item>Prestatie</item>
-        <item>Uitschakelen</item>
-        <item>Inschakelen</item>
+        <item>Aan</item>
+        <item>Uit</item>
+        <item>Onmiddellijk</item>
+        <item>Na 10 min</item>
+        <item>Na 30 min</item>
+        <item>Wanneer scherm uit is</item>
     </string-array>
     <string-array name="app_groups">
         <item>geselecteerd</item>

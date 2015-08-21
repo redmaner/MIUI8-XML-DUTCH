@@ -92,6 +92,7 @@
   <string name="dialog_roaming_apps_sorted_title">Sorteren op</string>
   <string name="dialog_roaming_message">Deze app toelaten om mobiele data gebruiken bij het overzees roamen?</string>
   <string name="dialog_roaming_title">Internationale roaming</string>
+  <string name="dialog_title_attention">Attentie</string>
   <string name="disable_air_mode">Vliegmodus eerst uitschakelen</string>
   <string name="dns_exception_summary">Controleer de router DNS instellingen.</string>
   <string name="dns_exception_title">Controleer de DNS instellingen</string>
@@ -360,9 +361,9 @@
   <string name="pref_whitelist_setting">Uitzonderingen beheren</string>
   <string name="privacy_declare_dialog_message">"Door het gebruik van deze dienst, gaat u akkoord met Opera's &lt;a href=%s&gt; Algemene Voorwaarden&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
-  <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en provider details zullen geüpload worden naar de servers van Mi om uw dataverbruik info te actualiseren.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Deze functie moet IMEI, telefoonnummer en provider informatie van uw apparaat naar de servers van Mi sturen om de dataverbruik statistieken van uw provider te verkrijgen.</string>
-  <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en provider details zullen worden geüpload naar de servers van Mi om meer informatie over data aankoop opties te verkrijgen.</string>
+  <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en provider details zullen gecodeerd en geüpload worden naar de servers van Mi om uw dataverbruik info te actualiseren.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Deze functie moet IMEI, telefoonnummer en provider informatie van uw apparaat gecodeerd naar de servers van Mi verzenden om de dataverbruik statistieken van uw provider te verkrijgen.</string>
+  <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en provider details zullen worden gecodeerd en geüpload naar de servers van Mi om meer informatie over data aankoop opties te verkrijgen.</string>
   <string name="privacy_prompt_upload">Upload</string>
   <string name="protocol_exception_title">Netwerk protocol diagnose</string>
   <string name="protocol_loop_back_exception_summary">Openbaar net loop test is mislukt. Om dit probleem aan MIUI melden, gaat u naar de Rappoteer Bug app en stuur een log van uw apparaat.</string>
@@ -375,16 +376,21 @@
   <string name="repair">Herstellen</string>
   <string name="repair_loading_text">Een momentje…</string>
   <string name="replace_dns">DNS automatisch vervangen</string>
+  <string name="restrictbackground_conflict_saving_msg">Kan data saver niet gebruiken als achtergrond gegevens beperkt zijn. Data saver uitscakelen en de achtergrond gegevens beperken?</string>
   <string name="right_precent">100%</string>
-  <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
-  <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
-  <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
-  <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
+  <string name="roaming_limit_dialog_message">Dagelijks roaming data limiet bereikt.</string>
+  <string name="roaming_limit_network_notification_body">Tik om beschikbare data netwerk weer te geven</string>
+  <string name="roaming_limit_notification_title">Dagelijks roaming data limiet bereikt.</string>
+  <string name="roaming_limit_warning_notification_body">Tik om data verbruik weer te geven.</string>
   <string name="roaming_not_start_body">Aanraken om dataroaming instellingen te bekijken.</string>
   <string name="roaming_not_start_title">Overzeese roaming</string>
   <string name="roaming_start_body">Aanraken om dataroaming van uitzonderingen te bekijken.</string>
   <string name="roaming_start_title">Overzeese roaming</string>
   <string name="root">Root toegang</string>
+  <string name="saving_conflict_dialog_cancel">Annuleren</string>
+  <string name="saving_conflict_dialog_ok">Ok</string>
+  <string name="saving_conflict_dialog_title">Attentie</string>
+  <string name="saving_conflict_restrictbackground_msg">Kan data saver niet gebruiken als achtergrond gegevens beperkt zijn. Achtergrondgegevens  toestaan en data saver aan?</string>
   <string name="sc_allow_network_dialog_message">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
   <string name="sc_allow_network_dialog_tiltle">Kan deze functie niet gebruiken</string>
   <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>

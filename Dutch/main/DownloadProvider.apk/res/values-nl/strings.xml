@@ -3,8 +3,10 @@
   <string name="app_label">Downloadbeheer</string>
   <string name="auto_restart_under_wifi">Wi-Fi zal dit bestand automatisch downloaden</string>
   <string name="button_cancel_download">Annuleren</string>
+  <string name="button_download_now">Nu downloaden</string>
   <string name="button_queue_for_wifi">Wachtrij</string>
   <string name="button_start_now">Nu starten</string>
+  <string name="button_wait_for_wifi">Wachten</string>
   <string name="dialog_insufficient_space_on_cache">Niet genoeg ruimte op interne opslag</string>
   <string name="dialog_insufficient_space_on_external">Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_not_show_again">Niet meer weergeven</string>
@@ -49,7 +51,13 @@
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">"Xunlei Accelerator gebruiken om je downloads te versnellen? De URL van de download gastheer  zal geüpload naar de servers van Xunlei's. Uw Mi Account gegevens zullen ook worden geüpload om te controleren of u een actieve abonnementen hebt op deze dienst."</string>
   <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="privacy_tip_title">Xunlei Accelerator gebruiken?</string>
+  <string name="recommended_file_more_in_mobile" formatted="false">Het gebruik van uw mobiele dataverbinding om deze bestanden %s (%s) te downloaden zal uw mobiele dataverbruik verhogen.</string>
+  <string name="recommended_file_one_in_mobile">Het gebruik van uw mobiele gegevensverbinding om dit bestand (%s) te downloaden zal uw mobiele dataverbruik verhogen.</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"Je bent niet verbonden met Wi-Fi. %s
+
+Kan bestandsgrootte info niet verkrijgen. Om uw mobiele dataverbinding gebruiken om dit bestand te downloaden, tik op %s. Wacht en download dit bestand wanneer je verbonden bent met Wi-Fi, tik op %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Kan bestandsgrootte info niet verkrijgen. Om uw mobiele dataverbinding gebruiken om dit bestand te downloaden, tik op%s. Kan bestandsgrootte info niet verkrijgen.  %s. Wacht en download dit bestand wanneer je verbonden bent met Wi-Fi, tik op %s."</string>
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Taak bestaat al</string>
   <string name="warning_tip_cancel">Downloaden</string>
