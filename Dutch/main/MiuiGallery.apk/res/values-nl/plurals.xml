@@ -1,8 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">"Verwijder %s foto's van dit album?"</item>
+        <item quantity="one">Verwijder %s foto van dit album?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">"Verwijder %s foto's?"</item>
+        <item quantity="one">Verwijder %s foto?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">"Verwijder %s video's van dit album?"</item>
+        <item quantity="one">Verwijder %s video van dit album?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">"Verwijder %s video's?"</item>
+        <item quantity="one">Verwijder %s video?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="zero">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d afbeeldingen</item>
+        <item quantity="zero">%1$d afbeeldingen</item>
+        <item quantity="one">%1$d afbeelding</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d items</item>
+        <item quantity="zero">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d mappen</item>
+        <item quantity="one">%d map</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Je hebt geen toestemming om deze %d bestanden te verwijderen.</item>
+        <item quantity="one">Je hebt geen toestemming om  dit %d bestand te verwijderen</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Je kan %d items selecteren</item>
+        <item quantity="one">Je kan %d item selecteren</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">"%1$s foto's of %2$s"</item>
+        <item quantity="one">%1$s foto of %2$s</item>
+    </plurals>
     <plurals name="confirm_delete_album">
         <item quantity="other">Verwijder %1$s albums (%2$s totaal)?</item>
         <item quantity="one">Verwijder %1$s album (%2$s totaal)?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">"Verwijder %1$d video's van %2$d albums?"</item>
+        <item quantity="one">Verwijder %1$d video van %2$d albums?</item>
+    </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">Verwijder %1$d afbeeldingen van %2$d albums?</item>
+        <item quantity="one">Verwijder %1$d afbeelding van %2$d albums?</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Deze gezichten niet weergeven?</item>
+        <item quantity="one">Dit gezicht niet weergeven?</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
+        <item quantity="one">%1$d foto van %2$s worden toegevoegd</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
+        <item quantity="one">%1$d foto of %2$s worden toegevoegd</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d jaren "</item>
+        <item quantity="one">"%1$d jaar "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">"%1$d maanden "</item>
+        <item quantity="one">"%1$d maand "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
         <item quantity="other">"Geselecteerde items bevatten foto's of video's in Mi Cloud, Verwijder %s items van dit apparaat en Mi Cloud?"</item>
@@ -31,98 +123,6 @@
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Verwijder %s items?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">"Verwijder %s foto's van dit album?"</item>
-        <item quantity="one">Verwijder %s foto van dit album?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">"Verwijder %s foto's?"</item>
-        <item quantity="one">Verwijder %s foto?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">"Verwijder %s video's van dit album?"</item>
-        <item quantity="one">Verwijder %s video van dit album?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">"Verwijder %s video's?"</item>
-        <item quantity="one">Verwijder %s video?</item>
-    </plurals>
-    <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">"Verwijder %1$d video's van %2$d albums?"</item>
-        <item quantity="one">Verwijder %1$d video van %2$d albums?</item>
-    </plurals>
-    <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Verwijder %1$d afbeeldingen van %2$d albums?</item>
-        <item quantity="one">Verwijder %1$d afbeelding van %2$d albums?</item>
-    </plurals>
-    <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="zero">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
-    </plurals>
-    <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-        <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
-    </plurals>
-    <plurals name="how_many_pics">
-        <item quantity="other">"%d foto's"</item>
-        <item quantity="one">%d foto</item>
-    </plurals>
-    <plurals name="how_many_videos">
-        <item quantity="other">"%d video's"</item>
-        <item quantity="one">%d video</item>
-    </plurals>
-    <plurals name="how_many_sub_folders">
-        <item quantity="other">%d mappen</item>
-        <item quantity="one">%d map</item>
-    </plurals>
-    <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">Je hebt geen toestemming om deze %d bestanden te verwijderen.</item>
-        <item quantity="one">Je hebt geen toestemming om  dit %d bestand te verwijderen</item>
-    </plurals>
-    <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Je kan %d items selecteren</item>
-        <item quantity="one">Je kan %d item selecteren</item>
-    </plurals>
-    <plurals name="number_of_images">
-        <item quantity="other">%1$d afbeeldingen</item>
-        <item quantity="zero">%1$d afbeeldingen</item>
-        <item quantity="one">%1$d afbeelding</item>
-    </plurals>
-    <plurals name="number_of_items">
-        <item quantity="other">%1$d items</item>
-        <item quantity="zero">%1$d items</item>
-        <item quantity="one">%1$d item</item>
-    </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%d seconden</item>
-        <item quantity="one">1 seconde</item>
-    </plurals>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Deze gezichten niet weergeven?</item>
-        <item quantity="one">Dit gezicht niet weergeven?</item>
-    </plurals>
-    <plurals name="more_face">
-        <item quantity="other">"%1$s foto's of %2$s"</item>
-        <item quantity="one">%1$s foto of %2$s</item>
-    </plurals>
-    <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
-        <item quantity="one">%1$d foto van %2$s worden toegevoegd</item>
-    </plurals>
-    <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
-        <item quantity="one">%1$d foto of %2$s worden toegevoegd</item>
-    </plurals>
-    <plurals name="baby_age_subtitle_year">
-        <item quantity="other">"%1$d jaren "</item>
-        <item quantity="one">"%1$d jaar "</item>
-    </plurals>
-    <plurals name="baby_age_subtitle_month">
-        <item quantity="other">"%1$d maanden "</item>
-        <item quantity="one">"%1$d maand "</item>
     </plurals>
     <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d dagen</item>
