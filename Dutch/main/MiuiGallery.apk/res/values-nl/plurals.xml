@@ -5,7 +5,7 @@
         <item quantity="one">Verwijder %1$s album (%2$s totaal)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">"&lt;Data>Geselecteerde items bevatten foto's of video's in Mi Cloud, Verwijder &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items van dit apparaat en Mi Cloud?&lt;/Data>"</item>
+        <item quantity="other">&lt;Data>Geselecteerde items bevatten foto's of video's in Mi Cloud, Verwijder &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items van dit apparaat en Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
         <item quantity="other">"&lt;Data>Geselecteerde items bevatten foto's in Mi Cloud, Verwijder &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto's van dit apparaat en Mi Cloud?&lt;/Data>"</item>
@@ -49,12 +49,12 @@
         <item quantity="one">Verwijder %s video?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">"&lt;Data>Verwijder &amp;lt;xliff:g id=ITEM>%1$d videos&amp;lt;/xliff:g> van %2$d albums?&lt;/Data>"</item>
+        <item quantity="other">"&lt;Data>Verwijder &amp;lt;xliff:g id=ITEM>%1$d video's&amp;lt;/xliff:g> van %2$d albums?&lt;/Data>"</item>
         <item quantity="one">&lt;Data>Verwijder &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> van %2$d albums?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Verwijder &amp;lt;xliff:g id=ITEM>%1$d images&amp;lt;/xliff:g> van %2$d albums?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Verwijder &amp;lt;xliff:g id=ITEM>%1$d image&amp;lt;/xliff:g> van %2$d albums?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Verwijder &amp;lt;xliff:g id=ITEM>%1$d afbeeldingen&amp;lt;/xliff:g> van %2$d albums?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Verwijder &amp;lt;xliff:g id=ITEM>%1$d afbeelding&amp;lt;/xliff:g> van %2$d albums?&lt;/Data></item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d geselecteerd</item>
@@ -79,8 +79,8 @@
         <item quantity="one">%d map</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">Je hebt geen toestemming om deze %d bestanden te verwijderen.</item>
-        <item quantity="one">Je hebt geen toestemming om  dit %d bestand te verwijderen</item>
+        <item quantity="other">"Je hebt geen toestemming om deze %d bestanden te verwijderen.."</item>
+        <item quantity="one">"Je hebt geen toestemming om  dit %d bestand te verwijderen"</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Je kan %d items selecteren</item>
@@ -105,16 +105,16 @@
         <item quantity="one">Dit gezicht niet weergeven?</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">"%1$s foto's of %2$s"</item>
-        <item quantity="one">%1$s foto of %2$s</item>
+        <item quantity="other">"%1$s foto's van %2$s"</item>
+        <item quantity="one">%1$s foto van %2$s</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
-        <item quantity="one">%1$d foto van %2$s worden toegevoegd</item>
+        <item quantity="one">%1$d foto van %2$s wordt toegevoegd</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
-        <item quantity="one">%1$d foto of %2$s worden toegevoegd</item>
+        <item quantity="one">%1$d photo of %2$s wordt toegevoegd</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
         <item quantity="other">"%1$d jaren "</item>
