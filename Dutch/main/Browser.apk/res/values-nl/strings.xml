@@ -19,13 +19,13 @@
   <string name="action">Aanmelden</string>
   <string name="action_menu_text_add_bookmark">Blw. toev.</string>
   <string name="action_menu_text_bandwidth">Data bespaarder</string>
-  <string name="action_menu_text_bandwidth_off">Data bespaarder uit</string>
-  <string name="action_menu_text_bandwidth_on">Data bespaarder aan</string>
+  <string name="action_menu_text_bandwidth_off">Data bespaarder</string>
+  <string name="action_menu_text_bandwidth_on">Data bespaarder</string>
   <string name="action_menu_text_bookmark_added">Bladwijzer toegevoegd</string>
   <string name="action_menu_text_copy_url">Kopiëer URL</string>
   <string name="action_menu_text_create_qr_code">QR code</string>
   <string name="action_menu_text_exit">Afsluiten</string>
-  <string name="action_menu_text_find_in_page">In pagina zoeken</string>
+  <string name="action_menu_text_find_in_page">Op pagina zoeken</string>
   <string name="action_menu_text_fullscreen">Volledig scherm</string>
   <string name="action_menu_text_history">Geschie.&amp;Favo.</string>
   <string name="action_menu_text_nightmode">Nacht modus</string>
@@ -74,7 +74,7 @@
   <string name="bookmark_folder_needs_title">Voer een groepsnaam in</string>
   <string name="bookmark_group_lable">Groep</string>
   <string name="bookmark_needs_title">Bladwijzer moet een naam hebben.</string>
-  <string name="bookmark_needs_url">Bladwijzer moeten een locatie hebben.</string>
+  <string name="bookmark_needs_url">Bladwijzer moeten een URL bevatten.</string>
   <string name="bookmark_not_saved">Kon bladwijzer niet opslaan</string>
   <string name="bookmark_rename_group">Wijzig groepsnaam</string>
   <string name="bookmark_saved">Bladwijzer opgeslagen</string>
@@ -249,7 +249,7 @@ Deze pagina verlaten?"</string>
   <string name="js_dialog_before_unload_title">Navigatie bevestigen</string>
   <string name="js_dialog_title">De pagina op \" %s\" zegt:</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_disable_confirm_message">JavaScript uitschakelen kan leiden tot incorrecte weergave van sommige websites</string>
+  <string name="js_disable_confirm_message">JavaScript uitschakelen kan leiden tot incorrecte weergave van sommige websites.</string>
   <string name="js_disable_confirm_title">JavaScript uitschakelen?</string>
   <string name="last_month">Laaste maand</string>
   <string name="license_activity_title">Systeem WebView licenties</string>
@@ -426,7 +426,7 @@ Deze pagina verlaten?"</string>
   <string name="profiler_stopped_toast">Profiler voltooid. Resultaten staan in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Achtergrond instellen…</string>
   <string name="qr_code_title">QR Code</string>
-  <string name="quicklink_bookmark_save">Pagina opslaan</string>
+  <string name="quicklink_bookmark_save">LOCATIE BLADWIJZER</string>
   <string name="quicklink_not_saved">Kon site niet toevoegen aan startpagina</string>
   <string name="quicklink_saved">Site toegevoegd aan startpagina</string>
   <string name="quicklink_saved_before">Site is al toegevoegd aan startpagina</string>
@@ -609,7 +609,7 @@ Deze pagina verlaten?"</string>
   <string name="voice_title_listening">Luisteren…</string>
   <string name="voice_title_please">Begin te praten…</string>
   <string name="voice_title_speech_again">Kan u niet verstaan</string>
-  <string name="webpage_bookmark_title">Bladwijzer</string>
+  <string name="webpage_bookmark_title">Bladwijzers</string>
   <string name="webpage_history_title">Geschiedenis</string>
   <string name="webpage_title">Bladwijzers &amp; Geschiedenis</string>
   <string name="webview_find_on_page">Op pagina zoeken</string>

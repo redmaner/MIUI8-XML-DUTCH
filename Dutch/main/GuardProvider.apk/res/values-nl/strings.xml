@@ -1,8 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="AVL">AVL</string>
+  <string name="DesAVL">AVL</string>
+  <string name="DesMi">Mi</string>
+  <string name="DesTencent">Tencent</string>
+  <string name="Mi">Mi</string>
+  <string name="Tencent">Tencent</string>
   <string name="app_name">com.securitycore.miui_t</string>
   <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Hallo Wereld!</string>
   <string name="menu_settings">Instellingen</string>
+  <string name="tencent_dialog_cloudscan">Uploaden en scannen van app namen en details met behulp van online virusdefinities.</string>
+  <string name="tencent_dialog_dbupdate">Virus definities automatisch updaten</string>
+  <string name="tencent_dialog_header">"Deze functie codeert en uploadt de ID van uw apparaat naar de servers van Tencent (%s)."</string>
+  <string name="tencent_dialog_policy">Geef Privacybeleid weer</string>
+  <string name="tencent_dialog_title">"Tencent’s Privacybeleid"</string>
+  <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
   <string name="title_activity_main">Hoofdactiviteit</string>
 </resources>

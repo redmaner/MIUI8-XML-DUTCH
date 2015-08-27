@@ -119,7 +119,7 @@
   <string name="camera_folder_display_name">"Camera foto's"</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Achtergrond</string>
-  <string name="camera_view_none_message">"Gebruik de camera om foto's en videos te maken."</string>
+  <string name="camera_view_none_message">"Foto's en videos die met de camera maakt zullen hier worden weergegeven."</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_hint">Handeling geannuleerd</string>
   <string name="cannot_delete_sharer_photo">"%s item(s) toegevoegd van andere leden kunt u niet verwijderen."</string>
@@ -127,8 +127,8 @@
   <string name="cannot_send_message">"Het bericht kan niet worden verzonden"</string>
   <string name="cannot_send_message_reason">Geen geldige ontvangers</string>
   <string name="cant_delete_system_album">Verwijderen mislukt: %s is een systeem album of gedeeld door andere mensen.</string>
-  <string name="change_to_face_mode">Veranderen naar gezicht modus</string>
-  <string name="change_to_photo_mode">Veranderen naar foto modus</string>
+  <string name="change_to_face_mode">Sorteren op personen</string>
+  <string name="change_to_photo_mode">Sorteren op albums</string>
   <string name="choose_baby_sexy">Geslacht</string>
   <string name="choose_cloud_album">Kies album</string>
   <string name="choose_owner_relation">Relatie</string>
@@ -186,7 +186,7 @@
   <string name="cool_portrait">Portret</string>
   <string name="create_baby_album">Maak een baby album aan</string>
   <string name="create_baby_album_dialog_msg">Maak een album voor \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Later kan u een baby album aanmaken op het menu rechtsboven</string>
+  <string name="create_baby_album_later_toast">Maak gelijk wanneer een baby album in Instellingen</string>
   <string name="create_new_cloud_folder">Nieuwe album aanmaken</string>
   <string name="create_new_face">Nieuwe persoon</string>
   <string name="create_quick_icon_on_desk">Snelkoppeling maken</string>
@@ -243,7 +243,7 @@
   <string name="effect">Filters</string>
   <string name="email_picker_title">Voeg gedeelde e-mail toe</string>
   <string name="enable">Inschakelen</string>
-  <string name="enable_cloud_for_sharing">U moet Cloud albums inschakelen om gedeelde afbeeldingen te bekijken.</string>
+  <string name="enable_cloud_for_sharing">"U moet Cloud albums inschakelen om gedeelde foto's te bekijken."</string>
   <string name="enabling_face_feature">Een momentje…</string>
   <string name="enter_email_hint">Voer e-mailadres in</string>
   <string name="error_album_not_exist">Album bestaat niet</string>
@@ -448,7 +448,7 @@
   <string name="moman_camera_icon">Moman Camera emoticons</string>
   <string name="moman_camera_picture">"Moman Camera foto's"</string>
   <string name="more">Meer</string>
-  <string name="more_face_album_name">Meer gezicht</string>
+  <string name="more_face_album_name">Meer personen</string>
   <string name="mosaic">Mozaïek</string>
   <string name="move">Verplaats</string>
   <string name="move_to_cloud_album">Verplaats naar</string>
@@ -476,7 +476,7 @@
   <string name="not_auto_create_recent_album">Aanmaken favorieten ongedaan maken</string>
   <string name="not_is">Niet</string>
   <string name="not_now">Nu niet</string>
-  <string name="not_remind_any_more">Later niet herrineren</string>
+  <string name="not_remind_any_more">Niet meer weergeven</string>
   <string name="not_show_hidden_albums">Verborgen albums niet tonen</string>
   <string name="old">Ouderwets</string>
   <string name="only_show_camera_in_first_page">Laat alleen de camera rol zien</string>
@@ -635,8 +635,8 @@
   <string name="set_lock_or_wallpaper">Stel in als achtergrond</string>
   <string name="set_lockscreen">Instellingen achtergrond</string>
   <string name="set_recent_album">Markeer als favoriete</string>
-  <string name="set_screensaver_path_message">"Foto's in dit album worden getoond in de schermbeveiliging."</string>
-  <string name="set_screensaver_path_message_if_only_charging">"Foto's in dit album worden getoond in de schermbeveiliging tijdens het opladen."</string>
+  <string name="set_screensaver_path_message">"Foto's in dit album worden weergeven in de schermbeveiliging."</string>
+  <string name="set_screensaver_path_message_if_only_charging">"Foto's in dit album worden weergeven in de schermbeveiliging tijdens het opladen."</string>
   <string name="set_screensaver_path_title">Schermbeveiliging diavoorstelling</string>
   <string name="set_wallpaper">Achtergrond inst.</string>
   <string name="settings">Instellingen</string>
