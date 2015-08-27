@@ -459,7 +459,7 @@
   <string name="list_language_summary">De taal voor het nieuws selecteren</string>
   <string name="list_language_title">Taal</string>
   <string name="livetalk_about_info">Over</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Korte codes voor servicenrs worden op dit moment niet ondersteund. Je moet verbinden met het internet om deze functie te gebruiken. Elke oproep gebruikt 1 Kb aan mobiele data. Je moet Gratis luisteren inschakelen om deze service te gebruiken, anders kan uw provider kan kosten aanrekenen tijdens roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Servicenummer met korte codes worden niet ondersteund op dit moment. Je hebt verbinding met internet nodig om deze functie te gebruiken. Elke oproep gebruikt 1 Kb aan mobiele data. Gratis luisteren inschakelen om deze service te gebruiken, anders kan uw provider kosten aanrekenen tijdens roaming.)"</string>
   <string name="livetalk_activate">Activeer herlaad pakket</string>
   <string name="livetalk_activate_number">Activeer SIM kaart</string>
   <string name="livetalk_activate_number_1">Activeer SIM 1</string>
@@ -479,8 +479,7 @@
   <string name="livetalk_creat_account_fialed">Account fout</string>
   <string name="livetalk_dial_direct">Direct bellen</string>
   <string name="livetalk_experience_button">Nu proberen</string>
-  <string name="livetalk_introduction_text">"Low flow, lage kosten en hoge kwaliteit
-Super goedkoop internationaal bellen via het internet"</string>
+  <string name="livetalk_introduction_text">Lage kosten voor internationale gesprekken</string>
   <string name="livetalk_last_step">Terug</string>
   <string name="livetalk_login_experience_button">Aanmelden</string>
   <string name="livetalk_name">Herlaad pakket</string>
@@ -488,8 +487,8 @@ Super goedkoop internationaal bellen via het internet"</string>
   <string name="livetalk_network_confirm_summary">Herlaad pakketten gebruiken ongeveer 1KB aan mobiele data bij elke gesprek.</string>
   <string name="livetalk_next_step">Volgende</string>
   <string name="livetalk_niece_price_arrow">"Deze functie is beschikbaar in 13 landen en regio's"</string>
-  <string name="livetalk_niece_price_summary">Internationale tarieven, verwijzen wij u naar het record</string>
-  <string name="livetalk_niece_price_title">In de gesloten beta preferentiële</string>
+ <string name="livetalk_niece_price_summary">Bekijk internationale tarieven voor meer info</string>
+  <string name="livetalk_niece_price_title">Deze functie is momenteel niet beschikbaar</string>
   <string name="livetalk_nsufficient_balance">Onvoldoende krediet.</string>
   <string name="livetalk_package_introduction_text">Exclusieve korting voor MIUI gebruikers. Minder dataverbruik en lagere prijzen.</string>
   <string name="livetalk_package_name">Saldo bij vullen</string>
@@ -620,6 +619,8 @@ Super goedkoop internationaal bellen via het internet"</string>
   <string name="not_a_valid_port">Het poortnummer moet tussen 1000 en 65534 liggen.</string>
   <string name="not_activate_sim_card_content">"Herlaad pakket voor geselecteerde SIM kaart niet is geactiveerd. Probeer met behulp van uw normale SIM om dit gesprek te maken. Je zal de normale kosten van uw provider ontvangen."</string>
   <string name="not_allowed">Uw SIM kaart staat geen verbinding met dit netwerk toe.</string>
+  <string name="not_sufficient_funds_content">Niet genoeg geld meer op je account. Maak gebruik van uw SIM om dit gesprek te maken. Uw provider zal kosten aanrekenen voor dit gesprek.</string>
+  <string name="not_supported_number_content">Herlaad pakket ondersteunt geen servicenummers. Probeer uw gewone SIM om dit gesprek te maken. Uw provider zal kosten aanrekenen voor dit gesprek</string>
   <string name="not_voice_capable">Spraakoproepen worden niet ondersteund</string>
   <string name="notification_missedCallTicker">Gemiste oproep van %s</string>
   <string name="notification_missedCall_call_back">Terugbellen</string>
