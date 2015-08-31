@@ -261,7 +261,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$d m</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="battery_indicator_style">Batterij aanduiding</string>
+  <string name="battery_indicator_style">Opmaak batterijstatus</string>
   <string name="battery_info_awake_battery">Standby tijd op batterij:</string>
   <string name="battery_info_awake_plugged">Standby tijd tijdens opladen:</string>
   <string name="battery_info_health_cold">Koud</string>
@@ -289,7 +289,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="battery_info_status_charging_wireless">(draadloos)</string>
   <string name="battery_info_status_discharging">Wordt niet opgeladen</string>
   <string name="battery_info_status_full">Volledig opgeladen</string>
-  <string name="battery_info_status_label">Batterij status:</string>
+  <string name="battery_info_status_label">Batterijstatus:</string>
   <string name="battery_info_status_not_charging">Ontladen</string>
   <string name="battery_info_status_unknown">Onbekend</string>
   <string name="battery_info_technology_label">Batterij technologie:</string>
@@ -311,7 +311,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="battery_stats_screen_on_label">Scherm aan</string>
   <string name="battery_stats_wake_lock_label">Ingeschakeld</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
-  <string name="battery_status_title">Batterij status</string>
+  <string name="battery_status_title">Batterijstatus</string>
   <string name="battery_sugg_apps_gps">Batterij besparingsmodus selecteren</string>
   <string name="battery_sugg_apps_info">De app stoppen of verwijderen</string>
   <string name="battery_sugg_apps_settings">De app kan instellingen aanbieden om het batterij gebruik te beperken</string>
@@ -1025,7 +1025,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="force_stop_dlg_title">Gedwongen stoppen?</string>
   <string name="forget_wifi_message">Dit Wi-Fi netwerk vergeten? Het wachtwoord zal opnieuw ingevoerd moeten worden bij opnieuw verbinden.</string>
   <string name="found_new_version">Nieuwe versie gevonden</string>
-  <string name="free_wifi_agreement_remind_never">Niet opnieuw weergeven</string>
+  <string name="free_wifi_agreement_remind_never">Niet opnieuw tonen</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Verbinden</string>
   <string name="free_wifi_connect_dialog_summary">Dit gratis Wi-Fi netwerk %1$s wordt verschaft door %2$s.</string>
@@ -1293,10 +1293,10 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
   <string name="lock_intro_message">Beveilig uw telefoon tegen ongeoorloofd gebruik door een persoonlijk ontgrendelingspatroon in te stellen. Gebruik op het volgende scherm uw vinger om de punten met elkaar te verbinden. U moet minimaal vier punten met elkaar verbinden</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig</string>
-  <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig binnen de %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig</string>
-  <string name="lock_screen_unlock_show">Veeg scherm uitschakelen</string>
-  <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord na het ontwaken</string>
+  <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig na %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
+  <string name="lock_screen_unlock_show">Scherm vegen overslaan</string>
+  <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord invoeren na het ontwaken</string>
   <string name="lock_settings">Schermvergrendeling</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
@@ -1437,7 +1437,7 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Audio(muziek, beltonen, podcasts, enzovoort)</string>
   <string name="memory_size">Totale ruimte</string>
-  <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Total: %2$s</string>
+  <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Totaal: %2$s</string>
   <string name="menu_cancel">Annuleren</string>
   <string name="menu_delete">APN verwijderen</string>
   <string name="menu_duration_12h">12 uur</string>
@@ -1468,7 +1468,7 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="miui_screensaver_state_off">Uit</string>
   <string name="miui_screensaver_state_on">Aan</string>
   <string name="miui_screensaver_title">Schermbeveiliging</string>
-  <string name="miui_screensaver_usage">"Foto's in het album van de schermbeveiliging worden vijf seconden getoond nadat het scherm uit gaat.</string>
+  <string name="miui_screensaver_usage">"Foto's uit het geselecteerde album worden vijf seconden na schermvergrendeling getoond.</string>
   <string name="mms_breathing_light_color_title">LED licht voor berichten</string>
   <string name="mms_breathing_light_freq_title">LED knipperfrequentie berichten</string>
   <string name="mobile_connect_to_internet">Maak verbinding met internet</string>
@@ -1547,7 +1547,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_headset_calibrate_wrong_key">Dit is de verkeerde knop</string>
   <string name="music_headset_mode_music">Controleer het afspelen van muziek</string>
   <string name="music_headset_mode_settings">Hoofdtelefoon afstandsbediening knoppen</string>
-  <string name="music_headset_mode_volume">Controleer het volume niveau</string>
+  <string name="music_headset_mode_volume">Controleer het volumeniveau</string>
   <string name="music_headset_no_contected">Geen koptelefoon gedetecteerd</string>
   <string name="music_headset_settings">Hoofdtelefoon &amp; audio effecten</string>
   <string name="music_hifi_summary">Verminder ruis en vervorming en verhoging van audiokwaliteit.</string>
@@ -1699,7 +1699,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_autorun_apps_empty">Geen auto start apps</string>
   <string name="power_autorun_empty">Geen apps geïnstalleerd</string>
   <string name="power_bluetooth">Bluetooth</string>
-  <string name="power_cell">Mobiele standby</string>
+  <string name="power_cell">Mobiel netwerk</string>
   <string name="power_center">Energiebeheer</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS</string>
   <string name="power_hide_mode_title">Beheer batterijverbruik van apps</string>
@@ -2026,7 +2026,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="sd_ejecting_title">Ontkoppelen</string>
   <string name="sd_format">USB opslag wissen</string>
   <string name="sd_format_summary">"Wist alle gegevens op de interne USB opslag, zoals muziek en foto's"</string>
-  <string name="sd_insert_summary">USB opslag plaatsen voor koppelen</string>
+  <string name="sd_insert_summary">USB opslag plaatsen om te koppelen</string>
   <string name="sd_memory">USB opslag</string>
   <string name="sd_mount">USB opslag koppelen</string>
   <string name="sd_mount_summary"/>
@@ -2758,7 +2758,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Annuleren</string>
   <string name="wifi_connect_cmcc_dialog_confirm">Ok</string>
   <string name="wifi_connect_cmcc_dialog_content">Verbinden met CMCC netwerk data services.</string>
-  <string name="wifi_connect_cmcc_dialog_not_remind">Niet weer opnieuw weergeven</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">Niet opnieuw tonen</string>
   <string name="wifi_connect_cmcc_dialog_title">Data gebruiks melding</string>
   <string name="wifi_connect_failed_message">Het apparaat kan geen verbinding maken met dit Wi-Fi netwerk.</string>
   <string name="wifi_context_menu_change_password">Verander wachtwoord</string>
@@ -2895,7 +2895,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_scan_always_turnon_message">"Om de locatienauwkeurigheid te verbeteren en voor andere doeleinden, wil %1$s de netwerkscan inschakelen, zelfs als Wi-Fi is uitgeschakeld.
 
 Dit toestaan voor alle apps die willen scannen?"</string>
-  <string name="wifi_scan_notify_remember_choice">Niet opnieuw weergeven</string>
+  <string name="wifi_scan_notify_remember_choice">Niet opnieuw tonen</string>
   <string name="wifi_scan_notify_text_location_off">"Apps kunnen scannen naar netwerken in de buurt, ook wanneer Wi-Fi is uitgeschakeld. Als u niet wilt dat dit gebeurt, gaat u naar 'Geavanceerd' &gt; 'Scannen altijd beschikbaar'."</string>
   <string name="wifi_scan_notify_text_location_on">"Als u de nauwkeurigheid van locaties en voor andere doeleinden wilt verbeteren, kunnen Google en andere apps scannen naar netwerken in de buurt, ook wanneer Wi-Fi is uitgeschakeld. Als u niet wilt dat dit gebeurt, gaat u naar 'Geavanceerd' &gt; 'Scannen altijd beschikbaar'."</string>
   <string name="wifi_secured_first_item">Beveiligd met %1$s</string>
