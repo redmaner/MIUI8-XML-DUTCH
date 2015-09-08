@@ -127,5 +127,29 @@
     <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d dagen</item>
         <item quantity="one">%1$d dag</item>
+	</plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">"%1$d foto's om te uploaden"</item>
+        <item quantity="one">1 foto om te uploaden</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">"%1$d video's om te uploaden"</item>
+        <item quantity="one">1 video to upload</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">"%1$d video's en foto's om te uploaden"</item>
+        <item quantity="one">1 video en foto om te uploaden</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Uploaden van %1$d afbeeldingen…</item>
+        <item quantity="one">Uploaden van 1 afbeelding…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">"Uploaden van %1$d video's…"</item>
+        <item quantity="one">Uploading 1 video…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">"Uploaden van %1$d video's en foto's…"</item>
+        <item quantity="one">Uploaden 1 video en foto…</item>	
     </plurals>
 </resources>
