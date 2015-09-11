@@ -47,6 +47,8 @@
   <string name="application">Apps</string>
   <string name="back">Terug</string>
   <string name="bedroom">Slaapkamer</string>
+  <string name="bind_stb_dlg">Koppel set top box om van kanaal te veranderen</string>
+  <string name="bind_stb_dlg_agree">Nu koppelen</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Selecteer fabrikant</string>
   <string name="brand_title_all">Alle</string>
@@ -162,6 +164,8 @@
   <string name="hot_mode">Warmte</string>
   <string name="hot_videos">Populair</string>
   <string name="hour">Uren</string>
+  <string name="humidity">Vochtigheid:</string>
+  <string name="humidity_frame">%1$d%%</string>
   <string name="input_complete">Ok</string>
   <string name="input_source">Invoerbron</string>
   <string name="input_speech_button">Druk &amp; ingedrukt houden en geef vervolgens uw bevel</string>
@@ -212,7 +216,7 @@
   <string name="match_ac_intro_power">Vrijgeven bij afsliuten A/C</string>
   <string name="match_ac_name_mode">Koeling</string>
   <string name="match_ac_name_power">Uitschakelen</string>
-  <string name="match_count_frame">Koppel %1$d afstandsbediening</string>
+  <string name="match_count_frame">Koppel %1$d/%2$d afstandsbediening</string>
   <string name="match_data">Koppel info</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_dvd_intro_pause">Vrijgeven wanneer DVD pauzeerd</string>
@@ -271,6 +275,7 @@
   <string name="network_unstable">· Je hebt een stabile verbinding</string>
   <string name="next_step">Volgende stap</string>
   <string name="no">Nee</string>
+  <string name="no_brand_service">Geen merk informatie</string>
   <string name="no_current_play">"Speelt nu: - "</string>
   <string name="no_data">Geen info</string>
   <string name="no_introduction">Geen beschrijving</string>
@@ -279,6 +284,7 @@
   <string name="no_network">"· Je bent niet verbonden met netwerk"</string>
   <string name="no_program">Hier geen inhoud</string>
   <string name="no_qq">QQ niet geïnstalleerd op dit apparaat</string>
+  <string name="no_save_brand_service">Deze afstandsbediening toevoegen om te ondersteunen</string>
   <string name="not_respond">Geen reactie</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" zal binnen 30 minuten beginnen.</string>
@@ -299,7 +305,7 @@
   <string name="passport_active_email_visit">Controlleer Postvak In op %s</string>
   <string name="passport_activing_account">Activativeren…</string>
   <string name="passport_app_name">Mi Account</string>
-  <string name="passport_area_code_hot">Frequent gebruikt</string>
+  <string name="passport_area_code_hot">FREQUENT GEBRUIKT</string>
   <string name="passport_area_code_title">Land code</string>
   <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
   <string name="passport_btn_return">Terug</string>
@@ -321,7 +327,7 @@ Om je account te activeren, volg de
   <string name="passport_dspt_provision">"Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
   <string name="passport_dspt_provision2">Meer weten</string>
   <string name="passport_email">Email adres</string>
-  <string name="passport_email_or_id_hint_text">Email of Mi Account ID</string>
+  <string name="passport_email_or_id_hint_text">Email adres of Mi Account ID</string>
   <string name="passport_email_reg_success_summary">%1$s is gekoppeld met je account. U kunt het gebruiken om aan te melden of om uw wachtwoord opnieuw in te stellen.</string>
   <string name="passport_error_device_id">Kan apparaat ID niet verkrijgen</string>
   <string name="passport_error_dup_email">Deze e-mail is al gekoppeld aan een ander account</string>
@@ -358,13 +364,13 @@ Om je account te activeren, volg de
   <string name="passport_input_verify_code_hint">Verificatie code invoeren</string>
   <string name="passport_license_host_unreachable">Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
   <string name="passport_loading">Laden…</string>
-  <string name="passport_login">Aanmelden</string>
+  <string name="passport_login">Aanmelden met een bestaand account</string>
   <string name="passport_login_failed">Kan niet aanmelden</string>
   <string name="passport_login_instead_reg">Dit nummer gebruiken</string>
   <string name="passport_login_instead_reg_with_email">Deze Email gebruiken</string>
   <string name="passport_login_notice">Aanmelden…</string>
   <string name="passport_login_title">Aanmelden op je Mi Account</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Aanmelden met ander account&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;Aanmelden met e-mail adres of Mi Account ID&lt;/u&gt;</string>
   <string name="passport_next">Volgende</string>
   <string name="passport_notification_title">Aanmeldigs fout voor %1$s</string>
   <string name="passport_password">Voer je wachtwoord in</string>
@@ -372,7 +378,7 @@ Om je account te activeren, volg de
   <string name="passport_phone_num_hint_text">Telefoon nummer</string>
   <string name="passport_prev">Terug</string>
   <string name="passport_privacy_policy">Privacybeleid</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Overslaan&lt;/u&gt;</string>
+  <string name="passport_provision_skip_login">&lt;u&gt;Deze stap overslaan&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">2 stappen verificatie</string>
   <string name="passport_quick_login_dialog_title">Bevestig wachtwoord</string>
   <string name="passport_quick_login_step2_title">2 stappen verificatie</string>
@@ -380,7 +386,7 @@ Om je account te activeren, volg de
   <string name="passport_re_get_verify_code">Code opnieuw verkrijgen</string>
   <string name="passport_re_register">Opnieuw aanmelden</string>
   <string name="passport_reg_failed">Kan geen account aanmaken</string>
-  <string name="passport_reg_new">Mi Account aanmaken</string>
+  <string name="passport_reg_new">Gratis een Mi Account aanmaken</string>
   <string name="passport_reg_sms_send_prompt">Vezend verificatie code naar %s</string>
   <string name="passport_reg_success">Account aangemaakt</string>
   <string name="passport_reg_success_summary">%1$s is gekoppeld aan je account. U kunt het gebruiken om jaan te melden of om uw wachtwoord opnieuw in te stellen.</string>
@@ -410,14 +416,13 @@ Om je account te activeren, volg de
   <string name="passport_title_reg">Account aanmaken overslaan</string>
   <string name="passport_trust_device">Dit apparaat vertrouwen</string>
   <string name="passport_user_agreement">Gebruikers overeenkomst</string>
-  <string name="passport_user_agreement_p1">Je gaat akkoord met onze
-  </string>
-  <string name="passport_user_agreement_p2">UGebruikers overeenkomst</string>
-  <string name="passport_user_agreement_p3"> en  </string>
+  <string name="passport_user_agreement_p1">Akkoord met </string>
+  <string name="passport_user_agreement_p2">Gebruikers overeenkomst</string>
+  <string name="passport_user_agreement_p3"> en </string>
   <string name="passport_user_agreement_p4">Privacybeleid</string>
   <string name="passport_vcode">Verificatie code</string>
   <string name="passport_vcode_notification_title">Uw aanmeldings verificatie is onvolledig</string>
-  <string name="passport_vcode_prompt_long">Voer de verificatiecode in gegenereerd door uw Mi Veiligheids token</string>
+  <string name="passport_vcode_prompt_long">Voer verificatiecode in</string>
   <string name="passport_verification_failed">Authenticatie mislukt</string>
   <string name="passport_verify">Bevestigen</string>
   <string name="passport_welcome_skip_login">&lt;u&gt;Deze stap overslaan&lt;/u&gt;</string>
@@ -426,10 +431,11 @@ Om je account te activeren, volg de
   <string name="passport_wrong_vcode">De ingevoerde code is niet juist</string>
   <string name="passport_xiaomi_account_dspt">Gebruik uw Mi account om aan te melden bij Mi Cloud, MIUI Thema Store, en andere Mi diensten, van overal.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2"/>
+  <string name="passport_xiaomi_account_sec_dspt2">Aanmelden bij uw Mi account vereist een internetverbinding. Daarnaast worden locatie toegang, Mi Cloud en Mi VIP automatisch ingeschakeld.</string>
   <string name="place_frame">Locatie:</string>
   <string name="play_on_tv">Spelen op TV</string>
   <string name="please_enter">Het invoerveld mag niet leeg zijn</string>
+  <string name="pm_2.5">PM2.5:</string>
   <string name="power">Power</string>
   <string name="press_to_continue_match">Tik om door te gaan</string>
   <string name="press_to_match">Tik om te koppelen</string>
@@ -468,6 +474,7 @@ Om je account te activeren, volg de
   <string name="select_area">Kies locatie</string>
   <string name="select_brand">%s geselecteerd</string>
   <string name="select_dvb_carrier">Selecteer provider</string>
+  <string name="service_info">Service Informatie</string>
   <string name="setting_airkan">DRAADLOOS SCHERM</string>
   <string name="setting_common">ALGEMEEN</string>
   <string name="setting_version">Versie %1$s</string>
@@ -507,6 +514,7 @@ Om je account te activeren, volg de
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Koppelen</string>
   <string name="stb">Set-top box</string>
+  <string name="stb_detail_title_frame">%1$s - Nr. %2$d</string>
   <string name="steps">Poging #%d</string>
   <string name="stop_diagnosis">Stoppen</string>
   <string name="study_room">Bibliotheek</string>
@@ -519,6 +527,7 @@ Om je account te activeren, volg de
   <string name="switch_place">Verander locatie</string>
   <string name="technical_support"/>
   <string name="temperature">Temp</string>
+  <string name="temprature_frame">%1$d ℃</string>
   <string name="timer">Timer</string>
   <string name="title_nodata_feedback">Kon apparaat info niet verkrijgen</string>
   <string name="to_qq">Open QQ en word lid van de groep</string>
@@ -563,5 +572,6 @@ Om je account te activeren, volg de
   <string name="virtual_keyhboard">Gebruik het toetsenbord van apparaat </string>
   <string name="virtual_keyhboard_intro">Gebruik het toetsenbord van apparaat om op het scherm te typen</string>
   <string name="volume">Volume</string>
+  <string name="weather_out">Buiten temperatuur:</string>
   <string name="yes">Ja</string>
 </resources>

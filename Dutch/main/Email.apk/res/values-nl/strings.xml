@@ -177,6 +177,7 @@
   <string name="attachment_decoding">De bijlage wordt volledig gedownload, is bezig aan het decoderen, even wachten.</string>
   <string name="attachment_download_all">Alles downloaden</string>
   <string name="attachment_image">Afbeelding</string>
+  <string name="attachment_list_search_hint">Zoek bijlagen</string>
   <string name="attachment_mgr_name">Bijlagen</string>
   <string name="attachment_not_exists">Bijlage niet beschikbaar!</string>
   <string name="attachment_open_SecurityException_hint">Controleer de toestemmingen, schade, enz.</string>
@@ -319,7 +320,7 @@
   <string name="download_complete_not_cancel">Download gelukt</string>
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
-  <string name="download_message_failed_for_too_large">Dit bericht is te groot om te downloaden.</string>
+  <string name="download_message_failed_for_too_large">Bericht is te groot om te downloaden.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Navigatie lader sluiten</string>
   <string name="drawer_open">Navigatie lader openen</string>
@@ -403,7 +404,7 @@
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Minuscuul</string>
   <string name="generic_attachment_problem">Kan bestand niet bijvoegen.</string>
-  <string name="get_database_exception">Database abnormaal, ruim data in App info of Mail op</string>
+  <string name="get_database_exception">"Wis de gegevens van deze app in Instellingen &gt; Systeem apps en probeer het opnieuw"</string>
   <string name="gmail_acceleration">Gebruik proxy server voor Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Proxy server gebruiken voor toegang tot je Gmail Account?</string>
   <string name="gmail_web_login_go">Ok</string>
