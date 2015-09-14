@@ -73,8 +73,6 @@
   <string name="pref_audio_focus_entry_general">Normaal</string>
   <string name="pref_audio_focus_entry_rear">Achterste</string>
   <string name="pref_audio_focus_title">Audio Focus</string>
-  <string name="pref_audio_indicator_entry_off">Audio Uit</string>
-  <string name="pref_audio_indicator_entry_on">Audio Aan</string>
   <string name="pref_burst_shoot_title">Burst shoot</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Camera instellingen</string>
@@ -137,6 +135,7 @@
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
   <string name="pref_camera_facedetection_title">Gezichtsherkenning</string>
+  <string name="pref_camera_fisheye_title">Visogen</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Uit</string>
   <string name="pref_camera_flashmode_entry_on">Aan</string>
@@ -248,6 +247,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Uitschakelen</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Inschakelen</string>
   <string name="pref_camera_sound_title">Camera geluiden</string>
+  <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Uit</string>
   <string name="pref_camera_touchafaec_entry_on">Aan</string>
   <string name="pref_camera_ubifocus_title">Herfocussen</string>
@@ -329,10 +329,12 @@
   <string name="setting_top_text">Camera modi</string>
   <string name="simple_mode_button_asd_flash">Sluit Flash opname</string>
   <string name="simple_mode_button_asd_hdr">Sluit HDR opname</string>
+  <string name="simple_mode_button_text_audio_capture">Schakel sluitertijd audio Trigger</string>
   <string name="simple_mode_button_text_color_effect">Sluit filter</string>
   <string name="simple_mode_button_text_delay_capture">Timer sluiten</string>
   <string name="simple_mode_button_text_face_beauty">Sluit Verfraaien</string>
   <string name="simple_mode_button_text_fast_video">Sluit slow motion</string>
+  <string name="simple_mode_button_text_fisheye">Visogen uitschakelen</string>
   <string name="simple_mode_button_text_gradienter">Kleurverloop uitschakelen</string>
   <string name="simple_mode_button_text_hand_night">Sluit Draagbare schemering</string>
   <string name="simple_mode_button_text_hdr">Sluit HDR modus</string>
@@ -340,6 +342,7 @@
   <string name="simple_mode_button_text_panorama">Sluit panorama</string>
   <string name="simple_mode_button_text_scene">Sluit scenemodus</string>
   <string name="simple_mode_button_text_slow_video">Sluit Time-lapse</string>
+  <string name="simple_mode_button_text_tilt_shift">Tilt-shift uitschakelen</string>
   <string name="simple_mode_button_text_ubifocus">Sluit Herfocus modus</string>
   <string name="snapshot_lower_than_video">Video Snapshot resolutie lager is dan grootte van de video. Aftoppen naar Video grootte. Selecteer een resolutie hoger of gelijk is aan de huidige grootte van de video.</string>
   <string name="snapshotsize_low_powermode">Resolutie wordt niet ondersteund door uw huidige energiebeheer instellingen. Video formaat zal worden gebruikt.</string>

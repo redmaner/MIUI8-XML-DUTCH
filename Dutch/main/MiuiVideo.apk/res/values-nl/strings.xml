@@ -323,6 +323,7 @@
   <string name="total_episode">%1$s Episodes</string>
   <string name="tudou">Tudou</string>
   <string name="tv_channel_empty_hint">Geen kanaal</string>
+  <string name="tv_cp_info_format">Ondersteunt door %1$s</string>
   <string name="ui_style">App layout</string>
   <string name="ui_style_summary">Kies inhoud layout stijl</string>
   <string name="unfavorite">Ster verwijderen</string>
@@ -398,12 +399,18 @@
   <string name="vp_low_definition">LAAG</string>
   <string name="vp_maintitlearea">Bekijk HD video overal</string>
   <string name="vp_media_info">Video info weergeven</string>
-  <string name="vp_media_type_banned">Dit type media kan niet ondersteund worden</string>
+  <string name="vp_media_type_unsported">Dit type media kan niet ondersteund worden</string>
   <string name="vp_milink">MiLink</string>
   <string name="vp_milink_function">Geef weer op scherm</string>
   <string name="vp_mobile_network_using_negative">Annuleren</string>
   <string name="vp_mobile_network_using_positive">Doorgaan</string>
   <string name="vp_mobile_network_using_warning">"Het gebruik van mobiele gegevensverbinding om video's  te bekijken zullen uw dataverbruik verhogen. Als je over dataverbruiks limiet bent kan uw provider extra kosten aanrekenen."</string>
+  <string name="vp_mobile_network_using_warning_line_1">"Gebruiken van uw mobiele gegevensverbinding om naar te kijken video's zullen uw dataverbruik verhogen."</string>
+  <string name="vp_mobile_network_using_warning_line_2">Als je over uw data limiet bent, kan uw provider extra kosten aan rekenen.</string>
+  <string name="vp_mplayer_error_io">IO operatie fout</string>
+  <string name="vp_mplayer_error_malformed">Onjuiste media inhoud</string>
+  <string name="vp_mplayer_error_server_died">Mediaserver weggevallen</string>
+  <string name="vp_mplayer_error_timed_out">Operatie timed out</string>
   <string name="vp_newest_ep">Nieuw</string>
   <string name="vp_next_ci">Volgende</string>
   <string name="vp_offline">Offline</string>
