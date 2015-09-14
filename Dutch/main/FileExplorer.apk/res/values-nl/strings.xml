@@ -66,6 +66,7 @@
   <string name="compress_message">Comprimeren naar…</string>
   <string name="compress_title">Comprimeer</string>
   <string name="confirm">Ok</string>
+  <string name="confirm_clean">Opruimen</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Prompt voor internetverbinding</string>
   <string name="connection_error">Kon niet verbinden</string>
@@ -80,8 +81,12 @@
   <string name="decompress_cancel">Annuleren</string>
   <string name="decompress_confirm">Uitpakken</string>
   <string name="decompress_destination_error">Uitpakken mislukt: kan de bstanden hier niet uitpakken</string>
+  <string name="decompress_encrypted_rar_not_supported">Het versleutelde rar bestand wordt niet ondersteund.</string>
   <string name="decompress_fail">Uitpakken mislukt: er bestaat al bestand met dezelfde naam of het archief is beschadigd.</string>
+  <string name="decompress_input_password">Wachtwoord invoeren…</string>
+  <string name="decompress_password_error">Wachtwoord is fout. Probeer opnieuw…</string>
   <string name="decompress_success">Uitpakken voltooid</string>
+  <string name="decompress_title">Uitpakken</string>
   <string name="decompress_to">Uitpakken naar…</string>
   <string name="decompress_to_here">Hier uitpakken:</string>
   <string name="delete_dialog_button">Verwijderen</string>
@@ -376,6 +381,7 @@
   <string name="stay_awake_title">Standby</string>
   <string name="stop_server">Stop server</string>
   <string name="storage_info">%1$s beschikbaar</string>
+  <string name="storage_info_detail">Beschikbaar:%1$s Totaal:%1$s</string>
   <string name="storage_internal">Interne opslag</string>
   <string name="storage_sd_card">SD kaart</string>
   <string name="storage_usb">USB opslag</string>
@@ -392,6 +398,7 @@
   <string name="terabyteShort">TB</string>
   <string name="title_more_source">Meer apps</string>
   <string name="title_recent">Recente</string>
+  <string name="title_select_volume">Volume selecteren</string>
   <string name="toast_file_not_can_read">Geen app gevonden om deze actie uit te voeren.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netwerk overdracht</string>
