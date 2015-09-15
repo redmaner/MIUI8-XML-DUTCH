@@ -90,7 +90,7 @@
   <string name="baby_album_sharers_page_title">Delen met familie</string>
   <string name="baby_birthday">Verjaardag</string>
   <string name="baby_lock_wallpaper">Achtergrond vergrendelscherm</string>
-  <string name="baby_lock_wallpaper_at_least_one_selected">Kies een album</string>
+  <string name="baby_lock_wallpaper_cancelled">Verander naar standaard achtergrond vergrendelscherm</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Huidige instellingen toepassen?</string>
   <string name="baby_lock_wallpaper_title">"Baby foto's gebruiken als achtergrond vergrendelscherm"</string>
   <string name="baby_name_cannot_empty">Naam invoeren</string>
@@ -122,6 +122,7 @@
   <string name="camera_setas_wallpaper">Achtergrond</string>
   <string name="camera_view_none_message">"Foto's en video's die met de camera maakt zullen hier worden weergegeven."</string>
   <string name="cancel">Annuleren</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Baby achtergrond annuleren en terug naar standaard achtergrond vergrendelscherm?</string>
   <string name="cancel_hint">Handeling geannuleerd</string>
   <string name="cannot_delete_sharer_photo">"%s item(s) toegevoegd van andere leden kunt u niet verwijderen."</string>
   <string name="cannot_remove_creator">Kan de maker niet verwijderen</string>
@@ -335,6 +336,7 @@
   <string name="group_by_time">Op tijd</string>
   <string name="has_invalid_recipient">Ongeldige ontvanger(s): %1$s;</string>
   <string name="height">Hoogte</string>
+  <string name="hidden_album_display_name">Verborgen album</string>
   <string name="highlight">Hoogtepunten</string>
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -633,6 +635,10 @@
   <string name="send_public_url">Verzend album URL</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Instellen als vergrendelscherm achtergrond</string>
+  <string name="set_baby_icon_picker_default_title">Baby icoon instellen</string>
+  <string name="set_bg_file_exist_message">Conflict tussen foto namen</string>
+  <string name="set_bg_picker_default_title">Top thumbnail instellen</string>
+  <string name="set_bg_unknow_reasons">Onbekende fout</string>
   <string name="set_hidden_album">Verbergen</string>
   <string name="set_label_all_albums">Alle albums</string>
   <string name="set_label_local_albums">Offline</string>
