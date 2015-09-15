@@ -683,6 +683,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_bindDeviceAdmin">Hiermee kan de houder intenties verzenden naar een apparaatbeheerder. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindGadget">Hiermee kan de app het systeem laten weten welke widgets door welke app kunnen worden gebruikt. Een app met deze rechten kan andere apps toegang verlenen tot persoonlijke gegevens. Dit wordt niet gebruikt door normale apps.</string>
   <string name="permdesc_bindInputMethod">Hiermee kan de houder zich verbinden met de hoofdinterface van een invoermethode. Nooit vereist voor normale apps.</string>
+  <string name="permdesc_bindJobService">Deze toestemming laat het Android systeem toe de toepassing op verzoek op de achtergrond draaien.</string>
   <string name="permdesc_bindNfcService">Hiermee kan de houder apps koppelen die NFC-kaarten emuleren. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindNotificationListenerService">Hiermee kan de houder koppelen aan de hoofdinterface van een listener-service voor meldingen. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindPackageVerifier">Hiermee kan de houder verzoeken indienen voor pakketcontroles. Nooit vereist voor normale apps.</string>
@@ -961,6 +962,7 @@ voor account %s."</string>
   <string name="permlab_bindDeviceAdmin">interactie met apparaatbeheer</string>
   <string name="permlab_bindGadget">widgets kiezen</string>
   <string name="permlab_bindInputMethod">verbinden aan een invoermethode</string>
+  <string name="permlab_bindJobService">draai de geplande achtergrond taken van de app</string>
   <string name="permlab_bindNfcService">koppelen aan NFC-service</string>
   <string name="permlab_bindNotificationListenerService">koppelen aan een listener-service voor meldingen</string>
   <string name="permlab_bindPackageVerifier">koppelen aan pakketcontroleprogramma</string>
