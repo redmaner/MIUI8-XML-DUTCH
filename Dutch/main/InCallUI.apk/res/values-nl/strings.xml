@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept_modify_call_request_prompt">Accepteer verzoek voor wijzigen gesprek?</string>
-  <string name="add_vm_number_str">Toevoegen number</string>
+  <string name="add_vm_number_str">Voeg nummer toe</string>
   <string name="antispam_marked_count">Gemeld door %1$d MIUI gebruikers</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
@@ -14,13 +14,13 @@
   <string name="callFailed_dsac_restricted">Alle gesprekken worden beperkt door toegangsbeheer.</string>
   <string name="callFailed_dsac_restricted_emergency">Noodoproepen worden beperkt door toegangsbeheer.</string>
   <string name="callFailed_dsac_restricted_normal">Normale gesprekken worden beperkt door toegangsbeheer.</string>
-  <string name="callFailed_fdn_only">Uitgaande gesprekken worden beperkt doorFDN.</string>
+  <string name="callFailed_fdn_only">Uitgaande gesprekken worden beperkt door FDN.</string>
   <string name="callFailed_incoming_cb_enabled">Partij versperd alle inkomende gesprekken.</string>
   <string name="callFailed_invalid_credentials">Onjuiste gebruikersnaam of wachtwoord</string>
   <string name="callFailed_limitExceeded">ACM limiet overschreden</string>
   <string name="callFailed_noSignal">Geen signaal</string>
   <string name="callFailed_number_unreachable">Nummer onbereikbaar</string>
-  <string name="callFailed_outOfService">Buiten dienst gebied</string>
+  <string name="callFailed_outOfService">Geen bereik</string>
   <string name="callFailed_out_of_network">Opgeroepen uit out-of-network</string>
   <string name="callFailed_powerOff">Radio uit</string>
   <string name="callFailed_server_error">Server fout. Probeer het later opnieuw.</string>
@@ -54,7 +54,7 @@
   <string name="card_title_hanging_up">Ophangen</string>
   <string name="card_title_in_call">In gesprek</string>
   <string name="card_title_in_call_short">In gesprek</string>
-  <string name="card_title_incoming_call">Inkomende gesprek</string>
+  <string name="card_title_incoming_call">Inkomende oproep</string>
   <string name="card_title_on_hold">In wacht</string>
   <string name="card_title_threeway_call">Drie weg gesprek</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. totaal %s</string>
@@ -84,17 +84,17 @@
   <string name="emergency_call_dialog_number_for_display">Noodnummer</string>
   <string name="fraud_call_answer">Antwoorden</string>
   <string name="fraud_call_decline">Afwijzen</string>
-  <string name="fraud_call_waring">Opgepast: Je moet altijd de identiteit van de contactpersoon eerst telefonisch of per video te verifiëren voordat je reageerd op berichten met betrekking tot uw persoonlijke gegevens.</string>
+  <string name="fraud_call_waring">Opgepast: Je moet altijd de identiteit van de contactpersoon eerst telefonisch of per video verifiëren voordat je reageert op berichten met betrekking tot uw persoonlijke gegevens.</string>
   <string name="inCallLabel">InCallUI</string>
-  <string name="incall_call_type_label_sip">Internet gesprek</string>
+  <string name="incall_call_type_label_sip">Internetoproep</string>
   <string name="incall_error_supp_service_conference">Niet in staat om gesprekken te groeperen.</string>
   <string name="incall_error_supp_service_hangup">Kan geen gesprek(ken) vrij maken(s).</string>
   <string name="incall_error_supp_service_reject">Niet in staat om gesprek te weigeren</string>
   <string name="incall_error_supp_service_separate">Kan gesprek niet scheiden.</string>
-  <string name="incall_error_supp_service_switch">Kan schakelen tussen gesprekken</string>
-  <string name="incall_error_supp_service_transfer">Kan geen gesprek door verbinden.</string>
+  <string name="incall_error_supp_service_switch">Kan niet schakelen tussen gesprekken</string>
+  <string name="incall_error_supp_service_transfer">Kan geen gesprek doorverbinden.</string>
   <string name="incall_error_supp_service_unknown">Niet ondersteunde service.</string>
-  <string name="incoming_call_forwarded_title">Doorschakelen inkomende gesprekken</string>
+  <string name="incoming_call_forwarded_title">Doorschakelen inkomende oproepen</string>
   <string name="ivr_menu_dialing_msg">Doorschakelen…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Ga naar de geselecteerde service…[automatische foutcorrectie is ingeschakeld]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Druk %s</string>
@@ -103,7 +103,7 @@
   <string name="jeejen_end_call_text">Gesprek beëindigen</string>
   <string name="jeejen_reject_call_text">Gesprek afwijzen</string>
   <string name="jeejen_toggle_dialpad_text">Toetsenblok</string>
-  <string name="livetalk_left_minute">Nog %s min</string>
+  <string name="livetalk_left_minute">Nog %s minuten</string>
   <string name="livetalk_provider_info">Provided by %s</string>
   <string name="livetalk_waiting">Wachten…</string>
   <string name="manageConferenceLabel">Beheer groepsgespreken</string>
@@ -119,7 +119,7 @@
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="no_vm_number">Ontbrekend voicemailnummer</string>
   <string name="no_vm_number_msg">Geen voicemailnummer opgeslagen op de SIM kaart.</string>
-  <string name="non_ivr_menu_collapse_menu">Instorten menu</string>
+  <string name="non_ivr_menu_collapse_menu">Menu inklappen</string>
   <string name="non_ivr_menu_view_menu">Bekijk menu</string>
   <string name="notification_action_accept">Aanvaarden</string>
   <string name="notification_action_answer_video">Video</string>
@@ -127,10 +127,10 @@
   <string name="notification_action_dismiss">Afwijzen</string>
   <string name="notification_action_end_call">Ophangen</string>
   <string name="notification_dialing">Bellen</string>
-  <string name="notification_incoming_call">Een gesprek </string>
+  <string name="notification_incoming_call">Inkomende oproep </string>
   <string name="notification_on_hold">In wacht</string>
   <string name="notification_ongoing_call">Huidige gesprek</string>
-  <string name="notification_requesting_video_call">Inkomende video verzoek</string>
+  <string name="notification_requesting_video_call">Inkomend videoverzoek</string>
   <string name="ok">OK</string>
   <string name="online_check_provider_info">Geïdentificeerd door %s</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
@@ -140,10 +140,10 @@
   <string name="onscreenAddParticipant">Deelnemer toevoegen</string>
   <string name="onscreenAudioText">Audio</string>
   <string name="onscreenEndCallText">Beëindigen</string>
-  <string name="onscreen_add_call_text">Toevoegen gesprek</string>
+  <string name="onscreen_add_call_text">Gesprek toevoegen</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Conferentie</string>
-  <string name="onscreen_audio_mode_handset">Hands free</string>
+  <string name="onscreen_audio_mode_handset">Handsfree</string>
   <string name="onscreen_audio_mode_headset">Hoofdtelefoon</string>
   <string name="onscreen_audio_mode_speaker">Luidspreker</string>
   <string name="onscreen_audio_switch_mode">Wissel audio</string>
@@ -151,7 +151,7 @@
   <string name="onscreen_hold_text">Vasthouden</string>
   <string name="onscreen_merge_calls_text">Gesprekken samenvoegen</string>
   <string name="onscreen_mute_text">Dempen</string>
-  <string name="onscreen_swap_calls_text">Swap</string>
+  <string name="onscreen_swap_calls_text">Wisselen</string>
   <string name="pause_prompt_no">Nee</string>
   <string name="pause_prompt_yes">Ja</string>
   <string name="payphone">Betaal telefoon</string>
@@ -160,11 +160,11 @@
   <string name="respond_via_sms_custom_message">Voeg eigen toe…</string>
   <string name="select_voice_call_sim">Kies SIM kaart</string>
   <string name="separate_from_conference">Apart gesprek</string>
-  <string name="suspect_info">Controleer altijd de identiteit van de persoon met wie je spreekt over de telefoon of video voordat reageerd op berichten met betrekking tot uw persoonlijke financiën.</string>
+  <string name="suspect_info">Controleer altijd de identiteit van de persoon met wie je spreekt over de telefoon of video voordat je reageert op berichten met betrekking tot uw persoonlijke financiën.</string>
   <string name="unknown">Onbekend</string>
-  <string name="upgrade_vt_prompt">Wilt u het gesprek upgraden naar video gesprek  ?</string>
-  <string name="upgrade_vt_rx_prompt">Wilt u het gesprek upgraden om video gesprekken te ontvangen?</string>
-  <string name="upgrade_vt_tx_prompt">Wilt u het gesprek upgraden om video gesprekken te verzenden?</string>
+  <string name="upgrade_vt_prompt">Wilt u het gesprek upgraden naar videogesprek?</string>
+  <string name="upgrade_vt_rx_prompt">Wilt u het gesprek upgraden om videogesprekken te ontvangen?</string>
+  <string name="upgrade_vt_tx_prompt">Wilt u het gesprek upgraden om videogesprekken te verzenden?</string>
   <string name="wait_prompt_str">"Volgende beltoon versturen?"</string>
   <string name="waiting_close_airplane_mode">Een momentje…</string>
 </resources>
