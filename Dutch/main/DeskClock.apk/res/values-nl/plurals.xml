@@ -23,5 +23,13 @@
     <plurals name="snooze_message">
         <item quantity="other">Snooze voor %d minuten</item>
         <item quantity="one">Snooze voor %d minuut</item>
+	</plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Snooze voor %d minuten.</item>
+        <item quantity="one">Snooze voor %d minuut.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Alarm zal na %d minuten dempen</item>
+        <item quantity="one">Alarm zal na %d minuut dempen</item>	
     </plurals>
 </resources>
