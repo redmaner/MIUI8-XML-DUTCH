@@ -64,7 +64,7 @@
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">Geen</string>
   <string name="confirm_auto_cleaner">Ok</string>
- <string name="deepclean_app_content">Apps die 7 dagen niet gebruikt zijn verwijderen</string>
+ <string name="deepclean_app_content">Apps die 30 dagen niet gebruikt zijn verwijderen</string>
   <string name="deepclean_cache_content">Verwijder data aangemaakt door apps</string>
   <string name="deepclean_cache_header_left">Data bestanden: %d</string>
   <string name="deepclean_large_content">Verwijder bestanden groter dan 10MB</string>
@@ -111,6 +111,7 @@
   <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Leeg</string>
   <string name="hints_header_left">%d</string>
+  <string name="hints_install_apps_else">%s gebruikt</string>
   <string name="hints_install_apps_interval">%d dagen geleden gebruikt</string>
   <string name="hints_install_apps_new">Nooit geopend</string>
   <string name="hints_install_apps_risk">Risico gedetecteerd</string>
@@ -172,7 +173,7 @@
   <string name="pref_summary_garbage_cleanup_check_time">Opruiming plannen</string>
   <string name="pref_summary_garbage_process_mode">Stel meldingen in wanneer er wordt opgeruimd</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Uploaden en vergelijken van onbekende bestandsnamen met online definities</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Automatische controleren en opruimen van het geheugen</string>
+  <string name="pref_summary_open_optimizer_memory_scan">Automatische apps kiezen om op te ruimen</string>
   <string name="pref_title_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_title_auto_clean_content_choose">Kies items om op te ruimen</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch updaten</string>

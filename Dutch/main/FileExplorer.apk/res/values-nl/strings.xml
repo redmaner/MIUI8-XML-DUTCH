@@ -80,15 +80,15 @@
   <string name="data_capacity">Data %1$s</string>
   <string name="decompress_cancel">Annuleren</string>
   <string name="decompress_confirm">Uitpakken</string>
-  <string name="decompress_destination_error">Uitpakken mislukt: kan de bstanden hier niet uitpakken</string>
-  <string name="decompress_encrypted_rar_not_supported">Het versleutelde rar bestand wordt niet ondersteund.</string>
-  <string name="decompress_fail">Uitpakken mislukt: er bestaat al bestand met dezelfde naam of het archief is beschadigd.</string>
-  <string name="decompress_input_password">Wachtwoord invoeren…</string>
-  <string name="decompress_password_error">Wachtwoord is fout. Probeer opnieuw…</string>
+  <string name="decompress_destination_error">Kan bestanden niet uitpakken naar deze locatie</string>
+  <string name="decompress_encrypted_rar_not_supported">Gecodeerde rar bestanden worden niet ondersteund.</string>
+  <string name="decompress_fail">Kon bestanden niet uitpakken. Een bestand met dezelfde naam bestaat reeds of het archief is beschadigd.</string>
+  <string name="decompress_input_password">Voer wachtwoord in</string>
+  <string name="decompress_password_error">Het ingevoerde wachtwoord is fout.</string>
   <string name="decompress_success">Uitpakken voltooid</string>
   <string name="decompress_title">Uitpakken</string>
-  <string name="decompress_to">Uitpakken naar…</string>
-  <string name="decompress_to_here">Hier uitpakken:</string>
+  <string name="decompress_to">Bestanden uitpakken naar…</string>
+  <string name="decompress_to_here">Bestanden hier uitpakken:</string>
   <string name="delete_dialog_button">Verwijderen</string>
   <string name="delete_failed">Verwijderen mislukt</string>
   <string name="delete_file">Dit bestand verwijderen?</string>
@@ -141,10 +141,10 @@
   <string name="folder_name_empty">Map naam mag niet leeg zijn</string>
   <string name="folder_name_illegal">Ongeldige map naam</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Raak aan&lt;/a&gt;om te verwijderen</string>
-  <string name="ftp_account_req_notice">4-16 tekens, letters en cijfers, hoofdletters en kleine letters</string>
-  <string name="ftp_anonymous_login">Anoniem aanmelden</string>
-  <string name="ftp_invalid_username_or_password">Ongeldige gebruikersnaam of wachtwoord.</string>
-  <string name="ftp_open_port_error">Fout bij het ​​openen van poort: controleer uw netwerkverbinding of reset het poortnummer.</string>
+  <string name="ftp_account_req_notice">4-16 tekens, letters en cijfers, hoofdlettergevoelig</string>
+  <string name="ftp_anonymous_login">Anonieme aanmelding</string>
+  <string name="ftp_invalid_username_or_password">Ingevoerde gebruikersnaam en wachwoord zijn niet juist.</string>
+  <string name="ftp_open_port_error">Kon poort niet openen. Controleer de netwerk verbinding of reset het poortnummer</string>
   <string name="ftp_password_hint">Wachtwoord</string>
   <string name="ftp_port_number">Poort nummer</string>
   <string name="ftp_transfer_secure">Beveiliging</string>
@@ -181,7 +181,7 @@
   <string name="kuaipan_photo_locate">Gelocaliseerd %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Mededeling</string>
-  <string name="kuaipan_prompt_message">Helaas is onze server down op dit moment. Probeer het later opnieuw….</string>
+  <string name="kuaipan_prompt_message">Onze server is op dit moment down. Probeer het later opnieuw….</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Login at kuaipan.cn</string>
   <string name="load_err">Kan niet laden</string>
@@ -367,7 +367,7 @@
   <string name="share_box">Gedeeld</string>
   <string name="share_box_receive">Ontvangen</string>
   <string name="share_box_send">Verzonden</string>
-  <string name="share_link_failed">Mislukt om koppeling te genereren.</string>
+  <string name="share_link_failed">Kon geen koppeling genereren.</string>
   <string name="show_message">Je het bestand eerst downloaden voordat je het kunt openen.</string>
   <string name="sign_description">Aanmelden…</string>
   <string name="signin_error">Kan geen verbinding maken met de server. Controleer uw netwerkverbinding.</string>
