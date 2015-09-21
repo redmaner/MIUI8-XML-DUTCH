@@ -226,6 +226,8 @@
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
   <string name="compose">Opstellen</string>
+   <string name="compose_attachment_number_limit">Het aantal bijlagen mag niet groter zijn dan 10!</string>
+  <string name="compose_picturesexceedlimits">Het aantal gealigneerde afbeeldingen mag niet groter zijn dan 5!</string>
   <string name="compose_send">Verzenden</string>
   <string name="compose_sent">Verzonden</string>
   <string name="confirm">Bevestigen</string>
@@ -244,6 +246,8 @@
   <string name="contact_edit_set_black_list_receive_summary">Verwijder mail die deze ontvanger bevatten in het veld Aan of Cc</string>
   <string name="contact_edit_set_phone_contact">Bewerk telefoon contacten</string>
   <string name="contact_edit_title_phone_contact">Telefoon contact lijst</string>
+  <string name="contact_in_filter_call_phone_str">gesprek: %s</string>
+  <string name="contact_in_filter_title">Is van hem(haar).</string>
   <string name="contact_info_string">Contactgegevens weergeven voor %1$s</string>
   <string name="contact_info_string_default">Contactgegevens weergeven</string>
   <string name="contact_list_add_btn">Toevoegen</string>
@@ -443,7 +447,7 @@
   <string name="mail">E-mail</string>
   <string name="mail_body_turncated">Deze e-mail is te groot om te laden, kan slechts een deel weergeven, probeer later op de PC</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerk verbinding</string>
-  <string name="mailbox_list_account_selector_combined_view">Gecombineerde weergave</string>
+  <string name="mailbox_list_account_selector_combined_view">Gecombineerd Account</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
   <string name="mailbox_name_display_junk">Ongewenst</string>
