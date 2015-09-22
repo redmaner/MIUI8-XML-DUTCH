@@ -1,10 +1,10 @@
-#MIUI6 - Dutch translations#
+#MIUI7 - Dutch translations#
 
 ---------------------------------------------------------------------------------------------
 
-MIUI6 Dutch Translations (Started August 2014 by Jacketti and Redmaner) 
+MIUI7 Dutch Translations based on MIUI6 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
 
-Currently maintained by Cueie and Redmaner
+Currently maintained by Cueie, MannyRibo and Redmaner
 
 Based on the work of http://miui.com and http://xiaomi.eu
 
@@ -23,6 +23,7 @@ This translation is licensed under a Creative Commons Attribution-NonCommercial-
 ---------------------------------------------------------------------------------------------
 A special thanks to all the contributors of this translation:
 Cueie (lead translator)
+MannyRibo (finetune master)
 Redmaner (repository maintainer)
 cokeguy13
 Jacketti
