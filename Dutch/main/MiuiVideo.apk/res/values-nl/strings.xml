@@ -29,7 +29,7 @@
   <string name="alert_dialog_download_error">Kon niet downloaden</string>
   <string name="all">Alle</string>
   <string name="all_ep">Alle ep</string>
-  <string name="all_episode">Alle Episodes</string>
+  <string name="all_episode">Alle episodes</string>
   <string name="app_latest_version">Geen updates beschikbaar</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s geïnstalleerd</string>
@@ -37,7 +37,7 @@
   <string name="app_upgrade_version">Update beschikbaar</string>
   <string name="app_version">Versie</string>
   <string name="app_wifi_mode">Wi-fi auto upgraden</string>
-  <string name="app_wifi_mode_summary">Wanneer in Wifi modus, auto upgraden naar laatste versie.</string>
+  <string name="app_wifi_mode_summary">Wanneer in Wifimodus, automatisch upgraden naar laatste versie.</string>
   <string name="authenticated_failed">Kan niet inloggen</string>
   <string name="authenticating">&lt;CDATA&gt;Verifiëren&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">Kan niet worden geverifieerd</string>
@@ -47,7 +47,7 @@
   <string name="bmp_quality_mode">Foto Kwaliteits modus</string>
   <string name="bmp_quality_mode_desc">Gecontroleerd, hoge kwaliteit show modus.</string>
   <string name="buffering">Buffering…</string>
-  <string name="buffering_video_netplay_label_v5">Buffering…</string>
+  <string name="buffering_video_netplay_label_v5">Bufferen…</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_favorite_success">Verwijderen uit favorieten</string>
   <string name="check_app_version">Controleren op updates…</string>
@@ -65,8 +65,8 @@
   <string name="cnlive">cnlive</string>
   <string name="comment">Opmerkingen</string>
   <string name="comment_count_less_tip">Opmerking moet minstens %1$s karakters bevatten</string>
-  <string name="comment_count_much_tip">Opmerking mag %1$s karakters niet overschrijden</string>
-  <string name="comment_edit_et_hint">Mag 300 karakters niet overschreden</string>
+  <string name="comment_count_much_tip">Opmerking mag niet meer dan %1$s karakters bevatten</string>
+  <string name="comment_edit_et_hint">Mag niet meer dan 300 karakters bevatten</string>
   <string name="comment_edit_start_hint">Tik op de sterren om te beoordelen</string>
   <string name="connect_error">Fout verbinding</string>
   <string name="connecting">Verbinden…</string>
@@ -92,7 +92,7 @@
 2. Help met het verbeteren van dit product, door het automatisch verzenden van diagnostische en gebruiksgegevens aan Xiaomi.
 3. Onze HD Video plugin wordt automatisch geïnstalleerd.
 4. Deze functie moet verbonden zijn met internet om normaal te werken."</string>
-  <string name="declaration_content_td_custom">Deze app heeft een internet verbinding nodig om goed te kunnen werken</string>
+  <string name="declaration_content_td_custom">Deze app heeft een internetverbinding nodig om goed te kunnen werken</string>
   <string name="defaults">Standaard</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_action_text">Verwijder (%d)</string>
@@ -101,7 +101,7 @@
   <string name="delete_with">Verwijder (%d)</string>
   <string name="detail_comment_empty">Leeg</string>
   <string name="develop_version">Beta applicatie</string>
-  <string name="development_setting">Ontwikkelaars instellingen</string>
+  <string name="development_setting">Ontwikkelaarsinstellingen</string>
   <string name="device_empty_hint">Leeg</string>
   <string name="device_media_empty_hint">Leeg</string>
   <string name="di_count_ji">Ep. %d</string>
@@ -110,7 +110,7 @@
   <string name="dlna_list_name">DLNA toestel</string>
   <string name="dlna_name">Gedeeld toestel</string>
   <string name="douban_score">Score</string>
-  <string name="download_add_success">Toegevoegd aan wachtrij downloaden</string>
+  <string name="download_add_success">Toegevoegd aan downloadwachtrij</string>
   <string name="download_error">Offline fout</string>
   <string name="download_fail">Mislukt</string>
   <string name="download_file_fail">Lokale toegang tot bestanden is mislukt, misschien is er geen ruimte op de SD-kaart</string>
@@ -161,11 +161,11 @@
   <string name="init">Init</string>
   <string name="install_apk">Installeren</string>
   <string name="install_comfirm">Raak aan om te installeren</string>
-  <string name="install_plugin">Install plug-in</string>
+  <string name="install_plugin">Installeer plug-in</string>
   <string name="introduce">Samenvatting</string>
   <string name="join_alert_title">Doe mee aan de beta test</string>
   <string name="join_hint">Voer de uitnodigingscode in</string>
-  <string name="key_back_down_toast">Klik nogmaal op terug om af te sluiten</string>
+  <string name="key_back_down_toast">Klik nogmaals op terug om af te sluiten</string>
   <string name="lastrefresh">Laatste update</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
@@ -205,7 +205,7 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Om opmerkingen te maken, meld je aan met je Mi Account</string>
   <string name="no_longer_tips">Niet meer weergeven</string>
-  <string name="no_sdcard_no_download">Niet genoeg opslag ruimte.</string>
+  <string name="no_sdcard_no_download">Niet genoeg opslagruimte.</string>
   <string name="not_login">Niet aangemeld</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Afsluiten</string>
@@ -236,7 +236,7 @@
   <string name="online_video_oneweek">Minder dan 1 week geleden</string>
   <string name="online_video_oneweek_ago">1 week geleden</string>
   <string name="operator_test">Operator test</string>
-  <string name="operator_test_summary">Uitvoeren in operator modus</string>
+  <string name="operator_test_summary">Uitvoeren in operatormodus</string>
   <string name="other_setting">Extra</string>
   <string name="pause">Pauze</string>
   <string name="percent_status">%.0f%%</string>
@@ -250,7 +250,7 @@
   <string name="play_his_empty_title">Leeg</string>
   <string name="play_history">Recente</string>
   <string name="play_source_fetching">Verbinden…</string>
-  <string name="player_plugin_des">View available video player plug-ins</string>
+  <string name="player_plugin_des">Bekijk beschikbare videospeler plug-ins</string>
   <string name="player_plugin_title">Video player plug-ins</string>
   <string name="positive_comment">Leuk</string>
   <string name="pps">PPS</string>
@@ -359,13 +359,13 @@
   <string name="video_plugin_downloading">Downloaden(%1$s), een momentje.</string>
   <string name="video_plugin_prepare">Een momentje…</string>
   <string name="vp_VideoView_error_button">OK</string>
-  <string name="vp_VideoView_error_network_not_available">Kan geen netwerk verbinding maken</string>
+  <string name="vp_VideoView_error_network_not_available">Kan geen netwerkverbinding maken</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Uw apparaat ondersteunt dit type bestand niet.</string>
   <string name="vp_VideoView_error_text_unknown">Een onbekende fout opgetreden.</string>
   <string name="vp_VideoView_error_title">Onbekende fout</string>
-  <string name="vp_adapt_height">In de hoog passen</string>
-  <string name="vp_adapt_width">In de breedte passen</string>
-  <string name="vp_app_name">Video Speler</string>
+  <string name="vp_adapt_height">Hoogte aanpassen</string>
+  <string name="vp_adapt_width">Breedte aanpassen</string>
+  <string name="vp_app_name">Videospeler</string>
   <string name="vp_audio">Volume</string>
   <string name="vp_auto_select">Auto. selecteren</string>
   <string name="vp_back">Terug</string>
@@ -375,7 +375,7 @@
   <string name="vp_closedialog">Ok</string>
   <string name="vp_confirm">Ok</string>
   <string name="vp_content_description">Inhoud beschrijving</string>
-  <string name="vp_datastream_alert_hint">U kunt ten allen tijde dataverbruik meldings uitschakelen in Instellingen.</string>
+  <string name="vp_datastream_alert_hint">U kunt ten allen tijde dataverbruiksmeldingen uitschakelen in Instellingen.</string>
   <string name="vp_datastream_alert_negative_button">Annuleren</string>
   <string name="vp_datastream_alert_play">"Het gebruik van uw mobiele gegevensverbinding om video's te bekijken zal uw dataverbruik verhogen. Als je de datalimiet overschrijdt, kan uw provider extra kosten in rekening brengen."</string>
   <string name="vp_datastream_alert_positive_button">Doorgaan</string>
@@ -444,8 +444,8 @@
   <string name="vp_unknown_source">Onbekende bron</string>
   <string name="vp_using_16_9">Forceer 16:9</string>
   <string name="vp_using_4_3">Forceer 4:3</string>
-  <string name="vp_video_bad_network_condition">Slechte netwerk verbinding, probeer later opnieuw</string>
-  <string name="vp_video_invalid_cp_info">Ongeldige info van video provider, app opnieuw starten</string>
+  <string name="vp_video_bad_network_condition">Slechte netwerkverbinding, probeer later opnieuw</string>
+  <string name="vp_video_invalid_cp_info">Ongeldige info van videoprovider, app opnieuw starten</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Loading&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">%1$s plugin installeren…</string>
   <string name="waiting_to_download">Wachten;</string>
