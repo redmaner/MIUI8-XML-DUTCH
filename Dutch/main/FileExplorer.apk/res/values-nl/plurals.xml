@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="delete_files_confirm">
-        <item quantity="other">Verwijderd %1$d bestanden</item>
-        <item quantity="zero">Verwijderd %1$d bestanden</item>
-        <item quantity="one">Verwijderd %1$d bestanden</item>
-        <item quantity="two">Verwijderd %1$d bestanden</item>
-        <item quantity="few">%1$Verwijderd %1$d bestanden</item>
-        <item quantity="many">Verwijderd %1$d bestanden</item>
+        <item quantity="other">Verwijder %1$d bestanden</item>
+        <item quantity="zero">Verwijder %1$d bestanden</item>
+        <item quantity="one">Verwijder %1$d bestand</item>
+        <item quantity="two">Verwijder %1$d bestanden</item>
+        <item quantity="few">%1$Verwijder %1$d bestanden</item>
+        <item quantity="many">Verwijder %1$d bestanden</item>
     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" en %1$d mappen?"</item>
         <item quantity="zero">" en %1$d mappen?"</item>
-        <item quantity="one">" en %1$d mappen?"</item>
+        <item quantity="one">" en %1$d map?"</item>
         <item quantity="two">" en %1$d mappen?"</item>
         <item quantity="few">" en %1$d mappen?"</item>
         <item quantity="many">" en %1$d mappen?"</item>
@@ -89,20 +89,20 @@
         <item quantity="many">Tag %1$s verwante bestanden (%2$d items)</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d min geleden</item>
-        <item quantity="zero">%1$d min geleden</item>
-        <item quantity="one">%1$d min geleden</item>
-        <item quantity="two">%1$d min geleden</item>
-        <item quantity="few">%1$d min geleden</item>
-        <item quantity="many">%1$d min geleden</item>
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="zero">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
+        <item quantity="two">%1$d minuten geleden</item>
+        <item quantity="few">%1$d minuten geleden</item>
+        <item quantity="many">%1$d minuten geleden</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="other">%1$d uren geleden</item>
-        <item quantity="zero">%1$d uren geleden</item>
+        <item quantity="other">%1$d uur geleden</item>
+        <item quantity="zero">%1$d uur geleden</item>
         <item quantity="one">%1$d uur geleden</item>
-        <item quantity="two">%1$d uren geleden</item>
-        <item quantity="few">%1$d uren geleden</item>
-        <item quantity="many">%1$d uren geleden</item>
+        <item quantity="two">%1$d uur geleden</item>
+        <item quantity="few">%1$d uur geleden</item>
+        <item quantity="many">%1$d uur geleden</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d dagen geleden</item>
