@@ -536,7 +536,7 @@
         <item>Robijnrood</item>
         <item>Oranje</item>
         <item>Groen</item>
-        <item>Margenta</item>
+        <item>Magenta</item>
     </string-array> 
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -558,12 +558,12 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Toon recente apps tray</item>
+        <item>Toon recente apps</item>
         <item>Toon menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Geen</item>
-        <item>Toon recente apps lade</item>
+        <item>Toon recente apps</item>
         <item>Open Assistant</item>
         <item>Open Google now</item>
         <item>Huidige app sluiten</item>
@@ -625,7 +625,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <string-array name="screen_color_title">
         <item>Warm</item>
         <item>Standaard</item>
-        <item>Cool</item>
+        <item>Koel</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brilliant</item>
@@ -659,8 +659,8 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Enkele micro geluids onderdrukking</item>
-        <item>Dubbele micro geluids onderdrukking</item>
+        <item>Enkele micro geluidsonderdrukking</item>
+        <item>Dubbele micro geluidsonderdrukking</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gezichts ontgrendeling</item>
@@ -670,7 +670,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Automatisch verbinden</item>
-        <item>Manueel verbinden</item>
+        <item>Handmatig verbinden</item>
         <item>Altijd vragen</item>
     </string-array>
     <string-array name="slideshow_time_entries">
@@ -684,16 +684,16 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Launcher</item>
         <item>Bellen</item>
         <item>Berichten</item>
-        <item>Surfen</item>
+        <item>Browser</item>
         <item>Camera</item>
-        <item>Gallerij</item>
+        <item>Galerij</item>
         <item>Muziek</item>
         <item>Email</item>
 		<item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Netwerk is traag door het vele verkeer</item>
-        <item>Netwerk is traag door slechte signaal sterkte</item>
+        <item>Netwerk is traag door slechte signaalsterkte</item>
         <item>Moving…</item>
     </string-array>
     <string-array name="priority_storage_entries">
@@ -719,7 +719,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>3.5 inches</item>
     </string-array>
     <string-array name="agps_network_entries">
-        <item>Thuis netwerk</item>
+        <item>Thuisnetwerk</item>
         <item>Alle netwerken</item>
     </string-array>
     <string-array name="agps_si_mode_entries">
@@ -752,8 +752,8 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>30 minuten</item>		
     </string-array>
     <string-array name="fluency_mode_entries">
-        <item>Verberg systeem animaties</item>
-        <item>Toon systeem animaties</item>
+        <item>Verberg systeemanimaties</item>
+        <item>Toon systeemanimaties</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>Versnelt de prestaties van apparaat</item>
