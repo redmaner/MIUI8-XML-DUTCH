@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Wekker toevoegen</string>
-  <string name="alarm_alert">Beltoon instellen</string>
+  <string name="alarm_alert">Standaardbeltoon instellen</string>
   <string name="alarm_alert_alert_silenced">Wekker uitgezet na %d minuten.</string>
   <string name="alarm_alert_snooze_set">%d minuten snoozen.</string>
-  <string name="alarm_ascending_mode_summary">Wekker loopt op naar geselecteerd wekkervolume.</string>
-  <string name="alarm_ascending_mode_title">Van laag naar hoog volume</string>
+  <string name="alarm_ascending_mode_summary">Wekkervolume neemt geleidelijk toe.</string>
+  <string name="alarm_ascending_mode_title">Toenemend volume</string>
   <string name="alarm_disabled">Uit</string>
   <string name="alarm_in_silent_mode_title">Wekker in stille modus</string>
   <string name="alarm_klaxon_service_desc">Service geluidsweergave voor alarmen ingesteld in Klok.</string>
-  <string name="alarm_label_hint">Typ wekker naam</string>
+  <string name="alarm_label_hint">Wekkernaam</string>
   <string name="alarm_list_title">Wekkers</string>
   <string name="alarm_notify_snooze_label">%s (snooze aan)</string>
   <string name="alarm_notify_text">Snooze of alarm uitschakelen.</string>
@@ -17,16 +17,17 @@
   <string name="alarm_screen">Gevarieerde beltoon instellen</string>
   <string name="alarm_settings">ALARMEN</string>
   <string name="alarm_vibrate">Trillen</string>
-  <string name="alarm_volume_summary">Wekker en timervolume instellen</string>
+  <string name="alarm_volume_summary">Wekkervolume instellen</string>
   <string name="alarm_volume_title">Wekkervolume</string>
   <string name="alarmclock_empty_text">Geen wekkers</string>
   <string name="alert">Beltoon voor wekker</string>
   <string name="analog_gadget">Analoge klok</string>
   <string name="app_label">Klok</string>
   <string name="auto_silence_never">Nooit</string>
+  <string name="auto_silence_summary">Alarm zal dempen na %d minuten</string>
   <string name="auto_silence_title">Stil na</string>
   <string name="battery_charging_level">%d%%</string>
-  <string name="birthday_alarm">Verjaardags alarm</string>
+  <string name="birthday_alarm">Verjaardagsalarm</string>
   <string name="birthday_alarm_summary">Speel \"Happy Birthday\" af in plaats van je standaard alarm op je verjaardag</string>
   <string name="cancel">Annuleren</string>
   <string name="close_alarm">Wekker afsluiten</string>
@@ -37,8 +38,8 @@
   <string name="day">1 dag</string>
   <string name="day_concat">", "</string>
   <string name="days">%s dagen</string>
-  <string name="default_alarm_alert">Standaard beltoon instellen</string>
-  <string name="default_alarm_title">Standaard beltoon</string>
+  <string name="default_alarm_alert">Standaardbeltoon instellen</string>
+  <string name="default_alarm_title">Standaardbeltoon</string>
   <string name="default_label">Wekker</string>
   <string name="delelte_selected_timezone">Verwijder de geselecteerde tijdzone?</string>
   <string name="delete">Verwijderen</string>
@@ -95,12 +96,12 @@
   <string name="system_time_setting">Tijdsinstellingen</string>
   <string name="time">Tijd</string>
   <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">Klik op scherm om het beltoon te stopen</string>
+  <string name="timer_alarm_cancel_pad">Tik op het scherm om het alarm te stoppen</string>
   <string name="timer_alert_alert_silenced">Timer gestopt na %d minuten.</string>
   <string name="timer_continue">Hervatten</string>
   <string name="timer_got_it">OK</string>
-  <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
-  <string name="timer_item_label_hint">Timer naam</string>
+  <string name="timer_item_duration_display">%1$d min %2$d sec</string>
+  <string name="timer_item_label_hint">Timernaam</string>
   <string name="timer_item_picker_hour">Uur</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sec</string>
@@ -111,7 +112,7 @@
   <string name="timezone_exist_error_message">Deze tijdzone bestaat al.</string>
   <string name="vibrate_pref_summary">Trillen bij alarm</string>
   <string name="vibrate_when_ringing">Trillen bij beltoon</string>
-  <string name="volume_button_setting_summary">"Stel volumeknoppen functionaliteit tijdens alarm in</string>
+  <string name="volume_button_setting_summary">"Stel functionaliteit van volumeknoppen tijdens alarm in</string>
   <string name="volume_button_setting_title">Volumeknoppen</string>
   <string name="workday_alarm_clock">Alarm op werkdagen</string>
   <string name="worldclock_empty_text">Geen wereldklok</string>
