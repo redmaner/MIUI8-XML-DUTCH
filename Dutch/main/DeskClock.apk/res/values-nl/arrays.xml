@@ -48,17 +48,18 @@
         <item>30 minuten</item>
     </string-array>
     <string-array name="auto_silence_entries">
+        <item>Nooit</item>
+        <item>1 minuut</item>
         <item>5 minuten</item>
         <item>10 minuten</item>
         <item>15 minuten</item>
         <item>20 minuten</item>
         <item>25 minuten</item>
         <item>30 minuten</item>
-        <item>Nooit</item>
     </string-array>
-    <string-array name="volume_button_setting_entries">
-        <item>Snooze</item>
-        <item>Sluiten</item>
+     <string-array name="volume_button_setting_entries">
         <item>Niets doen</item>
+        <item>Snoozen</item>
+        <item>Alarm uitzetten</item>
     </string-array>
 </resources>
