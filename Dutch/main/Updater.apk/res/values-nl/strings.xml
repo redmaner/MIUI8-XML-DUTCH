@@ -58,7 +58,7 @@
   <string name="expect">Verwachtingen</string>
   <string name="experimental_build">Experimentele versie</string>
   <string name="finish">Download voltooid</string>
-  <string name="fourgrid_hint_text">Bedankt voor het gebruiken van de ontwikkelaars versie van MIUI. Vertel ons wat u denkt en help ons om MIUI te verbeteren!</string>
+  <string name="fourgrid_hint_text">Bedankt voor het gebruiken van de ontwikkelaarsversie van MIUI. Vertel ons wat u denkt en help ons om MIUI te verbeteren!</string>
   <string name="fourgrid_no_notificaiont">"Niet weergeven in statusbalk"</string>
   <string name="fourgrid_notificaiont">Weergeven in statusbalk</string>
   <string name="get_auto">Krijg automatische modus</string>
@@ -75,12 +75,12 @@
   <string name="loading">Aanvragen…</string>
   <string name="log_share">Delen</string>
   <string name="menu_title_current_version_log">Update samenvatting</string>
-  <string name="menu_title_download_current_rom">Download update pakket</string>
-  <string name="menu_title_pick_rom_file">Selecteer update pakket</string>
+  <string name="menu_title_download_current_rom">Download updatepakket</string>
+  <string name="menu_title_pick_rom_file">Selecteer updatepakket</string>
   <string name="menu_title_recovery">Herstarten in Recovery mode</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Ga naar MIUI forum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">"  Nieuwe update gevonden  "</string>
-  <string name="miui_summary_no_new_version">Geen updates beschikbaar</string>
+  <string name="miui_summary_no_new_version">Geen update beschikbaar</string>
   <string name="miui_summary_now_version">"Recente versie "</string>
   <string name="monthly_build">Maandelijks</string>
   <string name="my_best_update">Beste update</string>
@@ -92,10 +92,10 @@
   <string name="new_updates_found_notification_title">Nieuwe update gevonden</string>
   <string name="next">Volgende</string>
   <string name="no_log">Geen samenvatting beschikbaar</string>
-  <string name="no_wifi_msg">Downloaden met uw mobiele dataverbinding zal uw dataverbruik te verhogen.</string>
-  <string name="no_wifi_title">Dataverbruik waarschuwing</string>
-  <string name="not_open">Nu niet</string>
-  <string name="notification_auto_reboot_seccess_title">Apparaat automatisch geüpdate</string>
+  <string name="no_wifi_msg">Downloaden met uw mobiele dataverbinding zal uw dataverbruik verhogen.</string>
+  <string name="no_wifi_title">Waarschuwing dataverbruik</string>
+  <string name="not_open">Niet nu</string>
+  <string name="notification_auto_reboot_seccess_title">Apparaat automatisch geüpdatet</string>
   <string name="notification_downloading">Update downloaden…</string>
   <string name="notification_load_body_alpha">Haal de nieuwste updates voor uw apparaat op.</string>
   <string name="notification_load_body_dev">Haal de nieuwste updates voor uw apparaat op.</string>
@@ -121,7 +121,7 @@
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Uw apparaat beschikt niet over voldoende geheugen om naar Recovery modus te gaan en je systeem te updaten. Probeer dan de Mi PC Suite te gebruiken.:
 http://zhushou.xiaomi.com"</string>
-  <string name="recovery_failed_notification_msg">Kan niet in de Recovery modus gaan</string>
+  <string name="recovery_failed_notification_msg">Kan niet in Recovery modus komen</string>
   <string name="recovery_failed_title">Gebruik Mi PC Suite om je systeem te updaten</string>
   <string name="recovery_power_not_enough_msg">Sluit de lader aan om te updaten indien er minder dan 30% van de batterij over is</string>
   <string name="recovery_power_not_enough_title">Batterij laag</string>
@@ -180,23 +180,23 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_feel">Hoe voelt u zich?</string>
   <string name="update_general">Middelmatig</string>
   <string name="update_happy">Tevreden!</string>
-  <string name="update_monthly_build_only">Alleen bijwerken naar Maandelijkse versies</string>
+  <string name="update_monthly_build_only">Alleen bijwerken naar maandelijkse versies</string>
   <string name="update_sad">Verdrietig</string>
   <string name="update_success">Gefeliciteerd, update succesvol toegepast!</string>
   <string name="update_success_body">Huidige versie: %s</string>
   <string name="update_success_reboot_immediately">Update gedownload</string>
-  <string name="update_success_title">Apparaat geüpdate</string>
+  <string name="update_success_title">Apparaat geüpdatet</string>
   <string name="updater_nolog">Geen wijzigingslogs</string>
   <string name="updater_nonetwork">Verbinden met netwerk om log te bekijken</string>
   <string name="updater_nonetwork_clause">Verbinden met netwerk om bijgewerkte Privacybeleid te bekijken</string>
   <string name="updater_wait_for_unzip">Update uitpakken…</string>
   <string name="upgrade_close">Sluiten</string>
-  <string name="upgrade_kernel">Systeem kernel vereist update</string>
-  <string name="upgrade_kernel_msg">"Huidige kernel versie komt niet overeen met MIUI ROM. U moet de kernel handmatig bijwerken. Update handleiding: "</string>
+  <string name="upgrade_kernel">Systeemkernel vereist update</string>
+  <string name="upgrade_kernel_msg">"Huidige kernelversie komt niet overeen met MIUI ROM. U moet de kernel handmatig bijwerken. Updatehandleiding: "</string>
   <string name="user_begin">Download</string>
-  <string name="user_intertup_download_msg">Downloads gepauzeerd. Je kan op elk moment doorgaan met de update.</string>
-  <string name="user_intertup_download_title">Update download gepauzeerd</string>
-  <string name="validate_pkg_failed_msg">De update die u hebt gedownload komen niet overeen met onze data. Probeer later opnieuw.</string>
+  <string name="user_intertup_download_msg">Download gepauzeerd. Je kan op elk moment doorgaan met de update.</string>
+  <string name="user_intertup_download_title">Updatedownload gepauzeerd</string>
+  <string name="validate_pkg_failed_msg">De update die u hebt gedownload komt niet overeen met onze data. Probeer later opnieuw.</string>
   <string name="validate_pkg_failed_title">Kan de update niet verifiëren</string>
   <string name="view_upgrade_tutorial">Weergeven</string>
   <string name="vote_beta">Beta Feedback Programma</string>
@@ -210,8 +210,8 @@ Probeer opnieuw aan te melden op je Mi Account</string>
   <string name="vote_error5">Er liep is fout
 Kon feedback niet indienen</string>
   <string name="vote_error_nonetwork">Kan niet verbinden met netwerk</string>
-  <string name="vote_experience">Forum ervaring</string>
-  <string name="vote_hint">Verkrijg 20 ervarings punten voor de MIUI forum wanneer je stemt</string>
+  <string name="vote_experience">Forumervaring</string>
+  <string name="vote_hint">Verkrijg 20 ervaringspunten voor het MIUI forum wanneer je stemt</string>
   <string name="vote_join">Gestemd</string>
   <string name="vote_not_recommend">Niet aanbevolen</string>
   <string name="vote_recommend">Beveel deze update aan</string>
