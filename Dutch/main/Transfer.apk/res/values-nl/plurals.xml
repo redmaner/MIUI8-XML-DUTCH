@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Zopas</item>
+        <item quantity="other">Pas</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Zopas</item>
+        <item quantity="other">Zojuist</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Meteen</item>
@@ -37,23 +37,23 @@
         <item quantity="other">Binnen een half uur</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min geleden</item>
-        <item quantity="one">1 min geleden</item>
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">binnen %d min</item>
-        <item quantity="one">binnen 1 min</item>
+        <item quantity="other">binnen %d minuten</item>
+        <item quantity="one">binnen 1 minuut</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">binnen %d minuten</item>
         <item quantity="one">binnen 1 minuut</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d Items gecontroleerd</item>
-        <item quantity="one">%1$d Item gecontroleerd</item>
+        <item quantity="other">%1$d items gecontroleerd</item>
+        <item quantity="one">%1$d item gecontroleerd</item>
     </plurals>
 </resources>
