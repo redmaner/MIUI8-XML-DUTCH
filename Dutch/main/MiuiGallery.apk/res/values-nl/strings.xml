@@ -6,7 +6,7 @@
   <string name="accept_or_deny">%1$s deel album %2$s met u.</string>
   <string name="activity_not_found">Er is geen app gevonden voor deze actie</string>
   <string name="add_account">Account toevoegen</string>
-  <string name="add_automatically_alert_msg">"Foto's toevoegen van \"%1$s\" automatisch toevoegen aan dit album?</string>
+  <string name="add_automatically_alert_msg">"Foto's van \"%1$s\" automatisch toevoegen aan dit album?</string>
   <string name="add_automatically_alert_title">"Foto's automatisch toevoegen</string>
   <string name="add_event">Evenement toevoegen</string>
   <string name="add_event_hint">Voer label in</string>
@@ -25,12 +25,12 @@
   <string name="add_to_cloud_unfinished_message_with_count">%1$s items zijn niet toegevoegd aan MI Cloud</string>
   <string name="add_to_cloud_unknow_reasons">Onbekende fout</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s items kunnen niet worden toegevoegd aan verborgen album: %1$s."</string>
-  <string name="add_to_secret_successfully_message">Toegevoegd aan verborgen album</string>
+  <string name="add_to_secret_successfully_message">Toevoegen aan verborgen album</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s items zijn niet toegevoegd aan verborgen album</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="adjust">Aanpassen</string>
-  <string name="album_member">Album leden %s</string>
-  <string name="album_name">Album naam</string>
+  <string name="album_member">Albumleden %s</string>
+  <string name="album_name">Albumnaam</string>
   <string name="album_quota_fulfiled">Kan het album niet aanmaken: het albumlimiet is overschreden</string>
   <string name="album_share_exit_confirm">Het album verlaten?</string>
   <string name="album_share_kicked">%1$s is gesloten</string>
@@ -41,7 +41,7 @@
   <string name="album_share_subtitle_normal">Gedeeld door %1$s</string>
   <string name="album_share_subtitle_not_ready">Albuminformatie niet beschikbaar</string>
   <string name="album_share_subtitle_quitting">Verlaten…</string>
-  <string name="album_share_subtitle_requesting">Album informatie ophalen…</string>
+  <string name="album_share_subtitle_requesting">Albuminformatie ophalen…</string>
   <string name="album_share_title_new_album">Deel nieuw album</string>
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
@@ -49,8 +49,8 @@
   <string name="alert_init_merged_message">"Vanaf heden zullen de foto's op uw apparaat en de foto's die u in de Mi Cloud heeft opgeslagen gezamenlijk getoond worden."</string>
   <string name="alert_init_merged_title">"Al uw foto's. Eindelijk samen."</string>
   <string name="alert_message_open_sync">U moet eerst synchronisatie activeren.</string>
-  <string name="alert_secret_album_message">Veeg omlaag vanaf de bodem van uw albums om de verborgen album te bekijken. Om het te beschermen, moet u een patroon instellen.</string>
-  <string name="alert_secret_album_set_pattern">Stel een ontgerendelings patroon in</string>
+  <string name="alert_secret_album_message">Veeg omlaag vanaf de bodem van uw albums om het verborgen album te bekijken. Om het te beschermen, moet u een patroon instellen.</string>
+  <string name="alert_secret_album_set_pattern">Stel een ontgerendelingspatroon in</string>
   <string name="alert_secret_album_title">Toegevoegd aan verborgen album</string>
   <string name="all_video_album_display_name">"Alle video's"</string>
   <string name="already_apply_album">Open %1$s?</string>
@@ -70,10 +70,10 @@
   <string name="auto_create_recent_album_confirm">De Galerij ruimt de favoriete album data op. Handmatig als favoriet gemarkeerde albums zullen niet geraakt worden.</string>
   <string name="auto_create_recent_album_over_ten_times">Een album wordt als favoriet gemarkeerd wanneer u het vaker dan 10 maal opent.</string>
   <string name="auto_update_face">"Foto's automatisch toevoegen"</string>
-  <string name="auto_update_face_summary">"Automatisch foto's vergelijken en toevoegen aan de baby album"</string>
+  <string name="auto_update_face_summary">"Automatisch foto's vergelijken en toevoegen aan het babyalbum"</string>
   <string name="auto_update_off">Uit</string>
   <string name="auto_update_on">Aan</string>
-  <string name="auto_upload_album_comfirm_to_share">Deze album wordt automatisch gesynced.</string>
+  <string name="auto_upload_album_comfirm_to_share">Dit album wordt automatisch gesynced.</string>
   <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Uw foto\'s automatisch sunc. van andere apps naar Mi Cloud. Bekijk instellingen in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Gallerij instellinge&amp;gt;Sync met Mi Cloud&amp;gt;Autmatisch uploaden&amp;lt;/b&amp;gt;&amp;lt;/lettertype&amp;gt;. &lt;/Data&gt;" "</string>
   <string name="auto_upload_guide_title">"Foto's synchroniseren met Mi Cloud"</string>
   <string name="auto_upload_title">Automatisch synchroniseren</string>
@@ -90,13 +90,13 @@
   <string name="baby_album_sharers_page_title">Delen met familie</string>
   <string name="baby_birthday">Verjaardag</string>
   <string name="baby_lock_wallpaper">Achtergrond vergrendelscherm</string>
-  <string name="baby_lock_wallpaper_cancelled">Herstelde standaard vergrendelscherm achtergrond</string>
+  <string name="baby_lock_wallpaper_cancelled">Standaard vergrendelschermachtergrond hersteld</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Huidige instellingen toepassen?</string>
-  <string name="baby_lock_wallpaper_title">"Baby foto's gebruiken als achtergrond vergrendelscherm"</string>
+  <string name="baby_lock_wallpaper_title">"Babyfoto's gebruiken als achtergrond vergrendelscherm"</string>
   <string name="baby_name_cannot_empty">Naam invoeren</string>
   <string name="baby_name_cannot_start_with">"Naam kan niet beginnen met '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Naam kan '%s' niet bevatten"</string>
-  <string name="baby_name_reserved">Deze naam is gereserveerd voor een andere album</string>
+  <string name="baby_name_reserved">Deze naam is gereserveerd voor een ander album</string>
   <string name="baby_nick_name">Roepnaam</string>
   <string name="baby_sexy">Geslacht</string>
   <string name="baby_suffix">baby</string>
@@ -164,7 +164,7 @@
   <string name="cloudfolder_fail_to_load_data">Kon geen data laden. Probeer het later opnieuw.</string>
   <string name="cloudfolder_loading_data">Laden…</string>
   <string name="cloudfolder_name_cannot_empty">Geef de album een naam</string>
-  <string name="cloudfolder_name_reserved">Deze album naam is voorbehouden</string>
+  <string name="cloudfolder_name_reserved">Deze albumnaam is voorbehouden</string>
   <string name="comfirm_delete_current_album">Dit album verwijderen?</string>
   <string name="comma">, </string>
   <string name="confirm">Ok</string>
