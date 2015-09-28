@@ -122,6 +122,7 @@
   <string name="error_info_cant_send_folder">Kan dit type bestand niet verzenden.</string>
   <string name="error_open_file_failed_no_app_found">Geen app  gevonden om deze actie uit te voeren.</string>
   <string name="expand_all">Alle</string>
+  <string name="extract">Uitpakken</string>
   <string name="fail_to_create_folder">Niet genoeg ruimte of de map bestaat al.</string>
   <string name="fail_to_create_folder_unknown">Kan map niet aanmaken</string>
   <string name="fail_to_rename">Een bestand met dezelfde naam bestaat al.</string>
@@ -192,6 +193,9 @@
   <string name="load_err">Kan niet laden</string>
   <string name="load_more">Meer weergeven</string>
   <string name="loading">Laden…</string>
+  <string name="local_image">Foto\'s</string>
+  <string name="local_music">Muziek</string>
+  <string name="local_video">Video</string>
   <string name="login_reg_content">Sla bestanden op  en synchroniseer op meerdere apparaten.</string>
   <string name="login_reg_content0">Gebruik KuaiPan vanaf elke locatie.</string>
   <string name="megabyteShort">MB</string>
@@ -211,6 +215,7 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">Kan niet knippen</string>
+  <string name="move_to">Verplaatsen naar…</string>
   <string name="multi_select_title">%1$s geselecteerd</string>
   <string name="my_app">App data</string>
   <string name="my_app_desc"/>
@@ -364,6 +369,9 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Zoeken</string>
   <string name="search_title_hint">Zoeken</string>
+  <string name="select_image">Kies foto\'s</string>
+  <string name="select_music">Kies nummers</string>
+  <string name="select_video">Kies video\'s</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Dit bestandstype wordt niet ondersteund.</string>
   <string name="server_control_advanced_settings">Instellingen FTP</string>
@@ -386,10 +394,13 @@
   <string name="stay_awake_title">Standby</string>
   <string name="stop_server">Stop server</string>
   <string name="storage_info">%1$s beschikbaar</string>
-  <string name="storage_info_detail">Beschikbaar:%1$s Totaal:%1$s</string>
+  <string name="storage_info_detail">Beschikbaar:%1$s Totaal:%2$s</string>
   <string name="storage_internal">Interne opslag</string>
+  <string name="storage_internal_description">Interne opslag</string>
   <string name="storage_sd_card">SD kaart</string>
+  <string name="storage_sd_card_description">SD kaart</string>
   <string name="storage_usb">USB opslag</string>
+  <string name="storage_usb_description">USB opslag</string>
   <string name="storage_warning">Kan externe opslag niet gebruiken</string>
   <string name="sys_size_enable">Inschakelen</string>
   <string name="system_alert">Internetverbinding</string>

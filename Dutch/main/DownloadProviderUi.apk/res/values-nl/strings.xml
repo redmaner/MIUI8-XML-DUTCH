@@ -16,6 +16,8 @@
   <string name="auth_activity_title">Xunlei account</string>
   <string name="auth_fail">Kon geen autorisatie krijgen</string>
   <string name="bind_xunlei_account">Xunlei account toevoegen</string>
+  <string name="bt_download">Download</string>
+  <string name="bt_xunlei_open_info">Xunlei zoekmachine gebruiken om dit type link te openen (verplicht)?</string>
   <string name="button_sort_by_date">Sorteren op datum</string>
   <string name="button_sort_by_size">Sorteren op grootte</string>
   <string name="cancel">Annuleren</string>
@@ -26,10 +28,12 @@
   <string name="confirm_delete_downloads_message">%d downloads worden verwijderd!</string>
   <string name="confirm_delete_the_download_item_message">Deze downloads verwijderen?</string>
   <string name="create_task">Taak aanmaken</string>
+  <string name="delete">Verwijderen</string>
   <string name="delete_download">Verwijderen</string>
   <string name="delete_downloads_records">Verwijder downloads</string>
   <string name="delete_the_downloaded_file">Gedownloade bestanden zullen verwijderd worden.</string>
   <string name="deselect_all">Alle deselecteren</string>
+  <string name="deselect_subfile_all">Alles deselecteren</string>
   <string name="determine">Ok</string>
   <string name="dialog_cannot_resume">Download is onderbroken en kan niet worden hervat.</string>
   <string name="dialog_confirm_delete_checkbox_message">Ook lokale bestanden verwijderen</string>
@@ -88,12 +92,16 @@
   <string name="downloading_empty">Leeg</string>
   <string name="downloads_operating">Bezig…</string>
   <string name="dredge_xunlei_account">Maak een Xunlei account aan</string>
-  <string name="edit_hint"> Voer een URL in (http or https)</string>
+  <string name="edit_hint"> Voer een http, torrent, of eMule adres in</string>
   <string name="editmode_menu_delete">Verwijder</string>
   <string name="editmode_menu_share">Delen</string>
+  <string name="engine_open">Openen</string>
   <string name="experience_xunlei_account_speed">Xunlei leden kunnen genieten van downloads op hoge snelheid</string>
   <string name="expire_notification_msg">Xunlei lidmaatschap verloopt binnenkort.</string>
   <string name="expire_today_notification_msg">Xunlei lidmaatschap vervalt vandaag.</string>
+  <string name="extract_file">Bestand uitpakken…</string>
+  <string name="file_exist_hint">Dit bestand wacht reeds om gedownload te worden</string>
+  <string name="file_picker">Kies een locatie</string>
   <string name="free_high_speed_channel">Xunlei accelerator (gratis)</string>
   <string name="free_speedup_exp">Probeer de Xunlei download accelerator gratis</string>
   <string name="get_account_dialog_msg">Accountinfo verkrijgen…</string>
@@ -101,6 +109,7 @@
   <string name="get_order_fail_msg">Kan bestelling niet aanmaken</string>
   <string name="file_picker">Kies een locatie</string>
   <string name="high_speed_channel">Xunlei accelerator (betalend):</string>
+  <string name="hint">Aandacht</string>
   <string name="immediately_a_renewal">Nu vernieuwen</string>
   <string name="input_valid_address">Voer bestandspad in</string>
   <string name="install">Installeer</string>
@@ -120,14 +129,18 @@
   <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Onbekend&gt;</string>
   <string name="network_error">Kon niet verbinden met netwerk</string>
-  <string name="new_add">Nieuw</string>
+  <string name="new_add">Nieuwe download</string>
+  <string name="new_add_bt">Torrent toevoegen</string>
   <string name="no_downloads">Geen downloads.</string>
+  <string name="no_file_hint">Dit bestand wacht reeds om gedownload te worden</string>
   <string name="no_vip_info">Neem een Xunlei lidmaatschap om je downloads te versnellen</string>
   <string name="no_vip_show_info">Versnel downloads
 op al je apparaten met Xunlei</string>
-  <string name="one_month">"Eén maand"</string>
+  <string name="one_month">1 maand</string>
+  <string name="only_support_torrent">Enkel torrent bestanden zijn ondersteund</string>
   <string name="open">Open</string>
   <string name="open_download">Open</string>
+  <string name="open_vip_hint">Tik om downloadsnelheid tot 50% te verhogen </string>
   <string name="open_xunlei_speed_service">Start Xunlei download accelerator</string>
   <string name="original_price">Prijs</string>
   <string name="other_filter">Overige</string>
@@ -141,6 +154,7 @@ op al je apparaten met Xunlei</string>
   <string name="paused_waiting_for_network">Wachten op netwerk</string>
   <string name="paused_waiting_to_retry">Wachten op nieuwe poging</string>
   <string name="period_of_validity">Geldigheid:</string>
+  <string name="play">Afspelen</string>
   <string name="pref_download_revert_default">Standaard</string>
   <string name="pref_download_settings_title">Downloadlimiet</string>
   <string name="pref_download_storage_path">Downloadlocatie</string>
@@ -169,13 +183,16 @@ op al je apparaten met Xunlei</string>
   <string name="remove_download">Verwijderen</string>
   <string name="restart_download">Herstarten</string>
   <string name="resume_download">Hervatten</string>
-  <string name="retry_after_network_available">Kan niet verbinden met netwerk. Controleer je dataverbinding en probeer opnieuw.</string>
+  <string name="retry_after_network_available">Kan niet verbinden met netwerk. Controleer je dataverbinding en probeer 
+     opnieuw.</string>
   <string name="retry_download">Opnieuw proberen</string>
   <string name="revert_default">Resetten</string>
   <string name="revert_download_path">Standaard download locatie gebruiken?</string>
   <string name="save_path">"Downloads opslaan naar: "</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_operation_items">Kies items</string>
+  <string name="select_sub_file_download">Kies een bestand om te downloaden</string>
+  <string name="select_subfile_all">Alles selecteren</string>
   <string name="selected_count">%1$d van %2$d geselecteerd</string>
   <string name="setting_close_debug">Debug modus uitgeschakeld</string>
   <string name="setting_debug_fail">Kon Debug modus niet openen</string>
@@ -188,6 +205,12 @@ op al je apparaten met Xunlei</string>
   <string name="storage_internal">Intern geheugen</string>
   <string name="storage_sd_card">SD kaart</string>
   <string name="storage_usb">USB geheugen</string>
+  <string name="subbt_downloading">Bezig met downloaden…</string>
+  <string name="subbt_fail">Mislukt</string>
+  <string name="subbt_pause">Gepauzeerd</string>
+  <string name="subbt_wait">Wachten…</string>
+  <string name="task_detail">Taken</string>
+  <string name="task_detail_notfound_confirm">Ok</string>
   <string name="third_web_cancel">Annuleren</string>
   <string name="third_web_confirm">Ok</string>
   <string name="third_web_default">Deze locatie onthouden</string>
@@ -198,6 +221,8 @@ op al je apparaten met Xunlei</string>
   <string name="title_tips">Attentie</string>
   <string name="title_unbind_xunlei">Xunlei Account verwijderen</string>
   <string name="toast_xunlei_engine_open">Xunlei download accelerator is ingeschakeld</string>
+  <string name="torrent_file_error">Kon dit torrent bestand niet ontleden</string>
+  <string name="torrent_no_subfile">Geen subbestanden in deze torrent</string>
   <string name="turn_off_xunlei_message">Je kan langzamere download snelheden ervaren.</string>
   <string name="turn_off_xunlei_tips">Xunlei download accelerator is uitgeschakeld</string>
   <string name="turn_off_xunlei_title">Xunlei uitschakelen</string>
@@ -219,6 +244,7 @@ op al je apparaten met Xunlei</string>
   <string name="xunlei_gaosu">Xunlei download accelerator</string>
   <string name="xunlei_member_annual_fee">1 jaar</string>
   <string name="xunlei_member_one_month">1 maand</string>
+  <string name="xunlei_open_info">Xunlei zoekmachine gebruiken om dit type link te openen (verplicht)?</string>
   <string name="xunlei_speed_service">Xunlei download accelerator</string>
   <string name="xunlei_switch">Xunlei download engine</string>
 </resources>

@@ -37,7 +37,6 @@
   <string name="backup_items_sysdata_tailer">"  systeem gegevens bestanden"</string>
   <string name="backup_new">Nieuw:</string>
   <string name="backup_progress">Back-uppen…</string>
-  <string name="backup_recently">"  (meest recente back-up) "</string>
   <string name="backup_report">Back-up details weergeven</string>
   <string name="backup_update">Update</string>
   <string name="batch_delete_backup_confirm">Geselecteerde back-ups verwijderen?</string>
@@ -93,7 +92,10 @@
   <string name="enable_encrypt_xiaomi_account">Deze back-up is gemaakt door %1$s. verwijder het huidige account en log in op %2$s om de gegevens te herstellen.</string>
   <string name="err_authentication_failed">Authenticatie mislukt</string>
   <string name="err_bakfile_broken">Kan deze back-up niet gebruiken</string>
+  <string name="err_filesystem_mount">Kan geen toegang krijgen tot router opslag</string>
   <string name="err_low_storage">Niet genoeg ruimte</string>
+  <string name="err_router_disconnected">Controleer de router verbinding en probeer opnieuw</string>
+  <string name="err_router_files_delete">Kon backup bestanden op de router niet verwijderen</string>
   <string name="err_unknown">Onbekende fout</string>
   <string name="err_version_too_old">Back-up is te oud.</string>
   <string name="err_version_unsupported">Back-up versie is niet ondersteunt.</string>
@@ -186,6 +188,7 @@
   <string name="software_backup_info">Backup apps en gegevens</string>
   <string name="start_backup">Backup starten</string>
   <string name="start_restore">Herstellen</string>
+  <string name="state_mounting">Toegang krijgen tot router opslag…</string>
   <string name="state_waiting">Een momentje…</string>
   <string name="succeed">Voltooid</string>
   <string name="summary_err_backup_encrypting">Aanmelden bij je Mi Account.</string>
