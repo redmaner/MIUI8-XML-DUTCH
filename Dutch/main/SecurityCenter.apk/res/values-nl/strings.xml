@@ -2,12 +2,12 @@
 <resources>
   <string name="SMS_and_MMS">SMS en MMS</string>
   <string name="Settings_title_anti_spam">Anti-spam instellingen</string>
-  <string name="Settings_title_anti_virus">Antivirus instellingen</string>
-  <string name="Settings_title_garbage_cleanup">Prullenbak opruim instellingen</string>
-  <string name="Settings_title_network_assistants">Network assistent instellingen</string>
+  <string name="Settings_title_anti_virus">Virusscanner instellingen</string>
+  <string name="Settings_title_garbage_cleanup">Prullenbak opruiminstellingen</string>
+  <string name="Settings_title_network_assistants">Netwerkassistent instellingen</string>
   <string name="Settings_title_power_center">Batterij instellingen</string>
   <string name="activity_title_antispam">Zwarte lijst</string>
-  <string name="activity_title_antivirus">Virus scan</string>
+  <string name="activity_title_antivirus">Virusscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
   <string name="activity_title_auto_start_manager">Autostart</string>
   <string name="activity_title_create_shortcut">Snelkoppelingen beheren</string>
@@ -23,7 +23,7 @@
   <string name="activity_title_power_manager">Batterij</string>
   <string name="activity_title_risk">"Risico's"</string>
   <string name="activity_title_risk_detail">Risico detail</string>
-  <string name="activity_title_root_manager">Root toegang</string>
+  <string name="activity_title_root_manager">Roottoegang</string>
   <string name="activity_title_settings">Instellingen</string>
   <string name="activity_title_system">Systeem</string>
   <string name="activity_title_trash">Cache</string>
@@ -35,12 +35,12 @@
   <string name="antivirus_choose_engine_disable_toast">Kan niet wisselen van definities tijdens het scannen</string>
   <string name="antivirus_choose_engine_settings">Instellingen virusdefinitie</string>
   <string name="antivirus_choose_engine_title">Definities</string>
-  <string name="antivirus_more_engine_dialog_summary">Meerdere definities sets voor scannen kan mogelijk meer tijd in beslag nemen.</string>
+  <string name="antivirus_more_engine_dialog_summary">Meerdere definitiesets voor scannen kan mogelijk meer tijd in beslag nemen.</string>
   <string name="antivirus_more_engine_dialog_title">Attentie</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Kies definities</string>
   <string name="antivirus_privacy_dialog_cloudscan">Upload appnamen en details</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Upload en scan appnamen en details met gebruik van online virus definities.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Upload en scan appnamen en details met gebruik van online virusdefinities.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">"Deze functie codeert en uploadt de ID van uw apparaat naar AVL en de servers Tencent (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">Privacybeleid weergeven</string>
@@ -432,9 +432,9 @@
   <string name="power_recovery_mode">Batterij verwisseld naar %1$s</string>
   <string name="power_save_choose_mode">Kies een profiel</string>
   <string name="power_save_choose_recovery_mode">Kies een profiel</string>
-  <string name="power_save_low_battery_auto_save_title">Batterij bespaarder</string>
+  <string name="power_save_low_battery_auto_save_title">Batterijbespaarder</string>
   <string name="power_save_low_battery_option_recovery_title">Bij opladen wissel naar</string>
-  <string name="power_save_low_battery_option_summary">Wanneer de batterij boven de lage drempel is, zal het apparaat terug wisselen naar het laatste gebruikte profiel</string>
+  <string name="power_save_low_battery_option_summary">Wanneer de batterij boven de lage drempel is, zal het apparaat terugwisselen naar het laatst gebruikte profiel</string>
   <string name="power_save_low_battery_option_title">Batterij laag, wissel naar</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
   <string name="power_save_low_battery_percentage_forty">40%</string>
@@ -442,7 +442,7 @@
   <string name="power_save_low_battery_percentage_thirty">30%</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Verwissel van batterijprofiel wanneer het resterende vermogen lager dan %1$d%% is</string>
-  <string name="power_save_low_battery_title">Batterij bespaarder</string>
+  <string name="power_save_low_battery_title">Batterijbespaarder</string>
   <string name="power_save_on_time_auto_save_title">Verwissel schema profiel</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Einde</string>
