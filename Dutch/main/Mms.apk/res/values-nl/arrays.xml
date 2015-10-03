@@ -47,11 +47,11 @@
         <item>Poker face</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>1 maal</item>
-        <item>2 maal</item>
-        <item>3 maal</item>
-        <item>5 maal</item>
-        <item>10 maal</item>
+        <item>1 keer</item>
+        <item>2 keer</item>
+        <item>3 keer</item>
+        <item>5 keer</item>
+        <item>10 keer</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Naam</item>
@@ -67,8 +67,8 @@
         <item>Notitie</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Toon ontvangst tijd</item>
-        <item>Toon verzendtijd (Gebruikt server tijd)</item>
+        <item>Toon ontvangsttijd</item>
+        <item>Toon verzendtijd (gebruikt servertijd)</item>
     </string-array>
 	<string-array name="entries_date_type_rightvalue">
         <item>Ontvangen</item>
@@ -76,17 +76,17 @@
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via bericht</item>
-        <item>Via Cloud bericht</item>
+        <item>Via cloudbericht</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>Via bericht</item>
-        <item>Via Cloud bericht</item>
+        <item>Via cloudbericht</item>
     </string-array>
 	    <string-array name="entries_sms_validity_period">
         <item>Niet ingesteld</item>
         <item>1 uur</item>
-        <item>6 uren</item>
-        <item>12 uren</item>
+        <item>6 uur</item>
+        <item>12 uur</item>
         <item>1 dag</item>
         <item>Maximum</item>
     </string-array>
@@ -109,7 +109,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Altijd</item>
-        <item>Alleen bij stil</item>
+        <item>Alleen indien stil</item>
         <item>Nooit</item>
     </string-array>
 </resources>
