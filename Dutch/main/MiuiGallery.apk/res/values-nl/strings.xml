@@ -82,6 +82,8 @@
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_new_photo_page_title">"%1$s's album"</string>
+  <string name="baby_album_new_photo_remind">Er zijn nieuwe foto\'s in de baby album.</string>
+  <string name="baby_album_no_share_user_tip">Momenteel geen volgers</string>
   <string name="baby_album_picker_default_title">"Selecteer %1$s's gezicht"</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -114,6 +116,7 @@
   <string name="by_email">E-mail</string>
   <string name="by_others">Overige</string>
   <string name="by_sms">SMS bericht</string>
+  <string name="byteShort">B</string>
   <string name="camera_black_white">Zwart &amp;Wit</string>
   <string name="camera_connected">Camera aangesloten.</string>
   <string name="camera_disconnected">Camera losgekoppeld.</string>
@@ -149,6 +152,7 @@
   <string name="cloud_be_shared_guide_title">Dit album komt van een vriend</string>
   <string name="cloud_camera_display_name">"Camera foto's"</string>
   <string name="cloud_folder_chooser_move">Verwijder afbeeldingen van originele album</string>
+  <string name="cloud_full_tip_str">Niet genoeg ruimte op de Cloud</string>
   <string name="cloud_gallery_recyclebin_full">Uw prullenbak is vol. Leeg de prullenbak op www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Onvoldoende ruimte in uw cloud</string>
   <string name="cloud_gallery_space_full_buy_more">"Kan nieuwe foto's niet synchroniseren met uw Mi Cloud. Om meer foto's te synchroniseren, koop extra opslagruimte."</string>
@@ -178,6 +182,10 @@
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Dit album samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Deze albums samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Niet deze persoon</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Zeker dat dit &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;is? Dit gezicht zal na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Zeker dat dit &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet is? Dit gezicht zal na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;zijn? Deze gezichten zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet zijn? Deze gezichten zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
   <string name="contact_photo">Stel foto in voor contactpersoon</string>
   <string name="context_menu_add_contact">Toevoegen aan contactpersonen</string>
   <string name="context_menu_copy">Kopiëren</string>
@@ -241,6 +249,7 @@
   <string name="duration">Duur</string>
   <string name="early_bird">Vroege vogel</string>
   <string name="edit">Bewerken</string>
+  <string name="edit_baby_info">Baby informatie weergeven</string>
   <string name="edited_photo_bucket_name">Bijgewerkt</string>
   <string name="effect">Filters</string>
   <string name="email_picker_title">Voeg gedeelde e-mail toe</string>
@@ -252,6 +261,7 @@
   <string name="error_cloud_not_active">Cloud album niet in gebruik</string>
   <string name="error_forbidden">Er zijn problemen met uw account: Sync. uitgeschakeld.</string>
   <string name="error_invalid_link">Foutieve link</string>
+  <string name="error_link_has_expired">Link is vervallen</string>
   <string name="error_not_acceptable">Server fout: Sync. uitgeschakeld.</string>
   <string name="error_repeat_apply">Dit album is al gedeeld.</string>
   <string name="error_share_not_support">Deze functie wordt nog niet ondersteund</string>
@@ -294,6 +304,7 @@
   <string name="fail_to_pick_email">E-mail ongeldig</string>
   <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerkverbinding.</string>
   <string name="family_member_invitation_text">Ander familielid</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_not_exist_message">Bestand bestaat niet</string>
   <string name="file_size">Bestandsgrootte</string>
   <string name="filllight">Verlichten</string>
@@ -324,6 +335,7 @@
   <string name="gallery_cloud_provider_name">"Mi Cloud foto's"</string>
   <string name="gallery_setting">Galerij</string>
   <string name="get_album_info_in_process">Opvragen van gedeelde albumdetails</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_setting">Instellingen</string>
   <string name="go_setting">Bekijk instellingen</string>
   <string name="grain">Filmkorrel</string>
@@ -364,7 +376,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importeren voltooid</string>
   <string name="import_fail">Importeren mislukt</string>
-  <string name="impunity_declaration">Bij gebruik galerij kunnen sommige functies een internetverbinding nodig hebben om normaal te werken</string>
+  <string name="impunity_declaration">Door deze dienst te gebruiken, gaat u akkoord met Xiaomi\'s %1$s en %2$s. Sommige functie hebben een internetverbinding nodig om normaal te werken.</string>
   <string name="impunity_declaration_ignore">Niet meer weergeven</string>
   <string name="impunity_declaration_positive_text">Ok</string>
   <string name="impunity_declaration_settings">Netwerkmededeling weergeven</string>
@@ -400,6 +412,7 @@
   <string name="kick_sharer">Verwijder gedeelde kijker</string>
   <string name="kick_sharer_failed">Verwijderen persoon mislukt</string>
   <string name="kick_sharer_successfully">Persoon verwijderd</string>
+  <string name="kilobyteShort">KB</string>
   <string name="last_chinese_new_year">Laatste Chinees Nieuw Jaar</string>
   <string name="last_new_year">Laatste Nieuw Jaar</string>
   <string name="last_valentine_day">Laatste Valentijntje</string>
@@ -421,6 +434,7 @@
   <string name="maker">Maker</string>
   <string name="manual">Handmatig</string>
   <string name="me">Ik</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_item_sort">Sorteren op</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_date_asc">Datum(Oplopend)</string>
@@ -460,9 +474,9 @@
   <string name="multiface_crop_help">Raak een gezicht aan om te beginnen.</string>
   <string name="must_pick_file">Kies een afbeelding</string>
   <string name="name_wrong">Dit is %s niet</string>
-  <string name="need_to_turn_on_network">Verbind met internet</string>
-  <string name="need_to_turn_on_sync">"Sync. inschakelen met Mi Cloud "</string>
-  <string name="need_to_turn_on_wlan">Verbinden met Wi-Fi</string>
+  <string name="need_to_turn_on_network">U hebt geen internetverbinding</string>
+  <string name="need_to_turn_on_sync">Eerst sync. inschakelen met Mi Cloud</string>
+  <string name="need_to_turn_on_wlan">Eerst met Wi-Fi verbinden</string>
   <string name="negative">Negatief</string>
   <string name="netease_newsreader_netease_down_pic">Netease nieuwslezer</string>
   <string name="network_connected_rescan">Kan niet verbinden met netwerk</string>
@@ -480,12 +494,13 @@
   <string name="no_such_item">Kan item niet vinden.</string>
   <string name="no_thumbnail">Geen miniatuur</string>
   <string name="none_picture">Geen afbeeldingen</string>
+  <string name="not_ask_any_more">"Niet meer vragen bij de volgende keer klikken op \"%s\""</string>
   <string name="not_auto_create_recent_album">Aanmaken favorieten ongedaan maken</string>
   <string name="not_is">Nee</string>
   <string name="not_now">Nu niet</string>
   <string name="not_remind_any_more">Niet meer weergeven</string>
   <string name="not_show_hidden_albums">Verborgen albums niet tonen</string>
-  <string name="number_of_uploading_finish">Alle bestanden zijn geüpload naar Mi Cloud</string>
+  <string name="number_of_uploading_finish">Gesync. met Mi Cloud</string>
   <string name="old">Ouderwets</string>
   <string name="only_show_camera_in_first_page">Laat alleen de camerarol zien</string>
   <string name="only_show_camera_in_first_page_summary">"Laat alleen de foto's van je Mi Cloud camerarol zien"</string>
@@ -527,6 +542,7 @@
   <string name="path">Pad</string>
   <string name="people">Mensen</string>
   <string name="pet_album_display_name">"Foto's van huisdieren"</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Telefoonnr. toevoegen</string>
   <string name="photo_page_always_rotate">Auto rotatie afbeeldingen</string>
   <string name="photo_page_detail_show_in_the_map">Toon de locatie op de kaart</string>
@@ -635,9 +651,9 @@
   <string name="send_public_url">Verzend album URL</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Instellen als vergrendelscherm achtergrond</string>
-  <string name="set_baby_icon_picker_default_title">Thumbnail foto instellen</string>
+  <string name="set_baby_icon_picker_default_title">Baby icoon instellen</string>
   <string name="set_bg_file_exist_message">Conflict tussen fotonamen</string>
-  <string name="set_bg_picker_default_title">Omslagfoto instellen</string>
+  <string name="set_bg_picker_default_title">Top voorbeeld instellen</string>
   <string name="set_bg_unknow_reasons">Onbekende fout</string>
   <string name="set_hidden_album">Verbergen</string>
   <string name="set_label_all_albums">Alle albums</string>
@@ -701,7 +717,7 @@
   <string name="sync_album_set_error">Het downloaden van de lijst van de albums is mislukt. Probeert u het later opnieuw.</string>
   <string name="sync_album_summary">"Sync. foto's naar uw cloud"</string>
   <string name="sync_battery_low">Batterij laag</string>
-  <string name="sync_cloud_space_full">Cloud opslag vol</string>
+  <string name="sync_cloud_space_full">Niet genoeg ruimte op de Cloud</string>
   <string name="sync_history_power_on">Afbeeldinghistorie alleen sync. tijdens het opladen.</string>
   <string name="sync_in_progress_message">Albums aan het downloaden…</string>
   <string name="sync_only_in_wifi">Sync. alleen via Wi-Fi</string>
@@ -718,7 +734,8 @@
   <string name="tencent_mobile_qq_img_save">QQ 2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
-  <string name="there_is_no_image">Er is geen afbeelding.</string>
+  <string name="terabyteShort">TB</string>
+  <string name="there_is_no_image">Geen afbeeldingen in dit bestand.</string>
   <string name="tieba">Tie Ba</string>
   <string name="times">Opnametijden</string>
   <string name="tint">Tint</string>
@@ -740,11 +757,14 @@
   <string name="unpublishing">Annuleren…</string>
   <string name="untagged">Geen tags</string>
   <string name="upgrade_micloud_space">Verkrijg meer ruimte</string>
+  <string name="user_agreement">" Algemene Voorwaarden"</string>
   <string name="user_alias_self">Zelf</string>
+  <string name="user_policy">Privacybeleid</string>
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>
   <string name="videos">" Video's"</string>
   <string name="view_baby_album">Baby album weergeven</string>
+  <string name="view_baby_info">Baby informatie bewerken</string>
   <string name="view_face_album">Album weergeven</string>
   <string name="view_sharers">Bekijk delers</string>
   <string name="vignette">Vervloeien</string>
