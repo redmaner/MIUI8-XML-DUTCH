@@ -30,7 +30,7 @@
 	"impunity_declaration_summary": "Geef de Algemene Voorwaarden popup weer voor Baidu Online Music Service elke keer als de Muziek app open",
 	"impunity_declaration_positive_text": "Akkoord",
 	"impunity_declaration_negative_text": "Afsluiten",
-	"take_effect_afater_restart": "Je moet de app herstarten voor deze instelling van kracht te laten gaan .",
+	"take_effect_afater_restart": "Je moet de app herstarten om deze instelling van kracht te laten gaan .",
 	"equalizer": "Equalizer",
 	"eq_flat": "Flat",
 	"eq_rock": "Rock",
