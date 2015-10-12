@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Verwijder geselecteerde opname?</string>
-  <string name="alert_message_delete_record_title">Opname verwijderen</string>
+  <string name="alert_message_delete_record_title">Opname verwijderen?</string>
   <string name="app_name">Geluidsrecorder</string>
   <string name="back">Terug</string>
   <string name="button_queue_for_wifi">In wachtrij</string>
@@ -27,7 +27,6 @@
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
   <string name="error_sdcard_unmounted">SD kaart losgekoppeld, steek de SD-kaart in</string>
   <string name="fm_record">Radio opname(%d)</string>
-  <string name="loading_recording">Laden</string>
   <string name="low_battery_error">Batterij is nog maar 5% opgeladen, om te verzekeren dat de opname niet verloren gaat, is de opname gestopt en opgeslagen.</string>
   <string name="message_file_size_error">Opname heeft de maximale ondersteunde opnametijd bereikt voor %s</string>
   <string name="no_downloading_file">Geen downloadbestand</string>
@@ -44,21 +43,15 @@
   <string name="preference_enable_earpiece_title">Gebruik ontvanger om audio af te spelen</string>
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
   <string name="preference_led_indicator_prompt">Toon LED en statusbalkindicators bij opnemen als scherm vergrendeld is</string>
-  <string name="preference_record_scenes_dialog_title">Selecteer een opnamescene</string>
-  <string name="preference_record_type_dialog_title">Selecteer een opnametype</string>
-  <string name="preference_record_type_title">Opnametype</string>
-  <string name="preference_scenes">Instellingen voor scenes</string>
+  <string name="preference_record_scenes_dialog_title">Selecteer een opnametype</string>
+  <string name="preference_scenes">Opnametype</string>
   <string name="preference_silent_mode">Stille modus bij opnemen</string>
   <string name="preference_tip_rename">Opnames handmatig benoemen</string>
   <string name="record_back_pressed_hint">Druk op vorige om opname te stoppen</string>
   <string name="record_download">Downloaden van Mi Cloud</string>
   <string name="record_download_activity">Downloadlijst</string>
-  <string name="record_download_complete">Voltooid</string>
-  <string name="record_download_failed">Mislukt</string>
   <string name="record_download_msg">Opnames kunnen alleen worden afgespeeld als ze volledig zijn gedownload.</string>
   <string name="record_download_msg_reload">Deze opname bestaat niet</string>
-  <string name="record_download_paused">Gepauzeerd</string>
-  <string name="record_download_pending">In wachtrij</string>
   <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">Downloaden…</string>
   <string name="record_downloading_notification_complete">Download voltooid</string>
