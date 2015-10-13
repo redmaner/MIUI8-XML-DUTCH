@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Gisteren</item>
-        <item>Vandaag</item>
-        <item>Deze maand</item>
+        <item>"Gisteren "</item>
+        <item>"Vandaag "</item>
+        <item>"Deze maand "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>Gisteren: </item>
-        <item>Vandaag: </item>
-        <item>Deze maand: </item>
+        <item>"Gisteren: "</item>
+        <item>"Vandaag: "</item>
+        <item>"Deze maand: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Gisteren (data)</item>
@@ -33,18 +33,18 @@
         <item>9 sec</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>Mobiele verbruik</item>
-        <item>Wi-Fi verbruik</item>
-        <item>Bespaarde data</item>
+        <item>"Mobiele verbruik "</item>
+        <item>"Wi-Fi verbruik "</item>
+        <item>"Bespaarde data "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item> mobiele verbruik </item>
-        <item> wi-fi verbruik </item>
+        <item>"mobiele verbruik "</item>
+        <item>"wi-fi verbruik "</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>Mobiele dataverbruik</item>
-        <item>Wi-Fi verbruik</item>
-        <item>Bespaarde data</item>
+        <item>"Mobiele dataverbruik "</item>
+        <item>"Wi-Fi verbruik "</item>
+        <item>"Bespaarde data "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Automatisch verkrijgen</item>
