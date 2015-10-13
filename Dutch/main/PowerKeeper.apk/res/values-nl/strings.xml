@@ -15,8 +15,14 @@
   <string name="alter_message_open_hide_title">"Batterij gebruik van apps' beheren?"</string>
   <string name="alter_message_switch_mode">Overschakel modus?</string>
   <string name="alter_message_switch_mode_message">Wanneer je wilt overschakelen van modus, zullen je vorige instellingen van de app niet langer geldig zijn.</string>
+  <string name="app_frozen_app_list_summary">App instellingen</string>
+  <string name="app_list_title">Kies apps om te beperken</string>
   <string name="app_name">Batterij besparen</string>
   <string name="background">App loopt in de achtergrond</string>
+  <string name="config_custom_description">Wanneer u minder nodig hebt dan verwacht, gebruik een aangepaste configuratie</string>
+  <string name="config_custom_title">Aangepast</string>
+  <string name="config_suggest_description">Voor apps, gebruik verwschillende batterij besparings configuraties</string>
+  <string name="config_suggest_title">MIUI Suggest</string>
   <string name="disabled">Uit</string>
   <string name="empty_title_apps_container_list">Geen apps</string>
   <string name="error_filename_too_long">De bestandsnaam die je invoerde is te lang.</string>
@@ -29,6 +35,13 @@
   <string name="high">Prestatie</string>
   <string name="hints_loading_text">Een momentje…</string>
   <string name="invalid_size_value">Kon pakket grootte niet verkrijgen</string>
+  <string name="keep_connect_description">Apps in achtergrond kunnen netwerk gebruiken</string>
+  <string name="keep_connect_title">Verbinding behouden</string>
+  <string name="location_disable_description">App in de achtergrond neemt een korte locatie bepaling wanneer die beschikbaar is en dan locatie bepaling verbieden</string>
+  <string name="location_disable_title">Verboden</string>
+  <string name="location_enable_description">Apps in de achtergrond kunnen locatiedienst gebruiken</string>
+  <string name="location_enable_title">Toestaan</string>
+  <string name="location_mode_title">Achtergrond locatie</string>
   <string name="low">Batterij besparen</string>
   <string name="low_power_auto_title">Beperk apps wanneer de batterij laag is</string>
   <string name="media">Media modus</string>
@@ -89,7 +102,6 @@
   <string name="power_event_user_define_title">Nieuwe evenementen</string>
   <string name="power_event_view_event_title">Triggers</string>
   <string name="power_hide_mode_app_list_summary">App instellingen</string>
-  <string name="power_hide_mode_app_list_title">Apps kiezen om te beperken</string>
   <string name="power_hide_mode_app_list_total">%d apps</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps , Wi-Fi,  mobiele dataverbindingen en GPS</string>
   <string name="power_hide_mode_title">"Batterij gebruik van apps' beheren"</string>
@@ -104,6 +116,8 @@
   <string name="power_mode_view_event_title">Evenementen</string>
   <string name="power_mode_view_user_define_title">Nieuw evenement</string>
   <string name="power_optimize_activity_profile_file_error">Batterij besparingsfout</string>
+  <string name="quick_disconnect_description">App in de achtergrond neemt een korte locatie bepaling wanneer die beschikbaar is en dan locatie bepaling verbieden</string>
+  <string name="quick_disconnect_title">Onmiddelijk verbinding verbreken</string>
   <string name="reading">Leesmodus</string>
   <string name="screen_off">Scherm uit</string>
   <string name="screen_off_10_min">Scherm uit in 10 minuten</string>
