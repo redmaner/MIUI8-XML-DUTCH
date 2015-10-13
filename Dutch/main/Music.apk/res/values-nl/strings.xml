@@ -2,7 +2,7 @@
 <resources>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
-  <string name="action_item_add">Toevoegen aan afspeellijst</string>
+  <string name="action_item_add">Toevoegen</string>
   <string name="action_item_add_song">Toevoegen aan afspeellijst</string>
   <string name="action_item_add_to_current_playlist">Huidige afspeellijst</string>
   <string name="action_item_add_to_favorite_playlist">Favoriete afspeellijst</string>
@@ -35,11 +35,14 @@
   <string name="audio_picker_title">Kies een nummer</string>
   <string name="auto_download_in_wifi">Download favoriete nummers met Wi-Fi</string>
   <string name="auto_payment">Automatisch vernieuwen</string>
+  <string name="auto_payment_date">Volgende betaling: %s</string>
   <string name="avail_services">Beschikbaar</string>
   <string name="available_playlist_name_format">Nieuwe afspeellijst %d</string>
   <string name="avoid_to_use_traffic_summary">Gebruik nooit mobiele netwerken om muziek te streamen</string>
   <string name="avoid_to_use_traffic_title">Gebruik alleen Wi-Fi om te streamen</string>
   <string name="baidu_music">Baidu muziek</string>
+  <string name="being_disable_auto_payment">Uitschakelen…</string>
+  <string name="being_enable_auto_payment">Inschakelen…</string>
   <string name="bill_list_fragment_title">Hitlijsten</string>
   <string name="bluetooth_device">Bluetooth audio apparaat</string>
   <string name="buffering">In buffer opslaan…</string>
@@ -58,6 +61,7 @@
   <string name="close_music_time">"Resterende tijd: "</string>
   <string name="cloud_enable">Sync. muziek met Mi Cloud</string>
   <string name="cloud_settings">Sync. instellingen</string>
+  <string name="confirm_to_renew">Vernieuwen</string>
   <string name="cp_info_first">Streaming dienst is aangeboden door Ultimate Inc.</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_playlist">Maak een afspeellijst</string>
@@ -84,6 +88,10 @@
   <string name="dialog_title_name_playlist">Naam afspeellijst</string>
   <string name="dialog_title_remove_tracks">Verwijderen</string>
   <string name="dialog_title_track_picker">Kies nummer(s)</string>
+  <string name="disable_auto_payment_fail">Kon niet uitschakelen</string>
+  <string name="disable_auto_payment_fail_message">Kon automatische vernieuwing en betaling niet uitschakelen.</string>
+  <string name="disable_auto_payment_success">Uitgeschakeld</string>
+  <string name="disable_auto_payment_success_message">Automatische vernieuwing en betaling uitschakelen. Uw abonnement zal niet worden verlengd nadat uw volgende betaling verschuldigd is.</string>
   <string name="disallow_add_to_personal_radio">Persoonlijke radio is alleen lezen</string>
   <string name="done">Gereed</string>
   <string name="download">Download</string>
@@ -112,6 +120,10 @@
   <string name="empty_page_no_artist">Geen artiesten.</string>
   <string name="empty_page_no_document">Geen audiobestanden</string>
   <string name="empty_page_no_track">Geen nummers.</string>
+  <string name="enable_auto_payment_fail">kon niet inschakelen</string>
+  <string name="enable_auto_payment_fail_message">Kon automatische vernieuwing en betaling niet inschakelen</string>
+  <string name="enable_auto_payment_success">Automatisch vernieuwen</string>
+  <string name="enable_auto_payment_success_message">Automatische vernieuwing en betaling ingeschakeld. Volgende betaling is op %s.</string>
   <string name="enabled">Aan</string>
   <string name="english_female">Zangeressen (US/Europa)</string>
   <string name="english_group">Groepen (US/Europa)</string>
@@ -179,7 +191,7 @@
   <string name="handle_later">Niet nu</string>
   <string name="headset_settings">Koptelefoon &amp; audio effecten</string>
   <string name="high_quality">Hoger</string>
-  <string name="higher_quality_music">Hoge kwaliteit muziek</string>
+  <string name="higher_quality_music">Ultra hoge kwaliteitsmuziek</string>
   <string name="higher_quality_music_summary">Stream en download muziek op hogere bitrates</string>
   <string name="home_tab_local">Mijn muziek</string>
   <string name="home_tab_online">Ontdek</string>
@@ -309,10 +321,9 @@
   <string name="order_process_fail">Kon je account niet verifiëren. Probeer het later opnieuw.</string>
   <string name="page_local_setting">Instellingen</string>
   <string name="pay">Betaal:</string>
-  <string name="pay_now">Betaal nu</string>
+  <string name="pay_now">Huidige dienst</string>
   <string name="payment_fail">Betaling mislukt</string>
   <string name="payment_success">Betaling geslaagd</string>
-  <string name="period_format">%1$s-%2$s</string>
   <string name="play_all_song">Alles afspelen</string>
   <string name="playback_failed_no_title_by_bad_file">Nummer afspelen mislukt. Bestandsformaat niet ondersteund of het bestand bestaat niet.</string>
   <string name="playlist_deleted_message">Afspeellijst verwijderd.</string>
@@ -335,6 +346,8 @@
   <string name="renew">Vernieuwen:</string>
   <string name="renew_1">Vernieuwen</string>
   <string name="renew_period">"Vervalt:"</string>
+  <string name="repeat_all_notif">Alle nummers herhalen.</string>
+  <string name="repeat_current_notif">Huidig nummer herhalen.</string>
   <string name="retry">Opnieuw</string>
   <string name="ringtone_not_support">Het formaat wordt niet ondersteund.</string>
   <string name="search_album">Albums zoeken</string>
@@ -374,6 +387,8 @@
   <string name="share_end_note">Van Mi Muziek</string>
   <string name="share_text_list">"Afspeelijst uit Mi Music:"</string>
   <string name="share_text_song">"Nummer uit Mi Music:"</string>
+  <string name="shuffle_off_notif">Shuffle uit.</string>
+  <string name="shuffle_on_notif">Shuffle aan.</string>
   <string name="similar_songs">Vergelijkbare nummers</string>
   <string name="sleep_mode">Slaaptimer</string>
   <string name="sleep_mode_canceled">Slaapmodus geannuleerd</string>
@@ -416,6 +431,7 @@
   <string name="title_online_suggest">Vind je misschien ook leuk</string>
   <string name="title_search_history">Zoekgeschiedenis</string>
   <string name="title_search_hot">Populair</string>
+  <string name="to_mi_pay">Mi Credits</string>
   <string name="too_freq">Te veel verzoeken van dit apparaat.</string>
   <string name="tos">Algemene Voorwaarden</string>
   <string name="track_list_control_download">Download</string>
@@ -441,9 +457,15 @@
   <string name="upgrade_services">Upgrade diensten</string>
   <string name="upgrade_suggest">We zullen onze huidige streaming service stopzetten vanwege auteursrechtelijke kwesties. Update naar de nieuwste versie van de Muziek app  om naar hoge kwaliteitsmuziek te luisteren.</string>
   <string name="upgrade_waringing">Je zult alleen in staat zijn om opgeslagen muziek offline te beluisteren.</string>
-  <string name="valid_period">"Geldig: "</string>
-  <string name="vip_expiration_message">Nadat je lidmaatschap is vervallen, zal je alleen in staat zijn om muziek te streamen op 128Kbps. Vanwege wettelijke beperkingen, zijn sommige nummers niet beschikbaar om te downloaden.</string>
-  <string name="vip_expiration_title">Lidmaatschap vervalt binnenkort</string>
+  <string name="valid_period">Geldig: %s</string>
+  <string name="vip_auto_renew_message">Uw muziek abonnement zal vanavond automatisch vernieuwd worden. Maak u er van bewust dat u genoeg Mi Credits op uw account hebt om deze betaling te voltooien.</string>
+  <string name="vip_auto_renew_notification_message">Mi Credits toevoegen om uw muziek abonnement te vernieuwen.</string>
+  <string name="vip_auto_renew_notification_title">Abbonements betaling</string>
+  <string name="vip_auto_renew_title">Abbonements vernieuwing</string>
   <string name="vip_recommend_title">Krijg hogere kwaliteit muziek</string>
+  <string name="vip_renew_message">U zal niet meer genieten van hoge kwaliteits audio, maar u kan nog steeds nummers streamen in normale kwaliteit</string>
+  <string name="vip_renew_notification_message">U zal niet meer genieten van hoge kwaliteits audio nadat uw abonnement vervallen is</string>
+  <string name="vip_renew_notification_title">Abbonement vervalt morgen</string>
+  <string name="vip_renew_title">Abbonement vervallen</string>
   <string name="vip_required">Sorry, VIP is vereist</string>
 </resources>

@@ -45,9 +45,12 @@
   <string name="call_recording_notification_message_sd_unmounted">SD kaart is verwijderd.</string>
   <string name="call_recording_notification_title">Opnemen gesprek</string>
   <string name="call_recording_notification_title_error">Kon gesprek niet opnemen</string>
+  <string name="call_self">Kan eigen nummer niet bellen</string>
   <string name="call_title_redialing_with_times">%d keer opnieuw gebeld</string>
   <string name="caller_manage_header">Groepsgesprek %s</string>
   <string name="calling_via_template">Bellen via %s</string>
+  <string name="cancel">Annuleren</string>
+  <string name="cancel_call">Ophangen</string>
   <string name="card_title_call_ended">Gesprek beëindigd</string>
   <string name="card_title_conf_call">Groepsgesprek</string>
   <string name="card_title_dialing">Bellen</string>
@@ -81,6 +84,7 @@
   <string name="description_image_button_two">twee</string>
   <string name="description_image_button_zero">nul</string>
   <string name="description_target_answer">Antwoorden</string>
+  <string name="dial_with_gsm_phone">Normaal gesprek</string>
   <string name="emergency_call_dialog_number_for_display">Noodnummer</string>
   <string name="fraud_call_answer">Antwoorden</string>
   <string name="fraud_call_decline">Afwijzen</string>
@@ -116,10 +120,16 @@
   <string name="modify_call_prompt_no">Nee</string>
   <string name="modify_call_prompt_yes">Ja</string>
   <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="network_error_message">Probeer om een normaal gesprek te maken. De provider zal hiervoor kosten aanrekenen.</string>
+  <string name="network_error_title">Netwerk fout</string>
+  <string name="no_balance_message">Onvoldoende middelen meer op je herlaad pakket. U kan proberen om een normaal gesprek te voeren.</string>
+  <string name="no_balance_title">Onvoldoende middelen</string>
   <string name="no_vm_number">Ontbrekend voicemailnummer</string>
   <string name="no_vm_number_msg">Geen voicemailnummer opgeslagen op de SIM kaart.</string>
   <string name="non_ivr_menu_collapse_menu">Menu inklappen</string>
   <string name="non_ivr_menu_view_menu">Bekijk menu</string>
+  <string name="not_support_message">Momenteel ondersteunt het herlaad pakket deze nummers niet. U kan proberen om een normaal gesprek te voeren.</string>
+  <string name="not_support_title">Nummer wordt niet ondersteunt</string>
   <string name="notification_action_accept">Aanvaarden</string>
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Stem</string>
@@ -156,6 +166,7 @@
   <string name="payphone">Betaal telefoon</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="private_num">Privé nummer</string>
+  <string name="purchase_now">Herladen</string>
   <string name="respond_via_sms_custom_message">Voeg eigen toe…</string>
   <string name="select_voice_call_sim">Kies SIM kaart</string>
   <string name="separate_from_conference">Apart gesprek</string>
