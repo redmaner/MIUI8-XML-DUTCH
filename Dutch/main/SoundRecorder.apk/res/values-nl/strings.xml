@@ -7,7 +7,13 @@
   <string name="button_queue_for_wifi">In wachtrij</string>
   <string name="button_start_now">Downloaden</string>
   <string name="call_record">Oproepopname(%d)</string>
-  <string name="cloud_record">Opnemen in cloud(%d)</string>
+  <string name="cloud_record">(%d) gesync.</string>
+  <string name="cloud_record_open">Sync. opnames</string>
+  <string name="cloud_record_tip">Sync. opnames met Mi Cloud.</string>
+  <string name="cloud_status_full_dialog_cancel">Nu niet</string>
+  <string name="cloud_status_full_dialog_msg">"Uw cloud opslag is vol, kan opnames niet sync.. Uw account upgraden om meer opslagruimte te verkrijgen."</string>
+  <string name="cloud_status_full_dialog_ok">Upgrade</string>
+  <string name="cloud_status_full_dialog_title">Mi Cloud opslag is vol</string>
   <string name="data_connection_body">Door te downloaden met je mobiele dataverbinding kunnen er kosten in aanrekening worden gebracht</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tip</string>
@@ -29,7 +35,6 @@
   <string name="fm_record">Radio opname(%d)</string>
   <string name="low_battery_error">Batterij is nog maar 5% opgeladen, om te verzekeren dat de opname niet verloren gaat, is de opname gestopt en opgeslagen.</string>
   <string name="message_file_size_error">Opname heeft de maximale ondersteunde opnametijd bereikt voor %s</string>
-  <string name="no_downloading_file">Geen downloadbestand</string>
   <string name="no_file">Geen opnames</string>
   <string name="notification_message_all_paused">Kan mobiele dataverbruik verhogen.</string>
   <string name="notification_playback">Opname afspelen…</string>
@@ -49,10 +54,9 @@
   <string name="preference_tip_rename">Opnames handmatig benoemen</string>
   <string name="record_back_pressed_hint">Druk op vorige om opname te stoppen</string>
   <string name="record_download">Downloaden van Mi Cloud</string>
-  <string name="record_download_activity">Downloadlijst</string>
+  <string name="record_download_complete">Gedownload</string>
   <string name="record_download_msg">Opnames kunnen alleen worden afgespeeld als ze volledig zijn gedownload.</string>
   <string name="record_download_msg_reload">Deze opname bestaat niet</string>
-  <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">Downloaden…</string>
   <string name="record_downloading_notification_complete">Download voltooid</string>
   <string name="record_downloading_notification_count">%d downloaden</string>
@@ -82,7 +86,6 @@
   <string name="sync_only_in_wifi_summary">Recorder zal uw mobiele dataverbinding gebruiken om opnames te downloaden en te uploaden als deze optie is uitgeschakeld</string>
   <string name="sync_records">Sync. met Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_file_is_downloading">Dit bestand wordt gedownload, een moment geduld</string>
   <string name="toast_max_record_time">%1$s maximale ondersteunde opname tijd %2$s</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
   <string name="wifi_recommended_body" formatted="false">Klaar om te downloaden via provider\'s netwerk： %s  Het downloaden van dit bestand kan leiden tot hogere data kosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tikt %s.</string>
