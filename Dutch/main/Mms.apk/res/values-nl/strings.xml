@@ -70,7 +70,7 @@
   <string name="confirm_delete_all_SIM_messages">Alle berichten van de SIM kaart verwijderen?</string>
   <string name="confirm_delete_all_conversations">Alle berichten verwijderen?</string>
   <string name="confirm_delete_conversation">Alle threads verwijderen?</string>
-  <string name="confirm_delete_group_message">Groeps berichten verwijderen?</string>
+  <string name="confirm_delete_group_message">Groepsberichten verwijderen?</string>
   <string name="confirm_delete_locked_message">Dit vergrendeld bericht verwijderen?</string>
   <string name="confirm_delete_message">Dit bericht verwijderen?</string>
   <string name="confirm_dialog_locked_title">Vergrendeld bericht verwijderen?</string>
@@ -284,13 +284,13 @@
   <string name="mx_auto_resend_mms_summary">MMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi(regelmatige dataverbruik kan kosten meebrengen).</string>
   <string name="mx_auto_resend_sms">Vezenden als SMS</string>
   <string name="mx_auto_resend_sms_summary">"SMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi(regelmatige dataverbruik kan kosten meebrengen)."</string>
-  <string name="mx_b2c_message_desc">Netwerk meldingen</string>
+  <string name="mx_b2c_message_desc">Netwerkmeldingen</string>
   <string name="mx_btn_enable">Activeren</string>
   <string name="mx_btn_enable_now">Uitschakelen</string>
-  <string name="mx_count_dspt">"Sinds de activatie, heeft MIUI %1$d SMS cloud bericht(en) verzonden voor u %2$d MMS"</string>
+  <string name="mx_count_dspt">"Sinds de activatie, heeft MIUI %1$d SMS cloudbericht(en) verzonden voor u %2$d MMS"</string>
   <string name="mx_current_status">Online</string>
-  <string name="mx_dspt">Mi Message kan je berichten sturen naar andere MIUI gebruiker zonder SMS kosten.</string>
-  <string name="mx_dspt_provision">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider  kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
+  <string name="mx_dspt">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder SMS kosten</string>
+  <string name="mx_dspt_provision">Met Mi Message kunt u berichten naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
   <string name="mx_dspt_provision_ex">Berichten versturen en bellen naar andere MIUI gebruikers zonder  kosten van uw provider. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid.</string>
   <string name="mx_dspt_provision_ex2">Privacybeleid</string>
   <string name="mx_enable">Mi Message</string>
@@ -303,7 +303,7 @@
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Heractiveren Mi Message</string>
   <string name="mx_recommend_msg">Druk hier om Mi Message in te schakelen.</string>
-  <string name="mx_type_guide">Mi Message kan je berichten sturen naar andere MIUI gebruiker zonder SMS kosten</string>
+  <string name="mx_type_guide">Met Mi Message kan je berichten sturen naar andere MIUI gebruikers zonder SMS kosten</string>
   <string name="need_download">Sync…</string>
   <string name="new_message">Nieuw bericht</string>
   <string name="new_message_arrived">Je hebt een nieuw bericht</string>
@@ -342,7 +342,7 @@
   <string name="pref_mms_settings_title">Multimediaberichten (MMS)</string>
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
-  <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversaties lijst</string>
+  <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
   <string name="pref_show_sms_template_in_summary">Automatisch OTP detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Automatisch kopiëren en in de verificatie codes invullen</string>
   <string name="pref_sms_theme_title">Thema instellingen</string>
@@ -364,7 +364,7 @@
   <string name="pref_summary_wake_up_screen">Scherm gaat aan bij inkomende berichten</string>
   <string name="pref_system_title">Systeem</string>
   <string name="pref_time_auto_group_disabled_summary">Is niet ondersteunt in huidige letter grootte</string>
-  <string name="pref_time_auto_group_summary">Groeps berichten die worden ontvangen binnen een minuut van elkaar in dezelfde thread</string>
+  <string name="pref_time_auto_group_summary">Groepsberichten die worden ontvangen binnen een minuut van elkaar in dezelfde thread</string>
   <string name="pref_time_auto_group_title">Groepeer op tijd</string>
   <string name="pref_title_allow_si_sl_push">WAP push toestaan</string>
   <string name="pref_title_card_format">Deel kaart indeling</string>
@@ -380,8 +380,8 @@
   <string name="pref_title_mms_retrieval_during_roaming">Ophalen tijdens roaming</string>
   <string name="pref_title_mms_validity_period">MMS vervaltijd</string>
   <string name="pref_title_notification_body_enabled">Toon berichten op het vergrendelscherm</string>
-  <string name="pref_title_ringtone_repeat">Aantal meldings geluiden</string>
-  <string name="pref_title_ringtone_repeat_summary">Aantal meldings geluiden bij SMS ontvangen bericht terwijl scherm is uitgeschakeld:</string>
+  <string name="pref_title_ringtone_repeat">Aantal meldingsgeluiden</string>
+  <string name="pref_title_ringtone_repeat_summary">"Aantal meldingsgeluiden bij ontvangen SMS bericht terwijl scherm is uitgeschakeld: "</string>
   <string name="pref_title_send_delivery_reports">Verstuur afleverberichten</string>
   <string name="pref_title_show_recent_contacts">Toon recente contacten</string>
   <string name="pref_title_sms_delete">Tekst berichten limiet</string>
@@ -544,10 +544,10 @@
   <string name="timed_message_expired_title_2">Wilt u deze nu verzenden?</string>
   <string name="timed_message_in_total">(%d in totaal)</string>
   <string name="timed_message_to">Aan</string>
-  <string name="title_collapse_sp_messages">Groepeer provider berichten</string>
+  <string name="title_collapse_sp_messages">Groepeer providerberichten</string>
   <string name="title_date_type">Tijdstempel</string>
   <string name="title_show_blocked_messages">Geef geblokeerde SMS weer</string>
-  <string name="title_show_sms_template">Controleer SMS voor verificatie codes</string>
+  <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
   <string name="title_show_sms_template_in">Controleer SMS op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
   <string name="to_address_label">"Aan: "</string>
