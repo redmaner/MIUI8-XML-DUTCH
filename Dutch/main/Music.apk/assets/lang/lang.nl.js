@@ -318,7 +318,7 @@
 	"no_local_source_find": "Kon\\&apos; nummer niet vinden",
 	"start_to_play": "Afspelen",
 	"can_not_find_resource": "Kan\\&apos; bron niet vinden",
-	"modify_song_info": "Bewerk nummer info",
+	"modify_song_info": "Nummerinfo bewerken",
 	"song_name": "Nummer",
 	"artist_name": "Artiest",
 	"album_name": "Album",
