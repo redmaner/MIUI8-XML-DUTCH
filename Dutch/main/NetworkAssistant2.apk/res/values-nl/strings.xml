@@ -87,10 +87,10 @@
   <string name="declaration_dialog_msg">Deze functie kan u helpen om uw verbruik te volgen, maar geeft geen garantie om extra kosten te voorkomen. Voor het beste resultaat stelt u een limiet in.</string>
   <string name="deleted_apps">Verwijderde Apps</string>
   <string name="detail_app_button">App info</string>
-  <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u overzee roamt, kunnen apps alleen die toegevoegd zijn aan uitzonderingen mobiele data gebruiken."</string>
-  <string name="dialog_app_roaming_title">"Overzeese roaming is niet ingeschakeld voor %1$s"</string>
+  <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u internationaal roamt, kunnen alleen apps die toegevoegd zijn aan uitzonderingen mobiele data gebruiken."</string>
+  <string name="dialog_app_roaming_title">"Internationale roaming is niet ingeschakeld voor %1$s"</string>
   <string name="dialog_roaming_apps_sorted_title">Sorteren op</string>
-  <string name="dialog_roaming_message">Deze app toelaten om mobiele data gebruiken bij het overzees roamen?</string>
+  <string name="dialog_roaming_message">Deze app toelaten om mobiele data te gebruiken bij internationaal roamen?</string>
   <string name="dialog_roaming_title">Internationale roaming</string>
   <string name="dialog_title_attention">Attentie</string>
   <string name="disable_air_mode">Vliegmodus eerst uitschakelen</string>
@@ -131,7 +131,7 @@
   <string name="input_traffic_pkg">Voer dataverbruik in</string>
   <string name="input_used_hint">Voer dataverbruik in</string>
   <string name="input_used_max_hint">Voer dataverbruik in(minder dan %s)</string>
-  <string name="international_roaming_setting">Overzees roaming</string>
+  <string name="international_roaming_setting">Internationale roaming</string>
   <string name="international_roaming_whitelist_count">%d apps kunnen mobiele data gebruiken bij roamen</string>
   <string name="ip_address_exception_summary">Kon IP adres niet verkrijgen. Als dit nog eens voorkomt , probeer dan een vast IP adres te gebruiken.</string>
   <string name="left_precent">60%</string>
@@ -192,7 +192,7 @@
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Framework details</string>
-  <string name="mian_page_primary_txt">Overzees roamen</string>
+  <string name="mian_page_primary_txt">Internationaal roamen</string>
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
   <string name="miuishare_wechat_timeline_title">Wechat Momenten</string>
@@ -295,7 +295,7 @@
   <string name="pref_add_traffic_pkg">Extra gekochte data</string>
   <string name="pref_adjust_data_usage">Provider bericht template</string>
   <string name="pref_adjust_traffic_data">Dataverbruik instellen</string>
-  <string name="pref_allow_connect_network_title">Overzeese data roaming</string>
+  <string name="pref_allow_connect_network_title">Internationale roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Apps uit uitzonderingen toestaan om mobiele data te gebruiken</string>
   <string name="pref_app_traffic_managent">Datavebruik beperken per app</string>
   <string name="pref_auto_adjust_settings">Autosync. dataverbruik stats instellingen</string>
@@ -389,9 +389,9 @@
   <string name="roaming_limit_notification_title">Dagelijks roaming datalimiet bereikt.</string>
   <string name="roaming_limit_warning_notification_body">Tik om dataverbruik weer te geven.</string>
   <string name="roaming_not_start_body">Aanraken om dataroaming instellingen te bekijken.</string>
-  <string name="roaming_not_start_title">Overzeese roaming</string>
+  <string name="roaming_not_start_title">Internationale roaming</string>
   <string name="roaming_start_body">Aanraken om dataroaming van uitzonderingen te bekijken.</string>
-  <string name="roaming_start_title">Overzeese roaming</string>
+  <string name="roaming_start_title">Internationale roaming</string>
   <string name="root">Roottoegang</string>
   <string name="saving_conflict_dialog_cancel">Annuleren</string>
   <string name="saving_conflict_dialog_ok">Ok</string>
