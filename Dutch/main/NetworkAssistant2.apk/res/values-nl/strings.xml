@@ -14,7 +14,7 @@
   <string name="apn_exception_summary">"Test  configuratie's van providers Netwerk toegangspunt"</string>
   <string name="apn_exception_title">Controleer APN configuraties</string>
   <string name="app_detail">Details</string>
-  <string name="app_mobile">Data</string>
+  <string name="app_mobile">Mobiele</string>
   <string name="app_name">Dataverbruik</string>
   <string name="app_version">Versie</string>
   <string name="app_wifi">Wi-Fi</string>
@@ -106,9 +106,9 @@
   <string name="firewall_fragment_tab_title_nonsys">Gedownload</string>
   <string name="firewall_fragment_tab_title_sys">Apps</string>
   <string name="firewall_network_restrict_notify_message">Tik om instellingen te veranderen.</string>
-  <string name="firewall_network_restrict_notify_mobile">Mobiele data</string>
+  <string name="firewall_network_restrict_notify_mobile">mobiele data</string>
   <string name="firewall_network_restrict_notify_title">"%1$s kan %2$s niet gebruiken."</string>
-  <string name="firewall_rule_group_title_mobile">Data</string>
+  <string name="firewall_rule_group_title_mobile">Mobiele</string>
   <string name="firewall_rule_group_title_roaming">Internationale roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s is beperkt om %2$s networken te gebruiken</string>
@@ -193,10 +193,6 @@
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
-  <string name="miuishare_title_more">Meer</string>
-  <string name="miuishare_title_share">Delen</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Momenten</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Tik om dataverbruik te beperken</string>
   <string name="network_assistant_upgraded_title">Geupdate</string>
   <string name="network_blocked_connected_open_wifi">Verbinden met openbaar netwerk</string>
@@ -212,7 +208,6 @@
  2. Als je balans bijgevuld hebt, herstart uw apparaat en probeer het opnieuw.
  
  3. Het signaal van uw providernetwerk kan te zwak zijn op uw huidige locatie."</string>
-  <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="network_operator_exception_summary">Kon de SIM kaart niet activeren. Zorg ervoor dat de SIM kaart juist geplaatst is en dat uw mobiele plan is geactiveerd door uw provider.</string>
   <string name="network_permission_exception_tips">Kunnen mobiele data niet gebruiken om verbinding te maken met netwerk</string>
   <string name="network_roaming_exception_tips">Kan mobiele data niet gebruiken tijdens roamen om verbinding te maken met netwerk.</string>
@@ -248,7 +243,6 @@
   <string name="network_speed_for_apps_total">Verbindings snelheid</string>
   <string name="networkchanged_exception_summary">Netwerk verbinding is veranderd. Opnieuw testen.</string>
   <string name="networkchanged_exception_title">Verbinding is veranderd</string>
-  <string name="no_network_btn">Probeer opnieuw</string>
   <string name="none_mi_service_app_detail">Leeg</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stelen.</string>
@@ -498,16 +492,16 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_button_start">Inschakelen</string>
   <string name="traffic_saving_button_stop">Uitschakelen</string>
   <string name="traffic_saving_can_optimized">Optimaliseer</string>
+  <string name="traffic_saving_detail">Details</string>
   <string name="traffic_saving_history_title">Geschiedenis</string>
   <string name="traffic_saving_history_total_money">Totaal bespaard</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">Deze maand bespaard: </string>
   <string name="traffic_saving_history_total_month_default">Gemiddeld bespaard per maand</string>
-  <string name="traffic_saving_history_total_month_value">"Luisteren naar &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; liedjes / GeChat voor &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; uren / Gelezen &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikels"</string>
-  <string name="traffic_saving_history_total_month_value_default">"Luisteren naar &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; liedjes / GeChat voor &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; uren / Gelezen &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikels"</string>
   <string name="traffic_saving_history_total_rate">Beoordelen</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Data bespaard</string>
+  <string name="traffic_saving_mobile_usage">Mobiel verbruik</string>
   <string name="traffic_saving_msg_month">Bespaard deze maand</string>
   <string name="traffic_saving_msg_not_started">Databespaarder is uitgeschakeld</string>
   <string name="traffic_saving_msg_today">Resterend vandaag</string>
@@ -527,6 +521,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatisch databespaarder activeren om apps te verminderen' mobiele datagebruik.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Als je een maandelijks data plan hebt, herinner u eraan om de databespaarder uit te schakelen voor individuele apps om extra kosten van uw provider te voorkomen.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activeren</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_title">Databespaarder</string>
   <string name="traffic_saving_toast_start_mobile">Databespaarder is ingeschakeld</string>
   <string name="traffic_saving_toast_start_none_mobile">Databespaarder zal starten bij het gebruik van mobiele data</string>
@@ -539,6 +534,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_whitelist_btn_removed">App verwijderd uit lijst</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; dataverbruik apps is niet beperkt"</string>
   <string name="traffic_saving_whitelist_no_app">Geen apps</string>
+  <string name="traffic_saving_wifi_usage">Wi-Fi verbruik</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Pas abonnement en dataverbruik aan</string>
