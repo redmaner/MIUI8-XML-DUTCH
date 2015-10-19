@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">Accounts</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_title">Vergrendel individuele apps</string>
@@ -18,8 +19,15 @@
   <string name="access_control_password_title">Wachtwoord</string>
   <string name="access_control_recording_intro_header">Teken een ontgrendelpatroon:</string>
   <string name="access_control_reset_by_account">Log in op uw Mi account om uw wachtwoord te resetten</string>
+  <string name="access_point_names">Namen toegangspunten</string>
   <string name="accessibility_captioning_title">Ondertiteling</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beinvloeden.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
+  <string name="accessibility_display_inversion_preference_subtitle">(Experimenteel) Kan de prestaties beinvloeden</string>
+  <string name="accessibility_display_inversion_preference_title">Kleurinversie</string>
+  <string name="accessibility_display_title">Scherm</string>
   <string name="accessibility_enable">Toegankelijkheid</string>
+  <string name="accessibility_feature_or_input_method_not_allowed">Niet toegestaan door uw organisatie</string>
   <string name="accessibility_feature_state_off">Uit</string>
   <string name="accessibility_feature_state_on">Aan</string>
   <string name="accessibility_global_gesture_preference_description">"Wanneer deze functie is ingeschakeld, kunt u de toegankelijkheidsfuncties inschakelen in twee snelle stappen: 
@@ -56,7 +64,9 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_sync_disabled">Sync. uitgeschakeld</string>
   <string name="accessibility_sync_enabled">Sync. is ingeschakeld</string>
   <string name="accessibility_sync_error">Sync. fout.</string>
+  <string name="accessibility_sync_in_progress">Bezig met synchroniseren...</string>
   <string name="accessibility_system_title">Systeem</string>
+  <string name="accessibility_toggle_high_text_contrast_preference_title">Tekst met hoog contrast</string>
   <string name="accessibility_toggle_large_text_preference_title">Grootte tekst</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Schermvergroting bijwerken bij app overgangen</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Schermvergroting automatisch bijwerken</string>
@@ -66,6 +76,10 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="account_autostar_label">Automatisch starten</string>
   <string name="account_list">Andere accounts</string>
   <string name="account_settings">Accounts</string>
+  <string name="account_settings_menu_auto_sync">Automatisch data synchroniseren</string>
+  <string name="account_settings_menu_auto_sync_personal">Automatisch persoonlijke data synchroniseren</string>
+  <string name="account_settings_menu_auto_sync_work">Automatisch werkdata synchroniseren</string>
+  <string name="account_settings_title">Accounts</string>
   <string name="account_sync_settings_title">Sync.</string>
   <string name="activate_miui_screensaver">Schermbeveiliging tijdens slaap</string>
   <string name="activating">Activeren…</string>
@@ -105,6 +119,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="agps_roaming_dia_title">A-GPS gebruiken bij roaming</string>
   <string name="agps_roaming_summary">Gebruik mobiele data om de GPS bij te staan tijdens roaming</string>
   <string name="airplane_mode">Vliegmodus</string>
+  <string name="alarm_volume_option_title">Alarmvolume</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de schermbeveiliging kost extra batterij.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Batterij gebruikt</string>
@@ -113,10 +128,15 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nadat u de widget heeft gemaakt, heeft %1$s toegang tot alle gegevens die de widget weergeeft.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget maken en toegang toestaan?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s altijd toestaan widgets te maken en toegang tot de widgetgegevens geven</string>
+  <string name="allow_data_usage_title">Datagebruik tijdens roamen toestaan</string>
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
+  <string name="allow_usage_access_message">Als je toegang toestaat, kan deze app algemene informatie over de apps op de telefoon lezen, zoals hoe vaak je ze gebruikt.</string>
+  <string name="allow_usage_access_title">Toegang toestaan?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">U heeft ervoor gekozen deze app toe te staan widgets te maken en toegang tot de widgetgegevens te geven.</string>
+  <string name="amber_alerts_summary">Berichten over kinderontvoeringen ontvangen</string>
+  <string name="amber_alerts_title">AMBER alerts</string>
   <string name="android_beam_disabled_summary">NFC inhoud delen vereist dat NFC ingeschakled is</string>
   <string name="android_beam_explained">U kunt een webpagina, een video of andere inhoud van uw scherm naar een ander apparaat beamen, door de apparaten tegen elkaar aan te houden (meestal rug aan rug).</string>
   <string name="android_beam_label">Android Beam</string>
@@ -157,6 +177,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="apn_save_msg">Sla wijzigingen APN op?</string>
   <string name="apn_server">Server</string>
   <string name="apn_settings">"APN's"</string>
+  <string name="apn_settings_not_available">Toegangspunt naaminstellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="apn_type">APN type</string>
   <string name="apn_user">Gebruikersnaam</string>
   <string name="app_backup">Back-up</string>
@@ -177,10 +198,22 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Deze app wordt niet ondersteund voor beperkte profielen</string>
+  <string name="app_notification_block_summary">Nooit meldingen laten zien van deze app</string>
+  <string name="app_notification_block_title">Blokkeren</string>
+  <string name="app_notification_priority_summary">Laat meldingen bovenaan de lijst zien en laat ze binnenkomen als de telefoon is ingesteld op alleen prioriteit onderbrekingen</string>
+  <string name="app_notification_priority_title">Prioriteit</string>
+  <string name="app_notification_row_banned">Geblokkeerd</string>
+  <string name="app_notification_row_priority">Prioriteit</string>
+  <string name="app_notification_row_sensitive">Gevoelig</string>
+  <string name="app_notification_sensitive_summary">"Als de telefoon is vergrendeld, verberg alle gevoelige gegevens van de meldingen van deze app"</string>
+  <string name="app_notification_sensitive_title">Gevoelig</string>
+  <string name="app_notifications_dialog_done">Klaar</string>
   <string name="app_notifications_switch_label">Meldingen weergeven</string>
+  <string name="app_notifications_title">Appmeldingen</string>
   <string name="app_ops_never_used">(Nooit gebruikt)</string>
   <string name="app_ops_running">Actief</string>
   <string name="app_ops_settings">App bewerkingen</string>
+  <string name="app_ops_settings_summary">Bekijk of verander apptoestemmingen</string>
   <string name="app_process_limit_title">Achtergrondproceslimiet</string>
   <string name="app_restrictions_custom_label">App beperkingen instellen</string>
   <string name="app_sees_restricted_accounts">Deze app heeft toegang tot uw accounts</string>
@@ -210,6 +243,8 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="audio_list_loading">Laden…</string>
   <string name="audio_profile_settings_title">Audio profielen</string>
   <string name="audio_record_proc_title">Geluidsdemping</string>
+  <string name="auto_brightness_summary">Pas helderheid aan aan beschikbare licht</string>
+  <string name="auto_brightness_title">Automatische helderheid</string>
   <string name="auto_caps">Automatisch hoofdlettergebruik</string>
   <string name="auto_caps_summary">Eerste letters in zinnen met hoofdletter</string>
   <string name="auto_launch_disable_text">Geen standaardwaarden ingesteld.</string>
@@ -264,8 +299,11 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="battery_desc_apps">Batterij gebruikt door app</string>
   <string name="battery_desc_bluetooth">Batterij gebruikt door Bluetooth</string>
   <string name="battery_desc_display">Batterij gebruikt door scherm en achtergrondverlichting</string>
+  <string name="battery_desc_flashlight">Batterij gebruikt door de zaklamp</string>
+  <string name="battery_desc_overcounted">Over-counted power use</string>
   <string name="battery_desc_radio">Batterij gebruikt door radio</string>
   <string name="battery_desc_standby">Batterij gebruikt wanneer apparaat inactief is</string>
+  <string name="battery_desc_unaccounted">Batterij gebruikt door diversen</string>
   <string name="battery_desc_users">Batterij gebruikt door gebruiker</string>
   <string name="battery_desc_voice">Batterij gebruikt door gespreksoproepen</string>
   <string name="battery_desc_wifi">Batterij gebruikt door Wi-Fi</string>
@@ -313,7 +351,12 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="battery_info_uptime">Tijd sinds opstarten:</string>
   <string name="battery_info_voltage_label">Batterij voltage:</string>
   <string name="battery_info_voltage_units">mV</string>
-  <string name="battery_level_title">Batterij niveau</string>
+  <string name="battery_level_title">Batterijniveau</string>
+  <string name="battery_msg_unaccounted">Battery use is an approximation of power use and does not include every source of battery drain. Miscellaneous is the difference between the computed approximate power use and the actual drain observed on the battery.</string>
+  <string name="battery_saver">Batterijbespaarder</string>
+  <string name="battery_saver_turn_on_automatically_never">Nooit</string>
+  <string name="battery_saver_turn_on_automatically_pct">bij %1$d%% batterij</string>
+  <string name="battery_saver_turn_on_automatically_title">Automatisch inschakelen</string>
   <string name="battery_settings">Batterij</string>
   <string name="battery_settings_title">Batterij</string>
   <string name="battery_since_reset">Batterijgebruik sinds oplading</string>
@@ -512,6 +555,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="brightness_auto_adjust_off">Schermhelderheid blijft hetzelfde.</string>
   <string name="brightness_auto_adjust_on">Schermhelderheid past zich aan aan het beschikbare licht.</string>
   <string name="brightness_summary">Helderheid van het scherm aanpassen</string>
+  <string name="brightness_title">Helderheid</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Snoop logbestand voor Bluetooth HCI inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI pakketten tot één bestand samenvoegen</string>
@@ -531,6 +575,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="cached">Gecachet achtergrondproces</string>
   <string name="call_settings_summary">Voicemail, gesprekken doorschakelen, wisselgesprek en beller-id instellen</string>
   <string name="call_settings_title">Gespreksinstellingen</string>
+  <string name="calls_title">Gesprekken</string>
   <string name="camera_key_action_app_title">Open app</string>
   <string name="camera_key_action_category_title">"Gebruik van de camera is niet toegestaan"</string>
   <string name="camera_key_action_none_title">Geen actie</string>
@@ -546,6 +591,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cancel_alert">Aanpassingen verwijderen?</string>
+  <string name="cancel_all_caps">ANNULEREN</string>
   <string name="cancel_download_buton_text">Annuleren</string>
   <string name="cant_sync_dialog_message">Sync. is op dit moment uitgeschakeld voor dit item. Als u deze instelling wilt wijzigen, schakelt u achtergrondgegevens en automatisch sync. tijdelijk in.</string>
   <string name="cant_sync_dialog_title">Kan niet handmatig sync.</string>
@@ -569,6 +615,8 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="carrier_enabled">APN inschakelen/uitschakelen</string>
   <string name="carrier_enabled_summaryOff">APN uitgeschakeld</string>
   <string name="carrier_enabled_summaryOn">APN ingeschakeld</string>
+  <string name="category_personal">Persoonlijk</string>
+  <string name="category_work">Werk</string>
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
   <string name="cell_broadcast_settings">Cell broadcasts</string>
   <string name="cell_broadcast_settings_summary">Selecteer de types noodoproepen om weer te geven</string>
@@ -606,7 +654,10 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="color_green">Groen</string>
   <string name="color_magenta">Magenta</string>
   <string name="color_none">Geen</string>
+  <string name="color_orange">Oranje</string>
+  <string name="color_purple">Paars</string>
   <string name="color_red">Rood</string>
+  <string name="color_unspecified">Standaard</string>
   <string name="color_white">Wit</string>
   <string name="color_yellow">Geel</string>
   <string name="common_settings">Snelle instellingen</string>
@@ -623,7 +674,8 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="confirm_erase">Wissen</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
   <string name="connect_to_internet">Maak verbinding met het internet</string>
-  <string name="connected_wifi">Verbonden met</string>
+  <string name="connected_wifi">Verbonden</string>
+  <string name="continue_all_caps">DOORGAAN</string>
   <string name="contributors_title">Bijdragers</string>
   <string name="controls_label">Bedieningselementen</string>
   <string name="controls_subtitle">Energieverbruik aanpassen</string>
@@ -681,6 +733,14 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="current_input_method">Standaard</string>
   <string name="current_use_ese">Ingesloten beveiligde inhoud</string>
   <string name="current_use_uicc_se">Ingesloten beveiligde inhoud op SIM kaart</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (rood-groen)</string>
+  <string name="daltonizer_mode_disabled">Uitgeschakeld</string>
+  <string name="daltonizer_mode_monochromacy">Monochromatisch</string>
+  <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
+  <string name="daltonizer_type">Correctienmodus</string>
+  <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
+  <string name="dashboard_title">Instellingen</string>
   <string name="data_size_label">Gegevens</string>
   <string name="data_usage_app_restrict_background">Achtergrondgegevens beperken</string>
   <string name="data_usage_app_restrict_background_summary">Achtergrondgegevens in mobiele netwerken uitschakelen. Zo mogelijk worden niet mobiele netwerken gebruikt.</string>
@@ -699,6 +759,7 @@ Sommige accounts kunnen de wijzigingen die u op uw telefoon aanbrengt ook automa
 
 Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u met elk account wilt sync.."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Auto sync gegevens inschakelen?</string>
+  <string name="data_usage_background_label">Achtergrond:</string>
   <string name="data_usage_change_cycle">Cyclus aanpassen…</string>
   <string name="data_usage_cycle">Gegevensgebruikcyclus</string>
   <string name="data_usage_cycle_editor_positive">Ingesteld</string>
@@ -713,6 +774,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="data_usage_enable_3g">2G/3G gegevens</string>
   <string name="data_usage_enable_4g">4G gegevens</string>
   <string name="data_usage_enable_mobile">Mobiele gegevens</string>
+  <string name="data_usage_forground_label">Voorgrond:</string>
   <string name="data_usage_label_background">Achtergrond</string>
   <string name="data_usage_label_foreground">Voorgrond</string>
   <string name="data_usage_limit_dialog_mobile">Uw mobiele gegevensverbinding wordt uitgeschakeld wanneer de gespecificeerde limiet is bereikt.
@@ -763,13 +825,18 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="date_and_time_settings_title_setup_wizard">Datum en tijd instellen</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">24 uurs klok gebruiken</string>
+  <string name="date_time_24hour_title">24 uurs formaat</string>
   <string name="date_time_auto">Automatische tijd en datum</string>
   <string name="date_time_auto_summaryOff">Netwerktijd gebruiken</string>
   <string name="date_time_auto_summaryOn">Netwerktijd gebruiken</string>
   <string name="date_time_date_format">Datumnotatie selecteren</string>
+  <string name="date_time_date_format_title">Datumnotatie</string>
   <string name="date_time_set_date">Datum instellen</string>
+  <string name="date_time_set_date_title">Datum</string>
   <string name="date_time_set_time">Tijd instellen</string>
+  <string name="date_time_set_time_title">Tijd</string>
   <string name="date_time_set_timezone">Tijdzone selecteren</string>
+  <string name="date_time_set_timezone_title">Tijdzone</string>
   <string name="date_time_settings">Datum &amp; tijd</string>
   <string name="debug_app">App voor foutopsporing selecteren</string>
   <string name="debug_app_not_set">Geen app voor foutopsporing ingesteld</string>
@@ -785,6 +852,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Gebruikerservaring programma</string>
   <string name="debug_monitoring_category">Controle</string>
+  <string name="debug_view_attributes">Inspectie van weergavekenmerk instellen</string>
   <string name="default_date_format">d/MM/yyyy</string>
   <string name="default_input_method">Kies standaard toetsenbord</string>
   <string name="default_usb_mode">USB verbinding</string>
@@ -832,6 +900,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Status van de batterij, het netwerk en andere gegevens</string>
+  <string name="dial_pad_tones_title">Keuzetoetsen geluid</string>
   <string name="dialog_content_login">De update benodigd een Mi account, wilt u inloggen?</string>
   <string name="dialog_no">Nee</string>
   <string name="dialog_title_color_calibration">Kleur kalibratie</string>
@@ -877,6 +946,15 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="dlg_error_unmount_text">Kan USB opslag niet ontkoppelen. Probeer het later opnieuw.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
+  <string name="dndm_alarm_content">Geluiden</string>
+  <string name="dndm_alarm_content_all">Alles toestaan</string>
+  <string name="dndm_alarm_content_call">Oproepen</string>
+  <string name="dndm_alarm_content_call_sms">Oproepen &amp; berichten</string>
+  <string name="dndm_alarm_content_event">Meldingen</string>
+  <string name="dndm_alarm_content_event_and_call">Meldingen &amp; oproepen</string>
+  <string name="dndm_alarm_content_event_and_sms">Meldingen &amp; berichten</string>
+  <string name="dndm_alarm_content_not_all">Alles dempen</string>
+  <string name="dndm_alarm_content_sms">Berichten</string>
   <string name="dndm_auto_button_title">Herhalen niet storen tijd</string>
   <string name="dndm_auto_setting_group">Gepland</string>
   <string name="dndm_auto_time_setting">Tijdsinstellingen</string>
@@ -895,6 +973,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="dndm_repeated_call_summary_3min">Als dezelfde persoon u opnieuw belt binnen drie minuten, zal het geluid afgaan.</string>
   <string name="dndm_repeated_call_summary_none">Herhaalde gesprekken van hetzelfde nummer dempen</string>
   <string name="dndm_special_call_setting_group">Uitzonderingen</string>
+  <string name="dndm_summary">Oproepen en meldingen die aankomen terwijl Niet storen is ingeschakeld zullen worden gedempt.</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Sta gesprekken van uitzonderingen toe</string>
@@ -1047,6 +1126,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="force_stop">Nu stoppen</string>
   <string name="force_stop_dlg_text">Als u een app gedwongen stopt, kan deze onverwacht gedrag vertonen.</string>
   <string name="force_stop_dlg_title">Gedwongen stoppen?</string>
+  <string name="forget">VERGETEN</string>
   <string name="forget_wifi_message">Dit Wi-Fi netwerk vergeten? Het wachtwoord zal opnieuw ingevoerd moeten worden bij opnieuw verbinden.</string>
   <string name="found_new_version">Nieuwe versie gevonden</string>
   <string name="free_wifi_agreement_remind_never">Niet opnieuw tonen</string>
@@ -1104,6 +1184,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="handy_mode_size">Schermgrootte</string>
   <string name="handy_mode_tips">Veeg naar links of rechts van de Home knop om het scherm dichter naar de ene kant te trekken.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
+  <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
   <string name="hdcp_checking_dialog_title">HDCP controlegedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
@@ -1640,11 +1721,13 @@ Selecteer het OS van uw computer:"</string>
   <string name="notification_pulse_title">Knipperen ledlicht</string>
   <string name="notification_sound_dialog_title">Standaardmeldingsgeluid</string>
   <string name="notification_sound_title">Standaardmeldingsgeluid</string>
+  <string name="notification_volume_option_title">Meldingsvolume</string>
   <string name="notification_volume_title">Melding</string>
   <string name="now">Nu herstarten</string>
   <string name="nsd_quick_toggle_summary">Apps op andere apparaten toestaan, apps op dit apparaat te detecteren</string>
   <string name="nsd_quick_toggle_title">Netwerkservicedetectie</string>
   <string name="oem_radio_info_label">OEM specifieke gegevens/instellingen</string>
+  <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Nu herstarten?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Lite modus verlaten?</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">Uw apparaat zal herstarten in Lite modus.</string>
