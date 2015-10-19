@@ -80,6 +80,19 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_auto_startup_application">Toevoegen automatisch starten van apps</string>
   <string name="add_device_admin">Activeer</string>
   <string name="add_device_admin_msg">Apparaatbeheerder activeren?</string>
+  <string name="add_fingerprint_done_msg">Nu kunt u uw apparaat ontgrendelen met uw vingerafdruk.</string>
+  <string name="add_fingerprint_done_title">Klaar!</string>
+  <string name="add_fingerprint_finished_button_text">Klaar</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Om uw vingerafdruk info toe te voegen, plaatst u uw vinger op de sensor.
+Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
+  <string name="add_fingerprint_instruction_msg">Ontgrendel uw apparaat of verifieër uw betaling met uw vingerafdruk</string>
+  <string name="add_fingerprint_instruction_title">Plaats uw vinger in de vingerafdrukscanner</string>
+  <string name="add_fingerprint_move_finger_title">Vinger verwijderen</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Nadat u op de sensor hebt gedrukt, verwijder uw vinger en herhaal dit.</string>
+  <string name="add_fingerprint_put_finger_msg">Nadat u op de sensor hebt gedrukt, verwijder uw vinger en herhaal dit.</string>
+  <string name="add_fingerprint_put_finger_title">Plaats uw vinger</string>
+  <string name="add_fingerprint_text">Vingerafdruk toevoegen</string>
+  <string name="add_fingerprint_toast_text">Plaats uw vinger nu op de scanner</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Aanvullende systeemupdates</string>
@@ -184,7 +197,9 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="applications_settings">Geïnstalleerde apps</string>
   <string name="applications_settings_header">App instellingen</string>
   <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
+  <string name="apply_fingerprint_to_category_title">Vingerafdruk toepassen naar…</string>
   <string name="apply_now_button_text">Update</string>
+  <string name="apply_password_to_category_title">Wachtwoord toepassen naar…</string>
   <string name="apply_update_fail">Update mislukt</string>
   <string name="apps_with_restrictions_header">Apps met beperkingen</string>
   <string name="apps_with_restrictions_settings_button">Inst. uitbreiden voor app</string>
@@ -774,6 +789,10 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="default_input_method">Kies standaard toetsenbord</string>
   <string name="default_usb_mode">USB verbinding</string>
   <string name="delete">Verwijderen</string>
+  <string name="delete_fingerprint_confirm_msg">Vingerafdruk verwijderen?</string>
+  <string name="delete_fingerprint_text">Verwijder vingerafdruk</string>
+  <string name="delete_legacy_fingerprint">Delete</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Vinger data verwijderen?</string>
   <string name="deny">Weigeren</string>
   <string name="deny_sms_message">Geïnstalleerde apps niet toestaan om SMS te verzenden</string>
   <string name="deny_sms_title">SMS vergrendelen</string>
@@ -995,6 +1014,11 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="filter_apps_running">Wordt uitgevoerd</string>
   <string name="filter_apps_third_party">Gedownload</string>
   <string name="filter_dlg_title">Filteropties kiezen</string>
+  <string name="fingerprint_and_password_entrance_title">Wachtwoord &amp; vingerafdruk</string>
+  <string name="fingerprint_identificating_msg">Scannnen van vingerafdruk…</string>
+  <string name="fingerprint_identify_input_password_msg">Voer wachtwoord in</string>
+  <string name="fingerprint_identify_try_again_msg">Kon niet scannen, probeer opnieuw</string>
+  <string name="fingerprint_list_title">Vingerafdruk</string>
   <string name="finish_application">OK</string>
   <string name="finish_button_label">Voltooien</string>
   <string name="firmware_version">Android versie</string>
@@ -1137,6 +1161,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="incoming_call_breathing_light_color_title">Kleur bij gesprekken</string>
   <string name="incoming_call_breathing_light_freq_title">LED oplichtingsfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
+  <string name="information_dialog_button_text">Verstaan</string>
   <string name="input_method">Toetsenbord</string>
   <string name="input_method_selector">Invoer methode kiezer</string>
   <string name="input_method_selector_always_hide_title">Altijd verbergen</string>
@@ -1182,6 +1207,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="join_many_items_last">%1$s en %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s en %2$s</string>
+  <string name="keep_legacy_fingerprint">Houden</string>
   <string name="keep_screen_on">Standby</string>
   <string name="keep_screen_on_summary">Scherm gaat nooit uit tijdens het opladen</string>
   <string name="kernel_version">Kernel versie</string>
@@ -1416,6 +1442,7 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="master_clear_personal_data_sdcard">Wilt u al uw persoonlijke gegevens en content wissen? Dit kan niet ongedaan gemaakt worden!</string>
   <string name="master_clear_summary">Alle gegevens op het apparaat wissen</string>
   <string name="master_clear_title">Terug naar fabrieksinstellingen</string>
+  <string name="max_fingerprint_number_reached">Kan niet meer dan 5 vingerafdruken toevoegen. Om een vingerafdruk toe te voegen moet je eerst een bestaande vingerafdruk verwijderen</string>
   <string name="media_button">Media knop</string>
   <string name="media_feedback_enable_title">Trillen op de maat</string>
   <string name="media_format_button_text">USB opslag wissen</string>
@@ -1692,6 +1719,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_page2_title">Voorbeeld</string>
   <string name="page_layout_small_title">Extra klein</string>
   <string name="passwordIncorrect">Het ingevoerde wachtwoord is niet juist</string>
+  <string name="password_entrance_title">Wachtwoord</string>
   <string name="password_guard">Wachtwoord</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Prestatie</string>
@@ -2113,6 +2141,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="search_wallpaper">Achtergrond</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="search_wifi_display">Wi-Fi scherm</string>
+  <string name="secure_keyguard_business_title">Wachtwoord vergrendelscherm</string>
   <string name="security_enable_widgets_disabled_summary">Uitgeschakeld door beheerder</string>
   <string name="security_enable_widgets_title">Widgets inschakelen</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
@@ -2474,9 +2503,11 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tts_status_ok">%1$s wordt volledig ondersteund</string>
   <string name="tts_status_requires_network">%1$s heeft een netwerkverbinding nodig</string>
   <string name="tts_status_title">Status van standaardtaal</string>
+  <string name="turn_off_common_password_confirm_msg">Het wachtwoord zal ook ingeschakeld worden.</string>
   <string name="turn_off_radio">Radio uitschakelen</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
   <string name="turn_on_radio">Radio inschakelen</string>
+  <string name="turn_on_security_lock">Toevoegen beveiligingswachtwoord</string>
   <string name="under_keyguard">Op vergrendelscherm</string>
   <string name="uninstall_all_users_text">Verwijderen voor alle gebruikers</string>
   <string name="uninstall_text">Verwijderen</string>
