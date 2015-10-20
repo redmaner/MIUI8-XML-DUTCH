@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d min geleden</item>
+        <item quantity="zero">%1$d min geleden</item>
+        <item quantity="one">%1$d min geleden</item>
+        <item quantity="two">%1$d min geleden</item>
+        <item quantity="few">%1$d min geleden</item>
+        <item quantity="many">%1$d min geleden</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d uren geleden</item>
+        <item quantity="zero">%1$d uren geleden</item>
+        <item quantity="one">%1$d uur geleden</item>
+        <item quantity="two">%1$d uren geleden</item>
+        <item quantity="few">%1$d uren geleden</item>
+        <item quantity="many">%1$d uren geleden</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="zero">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+        <item quantity="two">%1$d dagen geleden</item>
+        <item quantity="few">%1$d dagen geleden</item>
+        <item quantity="many">%1$d dagen geleden</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Gedownload door %1$d personen</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Gedownload door %1$d personen</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Gedownload door %1$d personen</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d groepen</item>
         <item quantity="one">%d groep</item>
