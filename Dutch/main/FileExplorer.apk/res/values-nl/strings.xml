@@ -36,6 +36,8 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">Kan zoveel items niet verzenden</string>
   <string name="cancel">Annuleren</string>
+  <string name="cancel_error">Kon niet verwijderen, probeer opnieuw</string>
+  <string name="cancel_success">Verwijderen voltooid, alle bestanden verplaats naar sdcard/fileexplorer/decryptie</string>
   <string name="category">Categorieën</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKs</string>
@@ -94,7 +96,11 @@
   <string name="decompress_title">Uitpakken</string>
   <string name="decompress_to">Bestanden uitpakken naar…</string>
   <string name="decompress_to_here">Bestanden hier uitpakken:</string>
+  <string name="decrypt">Verwijderen uit privé</string>
+  <string name="decrypt_error">Kon niet decoderen</string>
+  <string name="decrypting">Decoderen…</string>
   <string name="delete_dialog_button">Verwijderen</string>
+  <string name="delete_error">Kon bestanden niet verwijderen, probeer opnieuw</string>
   <string name="delete_failed">Verwijderen mislukt</string>
   <string name="delete_file">Dit bestand verwijderen?</string>
   <string name="delete_file_error">Kon bestand niet verwijderen</string>
@@ -109,6 +115,7 @@
   <string name="dialog_type_image">"Foto's"</string>
   <string name="dialog_type_text">Documenten</string>
   <string name="dialog_type_video">"Video's"</string>
+  <string name="dir_not_support">Deze map kan niet privé gemaakt worden</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leeg</string>
   <string name="dlg_error_unmount_text">Loskoppelen USB opslag mislukt.</string>
@@ -118,6 +125,9 @@
   <string name="downloading">Downloaden</string>
   <string name="downloading_in_3g">Downloaden op 3G…</string>
   <string name="enable_sd_card">Steek de SD-kaart of schakel de USB opslag uit.</string>
+  <string name="encrypt_error">Kon bestanden niet privé maken, probeer opnieuw</string>
+  <string name="encrypt_success">Alle bestanden zijn privé gemaakt</string>
+  <string name="encrypting">Encrypting…</string>
   <string name="error_filename_too_long">Bestandsnaam is te lang.</string>
   <string name="error_info_cant_send_folder">Kan dit type bestand niet verzenden.</string>
   <string name="error_open_file_failed_no_app_found">Geen app  gevonden om deze actie uit te voeren.</string>
@@ -195,9 +205,11 @@
   <string name="loading">Laden…</string>
   <string name="local_image">Foto\'s</string>
   <string name="local_music">Muziek</string>
+  <string name="local_sticker_str">Gedownloade</string>
   <string name="local_video">Video</string>
   <string name="login_reg_content">Sla bestanden op  en synchroniseer op meerdere apparaten.</string>
   <string name="login_reg_content0">Gebruik KuaiPan vanaf elke locatie.</string>
+  <string name="make_private">Prive maken</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Opruimen</string>
   <string name="menu_item_ftp">FTP</string>
@@ -216,6 +228,7 @@
   <string name="month_day_format">d MMM</string>
   <string name="move_failed">Kan niet knippen</string>
   <string name="move_to">Verplaatsen naar…</string>
+  <string name="msg_set_password">Eerst wachtwoord instellen</string>
   <string name="multi_select_title">%1$s geselecteerd</string>
   <string name="my_app">App data</string>
   <string name="my_app_desc"/>
@@ -248,15 +261,29 @@
   <string name="net_lose_connected">Verbinding verbroken.</string>
   <string name="networkView_notConnected">Kan geen netwerkverbinding maken</string>
   <string name="network_connect_confirm_des">File Explorer moet verbinding maken met internet om normaal te werken</string>
+  <string name="network_spent_reminding">Om deze pagina te openen zal er verkeer gebruikt worden van uw dataplan.</string>
+  <string name="network_spent_reminding_title">Datavebruiksmelding</string>
   <string name="never_notify_network_connect">Keuze onthouden</string>
   <string name="new_folder_name">Naamloze map</string>
+  <string name="new_function">Over privé mappen</string>
+  <string name="new_function_info">"Privé map is een nieuwe functie van MIUI.
+U kan uw bestanden coderen
+en opslaan op een veilige plaats.
+
+Naar beneden trekken op de startpagina om het te bekijken."</string>
+  <string name="new_function_str">"WeChat stickers kunnen nu automatisch worden verzameld.
+Download ze wanneer u wilt
+en nooit de koele nieuwe missen!"</string>
+  <string name="new_function_title_str">Over WeChat stickers</string>
   <string name="no">Nee</string>
   <string name="no_app_tags">Leeg</string>
   <string name="no_display_file">Kan %1$sniet weergeven</string>
   <string name="no_enough_storage_indication">Opslagruimte apparaat is vol.</string>
   <string name="no_enough_storage_title">Niet genoeg ruimte</string>
   <string name="no_file">Leeg</string>
+  <string name="no_local_sticker_tip">Kon stickers niet downloaden. Bekijk de stickers gedeeld door Mi fans.</string>
   <string name="no_more_space">Niet genoeg ruimte.</string>
+  <string name="no_network_str">Kon niet verbinden met netwerk. Controleer uw netwerkverbinding en probeer opnieuw.</string>
   <string name="no_recent_files">Geen recente bestanden</string>
   <string name="no_tasks">Geen taken.</string>
   <string name="no_wifi">Geen netwerk gedetecteerd</string>
@@ -275,6 +302,7 @@
   <string name="open_changed_file_message">Het bestand dat u probeert te openen is gewijzigd. 1. Download het bestand opnieuw om het bij te werken. 2. Upload het naar uw KuaiPan account.</string>
   <string name="open_changed_file_title">Verandering toegepast.</string>
   <string name="open_file_failed">Kan niet worden geopend</string>
+  <string name="open_private_folder">Bezig met aanmaken van een privé map…</string>
   <string name="operate_confirm_in_3g">Uw mobiele gegevensverbinding gebruiken om dit grote bestand te downloaden?</string>
   <string name="operating">Verwerken…</string>
   <string name="operation_add_fav">Toevoegen aan ster…</string>
@@ -314,15 +342,27 @@
   <string name="operation_show_sys">Geef verborgen bestanden weer</string>
   <string name="operation_unfavorite">Ster verwijderen</string>
   <string name="pan_settting">Instellingen KuaiPan</string>
+  <string name="partial_cancel_successful">Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaats naar sdcard/fileexplorer/decryptie</string>
+  <string name="partial_delete_failure">Kon sommige bestanden niet verwijderen, probeer opnieuw</string>
+  <string name="partial_encrypt_success">Kon sommige bestanden niet privé maken, probeer opnieuw</string>
+  <string name="partial_repair_done">Herstelde sommige bestanden met succes</string>
   <string name="paused">Gepauzeerd</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefoon</string>
   <string name="port_range">Poort moet tussen 1024–65535 zijn</string>
+  <string name="private_files">Privé</string>
+  <string name="private_folder">Privé map</string>
+  <string name="promot_enctypt_password">Ingevoerd wachtwoord gebruikt om uw apparaat te ontgrenden of om kindermodus uit te schakelen</string>
   <string name="pull_to_signin">Sleep naar beneden om aan te melden.</string>
   <string name="release_to_signin">Loslaten aan te melden</string>
   <string name="rename_alert">"Als je de extensie van bestand wijzigd, is mogelijks niet meer te openen."</string>
   <string name="rename_description">Naam wijzigen…</string>
   <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
+  <string name="repair_done">Hersteld</string>
+  <string name="repair_error">Kon niet herstellen</string>
+  <string name="repair_file">Herstel gecodeerde bestanden</string>
+  <string name="reset_password">Wachtwoord opnieuw instellen</string>
+  <string name="restoring">Herstellen…</string>
   <string name="rlv_last_refreshing_time">%1$s geüpdatet</string>
   <string name="rlv_loading_more">Een momentje…</string>
   <string name="rlv_pull_to_refresh">Trekken om te vernieuwen</string>
@@ -381,6 +421,14 @@
   <string name="share_box_receive">Ontvangen</string>
   <string name="share_box_send">Verzonden</string>
   <string name="share_link_failed">Kon geen koppeling genereren.</string>
+  <string name="shared_sticker_network_permission_tip">Kon niet verbinden met netwerk. Controleer uw netwerkverbinding en probeer opnieuw</string>
+  <string name="shared_sticker_page_no_file">Kon niet verbinden met netwerk. Controleer uw netwerkverbinding en probeer opnieuw</string>
+  <string name="shared_sticker_str">Gedeeld door Mi fans</string>
+  <string name="shared_sticker_suffix">Sticker op %s</string>
+  <string name="shared_sticker_use_tip">"U kunt de stickers die u hebt opgeslaan verzenden in WeChat dialogen gelijk als u afbeelden verzend.
+(GIFs kunnen worden toegevoegd aan aangepaste in WeChat Stickers)."</string>
+  <string name="shared_sticker_use_tip_title">Hoe stickers gebruiken</string>
+  <string name="shared_str">Gedeeld door %s</string>
   <string name="show_message">Je moet het bestand eerst downloaden voordat je het kunt openen.</string>
   <string name="sign_description">Aanmelden…</string>
   <string name="signin_error">Kan geen verbinding maken met de server. Controleer uw netwerkverbinding.</string>
@@ -418,6 +466,8 @@
   <string name="toast_file_not_can_read">Geen app gevonden om deze actie uit te voeren.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netwerk overdracht</string>
+  <string name="transfer_done">Bestanden met succes verplaats.</string>
+  <string name="transfer_private_data">Bezig met privé bestanden te verplaatsen van SD kaart…</string>
   <string name="transing">Verzenden</string>
   <string name="trash_box_capacity">Prullenbak %1$s</string>
   <string name="trash_box_link">Om uw prullenbak leeg te maken, bezoek &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -445,6 +495,7 @@
   <string name="user_guide_save_file">"Slaan uw bestanden en foto's op in KuaiPan."</string>
   <string name="user_guide_summary">Een kort overzicht</string>
   <string name="user_guide_upload_to_kuaipan">Sla items op in KuaiPan vanaf je telefoon</string>
+  <string name="user_not_login">Eerst aanmelden</string>
   <string name="utf8_summary">Systeem FTP standaard codering</string>
   <string name="utf8_title">UTF 8</string>
   <string name="wait_net">Wachten op netwerk</string>
@@ -453,6 +504,7 @@
   <string name="waiting">Wachten</string>
   <string name="wangpan_root_path">Mijn harde schijf</string>
   <string name="wechat_video">Video op %s</string>
+  <string name="weixin_sticker_tag_str">WeChat stickers</string>
   <string name="wifi_state">Wi-Fi netwerk</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="year_month_day_format">d MMM, yyyy</string>
