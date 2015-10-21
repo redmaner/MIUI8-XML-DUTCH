@@ -707,8 +707,8 @@ Uitzenden gebruikt energiezuinige Bluetooth signalen."</string>
   <string name="common_settings">Snelle instellingen</string>
   <string name="complete_settings">Algemene instellingen</string>
   <string name="computing_size">Berekenen…</string>
-  <string name="condition_provider_security_warning_summary">%1$s will be able to add exit conditions to Do not disturb mode.</string>
-  <string name="condition_provider_security_warning_title">Enable %1$s?</string>
+  <string name="condition_provider_security_warning_summary">%1$s zal in staat zijn om uitzonderingen toe te voegen aan Niet storen modus.</string>
+  <string name="condition_provider_security_warning_title">%1$s inschakelen?</string>
   <string name="config_charging_function_name">Aan het laden</string>
   <string name="config_list_label">Geconfigureerde netwerken</string>
   <string name="config_mass_storage_function_name">Massaopslag</string>
@@ -746,19 +746,19 @@ Uitzenden gebruikt energiezuinige Bluetooth signalen."</string>
   <string name="credentials_reset_summary">Alle certificaten verwijderen</string>
   <string name="credentials_reset_warning">Onjuist wachtwoord. U heeft nog een poging voordat de opslag van referenties wordt gewist.</string>
   <string name="credentials_reset_warning_plural">Onjuist wachtwoord. U heeft nog %1$d pogingen voordat de opslag van referenties wordt gewist.</string>
-  <string name="credentials_settings_not_available">Credentials are not available for this user</string>
+  <string name="credentials_settings_not_available">Referenties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="credentials_title">Opslag van referenties</string>
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Typ het wachtwoord voor referentieopslag.</string>
   <string name="credentials_wrong_password">Onjuist wachtwoord.</string>
   <string name="crypt_keeper_button_text">Apparaat versleutelen</string>
-  <string name="crypt_keeper_confirm_encrypt">You need to draw your unlock pattern to confirm encrypting your device.</string>
+  <string name="crypt_keeper_confirm_encrypt">U moet uw vergrendelpatroon tekenen om encryptie van uw apparaat te bevestigen.</string>
   <string name="crypt_keeper_confirm_title">Versleutelen?</string>
   <string name="crypt_keeper_cooldown">Probeer het over 1 seconde opnieuw.</string>
-  <string name="crypt_keeper_data_corrupt_summary">"The password you entered is correct, but unfortunately your data is corrupt. 
+  <string name="crypt_keeper_data_corrupt_summary">"Het wachtwoord dat u hebt ingevoerd is juist, maar helaas is uw data corrupt. 
  
-To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
-  <string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string>
+Om uw telefoon te blijven gebruiken, moet u een fabrieksreset uitvoeren. Als uw telefoon opstart na de reset, zal u de kans hebben om gegevens terug te zetten die waren gebackupt naar uw Google account."</string>
+  <string name="crypt_keeper_data_corrupt_title">Decryptie mislukt</string>
   <string name="crypt_keeper_desc">"U kunt uw account, instellingen, gedownloade apps en de bijbehorende gegevens, media en andere bestanden versleutelen. Zodra u uw apparaat heeft versleuteld, moet u telkens een PIN code of wachtwoord opgeven om het apparaat te coderen wanneer u deze opstart. U kunt het versleutelen van uw apparaat uitsluitend ongedaan maken door de fabrieksinstellingen te herstellen. Daarbij worden al uw gegevens gewist.
 
 Het versleutelen kan een uur of langer duren. U moet beginnen met een volledig opgeladen batterij en het apparaat moet gedurende het versleutelen op de oplader zijn aangesloten. Als u het versleutelen onderbreekt, kunt u sommige of al uw gegevens kwijtraken."</string>
@@ -776,11 +776,11 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="crypt_keeper_low_charge_text">Laad de batterij op en probeer het opnieuw.</string>
   <string name="crypt_keeper_settings_title">Encryptie</string>
   <string name="crypt_keeper_setup_description">Wacht totdat uw apparaat is gecodeerd. 1 procent voltooid.</string>
-  <string name="crypt_keeper_setup_time_remaining">Wait while your phone is being encrypted. Time remaining: ^1</string>
+  <string name="crypt_keeper_setup_time_remaining">Wacht terwijl uw telefoon word versleuteld. Tijd resterend: ^1</string>
   <string name="crypt_keeper_setup_title">Coderen</string>
   <string name="crypt_keeper_switch_input_method">Invoermethode schakelen</string>
   <string name="crypt_keeper_unplugged_text">Sluit uw lader aan en probeer het opnieuw.</string>
-  <string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
+  <string name="crypt_keeper_warn_wipe">Waarschuwing: Uw telefoon zal worden gereset na nog ^1 mislukte pogingen om te ontgrendelen!</string>
   <string name="cryptkeeper_emergency_call">Noodoproep</string>
   <string name="cryptkeeper_return_to_call">Terug naar gesprek</string>
   <string name="current_backup_pw_prompt">Typ hier uw huidige wachtwoord voor volledige back-up</string>
@@ -796,10 +796,10 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
   <string name="dashboard_title">Instellingen</string>
   <string name="data_size_label">Gegevens</string>
-  <string name="data_usage_accounting">Carrier data accounting may differ from your device.</string>
-  <string name="data_usage_app">App usage</string>
-  <string name="data_usage_app_info_label">APP INFO</string>
-  <string name="data_usage_app_items_header_text">App usage</string>
+  <string name="data_usage_accounting">Datagebruik berekend door uw provider kan afwijken van wat uw apparaat laat zien.</string>
+  <string name="data_usage_app">Appgebruik</string>
+  <string name="data_usage_app_info_label">APPINFO</string>
+  <string name="data_usage_app_items_header_text">Appgebruik</string>
   <string name="data_usage_app_restrict_background">Achtergrondgegevens beperken</string>
   <string name="data_usage_app_restrict_background_summary">Achtergrondgegevens in mobiele netwerken uitschakelen. Zo mogelijk worden niet mobiele netwerken gebruikt.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Als u achtergrondgegevens wilt beperken voor deze app, moet u eerst een mobiele gegevenslimiet instellen.</string>
@@ -809,7 +809,7 @@ U kunt meer geschikte besturingselementen voor gegevensgebruik vinden in de inst
   <string name="data_usage_app_restrict_dialog_title">Achtergrondgegevens beperken?</string>
   <string name="data_usage_app_restricted">Beperkt</string>
   <string name="data_usage_app_settings">Instellingen voor app weergeven</string>
-  <string name="data_usage_app_summary_title">App data usage</string>
+  <string name="data_usage_app_summary_title">App datagebruik</string>
   <string name="data_usage_auto_sync_off_dialog">Hiermee beperkt u gegevens- en batterij gebruik. U moet elk account echter handmatig sync. om recente informatie te verzamelen. U ontvangt geen meldingen wanneer er updates zijn.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Auto-sync gegevens uitschakelen?</string>
   <string name="data_usage_auto_sync_on_dialog">"Wijzigingen die u aanbrengt in uw accounts op internet worden automatisch naar uw apparaat gekopieerd.
