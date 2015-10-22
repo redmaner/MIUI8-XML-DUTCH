@@ -1186,9 +1186,6 @@ This helps protect data on lost or stolen devices."</string>
   <string name="encryption_interstitial_message_pin">"You can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can't receive calls, messages, or notifications, including alarms. 
  
 This helps protect data on lost or stolen devices."</string>
-  <string name="enforce_read_external_confirm_message">"When SD card is protected, apps must request permission to read data from external storage.
- 
-Some apps may not work until updated by their developers."</string>
   <string name="enforce_read_external_confirm_message">Wanneer de USB opslag is beveiligd, moeten apps toestemming vragen om gegevens op externe opslagmedia te lezen.
 
   Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars.</string>
@@ -1226,7 +1223,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="external_storage_turn_on">External storage has been turned on</string>
   <string name="extreme_threats_summary">Receive alerts for extreme threats to life and property</string>
   <string name="extreme_threats_title">Extreme threats</string>
-  <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
   <string name="factory_reset_summary">U kunt uw persoonlijke gegevens wissen door uw telefoon te resetten, of ervoor te kiezen om de geïnstalleerde apps te wissen en de SD-kaart te formatteren om naar de fabrieksinstellingen terug te keren</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen voor %1$s mislukt</string>
   <string name="fcc_equipment_id">Apparatuur ID</string>
@@ -1646,7 +1642,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpassword_pin_contains_non_digits">PIN code mag alleen de cijfers 0-9 bevatten.</string>
   <string name="lockpassword_pin_fixed_length">PIN code moet %d cijfers zijn</string>
   <string name="lockpassword_pin_no_sequential_digits">An ascending, descending or repeated sequence of digits is forbidden</string>
-  <string name="lockpassword_pin_recently_used">"Device administrator doesn't allow PIN"</string>
   <string name="lockpassword_pin_recently_used">Apparaatbeheerder staat het gebruik van een recente pincode niet toe.</string>
   <string name="lockpassword_pin_set_toast">PIN code is ingesteld</string>
   <string name="lockpassword_pin_too_long">PIN code moet korter zijn dan %d cijfers.</string>
