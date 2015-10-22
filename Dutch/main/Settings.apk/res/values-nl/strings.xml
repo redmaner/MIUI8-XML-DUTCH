@@ -465,7 +465,7 @@ Uitzenden gebruikt energiezuinige Bluetooth signalen."</string>
   <string name="bluetooth_headset_profile_summary_use_for">Gebruiken voor audio van telefoon</string>
   <string name="bluetooth_hid_profile_summary_connected">Verbonden met invoerapparaat</string>
   <string name="bluetooth_hid_profile_summary_use_for">Gebruiken voor invoer</string>
-  <string name="bluetooth_incoming_pairing_msg">Van:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Koppelen met dit apparaat?</string>\
+  <string name="bluetooth_incoming_pairing_msg">Van: %1$s Koppelen met dit apparaat?</string>
   <string name="bluetooth_is_disconnect_question">Ontkoppelen van %1$s?</string>
   <string name="bluetooth_is_discoverable">Zichtbaar voor alle Bluetooth apparaten in de buurt(%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Zichtbaar voor alle Bluetooth apparaten in de buurt</string>
@@ -1184,9 +1184,8 @@ Dit helpt gegevens te beschermen bij verloren of gestolen apparaten."</string>
  
 Dit helpt gegevens te beschermen bij verloren of gestolen apparaten.""</string>
   <string name="encryption_interstitial_message_pin">"Je kan dit apparaat beter beschermen door een PIN te vereisen voordat het opstart. Totdat het apparaat is opgestart, kan het geen oproepen, berichten of meldingen ontvangen, inclusief wekkers. 
- 
-Dit helpt gegevens te beschermen bij verloren of gestolen apparaten.""</string>
 
+Dit helpt gegevens te beschermen bij verloren of gestolen apparaten.""</string>
   <string name="enforce_read_external_confirm_message">Wanneer de USB opslag is beveiligd, moeten apps toestemming vragen om gegevens op externe opslagmedia te lezen.
 
   Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars.</string>
