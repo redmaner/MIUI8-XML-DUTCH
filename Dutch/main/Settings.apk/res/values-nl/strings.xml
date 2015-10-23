@@ -1533,18 +1533,19 @@ Dit helpt gegevens te beschermen bij verloren of gestolen apparaten.""</string>
   <string name="location_agps_pref_reset_type_title">Voorkeurs reset type</string>
   <string name="location_agps_pref_si_title">Voorkeurs modus</string>
   <string name="location_agps_register_network_type">Soort netwerktoegang</string>
+  <string name="location_agps_register_network_type_dialog_summary">Kies een netwerk</string>
   <string name="location_agps_register_network_type_dialog_title">Netwerk kiezen</string>
-  <string name="location_agps_register_network_type_summary">Netwerk toegang kiezen voor AGPS gebruik…</string>
+  <string name="location_agps_register_network_type_summary">Netwerk kiezen voor AGPS gebruik…</string>
   <string name="location_agps_reset_type">Reset types</string>
   <string name="location_agps_register_network_type_dialog_summary">Kies een netwerk</string>
   <string name="location_agps_reset_type_choose_dialog_title">Reset types</string>
   <string name="location_agps_reset_type_summary">Kies voorkeurs reset type</string>
-  <string name="location_agps_roaming_help">Het kiezen van alle netwerken kan uw dataverbruik verhogen tijdens het roamen. Als je over dataverbruik limiet van uw plan, kan uw provider extra kosten aan rekenen. </string>
+  <string name="location_agps_roaming_help">Het kiezen van alle netwerken kan uw dataverbruik verhogen tijdens het roamen. Als je over je datalimiet heengaat, kan uw provider extra kosten in rekening brengen.</string>
   <string name="location_agps_si_mode">AGPS SI modus</string>
   <string name="location_agps_si_mode_dialog_title">AGPS methode</string>
   <string name="location_agps_si_mode_summary">Kies voorkeurs AGPS methode</string>
-  <string name="location_agps_supl_server_addr">Server adres</string>
-  <string name="location_agps_supl_server_port">Server poort</string>
+  <string name="location_agps_supl_server_addr">Serveradres</string>
+  <string name="location_agps_supl_server_port">Serverpoort</string>
   <string name="location_agps_supl_settings">SUPL instellingen</string>
   <string name="location_category_enhanced_location">Geavanceerde locatie</string>
   <string name="location_category_location_services">Locatieservices</string>
@@ -1704,6 +1705,7 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="master_clear_final_desc">Wilt u al uw persoonlijke gegevens en gedownloade apps verwijderen? U kunt deze actie niet ongedaan maken.</string>
   <string name="master_clear_gesture_explanation">U moet uw ontgrendelpatroon tekenen om het terugzetten op de fabrieksinstellingen te bevestigen.</string>
   <string name="master_clear_gesture_prompt">Teken uw ontgrendelpatroon</string>
+  <string name="master_clear_not_available">Fabrieksreset is niet beschikbaar voor deze gebruiker</string>
   <string name="master_clear_personal_data">Wilt u al uw persoonlijke gegevens wissen? Dit kan niet ongedaan gemaakt worden!</string>
   <string name="master_clear_personal_data_application">Wilt u al uw persoonlijke gegevens en gedownloade apps verwijderen? Dit kan niet ongedaan gemaakt worden!</string>
   <string name="master_clear_personal_data_sdcard">Wilt u al uw persoonlijke gegevens en content wissen? Dit kan niet ongedaan gemaakt worden!</string>
@@ -1913,27 +1915,36 @@ Selecteer het OS van uw computer:"</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Beveiligde element positie</string>
   <string name="no">Nee</string>
+  <string name="no_all_caps">NEE</string>
   <string name="no_application">Niets</string>
   <string name="no_applications">Geen apps.</string>
+  <string name="no_condition_providers">Er zijn geen voorwaardenverschaffers geïnstalleerd.</string>
   <string name="no_device_admins">Geen apparaatbeheerders beschikbaar</string>
   <string name="no_media_button_receiver">Nee</string>
   <string name="no_nearby_wifi">Er zijn geen netwerken gedetecteerd</string>
   <string name="no_notification_listeners">Er zijn geen luisteraars voor meldingen geïnstalleerd.</string>
   <string name="no_running_services">Niets wordt uitgevoerd.</string>
-  <string name="no_services">Niet actief</string>
+  <string name="no_services">Niet actieve services</string>
+  <string name="no_trust_agents">Geen vertrouwenspersonen beschikbaar</string>
   <string name="no_update_found">Laatste versie reeds geïnstalleerd </string>
   <string name="no_updates_found">U heeft de meest recente versie van MIUI reeds geïnstalleerd.</string>
   <string name="no_updates_warning">Uw systeem is up to date.</string>
   <string name="no_updates_warning2">We laten je het weten als er een update is.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
   <string name="normal_date_format">Regionaal(%s)</string>
-  <string name="normal_smartcover_title">Ondoorzichtige voorklep</string>
+  <string name="normal_smartcover_title">Ondoorzichtig hoesje</string>
   <string name="not_installed">Niet geïnstalleerd</string>
+  <string name="notification_app_settings_button">Meldingsinstellingen</string>
   <string name="notification_breathing_light_color_title">Kleur bij meldingen</string>
   <string name="notification_breathing_light_freq_title">Meldingen LED oplichtingsfrequentie</string>
   <string name="notification_listener_security_warning_summary">%1$s kan alle meldingen lezen die door het systeem of een geïnstalleerde app worden gegenereerd, waaronder mogelijk persoonlijke gegevens zoals de namen van contacten en de tekst van berichten die naar u worden verzonden. De app kan deze meldingen ook sluiten of actieknoppen in de meldingen aanraken.</string>
   <string name="notification_listener_security_warning_title">%1$s inschakelen?</string>
+  <string name="notification_log_title">Meldingslog</string>
   <string name="notification_pulse_title">Knipperen ledlicht</string>
+  <string name="notification_ringtone_title">Standaardmeldingsgeluid</string>
+  <string name="notification_section_header">Melding</string>
+  <string name="notification_settings">Geluid &amp; melding</string>
+  <string name="notification_settings_apps_title">Appmeldingen</string>
   <string name="notification_sound_dialog_title">Standaardmeldingsgeluid</string>
   <string name="notification_sound_title">Standaardmeldingsgeluid</string>
   <string name="notification_volume_option_title">Meldingsvolume</string>
@@ -1942,6 +1953,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="nsd_quick_toggle_summary">Apps op andere apparaten toestaan, apps op dit apparaat te detecteren</string>
   <string name="nsd_quick_toggle_title">Netwerkservicedetectie</string>
   <string name="oem_radio_info_label">OEM specifieke gegevens/instellingen</string>
+  <string name="oem_unlock_enable">OEM ontgrendelen inschakelen</string>
+  <string name="oem_unlock_enable_summary">Toestaan dat het apparaat OEM ontgrendeld kan worden</string>
   <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Nu herstarten?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Lite modus verlaten?</string>
@@ -1961,6 +1974,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="other_advanced_settings">Extra instellingen</string>
   <string name="other_personal_settings">Extra instellingen</string>
   <string name="other_relative">Overige</string>
+  <string name="other_sound_settings">Andere geluiden</string>
   <string name="overlay_display_devices_title">Secundaire beeldschermen simuleren</string>
   <string name="owner_info_settings_edit_text_hint">Typ tekst voor weergave op vergrendelscherm</string>
   <string name="owner_info_settings_summary"/>
@@ -2030,6 +2044,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="permission_mgr">Toestemmingen</string>
   <string name="permissions_label">Toestemmingen</string>
   <string name="personal_data_section_title">Persoonlijke gegevens</string>
+  <string name="personal_device_admin_title">Persoonlijk</string>
   <string name="phone_call_noise_suppression">Geluid onderdrukken tijdens gesprekken</string>
   <string name="phone_info_label">Apparaatinformatie</string>
   <string name="phone_language">Taal</string>
@@ -2053,17 +2068,29 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobiel netwerk</string>
   <string name="power_center">Energiebeheer</string>
+  <string name="power_charge_remaining">%1$s om op te laden</string>
+  <string name="power_charging">%1$d%% - %2$s</string>
+  <string name="power_charging_duration">%1$d%% - %2$s tot volledig opgeladen</string>
+  <string name="power_charging_duration_ac">%1$d%% - %2$s tot volledig opgeladen door AC</string>
+  <string name="power_charging_duration_usb">%1$d%% - %2$s tot volledig opgeladen door USB</string>
+  <string name="power_charging_duration_wireless">%1$d%% - %2$s tot volledig draadloos opgeladen</string>
+  <string name="power_discharge_remaining">%1$s resterend</string>
+  <string name="power_discharging_duration">%1$d%% - ong. %2$s resterend</string>
+  <string name="power_flashlight">Zaklamp</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS</string>
   <string name="power_hide_mode_title">Beheer batterijverbruik van apps</string>
   <string name="power_idle">Telefoon inactief</string>
   <string name="power_mgr">Batterij</string>
   <string name="power_mode">Energie instellingen</string>
   <string name="power_mode_balanced_title">Gebalanceerde energie</string>
+  <string name="power_overcounted">Teveel gerekend</string>
   <string name="power_phone">Gespreksoproepen</string>
   <string name="power_screen">Scherm</string>
   <string name="power_settings_title">Systeemprestaties</string>
+  <string name="power_unaccounted">Diversen</string>
   <string name="power_usage_history">Batterijgebruik</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
+  <string name="power_usage_list_summary">Gebruik sinds laatste keer volledig opgeladen</string>
   <string name="power_usage_not_available">Accugebruikgegevens niet beschikbaar.</string>
   <string name="power_usage_summary">Waarvoor de batterij is gebruikt</string>
   <string name="power_usage_summary_title">Batterij &amp; prestatie</string>
@@ -2086,10 +2113,17 @@ Selecteer het OS van uw computer:"</string>
   <string name="preferred_application_warning_title">Vervang standaard %s</string>
   <string name="preferred_application_warning_use_system">Gebruik %s</string>
   <string name="preferred_media_app_summary">Kies muziekspeler</string>
-  <string name="preferred_sms_settings">Deze app zal worden ingesteld als de standaard app voor het lezen van en maken van een SMS.</string>
-  <string name="preferred_sms_title">Standaard berichten app</string>
+  <string name="preferred_network_offload_footer">Netwerknaam uitzending uitschakelen zorgt ervoor dat derde partijen geen toegang hebben tot je netwerkinformatie.</string>
+  <string name="preferred_network_offload_header">Netwerknaam uitzending uitschakelen</string>
+  <string name="preferred_network_offload_popup">Netwerknaam uitzending uitschakelen verhindert automatische verbinding met verborgen netwerken.</string>
+  <string name="preferred_network_offload_title">Voorkeurs netwerk offload</string>
+  <string name="preferred_network_type_summary">LTE (aanbevolen)</string>
+  <string name="preferred_network_type_title">Voorkeurs netwerktype</string>
+  <string name="preferred_sms_settings">Deze app zal worden ingesteld als de standaard app voor het lezen van en maken van SMS berichten.</string>
+  <string name="preferred_sms_title">Standaard berichtenapp</string>
   <string name="preferred_sms_warning_message">Gebruikt \"%1$s\" als standaard berichten app kan het dataverbruik verhogen of gevaar opleveren voor de veiligheid van uw gegevens.</string>
   <string name="preferred_sms_warning_use_system">Niet gebruiken</string>
+  <string name="primary_sub_select_title">Standaard 4G/3G abonnement</string>
   <string name="print_blocked_state_title_template">%1$s geblokkeerd door printer</string>
   <string name="print_cancel">Annuleren</string>
   <string name="print_cancelling_state_title_template">%1$s annuleren</string>
@@ -2151,7 +2185,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="process_stats_type_background">Achtergrond</string>
   <string name="process_stats_type_cached">In cache</string>
   <string name="process_stats_type_foreground">Voorgrond</string>
+  <string name="processor_info">Processorinfo</string>
   <string name="profile_info_settings_title">Profielinfo</string>
+  <string name="profile_owner_add_title">Profielbeheerder activeren?</string>
   <string name="progress_scanning">Zoeken</string>
   <string name="provider_label">Abonnementen doorvoeren</string>
   <string name="provision_next">Volgende</string>
@@ -2176,6 +2212,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_url">"PAC URL: "</string>
   <string name="proxy_warning_limited_support">De HTTP proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
+  <string name="query_hint_text">Zoekinstellingen</string>
   <string name="quick_launch_assign_application">App toewijzen</string>
   <string name="quick_launch_clear_cancel_button">Annuleren</string>
   <string name="quick_launch_clear_dialog_message">Uw sneltoets voor %1$s(%2$s) wordt gewist.</string>
@@ -2187,6 +2224,11 @@ Selecteer het OS van uw computer:"</string>
   <string name="quick_launch_shortcut">Zoeken + %1$s</string>
   <string name="quick_launch_summary">Snelkoppelingen instellen voor het starten van apps</string>
   <string name="quick_launch_title">Snelstarten</string>
+  <string name="quiet">Niet storen</string>
+  <string name="quiet_group">Niet storen</string>
+  <string name="quiet_important_interruptions_mode">Alleen uitzonderingen toestaan</string>
+  <string name="quiet_mode">Alle onderbrekingen dempen</string>
+  <string name="quiet_off_mode">Altijd onderbrekingen toestaan</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Verbonden</string>
   <string name="radioInfo_data_connecting">Verbinding maken</string>
@@ -2258,7 +2300,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="remove_account_label">Account verwijderen</string>
   <string name="remove_device_admin">Deactiveren</string>
   <string name="remove_from_frequently_fragment">Verwijder %s uit snelle instellingen?</string>
+  <string name="remove_managed_profile_label">Werkprofiel verwijderen</string>
   <string name="repeat">Herhalen</string>
+  <string name="repeat_title">Herhalen</string>
   <string name="reset_app_preferences">Appvoorkeuren herstellen</string>
   <string name="reset_app_preferences_button">Apps herstellen</string>
   <string name="reset_app_preferences_desc">"Hiermee worden alle voorkeuren opnieuw ingesteld voor:  
@@ -2275,6 +2319,7 @@ U verliest geen app gegevens."</string>
   <string name="resource_ringtone_volume_mute">Het geluid is uitgeschakeld</string>
   <string name="restore_default_apn">Standaard APN instellingen herstellen.</string>
   <string name="restore_default_apn_completed">Herstellen van standaard APN instellingen voltooid.</string>
+  <string name="restr_pin_enter_admin_pin">Voer beheerders PIN in</string>
   <string name="restrict_background_data_dialog_summary">Apps die op de achtergrond draaien ontvangen geen berichten</string>
   <string name="restrict_background_data_notification_summary">Apps kunnen geen verbinding maken met het netwerk als de achtergrond data is beperkt</string>
   <string name="restrict_background_data_title">Beperk achtergrond data</string>
@@ -2285,11 +2330,13 @@ U verliest geen app gegevens."</string>
   <string name="restriction_menu_change_pin">PIN code wijzigen</string>
   <string name="restriction_menu_reset">Beperkingen verwijderen</string>
   <string name="restriction_nfc_enable_summary">Gegevensuitwisseling toestaan wanneer het apparaat een ander apparaat fysiek raakt</string>
+  <string name="restriction_nfc_enable_summary_config">Gegevensuitwisseling toestaan wanneer deze %1$s een ander NFC apparaat fysiek raakt</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Beperkingen</string>
   <string name="restriction_wifi_config_summary">Aanpassing van mobiele en Wi-Fi instellingen toestaan</string>
   <string name="restriction_wifi_config_title">Wi-Fi en mobiel</string>
   <string name="retry">Probeer opnieuw</string>
+  <string name="ring_volume_option_title">Belvolume</string>
   <string name="ring_volume_title">Belvolume</string>
   <string name="ringtone_mute">Geen</string>
   <string name="ringtone_slot_setting_title">Enkelvoudige SIM instellingen</string>
@@ -2309,6 +2356,14 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Verwijderde gebruiker</string>
   <string name="running_process_item_user_label">Gebruiker: %1$s</string>
+  <string name="running_processes_header_apps_prefix">Apps</string>
+  <string name="running_processes_header_cached_prefix">Gecachet</string>
+  <string name="running_processes_header_footer">App RAM gebruik</string>
+  <string name="running_processes_header_free_prefix">Beschikbaar</string>
+  <string name="running_processes_header_ram">%1$s RAM</string>
+  <string name="running_processes_header_system_prefix">Systeem</string>
+  <string name="running_processes_header_title">Apparaatopslag</string>
+  <string name="running_processes_header_used_prefix">In gebruik</string>
   <string name="running_processes_item_description_p_p">%1$d processen en %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processen en %2$d service</string>
   <string name="running_processes_item_description_s_p">%1$d proces en %2$d services</string>
@@ -2333,6 +2388,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_key_long_press_timeout">Tijd dat knop ingedrukt moet worden</string>
   <string name="screen_key_press">Druk op navigatieknoppen</string>
   <string name="screen_key_press_action">Trigger functie</string>
+  <string name="screen_locking_sounds_title">Schermvergrendeling geluiden</string>
   <string name="screen_never_timeout_title">Altijd aan</string>
   <string name="screen_on_proximity_sensor_summary">Automatisch vergrendelen  wanneer je hem in je zak steekt</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzakgesprekken</string>
@@ -2357,6 +2413,22 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetverbinding</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst met apps die leesmodus gebruiken automatisch updaten</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch updaten</string>
+  <string name="screen_pinning_description">"Wanneer ingeschakeld, kan je schermpinning gebruiken om het huidige scherm in zicht te houden totdat je unpint.
+ 
+Om schermpinning te gebruiken:
+ 
+1. Zorg ervoor dat schermpinning is ingeschakeld.
+ 
+2. Open het scherm dat je wilt pinnen.
+ 
+3. Druk op overzicht.
+ 
+4. Druk op het pinicoon."</string>
+  <string name="screen_pinning_title">Schermpinning</string>
+  <string name="screen_resolution_confirm">Opnieuw opstarten</string>
+  <string name="screen_resolution_summary">Het verlagen van de resolutie van het scherm kan het batterijleven en systeemsnelheid verbeteren, maar het scherm kan minder helder zijn. De telefoon moet opnieuw opgestart worden om deze wijzigingen toe te passen.</string>
+  <string name="screen_resolution_switch">Verander resolutie</string>
+  <string name="screen_resolution_title">Schermresolutie</string>
   <string name="screen_saturation">Kleurverzadiging</string>
   <string name="screen_timeout">Slapen</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
@@ -2440,6 +2512,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="search_wifi_display">Wi-Fi scherm</string>
   <string name="secure_keyguard_business_title">Wachtwoord vergrendelscherm</string>
+  <string name="secure_lock_encryption_warning">Omdat je een toegankelijkheidsservice hebt ingeschakeld, gebruikt je apparaat geen schermvergrendeling om de gegevensversleuteling te verbeteren.</string>
   <string name="security_enable_widgets_disabled_summary">Uitgeschakeld door beheerder</string>
   <string name="security_enable_widgets_title">Widgets inschakelen</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
@@ -2456,6 +2529,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_application">App selecteren</string>
   <string name="select_device_admin_msg">Apparaatbeheerders</string>
+  <string name="select_logd_size_dialog_title">Selecteer loggergrootten per logbuffer</string>
   <string name="select_logd_size_title">Logger buffergrootten</string>
   <string name="select_runtime_dialog_title">Runtime selecteren</string>
   <string name="select_runtime_title">Runtime selecteren</string>
@@ -2492,6 +2566,11 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="settings_safetylegal_activity_unreachable">U heeft geen gegevensverbinding. Als u deze informatie nu wilt weergeven, gaat u op een computer met internetverbinding naar %s.</string>
   <string name="settings_safetylegal_title">Veiligheidsinformatie</string>
   <string name="settings_shortcut">Instellingen voor snelkoppeling</string>
+  <string name="setup_wifi_nfc_tag">Wi-Fi NFC tag instellen</string>
+  <string name="setup_wizard_back_button_label">Terug</string>
+  <string name="setup_wizard_next_button_label">Volgende</string>
+  <string name="severe_threats_summary">Waarschuwingen weergeven voor ernstige bedreigingen voor leven en eigendommen</string>
+  <string name="severe_threats_title">Ernstige bedreigingen</string>
   <string name="show_all_anrs">"Alle ANR's weergeven"</string>
   <string name="show_all_anrs_summary">"'App reageert niet' weergeven voor apps op achtergrond"</string>
   <string name="show_background_processes">Gecachte processen weergeven</string>
@@ -2518,14 +2597,43 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="show_touches_summary">Visuele feedback voor aanraakbewerkingen weergeven</string>
   <string name="show_user_info_on_lockscreen_label">Gebruikersgegevens weergeven op vergrendelscherm</string>
   <string name="silent_mode_title">Stille modus</string>
-  <string name="sim_bad_pin">Een PIN code invoeren van 4 tot 8 cijfers</string>
+  <string name="sim_absent">Geen SIM/RUIM</string>
+  <string name="sim_bad_pin">PIN code moet 4 tot 8 cijfers lang zijn</string>
+  <string name="sim_call_back_title">Terugbellen van standaard SIM</string>
+  <string name="sim_calls_always_use">Altijd deze gebruiken voor oproepen</string>
+  <string name="sim_calls_ask_first_prefs_title">Eerst vragen</string>
+  <string name="sim_card_number_title">SIM %1$d</string>
+  <string name="sim_card_select_title">Selecteer SIM kaart</string>
+  <string name="sim_cards_changed_message">SIM kaarten zijn veranderd</string>
+  <string name="sim_cards_changed_message_summary">Raak aan om activiteiten in te stellen</string>
+  <string name="sim_cellular_data_unavailable">Mobiele data is niet beschikbaar</string>
+  <string name="sim_cellular_data_unavailable_summary">Raak aan om een data SIM te selecteren</string>
   <string name="sim_change_failed">"Kan PIN code niet wijzigen.
 PIN code mogelijk onjuist."</string>
   <string name="sim_change_failed_enable_sim_lock">Schakel SIM vergrendeling in om de PIN code aan te passen</string>
   <string name="sim_change_pin">SIM PIN code</string>
   <string name="sim_change_succeeded">SIM PIN code gewijzigd</string>
   <string name="sim_disable_sim_lock">SIM kaart ontgrendelen</string>
+  <string name="sim_disabled">uitgeschakeld</string>
+  <string name="sim_editor_carrier">Provider</string>
+  <string name="sim_editor_color">SIM kleur</string>
+  <string name="sim_editor_name">SIM naam</string>
+  <string name="sim_editor_num_format">Nummers weergeven</string>
+  <string name="sim_editor_number">Nummer</string>
+  <string name="sim_editor_title">SIM kaart</string>
+  <string name="sim_enable_disable_lock_not_supported">"Niet in staat om SIM/RUIM vergrendeling te wijzigen.
+ SIM/RUIM ondersteunt het niet."</string>
   <string name="sim_enable_sim_lock">SIM kaart vergrendelen</string>
+  <string name="sim_enabled">ingeschakeld</string>
+  <string name="sim_enabler_airplane_on">FOUT, vliegmodus is ingeschakeld!</string>
+  <string name="sim_enabler_both_inactive">Fout, kan niet alle SIMs uitschakelen</string>
+  <string name="sim_enabler_disabling">Deactiveren...</string>
+  <string name="sim_enabler_enabling">Activeren...</string>
+  <string name="sim_enabler_in_call">FOUT, in gesprek!</string>
+  <string name="sim_enabler_need_disable_sim">De SIM deactiveren, weet je het zeker?</string>
+  <string name="sim_enabler_need_enable_sim">De SIM activeren, weet je het zeker?</string>
+  <string name="sim_enabler_summary">SIM is %1$s</string>
+  <string name="sim_enabler_title">SIM Enablers</string>
   <string name="sim_enter_cancel">Annuleren</string>
   <string name="sim_enter_new">Nieuwe SIM PIN code</string>
   <string name="sim_enter_ok">OK</string>
