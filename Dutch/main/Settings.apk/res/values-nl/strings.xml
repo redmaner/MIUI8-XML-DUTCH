@@ -665,7 +665,7 @@ Uitzenden gebruikt energiezuinige Bluetooth signalen."</string>
   <string name="change_password">Wachtwoord wijzigen</string>
   <string name="change_security_lock">Probeer andere manieren om te ontgrendelen</string>
   <string name="check_update">Controleer op updates</string>
-  <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende gesprekken gebruiken voor meldingen</string>
+  <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
   <string name="checking_for_updates">Controleren op updates…</string>
   <string name="children_mode_enable_title">Kindermodus</string>
   <string name="children_mode_set_apps_title">Toegankelijke apps</string>
@@ -1116,7 +1116,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="drive_mode_calling_auto_sms_reply">Beantwoord gesprekken</string>
   <string name="drive_mode_invert_stop_report">Schakel telefoon over naar stille modus</string>
   <string name="drive_mode_only_contact_reply">Beantwoord alleen contactpersonen</string>
-  <string name="drive_mode_phone_report">Informatie over inkomende gesprekken</string>
+  <string name="drive_mode_phone_report">Informatie over inkomende oproepen</string>
   <string name="drive_mode_settings">Auto mode instellingen</string>
   <string name="drive_mode_sms_auto_sms_reply">Beantwoord SMS</string>
   <string name="drive_mode_sms_report">Berichten</string>
@@ -1740,9 +1740,9 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="mem_use_total">Totaal</string>
   <string name="mem_use_zram_type">ZRam swap</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Apps(appgegevens en media inhoud)</string>
+  <string name="memory_apps_usage">Apps (appgegevens en media inhoud)</string>
   <string name="memory_available">Beschikbaar</string>
-  <string name="memory_available_read_only">Beschikbaar(alleen lezen)</string>
+  <string name="memory_available_read_only">Beschikbaar (alleen lezen)</string>
   <string name="memory_calculating_size">Berekenen…</string>
   <string name="memory_clear_cache_message">Hiermee worden gegevens in het cachegeheugen voor alle apps gewist.</string>
   <string name="memory_clear_cache_title">Gegevens in het cachegeheugen wissen?</string>
@@ -1751,7 +1751,7 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="memory_media_cache_usage">Gegevens in het cachegeheugen</string>
   <string name="memory_media_misc_usage">Diversen</string>
   <string name="memory_media_usage">Media</string>
-  <string name="memory_music_usage">Audio(muziek, beltonen, podcasts, enzovoort)</string>
+  <string name="memory_music_usage">Audio (muziek, beltonen, podcasts, enzovoort)</string>
   <string name="memory_size">Totale ruimte</string>
   <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Totaal: %2$s</string>
   <string name="menu_cancel">Annuleren</string>
@@ -2226,8 +2226,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="quiet">Niet storen</string>
   <string name="quiet_group">Niet storen</string>
   <string name="quiet_important_interruptions_mode">Alleen uitzonderingen toestaan</string>
-  <string name="quiet_mode">Alle onderbrekingen dempen</string>
-  <string name="quiet_off_mode">Altijd onderbrekingen toestaan</string>
+  <string name="quiet_mode">Alle storingen dempen</string>
+  <string name="quiet_off_mode">Storingen altijd toestaan</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Verbonden</string>
   <string name="radioInfo_data_connecting">Verbinding maken</string>
@@ -2389,7 +2389,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_key_press_action">Trigger functie</string>
   <string name="screen_locking_sounds_title">Schermvergrendeling geluiden</string>
   <string name="screen_never_timeout_title">Altijd aan</string>
-  <string name="screen_on_proximity_sensor_summary">Automatisch vergrendelen  wanneer je hem in je zak steekt</string>
+  <string name="screen_on_proximity_sensor_summary">Telefoon kan niet worden ontgrendeld wanneer hij in je broekzak zit</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzakgesprekken</string>
   <string name="screen_optimize">Contrast</string>
   <string name="screen_paper_mode_adjust_level">Sterkte</string>
@@ -3233,7 +3233,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_connect_cmcc_dialog_confirm">Ok</string>
   <string name="wifi_connect_cmcc_dialog_content">Verbinden met CMCC netwerk data services.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Niet opnieuw tonen</string>
-  <string name="wifi_connect_cmcc_dialog_title">Data gebruiks melding</string>
+  <string name="wifi_connect_cmcc_dialog_title">Waarschuwing dataverbruik</string>
   <string name="wifi_connect_failed_message">Het apparaat kan geen verbinding maken met dit Wi-Fi netwerk.</string>
   <string name="wifi_context_menu_change_password">Verander wachtwoord</string>
   <string name="wifi_context_menu_change_wapi_certificate">Verander WAPI certificaat</string>

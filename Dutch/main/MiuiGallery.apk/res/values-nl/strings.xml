@@ -11,7 +11,7 @@
   <string name="add_event">Evenement toevoegen</string>
   <string name="add_event_hint">Voer label in</string>
   <string name="add_sharer">Lid toevoegen</string>
-  <string name="add_to_cloud_album">Aan album toevoegen</string>
+  <string name="add_to_cloud_album">Toevoegen aan album</string>
   <string name="add_to_cloud_exceeded_the_size_message">Bestand is te groot</string>
   <string name="add_to_cloud_failed_message_with_count">"%2$s items kunnen niet aan de cloud worden toegevoegd: %1$s."</string>
   <string name="add_to_cloud_file_exist_message">Foto bestaat reeds in geselecteerde album.</string>
@@ -92,7 +92,7 @@
   <string name="baby_album_sharers_page_title">Delen met familie</string>
   <string name="baby_birthday">Verjaardag</string>
   <string name="baby_lock_wallpaper">Achtergrond vergrendelscherm</string>
-  <string name="baby_lock_wallpaper_cancelled">Standaard vergrendelschermachtergrond hersteld</string>
+  <string name="baby_lock_wallpaper_cancelled">Standaard achtergrond vergrendelscherm hersteld</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Huidige instellingen toepassen?</string>
   <string name="baby_lock_wallpaper_title">Babyfoto\'s gebruiken als achtergrond vergrendelscherm</string>
   <string name="baby_name_cannot_empty">Naam invoeren</string>
@@ -121,10 +121,10 @@
   <string name="calculated_pictures_time_tip">Tot nu toe gesorteerde foto\'s van %1$s. Resterende foto\'s zullen geleidelijk gesorteerd worden. Om dit proces te versnellen, %2$s</string>
   <string name="calculated_pictures_time_tip_for_no_vip">Tot nu toe gesorteerde foto\'s van %1$s. Resterende foto\'s zullen geleidelijk gesorteerd worden.</string>
   <string name="calculated_pictures_time_tip_for_vip">Tot nu toe gesorteerde foto\'s van %1$s. Resterende foto\'s zullen binnenkort gesorteerd worden.</string>
-  <string name="camera_black_white">Zwart &amp;Wit</string>
+  <string name="camera_black_white">Zwart &amp; Wit</string>
   <string name="camera_connected">Camera aangesloten.</string>
   <string name="camera_disconnected">Camera losgekoppeld.</string>
-  <string name="camera_folder_display_name">Camera foto\'s</string>
+  <string name="camera_folder_display_name">Camerafoto\'s</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Achtergrond</string>
   <string name="camera_view_none_message">Foto\'s en video\'s die u met de camera maakt zullen hier worden weergegeven.</string>
@@ -190,7 +190,7 @@
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Zeker dat dit &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet is? Dit gezicht zal na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;zijn? Deze gezichten zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet zijn? Deze gezichten zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
-  <string name="contact_photo">Stel foto in voor contactpersoon</string>
+  <string name="contact_photo">Foto instellen voor contactpersoon</string>
   <string name="context_menu_add_contact">Toevoegen aan contactpersonen</string>
   <string name="context_menu_copy">Kopiëren</string>
   <string name="context_menu_copy_notice">Gekopiëerd naar het klembord</string>
@@ -452,7 +452,7 @@
   <string name="mishop_saved_folder_display_name">Mi Store</string>
   <string name="miui_capture_screen_folder_display_name">Schermafdrukken</string>
   <string name="miui_wallpaper">Achtergrond</string>
-  <string name="modified_time">Aangepaste tijd</string>
+  <string name="modified_time">Aangepast</string>
   <string name="moman">Moman Camera</string>
   <string name="moman_camera_drawing">Moman Camera tekening</string>
   <string name="moman_camera_icon">Moman Camera emoticons</string>
@@ -503,7 +503,7 @@
   <string name="open_single_image_failure">Kan afbeelding niet laden</string>
   <string name="open_sync_title">Sync. inschakelen</string>
   <string name="operation_add_picture">Items toevoegen</string>
-  <string name="operation_add_secret">Toegevoegd aan verborgen album</string>
+  <string name="operation_add_secret">Toevoegen aan verborgen album</string>
   <string name="operation_delete_confirm_message_folder">Volledige mapinhoud wordt verwijderd.</string>
   <string name="operation_failed">Uitvoering mislukt</string>
   <string name="operation_give_name">Naam</string>
@@ -513,7 +513,7 @@
   <string name="operation_remove_secret">Verwijdereen uit verborgen album</string>
   <string name="operation_rename">Naam wijzigen</string>
   <string name="operation_rename_baby">Naam invoeren</string>
-  <string name="operation_set_as_screensaver">Stel in als schermbeveiliging</string>
+  <string name="operation_set_as_screensaver">Instellen als schermbeveiliging</string>
   <string name="operation_share">Deel</string>
   <string name="operation_successful">Gereed</string>
   <string name="operation_too_often">De handeling wordt te vaak uitgevoerd, probeer het opnieuw over 1 minuut.</string>
@@ -650,8 +650,8 @@
   <string name="set_label_local_albums">Offline</string>
   <string name="set_label_mtp_devices">MTP apparaten</string>
   <string name="set_lock_and_wallpaper">Instellen als achtergrond…</string>
-  <string name="set_lock_or_wallpaper">Stel in als achtergrond</string>
-  <string name="set_lockscreen">Instellingen achtergrond</string>
+  <string name="set_lock_or_wallpaper">Instellen als achtergrond</string>
+  <string name="set_lockscreen">Achtergrond instellen…</string>
   <string name="set_recent_album">Markeer als favoriet</string>
   <string name="set_screensaver_path_message">Foto\'s in dit album worden weergeven in de schermbeveiliging.</string>
   <string name="set_screensaver_path_message_if_only_charging">Foto\'s in dit album worden weergeven in de schermbeveiliging tijdens het opladen.</string>
@@ -682,7 +682,7 @@
   <string name="size_above">%1$s of groter</string>
   <string name="size_below">%1$s of kleiner</string>
   <string name="size_between">%1$s tot %2$s</string>
-  <string name="skip_hide_special_album">Systeem albums(Camera, schermafdrukken, alle video\'s) kunnen niet worden verborgen.</string>
+  <string name="skip_hide_special_album">Systeemalbums (Camera, schermafdrukken, alle video\'s) kunnen niet worden verborgen.</string>
   <string name="slideshow_category">Diavoorstelling</string>
   <string name="slideshow_dream_name">Diavoorstelling</string>
   <string name="slideshow_interval">Toon iedere dia</string>
@@ -691,7 +691,7 @@
   <string name="slideshow_repeat_mode">Lus</string>
   <string name="sports_camera">Sport Camera</string>
   <string name="square">Vierkant</string>
-  <string name="start_slide_show">Start diavoorstelling</string>
+  <string name="start_slide_show">Diavoorstelling starten</string>
   <string name="start_to_use_face_albumset">Sorteren op personen</string>
   <string name="storage_all_volumes">Alle opslagapparaten</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
@@ -716,7 +716,7 @@
   <string name="tab_lockscreen_text">Vergrendelscherm</string>
   <string name="tab_wallpaper_text">Startscherm</string>
   <string name="tags">Labels</string>
-  <string name="taken_time">Gebruikte tijd</string>
+  <string name="taken_time">Gemaakt op</string>
   <string name="temperature">Hue</string>
   <string name="tencent_mobile_qq_img_save">QQ 2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
@@ -744,7 +744,7 @@
   <string name="unpublishing">Annuleren…</string>
   <string name="untagged">Geen tags</string>
   <string name="upgrade_micloud_space">Verkrijg meer ruimte</string>
-  <string name="user_agreement">" Algemene Voorwaarden"</string>
+  <string name="user_agreement">"Algemene Voorwaarden"</string>
   <string name="user_alias_self">Zelf</string>
   <string name="user_policy">Privacybeleid</string>
   <string name="video_err">Video afspelen mislukt.</string>
