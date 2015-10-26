@@ -159,6 +159,7 @@
   <string name="archive">Archiveren</string>
   <string name="archived">Gearchiveerd</string>
   <string name="att_download_failed_content">Download mislukt</string>
+  <string name="att_download_failed_network_slow">Netwerk is traag, probeer het later opnieuw te downloaden</string>
   <string name="att_download_failed_title">Download van bijlage mislukt</string>
   <string name="att_file_not_exists">Kon %s bestand niet vinden</string>
   <string name="att_mgr_no_attachment">Geen bijlagen</string>
@@ -202,6 +203,13 @@
   <string name="bottom_bar_more_share">Delen</string>
   <string name="bottom_bar_no_quickreply_toast">Geen snel antwoord</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Herrineren</string>
+  <string name="calendar_remind_gridview_month_later">Volgende maand</string>
+  <string name="calendar_remind_gridview_nextweek">Volgende week</string>
+  <string name="calendar_remind_gridview_pick_date">Kies een datum</string>
+  <string name="calendar_remind_gridview_tomorrow">Morgen</string>
+  <string name="calendar_remind_gridview_tonight">Vanavond</string>
+  <string name="calendar_remind_gridview_weekend">Weekend</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cant_move_or_change_labels">Verplaatsen is niet mogelijk. Selectie bevat meerdere accounts.</string>
@@ -226,7 +234,7 @@
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
   <string name="compose">Opstellen</string>
-   <string name="compose_attachment_number_limit">Het aantal bijlagen mag niet groter zijn dan 10!</string>
+   <string name="compose_attachment_number_limit">kan niet meer dan 10 bijlagen toevoegen</string>
   <string name="compose_picturesexceedlimits">Kan niet meer dan 5 in lijn afbeeldingen in bericht overschreiden</string>
   <string name="compose_send">Verzenden</string>
   <string name="compose_sent">Verzonden</string>
@@ -413,7 +421,7 @@
   <string name="gmail_acceleration">Gebruik proxy server voor Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Proxy server gebruiken voor toegang tot je Gmail Account?</string>
   <string name="gmail_login_failed_non_proxy_title">Toegang tot Gmail server mislukt</string>
-  <string name="gmail_server_authorization_deleted">Toegangsauthorisatie halen mislukt, probeer opnieuw.</string>
+  <string name="gmail_server_authorization_deleted">Kon account niet verifiëren. Probeer dit account opnieuw toe te voegen..</string>
   <string name="gmail_web_login_go">Ok</string>
   <string name="gmail_web_login_required_message">Aanmelden bij Gmail</string>
   <string name="header_category_account">Account instellingen</string>
@@ -566,13 +574,13 @@
   <string name="outbox_alert_certificate_error">Contacteer je email systeemadministrator en update je certificaat.</string>
   <string name="outbox_alert_description_auth_error">Autorisatiefout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_cannot_authenticate">Kon %s niet authenticeren</string>
-  <string name="outbox_alert_description_fail_network">Netwerk afwijkingen.</string>
+  <string name="outbox_alert_description_fail_network">Kon niet verbinden met netwerk.</string>
   <string name="outbox_alert_description_http_error">HTTP fout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_insufficient_storage_error">Onvoldoende ruimte op de e-mailserver</string>
   <string name="outbox_alert_description_provision_error">Oorzaak: Provisie fout van de server tijdens het sync. van Postvak Uit </string>
   <string name="outbox_alert_description_reject_by_server">Geweigerd door %s</string>
   <string name="outbox_alert_description_sent_failed">Grootte van de bijlage heeft het limiet van de server overschreden.</string>
-  <string name="outbox_alert_duplicate_click">Bezig met synchroniseren</string>
+  <string name="outbox_alert_duplicate_click">Bezig met verzenden…</string>
   <string name="outbox_alert_edit_resend">Bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_failed_edit_resend">Niet verzonden, bewerken en opnieuw verzenden</string>
   <string name="outbox_alert_mailbox_not_found">E-mailadres niet gevonden</string>
@@ -706,6 +714,7 @@
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Ster verwijderen</string>
   <string name="reply">Beantw.</string>
+  <string name="reply_add_bodycontent">Snel antwoord toevoegen aan bericht inhoud??</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="report_phishing">Phishing melden</string>
@@ -715,8 +724,8 @@
   <string name="save_action">Opslaan</string>
   <string name="save_attachment">Opslaan</string>
   <string name="save_draft_failed">Concept opslaan mislukt</string>
-  <string name="save_power_summary">Bespaar batterij door tijd in te stellen</string>
-  <string name="save_power_title">Batterijbesparingsmodus</string>
+  <string name="save_power_summary">Tijdschema opmaken om batterij verbruik te verminderen</string>
+  <string name="save_power_title">Batterij bespaarder</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="sdcard_cannot_use">Kan SD kaart niet gebruiken</string>
