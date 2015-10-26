@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="all_call_livetalk_enable">Gebruik herlaad pakketten voor binnenlandse en internationale gesprekken</string>
-  <string name="all_call_livetalk_remain_mins">Overblijvende minuten: (%1$s Binnenlands) | (%2$s %3$s)</string>
+  <string name="all_call_livetalk_enable">Herlaad pakketten gebruiken voor nationale en internationale gesprekken</string>
+  <string name="all_call_livetalk_remain_mins">Overblijvende minuten: %1$s nationaal | %2$s internationaal</string>
   <string name="alwaysUsePrompt">Keuze herinneren</string>
   <string name="apply_password_action">Wachtwoord instellen</string>
   <string name="apply_password_confirm_dlg_msg">Een wachtwoord nodig voor %s​?</string>
@@ -15,6 +15,7 @@
   <string name="cancel_action">Annuleren</string>
   <string name="copy">Kopiëren</string>
   <string name="cut">Knippen</string>
+  <string name="enable_livetalk">Herladen pakket inschakelen</string>
   <string name="fc_dialog_body">Bug rapport verzenden naar Mi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug te helpen oplossen en zal nooit worden gedeeld in een commerciële context.</string>
   <string name="fc_dialog_jump_to_preview">Sammenvatting bekijken</string>
   <string name="first_back_long_press_message">"Druk op &amp; en houd de knop Terug ingedrukt om huidig proces en de achtergronddiensten te stoppen.
@@ -31,12 +32,13 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"<
   <string name="handy_mode_enter_dlg_title">Naar een-hand modus gaan</string>
   <string name="handy_mode_summary">Om te sluiten, tik op een donkere plaats</string>
   <string name="handy_mode_title">Een-hand modus</string>
-  <string name="internal_livetalk_enable">Gebruik herlaad pakketten voor binnenlandse gesprekken</string>
-  <string name="internal_remain_mins">%1$s overblijvende minuten (binnenlandse gesprekken)</string>
-  <string name="international_livetalk_enable">Gebruik herlaad pakketten voor internationale gesprekken</string>
-  <string name="international_remain_mins">%1$s overblijvende minuten (%2$s gesprekken)</string>
+  <string name="internal_livetalk_enable">Herlaad pakketten gebruiken voor nationale gesprekken</string>
+  <string name="internal_remain_mins">%1$s overblijvende minuten (nationale)</string>
+  <string name="international_livetalk_enable">Herlaad pakketten gebruiken voor internationale gesprekken</string>
+  <string name="international_remain_mins">%1$s overblijvende minuten (%2$s)</string>
   <string name="key_btn_ok">Ok</string>
   <string name="key_btn_space">Ruimte</string>
+  <string name="livetalk_not_enable">Herladen pakket uitschakelen</string>
   <string name="location_usage_restricted_body">Aanraken om beperkingen te verwijderen.</string>
   <string name="location_usage_restricted_title">Achtergrond locatie beperking</string>
   <string name="lockscreen_access_pattern_cell_added">Cel toegevoegd</string>
