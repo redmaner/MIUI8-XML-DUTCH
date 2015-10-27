@@ -1,14 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="achieve_condition">Uitgereikt voor:</string>
+  <string name="achieved">VERDIENDE</string>
+  <string name="achieved_time">Verdiend op %s</string>
+  <string name="achievement_progress" formatted="false">Voortuitgang: %d/%d</string>
+  <string name="achievements">Onderscheidingen</string>
+  <string name="acquired_time_x">Ontvangen op %s</string>
   <string name="action">Bekijk</string>
   <string name="already_used">Gebruikt</string>
   <string name="app_name">Mi Vip</string>
   <string name="award_taken">Verzamelde punten</string>
   <string name="award_time">Verzammeld op %s</string>
   <string name="awarded_package_is_expired">Vervallen</string>
-  <string name="awarded_package_was_redeemed">Inwisselen</string>
+  <string name="awarded_package_was_redeemed">Ingewisseld</string>
+  <string name="awards">Prijzen</string>
   <string name="browse">Weergeven</string>
   <string name="buff_enable">[ inschakelen ]</string>
+  <string name="copy_and_use">Inwisselen</string>
   <string name="cube_ptr_hours_ago"> uren geleden</string>
   <string name="cube_ptr_last_update">Laatste update: </string>
   <string name="cube_ptr_minutes_ago"> minuten geleden</string>
@@ -18,12 +26,22 @@
   <string name="cube_ptr_refreshing">Updaten…</string>
   <string name="cube_ptr_release_to_refresh">Loslaten om te vernieuwen</string>
   <string name="cube_ptr_seconds_ago"> seconden geleden</string>
+  <string name="daily_task">Dagelijkse uitdagingen</string>
   <string name="days">%dd</string>
+  <string name="device_answer_phone_times">Gesprekken beantwoord</string>
+  <string name="device_charge_times">Aantal keer aangerekend</string>
+  <string name="device_unlock_screen_times">Scherm ontgrendeld</string>
+  <string name="device_usage_data">Telefoon gebruiksstatistieken</string>
+  <string name="download_message">%s downloaden?</string>
+  <string name="download_progress">%d%%</string>
+  <string name="download_title">Deze app downloaden?</string>
+  <string name="downloading">Bezig met downloaden…</string>
   <string name="exp_buff">+%s%% punten</string>
   <string name="experience">Ptn</string>
   <string name="expired">Vervallen</string>
   <string name="fail_reach_server">Kan niet verbinden met de server</string>
   <string name="giveup">Opgeven</string>
+  <string name="go">Bekijk vooruitgang</string>
   <string name="hello">Hallo</string>
   <string name="hours">%dh</string>
   <string name="in_progress">Verzoeken…</string>
@@ -33,18 +51,22 @@
   <string name="level_exp_value" formatted="false">Punten: %d/%d</string>
   <string name="level_info_format" formatted="false">"Niveau %d %d/%d
 %s"</string>
+  <string name="limit_task">Gelimiteerde uitdagingen</string>
+  <string name="limit_task_format" formatted="false">%d/%d</string>
   <string name="millis">%dms</string>
   <string name="minutes">%dm</string>
   <string name="my_award">Mijn prijzen</string>
+  <string name="no_achievements">Leeg.</string>
   <string name="no_app">Installeer de app eerst</string>
   <string name="no_award">Geen prijzen</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_task">Alle uitdagingen zijn voltooid</string>
   <string name="passive_task">Achtergrond uitdagingen</string>
   <string name="privilege">Privileges</string>
-  <string name="promote">Vervolledig alle uitdagingen om punten te verdienen</string>
+  <string name="promote">Taken updaten</string>
   <string name="query_level_fail">Kon info niet verkrijgen</string>
   <string name="query_user_tasks_fail">Kan uitdagings info niet verkrijgen</string>
+  <string name="redeem">Inwisselen</string>
   <string name="seconds">%d seconden</string>
   <string name="start_activity_error">"Kan app niet starten: %s"</string>
   <string name="take_awarded_package">Inwisselen</string>
@@ -60,11 +82,11 @@
   <string name="task_select_title">Kies een uitdaging</string>
   <string name="task_start">Start</string>
   <string name="task_take_award">Ontvang prijzen</string>
-  <string name="today_task">Uitdagingen vandaag</string>
-  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unachieved">BESCHIKBAAR</string>
   <string name="unlimited_task">Speciale uitdagingen</string>
   <string name="upgraded">Account geügrade</string>
   <string name="use">Gebruik</string>
+  <string name="use_immediately">Nu gebruiken</string>
   <string name="validity">vervald op %s</string>
   <string name="validity_unknown">Vervalling onbekend</string>
 </resources>
