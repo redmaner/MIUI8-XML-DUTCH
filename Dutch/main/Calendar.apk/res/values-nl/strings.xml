@@ -48,7 +48,6 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_metric"/>
-  <string name="birthday_notice_message">Verjaardaggegevens nodig om met netwerk te verbinden voordat u deze bekijkt. Akkoord?</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">Nog 3 dagen tot de %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">Felicitaties niet vergeten!</string>
@@ -100,6 +99,7 @@
   <string name="delete_topic_dialog_title">Bevestigen dat u zich wilt afmelden\"%s\"</string>
   <string name="delete_topic_success">Uitschrijven\"%s\"gelukt</string>
   <string name="deleting_calendar">Uitschrijven</string>
+  <string name="departure">Vertrekstijd</string>
   <string name="description_label">Beschrijving</string>
   <string name="directory_searching_fmt">%s zoeken…</string>
   <string name="discard_label">Annuleren</string>
@@ -147,10 +147,12 @@
   <string name="event_view">Afspraak weergeven</string>
   <string name="every_weekday">Werkdagen (ma-vr)</string>
   <string name="exist_calendar">Geabonneerd</string>
+  <string name="free_day_default_banner_title">Geniet nu van een geweldige vakantie!</string>
   <string name="from_google_group_calendar">Google kalender</string>
   <string name="gadget_no_events">Geen lopende agenda afspraken</string>
   <string name="gadget_title">Agenda</string>
   <string name="goto_today">Vandaag</string>
+  <string name="guide_card_hint_text">Klik in het abonnement en ontdek een prachtig leven!</string>
   <string name="hide_controls">Bediening verbergen</string>
   <string name="hint_attendees">Gasten</string>
   <string name="hint_description">Beschrijving</string>
@@ -204,11 +206,11 @@
   <string name="not_exist_topic_list">Staat niet in lijst van geabonneerde kalender</string>
   <string name="not_synced">Niet gesynchroniseerd</string>
   <string name="notice_button_ok">Instemmen</string>
-  <string name="notice_button_ok_and_go_on">Akkoord  en doorgaan</string>
   <string name="notice_title_agreement">Algemene voorwaarden</string>
   <string name="notice_title_request">Verzoek</string>
   <string name="notification_online">%1$s: %2$s Nieuw evenement</string>
   <string name="online_calendar_activity_label">Abonneren op kalender</string>
+  <string name="online_notice_message">"Door het gebruik van dit product, bent u akkoord met ons %1$s en %2$s. Deze app heeft verbinding met het internet nodig om normaal te werken."</string>
   <string name="online_reminder_change_text">Herinnering wijzigen</string>
   <string name="online_reminder_header_text">Herinnering</string>
   <string name="online_reminder_minutes_text">Tijds herinnering</string>
@@ -320,7 +322,9 @@
   <string name="timezone_label">Tijdzone</string>
   <string name="today">Vandaag</string>
   <string name="today_at_time_fmt">Vandaag om %s</string>
-  <string name="today_no_events">Geen afspraken deze dag</string>
+  <string name="today_flight_event">Vlucht</string>
+  <string name="today_no_events">Geen afspraken</string>
+  <string name="today_train_event">Trein</string>
   <string name="tomorrow">Morgen</string>
   <string name="tomorrow_at_time_fmt">Morgen om %s</string>
   <string name="topic_dialog_title">Inschrijven Uitschrijven</string>
@@ -349,7 +353,6 @@
   <string name="travel_loaded">Powered by Veryzhun</string>
   <string name="travel_loading">Een momentje…</string>
   <string name="travel_local">Bestemming</string>
-  <string name="travel_notice_message">Kalender moet verbonden zijn met internet en toegang hebben tot uw locatie om  de reisinformatie weer te geven.</string>
   <string name="travel_seat_number_text">Plaats</string>
   <string name="travel_train_number_text">Trein</string>
   <string name="travel_train_station">Treinstation</string>
@@ -366,6 +369,7 @@
   <string name="widget_events">Volgende afspraak</string>
   <string name="widget_no_events">Geen afspraken</string>
   <string name="widget_select_style">Kies een stijl</string>
+  <string name="work_day_default_banner_title">Dat geld niet stoppen, overwerk stoppen!</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Vijf</string>
   <string name="xiaomi_calendar_display_name">Mi Account kalender</string>
