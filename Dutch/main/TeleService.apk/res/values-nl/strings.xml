@@ -181,6 +181,8 @@
   <string name="china_mobile">China Mobile</string>
   <string name="china_telecom">China Telecom</string>
   <string name="china_unicom">China Unicom</string>
+  <string name="chose_product_summary">Bel goedkoper</string>
+  <string name="chose_product_title">Pakket herladen</string>
   <string name="clir_choices_hide_number">Verberg nummer</string>
   <string name="clir_choices_network_default">Netwerkstandaard</string>
   <string name="clir_choices_show_number">Toon nummer</string>
@@ -507,6 +509,7 @@
   <string name="load_networks_progress">Zoeken…</string>
   <string name="load_rates_failed">Kon niet laden</string>
   <string name="loading">Een momentje…</string>
+  <string name="loading_product">Een momentje…</string>
   <string name="loading_recent_failed">Kon niet laden</string>
   <string name="local_disable">Lokaal nieuws uitgeschakeld</string>
   <string name="local_enable">Lokaal nieuws ingeschakeld</string>
@@ -710,7 +713,6 @@
   <string name="place_a_call2">Inschrijving 2</string>
   <string name="place_a_call3">Inschrijving 3</string>
   <string name="please_choose_the_duration">Kies een tijdsduur.</string>
-  <string name="please_choose_the_refueling_package">Kies herlaad pakket</string>
   <string name="port_title">Poortnummer</string>
   <string name="preference_auto_ip_summary_disable">Uitgeschakeld</string>
   <string name="preference_category_ringtone">Beltoon en trillen</string>
@@ -755,21 +757,20 @@
   <string name="puk_unlock_success">PUK ontgrendeling gelukt.</string>
   <string name="puk_unlocked">Uw SIM kaart is gedeblokkeerd. Uw telefoon wordt ontgrendeld...</string>
   <string name="purchase">Aankoop</string>
-  <string name="purchase_confirm">Aankoop</string>
+  <string name="purchase_description_summary">"- Ongelimiteerde provider, ongelimiteerd gebied;
+- Geen conflict met provider diensten;
+- Meteen na herladen, nooit gewist;
+- Simpel, direkt te gebruiken."</string>
+  <string name="purchase_description_title">Beschrijving</string>
   <string name="purchase_limit">Je hebt je herlaad limiet bereikt</string>
   <string name="purchase_list">Aankoop geschiedenis</string>
   <string name="purchase_notification">"De prijzen hierboven zijn voor binnenlandse gesprekken. Voor internationale gesprekken raadpleeg de "</string>
-  <string name="purchase_notification_title">"Controleer de ondersteunde regio's"</string>
-  <string name="purchase_rates_title">Tarieven</string>
   <string name="query">Query</string>
   <string name="radio_off_error">Schakel de radio in voordat u deze instellingen bekijkt.</string>
   <string name="rates_correspond">Overeenkomde tarieven.</string>
   <string name="rc_unlock_failed">UIM Corporate ontgrendelingsverzoek mislukt.</string>
   <string name="rc_unlock_success">UIM Corporate ontgrendeling gelukt.</string>
   <string name="reading_settings">Instellingen lezen…</string>
-  <string name="refueling_package_a">Pakket A</string>
-  <string name="refueling_package_b">Pakket B</string>
-  <string name="refueling_package_c">Pakket C</string>
   <string name="regional_disable">Regionaal nieuws uitgeschakeld</string>
   <string name="regional_enable">Regionaal nieuws ingeschakeld</string>
   <string name="register_automatically">Automatische registratie…</string>
@@ -789,6 +790,10 @@
   <string name="reject_via_sms">Snel antwoord</string>
   <string name="reject_via_sms_summary">Snelle berichten aanpassen</string>
   <string name="reject_via_sms_title">Snelle antwoorden</string>
+  <string name="remain_mins_divider">Of</string>
+  <string name="remain_mins_domestic">Nationaal overblijvend</string>
+  <string name="remain_mins_international">Internationaal overblijvend</string>
+  <string name="remain_mins_unit">Min</string>
   <string name="remember_my_choice">Altijd gebruiken voor internetoproepen</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_ims_account">Verwijder account</string>
@@ -972,7 +977,7 @@
   <string name="time_statistic">%1$d minuten van netwerktijd bespaard</string>
   <string name="title_country">Lokale</string>
   <string name="title_duration">Tijdsduur</string>
-  <string name="title_purchase">Herlaad</string>
+  <string name="title_purchase">Pakket herladen</string>
   <string name="title_rates">Tarieven</string>
   <string name="title_user_config">Activeer SIM kaart</string>
   <string name="transport_title">Transporttype</string>
@@ -996,6 +1001,7 @@
   <string name="uplmn_numeric_is_empty">Voeg netwerk ID in</string>
   <string name="use_history">Activiteit</string>
   <string name="use_history_duration_min">%1$s minuten</string>
+  <string name="use_range">Gebruik bereik</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD code uitvoeren...</string>
   <string name="ussd_dialog_sep">----------</string>

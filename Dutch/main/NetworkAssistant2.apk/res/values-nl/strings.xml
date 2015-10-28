@@ -108,6 +108,8 @@
   <string name="firewall_network_restrict_notify_message">Tik om instellingen te veranderen.</string>
   <string name="firewall_network_restrict_notify_mobile">mobiele data</string>
   <string name="firewall_network_restrict_notify_title">"%1$s kan %2$s niet gebruiken"</string>
+  <string name="firewall_restrict_android_dialog_content">Als u Android  niet toestaat om verbinding met internet te maken, zullen een aantal belangrijke functies, zoals Wi-Fi hotspot beïnvloed kunnen worden.</string>
+  <string name="firewall_restrict_android_dialog_title">Aandacht</string>
   <string name="firewall_rule_group_title_mobile">Mobiele</string>
   <string name="firewall_rule_group_title_roaming">Internationale roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -134,6 +136,7 @@
   <string name="international_roaming_setting">Internationale roaming</string>
   <string name="international_roaming_whitelist_count">%d apps kunnen mobiele data gebruiken bij roamen</string>
   <string name="ip_address_exception_summary">Kon IP adres niet verkrijgen. Als dit nog eens voorkomt , probeer dan een vast IP adres te gebruiken.</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Leeg</string>
   <string name="load_fail">Kon het niet laden</string>
@@ -188,6 +191,7 @@
   <string name="main_traffic_used_text">Verbruikt</string>
   <string name="manual_input_free_traffic">Daluren dataverbruik instellen</string>
   <string name="manual_input_traffic">Dataverbruik instellen</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
@@ -240,15 +244,15 @@
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Kan systeemapps niet geforceerd stoppen</string>
   <string name="network_speed_for_apps_others">Andere</string>
   <string name="network_speed_for_apps_title">Verbinding</string>
-  <string name="network_speed_for_apps_total">Verbindingssnelheid</string>
-  <string name="networkchanged_exception_summary">Netwerkverbinding is veranderd. Opnieuw testen.</string>
+  <string name="network_speed_for_apps_total">Verbindings snelheid</string>
+  <string name="networkchanged_exception_summary">Netwerk verbinding is veranderd. Opnieuw testen.</string>
   <string name="networkchanged_exception_title">Verbinding is veranderd</string>
   <string name="none_mi_service_app_detail">Leeg</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
-  <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
+  <string name="notify_daily_limit_body">Tik om datalimiet in te stelen.</string>
   <string name="notify_daily_limit_title">Vandaag %s verbruikt</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s verbruikt %2$s vandaag</string>
-  <string name="notify_month_traffic_body">Stel je maandelijks dataplan op zodat je er niet overheen gaat</string>
+  <string name="notify_month_traffic_body">Stel je maandelijks data plan op zodat je er niet overgaat</string>
   <string name="notify_month_traffic_title">Deze maand %s verbruikt</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s verbruikt %2$s deze maand</string>
   <string name="notify_weekly_traffic_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
@@ -341,7 +345,7 @@
   <string name="pref_title_over_traffic_limit_warning">Wanneer overschreden</string>
   <string name="pref_title_traffic_limit_number">Aantal MB</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
-  <string name="pref_title_update_notification">Dataverbruik meldingen weergeven</string>
+  <string name="pref_title_update_notification">Dataverbruik meldingen</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Slimme uitzonderingen toestaan</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Apps met databesparing mogelijkheid automatisch toevoegen aan uitzonderingen </string>
   <string name="pref_traffic_saving_compressed">Gecomprimeerd</string>
