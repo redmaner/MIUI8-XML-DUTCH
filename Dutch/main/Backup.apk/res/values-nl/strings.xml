@@ -52,6 +52,7 @@
   <string name="cancel">Annuleren</string>
   <string name="cancel_backup">Back-up Annuleren</string>
   <string name="cancel_restore">Herstel Annuleren</string>
+  <string name="click_to_view">Tik om te bekijken</string>
   <string name="cloud_app_name">Mi Cloud back-up</string>
   <string name="cloud_backup_hint">Inloggen om toegang tot uw back-ups te krijgen</string>
   <string name="cloud_backup_login">Log in op MI Account</string>
@@ -106,6 +107,7 @@
   <string name="feature_title_call_log">Belsgeschiedenis</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Laden…</string>
+  <string name="files_backup_info">Alle bestanden op SD kaart (inclusief foto\'s, nummers, video\'s, app data, enz.)</string>
   <string name="findlost_contact">Contacten herstellen</string>
   <string name="findlost_contact_online">Herstel verwijderde contacten van Mi Cloud</string>
   <string name="guarded_mode_dialog_message">Deze functie is niet toegestaan in Gastmodus.</string>
@@ -122,6 +124,7 @@
   <string name="local_no_backup">Geen lokale back-up(s).</string>
   <string name="local_restore_window_title">Lokaal Herstel</string>
   <string name="local_select_account_contact">Accounts &amp; contacten</string>
+  <string name="local_select_files">SD kaart</string>
   <string name="local_select_sysdata">Systeem</string>
   <string name="local_select_userapp">Apps</string>
   <string name="miliao_account_guide">Maak een Mi Account aan om van alle online services te genieten</string>
@@ -148,6 +151,7 @@
   <string name="prompt_writing">Opslaan…</string>
   <string name="read_encrypt_fail">Codering lezen van back-up mislukt</string>
   <string name="refresh">Vernieuwen</string>
+  <string name="remote_receive">Ontvangen</string>
   <string name="restore">Herstellen</string>
   <string name="restore_backup">Herstellen</string>
   <string name="restore_contact">Contacten herstellen</string>
@@ -225,6 +229,44 @@
   <string name="task_service_not_launched">Backupservice niet gestart, even wachten!</string>
   <string name="task_stopped_exception">Taak geannuleerd</string>
   <string name="total_num">%d items</string>
+   <string name="trans_backingup">Bezig met back-up…</string>
+  <string name="trans_backingup_no_items">Sync.…</string>
+  <string name="trans_cancel_confirm">Overdracht in uitvoering, nu annuleren?</string>
+  <string name="trans_cancelling">Annuleren</string>
+  <string name="trans_connect_failed_toast">Kon niet verbinden</string>
+  <string name="trans_connecting_toast">Verbinden…</string>
+  <string name="trans_detail_category_account">Accounts en contacten</string>
+  <string name="trans_detail_category_files">Bestanden</string>
+  <string name="trans_detail_category_sysdata">Systeem data</string>
+  <string name="trans_detail_category_userdata">Apps</string>
+  <string name="trans_device_disconnected">Apparaat losgekoppeld</string>
+  <string name="trans_main_tutor">Contacten, belgeschiedenis, berichten, startscherm layout, apps, instellingen, enz. transferen naar en nieuw apparaat</string>
+  <string name="trans_my_device">Mijn apparaat</string>
+  <string name="trans_one_key_migrate">Transferen</string>
+  <string name="trans_progress_subdescript_br_receiver">%s ontvangen</string>
+  <string name="trans_progress_subdescript_br_sender">%s aan het backuppen</string>
+  <string name="trans_progress_subdescript_transing_receiver">%s ontvangen</string>
+  <string name="trans_progress_subdescript_transing_sender">%s verzenden</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Bestanden ontvangen…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Bestanden verzenden…</string>
+  <string name="trans_progress_subdescript_waiting">Wachten om %s te ontvangen</string>
+  <string name="trans_receiver">Ik ben een ontvanger</string>
+  <string name="trans_receiving_completed">Data ontvangen</string>
+  <string name="trans_restoring">Herstellen…</string>
+  <string name="trans_restoring_no_items">Sync. items</string>
+  <string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
+  <string name="trans_select_device_send">Selecteer een apparaat om data naar te transferen.</string>
+  <string name="trans_sender">Ik ben een verzender</string>
+  <string name="trans_sender_connectting">Bevestigen op nieuw apparaat</string>
+  <string name="trans_sender_searching">Zoeken naar nieuwe apparaten</string>
+  <string name="trans_sender_searching_ensurance">"Maak u er van bewust dat uw oud apparaat ingeschakeld is
+Wachten op oud apparaat om te verbinden…"</string>
+  <string name="trans_sending_completed">Data verzonden</string>
+  <string name="trans_time_format_second">Minder dan een minuut</string>
+  <string name="trans_time_remained">klaar binnen, </string>
+  <string name="trans_waiting_ensurance">"Maak u er van bewust dat uw oud apparaat ingeschakeld is
+en dat overdracht ingeschakeld is"</string>
+  <string name="trans_waiting_for_sender">Wachten op oud apparaat om te verbinden…</string>
   <string name="unit_byte">"  B"</string>
   <string name="unit_piece">"  items"</string>
   <string name="unknown_hint">Onbekend</string>

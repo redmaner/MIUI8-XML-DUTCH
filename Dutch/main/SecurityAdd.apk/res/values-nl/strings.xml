@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Beveiligingsservice plugin</string>
+  <string name="app_not_installed_toast">App is niet geïnstalleerd op uw toestel</string>
   <string name="cancel_button">Annuleren</string>
   <string name="empty">" "</string>
   <string name="main_toolbar_purchase">Aanvullen</string>
@@ -8,7 +9,24 @@
   <string name="miuishare_title_share">Delen</string>
   <string name="miuishare_wechat_timeline_title">WeChat momenten</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="network_not_available">"Kan niet verbinden met netwerk"</string>
+  <string name="month_report_activity_label">Maandelijks rapport</string>
+  <string name="month_report_click_reconnect_network">Probeer opnieuw</string>
+  <string name="month_report_disconnect_tip">Kan niet verbinden met netwerk</string>
+  <string name="month_report_follow_service_negative">Nee bedankt</string>
+  <string name="month_report_follow_service_positive">Volgen</string>
+  <string name="month_report_follow_service_summary">Blijf op de hoogte met veiligheid nieuws en info door de officiële MIUI Veiligheidsapp account te volgen</string>
+  <string name="month_report_follow_service_title">Beveiligings updates</string>
+  <string name="month_report_history_activity_label">Geschiedenis rapport</string>
+  <string name="month_report_network_dialog_description">Deze app toestaan om verbinding met internet te maken om rapport info te verkrijgen?</string>
+  <string name="month_report_network_dialog_positive">Toestaan</string>
+  <string name="month_report_network_dialog_title">Kan rapport info niet verkrijgen</string>
+  <string name="month_report_result_share">Delen</string>
+  <string name="month_report_share_img_fail">Kon niet delen</string>
+  <string name="month_report_share_loading">Een momentje…</string>
+  <string name="month_report_warning_dialog_description">Om het maandelijks rapport te bekijken, zet deze functie aan in Instellingen Beveiligings app.</string>
+  <string name="month_report_warning_dialog_positive">Inschakelen</string>
+  <string name="month_report_warning_dialog_title">Maandelijks veiligheidsrapport</string>
+  <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Openen in browser</string>
