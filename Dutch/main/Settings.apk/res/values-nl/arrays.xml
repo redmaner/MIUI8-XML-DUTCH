@@ -222,7 +222,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Intern geheugen</item>
-        <item>Verwisselbare SD-kaart</item>
+        <item>Verwisselbare SD kaart</item>
         <item>Het systeem laten bepalen</item>
     </string-array>
     <string-array name="app_ops_categories">
@@ -766,10 +766,12 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 	<string-array name="common_password_business_keys">
         <item>keyguard</item>
         <item>childrenmode</item>
+		<item>file_explorer</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Keyguard</item>
+        <item>Vergrendelscherm</item>
         <item>Kindermodus</item>
+        <item>File explorer</item>
     </string-array>
 	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>
