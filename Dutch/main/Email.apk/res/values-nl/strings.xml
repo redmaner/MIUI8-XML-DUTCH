@@ -159,7 +159,7 @@
   <string name="archive">Archiveren</string>
   <string name="archived">Gearchiveerd</string>
   <string name="att_download_failed_content">Download mislukt</string>
-  <string name="att_download_failed_network_slow">Netwerk is traag, probeer het later opnieuw te downloaden</string>
+  <string name="att_download_failed_network_slow">Verbinding is te traag, probeer later opnieuw</string>
   <string name="att_download_failed_title">Download van bijlage mislukt</string>
   <string name="att_file_not_exists">Kon %s bestand niet vinden</string>
   <string name="att_mgr_no_attachment">Geen bijlagen</string>
@@ -420,7 +420,7 @@
   <string name="get_database_exception">"Wis de gegevens van deze app in Instellingen &gt; Systeem apps en probeer het opnieuw"</string>
   <string name="gmail_acceleration">Gebruik proxy server voor Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Proxy server gebruiken voor toegang tot je Gmail Account?</string>
-  <string name="gmail_login_failed_non_proxy_title">Toegang tot Gmail server mislukt</string>
+  <string name="gmail_login_failed_non_proxy_title">Kon geen toegang tot de Gmail server krijgen</string>
   <string name="gmail_server_authorization_deleted">Kon account niet verifiëren. Probeer dit account opnieuw toe te voegen..</string>
   <string name="gmail_web_login_go">Ok</string>
   <string name="gmail_web_login_required_message">Aanmelden bij Gmail</string>
@@ -458,7 +458,7 @@
   <string name="mail">E-mail</string>
   <string name="mail_body_turncated">Deze e-mail is te groot om te laden, kan slechts een deel weergeven, probeer later op de PC</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
-  <string name="mailbox_list_account_selector_combined_view">Gecombineerd Account</string>
+  <string name="mailbox_list_account_selector_combined_view">Gecombineerd account</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
   <string name="mailbox_name_display_junk">Ongewenst</string>
@@ -724,7 +724,7 @@
   <string name="save_action">Opslaan</string>
   <string name="save_attachment">Opslaan</string>
   <string name="save_draft_failed">Concept opslaan mislukt</string>
-  <string name="save_power_summary">Tijdschema opmaken om batterijverbruik te verminderen</string>
+  <string name="save_power_summary">Stel de batterijverbruikstijd in</string>
   <string name="save_power_title">Batterijbespaarder</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>

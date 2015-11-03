@@ -1964,6 +1964,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="oldman_mode_settings_caption">Lite modus instellingen</string>
   <string name="oldman_mode_summary">"Gebruik het gemakkelijke Startscherm en menu's"</string>
   <string name="oldman_mode_summary_cta">Lite modus moet verbonden zijn met internet en contacten lezen, berichten en locatie info verkrijgen om normaal te kunnen werken.</string>
+  <string name="onekey_migrate">Transferen</string>
   <string name="online_resource_entry">Online bronnen</string>
   <string name="only_one_home_message">Startpagina instellingen worden verborgen totdat u een andere startpagina app installeert.</string>
   <string name="only_when_charging">Alleen tijdens opladen</string>
@@ -2700,9 +2701,11 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Standby tijd</string>
   <string name="status_bar_and_notification_bar">Meldings- en statusbalk</string>
-  <string name="status_bar_app_disable_notification">Verberg meldingen</string>
-  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Vergrendelscherm, notificatiebalk</string>
-  <string name="status_bar_app_enable_on_notificationBar">Meldingsbalk</string>
+  <string name="status_bar_app_des_separator">、</string>
+  <string name="status_bar_app_disable_notification">Meldingen verborgen</string>
+  <string name="status_bar_app_enable_floating">Zwevende meldingen</string>
+  <string name="status_bar_app_enable_keyguard">Vergrendelscherm</string>
+  <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_key_position_custom">Aangepaste knoppositie</string>
   <string name="status_bar_screen_button_key">Virtuele schermknoppen</string>
   <string name="status_bar_screen_key_back">Terug knop</string>
@@ -2728,10 +2731,11 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_sound_vibrate">Geluid &amp; trillen</string>
   <string name="status_bar_settings_show_carrier">Toon provider</string>
   <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en in de notificatiebalk als deze functie is uitgeschakeld</string>
+  <string name="status_bar_settings_show_floating_notification">Zwevende meldingen</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Zwevende meldingen verdwijnen automatisch nadat ze zijn getoond aan de bovenkant van het scherm</string>
   <string name="status_bar_settings_show_flow_info">Flow details weergegeven</string>
   <string name="status_bar_settings_show_home_message">App icoon badge</string>
-  <string name="status_bar_settings_show_keyguard_notification">Zwevende meldingen en vergrendelscherm</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Zwevende meldingen verdwijnen automatisch nadat ze zijn weergegeven aan de bovenkant van het scherm</string>
+  <string name="status_bar_settings_show_keyguard_notification">Vergrendelscherm</string>
   <string name="status_bar_settings_show_network_speed">Toon verbindingssnelheid</string>
   <string name="status_bar_settings_show_notification_icon">Meldingsiconen weergeven</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon schermafdruk melding</string>
