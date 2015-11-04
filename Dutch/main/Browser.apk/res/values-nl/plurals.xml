@@ -11,6 +11,22 @@
         <item quantity="other">1$d geselecteerd</item>
         <item quantity="one">1$d geselecteerd</item>
     </plurals>
+	<plurals name="video_download_clear_prompt">
+        <item quantity="other">%1$d video\'s verwijderen?</item>
+        <item quantity="one">%1$d video verwijderen?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d video\'s met succes verwijderd.</item>
+        <item quantity="one">%1$d video met succes verwijderd.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">%1$d items uit geschiedenis verwijderen?</item>
+        <item quantity="one">%1$d item uit geschiedenis verwijderen?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d items uit geschiedenis verwijderd.</item>
+        <item quantity="one">%1$d item uit geschiedenis verwijderd.</item>
+    </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d overeenkomsten</item>
         <item quantity="one">%d overeenkomst</item>
