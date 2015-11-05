@@ -14,7 +14,7 @@
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
         <item quantity="zero">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
-        <item quantity="one">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
+        <item quantity="one">Dit gesprek bevat samengevoegde artikelen. Toch verwijderen?</item>
         <item quantity="two">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
         <item quantity="few">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
         <item quantity="many">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
@@ -44,8 +44,8 @@
         <item quantity="one">&lt;b> %1$d &lt;/b> gedempt.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b> %1$d &lt;/b>" berichten verwijderd uit de'belangerijke' map."</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b>" verwijderd uit de 'belangerijke' map."</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b>" berichten verwijderd uit de 'belangrijke' map."</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b>" bericht verwijderd uit de 'belangrijke' map."</item>
     </plurals>
     <plurals name="conversation_not_spam">
         <item quantity="other">&lt;b> %1$d &lt;/b>" verwijderd uit de 'spam' map."</item>
@@ -53,7 +53,7 @@
     </plurals>
     <plurals name="conversation_phished">
         <item quantity="other">&lt;b> %1$d &lt;/b> berichten gerapporteerd als spam</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b> berichten gerapporteerd als spam</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> bericht gerapporteerd als spam</item>
     </plurals>
     <plurals name="conversation_spammed">
         <item quantity="other">&lt;b> %1$d &lt;/b> gemarkeerd als spam.</item>
@@ -70,7 +70,7 @@
     <plurals name="move_conversation">
         <item quantity="other">Verplaats %1$d conversaties</item>
         <item quantity="zero">Verplaats %1$d conversaties</item>
-        <item quantity="one">Verplaats conversaties</item>
+        <item quantity="one">Verplaats conversatie</item>
         <item quantity="two">Verplaats %1$d conversaties</item>
         <item quantity="few">Verplaats %1$d conversaties</item>
         <item quantity="many">Verplaats %1$d conversaties</item>
@@ -78,7 +78,7 @@
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Geef %1$d nieuwe berichten weer.</item>
         <item quantity="zero">Geef %1$d nieuwe berichten weer.</item>
-        <item quantity="one">Geef %1$d nieuwe berichten weer.</item>
+        <item quantity="one">Geef %1$d nieuw bericht weer.</item>
         <item quantity="two">Geef %1$d nieuwe berichten weer.</item>
         <item quantity="few">Geef %1$d nieuwe berichten weer.</item>
         <item quantity="many">Geef %1$d nieuwe berichten weer.</item>
@@ -94,7 +94,7 @@
     <plurals name="show_messages_read">
         <item quantity="other">%1$d oudere berichten</item>
         <item quantity="zero">%1$d oudere berichten</item>
-        <item quantity="one">%1$d oudere berichten</item>
+        <item quantity="one">%1$d ouder bericht</item>
         <item quantity="two">%1$d oudere berichten</item>
         <item quantity="few">%1$d oudere berichten</item>
         <item quantity="many">%1$d oudere berichten</item>
