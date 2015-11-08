@@ -71,11 +71,11 @@
   <string name="datausage_purchase_order_history">Geschiedenis</string>
   <string name="datausage_purchase_ordering">Kopen…</string>
   <string name="datausage_purchase_pay_captcha_hint">De ontvangen code invoeren</string>
-  <string name="datausage_purchase_pay_captcha_tips">Nadat u uw verificatiecode ontvangen, voer het in in het kader hierboven en tik u op Kopen om uw aankoop te voltooien. Let op de code is maar 10 minuten geldig .</string>
+  <string name="datausage_purchase_pay_captcha_tips">Nadat u uw verificatiecode heeft ontvangen, voer het in in het kader hierboven en tik op Kopen om uw aankoop te voltooien. Let op: de code is maar 10 minuten geldig .</string>
   <string name="datausage_purchase_pay_confirm">Kopen</string>
   <string name="datausage_purchase_pay_hint">Om te annuleren, bel %s</string>
-  <string name="datausage_purchase_pkglist_networkerror">Netwerk verbinding mislukt. Controleer uw verbinding en probeer het opnieuw.</string>
-  <string name="datausage_purchase_pkglist_nodata">Er is een conflict tussen uw huidige data pakket en het data pakket die u probeert aan te kopen. Neem contact op met uw service provider voor meer informatie.</string>
+  <string name="datausage_purchase_pkglist_networkerror">Netwerkverbinding mislukt. Controleer uw verbinding en probeer het opnieuw.</string>
+  <string name="datausage_purchase_pkglist_nodata">Er is een conflict tussen uw huidige datapakket en het datapakket dat u probeert aan te kopen. Neem contact op met uw serviceprovider voor meer informatie.</string>
   <string name="datausage_purchase_pkglist_servererror">Er ging iets mis met onze server.</string>
   <string name="datausage_purchase_result_failed">Kan geen data kopen. Neem contact op met uw provider voor meer informatie over de kwestie.</string>
   <string name="datausage_purchase_result_ok">U kocht %s. Voor meer info check het bericht van uw provider</string>
@@ -85,7 +85,7 @@
   <string name="datausage_purchase_title_pkglist">Herladen</string>
   <string name="datausage_purchase_view_detail">Details weergeven</string>
   <string name="declaration_dialog_msg">Deze functie kan u helpen om uw verbruik te volgen, maar geeft geen garantie om extra kosten te voorkomen. Voor het beste resultaat stelt u een limiet in.</string>
-  <string name="deleted_apps">Verwijderde Apps</string>
+  <string name="deleted_apps">Verwijderde apps</string>
   <string name="detail_app_button">App info</string>
   <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u internationaal roamt, kunnen alleen apps die toegevoegd zijn aan uitzonderingen mobiele data gebruiken."</string>
   <string name="dialog_app_roaming_title">"Internationale roaming is niet ingeschakeld voor %1$s"</string>
@@ -116,7 +116,7 @@
   <string name="firewall_service_network_blocked">%1$s is beperkt om %2$s networken te gebruiken</string>
   <string name="five_percent_total_pkg">%s (5%% maandelijkse data)</string>
   <string name="force_stop_dlg_text">Als u achtergrond mobiele data beperkt, kunnen sommige apps en services niet werken tenzij u bent verbonden met een Wi-Fi netwerk.</string>
-  <string name="force_stop_dlg_title">Achtergrond data beperken</string>
+  <string name="force_stop_dlg_title">Achtergronddata beperken</string>
   <string name="foreground_traffic">Voorgrond %s</string>
   <string name="free_time_traffic">Daluren datalimiet</string>
   <string name="free_time_traffic_hint">Voer daluren datalimiet in</string>
@@ -272,7 +272,7 @@
   <string name="operator_setted_error_dialog_message">De SIM kaart die je gebruikt is van %1$s. Deze is anders dan de locatie die u handmatig hebt ingesteld (%2$s). Wijzig SIM locatie naar %3$s?"</string>
   <string name="operator_setted_error_notify_message">Tik om SIM locatie te wijzigen.</string>
   <string name="operator_setted_error_notify_title">SIM kaart fout</string> 
-  <string name="other_exception_summary">U hebt geen internet verbinding</string>
+  <string name="other_exception_summary">U hebt geen internetverbinding</string>
   <string name="other_exception_title">Controleren op andere problemen</string>
   <string name="package_change_notification_summary">Tik om meer te weten.</string>
   <string name="package_change_notification_title">Datalimiet automatisch aanpassen</string>
@@ -282,7 +282,7 @@
   <string name="per_month_pkg_traffic_settings">Datalimiet instellen</string>
   <string name="permission_exception_summary">Sommige apps hebben geen toestemmig om te verbinden met internet</string>
   <string name="permission_exception_title">Bekijk netwerk toestemmingen</string>
-  <string name="permit_running_network">Achtergrond data</string>
+  <string name="permit_running_network">Achtergronddata</string>
   <string name="person_hotpot">Mobiele hotspots</string>
   <string name="pkg_traffic">Datalimiet instellen</string>
   <string name="power_save_on_time_default_time">00:00</string>
@@ -291,7 +291,7 @@
   <string name="pref_about">Over</string>
   <string name="pref_about_traffic_title">Dataverbruik instellingen</string>
   <string name="pref_add_traffic_pkg">Extra gekochte data</string>
-  <string name="pref_adjust_data_usage">Provider bericht template</string>
+  <string name="pref_adjust_data_usage">Providerbericht template</string>
   <string name="pref_adjust_traffic_data">Dataverbruik instellen</string>
   <string name="pref_allow_connect_network_title">Internationale roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Apps uit uitzonderingen toestaan om mobiele data te gebruiken</string>
@@ -302,7 +302,7 @@
   <string name="pref_avaible_traffic">Databundel</string>
   <string name="pref_category_title_other">Extra instellingen</string>
   <string name="pref_check_network_diagnostics">Internet van apparaat testen</string>
-  <string name="pref_connect_settings_enable_background">Achtergrond data toestaan</string>
+  <string name="pref_connect_settings_enable_background">Achtergronddata toestaan</string>
   <string name="pref_connect_settings_enable_background_hint">Apps toestaan mobiele data te gebruiken als u de apps niet gebruikt</string>
   <string name="pref_connect_settings_exceed_limit">Dataverbruik beperken</string>
   <string name="pref_connect_settings_exceed_limit_hint">Dataverbinding uitschakelen als datalimiet is bereikt</string>
