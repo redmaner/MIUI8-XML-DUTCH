@@ -13,6 +13,12 @@
   <string name="app_store_missing_message">Xiaomi App Store is niet op dit apparaat geïnstalleerd, Nu installeren?</string>
   <string name="app_store_missing_title">App Store is niet geïnstalleerd</string>
   <string name="auto_startup_dialog_msg">Deze app kan niet worden gestart zonder toestemming.</string>
+  <string name="btn_text_install_new_version">Laatste versie</string>
+  <string name="btn_text_install_origin">Originele versie</string>
+  <string name="btn_text_install_security_version_in_appstore">Vervangen door veilige versie</string>
+  <string name="btn_text_scaning">Bezig met scannen…</string>
+  <string name="btn_text_security_install">Vervangen door veilige versie</string>
+  <string name="btn_text_security_scan">Veiligheidsscan</string>
   <string name="button_text_cancel">Annuleren</string>
   <string name="button_text_delete">Verwijderen</string>
   <string name="button_text_delete_timer">Verwijder (%d)</string>
@@ -41,6 +47,7 @@
   <string name="install_failed_system_incompatible">Deze app is niet compatibel met MIUI</string>
   <string name="install_failed_verify_failed">Het pakket is niet geverifieerd en kan niet worden geïnstalleerd.</string>
   <string name="install_failed_verify_timeout">Time out tijdens het controleren van dit pakket. Probeer het later opnieuw.</string>
+  <string name="install_from_appstore_hint">Wij raden u aan om de app te installeren uit &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Installeren…</string>
   <string name="launch">Openen</string>
   <string name="lift_ban">Verbod opheffen</string>
@@ -48,6 +55,11 @@
   <string name="low_risk_perms">Lage Risico Machtigingen</string>
   <string name="manage_applications">Apps beheren</string>
   <string name="manage_device_administrators">Apparaatbeheerders beheren</string>
+  <string name="message_apk_checking">Apk controleren…</string>
+  <string name="message_appstore_verify_has_new_version">Een nieuwere versie van de app is beschikbaar in onze App Store. Wilt u deze installeren?</string>
+  <string name="message_appstore_verify_inconsistent">De handtekening van deze app is anders dan die van de App Store, het is veiliger om de app van daar te installeren</string>
+  <string name="message_appstore_verify_ok">Deze versie van deze app in de App Store is geslaagd voor onze veiligheidstests, we raden u aan om die van daar te installeren.</string>
+  <string name="message_security_scaning">Bezig met scannen…</string>
   <string name="ok">OK</string>
   <string name="other_relative">Overige machtigingen</string>
   <string name="out_of_space_dlg_text">%1$s kan niet worden geïnstalleerd. Maak ruimte vrij en probeer het opnieuw.</string>
@@ -103,4 +115,5 @@
   <string name="virus_scan_install">&lt;u&gt;Toch installeren&lt;/u&gt;</string>
   <string name="virus_scan_is_risk">Deze app is een risico voor de veiligheid van uw apparaat.</string>
   <string name="virus_scan_is_virus">Deze app bevat een virus!</string>
+  <string name="waiting_tip">Dit kan een tijdje duren</string>
 </resources>
