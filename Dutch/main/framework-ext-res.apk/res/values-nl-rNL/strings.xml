@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_call_livetalk_enable">Herlaad pakketten gebruiken voor nationale en internationale gesprekken</string>
-  <string name="all_call_livetalk_remain_mins">Overblijvende minuten: %1$s nationaal | %2$s internationaal</string>
+  <string name="all_call_livetalk_remain_mins">Overblijvende minuten: %1$s nationaal of %2$s internationaal</string>
   <string name="alwaysUsePrompt">Keuze herinneren</string>
   <string name="apply_password_action">Wachtwoord instellen</string>
   <string name="apply_password_confirm_dlg_msg">Een wachtwoord nodig voor %s​?</string>
@@ -15,7 +15,9 @@
   <string name="cancel_action">Annuleren</string>
   <string name="copy">Kopiëren</string>
   <string name="cut">Knippen</string>
-  <string name="enable_livetalk">Herladen pakket inschakelen</string>
+  <string name="default_name">Standaard</string>
+  <string name="enable_livetalk_summary">¥ 0.05 per minuut voor nationale gesprekken</string>
+  <string name="enable_livetalk_title">Pakket herladen inschakelen</string>
   <string name="fc_dialog_body">Bug rapport verzenden naar Mi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug te helpen oplossen en zal nooit worden gedeeld in een commerciële context.</string>
   <string name="fc_dialog_jump_to_preview">Sammenvatting bekijken</string>
   <string name="first_back_long_press_message">"Druk op &amp; en houd de knop Terug ingedrukt om huidig proces en de achtergronddiensten te stoppen.
@@ -28,14 +30,17 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"<
   <string name="global_actions_reboot">Herstarten</string>
   <string name="global_actions_shutdown">Uitschakelen</string>
   <string name="global_actions_silent_mode">Stil</string>
+  <string name="group_name_contacts">Contacten</string>
+  <string name="group_name_coworkers">Collega\'s</string>
+  <string name="group_name_family">Familie</string>
+  <string name="group_name_friends">Vrienden</string>
   <string name="handy_mode_enter_dlg_msg">Naar een-hand modus gaan?</string>
   <string name="handy_mode_enter_dlg_title">Naar een-hand modus gaan</string>
   <string name="handy_mode_summary">Om te sluiten, tik op een donkere plaats</string>
   <string name="handy_mode_title">Een-hand modus</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Plaats uw vinger op de Home knop</string>
   <string name="internal_livetalk_enable">Herlaad pakketten gebruiken voor nationale gesprekken</string>
-  <string name="internal_remain_mins">%1$s overblijvende minuten (nationale)</string>
   <string name="international_livetalk_enable">Herlaad pakketten gebruiken voor internationale gesprekken</string>
-  <string name="international_remain_mins">%1$s overblijvende minuten (%2$s)</string>
   <string name="key_btn_ok">Ok</string>
   <string name="key_btn_space">Ruimte</string>
   <string name="livetalk_not_enable">Herladen pakket uitschakelen</string>
@@ -45,6 +50,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"<
   <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
   <string name="lockscreen_access_pattern_start">Patroon gestart</string>
+  <string name="maml_component_customization_title">Instellingen</string>
   <string name="memory_clear_nothing_result">Niets om te wissen in cache</string>
   <string name="memory_clear_result">%1$sB vrijgemaakt | %2$sB beschikbaar</string>
   <string name="miui">Miui</string>
@@ -58,6 +64,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Systeem &gt; Toetsen"<
   <string name="reboot_info_shutdown_alarm">Telefoon zal opstarten en alarm af laten gaan om %s</string>
   <string name="reboot_progress">Opnieuw opstarten…</string>
   <string name="replace">Vervangen</string>
+  <string name="resource_select">Selecteer</string>
   <string name="screen_button_disabled_message">Navigatieknoppen uitgeschakeld. Om opnieuw in te schakelen raakt u gelijktijdig de Home en de Power knop aan.</string>
   <string name="screen_button_enabled_message">Navigatieknoppen ingeschakeld.</string>
   <string name="screen_button_notification_text">Om ze in te schakelen, drukt u op de Home- en Power knoppen tegelijk.</string>

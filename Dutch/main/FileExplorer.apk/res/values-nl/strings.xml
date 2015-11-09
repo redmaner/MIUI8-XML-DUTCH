@@ -40,7 +40,7 @@
   <string name="cancel">Annuleren</string>
   <string name="cancel_error">Kon niet verwijderen, probeer opnieuw</string>
   <string name="cancel_operation">Operatie annuleren</string>
-  <string name="cancel_success">Verwijderen voltooid, alle bestanden verplaats naar sdcard/fileexplorer/decryptie</string>
+  <string name="cancel_success">Verwijderen voltooid, alle bestanden verplaats naar %s</string>
   <string name="cancelled_by_user">Operatie geannuleerd</string>
   <string name="category">Categorieën</string>
   <string name="category_all">Alle</string>
@@ -119,7 +119,7 @@
   <string name="dialog_type_image">Foto\'s</string>
   <string name="dialog_type_text">Documenten</string>
   <string name="dialog_type_video">Video\'s</string>
-  <string name="dir_not_support">Deze map kan niet privé gemaakt worden</string>
+  <string name="dir_not_support">Kan deze map niet verbergen</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leeg</string>
   <string name="dlg_error_unmount_text">Loskoppelen USB opslag mislukt.</string>
@@ -130,9 +130,9 @@
   <string name="downloading">Downloaden</string>
   <string name="downloading_in_3g">Downloaden op 3G…</string>
   <string name="enable_sd_card">Steek de SD kaart of schakel de USB opslag uit.</string>
-  <string name="encrypt_error">Kon bestanden niet privé maken, probeer opnieuw</string>
-  <string name="encrypt_prefix">PRIVÉ</string>
-  <string name="encrypt_success">Alle bestanden zijn privé gemaakt</string>
+  <string name="encrypt_error">Kon bestanden niet verbergen, probeer opnieuw</string>
+  <string name="encrypt_prefix">VERBORGEN</string>
+  <string name="encrypt_success">Alle bestanden verborgen</string>
   <string name="encrypting">Encrypting…</string>
   <string name="error_filename_too_long">Bestandsnaam is te lang.</string>
   <string name="error_info_cant_send_folder">Kan dit type bestand niet verzenden.</string>
@@ -217,7 +217,7 @@
   <string name="local_video">Video</string>
   <string name="login_reg_content">Sla bestanden op  en synchroniseer op meerdere apparaten.</string>
   <string name="login_reg_content0">Gebruik KuaiPan vanaf elke locatie.</string>
-  <string name="make_private">Prive maken</string>
+  <string name="make_private">Verbergen</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Opruimen</string>
   <string name="menu_item_ftp">FTP</string>
@@ -274,12 +274,9 @@
   <string name="network_spent_reminding_title">Datavebruiksmelding</string>
   <string name="never_notify_network_connect">Keuze onthouden</string>
   <string name="new_folder_name">Naamloze map</string>
-  <string name="new_function">Over privémappen</string>
-  <string name="new_function_info">"Privémap is een nieuwe functie van MIUI.
-U kan uw bestanden coderen en opslaan 
-op een veilige plaats.
-
-Naar beneden trekken op de startpagina om het te bekijken."</string>
+  <string name="new_function">Verborgen mappen</string>
+  <string name="new_function_info">Om een verborgen map te maken, 
+veegt u naar de onderkant van het scherm van de eerste rij van pictogrammen op de startpagina</string>
   <string name="new_function_str">"WeChat stickers kunnen nu automatisch worden verzameld.
 Download ze wanneer u wilt
 en nooit de koele nieuwe missen!"</string>
@@ -308,13 +305,13 @@ en nooit de koele nieuwe missen!"</string>
   <string name="notification_title">Melden wanneer er nieuwe bestanden toegvoegd worden aan %1$s</string>
   <string name="notification_wechat_expired_empty">WeChat heeft deze video clips al verwijderd.</string>
   <string name="notification_wechat_title">WeChat video meldingen</string>
-  <string name="notify_private_folder_msg">Tik om meer te leren over privémappen.</string>
-  <string name="notify_private_folder_title">Bescherm uw persoonlijke mappen</string>
+  <string name="notify_private_folder_msg">Tik om meer te leren.</string>
+  <string name="notify_private_folder_title">Verborgen mappen aanmaken</string>
   <string name="online_not_support">Kan dit bestand op dit moment niet online bekijken</string>
   <string name="open_changed_file_message">Het bestand dat u probeert te openen is gewijzigd. 1. Download het bestand opnieuw om het bij te werken. 2. Upload het naar uw KuaiPan account.</string>
   <string name="open_changed_file_title">Verandering toegepast.</string>
   <string name="open_file_failed">Kan niet worden geopend</string>
-  <string name="open_private_folder">Bezig met aanmaken van een privémap…</string>
+  <string name="open_private_folder">Bezig met verbergen van map…</string>
   <string name="operate_confirm_in_3g">Uw mobiele gegevensverbinding gebruiken om dit grote bestand te downloaden?</string>
   <string name="operating">Verwerken…</string>
   <string name="operation_add_fav">Toevoegen aan ster…</string>
@@ -356,17 +353,17 @@ en nooit de koele nieuwe missen!"</string>
   <string name="operation_show_sys">Geef verborgen bestanden weer</string>
   <string name="operation_unfavorite">Ster verwijderen</string>
   <string name="pan_settting">Instellingen KuaiPan</string>
-  <string name="partial_cancel_successful">Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaats naar sdcard/fileexplorer/decryptie</string>
+  <string name="partial_cancel_successful">"Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaats naar to %s"</string>
   <string name="partial_delete_failure">Kon sommige bestanden niet verwijderen, probeer opnieuw</string>
-  <string name="partial_encrypt_success">Kon sommige bestanden niet privé maken, probeer opnieuw</string>
+  <string name="partial_encrypt_success">Kon sommige bestanden niet verbergen, probeer opnieuw</string>
   <string name="partial_repair_done">Een paar bestanden zijn met succes hersteld</string>
   <string name="paused">Gepauzeerd</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefoon</string>
   <string name="pick_folder">Map kiezen</string>
   <string name="port_range">Poort moet tussen 1024–65535 zijn</string>
-  <string name="private_files">Privé</string>
-  <string name="private_folder">Privémap</string>
+  <string name="private_files">Verborgen</string>
+  <string name="private_folder">Verborgen</string>
   <string name="promot_enctypt_password">Voer het wachtwoord in dat wordt gebruikt om uw apparaat te ontgrendelen of om kindermodus uit te schakelen</string>
   <string name="pull_to_signin">Sleep naar beneden om aan te melden.</string>
   <string name="qq_not_installed">QQ is niet geïnstalleerd</string>
@@ -428,6 +425,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Zoeken</string>
   <string name="search_title_hint">Zoeken</string>
+  <string name="select_dest_folder">Map selecteren</string>
   <string name="select_image">Kies foto\'s</string>
   <string name="select_music">Kies nummers</string>
   <string name="select_video">Kies video\'s</string>
@@ -488,7 +486,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netwerkoverdracht</string>
   <string name="transfer_done">Bestanden met succes verplaatst.</string>
-  <string name="transfer_private_data">Bezig met privébestanden te verplaatsen van SD kaart…</string>
+  <string name="transfer_private_data">Bezig met verborgen mappen te verplaatsen van SD kaart…</string>
   <string name="transing">Verzenden</string>
   <string name="trash_box_capacity">Prullenbak %1$s</string>
   <string name="trash_box_link">Om uw prullenbak leeg te maken, bezoek &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>

@@ -233,7 +233,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
   <string name="apply_fingerprint_to_category_title">Vingerafdruk toepassen naar…</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_password_to_category_title">Wachtwoord toepassen naar…</string>
+  <string name="apply_password_to_category_title">Wachtwoord nodig</string>
   <string name="apply_update_fail">Update mislukt</string>
   <string name="apps_with_restrictions_header">Apps met beperkingen</string>
   <string name="apps_with_restrictions_settings_button">Inst. uitbreiden voor app</string>
@@ -664,8 +664,10 @@ Uitzenden gebruikt energiezuinige Bluetooth signalen."</string>
   <string name="cellular_data_title">Mobiele data</string>
   <string name="change_password">Wachtwoord wijzigen</string>
   <string name="change_security_lock">Probeer andere manieren om te ontgrendelen</string>
+  <string name="check_find_device_status_failure_confirm">Ok</string>
   <string name="check_update">Controleer op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
+  <string name="checking_find_device_status">Controleren van apparaat zoekstatus…</string>
   <string name="checking_for_updates">Controleren op updates…</string>
   <string name="children_mode_enable_title">Kindermodus</string>
   <string name="children_mode_set_apps_title">Toegankelijke apps</string>
@@ -1224,7 +1226,11 @@ Dit helpt gegevens te beschermen bij verloren of gestolen apparaten.""</string>
   <string name="extreme_threats_summary">Ontvang meldingen voor extreme bedreigingen voor leven en eigendommen</string>
   <string name="extreme_threats_title">Extreme bedreigingen</string>
   <string name="factory_reset_summary">"Wis alle gegevens van de interne opslag"</string>
+  <string name="failed_to_check_find_device_status_content">Appaart zoekstatus controle mislukt, Wacht een minuutje of 2 en probeer opnieuw.</string>
+  <string name="failed_to_check_find_device_status_title">Appaart zoekstatus controle mislukt</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen voor %1$s mislukt</string>
+  <string name="failed_to_shut_down_find_device_content">Kon apparaat zoeken niet uitscakelen. Wacht een minuutje of 2 en probeer opnieuw.</string>
+  <string name="failed_to_shut_down_find_device_title">Kon apparaat zoeken niet uitscakelen</string>
   <string name="fcc_equipment_id">Apparatuur ID</string>
   <string name="field_info_card_label">Kies kaart:</string>
   <string name="field_info_cell_id_label">Cell ID:</string>
@@ -2597,6 +2603,10 @@ Om schermpinning te gebruiken:
   <string name="show_touches">Aanrakingen weergeven</string>
   <string name="show_touches_summary">Visuele feedback voor aanraakbewerkingen weergeven</string>
   <string name="show_user_info_on_lockscreen_label">Gebruikersgegevens weergeven op vergrendelscherm</string>
+  <string name="shut_down_find_device_failure_confirm">Ok</string>
+  <string name="shut_down_find_device_network_failure_content">Kon apparaat zoeken niet uitschakelen. Maak u er zeker van dat het apparaat verbonden is met internet</string>
+  <string name="shut_down_find_device_network_failure_title">Kan niet verbinden met netwerk</string>
+  <string name="shuting_down_find_device">Apparaat zoeken uitschakelen…</string>
   <string name="silent_mode_title">Stille modus</string>
   <string name="sim_absent">Geen SIM/RUIM</string>
   <string name="sim_bad_pin">PIN code moet 4 tot 8 cijfers lang zijn</string>
@@ -2701,7 +2711,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Standby tijd</string>
   <string name="status_bar_and_notification_bar">Meldings- en statusbalk</string>
-  <string name="status_bar_app_des_separator">,</string>
+  <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_app_disable_notification">Meldingen verborgen</string>
   <string name="status_bar_app_enable_floating">Zwevende meldingen</string>
   <string name="status_bar_app_enable_keyguard">Vergrendelscherm</string>
@@ -2735,7 +2745,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_floating_notification_summary">Zwevende meldingen verdwijnen automatisch nadat ze zijn getoond aan de bovenkant van het scherm</string>
   <string name="status_bar_settings_show_flow_info">Flow details weergegeven</string>
   <string name="status_bar_settings_show_home_message">App icoon badge</string>
-  <string name="status_bar_settings_show_keyguard_notification">Vergrendelscherm</string>
+  <string name="status_bar_settings_show_keyguard_notification">Vergrendelscherm meldingen</string>
   <string name="status_bar_settings_show_network_speed">Toon verbindingssnelheid</string>
   <string name="status_bar_settings_show_notification_icon">Meldingsiconen weergeven</string>
   <string name="status_bar_settings_show_screenshot_notification">Toon schermafdruk melding</string>
@@ -3117,7 +3127,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="virus_scanner_auto_update">Automatisch updaten</string>
   <string name="virus_scanner_date_formater">d MMM. yyyy</string>
   <string name="virus_scanner_lib_already_latest">Virusdatabase is helemaal up to date</string>
-  <string name="virus_scanner_lib_update_failed">Update mislukt</string>
+  <string name="virus_scanner_lib_update_failed">Kon niet updaten</string>
   <string name="virus_scanner_lib_updating">Definities bijwerken…</string>
   <string name="virus_scanner_manual_update">Bijgewerkt %s</string>
   <string name="virus_scanner_provider">Definities geleverd door %s</string>
