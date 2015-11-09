@@ -256,8 +256,10 @@
   <string name="msg_type_hint_mms">Multimedia bericht (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi bericht</string>
+    <string name="msg_type_hint_mx_b2c">Netwerk melding</string>
+  <string name="msg_type_hint_mx_b2c_omit">Netwerk melding</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
-  <string name="msg_type_hint_sms">Typ bericht</string>
+  <string name="msg_type_hint_sms">Tekst bericht</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Naar beneden trekken om meer weer te geven</string>
   <string name="msglist_more_refreshing">Vernieuwen…</string>
@@ -287,6 +289,8 @@
   <string name="mx_auto_resend_sms">Vezenden als SMS</string>
   <string name="mx_auto_resend_sms_summary">"SMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi(regelmatige dataverbruik kan kosten meebrengen)."</string>
   <string name="mx_b2c_message_desc">Netwerkmeldingen</string>
+  <string name="mx_b2c_message_resend_not_online">Kan bericht niet opnieuw verzenden. Mi Message is offline.</string>
+  <string name="mx_b2c_message_server">Server</string>
   <string name="mx_btn_enable">Activeren</string>
   <string name="mx_btn_enable_now">Uitschakelen</string>
   <string name="mx_count_dspt">"Sinds de activatie, heeft MIUI %1$d SMS cloudbericht(en) verzonden voor u %2$d MMS"</string>
