@@ -12,19 +12,19 @@
   <string name="find_device_error_account_sys_timeout">Kon niet verbinden met Mi Account</string>
   <string name="find_device_error_network">Controleer uw dataverbinding en probeer opnieuw.</string>
   <string name="find_device_error_password_changed">Account wachtwoord is recent gewijzigd.</string>
-  <string name="find_device_error_server">Server fout</string>
+  <string name="find_device_error_server">Serverfout</string>
   <string name="find_device_error_unknown">Onbekende fout.</string>
-  <string name="find_device_noise_title">Apparaat localisatie geluid</string>
+  <string name="find_device_noise_title">Apparaat lokalisatie geluid</string>
   <string name="find_device_notice_p1">Ga naar</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"om te localiseren, blokkeren of om telefoon te herstellen.
-Als u van Sim kaart wisseld, zal automatisch een SMS verzonden worden om deze functie te reactiveren.</string>
+  <string name="find_device_notice_p3">"om te lokaliseren, blokkeren of om telefoon te herstellen.
+Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze functie te reactiveren.</string>
   <string name="find_device_stop_noise">Tik op Ok om te dempen</string>
   <string name="find_device_success_title">Apparaat zoeken</string>
   <string name="i_know">Ok</string>
   <string name="login_failed">Kon niet aanmelden</string>
   <string name="password">Wachtwoord</string>
-  <string name="phone_locked">Dit apparaat is misschien gekoppeld aan een bestaande Mi Account(%s). Aanmelden om dit apparaat te activeren.</string>
+  <string name="phone_locked">Dit apparaat is misschien gekoppeld aan een bestaand Mi Account(%s). Aanmelden om dit apparaat te activeren.</string>
   <string name="stop_on_empty_captcha">Captcha mag niet leeg zijn</string>
   <string name="stop_on_empty_password">"Wachtwoord mag niet leeg zijn</string>
   <string name="unlock">Activeren</string>
@@ -34,11 +34,11 @@ Als u van Sim kaart wisseld, zal automatisch een SMS verzonden worden om deze fu
   <string name="unlock_error_interrupted">Onderbroken</string>
   <string name="unlock_error_network">Kan niet verbinden met netwerk</string>
   <string name="unlock_error_rpc">RPC fout</string>
-  <string name="unlock_error_server">Server fout</string>
+  <string name="unlock_error_server">Serverfout</string>
   <string name="unlock_error_ssl_hand_shake">Kon niet verbinden met de server, probeer de tijd en datum handmatig in te stellen</string>
   <string name="unlock_error_unknown">Kan niet aanmelden</string>
   <string name="unlock_error_user_name">Ongeldige gebruikersnaam</string>
   <string name="unlock_wrong_captcha">De ingevoerde code is fout</string>
   <string name="unlocking">Bezig met activeren…</string>
-  <string name="verify_password_failed">"Kon Mi Account ID verifiëren. %s."</string>
+  <string name="verify_password_failed">"Kon Mi Account ID niet verifiëren. %s."</string>
 </resources>
