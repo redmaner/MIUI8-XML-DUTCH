@@ -393,7 +393,7 @@
   <string name="incoming_video_show_pref_title">Profielvideo weergeven bij inkomende oproep</string>
   <string name="international_dial_complete_intention">Maak internationale gesprekken tegen lagere tarieven</string>
   <string name="international_dial_complete_no">Nu niet</string>
-  <string name="international_dial_complete_summary">Internationale gesprekken hebben hogere gesprekskosten. Exclusief gebruik van MI telefoon gebruikers herlaad pakket, kunt u internationale gesprekken maken aan lage tarieven </string>
+  <string name="international_dial_complete_summary">Internationale gesprekken hebben hogere gesprekskosten. Exclusief gebruik van MI telefoon gebruikers herlaad pakket, kunt u internationale gesprekken maken tegen lage tarieven </string>
   <string name="international_dial_complete_yes">Gebruik Mi Voice</string>
   <string name="international_disable">Buitenlands nieuws uitgeschakeld</string>
   <string name="international_enable">Buitenlands nieuws ingeschakeld</string>
@@ -482,9 +482,9 @@
   <string name="livetalk_network_confirm_summary">Herlaad pakketten gebruiken ongeveer 1KB aan mobiele data bij elk gesprek.</string>
   <string name="livetalk_next_step">Volgende</string>
   <string name="livetalk_nsufficient_balance">Onvoldoende krediet</string>
-  <string name="livetalk_package_introduction_text">"Goedkope gesprekkennaar iedere telefoon
+  <string name="livetalk_package_introduction_text">"Goedkope gesprekken naar iedere telefoon
 Herlaad en start met bellen"</string>
-  <string name="livetalk_package_name">Saldo bij vullen</string>
+  <string name="livetalk_package_name">Saldo bijvullen</string>
   <string name="livetalk_provider">Aangeboden door %1$s</string>
   <string name="livetalk_provision">&lt;b&gt;reglement&lt;/b&gt;</string>
   <string name="livetalk_service_and_short_number_not_support">Servicenummers en korte nummers worden niet ondersteund.</string>
@@ -493,10 +493,10 @@ Herlaad en start met bellen"</string>
   <string name="livetalk_unavaiable_info">Deze service is tijdelijk niet beschikbaar</string>
   <string name="livetalk_user_config_title">Telefoonnr. verifiëren</string>
   <string name="livetalk_version">Version 0.9 | Beta</string>
-  <string name="livetalk_welcome_description_text">"• ¥ 0.05 per minuut voor nationale gesprekken ¥ 0.03 voor internationale.
-• Bel naar ieder tefoon in de wereld, er zijn geen provider beperkingen.
+  <string name="livetalk_welcome_description_text">"• ¥ 0.05 per minuut voor nationale gesprekken ¥ 0.03 voor internationale gesprekken.
+• Bel naar iedere telefoon in de wereld, er zijn geen providerbeperkingen.
 • Herlaad en begin met bellen, er zijn geen ingewikkelde instellingen."</string>
-  <string name="livetalk_welcome_notes_text">"Opmerking: Ieder gesprek heeft 1KB aan mobiele data nodig; Dienst en afgekorte nummers worden niet ondersteund. Als u betaald voor inkomende oproepen, zullen er kosten aangerekend worden door uw provider wanneer roaming is ingeschakeld."</string>
+  <string name="livetalk_welcome_notes_text">"Opmerking: Ieder gesprek heeft 1KB aan mobiele data nodig; Dienst en afgekorte nummers worden niet ondersteund. Als u betaalt voor inkomende oproepen, zullen er kosten aangerekend worden door uw provider wanneer roaming is ingeschakeld."</string>
   <string name="livetalk_white_list_number_title">Een normaal gesprek voeren</string>
   <string name="load_networks_progress">Zoeken…</string>
   <string name="loading">Een momentje…</string>
@@ -748,7 +748,7 @@ Herlaad en start met bellen"</string>
   <string name="purchase_limit">Je hebt je herlaad limiet bereikt</string>
   <string name="purchase_list">Aankoop geschiedenis</string>
   <string name="purchase_notes">Opmerking: Het kan worden gebruikt voor internationale gesprekken, internationale lange-equivalente 8 minuten elke 50 minuten lang.</string>
-  <string name="query">Query</string>
+  <string name="query">Vraag</string>
   <string name="quickly_verify">Bevestigen</string>
   <string name="radio_off_error">Schakel de radio in voordat u deze instellingen bekijkt.</string>
   <string name="rc_unlock_failed">UIM Corporate ontgrendelingsverzoek mislukt.</string>
@@ -847,9 +847,9 @@ Herlaad en start met bellen"</string>
   <string name="setting_activate_international_title">Internationale gesprekken</string>
   <string name="settings_label">Netwerkinstellingen</string>
   <string name="sim1_activated">SIM kaart 1</string>
-  <string name="sim1_no_activated">SIM kaart1 is niet geverifieerd, kan niet bellen</string>
+  <string name="sim1_no_activated">SIM kaart 1 is niet geverifieerd, kan niet bellen</string>
   <string name="sim2_activated">, SIM kaart 2</string>
-  <string name="sim2_no_activated">SIM kaart 2 niet geverifieerd, kan niet bellen</string>
+  <string name="sim2_no_activated">SIM kaart 2 is niet geverifieerd, kan niet bellen</string>
   <string name="simContacts_airplaneMode">Voor het importeren van contacten vanaf de SIM kaart moet u vliegmodus uitschakelen.</string>
   <string name="simContacts_emptyLoading">Lezen…</string>
   <string name="simContacts_title">Contacten selecteren om te importeren</string>
@@ -859,7 +859,7 @@ Herlaad en start met bellen"</string>
   <string name="sim_contact_number">Nummer</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
   <string name="sim_ndp_unlock_text">Ontgrendelen</string>
-  <string name="sim_no_activated">SIM kaart 2 niet geverifieerd, kan niet bellen</string>
+  <string name="sim_no_activated">SIM kaart 2 is niet geverifieerd, kan niet bellen</string>
   <string name="sim_unlock_failed">SIM deblokkeren verzoek gefaald.</string>
   <string name="sim_unlock_success">SIM deblokkeren gelukt.</string>
   <string name="sip_account_list">SIP accounts</string>
@@ -867,7 +867,7 @@ Herlaad en start met bellen"</string>
   <string name="sip_accounts_title">Accounts</string>
   <string name="sip_add_account_tip_text">Voeg een SIP account toe voor VOIP.</string>
   <string name="sip_always_send_keepalive">Altijd verzenden</string>
-  <string name="sip_call_options_entry_1">Voor alle oproepen als eer mobiele data beschikbaar is</string>
+  <string name="sip_call_options_entry_1">Voor alle oproepen als er mobiele data beschikbaar is</string>
   <string name="sip_call_options_entry_2">Alleen voor internetgesprekken</string>
   <string name="sip_call_options_entry_3">Vragen bij elke oproep</string>
   <string name="sip_call_options_title">Internetoproepen gebruiken</string>
