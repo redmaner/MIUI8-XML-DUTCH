@@ -393,7 +393,7 @@
   <string name="incoming_video_show_pref_title">Profielvideo weergeven bij inkomende oproep</string>
   <string name="international_dial_complete_intention">Maak internationale gesprekken tegen lagere tarieven</string>
   <string name="international_dial_complete_no">Nu niet</string>
-  <string name="international_dial_complete_summary">Internationale gesprekken hebben hogere gesprekskosten. Exclusief gebruik van MI telefoon gebruikers herlaad pakket, kunt u internationale gesprekken maken tegen lage tarieven </string>
+  <string name="international_dial_complete_summary">Internationale gesprekken hebben normaal hogere gesprekskosten. Gebruik het herlaad pakket om goedkoper te bellen</string>
   <string name="international_dial_complete_yes">Gebruik Mi Voice</string>
   <string name="international_disable">Buitenlands nieuws uitgeschakeld</string>
   <string name="international_enable">Buitenlands nieuws ingeschakeld</string>
@@ -449,7 +449,7 @@
   <string name="lable_incoming_calls_except">Binnenkomende gesprekken tijdens roaming</string>
   <string name="lafs_disable">Vluchttijden voor lokaal vliegveld uitgeschakeld</string>
   <string name="lafs_enable">Vluchttijden voor lokaal vliegveld ingeschakeld</string>
-  <string name="left_minutes">Min</string>
+  <string name="left_minutes">min</string>
   <string name="list_language_dtitle">Talen</string>
   <string name="list_language_summary">De taal voor het nieuws selecteren</string>
   <string name="list_language_title">Taal</string>
@@ -460,9 +460,9 @@
   <string name="livetalk_activate_number_1">Verifieer SIM 1</string>
   <string name="livetalk_activate_number_2">Verifieer SIM 2</string>
   <string name="livetalk_activate_sim_card">Activeer</string>
-  <string name="livetalk_activate_summary">Het is nodig om een SMS bericht te sturen om deze dienst te verifiëren. Na verificatie kan de SIM kaart gebruikt worden door herlaad pakket.</string>
+  <string name="livetalk_activate_summary">Er zal een SMS verstuurd worden om deze dienst te verifiëren.</string>
   <string name="livetalk_add_white_list_info">Telefoonnr. toevoegen om direct te bellen.</string>
-  <string name="livetalk_before_provision">"Lezen en aanvaarden "</string>
+  <string name="livetalk_before_provision">Gelezen en aanvaard</string>
   <string name="livetalk_charge_now">Herladen</string>
   <string name="livetalk_complete">Klaar</string>
   <string name="livetalk_complete_domestic_phone">Maak nationale gesprekken door gebruik van herlaad pakketten.</string>
@@ -470,12 +470,12 @@
   <string name="livetalk_complete_introduction">Herlaad pakket is toegevoegd aan je Mi account en zal worden gebruikt bij uw volgende gesprek.</string>
   <string name="livetalk_complete_name">Schakel over naar herlaad pakket</string>
   <string name="livetalk_complete_title">Bel om herlading te voltooien</string>
-  <string name="livetalk_continue_button">Snel gebruiken</string>
+  <string name="livetalk_continue_button">Start met te gebruiken</string>
   <string name="livetalk_continue_button_creat_account">Account aanmaken</string>
   <string name="livetalk_creat_account_fialed">Account fout</string>
   <string name="livetalk_dial_direct">Direct bellen</string>
   <string name="livetalk_experience_button">Nu proberen</string>
-  <string name="livetalk_introduction_text">Hoge kwaliteit en lage kosten om internationaal te bellen</string>
+  <string name="livetalk_introduction_text">Internationale gesprekken tegen aantrekkelijke tarieven</string>
   <string name="livetalk_last_step">Terug</string>
   <string name="livetalk_name">Herlaad pakket</string>
   <string name="livetalk_network_confirm">Ok</string>
@@ -486,7 +486,7 @@
 Herlaad en start met bellen"</string>
   <string name="livetalk_package_name">Saldo bijvullen</string>
   <string name="livetalk_provider">Aangeboden door %1$s</string>
-  <string name="livetalk_provision">&lt;b&gt;reglement&lt;/b&gt;</string>
+  <string name="livetalk_provision">&lt;b&gt;Algemene Voorwaarden&lt;/b&gt;</string>
   <string name="livetalk_service_and_short_number_not_support">Servicenummers en korte nummers worden niet ondersteund.</string>
   <string name="livetalk_setting">Herlaad pakket</string>
   <string name="livetalk_sim_card_not_activated">Deze SIM kaart is niet geactiveerd.</string>
@@ -601,7 +601,7 @@ Herlaad en start met bellen"</string>
   <string name="no_internet_available">Controleer uw internetverbinding voordat u belt via internet.</string>
   <string name="no_internet_available_title">Geen internetverbinding</string>
   <string name="no_more">Niet meer</string>
-  <string name="no_sim_card">Geen SIM kaart</string>
+  <string name="no_sim_card">SIM kaart insteken</string>
   <string name="no_sip_account_found">Er zijn geen accounts voor bellen via internet ingesteld op deze telefoon. Wilt u nu een account toevoegen?</string>
   <string name="no_sip_account_found_title">Geen account voor internetgesprekken</string>
   <string name="no_vm_number">Voicemailnummer ontbreekt</string>
@@ -740,14 +740,14 @@ Herlaad en start met bellen"</string>
   <string name="puk_unlock_success">PUK ontgrendeling gelukt.</string>
   <string name="puk_unlocked">Uw SIM kaart is gedeblokkeerd. Uw telefoon wordt ontgrendeld...</string>
   <string name="purchase">Aankoop</string>
-  <string name="purchase_description_summary">"- Provider onbeperkt, ruimte onbeperkt;
-- Geen conflicten met de operator diensten;
-- Direct na herladen, nooit ontruimd;
-- Simpel, direct te gebruiken."</string>
-  <string name="purchase_description_title">Description</string>
+  <string name="purchase_description_summary">"- Bel ieder telefoon in de wereld, er zijn geen provider beperkingen.
+- Geen conflicten met de huidige diensten.
+- Herladen en beginnen met bellen
+- Er zijn geen ingewikkelde instellingen"</string>
+  <string name="purchase_description_title">Over</string>
   <string name="purchase_limit">Je hebt je herlaad limiet bereikt</string>
   <string name="purchase_list">Aankoop geschiedenis</string>
-  <string name="purchase_notes">Opmerking: Het kan worden gebruikt voor internationale gesprekken, internationale lange-equivalente 8 minuten elke 50 minuten lang.</string>
+  <string name="purchase_notes">"Opmerking: Het kan worden gebruikt voor internationale gesprekken. Met het herlaad pakket kunt u 50 minuten bellen voor hetzelfde bedrag dat u voor 8 minuten zou hebben betaald zonder gebruik te maken van deze service."</string>
   <string name="query">Vraag</string>
   <string name="quickly_verify">Bevestigen</string>
   <string name="radio_off_error">Schakel de radio in voordat u deze instellingen bekijkt.</string>
@@ -773,9 +773,9 @@ Herlaad en start met bellen"</string>
   <string name="reject_via_sms">Snel antwoord</string>
   <string name="reject_via_sms_summary">Snelle berichten aanpassen</string>
   <string name="reject_via_sms_title">Snelle antwoorden</string>
-  <string name="remain_mins_divider">Of</string>
-  <string name="remain_mins_domestic">Nationaal overblijvend</string>
-  <string name="remain_mins_international">Internationaal overblijvend</string>
+  <string name="remain_mins_divider">of</string>
+  <string name="remain_mins_domestic">Overblijvend (nationaal)</string>
+  <string name="remain_mins_international">Overblijvend (internationaal)</string>
   <string name="remain_mins_unit">Min</string>
   <string name="remember_my_choice">Altijd gebruiken voor internetoproepen</string>
   <string name="remove">Verwijderen</string>
@@ -847,9 +847,9 @@ Herlaad en start met bellen"</string>
   <string name="setting_activate_international_title">Internationale gesprekken</string>
   <string name="settings_label">Netwerkinstellingen</string>
   <string name="sim1_activated">SIM kaart 1</string>
-  <string name="sim1_no_activated">SIM kaart 1 is niet geverifieerd, kan niet bellen</string>
+  <string name="sim1_no_activated">Kon SIM kaart 1 niet verifiëren</string>
   <string name="sim2_activated">, SIM kaart 2</string>
-  <string name="sim2_no_activated">SIM kaart 2 is niet geverifieerd, kan niet bellen</string>
+  <string name="sim2_no_activated">Kon SIM kaart 2 niet verifiëren</string>
   <string name="simContacts_airplaneMode">Voor het importeren van contacten vanaf de SIM kaart moet u vliegmodus uitschakelen.</string>
   <string name="simContacts_emptyLoading">Lezen…</string>
   <string name="simContacts_title">Contacten selecteren om te importeren</string>
@@ -859,7 +859,7 @@ Herlaad en start met bellen"</string>
   <string name="sim_contact_number">Nummer</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
   <string name="sim_ndp_unlock_text">Ontgrendelen</string>
-  <string name="sim_no_activated">SIM kaart 2 is niet geverifieerd, kan niet bellen</string>
+  <string name="sim_no_activated">Kon SIM kaart 2 niet verifiëren</string>
   <string name="sim_unlock_failed">SIM deblokkeren verzoek gefaald.</string>
   <string name="sim_unlock_success">SIM deblokkeren gelukt.</string>
   <string name="sip_account_list">SIP accounts</string>
@@ -960,7 +960,7 @@ Herlaad en start met bellen"</string>
   <string name="title_purchase">Herladen</string>
   <string name="title_rates">Tarieven</string>
   <string name="title_user_config">Activeer SIM kaart</string>
-  <string name="top_up_first">Pakket eerst herladen</string>
+  <string name="top_up_first">Eerst herladen</string>
   <string name="transport_title">Transporttype</string>
   <string name="tty_mode_entries_full">TTY Full</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -982,13 +982,13 @@ Herlaad en start met bellen"</string>
   <string name="uplmn_numeric_is_empty">Voeg netwerk ID in</string>
   <string name="use_history">Activiteit</string>
   <string name="use_history_duration_min">%1$s minuten</string>
-  <string name="use_range">Aanbod van gebruik</string>
+  <string name="use_range">Functies</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD code uitvoeren...</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="verified">Geverifieerd</string>
-  <string name="verify_fialed">Mislukt</string>
-  <string name="verifying">Bezig met verifiëren</string>
+  <string name="verify_fialed">Kon niet verifiëren</string>
+  <string name="verifying">Bezig met verifiëren…</string>
   <string name="vibrate_on_ring_title">Trillen bij bellen</string>
   <string name="vm_change_failed">Kan het voicemailnummer niet wijzigen. Neem contact op met uw provider als dit probleem zich blijft voordoen.</string>
   <string name="vm_changed">Voicemailnummer gewijzigd.</string>
