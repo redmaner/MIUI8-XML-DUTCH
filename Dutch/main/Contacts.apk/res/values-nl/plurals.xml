@@ -113,6 +113,10 @@
         <item quantity="other">Deze telefoonnummers deblokkeren?</item>
         <item quantity="one">Dit telefoonnummer deblokkeren?</item>
     </plurals>
+	<plurals name="voip_contacts_count">
+        <item quantity="other">%1$d personen</item>
+        <item quantity="one">%1$d persoon</item>
+    </plurals>
 	<plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Ging %d keer over</item>
         <item quantity="one">Ging %d keer over</item>
@@ -122,7 +126,7 @@
         <item quantity="one">%1$d contact</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d contacten zijn niet gesync."</item>
-        <item quantity="one">"1 contact is niet gesync."</item>	
+        <item quantity="other">"%d contacten of foto\'s zijn niet gesync."</item>
+        <item quantity="one">"1 contact of foto is niet gesync."</item>	
     </plurals>
 </resources>
