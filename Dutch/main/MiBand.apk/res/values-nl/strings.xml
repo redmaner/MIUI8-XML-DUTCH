@@ -158,6 +158,8 @@ je hebt een netwerkverbinding nodig.</string>
   <string name="body_standard_ref">Gewichts referentie</string>
   <string name="bohee_subtitle">Tik om meer te leren.</string>
   <string name="bohee_title">"Gewichtsverlies programma's beschikbaar"</string>
+  <string name="bracelet_disconnect_tips">Band losgekoppeld</string>
+  <string name="bracelet_disconnected">Band noet verbonden zijn</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
   <string name="bracelet_info_fw_version">"Firmware: %1$s 
@@ -207,6 +209,7 @@ Aanraken om nieuwe gebruiker toe te voegen."</string>
   <string name="choose_userinfo_for_weight">Kies profiel</string>
   <string name="clear_weight_goal">Doel wissen</string>
   <string name="clock_closed">Uit</string>
+  <string name="close_hr_check">Real-time hartslagmeter is automatisch uitgeschakeld</string>
   <string name="cm">cm</string>
   <string name="come_from_xiaomi_bracelet">Van Mi Fit</string>
   <string name="complete">Afgewerkt</string>
@@ -280,6 +283,11 @@ Bespaarde %2$s gallons aan benzine"</string>
   <string name="device_not_found">Apparaat niet gevonden</string>
   <string name="device_not_found_not_knocked">Gelieve opnieuw zoeken na het tikken Mi Band eens hij knippert.</string>
   <string name="device_not_response">Waarom knippert de Mi Band niet?</string>
+  <string name="devices_miband_hr_label">Hartslag</string>
+  <string name="devices_miband_label">Mi Band</string>
+  <string name="devices_scale_label">Weegschaal</string>
+  <string name="devices_shoes_label">Schoenen</string>
+  <string name="dialog_confirm">Begrepen</string>
   <string name="disable_debug_log">Debug mode afgesloten</string>
   <string name="discard">Verwerpen</string>
   <string name="discard_alarm_change">Veranderingen verwerpen？</string>
@@ -411,7 +419,9 @@ op te staan</string>
   <string name="health_care_date_limit">Periode in dienst: gratis jaar</string>
   <string name="health_goal_tips">Mi Band eerst koppelen.</string>
   <string name="health_link">HealthLink</string>
-  <string name="health_provider_desc">Unie gezondheidszorg verreweg</string>
+  <string name="health_provider_desc">Persoonlijke gezondheid en fitness diensten</string>
+  <string name="heartrate">Hartslag</string>
+  <string name="heartrate_version">Hartslag versie</string>
   <string name="heavier_than_goal">%1$s zwaarder dan het streefdoel</string>
   <string name="height_less_than_100">"Kan baby's kleiner dan 100 cm niet wegen</string>
   <string name="hello_world">Hallo wereld!</string>
@@ -433,6 +443,34 @@ op te staan</string>
   <string name="host_change_success">Overschakelen host adres voltooid</string>
   <string name="hot_des">Energie</string>
   <string name="hour_1"/>
+   <string name="hr_battery_low">Armband vermogen is minder dan 10%</string>
+  <string name="hr_dialog_ble">Houd de telefoon en armband verbonden met Bluetooth</string>
+  <string name="hr_dialog_go">Met onmiddellijke ingang</string>
+  <string name="hr_dialog_pace">Nadat de armband is verbonden met spoed weergeven</string>
+  <string name="hr_dialog_title">Hartslag tijdens lopen bekijken</string>
+  <string name="hr_dialog_wear">Met strakke armband vermijd u schudden en is de meting nauwkeuriger</string>
+  <string name="hr_empty_data">--</string>
+  <string name="hr_item_date">MM/dd HH:mm</string>
+  <string name="hr_not_wear_bracelet">Draag geen polsbandjes</string>
+  <string name="hr_tips1">Voordat u gaat lopen zet de Bluetoothverbinding armband aan</string>
+  <string name="hr_tips10">Anaërobe oefening, de consumptie van suiker voor energie</string>
+  <string name="hr_tips11">Lage trainingsintensiteit (Paode) is een aërobe oefening, hartslag is relatief laag op dit moment, het lichaam vebruikt hoofdzakelijk de energie door consumptie van vet.</string>
+  <string name="hr_tips12">Aërobe oefening, de consumptie van vet voor energie</string>
+  <string name="hr_tips2">De lichte detectie versie van Mi armband aansluiten om hartslag op te sporen </string>
+  <string name="hr_tips3">Het wordt aanbevolen om iets onder de maximale aërobe hartslag controle te blijven, die dan effectief de kans op een letsels kan voorkomen tijdens het lopen, terwijl de fitness het verminderen vet resultaten vertoont. Bijvoorbeeld: China meter wonderkind op de leeftijd van 25 jaar, zijn vaak overwerkt, hebben gebrek aan beweging, dan is de bijbehorende maximale aërobe hartslag van 180-25-5=150 (Eenheid: slagen/min). Loophartslag is het raadzaam tussen de 140-150.</string>
+  <string name="hr_tips4">Aerobic lopen, verwondingen voorkomen, fitness Jianzhi</string>
+  <string name="hr_tips5">"Ten eerste, de basiswaarde = 180- leeftijd (eenheid: slagen/min).
+De tweede stap zal de basiswaarde worden aangepast met de recente fysieke toestand.
+1. Als u onlangs de voornaamste ziekten overwon; basiswaarde -10.
+2, Bij gewonden is het niet goed om op lange termijn te oefenen; basiswaarde -5.
+3, Er meer dan twee jaar aan houden, vier keer per week te oefenen; basiswaarde 5.
+Tips: ouder dan 65 jaar en jonger dan 16 jaar mogen niet boven de toepassing van de formule gaan die u nodig hebt op basis van hun fysieke omstandigheden. "</string>
+  <string name="hr_tips6">Bereken de maximale aërobe hartslag</string>
+  <string name="hr_tips7">Iedereen heeft zijn maximale aërobe hartslag. Bij het uitvoeren de hartslag op iets minder houden dan de maximale aërobe hartslag training, aërobe oefening kan de efficiëntie  van vetverbranding verbeteren. Als de hartslag hoger is dan het aandeel van de anaërobe oefening kan een aanzienlijke verhoging van het lichaam van de consumptie van suiker verhogen, vetconsumptie verlagen.</string>
+  <string name="hr_tips8">Maximale aërobe hartslag</string>
+  <string name="hr_tips9">Hogere inspanningsintensiteit (snel lopen), zal het percentage anaërobe oefening verhogen, hartslag is relatief hoog, het lichaam verbruikt meer suiker voor energie te vergroten en vetconsumptie verminderd</string>
+  <string name="hr_unit_label">Hartslag (slagen/min)</string>
+  <string name="hug_baby_weight">Gewicht met kind in de armen</string>
   <string name="in"/>
   <string name="incoming_call_notify">Inkomend gesprek</string>
   <string name="incoming_call_notify_closed">Inkomend gespreks melding gesloten</string>
@@ -476,6 +514,7 @@ het midden van de weegschaal plaatsen"</string>
   <string name="instruction_weight_title_6">Weging</string>
   <string name="invalid_name">De ingevoerde naam is ongeldig</string>
   <string name="join_improvement_plan_detial">Helpen bij het verbeteren van de Mi Band door het gebruiker gegevens naar Huami Inc te sturen.</string>
+  <string name="jump_measure_guide">Overslaan</string>
   <string name="keep_goal_succ">Gewicht behouden</string>
   <string name="kg">kg</string>
   <string name="km">km</string>
@@ -568,6 +607,7 @@ het midden van de weegschaal plaatsen"</string>
   <string name="label_care_time_by_me">Nudges %s</string>
   <string name="label_care_time_by_other">%s Nudges naar je</string>
   <string name="label_continue_record">Doorgaan</string>
+  <string name="label_countdown">Voorbereiden om te meten…</string>
   <string name="label_date_with_week">%1$s/%2$s %3$s</string>
   <string name="label_delete_friend">Vrienden verwijderen</string>
   <string name="label_empty_friend">Deel fitness gegevens met vrienden</string>
@@ -651,6 +691,12 @@ met %1$s"</string>
   <string name="male">Mannelijk</string>
   <string name="marathon_format_0">"Is ongeveer %1$s marathons"</string>
   <string name="marathon_format_1">"Is meer dan %1$s marathons"</string>
+  <string name="measure">Hartslag meten</string>
+  <string name="measure_fail">Kon hartslag niet meten</string>
+  <string name="measure_reminder">"Houd uw pols op uw borst hoogte
+en de sensor in de buurt van je huid"</string>
+  <string name="measure_tips">Houd band sensor dicht bij uw huid</string>
+  <string name="measuring">Meten…</string>
   <string name="median">Gemiddeld</string>
   <string name="message_title_care">Bericht</string>
   <string name="message_title_friend">Bericht</string>
@@ -698,6 +744,8 @@ met %1$s"</string>
   <string name="new_version_available">Nieuwe versie gevonden</string>
   <string name="next_step">Volgende</string>
   <string name="no_bracelet_tips">(enkel beschibaar bij gekoppelde Mi Band)</string>
+  <string name="no_measure_data">Geen resultaten</string>
+  <string name="no_measure_tips">Niet meer tonen</string>
   <string name="no_need_weight_goal">Doelgewicht verwijderen?</string>
   <string name="no_network_connection">Kan geen verbinding maken met netwerk</string>
   <string name="no_network_connection_retry">Klik om opnieuw te proberen.</string>
@@ -749,7 +797,9 @@ Hou vol!</string>
   <string name="ok">Ok</string>
   <string name="on">Aan</string>
   <string name="one_min">1 min. geleden</string>
-  <string name="one_week">Tijdens de week, </string>
+  <string name="one_week">Deze week </string>
+  <string name="only_one_decimal">Kan niet meer dan 1 decimaal invoeren</string>
+  <string name="open_bluetooth_tips">Bluetooth ingeschakeld houden</string>
   <string name="open_gallery">Open gallerij</string>
   <string name="orange">Oranje</string>
   <string name="other">EXTRA INSTELLINGEN</string>
@@ -774,6 +824,8 @@ Hou vol!</string>
   <string name="please_knock_bracelet">Tik op de Mi Band om te koppelen</string>
   <string name="please_set_sport_goal">Zet je doel</string>
   <string name="pm">PM</string>
+  <string name="pre_hr_value">Vorige resultaat</string>
+  <string name="pre_measure">Vorige resultaat</string>
   <string name="prepare_log">Een momentje…</string>
   <string name="prev_step">Vorige</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Meer laden</string>
@@ -804,6 +856,7 @@ Hou vol!</string>
   <string name="running_auto_pause_desc">Stop met het verzamelen van info als het lopen is onderbroken</string>
   <string name="running_average_speed">Gemiddeld</string>
   <string name="running_backgroud_notification">Lopen…</string>
+  <string name="running_bracelet_not_connect">Band niet verbonden</string>
   <string name="running_btn_confirm">Ja</string>
   <string name="running_btn_continue">Nee</string>
   <string name="running_btn_delete">Verwijderen</string>
@@ -829,6 +882,7 @@ Hou vol!</string>
   <string name="running_distance">Afstand</string>
   <string name="running_distance_desc">Kilometers</string>
   <string name="running_distance_detail">%.2fkm</string>
+  <string name="running_distance_mile_unit">Afstand (mijl)</string>
   <string name="running_distance_unit">Afstand(km)</string>
   <string name="running_end_time">Einde</string>
   <string name="running_failed_to_get_history_neterror">Kan niet verbinden met netwerk</string>
@@ -838,6 +892,33 @@ Hou vol!</string>
   <string name="running_gps_locating">GPS locatie…</string>
   <string name="running_gps_poor_signal">Slecht GPS signaal. Zorg ervoor dat u een onbelemmerd zicht hebt op de hemel.</string>
   <string name="running_gps_turnon">Inschakelen</string>
+  <string name="running_help">Help</string>
+  <string name="running_help_foot_people">Wie kan er proberen te landen op de voorvoeten bij het lopen?</string>
+  <string name="running_help_foot_suggest1">Blijf bij je eigen loop gewoonten</string>
+  <string name="running_help_foot_suggest2">We raden u niet aan om uw loop gewoonten te veranderen. Als u ervoor kiest om te landen op uw midfdenvoet en hielen, draag dan schoenen met een betere demping om de impact van de landing te verminderen.</string>
+  <string name="running_help_foot_suggest3">Wanneer je knieën meer bescherming vereisen , kunt u proberen te landen op je voorvoet door meer de onderstaande routine te volgen.</string>
+  <string name="running_help_foot_suggest4">Probeer te lopen zoals dit</string>
+  <string name="running_help_foot_suggest5">Land op de grond direct onder u, houd je knieën licht gebogen en leun je lichaam naar voren.</string>
+  <string name="running_help_foot_suggest6">Lopen alsof je een warm wiel wilt draaien met je voeten.</string>
+  <string name="running_help_foot_suggest7">Maak kleinere stappen wanneer u de loopsnelheid wilt verhogen.</string>
+  <string name="running_help_foot_suggest8">Verbind loopschoenen en zorg ervoor dat je op uw voorvoet land.</string>
+  <string name="running_help_foot_suggest9">"Alvorens te lopen, zet Bluetoothverbinding met de loopschoenen aan;
+Tijdens het lopen de Bluetoothverbinding ingeschakeld houden."</string>
+  <string name="running_help_pace_freq">Tempo</string>
+  <string name="running_help_pace_freq_illustra">Temposeer het aantal stappen die je maakt per minuut tijdens het lopen.</string>
+  <string name="running_help_pace_freq_label">Wat is tempo?</string>
+  <string name="running_help_pace_freq_suggest1">Versnellen</string>
+  <string name="running_help_pace_freq_suggest2">Lopers verhogen meestal hun pas om snelheid te winnen. Echter, deze methode kan leiden tot spierbeschadiging. U kan proberen om uw tempo te verhogen om snelheid te winnen.</string>
+  <string name="running_help_pace_freq_suggest3">Lange afstandlopers maken meestal 180 stappen per minuut. Wij raden u aan deze waarde als doel voor uw tempo.</string>
+  <string name="running_help_pace_freq_suggest4">Mi Band verbinden, zorg ervoor dat uw tempo gedetecteerd wordt.</string>
+  <string name="running_help_pace_freq_suggest5">"Bluetooth inschakelen en Mi Band verbinden voordat u gaat lopen.
+Bluetooth ingeschakeld houden op tijdens het lopen."</string>
+  <string name="running_help_pace_freq_target">Doel tempo</string>
+  <string name="running_help_pre_foot">Landen op voorvoet</string>
+  <string name="running_help_pre_mid_foot">Landen op voorvoet/middenvoet</string>
+  <string name="running_help_pros_cons">Voor- en nadelen</string>
+  <string name="running_help_slow_run">Bij langzaam lopen, zouden de meeste mensen van nature landen op hun midfeet of hakken. Wanneer de loopsnelheid toeneemt, zouden meer mensen op de grond landen met hun de voorvoeten. Bijvoorbeeld, de meeste sprinters kiezen ervoor om te landen op hun de voorvoeten tijdens het lopen.</string>
+  <string name="running_help_slow_run_suggest">Beiden hebben voor- en nadelen, nadat de middenvoet en de hiel op de grond land heeft dit grotere impact op de knie. De voorvoet aanzienlijk minder effect op de knie, maar de achillespees en kuitspieren vereisen een hogere kwaliteit.</string>
   <string name="running_helper">Route volger</string>
   <string name="running_history">Geschiedenis</string>
   <string name="running_history_date" formatted="false">%d/%d/%d</string>
@@ -854,11 +935,18 @@ Hou vol!</string>
   <string name="running_hour_min" formatted="false">%dh %dm</string>
   <string name="running_hour_min_sec" formatted="false">%dh %dm %ds</string>
   <string name="running_hour_sec" formatted="false">%dh %ds</string>
+  <string name="running_hr">Hartslag</string>
+  <string name="running_hr_check">Hartslag detecteren</string>
+  <string name="running_hr_disabled_tips">Schakel hartslagmeter functie in in instellingen</string>
+  <string name="running_hr_unit_desc">Hartslag (slagen/min)</string>
+  <string name="running_kg">kg</string>
   <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
   <string name="running_label_hint">Titel invoer</string>
-  <string name="running_lable_km_slowest">Km traagste</string>
-  <string name="running_lable_miles_fastest">Km rapste</string>
+  <string name="running_lable_km_slowest">Langzaamste km</string>
+  <string name="running_lable_mile_fastest">Snelste mijl</string>
+  <string name="running_lable_mile_slowest">Langzaamste mijl</string>
+  <string name="running_lable_miles_fastest">Snelste km</string>
   <string name="running_main_avoid_use_indoor">Vermijd binnenhuis gebruik</string>
   <string name="running_main_back_button_in_dialog">Terug</string>
   <string name="running_main_continue_button_in_dialog">Doorgaan</string>
@@ -884,6 +972,7 @@ Hou vol!</string>
   <string name="running_prompt_come_on">Ga!!</string>
   <string name="running_prompt_great">Goed!!</string>
   <string name="running_prompt_per_kilometer" formatted="false">Je hebt %s kilometers gelopen. Het koste %s. Het tempo was %s.%s</string>
+  <string name="running_real_time_mile_pace">Tempo (min/mi)</string>
   <string name="running_real_time_pace">Het kost (km)</string>
   <string name="running_resume">Hervatten</string>
   <string name="running_sec">%ds</string>
@@ -901,6 +990,12 @@ Hou vol!</string>
   <string name="running_share_to_title">Mi Band</string>
   <string name="running_share_to_topic">\#Mi Fit#</string>
   <string name="running_share_to_watermark">Mijn watermerk foto</string>
+  <string name="running_shoes">Schoenen</string>
+  <string name="running_shoes_connected">Verbonden</string>
+  <string name="running_shoes_mile_unit">%1$s mijl</string>
+  <string name="running_shoes_not_connect">Schoenen zijn niet verbonden</string>
+  <string name="running_shoes_not_connected">Niet verbonden</string>
+  <string name="running_shoes_unbinded">Niet gekoppeld</string>
   <string name="running_short_track_desc">Je hebt slechts %d meters gelopen. Wil je stoppen met lopen?</string>
   <string name="running_signal_none">Uit</string>
   <string name="running_signal_strong">Sterk</string>
@@ -920,6 +1015,15 @@ Hou vol!</string>
   <string name="running_stop_sport_confirm">Activiteit stoppen?</string>
   <string name="running_synchronous">Gelijktijdig</string>
   <string name="running_time_desc">Tijd</string>
+  <string name="running_tip_conn_shoes">Schoenen koppelen om tempo te zien</string>
+  <string name="running_tip_hr_ble_content">Nadat de armband verbonden is kunt u de hartslag bekijken</string>
+  <string name="running_tip_hr_bracelet_content">Hartslagmeters</string>
+  <string name="running_tip_hr_bracelet_label">Met behulp van lichtgevoelige versie van de Mi armband</string>
+  <string name="running_tip_known">Begrepen</string>
+  <string name="running_tip_open_ble_content">Koppel de Mi band om het tempo te bekijken</string>
+  <string name="running_tip_open_ble_label">Bluetooth inschakelen</string>
+  <string name="running_tip_use_bracelet_content">Volg uw tempo in real-time</string>
+  <string name="running_tip_use_bracelet_label">Mi Band gebruiken</string>
   <string name="running_today_null"/>
   <string name="running_unit_calorie">Cal</string>
   <string name="running_unit_hour">h</string>
@@ -1048,7 +1152,104 @@ Hou vol!</string>
   <string name="share_uninstall_client">Deze app is niet geïnstalleerd.</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
+  <string name="shoes_alert_body_connect_failed">Schud met uw schoenen en probeer opnieuw</string>
+  <string name="shoes_bind">Koppelen</string>
+  <string name="shoes_bind_alert_msg">Scan Huami kern module QR code om te koppelen.</string>
+  <string name="shoes_bind_alert_title">Kon niet koppelen</string>
+  <string name="shoes_bind_change_ok">Vervangen</string>
+  <string name="shoes_bind_change_text" formatted="false">"U hebt reeds %s schoenen gekoppeld, %s paar in de plaats koppelen?"</string>
+  <string name="shoes_bind_prompt">Schud Huami kern module
+en zet dan de QR code binnen het scanbereik</string>
+  <string name="shoes_bind_success">Gekoppeld</string>
+  <string name="shoes_bind_title">Schoenen koppelen</string>
+  <string name="shoes_binded">Gekoppeld</string>
+  <string name="shoes_binding">Bezig met koppelen…</string>
+  <string name="shoes_brand">LN Rider Smart</string>
+  <string name="shoes_bt_disable_lable">Bluetooth is uitgeschakeld</string>
+  <string name="shoes_buy">Koop</string>
+  <string name="shoes_calibrate_bind_first">Eerst de schoenen koppelen</string>
+  <string name="shoes_calibrate_connect_failed">Kon niet verbinden, probeer opnieuw</string>
+  <string name="shoes_calibrate_connecting">Bezig met verbinden…</string>
+  <string name="shoes_calibrate_failed">Kon niet kalibreren</string>
+  <string name="shoes_calibrate_instruction">"Sta met je voeten op schouderbreedte uit elkaar
+En wacht 5s "</string>
+  <string name="shoes_calibrate_prepare_instruction">"Plaats de Huami sensor in de schoenen 
+  met Li-Ning logo omhoog"</string>
+  <string name="shoes_calibrate_success">Gekalibreerd</string>
+  <string name="shoes_calibrate_suggestion">Vergeet niet om elke keer te kalibreren nadat de sensor hebt verwijderd</string>
+  <string name="shoes_calibrating">Bezig met kalibreren…</string>
+  <string name="shoes_cancel">Annuleren</string>
+  <string name="shoes_check_upgrade_waiting">Update info verkrijgen…</string>
+  <string name="shoes_connect_failed">Kon niet verbinden, schud de sensor licht om te activeren</string>
+  <string name="shoes_connected">Verbonden</string>
+  <string name="shoes_connecting">Bezig met verbinden…</string>
+  <string name="shoes_connection_attension">Schud uw schoenen</string>
+  <string name="shoes_connection_battery_info">"Batterij van schoenen is laag %s%%"</string>
+  <string name="shoes_count_down_text">%ds</string>
+  <string name="shoes_description">Met een gemiddelde levensduur van 400 tot 800 km, worden loopschoenen beschouwd als een investering op lange termijn. Dat is de reden waarom de meeste lopers kiezen voor top-end producten om ervoor te zorgen dat hun loop ervaring gezond en comfortabel is.</string>
+  <string name="shoes_distance" formatted="false">%d / %d km</string>
+  <string name="shoes_fetching">Info verkrijgen…</string>
+  <string name="shoes_fetching_failed">Kon geen info verkrijgen</string>
+  <string name="shoes_firmware_connect_fail">"Kon niet verbinden</string>
+  <string name="shoes_firmware_connect_success">Verbonden</string>
+  <string name="shoes_firmware_connecting">Bezig met verbinden…</string>
+  <string name="shoes_firmware_disconnect">Verbinding verbroken</string>
+  <string name="shoes_firmware_init_fail">Kon niet initialiseren</string>
+  <string name="shoes_firmware_init_success">Initialisatie voltooid</string>
+  <string name="shoes_firmware_initializing">Bezig met initialiseren…</string>
+  <string name="shoes_firmware_io_error">Kon upgedate bestanden niet laden</string>
+  <string name="shoes_firmware_scan_error">Scan fout</string>
+  <string name="shoes_firmware_scan_fail">Kon niet scannen</string>
+  <string name="shoes_firmware_scan_success">Scan voltooid</string>
+  <string name="shoes_firmware_scanning">Bezig met scannen…</string>
+  <string name="shoes_firmware_send_failed">Geüpload</string>
+  <string name="shoes_firmware_send_success">Kon niet uploaden</string>
+  <string name="shoes_firmware_sending">Data uploaden…</string>
+  <string name="shoes_firmware_update">Firmware update</string>
+  <string name="shoes_firmware_update_fail">Kon niet updaten, afsluiten en opnieuw proberen</string>
+  <string name="shoes_firmware_update_progress">Bezig met %d %% aan het updaten</string>
+  <string name="shoes_firmware_update_prompt">Scan QR code of het item dat u wilt updaten</string>
+  <string name="shoes_firmware_update_start">Start</string>
+  <string name="shoes_firmware_update_success">Firmware geüpdate</string>
+  <string name="shoes_firmware_updating">Bezig met updaten…</string>
+  <string name="shoes_firmware_version">Firmware versie</string>
+  <string name="shoes_fw_uptodate">Geen updates beschibaar</string>
+  <string name="shoes_guangsu">Guangsu</string>
+  <string name="shoes_home_tips_bind_miband">Tik om band te koppelen</string>
+  <string name="shoes_home_tips_connect_failed">Kan niet verbinden</string>
+  <string name="shoes_home_tips_sync_failed_retry">Kon niet sync., probeer opnieuw</string>
+  <string name="shoes_introduction">Over</string>
+  <string name="shoes_mile_unit">%1$s mijlen</string>
+  <string name="shoes_not_binded">Schoenen zijn niet gekoppeld</string>
+  <string name="shoes_not_connected">Schoenen zijn niet verbonden</string>
+  <string name="shoes_package_name">com.xiaomi.hm.health.shoes</string>
+  <string name="shoes_put_done">Klaar</string>
+  <string name="shoes_recalibrate">Probeer opnieuw</string>
+  <string name="shoes_release_binding">Ontkoppelen</string>
+  <string name="shoes_reminder">Voorvoet gegevens kunnen alleen worden opgenomen terwijl schoenen verbonden zijn.</string>
+  <string name="shoes_scanf_alert_msg">Scan de QR code die op Huami kern module staat</string>
+  <string name="shoes_scanf_alert_title">QR code ongeldig</string>
+  <string name="shoes_select_shoes">Selecteer schoenen</string>
+  <string name="shoes_show_battery_okay">Batterij %s%%</string>
+  <string name="shoes_skip">Overslaan</string>
+  <string name="shoes_skip_calibrate_prompt">U moet kalibreren om nauwkeurige gegevens te krijgen. Kalibratie overslaan?</string>
+  <string name="shoes_smart_shoes">%s</string>
+  <string name="shoes_start_calibrate">Start</string>
+  <string name="shoes_static_calibrate">Statische kalibratie</string>
+  <string name="shoes_statistics">Schoen statistieken</string>
+  <string name="shoes_summary_step">%s stappen</string>
+  <string name="shoes_sync_data_progress">Bezig met %s%% te sync…</string>
+  <string name="shoes_unbind">Ontkoppelen</string>
+  <string name="shoes_unbind_prompt">Je schoenen zullen niet in staat om de loop data te synchroniseren met uw telefoon.</string>
+  <string name="shoes_unbind_success">Ontkoppeld</string>
+  <string name="shoes_usage">%s km</string>
+  <string name="shoes_used_distance">Schoenen kilometerstand</string>
   <string name="signal_strength">Signaal sterkte: </string>
+  <string name="skip">Overslaan</string>
+  <string name="sleep_assist">Slaap assistent</string>
+  <string name="sleep_assist_info">Meet de hartslag elke 2 minuten nadat je in slaap valt om de slaap gegevens nauwkeuriger te maken.</string>
+  <string name="sleep_assist_tips">Meet de hartslag regelmatig nadat je in slaap valt om de slaap gegevens nauwkeuriger te maken (kan batterijverbruik versnellen).</string>
+  <string name="sleep_assist_title">Slaap assistent</string>
   <string name="smaller_than_normal_with_value">%1$s beneden gemiddeld</string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Intelligent Alarm</string>
@@ -1145,6 +1346,7 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="tag_start">Starten</string>
   <string name="tag_wait">Wachten</string>
   <string name="tag_waiting">Opnieuw proberen………</string>
+  <string name="this_measure">Huidig resultaat</string>
   <string name="time_format_hour_min">%1$sh %2$sm</string>
   <string name="time_format_min">%s min</string>
   <string name="tips">HERINERING</string>
@@ -1196,6 +1398,7 @@ en de app binnen 5 meter zijn, begin opnieuw"</string>
   <string name="unit_calorie">" Cal"</string>
   <string name="unit_foot">" feet"</string>
   <string name="unit_hour">"h "</string>
+  <string name="unit_hr">BPM</string>
   <string name="unit_inch">" inches"</string>
   <string name="unit_kilometer">" km"</string>
   <string name="unit_meter">" m"</string>
