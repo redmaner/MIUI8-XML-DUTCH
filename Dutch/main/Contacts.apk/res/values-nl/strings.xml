@@ -121,6 +121,7 @@
   <string name="callrecordview_menu_show_sim">%s gesprekken</string>
   <string name="callrecordview_menu_show_stranger">Gesprekken van onbekende nummers</string>
   <string name="callrecordview_menu_show_title">Belgeschiedenis weergave</string>
+  <string name="calls_voip_prompt">Voip</string>
   <string name="cancel_confirmation_dialog_message">Uw wijzigingen annuleren?</string>
   <string name="cancel_confirmation_dialog_title">Annuleren</string>
   <string name="cancel_export_confirmation_message">Export van %s annuleren?</string>
@@ -451,6 +452,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
   <string name="import_contact_card_button">Contact importeren</string>
   <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden op SD kaart.</string>
+  <string name="import_from_onekey_migrate">Importeren met Transfer</string>
   <string name="import_from_other_phone">Importeren uit een andere telefoon</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
   <string name="import_from_sim">Importeren van SIM kaart</string>
@@ -699,7 +701,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="no_contacts_dialog_title">"Er zijn geen contacten gevonden"</string>
   <string name="no_contacts_selected">Er zijn geen contacten geselecteerd.</string>
   <string name="no_sdcard_message">Er is geen opslag gevonden.</string>
-  <string name="no_voip_contacts">Geen VOIP contacten</string>
+  <string name="no_voip_contacts">Geen Mi Voice contacten</string>
   <string name="non_phone_add_to_contacts">Toevoegen aan contacten</string>
   <string name="non_phone_caption">Telefoonnummer</string>
   <string name="non_phone_close">Sluiten</string>
@@ -729,7 +731,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefoon</string>
-  <string name="phone_call_type_voip">VoIP</string>
+  <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">Primaire</string>
   <string name="photoPickerNotFoundText">"Er zijn geen foto's beschikbaar op de telefoon."</string>
@@ -1038,10 +1040,9 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="voicemail_status_voicemail_not_available">Er kan geen verbinding met de voicemailserver gemaakt worden.</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
-  <string name="voip_contacts_entry_header">Mi Message en Voice</string>
   <string name="voip_loading_contact">Een momentje…</string>
   <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Tik om VoIP te gebruiken</string>
+  <string name="voip_recommend_msg">Tik om Mi Voice te gebruiken</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
