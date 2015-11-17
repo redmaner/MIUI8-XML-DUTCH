@@ -33,6 +33,14 @@
     <plurals name="million">
         <item quantity="other">Gedownload door %1$d personen</item>
     </plurals>
+	<plurals name="view_num">
+        <item quantity="other">%1$d bekeken</item>
+        <item quantity="zero">%1$d bekeken</item>
+        <item quantity="one">%1$d bekeken</item>
+        <item quantity="two">%1$d bekeken</item>
+        <item quantity="few">%1$d bekeken</item>
+        <item quantity="many">%1$d bekeken</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d groepen</item>
         <item quantity="one">%d groep</item>

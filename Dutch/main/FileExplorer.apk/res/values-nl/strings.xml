@@ -63,6 +63,7 @@
   <string name="category_zip">Archieven</string>
   <string name="choose_send_type">Kies een methode</string>
   <string name="choose_upload_location">Uploaden naar KuaiPan map</string>
+  <string name="clean_hint">Tik om ruimte vrij te maken</string>
   <string name="clean_message">%1$s ruimte vrijgemaakt.</string>
   <string name="clean_title">Bestanden die ouder zijn dan 30 dagen verwijderen.</string>
   <string name="clean_trash_box">Prullenbak legen</string>
@@ -82,6 +83,12 @@
   <string name="create_new_folder_desctiption">Map aanmaken…</string>
   <string name="create_new_folder_failed">Map aanmaken mislukt.</string>
   <string name="create_share_link_description">Maken van link#8230;</string>
+  <string name="create_shortcut_cancel">Nee bedankt</string>
+  <string name="create_shortcut_checkbox_hint">Niet meer tonen</string>
+  <string name="create_shortcut_confirm">Aanmaken</string>
+  <string name="create_shortcut_message">U gebruikt de File Explorer regelmatig. Een startscherm snelkoppeling maken om bestanden sneller te beheren?</string>
+  <string name="create_shortcut_success">Snelkoppeling aangemaakt</string>
+  <string name="create_shortcut_title">Snelkoppeling aanmaken</string>
   <string name="cution">Tips</string>
   <string name="data_capacity">Data %1$s</string>
   <string name="data_consumption_cancel">Afsluiten</string>
@@ -224,6 +231,7 @@
   <string name="menu_item_search">Zoeken</string>
   <string name="menu_item_sort">Sorteren op</string>
   <string name="menu_item_sort_add_time">"Aangemaakt "</string>
+  <string name="menu_item_sort_by_added_time">Toegevoegd</string>
   <string name="menu_item_sort_date">Datum aangepast</string>
   <string name="menu_item_sort_name">Naam</string>
   <string name="menu_item_sort_size">Grootte</string>
@@ -276,7 +284,7 @@
   <string name="new_folder_name">Naamloze map</string>
   <string name="new_function">Verborgen mappen</string>
   <string name="new_function_info">Om een verborgen map te maken, 
-veegt u naar de onderkant van het scherm van de eerste rij van pictogrammen op de startpagina</string>
+naar de onderkant van het scherm trekken vanaf de eerste rij van pictogrammen op de startpagina</string>
   <string name="new_function_str">"WeChat stickers kunnen nu automatisch worden verzameld.
 Download ze wanneer u wilt
 en nooit de koele nieuwe missen!"</string>
@@ -302,9 +310,11 @@ en nooit de koele nieuwe missen!"</string>
   <string name="notification_dialog_title">Meldingen</string>
   <string name="notification_setting">Meldingen</string>
   <string name="notification_summary">"%1$s ondersteund deze functie nog niet"</string>
-  <string name="notification_title">Melden wanneer er nieuwe bestanden toegvoegd worden aan %1$s</string>
+  <string name="notification_title">Wanneer %1$s een bestand aanmaakt</string>
   <string name="notification_wechat_expired_empty">WeChat heeft deze video clips al verwijderd.</string>
-  <string name="notification_wechat_title">WeChat video meldingen</string>
+  <string name="notification_wechat_sticker_hint">Een melding weergeven wanneer er nieuwe WeChat stickers beschikbaar zijn</string>
+  <string name="notification_wechat_sticker_switch_title">Dagelijkse melding voor nieuwe stickers</string>
+  <string name="notification_wechat_title">Wanneer chat video\'s zullen vervallen</string>
   <string name="notify_private_folder_msg">Tik om meer te leren.</string>
   <string name="notify_private_folder_title">Verborgen mappen aanmaken</string>
   <string name="online_not_support">Kan dit bestand op dit moment niet online bekijken</string>
@@ -364,8 +374,11 @@ en nooit de koele nieuwe missen!"</string>
   <string name="port_range">Poort moet tussen 1024–65535 zijn</string>
   <string name="private_files">Verborgen</string>
   <string name="private_folder">Verborgen map</string>
+  <string name="private_toast_hint1">Tik om bestanden toe te voegen aan verborgen mappen</string>
+  <string name="private_toast_hint2">Om dit bestand te verbergen, drukken en inhouden, dan toevoegen aan een verborgen map.</string>
+  <string name="private_toast_hint3">Trek naar beneden om verborgen mappen te openen</string>
   <string name="promot_enctypt_password">Voer het wachtwoord in dat wordt gebruikt om uw apparaat te ontgrendelen of om kindermodus uit te schakelen</string>
-  <string name="pull_to_signin">Sleep naar beneden om aan te melden.</string>
+  <string name="pull_to_signin">Naar beneden trekken om aan te melden.</string>
   <string name="qq_not_installed">QQ is niet geïnstalleerd</string>
   <string name="release_to_signin">Loslaten aan te melden</string>
   <string name="rename_alert">"Als je de extensie van dit bestand wijzigt, is het mogelijk niet meer te openen."</string>
