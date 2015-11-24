@@ -77,7 +77,7 @@
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Prompt voor internetverbinding</string>
   <string name="connection_error">Kon niet verbinden</string>
-  <string name="copy_failed">Kan niet kopiëren</string>
+  <string name="copy_failed">Kon niet kopiëren, het lijk er op dat de oplag vol is</string>
   <string name="copy_file_to_kuaipan">Kopieer het bestand naar KuaiPan</string>
   <string name="create_kuaipan_shortcut_pref">Plaats op startscherm</string>
   <string name="create_new_folder_desctiption">Map aanmaken…</string>
@@ -140,7 +140,7 @@
   <string name="encrypt_error">Kon bestanden niet verbergen, probeer opnieuw</string>
   <string name="encrypt_prefix">VERBORGEN</string>
   <string name="encrypt_success">Alle bestanden verborgen</string>
-  <string name="encrypting">Encrypting…</string>
+  <string name="encrypting">Bezig met coderen…</string>
   <string name="error_filename_too_long">Bestandsnaam is te lang.</string>
   <string name="error_info_cant_send_folder">Kan dit type bestand niet verzenden.</string>
   <string name="error_open_file_failed_no_app_found">Geen app  gevonden om deze actie uit te voeren.</string>
@@ -374,6 +374,8 @@ en nooit de koele nieuwe missen!"</string>
   <string name="port_range">Poort moet tussen 1024–65535 zijn</string>
   <string name="private_files">Verborgen</string>
   <string name="private_folder">Verborgen map</string>
+  <string name="private_folder_no_file_hints">Bestand of map ingedrukt houden om het te verbergen.</string>
+  <string name="private_folder_update">Updaten van verborgen mappen</string>
   <string name="private_toast_hint1">Tik om bestanden toe te voegen aan verborgen mappen</string>
   <string name="private_toast_hint2">Om dit bestand te verbergen, drukken en inhouden, dan toevoegen aan een verborgen map.</string>
   <string name="private_toast_hint3">Trek naar beneden om verborgen mappen te openen</string>
@@ -387,7 +389,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="repair_done">Hersteld</string>
   <string name="repair_error">Kon niet herstellen</string>
   <string name="repair_file">Herstel gecodeerde bestanden</string>
-  <string name="reset_password">Wachtwoord opnieuw instellen</string>
+  <string name="reset_password">Wachtwoord veranderen</string>
   <string name="restoring">Herstellen…</string>
   <string name="rlv_last_refreshing_time">%1$s geüpdatet</string>
   <string name="rlv_loading_more">Een momentje…</string>
