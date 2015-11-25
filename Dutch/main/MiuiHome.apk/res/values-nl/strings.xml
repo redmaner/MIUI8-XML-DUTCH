@@ -11,7 +11,7 @@
   <string name="app_category_games">Games</string>
   <string name="app_category_health">Gezondheid</string>
   <string name="app_category_lifestyle">Lifestyle</string>
-  <string name="app_category_music_movie">Muziek &amp; Video</string>
+  <string name="app_category_music_movie">Muziek &amp; video</string>
   <string name="app_category_news">Nieuws</string>
   <string name="app_category_photos">"Foto's"</string>
   <string name="app_category_productivity">Productiviteit</string>
@@ -83,7 +83,7 @@
   <string name="failed_to_drop_widget_nospace">Onvoldoende ruimte</string>
   <string name="failed_to_load_image">Kan afbeelding niet laden</string>
   <string name="folder_name">Map</string>
-  <string name="frame_load_failed">Ongeldige foto frame, laden frame mislukt.</string>
+  <string name="frame_load_failed">Ongeldige fotoframe, frame laden mislukt.</string>
   <string name="free_style_apps_title">Selecteer app</string>
   <string name="free_style_drawer_title">Alle app</string>
   <string name="free_style_edit_app">App</string>
@@ -100,7 +100,7 @@
   <string name="free_style_londing_text">Laden…</string>
   <string name="gadget_calculator_label">Rekenmachine</string>
   <string name="gadget_calendar_label">Kalender</string>
-  <string name="gadget_clear_button_label">Taak wisser</string>
+  <string name="gadget_clear_button_label">Taakwisser</string>
   <string name="gadget_clock_12_label">Klok 2x1</string>
   <string name="gadget_clock_22_label">Klok 2x2</string>
   <string name="gadget_clock_24_label">Klok 4x2</string>
@@ -116,16 +116,16 @@
   <string name="gadget_photo_label">Afbeelding</string>
   <string name="gadget_power_clear_button_label">Diepe schoonmaak</string>
   <string name="gadget_search_label">Zoeken</string>
-  <string name="gadget_weather_app_not_installed">"Aanraken om MIUI's app opnieuw te downloaden"</string>
+  <string name="gadget_weather_app_not_installed">"Aanraken om MIUI's weerapp te downloaden"</string>
   <string name="gadget_weather_aqi_title">"Luchtkwaliteit: "</string>
   <string name="gadget_weather_download_message">Je moet de appinhoud downloaden: %1$s (%2$s). App opstarten nadat het downloaden is voltooid.</string>
   <string name="gadget_weather_download_start">Downloaden</string>
   <string name="gadget_weather_download_title">Downloaden</string>
-  <string name="gadget_weather_downloading">Appinhoud aan het  downloaden. App opstarten na download..</string>
+  <string name="gadget_weather_downloading">Appinhoud aan het downloaden. Start de app opnieuw op nadat de download klaar is.</string>
   <string name="gadget_weather_loading">Geen gegevens</string>
   <string name="gadget_weather_low_temp">Lage temperatuur</string>
   <string name="gadget_weather_theme_type">Gadgettype</string>
-  <string name="gadget_weather_time_format">EEEE d MMMM</string>
+  <string name="gadget_weather_time_format">EEEE, d MMMM</string>
   <string name="gadget_weather_title">Weer</string>
   <string name="gadget_weather_title_14">Weer</string>
   <string name="gadget_weather_title_24">Weer</string>
@@ -135,7 +135,7 @@
   <string name="group_shortcuts">Snelkoppelingen</string>
   <string name="guide_install_app_msg">De app is niet geïnstalleerd. Zoeken en installeren?</string>
   <string name="guide_install_app_title">App installeren</string>
-  <string name="guide_tips_editing_mode">Ingedrukt houden &amp; om de widget te plaatsen</string>
+  <string name="guide_tips_editing_mode">Ingedrukt houden om een widget op te pakken</string>
   <string name="image_too_small_message">Originele afbeelding is niet groot genoeg</string>
   <string name="install">Installeren</string>
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
@@ -192,7 +192,7 @@
   <string name="pref_screen_transformation_type_title">Selecteer schermovergangseffect</string>
   <string name="pref_wallpaper_scroll_type_title">Achtergrond scroll optie</string>
   <string name="preferences_general_title">Standaard instellingen</string>
-  <string name="preferences_title">Launcher instellingen</string>
+  <string name="preferences_title">Launcherinstellingen</string>
   <string name="process"/>
   <string name="recommend_apps_default_title">Leeg</string>
   <string name="recommend_apps_notice">Aanbevolen apps</string>
@@ -223,9 +223,9 @@
   <string name="toggle_select_title">Schakelaar selecteren</string>
   <string name="toggle_title">Schakelaars</string>
   <string name="transformation_type_classic">Klassiek</string>
-  <string name="transformation_type_classic_no_overshoot">Klassiek(Geen Overschot)</string>
+  <string name="transformation_type_classic_no_overshoot">Klassiek (geen overschot)</string>
   <string name="transformation_type_crossfade">Vervagen</string>
-  <string name="transformation_type_cube">3D Kubus</string>
+  <string name="transformation_type_cube">3D kubus</string>
   <string name="transformation_type_falldown">Tuimelen</string>
   <string name="transformation_type_leftpage">Pagina</string>
   <string name="transformation_type_rotate">Draaien</string>
@@ -233,12 +233,12 @@
   <string name="uninstall">Verwijderen</string>
   <string name="uninstall_dialog_message">Dit zal alle gegevens verwijderen.</string>
   <string name="uninstall_dialog_title_format">%s verwijderen</string>
-  <string name="uninstall_dialog_title_multi_format" formatted="false">%s deïnstalleren en %d andere apps?</string>
-  <string name="uninstall_result_failed">"Can't uninstall %s"</string>
+  <string name="uninstall_dialog_title_multi_format" formatted="false">%s en %d andere apps deïnstalleren?</string>
+  <string name="uninstall_result_failed">Kan %s niet deïnstalleren</string>
   <string name="uninstall_result_multi_succeeded">%1$d apps gedeïnstalleerd</string>
-  <string name="uninstall_result_other_failed" formatted="false">Kan %s niet deïnstalleren en %d andere apps</string>
+  <string name="uninstall_result_other_failed" formatted="false">Kan %s en %d andere apps niet deïnstalleren</string>
   <string name="uninstall_result_succeeded">App gedeïnstalleerd</string>
-  <string name="uninstall_result_two_failed">Kan %s niet deïnstalleren en 1 andere app</string>
+  <string name="uninstall_result_two_failed">Kan %s en 1 andere app niet deïnstalleren</string>
   <string name="unknown_artist_name">Artiest onbekend</string>
   <string name="unnamed_folder_name">Map zonder naam</string>
   <string name="wallpaper">Achtergrond</string>
