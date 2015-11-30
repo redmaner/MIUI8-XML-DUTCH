@@ -243,9 +243,20 @@
   <string name="trans_detail_category_sysdata">Systeem data</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Apparaat losgekoppeld</string>
+  <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
   <string name="trans_main_tutor">Contacten, belgeschiedenis, berichten, startscherm layout, apps, instellingen, enz. transferen naar een nieuw apparaat</string>
   <string name="trans_my_device">Mijn apparaat</string>
   <string name="trans_one_key_migrate">Transferen</string>
+  <string name="trans_operate_new_phone_tips">"QR code scannen bij gebruik van nieuw apparaat
+Ga naar instellingen &gt; Extra instellingen &gt; Transferen
+ Tik [ik ben een ontvanger] om een QR code te maken"</string>
+  <string name="trans_operate_old_phone_tips1">"Methode A
+1. Installeer Transferen app op uw oud apparaat
+2. Open de app en selecteer [Ik ben verzender]
+3. Scan de QR code met uw oud apparaat"</string>
+  <string name="trans_operate_old_phone_tips2">"Methode B
+Ga naar instellingen &gt; Extra instellinge &gt; Transferen
+ Tik [ik ben een ontvanger]"</string>
   <string name="trans_progress_subdescript_br_receiver">%s ontvangen</string>
   <string name="trans_progress_subdescript_br_sender">%s aan het backuppen</string>
   <string name="trans_progress_subdescript_transing_receiver">%s ontvangen</string>
@@ -257,6 +268,8 @@
   <string name="trans_receiving_completed">Data ontvangen</string>
   <string name="trans_restoring">Herstellen…</string>
   <string name="trans_restoring_no_items">Sync. items</string>
+  <string name="trans_scan_invalid_qrcode">Ongeldige QR code</string>
+  <string name="trans_scan_qr_code_tips">Scan QR code met nieuw apparaat</string>
   <string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
   <string name="trans_select_device_send">Selecteer een apparaat om data naar te transferen.</string>
   <string name="trans_sender">Ik ben een verzender</string>
@@ -265,6 +278,7 @@
   <string name="trans_sender_searching_ensurance">"Maak u er van bewust dat uw oud apparaat ingeschakeld is
 Wachten op oud apparaat om te verbinden…"</string>
   <string name="trans_sending_completed">Data verzonden</string>
+  <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
   <string name="trans_time_format_second">Minder dan een minuut</string>
   <string name="trans_time_remained">klaar binnen, </string>
   <string name="trans_waiting_ensurance">"Maak u er van bewust dat uw oud apparaat ingeschakeld is

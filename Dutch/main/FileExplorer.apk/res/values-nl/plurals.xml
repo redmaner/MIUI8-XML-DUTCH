@@ -153,12 +153,12 @@
         <item quantity="many">%1$d bestanden van WeChat Video zullen vervallen</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d bestanden van WeChat temp video worden gewist, Heeft u een back-up nodig?</item>
-        <item quantity="zero">%1$d bestand van WeChat temp video wordt gewist, Heeft u een back-up nodig?</item>
-        <item quantity="one">%1$d bestand van WeChat temp video wordt gewist, Heeft u een back-up nodig?</item>
-        <item quantity="two">%1$d bestanden van WeChat temp video worden gewist, Heeft u een back-up nodig?</item>
-        <item quantity="few">%1$d bestanden van WeChat temp video worden gewist, Heeft u een back-up nodig?</item>
-        <item quantity="many">%1$d bestanden van WeChat temp video worden gewist, Heeft u een back-up nodig?</item>		
+        <item quantity="other">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op interngeheugen van apparaat?"</item>
+        <item quantity="zero">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op interngeheugen van apparaat?"</item>
+        <item quantity="one">"%1$d video in WeChat conversaties staan op het punt te vervallen. Back-up maken op interngeheugen van apparaat?"</item>
+        <item quantity="two">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op interngeheugen van apparaat?"</item>
+        <item quantity="few">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op interngeheugen van apparaat?"</item>
+        <item quantity="many">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op interngeheugen van apparaat?"</item>
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">Vandaag %1$d nieuwe WeChat stickers</item>
@@ -167,5 +167,13 @@
         <item quantity="two">Vandaag %1$d nieuwe WeChat stickers</item>
         <item quantity="few">Vandaag %1$d nieuwe WeChat stickers</item>
         <item quantity="many">Vandaag %1$d nieuwe WeChat stickers</item>
+	</plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">%1$d WeChat video\'s gebackuped.</item>
+        <item quantity="zero">%1$d WeChat video\'s gebackuped.</item>
+        <item quantity="one">1 WeChat video gebackuped.</item>
+        <item quantity="two">%1$d WeChat video\'s gebackuped.</item>
+        <item quantity="few">%1$d WeChat video\'s gebackuped.</item>
+        <item quantity="many">%1$d WeChat video\'s gebackuped.</item>	
 	</plurals>
 </resources>
