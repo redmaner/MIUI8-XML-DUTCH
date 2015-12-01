@@ -28,8 +28,14 @@
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Deze update stoppen?</string>
   <string name="cancel_download_buton_text">Annuleren</string>
+  <string name="check_local_package_update_btn">Reboot en updaten</string>
+  <string name="check_local_package_update_msg">"U gaat updaten naar MIUI versie %s. De telefoon zal automatisch reboten tijdens de update."</string>
+  <string name="check_local_package_update_title">Updaten</string>
   <string name="check_local_package_validate_error_button">Ok</string>
   <string name="check_local_package_validate_error_msg">Kon update pakket niet verifiëren</string>
+  <string name="check_local_package_wipe_btn">Wissen en updaten</string>
+  <string name="check_local_package_wipe_msg">"U zal overschakelen naar de MIUI versie %s, die is ouder dan de huidige versie. Uw personlijke data zal gewist worden. Maak u er zeker van dat u alle belangerijke items hebt gebackuped voordat u met deze actie begint."</string>
+  <string name="check_local_package_wipe_title">Data wissen</string>
   <string name="check_new_version">Controleren</string>
   <string name="check_update_policy">Instellingen</string>
   <string name="check_update_when_wifi_available">Alleen met Wi-Fi</string>
@@ -42,6 +48,9 @@
   <string name="comment_upload_hint">Bedankt voor uw reactie</string>
   <string name="comment_upload_not_logined">U moet eerst inloggen op je MI account om een reactie te versturen</string>
   <string name="comment_upload_success">Reactie succesvol verstuurd!</string>
+  <string name="confirm_local_package_wipe_btn">Wissen en updaten</string>
+  <string name="confirm_local_package_wipe_msg">Uw personlijke data zal gewist worden. Maak u er zeker van dat u alle belangerijke items hebt gebackuped voordat u met deze actie begint..</string>
+  <string name="confirm_local_package_wipe_title">Data wissen?</string>
   <string name="daily_build">Iedere nacht</string>
   <string name="download_again">Probeer opnieuw</string>
   <string name="download_cancel">Annuleren</string>
