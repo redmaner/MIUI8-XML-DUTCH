@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cpu_actions_device">
-        <item>cancro</item>
-    </string-array>
-    <string-array name="group_name">
-        <item>Normaal</item>
-        <item>Verbergen</item>
-        <item>Lezen</item>
-        <item>Media</item>
     </string-array>
     <string-array name="group_name_translate">
         <item>Standaard</item>
@@ -37,17 +29,6 @@
         <item>Eerste melding</item>
         <item>Vergrendelscherm meldingen</item>
         <item>Beperk achtergrond dataverbindingen</item>
-    </string-array>
-    <string-array name="action_param">
-        <item>none</item>
-        <item>ui</item>
-        <item>still</item>
-        <item>movie</item>
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
-        <item>true</item>
-        <item>false</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>Geen operaties</item>
