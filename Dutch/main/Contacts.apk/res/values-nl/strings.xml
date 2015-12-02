@@ -98,7 +98,8 @@
   <string name="callrecordview_item_op_time_rejected">Geweigerd</string>
   <string name="callrecordview_item_op_time_short_incoming">"Inkomend: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Uitgaand: "</string>
-  <string name="callrecordview_menu_add_call_note">Notitie toevoegen</string>
+  <string name="callrecordview_item_op_video">Video</string>
+  <string name="callrecordview_menu_add_call_note">Belnotitie toevoegen</string>
   <string name="callrecordview_menu_batch_delete">Weigeren</string>
   <string name="callrecordview_menu_delete">Belgeschiedenis verwijderen</string>
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
@@ -657,6 +658,11 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="missing_name">(Geen naam)</string>
   <string name="more_call_logs">Bekijk de gedetailleerde belgeschiedenis op i.mi.com</string>
   <string name="move_and_resize">Verplaatsen en vergroten/verkleinen</string>
+  <string name="multi_number_menu_call">Oproep</string>
+  <string name="multi_number_menu_delete">Verwijderen</string>
+  <string name="multi_number_menu_group">Nieuwe groep</string>
+  <string name="multi_number_menu_message">Bericht</string>
+  <string name="multi_number_title">Conferentie gesprek</string>
   <string name="multipleContactDeleteConfirmation">Als u dit contact verwijdert, worden gegevens van meerdere accounts verwijderd.</string>
   <string name="multipleContactDeleteConfirmationDetail">Verwijderen van \"%s\" zal de informatie van meerdere accounts wissen.</string>
   <string name="my_in_call_show">Mijn video</string>
@@ -876,6 +882,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="search_settings_description">Namen van uw contacten</string>
   <string name="searching_vcard_message">Zoeken naar vCardgegevens in opslag…</string>
   <string name="select_all">Selecteer alles</string>
+  <string name="select_done">Niets meer om te selecteren</string>
   <string name="select_groups">Kies groepen</string>
   <string name="select_new_photo_from_photo_package">Blader door mappen</string>
   <string name="select_none">Niets geselecteerd</string>
@@ -1019,6 +1026,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="vcard_import_will_start_message">%s wordt binnenkort geïmporteerd.</string>
   <string name="vcard_import_will_start_message_with_default_name">Bestand wordt binnenkort geïmporteerd.</string>
   <string name="vcard_unknown_filename">Contact</string>
+  <string name="video_call">Video oproep</string>
   <string name="video_chat">Videochat</string>
   <string name="viewContactDesription">Contact weergeven</string>
   <string name="viewContactTitle">Details van contact</string>
