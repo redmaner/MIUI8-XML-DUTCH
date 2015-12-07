@@ -79,6 +79,7 @@
   <string name="auto_upload_guide_title">Foto\'s synchroniseren met Mi Cloud</string>
   <string name="auto_upload_title">Automatisch synchroniseren</string>
   <string name="autofix">Auto fix</string>
+  <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_new_photo_page_title">"%1$s's album"</string>
@@ -100,7 +101,6 @@
   <string name="baby_name_contain_invalidate_char">"Naam kan '%s' niet bevatten"</string>
   <string name="baby_name_reserved">Deze naam is gereserveerd voor een ander album</string>
   <string name="baby_nick_name">Roepnaam</string>
-  <string name="baby_sexy">Geslacht</string>
   <string name="baby_suffix">baby</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
@@ -197,6 +197,7 @@
   <string name="context_menu_copy_notice">Gekopiëerd naar het klembord</string>
   <string name="contrast">Contrast</string>
   <string name="contrast_abbr">C</string>
+  <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Koel</string>
   <string name="cool_portrait">Portret</string>
   <string name="create_baby_album">Maak een baby album aan</string>
@@ -209,6 +210,7 @@
   <string name="crop">Bijsnijden</string>
   <string name="crop_fail_to_load_image">Foto laden mislukt</string>
   <string name="crop_label">Foto bijsnijden</string>
+  <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_recognize_text">Herkennen</string>
   <string name="crop_save_text">OK</string>
   <string name="crop_save_text_setas">Toepassen</string>
@@ -241,6 +243,7 @@
   <string name="documentary">Documentaire</string>
   <string name="done">Gereed</string>
   <string name="doodle">Doodle</string>
+  <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
   <string name="doodle_tooltip">Aanraken om te doodlen</string>
   <string name="download">Download</string>
   <string name="download_fail">Download mislukt</string>
@@ -311,21 +314,29 @@
   <string name="file_not_exist_message">Bestand bestaat niet</string>
   <string name="file_size">Bestandsgrootte</string>
   <string name="filllight">Verlichten</string>
+  <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
   <string name="finish_create_baby_album_toast">Album aanmaken voor \"%s\" in Mi Cloud</string>
   <string name="finish_fill_baby">Aanmaken</string>
   <string name="fisheye">Vis ogen</string>
+  <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
   <string name="flash">Flits</string>
   <string name="flash_off">Geen flits</string>
   <string name="flash_on">Geflitst</string>
   <string name="flip">Draaien</string>
+  <string name="flip_polymorphism">photoeditor_effect_flip</string>
   <string name="flip_tooltip">Sleep foto om te draaien</string>
   <string name="focal_length">Brandpuntsafstand</string>
   <string name="frame_black">Zwart</string>
+  <string name="frame_black_tooltip">photoeditor_frame_black</string>
   <string name="frame_button">Frame</string>
   <string name="frame_classic">Klassiek</string>
+  <string name="frame_classic_tooltip">photoeditor_frame_classic</string>
   <string name="frame_movie">Film</string>
+  <string name="frame_movie_tooltip">photoeditor_frame_movie</string>
   <string name="frame_semicircle">Halve cirkel</string>
+  <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
   <string name="frame_white">Wit</string>
+  <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Gratis</string>
   <string name="gallery_cloud_provider_name">"Mi Cloud foto's"</string>
   <string name="gallery_setting">Galerij</string>
@@ -346,6 +357,7 @@
   <string name="hidden_album_display_name">Verborgen album</string>
   <string name="highlight">Hoogtepunten</string>
   <string name="highlight_abbr">H</string>
+  <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">"Foto's in camerarol"</string>
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_face">Personen</string>
@@ -587,6 +599,7 @@
   <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevelingen</string>
   <string name="recommanded_face_added_tip">Toegevoegd aan \"%s\"</string>
   <string name="redeye">Rode ogen</string>
+  <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tik om rode ogen te verwijderen</string>
   <string name="refocus_data_downloading">Heroriëntatie downloaden…</string>
   <string name="relation_text_empty_alert">Relatie info toevoegen</string>
@@ -617,11 +630,13 @@
   <string name="return_to_top">Aanraken \"Foto\" om naar boven terug te keren</string>
   <string name="rise">Warm</string>
   <string name="rotate">Draaien</string>
+  <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Sleep foto om te draaien</string>
   <string name="same_name_album_exist_and_toast">"Een album met dezelfde naam bestaat reeds. Maak '%s' aan in plaats daarvan."</string>
   <string name="same_name_album_exists_alert">"Foto's worden toegevoegd aan een bestaand album met dezelfde naam"</string>
   <string name="saturation">Verzadiging</string>
   <string name="saturation_abbr">S</string>
+  <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Opslaan</string>
   <string name="save_error">Kan bijgesneden afbeelding niet opslaan.</string>
   <string name="save_photo">Aangepaste foto opslaan?</string>
@@ -669,6 +684,7 @@
   <string name="settings">Instellingen</string>
   <string name="settings_i_xiaomi_com">Bekijk uw foto\'s die je gesync. hebt op www.mi.com/micloud</string>
   <string name="shadow">Schaduwen</string>
+  <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share_album">Deel album</string>
   <string name="share_album_owner">Eigenaar</string>
   <string name="share_album_space_full">Er is onvoldoende ruimte in dit album.</string>
@@ -679,6 +695,7 @@
   <string name="share_title_more">Meer</string>
   <string name="sharer_quota_fulfiled">Je hebt dit album al gedeeld met het maximaal aantal personen..</string>
   <string name="sharpen">Verscherpen</string>
+  <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
   <string name="show_all">Afbeeldingen en video\'s</string>
   <string name="show_hidden_album">Toon verborgen album</string>
   <string name="show_hidden_albums">Toon verborgen albums</string>
@@ -705,6 +722,7 @@
   <string name="storage_all_volumes">Alle opslagapparaten</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
   <string name="straighten">Recht maken</string>
+  <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
   <string name="straighten_tooltip">Sleep foto om hem recht te maken</string>
   <string name="success_create_quick_icon_on_desk">Met succes aangemaakt</string>
   <string name="sync_album">Sync. albums</string>
@@ -765,7 +783,7 @@
   <string name="view_queuing_status">Status controleren</string>
   <string name="view_sharers">Bekijk delers</string>
   <string name="vignette">Vervloeien</string>
-
+  <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
   <string name="wallpaper">Achtergrond instellen…</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Waarschuwing</string>
