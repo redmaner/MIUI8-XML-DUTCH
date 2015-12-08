@@ -93,7 +93,7 @@
   <string name="account_setup_failed_security_policies_unsupported">Voor deze server zijn beveiligingsfuncties nodig die uw Android apparaat niet ondersteunt, waaronder: %s</string>
   <string name="account_setup_failed_tls_required">TLS is vereist maar wordt niet ondersteund door de server.</string>
   <string name="account_setup_failed_too_many_partnerships">Aanmelden mislukt, het maximum aantal toegestane server verbindingen is bereikt.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Wanneer ik het verwijder uit de prullenbak</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nooit</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Optioneel</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Voorvoegsel IMAP pad</string>
@@ -263,7 +263,7 @@
   <string name="contextmenu_call">Bel</string>
   <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL Link kopiëren</string>
-  <string name="contextmenu_create">Create a new contact</string>
+  <string name="contextmenu_create">Nieuw contact aanmaken</string>
   <string name="contextmenu_dial_dot">Bellen…</string>
   <string name="contextmenu_edit">Contact bewerken</string>
   <string name="contextmenu_feedback">Feedback verzenden</string>
@@ -403,7 +403,7 @@
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
   <string name="forward_download_failed_ticker">Kan een of meer bijlagen niet doorsturen.</string>
   <string name="forward_download_failed_title">Bijlage niet doorgestuurd</string>
-  <string name="from_heading">"From: "</string>
+  <string name="from_heading">"Van: "</string>
   <string name="general_preference_confirm_delete_label">Bevestigen voor verwijderen</string>
   <string name="general_preference_confirm_send_label">Bevestigen voor verzenden</string>
   <string name="general_preference_text_zoom_dialog_title">Tekstgrootte bericht</string>
@@ -570,8 +570,8 @@
   <string name="outbox_alert_certificate_error">Contacteer je email systeemadministrator en update je certificaat.</string>
   <string name="outbox_alert_description_auth_error">Autorisatiefout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_cannot_authenticate">Kon %s niet authenticeren</string>
-  <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
-  <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
+  <string name="outbox_alert_description_email_size_error">De maximum van de E-mail is bereikt.</string>
+  <string name="outbox_alert_description_fail_authentication">Gebruikersnaam of wachtwoord is niet juist.</string>
   <string name="outbox_alert_description_fail_network">Kon niet verbinden met netwerk.</string>
   <string name="outbox_alert_description_http_error">HTTP fout van de server tijdens het sync. van Postvak Uit</string>
   <string name="outbox_alert_description_insufficient_storage_error">Onvoldoende ruimte op de e-mailserver</string>
@@ -657,7 +657,7 @@
   <string name="push_wps_better_confirm_download">Downloaden</string>
   <string name="push_wps_better_confirm_exit">Nu niet</string>
   <string name="push_wps_better_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
-  <string name="push_wps_better_confirm_noshow_hint">"Don't show again"</string>
+  <string name="push_wps_better_confirm_noshow_hint">Niet meer tonen</string>
   <string name="push_wps_better_confirm_title">Probeer WPS Office</string>
   <string name="push_wps_confirm_cancel">Nu niet</string>
   <string name="push_wps_confirm_download">Downloaden</string>
