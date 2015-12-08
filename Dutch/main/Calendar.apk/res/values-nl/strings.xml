@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Contact suggesties geopend</string>
   <string name="accessibility_add_attendee">Deelnemer toevoegen</string>
   <string name="accessibility_add_reminder">Herinnering toevoegen</string>
   <string name="accessibility_all_day">Afspraak die de hele dag duurt</string>
@@ -23,6 +24,7 @@
   <string name="acessibility_cal_notification">Agendamelding</string>
   <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
   <string name="acessibility_snooze_notification">Snooze melding</string>
+  <string name="action_label">Terug</string>
   <string name="action_text_new_event">Nieuwe afspraak</string>
   <string name="action_text_online">Abonneren</string>
   <string name="action_text_today">Vandaag</string>
@@ -106,7 +108,7 @@
   <string name="dismiss_all_label">Allemaal verwijderen</string>
   <string name="do_not_check">NIET aanvinken -&gt;</string>
   <string name="does_not_repeat">Eenmalige afspraak</string>
-  <string name="done">Gereed</string>
+  <string name="dropdown_delete_button_desc">%s verwijderen uit ontvangers</string>
   <string name="edit_event_all_day_label">De hele dag</string>
   <string name="edit_event_calendar_label">Agenda</string>
   <string name="edit_event_confirm_message">Wijzigingen ongedaan maken?</string>
@@ -196,7 +198,7 @@
   <string name="monthly">Maandelijks</string>
   <string name="monthly_on_day">Maandelijks (op datum %s)</string>
   <string name="monthly_on_day_count">Maandelijks (%1$s %2$s)</string>
-  <string name="more_string">+%1$s</string>
+  <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">Inleiding</string>
   <string name="new_event_dialog_label">Nieuwe afspraak</string>
   <string name="new_event_dialog_option">Nieuwe afspraak</string>

@@ -2,8 +2,6 @@
 <resources>
   <string name="alphabet">Alfabet</string>
   <string name="app_name">SIM Toolkit</string>
-  <string name="app_name2">SIM Toolkit 2</string>
-  <string name="app_name3">SIM Toolkit 3</string>
   <string name="button_cancel">Annuleer</string>
   <string name="button_no">Nee</string>
   <string name="button_ok">OK</string>
@@ -21,10 +19,15 @@
   <string name="help">Terug</string>
   <string name="menu_back">Vorige</string>
   <string name="menu_end_session">Einde sessie</string>
+  <string name="no_sim_card_inserted">Gelieve SIM invoeren om SIM Toolkit te lanceren.</string>
   <string name="service_name">Service naam</string>
+  <string name="sim_type_sim_name">SIM Toolkit</string>
+  <string name="sim_type_uim_name">UIM Toolkit</string>
+  <string name="sim_type_usim_name">USIM Toolkit</string>
   <string name="stk_app_state">Verzoek te vermelden</string>
   <string name="stk_dialog_accept">Aanvaarden</string>
   <string name="stk_dialog_reject">Afwijzen</string>
   <string name="stk_dialog_title">SIM Toolkit</string>
+  <string name="stk_intent_permission">STK Intents toestaan</string>
   <string name="stk_no_service">Geen service beschikbaar</string>
 </resources>

@@ -1,22 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">Toegang tot USB opslag mislukt</string>
+  <string name="access_sd_fail">Toegang tot Sd kaart mislukt</string>
+  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
+  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Voorste en achterste camera wisselen</string>
+  <string name="accessibility_countdown">Count Down knop</string>
   <string name="accessibility_flash_mode_button">Flitsknop</string>
   <string name="accessibility_hdr">HDR wissel knop</string>
-  <string name="accessibility_module_picker">Modulekiezer</string>
   <string name="accessibility_panorama_review_cancel">Panorama Annuleren Opslaan</string>
+  <string name="accessibility_peak">Focus Peak knop</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Extra instellings knop</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
   <string name="accessibility_skin_beautify_button">HuidVerfraaiKnop</string>
   <string name="accessibility_video_capture_button">VideoOpnameKnop</string>
+  <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauzeKnop</string>
   <string name="audio_focus_exit_button_text">Audio Focus sluiten</string>
   <string name="burst_shoot_exit_button_text">Sluit Burst Shoot af</string>
   <string name="camera_disabled">Camera is uitgeschakeld</string>
   <string name="camera_error_title">Camera fout</string>
+  <string name="camera_face_beauty_parameter_key">xiaomi-still-beautify-values</string>
   <string name="camera_label">Camera</string>
   <string name="camera_settings_label">Camera</string>
   <string name="camera_snap_mode_title">Quick snap modus</string>
@@ -58,7 +63,7 @@
   <string name="find_other_qrcode">Zoek een andere QR code</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Plaats een SD kaart voordat u de camera gebruikt</string>
-  <string name="not_enough_space">Intern geheugen is vol</string>
+  <string name="not_enough_space">SD kaart is vol</string>
   <string name="object_track_enable_toast">Druk met twee vingers op beide uiteinden van het voorwerp om het te volgen.</string>
   <string name="pano_dialog_panorama_failed">Kan panorama niet opslaan</string>
   <string name="pano_dialog_title">Panorama</string>
@@ -76,6 +81,7 @@
   <string name="pref_burst_shoot_title">Burst shoot</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Camera instellingen</string>
+  <string name="pref_camera_age_watermark_title">Leeftijd en geslacht weergeven in foto</string>
   <string name="pref_camera_antibanding_entry_0">Uit</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -111,7 +117,6 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Yesteryear</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_title">Contrast</string>
-  <string name="pref_camera_delay_capture_default">5</string>
   <string name="pref_camera_delay_capture_entry_10s">10s</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
@@ -187,7 +192,6 @@
   <string name="pref_camera_multilevel_entry_middle">Gemiddeld (standaard)</string>
   <string name="pref_camera_multilevel_entry_normal">Normaal</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
-  <string name="pref_camera_peak_default">off</string>
   <string name="pref_camera_peak_entry_off">Uit</string>
   <string name="pref_camera_peak_entry_on">Aan</string>
   <string name="pref_camera_peak_title">Focus Peaking</string>
@@ -246,13 +250,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto verbeteren</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Uitschakelen</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Inschakelen</string>
+  <string name="pref_camera_snap_enable_summary">Wanneer het scherm is uitgeschakeld, drukt u op &amp; Houd de knop Volume omlaag om in Quick snap modus te komen. Druk nogmaals op deze om een foto te nemen.</string>
   <string name="pref_camera_snap_enable_title">Snelle fotomodus</string>
-  <string name="pref_camera_snap_entry_off">Uit</string>
-  <string name="pref_camera_snap_entry_take_movie">Wanneer het scherm is uitgeschakeld, druk &amp; houd de volumeknop omlaag ingedrukt om een video op te nemen. Loslaten om te stoppen.</string>
-  <string name="pref_camera_snap_entry_take_picture">Wanneer het scherm is uitgeschakeld, druk &amp; houd de volumeknop omlaag ingedrukt om burst shoot te starten. Loslaten om te stoppen.</string>
-  <string name="pref_camera_snap_value_off">Uit</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
-  <string name="pref_camera_snap_value_take_picture">Afbeelding</string>
   <string name="pref_camera_sound_title">Camerageluiden</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Uit</string>
@@ -284,7 +283,6 @@
   <string name="pref_face_beauty_low">i:1</string>
   <string name="pref_face_beauty_medium">i:2</string>
   <string name="pref_face_beauty_title">Verfraaien</string>
-  <string name="pref_front_camera_delay_capture_default">-1</string>
   <string name="pref_front_mirror_entry_auto">Wanneer een gezicht gedetecteerd is</string>
   <string name="pref_front_mirror_entry_off">Uit</string>
   <string name="pref_front_mirror_entry_on">Aan</string>
@@ -300,7 +298,6 @@
   <string name="pref_video_focusmode_entry_auto">Tik</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus modus</string>
-  <string name="pref_video_quality_default_cmcc_test">4</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
@@ -330,13 +327,13 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval van 3 seconden (90 keer)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval van 30 seconden (900 keer)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Interval tijdsverloop</string>
-  <string name="preparing_sd">Controleren van interne opslag…</string>
+  <string name="preparing_sd">Controleren van SD kaart…</string>
   <string name="record_back_pressed_hint">Raak aan om opname te stoppen</string>
   <string name="see_qrcode_detals">Details weergeven</string>
   <string name="setting_top_text">Cameramodi</string>
   <string name="simple_mode_button_asd_flash">Sluit Flash opname</string>
   <string name="simple_mode_button_asd_hdr">Sluit HDR opname</string>
-  <string name="simple_mode_button_text_audio_capture">Schakel stem trigger uit</string>
+  <string name="simple_mode_button_text_audio_capture">Schakel sluiter audio trigger uit</string>
   <string name="simple_mode_button_text_color_effect">Sluit filter</string>
   <string name="simple_mode_button_text_delay_capture">Timer sluiten</string>
   <string name="simple_mode_button_text_face_beauty">Sluit verfraaien</string>
@@ -353,7 +350,7 @@
   <string name="simple_mode_button_text_ubifocus">Sluit herfocusmodus</string>
   <string name="snapshot_lower_than_video">Video Snapshot resolutie is lager dan formaat van de video. Gelijk maken aan videoformaat. Selecteer een resolutie hoger of gelijk aan het huidige videoformaat.</string>
   <string name="snapshotsize_low_powermode">Resolutie wordt niet ondersteund door uw huidige energiebeheer instellingen. Videoformaat zal worden gebruikt.</string>
-  <string name="spaceIsLow_content">Er is bijna geen ruimte meer op de USB opslag</string>
+  <string name="spaceIsLow_content">Er is bijna geen ruimte meer op de SD kaart</string>
   <string name="start_capture">Ok</string>
   <string name="tap_to_exposure">Tikken om de belichting handmatig in te stellen</string>
   <string name="tap_to_focus">Tikken om scherp te stellen</string>
@@ -361,8 +358,7 @@
   <string name="toast_burst_snap_finished_end">"Foto's"</string>
   <string name="toast_burst_snap_finished_start">Burst shoot</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shoot wordt niet ondersteund als audio opname AAN staat</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Kan afbeelding of video niet beoordelen wanneer het scherm vergrendeld is.</string>
-  <string name="toast_start_audio_capture">Maak een geluid om een foto te nemen</string>
+  <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
   <string name="ubi_focus_capture_fail">Kan geen foto nemen</string>
   <string name="ubifocus_capture_warning_message">Voor het beste resultaat zou uw foto zowel voorwerpen dichtbij (minder dan 1 meter van de lens) als ver weg moeten bevatten</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>

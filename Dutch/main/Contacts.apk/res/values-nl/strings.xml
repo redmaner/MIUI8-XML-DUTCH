@@ -98,8 +98,10 @@
   <string name="callrecordview_item_op_time_rejected">Geweigerd</string>
   <string name="callrecordview_item_op_time_short_incoming">"Inkomend: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Uitgaand: "</string>
-  <string name="callrecordview_menu_add_call_note">Notitie toevoegen</string>
+  <string name="callrecordview_item_op_video">Video</string>
+  <string name="callrecordview_menu_add_call_note">Belnotitie toevoegen</string>
   <string name="callrecordview_menu_batch_delete">Weigeren</string>
+  <string name="callrecordview_menu_conference">Gespreksconferentie</string>
   <string name="callrecordview_menu_delete">Belgeschiedenis verwijderen</string>
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_all">Belgeschiedenis verwijderen</string>
@@ -384,7 +386,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
   <string name="export_to_sim2">Exporteren naar SIM kaart 2</string>
   <string name="export_to_sim_title">Exporteren…</string>
-  <string name="export_vcard_description">Exporteren vCard naar het interne geheugen</string>
+  <string name="export_vcard_description">Exporteren vCard naar SD kaart</string>
   <string name="exporting_contact_failed_message">"De contactgegevens zijn niet geëxporteerd. Reden: '%s'"</string>
   <string name="exporting_contact_failed_title">Kan niet exporteren</string>
   <string name="exporting_contact_list_message">Uw contactgegevens worden geëxporteerd naar: %s.</string>
@@ -403,7 +405,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="fail_reason_no_exportable_contact">Er is geen contact dat kan worden geëxporteerd.</string>
   <string name="fail_reason_not_supported">De indeling wordt niet ondersteund.</string>
   <string name="fail_reason_too_long_filename">"Vereiste bestandsnaam is te lang('%s')."</string>
-  <string name="fail_reason_too_many_vcard">Er staan te veel vCard bestanden in de opslag.</string>
+  <string name="fail_reason_too_many_vcard">Er staan te veel vCard bestanden op de SD kaart.</string>
   <string name="fail_reason_unknown">Onbekende fout.</string>
   <string name="fail_reason_vcard_parse_error">Kan vCard om onverwachte reden niet ontleden.</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
@@ -470,7 +472,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="import_to_xiaomi_account_progress_message">Importeren…</string>
   <string name="import_to_xiaomi_account_progress_title">Importeren naar Mi Account</string>
   <string name="import_to_xiaomi_account_title">Importeer onderstaande contacten naar uw Mi Account?</string>
-  <string name="import_vcard_description">"Importeer contacten van het interne geheugen van uw telefoon"</string>
+  <string name="import_vcard_description">Importeer contacten van SD kaart</string>
   <string name="import_weibo_dialog_title">Importeer Weibo contacten</string>
   <string name="import_weibo_error_no_matched_contacts">Er komen geen contacten overeen</string>
   <string name="import_weibo_error_no_network">Er is geen netwerkverbinding. Controleer de verbinding en probeer het opnieuw.</string>
@@ -503,6 +505,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="in_call_show_guide_intro">"Een profielvideo opnemen
 die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="in_call_show_guide_start_recording">Nu opnemen</string>
+  <string name="in_call_show_guide_title">Profiel video</string>
   <string name="in_call_show_long_press_to_record">Druk op &amp; ingedrukt houden om op te nemen</string>
   <string name="in_call_show_pick_video">Kies video</string>
   <string name="in_call_show_preview">Voorbeeld</string>
@@ -657,6 +660,11 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="missing_name">(Geen naam)</string>
   <string name="more_call_logs">Bekijk de gedetailleerde belgeschiedenis op i.mi.com</string>
   <string name="move_and_resize">Verplaatsen en vergroten/verkleinen</string>
+  <string name="multi_number_menu_call">Oproep</string>
+  <string name="multi_number_menu_delete">Verwijderen</string>
+  <string name="multi_number_menu_group">Nieuwe groep</string>
+  <string name="multi_number_menu_message">Bericht</string>
+  <string name="multi_number_title">Conferentie gesprek</string>
   <string name="multipleContactDeleteConfirmation">Als u dit contact verwijdert, worden gegevens van meerdere accounts verwijderd.</string>
   <string name="multipleContactDeleteConfirmationDetail">Verwijderen van \"%s\" zal de informatie van meerdere accounts wissen.</string>
   <string name="my_in_call_show">Mijn video</string>
@@ -700,7 +708,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="no_contacts_dialog_message">Contacten kunnen opgeslagen zijn op de SIM kaart. Probeer deze te importeren vanaf de SIM kaart en probeer het opnieuw.</string>
   <string name="no_contacts_dialog_title">"Er zijn geen contacten gevonden"</string>
   <string name="no_contacts_selected">Er zijn geen contacten geselecteerd.</string>
-  <string name="no_sdcard_message">Er is geen opslag gevonden.</string>
+  <string name="no_sdcard_message">Geen SD kaart gevonden.</string>
   <string name="no_voip_contacts">Geen Mi Voice contacten</string>
   <string name="non_phone_add_to_contacts">Toevoegen aan contacten</string>
   <string name="non_phone_caption">Telefoonnummer</string>
@@ -869,17 +877,14 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">"De opslag kan niet worden gescand.(Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">"De opslag kan niet worden gescand"</string>
-  <string name="sdcard_not_mounted_dialog_message">SD-kaart nu insteken.</string>
-  <string name="sdcard_not_mounted_dialog_title">Geen SD-kaart gedetecteerd</string>
   <string name="searchHint">Contacen zoeken</string>
   <string name="search_results_searching">Zoeken...</string>
   <string name="search_settings_description">Namen van uw contacten</string>
-  <string name="searching_vcard_message">Zoeken naar vCardgegevens in opslag…</string>
+  <string name="searching_vcard_message">Zoeken naar vCardgegevens op SD kaart…</string>
   <string name="select_all">Selecteer alles</string>
+  <string name="select_done">Niets meer om te selecteren</string>
   <string name="select_groups">Kies groepen</string>
-  <string name="select_new_photo_from_photo_package">Blader door mappen</string>
   <string name="select_none">Niets geselecteerd</string>
-  <string name="select_photo_from_photo_package">Kies foto van foto pakket</string>
   <string name="select_show_contacts">Contacten lijst</string>
   <string name="select_vcard_title">vCard bestand kiezen</string>
   <string name="send_contact_shortcut_todesktop_success">Toegevoegd aan Start scherm</string>
@@ -982,7 +987,6 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="titleJoinContactDataWith">Contacten samenvoegen</string>
   <string name="title_other_devices">Overige beschikbare apparaten</string>
   <string name="title_paired_devices">Gekoppelde Apparaten</string>
-  <string name="to_activate_the_account">Activeer uw Xiaomi account</string>
   <string name="toast_call_detail_error">Gegevens niet leesbaar voor dit gesprek</string>
   <string name="toast_copy_done">Gereed</string>
   <string name="toast_copying">Kopiëren…</string>
@@ -1019,6 +1023,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="vcard_import_will_start_message">%s wordt binnenkort geïmporteerd.</string>
   <string name="vcard_import_will_start_message_with_default_name">Bestand wordt binnenkort geïmporteerd.</string>
   <string name="vcard_unknown_filename">Contact</string>
+  <string name="video_call">Video oproep</string>
   <string name="video_chat">Videochat</string>
   <string name="viewContactDesription">Contact weergeven</string>
   <string name="viewContactTitle">Details van contact</string>

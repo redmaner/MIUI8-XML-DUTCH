@@ -12,6 +12,7 @@
   <string name="activity_title_news">Nieuws</string>
   <string name="activity_title_privacy_cache">Privacy cache</string>
   <string name="activity_title_residual">Restanten</string>
+  <string name="activity_title_scanfinish">Scan voltooid</string>
   <string name="activity_title_settings">Instellingen</string>
   <string name="activity_title_similar_image_group">Duplicaten verwijderen</string>
   <string name="activity_title_uninstall_apps">Apps</string>
@@ -28,6 +29,7 @@
   <string name="auto_clean_switch_off">Uit</string>
   <string name="auto_clean_switch_on">Aan</string>
   <string name="auto_cleaner_open">Inschakelen</string>
+  <string name="back">Terug</string>
   <string name="btn_text_done">Voltooid</string>
   <string name="btn_text_quick_cleanup">Opruimen</string>
   <string name="btn_text_quick_scan">Scannen</string>
@@ -78,6 +80,11 @@
   <string name="deepclean_cache_content">Verwijder data aangemaakt door apps</string>
   <string name="deepclean_cache_header_left">Databestanden: %d</string>
   <string name="deepclean_large_content">Verwijder bestanden groter dan 10MB</string>
+  <string name="deepclean_list_item_from_app">App store</string>
+  <string name="deepclean_list_item_from_dcim_thumbnails">Miniatuurweergaven</string>
+  <string name="deepclean_list_item_from_download">Download</string>
+  <string name="deepclean_list_item_from_gallery">Galerij</string>
+  <string name="deepclean_list_item_from_sdcard">SD kaart</string>
   <string name="deepclean_similar_ignore">Negeren</string>
   <string name="deepclean_title_large_file">Verwijder grote bestanden</string>
   <string name="deepclean_title_uninstall_apps">Amper gebruikte apps</string>
@@ -123,9 +130,10 @@
   <string name="hints_apk_version">Versie %s</string>
   <string name="hints_app_uninstall_residual">Restanten van verwijderde apps opruimen?</string>
   <string name="hints_cache_header_left">Cachebestanden</string>
-  <string name="hints_finish_quick_cleanup">Klaar</string>
   <string name="hints_cleanfinish">Klaar met opruimen</string>
+  <string name="hints_deepclean_list_item_from">Van %s</string>
   <string name="hints_deepclean_scanning">%s scannen</string>
+  <string name="hints_finish_quick_cleanup">Klaar</string>
   <string name="hints_finish_quick_cleanup_title">Cachebestanden: %s afval</string>
   <string name="hints_finish_quick_scan">Scan voltooid</string>
   <string name="hints_garbage_cleanup_result_danger">Intern geheugen opruimen</string>
@@ -171,6 +179,7 @@
   <string name="item_title_process_mode">Kies een actie</string>
   <string name="just_now">Zopas</string>
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
+  <string name="login_immediately">Aanmelden</string>
   <string name="mainbtn_text_quick_cleanup">Ruim %s op</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
@@ -224,6 +233,7 @@
   <string name="pref_title_apps_cleanup_size">​Wanneer cachegrootte is bereikt</string>
   <string name="pref_title_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_title_auto_clean_content_choose">Kies items om op te ruimen</string>
+  <string name="pref_title_auto_deepclean_and_alert">Melding ongebruikte apps</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch updaten</string>
   <string name="pref_title_cleanup_white_list">Uitzonderingen</string>
   <string name="pref_title_expand_cache_group">Gecachte items weergeven</string>
@@ -262,6 +272,7 @@
   <string name="similar_image_scaning">Controleren…</string>
   <string name="similar_image_title">Foto\'s</string>
   <string name="start_install">Nu installeren</string>
+  <string name="summary_auto_cleaner">Om de 3 dagen systeem automatisch opruimen?</string>
   <string name="summary_delete_cache">Alle gegevens van deze app worden permanent verwijderd (inclusief alle bestanden, instellingen en accounts).</string>
   <string name="summary_delete_large_file">"Sommige grote bestanden kunnen handig zijn wanneer je geen internetverbinding hebt (bijvoorbeeld kaarten, schema's, etc.). Zorg ervoor dat u dit bestand niet nodig hebt."</string>
   <string name="summary_optimizer">Deze functie uploadt onbekend mapnamen naar de online database van Cheetah Mobiele om die bij te werken en vereist het toestel ID.</string>
@@ -301,6 +312,7 @@
   <string name="toast_delete_select_image_succeed">Verwijderd</string>
   <string name="toast_garbage_cleanup_success">Opruimen voltooid</string>
   <string name="toast_garbage_list_empty">Alles ziet er goed uit.</string>
+  <string name="toast_must_select_before_restore">Kies foto\'s om te herstellen</string>
   <string name="toast_network_eror">Kan geen verbinding maken met netwerk</string>
   <string name="toast_network_switch">Deze app kan verbinding maken met internet</string>
   <string name="toast_removed_from_white_list">" verwijderd uit uitzonderingen"</string>

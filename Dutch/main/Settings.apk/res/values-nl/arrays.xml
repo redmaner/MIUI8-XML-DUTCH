@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinding maken…</item>
+        <item>Verifiëren…</item>
+        <item>IP-adres ophalen…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Slechte verbinding tijdelijk vermijden</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinding maken met %1$s…</item>
+        <item>Verifiëren met %1$s…</item>
+        <item>IP-adres ophalen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken met %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Slechte verbinding tijdelijk vermijden</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>
@@ -81,35 +109,13 @@
         <item>spa</item>
         <item>kor</item>
     </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinding maken…</item>
-        <item>Verifiëren…</item>
-        <item>IP-adres ophalen…</item>
-        <item>Verbonden</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Slechte verbinding tijdelijk vermijden</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinding maken met %1$s…</item>
-        <item>Verifiëren met %1$s…</item>
-        <item>IP-adres ophalen van %1$s…</item>
-        <item>Verbonden met %1$s</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken met %1$s…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Slechte verbinding tijdelijk vermijden</item>
-    </string-array>
     <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
         <item>TLS</item>
         <item>TTLS</item>
@@ -149,6 +155,10 @@
         <item>Alleen tijdens het opladen</item>
         <item>Nooit</item>
     </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Laatset 30 dageb</item>
+        <item>Stelt gebruik cyclus in…</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatisch</item>
         <item>Alleen 5 GHz</item>
@@ -184,19 +194,6 @@
     <string-array name="wifi_proxy_settings">
         <item>Geen</item>
         <item>Handmatig</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Uit</item>
-        <item>Melding</item>
-        <item>Trillen</item>
-    </string-array>
-    <string-array name="special_locale_codes">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>Chinees(vereenvoudigd)</item>
-        <item>Chinees(traditioneel)</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Geen</item>
@@ -359,15 +356,24 @@
         <item>Geel op blauw</item>
         <item>Aangepast</item>
     </string-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART (foutopsporing)</item>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
     </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Dalvik gebruiken</item>
-        <item>ART gebruiken</item>
-        <item>ART-foutopsporingsbuild gebruiken</item>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nooit controleren</item>
@@ -484,6 +490,40 @@
         <item>Laag</item>
         <item>Kritiek</item>
     </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normaal</item>
+        <item>Gemiddeld</item>
+        <item>Laag</item>
+        <item>Kritiek</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Aanhoudend</item>
+        <item>Top activiteit</item>
+        <item>Belangrijk (voorgrond)</item>
+        <item>Belangrijk (achtergrond)</item>
+        <item>Back-up</item>
+        <item>Zwaargewicht</item>
+        <item>Service (lopende)</item>
+        <item>Service (hertstartend)</item>
+        <item>Ontvanger</item>
+        <item>Home</item>
+        <item>Laatste activiteit</item>
+        <item>Cached (activiteit)</item>
+        <item>Cached (activiteit klant)</item>
+        <item>Cached (leeg)</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Blauwgroen</item>
+        <item>Blauw</item>
+        <item>Indigo</item>
+        <item>Paars</item>
+        <item>Roze</item>
+        <item>Rood</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Bij voorkeur Wi-Fi</item>
+        <item>Bij voorkeur cellulair</item>
+    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Sterk</item>
         <item>Medium</item>
@@ -514,6 +554,14 @@
         <item>8 seconden</item>
         <item>9 seconden</item>
     </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Blauw</item>
+        <item>Rood</item>
+        <item>Groen</item>
+        <item>Roze</item>
+        <item>Violet</item>
+        <item>Paars</item>
+    </string-array>
     <string-array name="led_color_entries">
         <item>Blauw</item>
         <item>Rood</item>
@@ -523,21 +571,6 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>Blauw</item>
-        <item>Rood</item>
-        <item>Groen</item>
-        <item>Roze</item>
-        <item>Violet</item>
-        <item>Paars</item>
-    </string-array>
-	    <string-array name="pink_panel_led_color_entries">
-        <item>Lila</item>
-        <item>Robijnrood</item>
-        <item>Oranje</item>
-        <item>Groen</item>
-        <item>Magenta</item>
-    </string-array> 
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
@@ -673,6 +706,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Handmatig verbinden</item>
         <item>Altijd vragen</item>
     </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>Automatisch verbinden</item>
+        <item>Handmatig verbinden</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuten</item>
         <item>15 minuten</item>
@@ -713,11 +750,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Medium</item>
         <item>Hoog</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inches</item>
-        <item>4.0 inches</item>
-        <item>3.5 inches</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Thuisnetwerk</item>
         <item>Alle netwerken</item>
@@ -735,13 +767,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>KOUD</item>
 	</string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Inschakelen (aanbevolen)</item>
-        <item>Niet gebruiken (gevaarlijk)</item>
-    </string-array>
-	<string-array name="install_non_market_app_contents">
-        <item>Inschakelen</item>
-        <item>Niet gebruiken</item>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inches</item>
+        <item>4.0 inches</item>
+        <item>3.5 inches</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Direct</item>
@@ -763,10 +792,9 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Apparaat herstarten om deze instellingen toe te passen?</item>
         <item>Apparaat herstarten om deze instellingen toe te passen?</item>
 	</string-array>
-	<string-array name="common_password_business_keys">
-        <item>keyguard</item>
-        <item>childrenmode</item>
-		<item>file_explorer</item>
+    <string-array name="screen_resolution_entries">
+        <item>Ultrahoog (2K)</item>
+        <item>Normaal (720p)</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>

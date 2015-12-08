@@ -117,8 +117,9 @@
   <string name="dpad_ok">Ok</string>
   <string name="dpad_right">Rechts</string>
   <string name="dpad_up">Omhoog</string>
-  <string name="edit_controller">(huidig)</string>
+  <string name="dvb_bind_epg">(huidig)</string>
   <string name="edit">Bewerken</string>
+  <string name="edit_controller">(huidig)</string>
   <string name="edit_ir_device">Naam apparaat wijzigen</string>
   <string name="eject">Uitwerpen</string>
   <string name="epg_booked_str">Planning</string>
@@ -191,6 +192,7 @@
   <string name="ir_device_all_ir">Alle</string>
   <string name="ir_device_amp">Versterker</string>
   <string name="ir_device_box">Box</string>
+  <string name="ir_device_camera">Camera</string>
   <string name="ir_device_dvb_s">Kabel/Sat box</string>
   <string name="ir_device_dvd">DVD speler</string>
   <string name="ir_device_fan">Ventilator</string>
@@ -256,7 +258,6 @@ probeer opnieuw"</string>
   <string name="match_guide_sub_frame">Gekoppelde %1$d knoppen</string>
   <string name="match_intro_power">Vrijgeven wanneer apparaat inschakelt</string>
   <string name="match_is_respond">Reageerd dit apparaat？</string>
-  <string name="match_main_tip2_frame">"Richten op %1$s en knop ingedrukt houden</string>
   <string name="match_main_tip_frame">Wijs naar %1$s en druk op de knop</string>
   <string name="match_mibox_first">    Mi TV gevonden</string>
   <string name="match_mibox_sencond">· Bedien uw Mi TV met dit apparaat.</string>
@@ -341,7 +342,6 @@ Wacht een momentje na de handeling"</string>
   <string name="operator">Provider</string>
   <string name="oscillation">Led knipperen</string>
   <string name="other">Andere</string>
-  <string name="outdoor_temp">Buiten temperatuur %1$d ℃</string>
   <string name="outdoor_temp_unknown">Onbekend</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
   <string name="passport_account_hint_text">Email of telefoonnummer</string>
@@ -380,6 +380,7 @@ Om je account te activeren, volg de
   <string name="passport_error_dup_phone">Dit telefoonnummer is al gekoppeld aan een ander account</string>
   <string name="passport_error_email">De ingevoerde e-mail is ongeldig</string>
   <string name="passport_error_empty_captcha_code">Voer passport_captcha code in</string>
+  <string name="passport_error_empty_email">Voer uw e-mail adres in</string>
   <string name="passport_error_empty_phone_num">Voer telefoonnummer in</string>
   <string name="passport_error_empty_pwd">Voer wachtwoord in</string>
   <string name="passport_error_empty_username">Voer je gebruikersnaam in</string>
