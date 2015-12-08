@@ -3308,12 +3308,12 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat verwijderd worden en u
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Apparaat beveiligingsfuncties zullen niet werken zonder uw PIN.
 
 Uw opgeslagen vingerafdrukken zullen ook van dit apparaat verwijderd worden en u zal niet in staat zijn uw telefoon te ontgrendelen, toestemming verlenen bij aankopen of meld je aan te melden op apps."</string>
-  <string name="unlock_disable_frp_warning_content_unknown">Apparaat beveiligingsfuncties zullen niet werken zonder uw schermvergrendeling schermvergrendeling.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Apparaat beveiligingsfuncties zullen niet werken zonder uw.
+  <string name="unlock_disable_frp_warning_content_unknown">Apparaat beveiligingsfuncties zullen niet werken zonder uw schermvergrendeling.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Apparaat beveiligingsfuncties zullen niet werken zonder uw schermvergrendeling.
 
-Uw opgeslagen vingerafdrukken zullen ook van dit apparaat verwijderd worden en u zal niet in staat zijn uw telefoon te ontgrendelen, toestemming verlenen bij aankopen of meld je aan te melden op apps."</string>
-  <string name="unlock_disable_frp_warning_ok">Ja  verwijderen</string>
-  <string name="unlock_disable_frp_warning_title">Apparaat beveiliging verwijderen?</string>
+Uw opgeslagen vingerafdrukken zullen ook van dit apparaat verwijderd worden en u zal niet in staat zijn uw telefoon te ontgrendelen, toestemming verlenen bij aankopen of aan te melden op apps."</string>
+  <string name="unlock_disable_frp_warning_ok">Ja, verwijderen</string>
+  <string name="unlock_disable_frp_warning_title">Apparaatbeveiliging verwijderen?</string>
   <string name="unlock_disable_lock_pin_summary">PIN code voor ontgrendelen verwijderen</string>
   <string name="unlock_disable_lock_title">Schermvergrendeling uitschakelen</string>
   <string name="unlock_set_enter_system">Sla schermvergrendeling over</string>
@@ -3339,14 +3339,14 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat verwijderd worden en u
   <string name="unlock_set_unlock_pin_summary">Voer vier nummers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Als je eenmaal hebt de schermvergrendeling hebt ingesteld, kunt u ook uw vingerafdruk instellen in Instellingen &gt; Beveiliging.</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Als u eenmaal de schermvergrendeling hebt ingesteld, kunt u ook uw vingerafdruk instellen in Instellingen &gt; Beveiliging.</string>
   <string name="unmount_inform_text">USB opslag wordt ontkoppeld.</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
   <string name="upload_debug_log_summary">Help Xiaomi haar producten en diensten te verbeteren door anonieme gegevens te versturen</string>
   <string name="upload_debug_log_title">Verzend debuglog</string>
   <string name="usage_access">Gebruikstoegang</string>
-  <string name="usage_access_description">Gebruikstoegang laat een app om wat andere apps te volgen die u gebruikt en hoe vaak, evenals uw provider, taalinstellingen, en andere details.</string>
+  <string name="usage_access_description">Gebruikstoegang laat een app toe om andere apps te volgen die u gebruikt en hoe vaak, evenals uw provider, taalinstellingen, en andere details.</string>
   <string name="usage_access_title">Apps met gebruikstoegang</string>
   <string name="usage_log">App gebruiksstatistieken</string>
   <string name="usage_stats_label">Gebruiksstatistieken</string>
@@ -3367,7 +3367,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat verwijderd worden en u
   <string name="usage_type_on_time">Tijd actief</string>
   <string name="usage_type_phone">Apparaat</string>
   <string name="usage_type_radio_active">Mobiele radio actief</string>
-  <string name="usage_type_total_battery_capacity">Totaal batterij capaciteit</string>
+  <string name="usage_type_total_battery_capacity">Totale batterijcapaciteit</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ingeschakeld houden</string>
   <string name="usage_type_wifi_running">Wi-Fi actief</string>
@@ -3671,7 +3671,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_band_5ghz">5 GHz</string>
   <string name="wifi_calling_mode_dialog_title">Wi-Fi belmodus</string>
   <string name="wifi_calling_mode_title">Bel voorkeur</string>
-  <string name="wifi_calling_off_explanation">Wanneer WI-Fi bellen is ingeschakeld, kan uw telefoon gesprekken doen via WI-Fi netwerken of het netwerk van uw provider, afhankelijk van uw voorkeur en van det signaalsterkte. Voordat u deze functie inschakeld, bekijk bij uw provider over vergoedingen en andere details.</string>
+  <string name="wifi_calling_off_explanation">Wanneer WI-Fi bellen is ingeschakeld, kan uw telefoon gesprekken doen via WI-Fi netwerken of het netwerk van uw provider, afhankelijk van uw voorkeur en van de signaalsterkte. Voordat u deze functie inschakelt, informeer bij uw provider over vergoedingen en andere details.</string>
   <string name="wifi_calling_settings_title">WI-Fi bellen</string>
   <string name="wifi_cancel">Annuleren</string>
   <string name="wifi_certificate">Certificaat</string>
@@ -3751,7 +3751,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_hotspot_configure_ap_text">Wi-Fi hotspot instellen</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK draagbare Wi-Fi hotspot</string>
   <string name="wifi_hotspot_connect">VERBINDEN</string>
-  <string name="wifi_hotspot_message">%1$s vereist dat u zich online aanmeld voordat u verbinding maakt  met het netwerk.</string>
+  <string name="wifi_hotspot_message">%1$s vereist dat u zich online aanmeldt voordat u verbinding maakt met het netwerk.</string>
   <string name="wifi_hotspot_title">Aanmelden om te verbinden?</string>
   <string name="wifi_in_airplane_mode">In vliegmodus</string>
   <string name="wifi_install_credentials">Certificaten installeren</string>
@@ -3771,7 +3771,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_menu_modify">Netwerk aanpassen</string>
   <string name="wifi_menu_more_options">Meer opties</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
-  <string name="wifi_menu_remember">Netwerk herineren</string>
+  <string name="wifi_menu_remember">Netwerk herinneren</string>
   <string name="wifi_menu_scan">Scannen</string>
   <string name="wifi_menu_wfd">Draadloos scherm</string>
   <string name="wifi_menu_wps_pbc">WPS knop</string>
@@ -3952,8 +3952,8 @@ Het instellen van het apparaat kan aanzienlijke netwerkactiviteit vereisen."</st
   <string name="wifi_suspend_efficiency_title">Efficiëntie verbeteren</string>
   <string name="wifi_suspend_optimizations">Wi-Fi optimalisatie</string>
   <string name="wifi_suspend_optimizations_summary">Accugebruik minimaliseren wanneer Wi-Fi is ingeschakeld</string>
-  <string name="wifi_switch_away_when_unvalidated">Schakelen over naar mobiele data als Wi-fi internettoegang verliest .</string>
-  <string name="wifi_switch_to_gsm_message">Verbinding verloren met Wi-Fi. Gebruik mobiele dataverbinding in de plaats?</string>
+  <string name="wifi_switch_away_when_unvalidated">Overschakelen naar mobiele data als Wi-fi internettoegang verliest.</string>
+  <string name="wifi_switch_to_gsm_message">Verbinding verloren met Wi-Fi. Mobiele dataverbinding gebruiken?</string>
   <string name="wifi_switch_to_gsm_title">GSM gebruiken?</string>
   <string name="wifi_tether_checkbox_text">Draagbare Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Wi-Fi hotspot instellen</string>
@@ -4002,7 +4002,7 @@ Het instellen van het apparaat kan aanzienlijke netwerkactiviteit vereisen."</st
   <string name="wifi_wps_failed_tkip">De beveiligingsinstelling voor de draadloze router (TKIP) wordt niet ondersteund</string>
   <string name="wifi_wps_failed_wep">De beveiligingsinstelling voor de draadloze router (WEP) wordt niet ondersteund</string>
   <string name="wifi_wps_in_progress">WPS wordt al uitgevoerd en het kan twee minuten duren voordat dit proces is voltooid</string>
-  <string name="wifi_wps_nfc_enter_password">Voer u netwerk wachtwoord in</string>
+  <string name="wifi_wps_nfc_enter_password">Voer uw netwerkwachtwoord in</string>
   <string name="wifi_wps_onstart_pbc">"Druk op de knop 'Beveiligde configuratie voor Wi-Fi' op uw router. Misschien heet deze knop 'WPS' of bevat deze het volgende symbool:"</string>
   <string name="wifi_wps_onstart_pin">Geef de PIN code %1$s op uw Wi-Fi router op. De configuratie kan twee minuten duren.</string>
   <string name="wifi_wps_overlap_error">Er is een andere Wi-Fi sessie gedetecteerd. Wacht een minuut en probeer opnieuw</string>
@@ -4016,7 +4016,7 @@ Het instellen van het apparaat kan aanzienlijke netwerkactiviteit vereisen."</st
   <string name="wizard_back">Terug</string>
   <string name="wizard_finish">Voltooien</string>
   <string name="wizard_next">Volgende</string>
-  <string name="work_profile_confirm_remove_message">Alle apps en gegevens in dit profiel wordt verwijderd als u doorgaat.</string>
+  <string name="work_profile_confirm_remove_message">Alle apps en gegevens in dit profiel worden verwijderd als u doorgaat.</string>
   <string name="work_profile_confirm_remove_title">Werkprofiel verwijderen?</string>
   <string name="work_profile_usage_access_warning">Het uitschakelen van het gebruik van de toegang voor deze app zal uw beheerder het dataverbruik voor apps in uw werkprofiel bij te houden niet tegenhouden.</string>
   <string name="work_sim_title">Werk SIM</string>
@@ -4042,7 +4042,7 @@ Het instellen van het apparaat kan aanzienlijke netwerkactiviteit vereisen."</st
   <string name="xiaomi_router_notif_title">Mi Router melding</string>
   <string name="yes">Ja</string>
   <string name="zen_access_empty_text">Geen geïnstalleerde apps vraagt toegang tot Niet storen </string>
-  <string name="zen_access_warning_dialog_summary">De app kan Niet storen aan/uitschakelen  en veranderingen naar verwante instellingen maken.</string>
+  <string name="zen_access_warning_dialog_summary">De app kan Niet storen aan/uitschakelen en veranderingen naar verwante instellingen maken.</string>
   <string name="zen_access_warning_dialog_title">Toegang geven tot Niet storen voor %1$s?</string>
   <string name="zen_event_rule_enabled_toast">Automatische regel ingesteld om Niet storen in te schakelen tijdens bepaalde evenementen</string>
   <string name="zen_event_rule_type_name">Evenement regel</string>
@@ -4084,7 +4084,7 @@ Het instellen van het apparaat kan aanzienlijke netwerkactiviteit vereisen."</st
   <string name="zen_mode_priority_settings_title">Prioriteit laat slechts</string>
   <string name="zen_mode_reminders">Herinneringen</string>
   <string name="zen_mode_repeat_callers">Bellers herhalen</string>
-  <string name="zen_mode_repeat_callers_summary">Als dezelfde persoon voor een tweede keer belt binnen een periode van%d minuten , laat het toet</string>
+  <string name="zen_mode_repeat_callers_summary">Als dezelfde persoon voor een tweede keer belt binnen een periode van %d minuten, laat het toe</string>
   <string name="zen_mode_rule_name">Regelnaam</string>
   <string name="zen_mode_rule_name_hint">Voer regelnaam in</string>
   <string name="zen_mode_rule_name_warning">Regelnaam is al in gebruik</string>
@@ -4107,7 +4107,7 @@ Het instellen van het apparaat kan aanzienlijke netwerkactiviteit vereisen."</st
   <string name="zen_mode_when_never">Nooit</string>
   <string name="zen_mode_when_weeknights">Weeknachten</string>
   <string name="zen_schedule_rule_enabled_toast">Automatische regel ingesteld om Niet storen in te schakelen tijdens bepaalde tijden</string>
-  <string name="zen_schedule_rule_type_name">Tiidsregel</string>
+  <string name="zen_schedule_rule_type_name">Tijdsregel</string>
   <string name="zone_auto">Automatische tijdzone</string>
   <string name="zone_auto_summaryOff">Netwerktijdzone gebruiken</string>
   <string name="zone_auto_summaryOn">Netwerktijdzone gebruiken</string>
