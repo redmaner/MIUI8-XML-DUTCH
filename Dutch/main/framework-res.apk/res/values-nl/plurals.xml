@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="pinpuk_attempts">
         <item quantity="other">U heeft nog %d pogingen over voordat de simkaart wordt vergrendeld.</item>
@@ -6,10 +6,6 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Afgelopen %d dagen</item>
-    </plurals>
-    <plurals name="num_days_ago">
-        <item quantity="other">%d dagen geleden</item>
-        <item quantity="one">%d dag geleden</item>
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d seconden</item>
