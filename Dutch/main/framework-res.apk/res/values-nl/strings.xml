@@ -78,8 +78,8 @@ Wilt u het sluiten?"</string>
   <string name="app_not_found">Er is geen app gevonden om deze actie uit te voeren</string>
   <string name="app_running_notification_text">Raak aan voor meer informatie of om de app te stoppen.</string>
   <string name="app_running_notification_title">%1$s wordt uitgevoerd</string>
-  <string name="autofill_address_type_same_as_re">same as</string>
-  <string name="autofill_address_type_use_my_re">use my</string>
+  <string name="autofill_address_type_same_as_re">zelfde als</string>
+  <string name="autofill_address_type_use_my_re">gebruik mijn</string>
   <string name="autofill_area">Gebied</string>
   <string name="autofill_billing_designator_re">bill</string>
   <string name="autofill_county">Provincie</string>
@@ -88,12 +88,12 @@ Wilt u het sluiten?"</string>
   <string name="autofill_emirate">Emiraat</string>
   <string name="autofill_island">Eiland</string>
   <string name="autofill_parish">Gemeente</string>
-  <string name="autofill_phone_suffix_re">suffix</string>
+  <string name="autofill_phone_suffix_re">achtervoegsel</string>
   <string name="autofill_phone_suffix_separator_re">^-$</string>
   <string name="autofill_postal_code">Postcode</string>
   <string name="autofill_prefecture">Prefectuur</string>
   <string name="autofill_province">Provincie</string>
-  <string name="autofill_shipping_designator_re">ship</string>
+  <string name="autofill_shipping_designator_re">verzenden</string>
   <string name="autofill_state">Staat</string>
   <string name="autofill_this_form">Autom. aanvullen</string>
   <string name="autofill_zip_code">Postcode</string>
@@ -644,7 +644,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="mobile_provisioning_url"/>
   <string name="month_day_year" formatted="false">%-e %B %Y</string>
   <string name="more_item_label">Meer</string>
-  <string name="muted_by">Muted by %1$s</string>
+  <string name="muted_by">Gedempt door %1$s</string>
   <string name="needPuk">Uw SIM kaart is vergrendeld met de PUK code. Typ de PUK code om te ontgrendelen.</string>
   <string name="needPuk2">Voer de PUK2 code in om de SIM kaart te ontgrendelen.</string>
   <string name="network_available_sign_in">Inloggen op netwerk</string>
@@ -1137,12 +1137,12 @@ voor account %s."</string>
   <string name="ssl_certificate">Beveiligingscertificaat</string>
   <string name="ssl_certificate_is_valid">Dit certificaat is geldig.</string>
   <string name="status_bar_notification_info_overflow">999 +</string>
-  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
-  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
-  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
-  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
-  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
-  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
+  <string name="stk_cc_ss_to_dial">SS verzoek is aangepast naar DIAL verzoek .</string>
+  <string name="stk_cc_ss_to_ss">SS verzoek is aangepast naar nieuw SS verzoek.</string>
+  <string name="stk_cc_ss_to_ussd">SS verzoek is aangepast naar USSD verzoek.</string>
+  <string name="stk_cc_ussd_to_dial">USSD verzoek is aangepast naar DIAL verzoek.</string>
+  <string name="stk_cc_ussd_to_ss">USSD verzoek is aangepast naar SS verzoek.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD verzoek is aangepast naar nieuw USSD verzoek.</string>
   <string name="storage_internal">Interne opslag</string>
   <string name="storage_sd_card">SD kaart</string>
   <string name="storage_sd_card_label">%s SD kaart</string>
@@ -1210,7 +1210,7 @@ voor account %s."</string>
   <string name="use_a_different_app">Andere app gebruiken</string>
   <string name="user_owner_label">Persoonlijk</string>
   <string name="user_switched">Huidige gebruiker %1$s.</string>
-  <string name="user_switching_message">Switching to %1$s…</string>
+  <string name="user_switching_message">Overschakelen naar %1$s…</string>
   <string name="validity_period">Geldigheid:</string>
   <string name="volume_alarm">Alarmvolume</string>
   <string name="volume_bluetooth_call">Volume tijdens gesprek in Bluetoothmodus</string>
@@ -1236,8 +1236,8 @@ voor account %s."</string>
   <string name="vpn_title_long">VPN wordt geactiveerd door %s</string>
   <string name="wait">Wachten</string>
   <string name="wallpaper_binding_label">Achtergrond</string>
-  <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-  <string name="web_user_agent_target_content">"Mobile "</string>
+  <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, zoals Gecko) Versie/4.0 %sSafari/534.30</string>
+  <string name="web_user_agent_target_content">"Mobiel "</string>
   <string name="webpage_unresponsive">"De pagina reageert niet meer.
 
 Wilt u de pagina sluiten?"</string>
