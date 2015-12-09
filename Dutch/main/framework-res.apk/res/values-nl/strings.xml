@@ -50,7 +50,7 @@
   <string name="activity_list_empty">Geen overeenkomende activiteiten gevonden.</string>
   <string name="activity_resolver_use_always">Altijd</string>
   <string name="activity_resolver_use_once">Eén keer</string>
-  <string name="activity_resolver_work_profiles_support">"%1$s ondersteund het werk profiel niet"</string>
+  <string name="activity_resolver_work_profiles_support">"%1$s ondersteund het werkprofiel niet"</string>
   <string name="activitychooserview_choose_application">Een app selecteren</string>
   <string name="activitychooserview_choose_application_error">Kan %s niet starten</string>
   <string name="adb_active_notification_message">Tik om USB foutopsporing uit te schakelen.</string>
@@ -326,8 +326,8 @@ met %s"</string>
   <string name="font_family_subhead_material">sans-serif</string>
   <string name="font_family_title_material">sans-serif-medium</string>
   <string name="force_close">OK</string>
-  <string name="forward_intent_to_owner">U gebruikt deze app buiten uw werk profiel</string>
-  <string name="forward_intent_to_work">U gebruikt deze app in uw werk profiel</string>
+  <string name="forward_intent_to_owner">U gebruikt deze app buiten uw werkprofiel</string>
+  <string name="forward_intent_to_work">U gebruikt deze app in uw werkprofiel</string>
   <string name="gadget_host_error_inflating">Kan widget niet toevoegen.</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">Bijstaan</string>
@@ -662,7 +662,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Listener voor meldingen</string>
   <string name="notification_title">"Fout bij aanmelding voor '%1$s'"</string>
-  <string name="notification_work_profile_content_description">Werk profiel</string>
+  <string name="notification_work_profile_content_description">Werkprofiel</string>
   <string name="number_picker_decrement_button">Verlagen</string>
   <string name="number_picker_increment_button">Verhogen</string>
   <string name="number_picker_increment_scroll_action">Veeg omhoog om te verhogen en omlaag om te verlagen.</string>
@@ -1130,7 +1130,7 @@ voor account %s."</string>
   <string name="sms_short_code_remember_undo_instruction">"U kunt dit later wijzigen in 'Instellingen' &gt; 'Apps'"</string>
   <string name="smv_application">De app %1$s (proces %2$s) heeft het zelf afgedwongen StrictMode beleid geschonden.</string>
   <string name="smv_process">Het proces %1$s heeft het zelf afgedwongen StrictMode beleid geschonden.</string>
-  <string name="ssl_ca_cert_noti_by_administrator">Door uw werk profiel beheerder</string>
+  <string name="ssl_ca_cert_noti_by_administrator">Door uw werkprofiel beheerder</string>
   <string name="ssl_ca_cert_noti_by_unknown">Door een onbekende derde partij</string>
   <string name="ssl_ca_cert_noti_managed">Door %s</string>
   <string name="ssl_ca_cert_warning">Netwerk kan worden gecontroleerd</string>
@@ -1285,10 +1285,10 @@ Wilt u de pagina sluiten?"</string>
   <string name="wifi_watchdog_network_disabled">Kan geen verbinding maken met Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" heeft een slechte internetverbinding."</string>
   <string name="wireless_display_route_description">Draadloze weergave</string>
-  <string name="work_profile_deleted">Werk profiel verwijderd</string>
-  <string name="work_profile_deleted_description">Werk profiel verwijderd als gevolg van een ontbrekende admin app.</string>
-  <string name="work_profile_deleted_description_dpm_wipe">Uw werk profiel is niet meer beschikbaar op dit apparaat.</string>
-  <string name="work_profile_deleted_details">Het werk profiel admin app ontbreekt of is beschadigd. Als gevolg is uw werkprofiel en de bijbehorende gegevens verwijderd. Neem contact op met uw beheerder voor hulp.</string>
+  <string name="work_profile_deleted">Werkprofiel verwijderd</string>
+  <string name="work_profile_deleted_description">Werkprofiel verwijderd als gevolg van een ontbrekende admin app.</string>
+  <string name="work_profile_deleted_description_dpm_wipe">Uw werkprofiel is niet meer beschikbaar op dit apparaat.</string>
+  <string name="work_profile_deleted_details">Het werkprofiel admin app ontbreekt of is beschadigd. Als gevolg is uw werkprofiel en de bijbehorende gegevens verwijderd. Neem contact op met uw beheerder voor hulp.</string>
   <string name="write_fail_reason_cancelled">Geannuleerd</string>
   <string name="write_fail_reason_cannot_write">Fout bij schrijven van inhoud</string>
   <string name="year">jaar</string>
