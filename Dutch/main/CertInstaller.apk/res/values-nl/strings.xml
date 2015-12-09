@@ -10,16 +10,13 @@
   <string name="credential_name">Certificaatnaam:</string>
   <string name="credential_password">Typ het wachtwoord om de certificaten uit te pakken.</string>
   <string name="credential_usage_label">Gebruik van referentiegegevens:</string>
-  <string name="done_label">KLAAR</string>
   <string name="extracting_pkcs12">Bezig met uitpakken…</string>
-  <string name="install_done">%1$s referenties zijn toegevoegd aan de Wi-Fi opgeslagen netwerken.</string>
-  <string name="install_done_title">referenties geïnstalleerd</string>
   <string name="invalid_cert">Het certificaat is ongeldig.</string>
   <string name="n_cacrts">%d CA-certificaten</string>
   <string name="name_char_error">Typ een naam die alleen letters en cijfers bevat.</string>
   <string name="name_credential_dialog_title">Geef een naam op voor het certificaat</string>
   <string name="name_empty_error">Typ een naam.</string>
-  <string name="no_cert_file_found">Geen certificaatbestand gevonden op de SD kaart.</string>
+  <string name="no_cert_file_found">Geen certificaatbestand gevonden in de USB opslag.</string>
   <string name="no_cert_to_saved">Er is geen certificaat dat kan worden geïnstalleerd.</string>
   <string name="one_cacrt">één CA certificaat</string>
   <string name="one_usercrt">Eén gebruikerscertificaat</string>
@@ -31,38 +28,7 @@
   <string name="pick_file_title">Een certificaat kiezen</string>
   <string name="pkcs12_file_password_dialog_title">Uitpakken vanuit %s</string>
   <string name="pkcs12_password_dialog_title">Certificaat uitpakken</string>
-  <string name="sdcard_not_present">Geen SD kaart aanwezig.</string>
+  <string name="sdcard_not_present">USB opslag niet beschikbaar.</string>
   <string name="storage_error">"Kan het certificaat niet opslaan. Raak 'OK' aan om het opnieuw te proberen."</string>
   <string name="unable_to_save_cert">Kan het certificaat niet opslaan. De opslag van referenties is niet ingeschakeld of niet correct geïnitialiseerd.</string>
-  <string name="wifi_cancel_label">Annuleren</string>
-  <string name="wifi_config_text">"Naam: %1$s
-FQDN: %2$s
-Roaming consortia: %3$s
-Gebied: %4$s
-Auth methode: EAP-%5$s
-"</string>
-  <string name="wifi_detail_label">Details</string>
-  <string name="wifi_detail_title">Details voor %s</string>
-  <string name="wifi_dismiss_label">Afwijzen</string>
-  <string name="wifi_install_label">Installeren</string>
-  <string name="wifi_installer_detail">Installeer Wi-Fi referenties om verbinding te maken met netwerken die beschikbaar zijn via %1$s.</string>
-  <string name="wifi_installer_download_error">Het gedownloade bestand heeft problemen en kan niet worden geïnstalleerd. Zorg ervoor dat u het bestand van de juiste bron hebt gedownload.</string>
-  <string name="wifi_installer_fail">Kan Wi-Fi referenties niet installeren. Probeer het bestand opnieuw te downloaden</string>
-  <string name="wifi_installer_fail_no_wifi">Wi-Fi inschakelen en opnieuw proberen.</string>
-  <string name="wifi_installer_fail_no_wifi_title">Installatie geannuleerd</string>
-  <string name="wifi_installer_fail_title">Kan niet installeren</string>
-  <string name="wifi_installing_label">Bezig met installeren</string>
-  <string name="wifi_no_config">Geen</string>
-  <string name="wifi_sim_config_text">"SIM: %s
-"</string>
-  <string name="wifi_title">Wi-Fi Profiel</string>
-  <string name="wifi_tls_config_text">"Certificaat klant:
-%1$s
-Sleutel: %2$s
-"</string>
-  <string name="wifi_trust_config_text">"Certificaat vertrouwen:
-%s
-"</string>
-  <string name="wifi_ttls_config_text">"Gebruikersnaam: %s
-"</string>
 </resources>
