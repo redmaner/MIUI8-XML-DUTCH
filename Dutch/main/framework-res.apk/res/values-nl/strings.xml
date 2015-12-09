@@ -624,16 +624,11 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_access_keyguard_secure_storage">Hiermee kan een app toegang tot keguard veilige opslag krijgen.</string>
   <string name="permdesc_accountManagerService">Hiermee kan de app bellen naar AccountAuthenticators.</string>
   <string name="permdesc_addVoicemail">Hiermee kan de app berichten toevoegen aan de inbox van uw voicemail.</string>
-  <string name="permdesc_anyCodecForPlayback">Allows the app to use any installed media decoder to decode for playback.</string>
-  <string name="permdesc_asec_access">Allows the app to get information on internal storage.</string>
-  <string name="permdesc_asec_create">Allows the app to create internal storage.</string>
-  <string name="permdesc_asec_destroy">Allows the app to destroy internal storage.</string>
-  <string name="permdesc_asec_mount_unmount">Allows the app to mount/unmount internal storage.</string>
   <string name="permdesc_anyCodecForPlayback">Hiermee kan de app alle geïnstalleerde mediadecoders gebruiken om te decoderen voor het afspelen.</string>
-  <string name="permdesc_asec_access">Hiermee kan de app informatie over de interne opslag verkrijgen.</string>
-  <string name="permdesc_asec_create">Hiermee kan de app interne opslag maken.</string>
+  <string name="permdesc_asec_create">Hiermee kan de app interne opslag maken..</string>
   <string name="permdesc_asec_destroy">Hiermee kan de app de interne opslag vernietigen.</string>
-  <string name="permdesc_asec_mount_unmount">Hiermee kan de app de interne opslag koppelen/ontkoppelen.</string>
+  <string name="permdesc_asec_mount_unmount">Allows the app to mount/unmount internal storage.</string>
+  <string name="permdesc_asec_access">Hiermee kan de app informatie over de interne opslag verkrijgen.</string>
   <string name="permdesc_asec_rename">Hiermee kan de app de naam van de interne opslag wijzigen.</string>
   <string name="permdesc_authenticateAccounts">Hiermee kan de app de accountverificatiemogelijkheden van AccountManager gebruiken, inclusief het maken van accounts en het ophalen en instellen van de bijbehorende wachtwoorden.</string>
   <string name="permdesc_backup">Hiermee kan de app het beheer van het mechanisme voor systeembackup en -herstel beheren. Niet voor gebruik door normale apps.</string>
@@ -645,22 +640,6 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_bindJobService">Deze toestemming laat het Android systeem toe de toepassing op verzoek op de achtergrond draaien.</string>
   <string name="permdesc_bindNfcService">Hiermee kan de houder apps koppelen die NFC kaarten emuleren. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindNotificationListenerService">Hiermee kan de houder koppelen aan de hoofdinterface van een listener service voor meldingen. Nooit vereist voor normale apps.</string>
-  <string name="permdesc_anyCodecForPlayback">Hiermee kan de app alle geïnstalleerde mediadecoders gebruiken om te decoderen voor het afspelen.</string>
-  <string name="permdesc_asec_access">Hiermee kan de app informatie over de interne opslag verkrijgen.</string>
-  <string name="permdesc_asec_create">Hiermee kan de app interne opslag maken.</string>
-  <string name="permdesc_asec_destroy">Hiermee kan de app de interne opslag vernietigen.</string>
-  <string name="permdesc_asec_mount_unmount">Hiermee kan de app de interne opslag koppelen/ontkoppelen.</string>
-  <string name="permdesc_asec_rename">Hiermee kan de app de naam van de interne opslag wijzigen.</string>
-  <string name="permdesc_authenticateAccounts">Hiermee kan de app de accountverificatiemogelijkheden van AccountManager gebruiken, inclusief het maken van accounts en het ophalen en instellen van de bijbehorende wachtwoorden.</string>
-  <string name="permdesc_backup">Hiermee kan de app het beheer van het mechanisme voor systeembackup en -herstel beheren. Niet voor gebruik door normale apps.</string>
-  <string name="permdesc_batteryStats">Hiermee kan de app het huidige accugebruik voor gegevens op laag niveau lezen. Een app kan hierdoor mogelijk gedetailleerde informatie achterhalen over de door u gebruikte apps.</string>
-  <string name="permdesc_bindAccessibilityService">Hiermee wordt de houder toegestaan verbinding te maken met de hoofdinterface van een toegankelijkheidsservice. Nooit vereist voor normale apps.</string>
-  <string name="permdesc_bindDeviceAdmin">Hiermee kan de houder intenties verzenden naar een apparaatbeheerder. Nooit vereist voor normale apps.</string>
-  <string name="permdesc_bindGadget">Hiermee kan de app het systeem laten weten welke widgets door welke app kunnen worden gebruikt. Een app met deze rechten kan andere apps toegang verlenen tot persoonlijke gegevens. Dit wordt niet gebruikt door normale apps.</string>
-  <string name="permdesc_bindInputMethod">Hiermee kan de houder zich verbinden met de hoofdinterface van een invoermethode. Nooit vereist voor normale apps.</string>
-  <string name="permdesc_bindJobService">Deze toestemming laat het Android systeem toe de toepassing op verzoek op de achtergrond draaien.</string>
-  <string name="permdesc_bindNfcService">Hiermee kan de houder apps koppelen die NFC kaarten emuleren. Nooit vereist voor normale apps.</string>
-  <string name="permdesc_bindNotificationListenerService">Hiermee kan de eigenaar koppelen aan de top-level-interface van een kennisgeving luisteraar service. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindPackageVerifier">Hiermee kan de eigenaar verzoeken te maken van pakket verificateurs. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindPrintService">Hiermee kan de eigenaar koppelen aan de top-level-interface van een afdrukservice. Nooit vereist voor normale apps.</string>
   <string name="permdesc_bindPrintSpoolerService">Hiermee kan de eigenaar koppelen aan de top-level-interface van een print spooler service. Nooit vereist voor normale apps.</string>
@@ -1428,7 +1407,6 @@ Pogingen over :"</string>
   <string name="webpage_unresponsive">"De pagina reageert niet meer.
 
 Wilt u de pagina sluiten?"</string>
-  <string name="websearch">Online zoeken</string>
   <string name="websearch">Online zoeken</string>
   <string name="webviewchromium_accessibility_content_view">Webweergave</string>
   <string name="webviewchromium_accessibility_date_picker_month">Maand</string>
