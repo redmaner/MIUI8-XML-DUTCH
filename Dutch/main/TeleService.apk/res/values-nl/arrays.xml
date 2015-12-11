@@ -4,6 +4,38 @@
         <item>UDP</item>
         <item>TCP</item>
     </string-array>
+	<string-array name="ims_call_cap_types">
+        <item>Stem</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Stem</item>
+        <item>Video</item>
+        <item>CSstem</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Video</item>
+        <item>CSstem</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Stem</item>
+        <item>CSstem</item>
+    </string-array>
+    <string-array name="cs_call_type">
+        <item>CSstem</item>
+    </string-array>
+	<string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Triple modus</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple modus</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globaal</item>
         <item>LTE / CDMA</item>
@@ -46,21 +78,10 @@
     <string-array name="cdma_system_select_choices">
         <item>Alleen thuis</item>
         <item>Automatisch</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Triple modus</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Triple modus</item>
+    </string-array><string-array name="livetalk_about_info_array">
+        <item>• Gebruik: Bel naar iedere telefoon in de wereld, er zijn geen providerbeperkingen;</item>
+        <item>• Benodigdheden: Ieder gesprek heeft 1KB aan mobiele data nodig;</item>
+        <item>• Andere: Herlaad en begin met bellen, er zijn geen ingewikkelde instellingen;</item>
+        <item>• Hulp nodig, bel naar 400-100-5678.</item>
     </string-array>
 </resources>
