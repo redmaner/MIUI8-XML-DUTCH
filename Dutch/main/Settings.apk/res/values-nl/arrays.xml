@@ -115,12 +115,6 @@
         <item>TTLS</item>
         <item>PWD</item>
     </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
         <item>PIN code van peer apparaat</item>
@@ -490,40 +484,6 @@
         <item>Laag</item>
         <item>Kritiek</item>
     </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Normaal</item>
-        <item>Gemiddeld</item>
-        <item>Laag</item>
-        <item>Kritiek</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Aanhoudend</item>
-        <item>Top activiteit</item>
-        <item>Belangrijk (voorgrond)</item>
-        <item>Belangrijk (achtergrond)</item>
-        <item>Back-up</item>
-        <item>Zwaargewicht</item>
-        <item>Service (lopende)</item>
-        <item>Service (hertstartend)</item>
-        <item>Ontvanger</item>
-        <item>Home</item>
-        <item>Laatste activiteit</item>
-        <item>Cached (activiteit)</item>
-        <item>Cached (activiteit klant)</item>
-        <item>Cached (leeg)</item>
-    </string-array>
-    <string-array name="color_picker">
-        <item>Blauwgroen</item>
-        <item>Blauw</item>
-        <item>Indigo</item>
-        <item>Paars</item>
-        <item>Roze</item>
-        <item>Rood</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>Bij voorkeur Wi-Fi</item>
-        <item>Bij voorkeur cellulair</item>
-    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Sterk</item>
         <item>Medium</item>
@@ -553,6 +513,15 @@
         <item>7 seconden</item>
         <item>8 seconden</item>
         <item>9 seconden</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>White</item>
+        <item>Violet</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Blauw</item>
@@ -743,6 +712,11 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Laag</item>
         <item>Medium</item>
         <item>Hoog</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inches</item>
+        <item>4.0 inches</item>
+        <item>3.5 inches</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Thuisnetwerk</item>
