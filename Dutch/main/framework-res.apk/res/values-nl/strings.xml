@@ -61,11 +61,6 @@
   <string name="allow">Toestaan</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">Standaard gebruiken voor deze actie.</string>
-  <string name="android_system_label">Android Systeem</string>
-  <string name="android_upgrading_apk">%1$d app optimaliseren van %2$d.</string>
-  <string name="android_upgrading_complete">Afwerken opstarten.</string>
-  <string name="android_upgrading_starting_apps">Apps starten.</string>
-  <string name="android_upgrading_title">Android is bezig met upgraden…</string>
   <string name="anr_activity_application">"%2$s reageert niet.
 
 Wilt u deze app sluiten?"</string>
@@ -81,15 +76,21 @@ Wilt u het sluiten?"</string>
   <string name="app_not_found">Er is geen app gevonden om deze actie uit te voeren</string>
   <string name="app_running_notification_text">Raak aan voor meer informatie of om de app te stoppen.</string>
   <string name="app_running_notification_title">%1$s wordt uitgevoerd</string>
+  <string name="autofill_address_name_separator">" "</string>
+  <string name="autofill_address_summary_format">$1$2$3</string>
+  <string name="autofill_address_summary_name_format">$1$2$3</string>
+  <string name="autofill_address_summary_separator">", "</string>
   <string name="autofill_address_type_same_as_re">zelfde als</string>
   <string name="autofill_address_type_use_my_re">gebruik mijn</string>
   <string name="autofill_area">Gebied</string>
   <string name="autofill_billing_designator_re">bill</string>
+  <string name="autofill_card_ignored_re">^card</string>
   <string name="autofill_county">Provincie</string>
   <string name="autofill_department">Departement</string>
   <string name="autofill_district">Arrondissement</string>
   <string name="autofill_emirate">Emiraat</string>
   <string name="autofill_island">Eiland</string>
+  <string name="autofill_name_on_card_contextual_re">name</string>
   <string name="autofill_parish">Gemeente</string>
   <string name="autofill_phone_suffix_re">achtervoegsel</string>
   <string name="autofill_phone_suffix_separator_re">^-$</string>
@@ -134,6 +135,29 @@ Wilt u het sluiten?"</string>
   <string name="clearDefaultHintMsg">Standaardinstelling wissen via Systeeminstellingen &gt; Apps &gt; Gedownload.</string>
   <string name="common_last_name_prefixes"/>
   <string name="common_name">Algemene naam:</string>
+  <string name="common_name_conjunctions"/>
+  <string name="common_name_prefixes"/>
+  <string name="common_name_suffixes"/>
+  <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
+  <string name="config_customResolverActivity"/>
+  <string name="config_datause_iface">rmnet0</string>
+  <string name="config_default_dns_server">8.8.8.8</string>
+  <string name="config_ethernet_iface_regex">eth\\d</string>
+  <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+  <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
+  <string name="config_isoImagePath"/>
+  <string name="config_mms_user_agent">Android-Mms/2.0</string>
+  <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
+  <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
+  <string name="config_partial_segment_expire_age">2592000000</string>
+  <string name="config_tether_apndata"/>
+  <string name="config_useragentprofile_url"/>
+  <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
+  <string name="config_wimaxManagerClassname"/>
+  <string name="config_wimaxNativeLibLocation"/>
+  <string name="config_wimaxServiceClassname"/>
+  <string name="config_wimaxServiceJarLocation"/>
+  <string name="config_wimaxStateTrackerClassname"/>
   <string name="configure_input_methods">Invoermethode instellen</string>
   <string name="contentServiceSync">Synchroniseren</string>
   <string name="contentServiceSyncNotificationTitle">Synchroniseren</string>
@@ -167,9 +191,6 @@ met %s"</string>
   <string name="date_picker_increment_day_button">Hogere waarde voor dag</string>
   <string name="date_picker_increment_month_button">Hogere waarde voor maand</string>
   <string name="date_picker_increment_year_button">Hogere waarde voor jaar</string>
-  <string name="date_picker_month_typeface">sans-serif-medium</string>
-  <string name="date_picker_next_month_button">Volgende maand</string>
-  <string name="date_picker_prev_month_button">Vorige maand</string>
   <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Gereed</string>
   <string name="date_time_set">Instellen</string>
@@ -183,6 +204,7 @@ met %s"</string>
   <string name="default_audio_route_name_dock_speakers">Dockluidsprekers</string>
   <string name="default_audio_route_name_headphones">Hoofdtelefoon</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
+  <string name="default_text_encoding">Latin-1</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteText">Verwijderen</string>
   <string name="deny">Weigeren</string>
@@ -232,7 +254,7 @@ met %s"</string>
   <string name="eventTypeCustom">Aangepast</string>
   <string name="eventTypeOther">Overig</string>
   <string name="expires_on">Verloopt op:</string>
-<string name="ext_media_badremoval_notification_message">Ontkoppel USB opslag voordat u deze verwijderd om gegevensverlies te voorkomen.</string>
+  <string name="ext_media_badremoval_notification_message">Ontkoppel USB opslag voordat u deze verwijderd om gegevensverlies te voorkomen.</string>
   <string name="ext_media_badremoval_notification_title">USB opslag onverwacht verwijderd</string>
   <string name="ext_media_checking_notification_message">Controleren op fouten.</string>
   <string name="ext_media_checking_notification_title">USB opslag voorbereiden</string>
@@ -495,6 +517,7 @@ Ga naar "&lt;b&gt;https://www.google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Uw SIM kaart is permanent uitgeschakeld.
  Neem contact op met uw mobiele serviceprovider voor een nieuwe SIM kaart."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Onbruikbare SIM kaart.</string>
+  <string name="lockscreen_plugged_in">Laden, %d%%</string>
   <string name="lockscreen_return_to_call">Terug naar gesprek</string>
   <string name="lockscreen_screen_locked">Scherm vergrendeld.</string>
   <string name="lockscreen_sim_error_message_short">Ongeldige kaar.</string>
@@ -569,6 +592,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="mmiFdnError">Bewerking is beperkt tot vaste nummers.</string>
   <string name="mobile_provisioning_apn"/>
   <string name="mobile_provisioning_url"/>
+  <string name="mobile_redirected_provisioning_url">http://google.com</string>
   <string name="month_day_year" formatted="false">%-e %B %Y</string>
   <string name="more_item_label">Meer</string>
   <string name="needPuk">Uw SIM kaart is vergrendeld met de PUK code. Typ de PUK code om te ontgrendelen.</string>
@@ -591,6 +615,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="number_picker_increment_button">Verhogen</string>
   <string name="number_picker_increment_scroll_action">Veeg omhoog om te verhogen en omlaag om te verlagen.</string>
   <string name="number_picker_increment_scroll_mode">%s blijven aanraken.</string>
+  <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
   <string name="ok">OK</string>
   <string name="old_app_action">Terug naar %1$s</string>
   <string name="old_app_description">De nieuwe app niet starten.</string>
@@ -625,10 +650,10 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_accountManagerService">Hiermee kan de app bellen naar AccountAuthenticators.</string>
   <string name="permdesc_addVoicemail">Hiermee kan de app berichten toevoegen aan de inbox van uw voicemail.</string>
   <string name="permdesc_anyCodecForPlayback">Hiermee kan de app alle geïnstalleerde mediadecoders gebruiken om te decoderen voor het afspelen.</string>
+  <string name="permdesc_asec_access">Hiermee kan de app informatie over de interne opslag verkrijgen.</string>
   <string name="permdesc_asec_create">Hiermee kan de app interne opslag maken..</string>
   <string name="permdesc_asec_destroy">Hiermee kan de app de interne opslag vernietigen.</string>
   <string name="permdesc_asec_mount_unmount">Allows the app to mount/unmount internal storage.</string>
-  <string name="permdesc_asec_access">Hiermee kan de app informatie over de interne opslag verkrijgen.</string>
   <string name="permdesc_asec_rename">Hiermee kan de app de naam van de interne opslag wijzigen.</string>
   <string name="permdesc_authenticateAccounts">Hiermee kan de app de accountverificatiemogelijkheden van AccountManager gebruiken, inclusief het maken van accounts en het ophalen en instellen van de bijbehorende wachtwoorden.</string>
   <string name="permdesc_backup">Hiermee kan de app het beheer van het mechanisme voor systeembackup en -herstel beheren. Niet voor gebruik door normale apps.</string>
@@ -723,7 +748,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_manageDeviceAdmins">Hiermee kan de rechtenhouder actieve apparaatbeheerders toevoegen of verwijderen. Nooit vereist voor normale apps.</string>
   <string name="permdesc_manageDocs">Hiermee kan de app documentopslag beheren.</string>
   <string name="permdesc_manageNetworkPolicy">Hiermee kan de app het netwerkbeleid beheren en app specifieke regels definiëren.</string>
-<string name="permdesc_manageUsb">Hiermee kan de app voorkeuren en rechten voor USB apparaten beheren.</string>
+  <string name="permdesc_manageUsb">Hiermee kan de app voorkeuren en rechten voor USB apparaten beheren.</string>
   <string name="permdesc_manageUsers">Toestaan dat apps gebruikers op het apparaat beheren, inclusief het opvragen van gegevens en het maken en verwijderen van gebruikers.</string>
   <string name="permdesc_markNetworkSocket">Hiermee kan de app socketmarkeringen voor routeren aanpassen</string>
   <string name="permdesc_masterClear">Hiermee kan de app het systeem terugzetten naar de fabrieksinstellingen, waarbij alle gegevens, configuraties en geïnstalleerde apps worden verwijderd.</string>
@@ -777,7 +802,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_sendSms">Hiermee kan de app SMS berichten verzenden. Dit kan tot onverwachte kosten leiden. Schadelijke apps kunnen u geld kosten doordat ze zonder uw bevestiging berichten kunnen verzenden.</string>
   <string name="permdesc_serialPort">De houder toestaan toegang tot seriële poorten te krijgen met de SerialManager API.</string>
   <string name="permdesc_setAlarm">Hiermee kan de app een alarm instellen in een geïnstalleerde wekkerapp. Deze functie wordt door sommige wekkerapps niet geïmplementeerd.</string>
-   <string name="permdesc_setAlwaysFinish">Hiermee kan de app bepalen of activiteiten worden afgerond zodra ze naar de achtergrond worden verplaatst. Dit is nooit nodig voor normale apps.</string>
+  <string name="permdesc_setAlwaysFinish">Hiermee kan de app bepalen of activiteiten worden afgerond zodra ze naar de achtergrond worden verplaatst. Dit is nooit nodig voor normale apps.</string>
   <string name="permdesc_setAnimationScale">Hiermee kan de app op elk gewenst moment de algemene animatiesnelheid wijzigen (snellere of tragere animaties).</string>
   <string name="permdesc_setDebugApp">Hiermee kan de app de foutopsporing voor een andere app inschakelen. Schadelijke apps kunnen dit gebruiken om andere apps af te sluiten.</string>
   <string name="permdesc_setKeyboardLayout">Hiermee kan de app de toetsenbordindeling wijzigen. Nooit vereist voor normale apps.</string>
@@ -809,7 +834,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_use_sip">Hiermee kan de app de SIP service gebruiken om internetoproepen te starten/te ontvangen.</string>
   <string name="permdesc_vibrate">Hiermee kan de app de trilstand beheren.</string>
   <string name="permdesc_wakeLock">Hiermee kan de app voorkomen dat de telefoon overschakelt naar de slaapmodus.</string>
-   <string name="permdesc_writeApnSettings">Hiermee kan de app netwerkinstellingen wijzigen en alle netwerkverkeer onderscheppen en controleren om bijvoorbeeld de proxy en poort van een APN te wijzigen. Schadelijke apps kunnen netwerkpakketten controleren, omleiden of aanpassen zonder uw medeweten.</string>
+  <string name="permdesc_writeApnSettings">Hiermee kan de app netwerkinstellingen wijzigen en alle netwerkverkeer onderscheppen en controleren om bijvoorbeeld de proxy en poort van een APN te wijzigen. Schadelijke apps kunnen netwerkpakketten controleren, omleiden of aanpassen zonder uw medeweten.</string>
   <string name="permdesc_writeCalendar">"Hiermee kan de app afspraken toevoegen, verwijderen en wijzigen die u kunt bewerken op uw telefoon, inclusief afspraken van vrienden of collega's. Zo kan de app berichten verzenden die afkomstig lijken te zijn van agenda eigenaren, of afspraken aanpassen zonder medeweten van de eigenaar."</string>
   <string name="permdesc_writeCallLog">Toestaan dat de app het gesprekkenlijst van uw telefoon aanpast, waaronder gegevens over inkomende en uitgaande oproepen. Schadelijke apps kunnen hiermee uw gesprekkenlijst wissen of aanpassen.</string>
   <string name="permdesc_writeContacts">Hiermee kan de app gegevens wijzigen over de contacten die zijn opgeslagen op uw telefoon, inclusief de frequentie waarmee u heeft gebeld, gemaild of op andere manieren heeft gecommuniceerd met specifieke contacten. Met deze toestemming kunnen apps contactgegevens verwijderen.</string>
@@ -983,7 +1008,6 @@ voor account %s."</string>
   <string name="permlab_getDetailedTasks">Details van actieve apps ophalen</string>
   <string name="permlab_getPackageSize">Opslagruimte van app meten</string>
   <string name="permlab_getTasks">Actieve apps ophalen</string>
-  <string name="permlab_handoverStatus">Android Beam transfereer status ontvangen</string>
   <string name="permlab_getTopActivityInfo">Huidige appgegevens ophalen</string>
   <string name="permlab_grantRevokePermissions">Rechten verlenen of intrekken</string>
   <string name="permlab_hardware_test">Hardware testen</string>
@@ -1166,9 +1190,7 @@ Pogingen over :"</string>
   <string name="progress_erasing">USB opslag wissen…</string>
   <string name="progress_nomediapresent">Geen verwijderbare media aanwezig…</string>
   <string name="progress_unmounting">USB opslag ontkoppelen…</string>
-  <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
   <string name="quick_contacts_not_available">Er is geen app gevonden om dit contact te bekijken.</string>
-  <string name="radial_numbers_typeface">sans-serif</string>
   <string name="reason_service_unavailable">Afdrukservice niet ingeschakeld</string>
   <string name="reason_unknown">Onbekend</string>
   <string name="reboot_confirm">Uw telefoon zal herstarten.</string>
@@ -1337,7 +1359,7 @@ Pogingen over :"</string>
   <string name="tethered_notification_title">Tethering of hotspot actief</string>
   <string name="textSelectionCABTitle">Tekstselectie</string>
   <string name="text_copied">Tekst naar klembord gekopieerd.</string>
-   <string name="throttle_warning_notification_message">Raak aan voor meer informatie over mobiel gegevensgebruik.</string>
+  <string name="throttle_warning_notification_message">Raak aan voor meer informatie over mobiel gegevensgebruik.</string>
   <string name="throttle_warning_notification_title">Hoog mobiel gegevensgebruik</string>
   <string name="throttled_notification_message">Raak aan voor meer informatie over mobiel gegevensgebruik.</string>
   <string name="throttled_notification_title">Mobiele gegevenslimiet overschreden</string>
@@ -1376,7 +1398,6 @@ Pogingen over :"</string>
   <string name="usb_storage_title">USB verbinding</string>
   <string name="use_physical_keyboard">Fysiek toetsenbord</string>
   <string name="user_switched">Huidige gebruiker %1$s.</string>
-  <string name="user_switching_message">Overschakelen naar %1$s…</string>
   <string name="validity_period">Geldigheid:</string>
   <string name="volume_alarm">Alarmvolume</string>
   <string name="volume_bluetooth_call">Volume tijdens gesprek in Bluetoothmodus</string>

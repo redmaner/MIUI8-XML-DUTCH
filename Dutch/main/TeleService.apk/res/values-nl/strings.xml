@@ -15,7 +15,6 @@
   <string name="adding_fdn_contact">Vast nummer toevoegen…</string>
   <string name="additional_cdma_call_settings">Aanvullende CDMA oproepinstellingen</string>
   <string name="additional_gsm_call_settings">Aanvullende instellingen</string>
-  <string name="additional_gsm_call_settings_with_label">Extra instellingen (%s)</string>
   <string name="administrative_disable">Beheer uitgeschakeld</string>
   <string name="administrative_enable">Beheer ingeschakeld</string>
   <string name="advanced_settings_hide">▽ Aanraken om alles te verbergen</string>
@@ -120,6 +119,7 @@
   <string name="call_waiting_summary">Breng me tijdens gesprekken op de hoogte van binnenkomende gesprekken</string>
   <string name="call_waiting_title">Gesprek in de wacht</string>
   <string name="call_waiting_tone_continuously">Blijf meldingsgeluid afspelen</string>
+  <string name="call_waiting_tone_stop_summary"/>
   <string name="call_waiting_tone_title">Melding bij gesprek in wacht</string>
   <string name="call_waiting_tone_twice_and_vibrate">Speel geluid en tril tweemaal</string>
   <string name="call_waiting_tone_twice_only">Speel geluid tweemaal</string>
@@ -127,6 +127,7 @@
   <string name="caller_id_title">ID beller</string>
   <string name="callind_multi_sim">SUBS Instellingen</string>
   <string name="callwait_open_hint">\"Gesprek in de wacht\" is een feature van uw provider. Bij fouten, neem contact op met uw provider om er zeker van te zijn dat deze feature ingeschakeld is.</string>
+  <string name="can_not_use_for_not_data_sim">"(Kan het niet gebruiken: Moet ingesteld zijn als standaard data SIM)"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_call">Annuleren</string>
   <string name="card_title_MOcall_forwarding">Uitgaande doorgeschakelde oproepen</string>
@@ -150,8 +151,6 @@
   <string name="card_title_unconditionalCF">Gesprekken onvoorwaardelijk doorschakelen is ingeschakeld</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
-  <string name="carrier_settings_title">Provider instellingen</string>
-  <string name="cb_psw_dont_match">Wachtwoord komt niet overeen</string>
   <string name="cb_sms_settings">Instellingen voor SMS info dienstberichten</string>
   <string name="cdma_activate_device">Apparaat activeren</string>
   <string name="cdma_alert_message">Als je een andere kaart als standaard voor mobiele data selecteert, zult u niet in staat om uw China Telecom SIM kaart te gebruiken (uitgezonderd bij roaming).</string>
@@ -169,7 +168,6 @@
   <string name="cdma_system_select_title">Systeem selecteren</string>
   <string name="cell_bc_sms_disable">Info dienstbericht uitgeschakeld</string>
   <string name="cell_bc_sms_enable">SMS Info dienstbericht ingeschakeld</string>
-  <string name="cell_broadcast_settings">Nooduitzendingen</string>
   <string name="cell_broadcast_sms">Info dienstbericht</string>
   <string name="cfb_title">Doorschakelen bij in gesprek</string>
   <string name="cfnrc_title">Doorschakelen bij onbereikbaar</string>
@@ -214,7 +212,9 @@
   <string name="data_enable_summary">Gegevenstoegang via mobiel netwerk inschakelen</string>
   <string name="data_enabled">Mobiele data</string>
   <string name="deactivate_all">Alles annuleren</string>
-  <string name="default_notification_description">Standaard geluid (%1$s)</string>
+  <string name="default_area_code_setting">Standaard regiocode</string>
+  <string name="default_areacode">Standaard regiocode</string>
+  <string name="default_call_type">CSVoice</string>
   <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteAllSimEntries">Verwijder alle SIM contacten</string>
@@ -240,6 +240,12 @@
   <string name="dial_emergency_error">%s is geen alarmnummer!</string>
   <string name="dial_pad_autocomplete">Autom. aanvul. voor toetsenblok</string>
   <string name="dial_related_setting_catory">Bellen</string>
+  <string name="dialog_activate_livetalk">Bevestigen</string>
+  <string name="dialog_call_ordinary_telephone">SIM gebruiken</string>
+  <string name="dialog_network_priority_title">Prioriteit</string>
+  <string name="dialog_no">Nee</string>
+  <string name="dialog_purchase">Herladen</string>
+  <string name="dialog_yes">Ja</string>
   <string name="disable">Uitschakelen</string>
   <string name="disable_all_cf">Schakel alle doorschakel functies uit</string>
   <string name="disable_cfb_forbidden">Uw provider biedt geen ondersteuning voor het uitschakelen van oproepdoorschakelingen wanneer uw telefoon bezet is.</string>
@@ -267,11 +273,10 @@
   <string name="emergency_broadcast_enable">Bericht bij noodsituatie ingeschakeld</string>
   <string name="emergency_call_area_code_edit_dialog_button">Bel</string>
   <string name="emergency_call_area_code_edit_dialog_hint">Geef netnummer</string>
-  <string name="emergency_enable_radio_dialog_message">Radio inschakelen…</string>
-  <string name="emergency_enable_radio_dialog_retry">Geen service. Probeert opnieuw…</string>
   <string name="emergency_enable_radio_dialog_title">Noodoproep</string>
   <string name="empty_alert">%s kan niet leeg zijn</string>
   <string name="empty_networks_list">Geen netwerken gevonden.</string>
+  <string name="enable">Inschakelen</string>
   <string name="enable_antispam_strange_summary">Hiermee dempt u het eerste belsignaal voor oproepen van onbekende nummers</string>
   <string name="enable_antispam_strange_title">Demp eerste belsignaal</string>
   <string name="enable_disable_administrative">Beheer</string>
@@ -339,11 +344,10 @@
   <string name="fdn_disabled">Vaste nummers zijn uitgeschakeld</string>
   <string name="fdn_enable_puk2_requested">Wachtwoord onjuist. PIN 2 code geblokkeerd. Wijzig de PIN 2 code en probeer het opnieuw.</string>
   <string name="fdn_enabled">Vaste nummers zijn ingeschakeld</string>
-  <string name="fdn_failed">FDN operatie mislukt.</string>
   <string name="fdn_full">FDN is niet geüpdatet omdat de lijst vol is</string>
   <string name="fdn_invalid_number">FDN is niet bijgewerkt omdat het nummer niet langer kan zijn dan 20 tekens.</string>
+  <string name="fdn_summary">Uitgaande oproepen beperken genoteerde FDNs of nummers met bepaalde voorvoegsels</string>
   <string name="feedback">Feedback</string>
-  <string name="fdn_with_label">Vaste nummers (%s)</string>
   <string name="flash_when_ring_summary">Knipperen van meldingslicht bij inkomende oproepen</string>
   <string name="flash_when_ring_title">Knipperen</string>
   <string name="fw_change_failed">"Kan het doorschakelnummer niet wijzigen. Neem contact op met uw provider als dit probleem zich blijft voordoen."</string>
@@ -351,7 +355,7 @@
   <string name="general_news_settings">Algemeen nieuws</string>
   <string name="general_setting">Instellingen</string>
   <string name="get_pin2">Type PIN 2</string>
-   <string name="get_product_list_failed">Kan lijst niet laden</string>
+  <string name="get_product_list_failed">Kan lijst niet laden</string>
   <string name="get_purchase_history_failed">Kon aankoopgeschiedenis niet verkrijgen</string>
   <string name="get_smsc_address_error">"`Kan geen verbinding met het netwerk maken, controleer uw verbinding en probeer het opnieuw."</string>
   <string name="get_smsc_address_timeout">Verbindingstime-out</string>
@@ -445,9 +449,12 @@
   <string name="lable_incoming_calls_except">Binnenkomende gesprekken tijdens roaming</string>
   <string name="lafs_disable">Vluchttijden voor lokaal vliegveld uitgeschakeld</string>
   <string name="lafs_enable">Vluchttijden voor lokaal vliegveld ingeschakeld</string>
+  <string name="left_minutes">min</string>
   <string name="list_language_dtitle">Talen</string>
   <string name="list_language_summary">De taal voor het nieuws selecteren</string>
   <string name="list_language_title">Taal</string>
+  <string name="livetalk_about">Over</string>
+  <string name="livetalk_about_info">Herlaad pakket</string>
   <string name="livetalk_activate">Activeer herlaad pakket</string>
   <string name="livetalk_activate_number">SIM kaart verifiëren</string>
   <string name="livetalk_activate_number_1">Verifieer SIM 1</string>
@@ -640,7 +647,7 @@ Herlaad en start met bellen"</string>
   <string name="order_time">%1$s min</string>
   <string name="ota_activate">Activeren</string>
   <string name="ota_call_end">Terug</string>
-   <string name="ota_failure">Programmeren mislukt</string>
+  <string name="ota_failure">Programmeren mislukt</string>
   <string name="ota_hfa_activation_dialog_message">Het activeren van uw mobiele data service kan maximaal 5 minuten duren.</string>
   <string name="ota_hfa_activation_title">Activeren…</string>
   <string name="ota_listen">Volg de gesproken instructies.</string>
@@ -675,7 +682,6 @@ Herlaad en start met bellen"</string>
   <string name="pick_outgoing_call_phone_type">Bellen</string>
   <string name="pick_outgoing_sip_phone">Account voor internetoproepen gebruiken:</string>
   <string name="pin2_changed">PIN 2 code gewijzigd.</string>
-  <string name="pin2_error_exception">Netwerk of SIM kaart fout</string>
   <string name="pin2_invalid">FDN is niet bijgewerkt omdat u een onjuiste PIN code heeft ingevoerd.</string>
   <string name="pin2_invalid_or_name_is_too_long">U heeft een verkeerde of te lange PIN code ingevoerd</string>
   <string name="pin2_lock_warning">Na de volgende verkeerde poging zullen PIN 2 gerelateerde functies vergrendeld zijn</string>
@@ -852,7 +858,7 @@ Herlaad en start met bellen"</string>
   <string name="sim_contact_name">Naam</string>
   <string name="sim_contact_number">Nummer</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
-  <string name="sim_ndp_unlock_text">Ontgrendelen</string>  
+  <string name="sim_ndp_unlock_text">Ontgrendelen</string>
   <string name="sim_no_activated">Kon SIM kaart niet verifiëren</string>
   <string name="sim_unlock_failed">SIM deblokkeren verzoek mislukt.</string>
   <string name="sim_unlock_success">SIM deblokkeren gelukt.</string>
@@ -867,7 +873,6 @@ Herlaad en start met bellen"</string>
   <string name="sip_call_options_title">Internetoproepen gebruiken</string>
   <string name="sip_call_options_wifi_only_entry_1">Voor alle oproepen</string>
   <string name="sip_call_options_wifi_only_title">Internetoproepen gebruiken(alleen Wi-Fi)</string>
-  <string name="sip_connection_service_label">Ingebouwde SIP oproepen</string>
   <string name="sip_edit_new_title">SIP accountdetails</string>
   <string name="sip_edit_title">SIP accountdetails</string>
   <string name="sip_menu_add">Toevoegen</string>
@@ -901,13 +906,11 @@ Herlaad en start met bellen"</string>
   <string name="sum_cw_disabled">Inkomende oproepen melden als ik aan het bellen ben</string>
   <string name="sum_cw_enabled">Inkomende oproepen melden als ik aan het bellen ben</string>
   <string name="sum_default_caller_id">Gebruik de standaard operatorinstellingen om mijn nummer bij uitgaande oproepen weer te geven</string>
-  <string name="sum_fdn">Vaste nummers beheren</string>
   <string name="sum_fdn_change_pin">PIN code voor FDN toegang wijzigen</string>
   <string name="sum_fdn_manage_list">Lijst met vaste nummers beheren</string>
   <string name="sum_gsm_call_settings">Aanvullende oproepinstellingen voor alleen GSM</string>
   <string name="sum_hide_caller_id">Nummer verborgen bij uitgaande oproepen</string>
   <string name="sum_loading_settings">Instellingen laden…</string>
-  <string name="sum_search_networks">Zoek naar alle beschikbare netwerken</string>
   <string name="sum_select_automatically">Voorkeursnetwerk automatisch selecteren</string>
   <string name="sum_show_caller_id">Nummer weergegeven bij uitgaande oproepen</string>
   <string name="sum_voicemail_choose_provider">Service voor voicemail selecteren</string>
@@ -1002,6 +1005,8 @@ Herlaad en start met bellen"</string>
   <string name="voicemail_provider_summary">Kies voicemail service</string>
   <string name="voicemail_settings">Voicemail instellingen</string>
   <string name="voicemail_settings_number_hint">Voer voicemailnummer in</string>
+  <string name="voicemail_settings_number_label">Voicemailnummer</string>
+  <string name="voicemail_settings_number_title">Voicemailnummer</string>
   <string name="voip_setting">VoIP instellingen</string>
   <string name="wrong_password">Ingevoerd wachtwoord is verkeerd</string>
   <string name="xdivert_button">X Divert Instellingen</string>
