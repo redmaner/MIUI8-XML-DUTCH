@@ -260,8 +260,9 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$d m</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="battery_info_awake_battery">Standby tijd op batterij:</string>
-  <string name="battery_info_awake_plugged">Standby tijd tijdens opladen:</string>
+  <string name="battery_indicator_style">Opmaak batterijstatus</string>
+  <string name="battery_info_awake_battery">Standby-tijd op batterij:</string>
+  <string name="battery_info_awake_plugged">Standby-tijd tijdens opladen:</string>
   <string name="battery_info_health_cold">Koud</string>
   <string name="battery_info_health_dead">Versleten</string>
   <string name="battery_info_health_good">Goed</string>
@@ -270,8 +271,8 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="battery_info_health_overheat">Oververhitting</string>
   <string name="battery_info_health_unknown">Onbekend</string>
   <string name="battery_info_health_unspecified_failure">Onbekende fout</string>
-  <string name="battery_info_label">Batterijinfo</string>
-  <string name="battery_info_level_label">Batterij niveau:</string>
+  <string name="battery_info_label">Batterij-info</string>
+  <string name="battery_info_level_label">Batterijniveau:</string>
   <string name="battery_info_power_ac">AC</string>
   <string name="battery_info_power_ac_usb">AC+USB</string>
   <string name="battery_info_power_label">Voedingsstekker:</string>
@@ -422,7 +423,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="bluetooth_pairing_pin_error_message">Kan niet koppelen met %1$s vanwege een onjuiste PIN code of toegangscode.</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeling geweigerd door %1$s.</string>
   <string name="bluetooth_pairing_request">Bluetooth koppelingsverzoek</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Lokale Internetverbinding delen met apparaat</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Lokale internetverbinding delen met apparaat</string>
   <string name="bluetooth_pan_profile_summary_use_for">Gebruik voor internettoegang</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Verbonden met apparaat voor internet</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s wil toegang tot uw contacten en gespreksgeschiedenis. Toegang verlenen aan %2$s?</string>
@@ -505,6 +506,7 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
   <string name="button_disconnect_network">Verbreek de verbinding met het netwerk</string>
+  <string name="button_light_timeout">Tijdsduur knopverlichting</string>
   <string name="button_text_login">Aanmelden</string>
   <string name="button_text_reboot_now">Herstart nu</string>
   <string name="cache_header_label">Cachegeheugen</string>
@@ -1077,14 +1079,17 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="global_locale_change_title">Taal wijzigen</string>
   <string name="google_backup_section_title">Google back-up &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
+  <string name="handy_mode">Eén-hand modus</string>
   <string name="handy_mode_enter_ask">Vragen voordat je één-hand modus betreedt</string>
-  <string name="handy_mode_tips">Veeg naar links of rechts van de Home knop om het scherm dichter naar de ene kant te trekken.</string>
+  <string name="handy_mode_size">Schermgrootte</string>
+  <string name="handy_mode_tips">Veeg naar links of rechts vanaf de homeknop om het scherm dichter naar de ene kant te trekken.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
+  <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
   <string name="hdcp_checking_dialog_title">HDCP controlegedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
   <string name="hdmi_3d_display_enable_summary">Ondersteuning 3D games</string>
-  <string name="hdmi_3d_display_enable_title">3D Weergave</string>
+  <string name="hdmi_3d_display_enable_title">3D weergave</string>
   <string name="hdmi_3d_help_title">Over HDMI 3D Stereoscopic ondersteuning</string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
   <string name="hdmi_3dplay_control_disable_subtext">3D Stereoscopic output naar externe 3D display uitgeschakeld</string>
@@ -1138,6 +1143,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="incoming_call_breathing_light_freq_title">LED oplichtingsfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
   <string name="information_dialog_button_text">Verstaan</string>
+  <string name="input_method">Toetsenbord</string>
+  <string name="input_method_selector">Invoermethode kiezer</string>
   <string name="input_method_selector_always_hide_title">Altijd verbergen</string>
   <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Altijd weergeven</string>
@@ -1295,6 +1302,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="location_sources_heading">Locatiebronnen</string>
   <string name="location_street_level">Apps toestaan GPS op uw apparaat te gebruiken om uw locatie te bepalen</string>
   <string name="location_title">Mijn locatie</string>
+  <string name="lock_after_timeout">Automatisch vergrendelen</string>
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig</string>
   <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig na %1$s</string>
@@ -1488,10 +1496,11 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="move_app_to_internal">Verplaatsen naar apparaat</string>
   <string name="move_app_to_sdcard">Verplaatsen naar USB opslag</string>
   <string name="moving">Verplaatsen</string>
-  <string name="msd_driver_download">Download driver</string>
+  <string name="msd_driver_download">Driver downloaden</string>
   <string name="msd_driver_download_mac">Voor Macs, download de driver en klik op AndroidFileTransfer.dmg om te installeren</string>
+  <string name="msd_driver_download_mac_url">Verkrijg de driver op http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Voor PCs, download de MiPhoneManager om USB massaopslag te gebruiken</string>
-  <string name="msd_driver_download_xp_url">Download de driver hier: http://zhushou.xiaomi.com/</string>
+  <string name="msd_driver_download_xp_url">Verkrijg de driver op http://zhushou.xiaomi.com/</string>
   <string name="msd_help_summary">"Hulp nodig met het toegang krijgen tot het apparaat?
 Selecteer het OS van uw computer:"</string>
   <string name="msd_help_title">Help</string>
@@ -1704,6 +1713,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="permission_mgr">Toestemmingen</string>
   <string name="permissions_label">Toestemmingen</string>
   <string name="personal_data_section_title">Persoonlijke gegevens</string>
+  <string name="phone_call_noise_suppression">Onderdruk ruis tijdens gesprekken</string>
   <string name="phone_info_label">Apparaatinformatie</string>
   <string name="phone_language">Taal</string>
   <string name="phone_language_summary"/>
@@ -1994,13 +2004,19 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="runningservicedetails_stop_dlg_title">Systeemservice stoppen?</string>
   <string name="runningservices_settings_summary">Services die momenteel actief zijn, weergeven en beheren</string>
   <string name="runningservices_settings_title">Actieve services</string>
-  <string name="scan_list_label">Scan resultaten:</string>
+  <string name="scan_list_label">Scanresultaten:</string>
+  <string name="screen">Scherm</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
   <string name="screen_color_temperature">Kleuren</string>
   <string name="screen_color_temperature_and_saturation">Kleuren &amp; verzadiging</string>
   <string name="screen_compatibility_label">Schermcompatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
   <string name="screen_effect">Contrast &amp; kleuren</string>
+  <string name="screen_key_long_press">Lang drukken navigatieknoppen</string>
+  <string name="screen_key_long_press_action">Trigger functie</string>
+  <string name="screen_key_long_press_timeout">Tijd dat knop ingedrukt moet worden</string>
+  <string name="screen_key_press">Druk op navigatieknoppen</string>
+  <string name="screen_key_press_action">Trigger functie</string>
   <string name="screen_never_timeout_title">Altijd aan</string>
   <string name="screen_on_proximity_sensor_summary">Telefoon kan niet worden ontgrendeld wanneer hij in je broekzak zit</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzakgesprekken</string>
@@ -2026,6 +2042,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst met apps die leesmodus gebruiken automatisch updaten</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch updaten</string>
   <string name="screen_saturation">Kleurverzadiging</string>
+  <string name="screen_timeout">Slaap</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Slaapmodus</string>
   <string name="screensaver_settings_button">Instellingen</string>
@@ -2549,7 +2566,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="usb_msd_driver_installer_title">Driver installer disk (MSD)</string>
   <string name="usb_msd_summary">Verstuur bestanden via Windows of OSX</string>
   <string name="usb_msd_title">Massaopslag apparaat</string>
-  <string name="usb_mtp_title">Media apparaat (MTP)</string>
+  <string name="usb_mtp_summary">Hiermee kunt u mediabestanden verplaatsen op Windows, of Android File Transfer gebruiken op Mac (zie www.android.com/filetransfer)</string>
+  <string name="usb_mtp_title">Media-apparaat (MTP)</string>
   <string name="usb_ptp_summary">Hiermee kunt u foto\'s overzetten met camerasoftware en bestanden overzetten op computers die geen MTP ondersteunen</string>
   <string name="usb_ptp_title">Camera (PTP)</string>
   <string name="usb_tethering_active_subtext">Getetherd</string>
@@ -2785,6 +2803,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_click_share_wlan">Tik om wachtwoord te delen</string>
   <string name="wifi_config_info">Wi-Fi configureren</string>
   <string name="wifi_configured_ap_list">Eerder geconfigureerde APs</string>
+  <string name="wifi_connect">Verbinden</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Annuleren</string>
   <string name="wifi_connect_cmcc_dialog_confirm">Ok</string>
   <string name="wifi_connect_cmcc_dialog_content">Verbonden met CMCC netwerk data services.</string>
