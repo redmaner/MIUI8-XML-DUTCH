@@ -147,7 +147,15 @@
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Altijd</item>
         <item>Alleen tijdens het opladen</item>
-        <item>Nooit( verbrukt meer mobiele data</item>
+        <item>Nooit (verbruikt meer mobiele data)</item>
+    </string-array>
+	<string-array name="data_usage_data_range">
+        <item>Laatste 30 dagen</item>
+        <item>Gebruikscyclus instellen...</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Laatste 4 cijfers</item>
+        <item>Eerste 4 cijfers</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
@@ -225,6 +233,11 @@
         <item>Verwisselbare SD kaart</item>
         <item>Het systeem laten bepalen</item>
     </string-array>
+	 <string-array name="app_ops_permissions">
+        <item>Toegestaan</item>
+        <item>Genegeerd</item>
+        <item>Altijd vragen</item>
+    </string-array>
     <string-array name="app_ops_categories">
         <item>Locatie</item>
         <item>Persoonlijk</item>
@@ -233,20 +246,20 @@
         <item>Apparaat</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>Geschatte locatie</item>
-        <item>Nauwkeurige locatie</item>
+        <item>geschatte locatie</item>
+        <item>nauwkeurige locatie</item>
         <item>GPS</item>
-        <item>Trillen</item>
-        <item>Contacten lezen</item>
-        <item>Contacten aanpassen</item>
-        <item>Gesprekkenlijst lezen</item>
-        <item>Gesprekkenlijst aanpassen</item>
-        <item>Agenda lezen</item>
-        <item>Agenda aanpassen</item>
+        <item>trillen</item>
+        <item>contacten lezen</item>
+        <item>contacten aanpassen</item>
+        <item>gespreksgeschiedenis lezen</item>
+        <item>gespreksgeschiedenis aanpassen</item>
+        <item>agenda lezen</item>
+        <item>agenda aanpassen</item>
         <item>Wi-Fi scan</item>
-        <item>Melding</item>
-        <item>Mobiele scan</item>
-        <item>Nummer bellen</item>
+        <item>melding</item>
+        <item>mobiele scan</item>
+        <item>nummer bellen</item>
         <item>SMS lezen</item>
         <item>SMS schrijven</item>
         <item>SMS ontvangen</item>
@@ -256,26 +269,43 @@
         <item>SMS verzenden</item>
         <item>ICC SMS lezen</item>
         <item>ICC SMS schrijven</item>
-        <item>Instellingen aanpassen</item>
-        <item>Bovenop tekenen</item>
-        <item>Toegang tot meldingen</item>
-        <item>Camera</item>
-        <item>Audio opnemen</item>
-        <item>Audio afspelen</item>
-        <item>Klembord lezen</item>
-        <item>Klembord aanpassen</item>
-        <item>Mediaknoppen</item>
-        <item>Audiofocus</item>
-        <item>Hoofdvolume</item>
-        <item>Stemvolume</item>
-        <item>Belvolume</item>
-        <item>Mediavolume</item>
-        <item>Alarmvolume</item>
-        <item>Meldingsvolume</item>
-        <item>Bluetooth volume</item>
-        <item>Ingeschakeld houden</item>
-        <item>Monitorlocatie</item>
-        <item>Locatie met hoog energieverbruik controleren</item>
+        <item>instellingen aanpassen</item>
+        <item>bovenop tekenen</item>
+        <item>toegang tot meldingen</item>
+        <item>camera</item>
+        <item>audio opnemen</item>
+        <item>audio afspelen</item>
+        <item>klembord lezen</item>
+        <item>klembord aanpassen</item>
+        <item>mediaknoppen</item>
+        <item>audiofocus</item>
+        <item>hoofdvolume</item>
+        <item>stemvolume</item>
+        <item>belvolume</item>
+        <item>mediavolume</item>
+        <item>alarmvolume</item>
+        <item>meldingsvolume</item>
+        <item>bluetooth volume</item>
+        <item>ingeschakeld houden</item>
+        <item>monitorlocatie</item>
+        <item>locatie met hoog energieverbruik controleren</item>
+		<item>gebruiksstatistieken verkrijgen</item>
+        <item>microfoon dempen</item>
+        <item>toastscherm</item>
+        <item>media projecteren</item>
+        <item>VPN activeren</item>
+        <item>wlan veranderen</item>
+        <item>bluetooth veranderen</item>
+        <item>MMS versturen</item>
+        <item>MMS lezen</item>
+        <item>MMS schrijven</item>
+        <item>autostarten</item>
+        <item>NFC veranderen</item>
+        <item>SMS verwijderen</item>
+        <item>MMS verwijderen</item>
+        <item>contacten verwijderen</item>
+        <item>gespreksgeschiedenis verwijderen</item>
+        <item>data veranderen</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Locatie</item>
@@ -321,6 +351,23 @@
         <item>Ingeschakeld houden</item>
         <item>Locatie</item>
         <item>Locatie</item>
+		<item>Gebruiksstatistieken verkrijgen</item>
+        <item>Microfoon dempen</item>
+        <item>Toastscherm</item>
+        <item>Media projecteren</item>
+        <item>VPN activeren</item>
+        <item>WLAN veranderen</item>
+        <item>Bluetooth veranderen</item>
+        <item>MMS verzenden</item>
+        <item>MMS lezen</item>
+        <item>MMS schrijven</item>
+        <item>Autostarten</item>
+        <item>Nfc veranderen</item>
+        <item>SMS verwijderen</item>
+        <item>MMS verwijderen</item>
+        <item>Contacten verwijderen</item>
+        <item>Gespreksgeschiedenis verwijderen</item>
+        <item>Data veranderen</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kort</item>
@@ -477,6 +524,11 @@
         <item>Neanderthaler</item>
         <item>Chimpansee</item>
         <item>Aap</item>
+    </string-array>
+	<string-array name="security_settings_premium_sms_values">
+        <item>Vragen</item>
+        <item>Nooit toestaan</item>
+        <item>Altijd toestaan</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normaal</item>
@@ -672,6 +724,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Automatisch verbinden</item>
         <item>Handmatig verbinden</item>
         <item>Altijd vragen</item>
+    </string-array>
+	<string-array name="wifi_ssid_type_entries">
+        <item>Automatisch verbinden</item>
+        <item>Handmatig verbinden</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuten</item>
