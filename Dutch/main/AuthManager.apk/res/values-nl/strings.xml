@@ -22,13 +22,13 @@
   <string name="Dashboard_Perm_SU_Desc">Toezicht op %1$d apps met roottoegang</string>
   <string name="Dashboard_Perm_SU_Disabled">Roottoegang uitgeschakeld</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Roottoegang is niet beschikbaar in de stable build van MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van roottoegang tot apps van derden kunnen instabiliteit van het systeem, verlies van gebruikers gegevens, of zelfs schade aan de hardware veroorzaken.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van roottoegang aan apps van derden kan instabiliteit van het systeem, verlies van gebruikersgegevens, of zelfs schade aan de hardware veroorzaken.
 
 U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Roottoegang</string>
-  <string name="Dashboard_Su_Enable_Content">Het verlenen van roottoegang tot apps van derden kan instabiliteit van het systeem, gebruikersgegevens verlies, of zelfs schade aan de hardware veroorzaken.</string>
+  <string name="Dashboard_Su_Enable_Content">Het verlenen van roottoegang aan apps van derden kan instabiliteit van het systeem, verlies van gebruikersgegevens, of zelfs schade aan de hardware veroorzaken.</string>
   <string name="Dashboard_Su_Enable_Title">Roottoegang</string>
   <string name="Generic_Canceling">Annuleren…</string>
   <string name="Generic_Check">Controleer</string>
@@ -117,11 +117,11 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="HIPS_Perm_GetCallState">Controleert de status van het gesprek</string>
   <string name="HIPS_Perm_ListenCallState">Leest de status van het gesprek</string>
   <string name="HIPS_Perm_Location">Locatie info</string>
-  <string name="HIPS_Perm_Location_Access">Krijgt precieze locatie(GPS en netwerk gebaseerde)</string>
+  <string name="HIPS_Perm_Location_Access">Krijgt precieze locatie (GPS en netwerk gebaseerde)</string>
   <string name="HIPS_Perm_Location_CellInfo">Geschatte locatie met behulp van gegevens van het basisstation</string>
   <string name="HIPS_Perm_Location_CellLocation">Geschatte locatie met behulp van de locatie van het basisstation</string>
-  <string name="HIPS_Perm_Location_Desc">Krijgt precieze locatie(GPS en netwerk gebaseerde)</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s apps krijgen precieze locatie(GPS en netwerk gebaseerde)</string>
+  <string name="HIPS_Perm_Location_Desc">Krijgt precieze locatie (GPS en netwerk gebaseerde)</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s apps krijgen precieze locatie (GPS en netwerk gebaseerde)</string>
   <string name="HIPS_Perm_Location_Monitor">Kan uw locatie bijhouden</string>
   <string name="HIPS_Perm_Location_Source_Cellular">Geschatte locatie met behulp van mobiele basisstations</string>
   <string name="HIPS_Perm_Location_Source_GPS">Krijgt uw exacte locatie met behulp van GPS</string>
@@ -163,8 +163,8 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="HIPS_Perm_Read_Call_Log">Gespreksgeschiedenis lezen</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Kan gespreksgeschiedenis lezen</string>
   <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s apps kunnen gespreksgeschiedenis lezen</string>
-  <string name="HIPS_Perm_Read_Contact">Contacten lezen</string>
-  <string name="HIPS_Perm_Read_Contact_Desc">Kan contacten lezen</string>
+  <string name="HIPS_Perm_Read_Contact">Uw contacten lezen</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">uw contacten lezen</string>
   <string name="HIPS_Perm_Read_Contact_Hint">%1$s apps kunnen contacten lezen</string>
   <string name="HIPS_Perm_Read_MMS">MMS berichten lezen</string>
   <string name="HIPS_Perm_Read_MMS_Desc">Kan MMS berichten lezen</string>
@@ -239,7 +239,7 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Apps roottoegang verlenen is op eigen risico.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s roottoegang verlenen?</string>
   <string name="HIPS_SecurityPrompt_Reject">Weigeren (%d)</string>
-  <string name="HIPS_SecurityPrompt_Reject_Once">Eenmaal weigeren(%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Eenmaal weigeren (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Voorkeur onthouden</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s probeert %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d toestemmingen</string>
@@ -270,7 +270,7 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="grant_dialog_button_allow">Toestaan</string>
   <string name="grant_dialog_button_deny">Weigeren</string>
   <string name="location_settings">Locatie instellingen</string>
-  <string name="location_warning">%1$s is een provider van locatiediensten voor dit apparaat. Locatie toegang kan worden gewijzigd vanaf de instellingen.</string>
+  <string name="location_warning">%1$s is een provider van locatiediensten voor dit apparaat. Locatietoegang kan worden gewijzigd in de instellingen.</string>
   <string name="never_ask_again">Niet meer vragen</string>
   <string name="ok">OK</string>
   <string name="permission_group_title_charges_related">Aan het opladen</string>
@@ -282,5 +282,5 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" heeft geen toestemming tot %2$s. U kunt app toestemmingen elk moment in Beveiliging wijzigen &gt; Permissions."</string>
   <string name="screen_overlay_button">Open instellingen</string>
   <string name="screen_overlay_message">Om deze toestemming instelling te wijzigen, moet u eerst scherm overlay in instellingen uitschakelen &gt; Apps</string>
-  <string name="screen_overlay_title">Scherm overlay gedetecteerd</string>
+  <string name="screen_overlay_title">Schermoverlay gedetecteerd</string>
 </resources>
