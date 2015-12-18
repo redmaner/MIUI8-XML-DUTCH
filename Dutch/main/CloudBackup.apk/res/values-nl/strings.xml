@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Een momentje…</string>
+  <string name="app_name">Mi Cloud back-up​</string>
   <string name="app_name">Startschermlayout back-uppen</string>
   <string name="back_up_task_in_process">Bezig met back-up…</string>
   <string name="back_up_task_unfinished">Back-up niet voltooid</string>
@@ -26,7 +27,32 @@
   <string name="cloud_app_restore_error">Kon niet herstellen</string>
   <string name="cloud_app_restore_success">Apps hersteld</string>
   <string name="cloud_app_restore_wifi_prompt">Om te herstellen van een Mi Cloud back-up, moet u verbinding maken met een Wi-Fi netwerk.</string>
+  <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
+  <string name="cloud_back_up_detail_discription">"Deze items zullen worden geback-upt naar Mi Cloud als je apparaat is verbonden met Wi-Fi: 
+*\u0009\u0009\u0009\u0009Apps, startschermlayout en achtergronden 
+*\u0009\u0009\u0009\u0009Alarm, klok en tijdinstellingen
+*\u0009\u0009\u0009\u0009Meldingsinstellingen
+*\u0009\u0009\u0009\u0009MIUI en systeeminstellingen
+ Notitie: Gegevens van apps die je hebt geïnstalleerd zullen niet worden geback-upt naar Mi Cloud."</string>
+  <string name="cloud_back_up_frequence_choice_title">Back-upschema</string>
+  <string name="cloud_back_up_frequence_long">Elke 7 dagen</string>
+  <string name="cloud_back_up_frequence_short">Elke dag</string>
+  <string name="cloud_back_up_interval_long">7 dagen</string>
+  <string name="cloud_back_up_interval_short">Elke dag</string>
+  <string name="cloud_back_up_no_network_warn">Kan niet verbinden met het netwerk</string>
+  <string name="cloud_back_up_ok_btn">OK</string>
+  <string name="cloud_back_up_opening">Een momentje…</string>
+  <string name="cloud_back_up_share_activity_confirm">Upgraden</string>
+  <string name="cloud_back_up_share_activity_discription">Krijg meer opslagruimte, dagelijkse back-ups en meer.</string>
+  <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
   <string name="cloud_back_up_task">Bezig met back-up…</string>
+  <string name="cloud_backup_detail_frequence">Back-upschema</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s back-up eenmalig</string>
+  <string name="cloud_backup_detail_manage">Back-ups beheren</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s back-ups, grootte:%2$s</string>
+  <string name="cloud_backup_detail_state">Mi Cloud back-up</string>
+  <string name="cloud_backup_detail_state_summary">Apps, startscherm en systeeminstellingen</string>
+  <string name="cloud_backup_detail_time">, back-uptijd: %1$s</string>
   <string name="cloud_restore_from_other_device">Stop met het herstellen van %s en deze back-up verwijderen? Je kan actie niet ongedaan maken.</string>
   <string name="cloud_restore_task">Herstellen…</string>
   <string name="cloud_task_in_process">Stop %s en deze back-up verwijderen? Je kan deze actie niet ongedaan maken.</string>
@@ -35,7 +61,7 @@
   <string name="deskclock_backup">Alarmen</string>
   <string name="desktop_downloading">Downloaden</string>
   <string name="desktop_installing">Installeren</string>
-  <string name="desktop_recovering">Hertsellen</string>
+  <string name="desktop_recovering">Herstellen</string>
   <string name="desktop_wait_wifi">Wachten</string>
   <string name="desktop_waiting">Wachten</string>
   <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
@@ -71,6 +97,7 @@
   <string name="settings_backup">Systeeminstellingen</string>
   <string name="start_backup_to_micloud">Back-up apps naar Mi Cloud</string>
   <string name="start_recover">Herstel %s</string>
+  <string name="success_open_cloudbackup">Back-ups voor startschermapps is ingeschakeld</string>
   <string name="wait_icon_download">Downloaden van appicoon</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
