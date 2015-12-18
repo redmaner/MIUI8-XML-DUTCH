@@ -164,21 +164,21 @@
   <string name="file_info_modified">Laatst aangepast:</string>
   <string name="file_info_size">Grootte:</string>
   <string name="file_loading">Laden…</string>
-  <string name="file_name_invalid">"Bestands namen mogen volgende karakters niet bevaten: /\\:*?&lt;&gt;"</string>
+  <string name="file_name_invalid">"Bestandsnamen mogen de volgende karakters niet bevatten: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">Bestand bestaat niet</string>
-  <string name="file_too_large">Bstand te groot om te uploaden</string>
+  <string name="file_too_large">Bestand te groot om te uploaden</string>
   <string name="files">Bestanden</string>
   <string name="finished">Voltooid</string>
   <string name="folder_exist">De map bestaat al.</string>
-  <string name="folder_name_empty">Map naam mag niet leeg zijn</string>
-  <string name="folder_name_illegal">Ongeldige map naam</string>
+  <string name="folder_name_empty">Mapnaam mag niet leeg zijn</string>
+  <string name="folder_name_illegal">Ongeldige mapnaam</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Raak aan&lt;/a&gt;om te verwijderen</string>
   <string name="ftp_account_req_notice">4-16 tekens, letters en cijfers, hoofdlettergevoelig</string>
   <string name="ftp_anonymous_login">Anonieme aanmelding</string>
   <string name="ftp_invalid_username_or_password">Ingevoerde gebruikersnaam en wachtwoord zijn niet juist.</string>
   <string name="ftp_open_port_error">Kon poort niet openen. Controleer de netwerkverbinding of reset het poortnummer</string>
   <string name="ftp_password_hint">Wachtwoord</string>
-  <string name="ftp_port_number">Poort nummer</string>
+  <string name="ftp_port_number">Poortnummer</string>
   <string name="ftp_transfer_secure">Beveiliging</string>
   <string name="ftp_username_and_passworld">Inloggen</string>
   <string name="ftp_username_hint">Gebruikersnaam</string>
@@ -187,7 +187,7 @@
   <string name="get_cloud_space">500GB toevoegen</string>
   <string name="gigabyteShort">GB</string>
   <string name="group_title">%2$s van %1$s</string>
-  <string name="group_title_extra_backup">Backups</string>
+  <string name="group_title_extra_backup">Back-ups</string>
   <string name="group_title_extra_expire">Bijna vervallen</string>
   <string name="group_title_extra_new">Nieuw</string>
   <string name="if_cancel">Deze operatie annuleren?</string>
@@ -212,12 +212,12 @@
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Niet genoeg ruimte.</string>
   <string name="kuaipan_photo_folder_divider">,</string>
-  <string name="kuaipan_photo_locate">Gelocaliseerd %1$s</string>
+  <string name="kuaipan_photo_locate">Gelokaliseerd %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Mededeling</string>
   <string name="kuaipan_prompt_message">Onze server is op dit moment down. Probeer het later opnieuw….</string>
   <string name="kuaipan_root_fooder">Home</string>
-  <string name="kuaipan_tech_support">Login at kuaipan.cn</string>
+  <string name="kuaipan_tech_support">Log in op kuaipan.cn</string>
   <string name="load_err">Kan niet laden</string>
   <string name="load_more">Meer weergeven</string>
   <string name="loading">Laden…</string>
@@ -225,7 +225,7 @@
   <string name="local_music">Muziek</string>
   <string name="local_sticker_str">Offline</string>
   <string name="local_video">Video</string>
-  <string name="login_reg_content">Sla bestanden op  en synchroniseer op meerdere apparaten.</string>
+  <string name="login_reg_content">Sla bestanden op en synchroniseer op meerdere apparaten.</string>
   <string name="login_reg_content0">Gebruik KuaiPan vanaf elke locatie.</string>
   <string name="make_private">Verbergen</string>
   <string name="megabyteShort">MB</string>
@@ -250,7 +250,7 @@
   <string name="move_to">Verplaatsen naar…</string>
   <string name="msg_set_password">Eerst wachtwoord instellen</string>
   <string name="multi_select_title">%1$s geselecteerd</string>
-  <string name="my_app">App data</string>
+  <string name="my_app">Appdata</string>
   <string name="my_app_desc"/>
   <string name="my_bak">Back-ups</string>
   <string name="my_bak_desc"/>
@@ -294,7 +294,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="new_function_title_str">Over WeChat stickers</string>
   <string name="no">Nee</string>
   <string name="no_app_tags">Leeg</string>
-  <string name="no_display_file">Kan %1$sniet weergeven</string>
+  <string name="no_display_file">Kan %1$s niet weergeven</string>
   <string name="no_downloaded_sticker_tip">Kon gedownloade stickers niet vinden. Bekijk de gedeelde stickers van de Mi fans.</string>
   <string name="no_enough_storage_indication">Opslagruimte apparaat is vol.</string>
   <string name="no_enough_storage_title">Niet genoeg ruimte</string>
@@ -306,7 +306,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="no_tasks">Geen taken.</string>
   <string name="no_wifi">Geen netwerk gedetecteerd</string>
   <string name="no_wifi_hint">Geen verbinding</string>
-  <string name="notif_server_starting">Starten FTP server…</string>
+  <string name="notif_server_starting">FTP server starten…</string>
   <string name="notif_title">FTP server is actief</string>
   <string name="notification_content_hint">WeChat video\'s die bijna verlopen zijn.</string>
   <string name="notification_dialog_confirm">OK</string>
@@ -371,7 +371,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="operation_show_sys">Geef verborgen bestanden weer</string>
   <string name="operation_unfavorite">Ster verwijderen</string>
   <string name="pan_settting">Instellingen KuaiPan</string>
-  <string name="partial_cancel_successful">"Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaats naar to %s"</string>
+  <string name="partial_cancel_successful">"Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaatst naar %s"</string>
   <string name="partial_delete_failure">Kon sommige bestanden niet verwijderen, probeer opnieuw</string>
   <string name="partial_encrypt_success">Kon sommige bestanden niet verbergen, probeer opnieuw</string>
   <string name="partial_repair_done">Een paar bestanden zijn met succes hersteld</string>
@@ -385,7 +385,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="private_folder_no_file_hints">Geen verborgen bestanden.</string>
   <string name="private_folder_update">Bezig met updaten van verborgen mappen…</string>
   <string name="private_toast_hint1">Tik om bestanden toe te voegen aan verborgen mappen</string>
-  <string name="private_toast_hint2">Om dit bestand te verbergen, drukken en inhouden, dan toevoegen aan een verborgen map.</string>
+  <string name="private_toast_hint2">Om een bestand te verbergen, houd het ingedrukt en voeg het toe aan een verborgen map.</string>
   <string name="private_toast_hint3">Trek naar beneden om verborgen mappen te openen</string>
   <string name="promot_enctypt_password">Voer het wachtwoord in dat wordt gebruikt om uw apparaat te ontgrendelen of om kindermodus uit te schakelen</string>
   <string name="pull_to_signin">Naar beneden trekken om aan te melden.</string>
@@ -480,7 +480,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="space_usage">Gebruikte ruimte</string>
   <string name="start_server">Start server</string>
   <string name="start_use_xiaomi_account">Gebruik KuaiPan</string>
-  <string name="stay_awake_summary">Scherm gaat nooit slaapmodus tijdens het gebruik van FTP</string>
+  <string name="stay_awake_summary">Scherm zal nooit uit gaan tijdens het gebruik van FTP</string>
   <string name="stay_awake_title">Standby</string>
   <string name="stop_server">Stop server</string>
   <string name="storage_info">%1$s beschikbaar</string>
