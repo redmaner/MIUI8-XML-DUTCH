@@ -45,4 +45,20 @@
         <item quantity="other">%d groepen</item>
         <item quantity="one">%d groep</item>
     </plurals>
+	<plurals name="deepclean_cache_summary">
++        <item quantity="other">Je kan onbelangrijke gegevens verwijderen voor %d apps</item>
++        <item quantity="one">Je kan onbelangrijke gegevens verwijderen voor %d app</item>
++    </plurals>
++    <plurals name="deepclean_app_summary">
++        <item quantity="other">%d apps geïnstalleerd, je kan weinig gebruikte apps verwijderen</item>
++        <item quantity="one">%d app geïnstalleerd, je kan deze verwijderen</item>
++    </plurals>
++    <plurals name="deepclean_large_summary">
++        <item quantity="other">%d grote bestanden gevonden, je kan de onbelangrijke verwijderen</item>
++        <item quantity="one">%d groot bestand gevonden, je kan deze verwijderen</item>
++    </plurals>
++    <plurals name="deepclean_similar_summary">
++        <item quantity="other">"%d foto's gevonden, je kan dubbele of overbodige afbeeldingen verwijderen"</item>
++        <item quantity="one">%d foto gevonden, je kan dubbele of overbodige afbeeldingen verwijderen</item>
++    </plurals>
 </resources>
