@@ -23,7 +23,7 @@
   <string name="callFailed_outOfService">Geen bereik</string>
   <string name="callFailed_out_of_network">Opgeroepen uit out-of-network</string>
   <string name="callFailed_powerOff">Radio uit</string>
-  <string name="callFailed_server_error">Server fout. Probeer het later opnieuw.</string>
+  <string name="callFailed_server_error">Serverfout. Probeer het later opnieuw.</string>
   <string name="callFailed_server_unreachable">Server niet bereikbaar</string>
   <string name="callFailed_simError">Geen SIM kaart of SIM kaart fout</string>
   <string name="callFailed_timedOut">Geen reactie, verlopen</string>
@@ -31,19 +31,19 @@
   <string name="callFailed_userBusy">Lijn bezet</string>
   <string name="callUnanswered_forwarded">Gesprek onbeantwoord en doorgestuurd</string>
   <string name="call_description_recording">Bezig met opnemen…</string>
-  <string name="call_extension_conference_mode">Conferentie modus</string>
+  <string name="call_extension_conference_mode">Conferentiemodus</string>
   <string name="call_record_button_label">Opname %s</string>
   <string name="call_record_wait_label">Wachten</string>
-  <string name="call_recording_error_low_storage">Niet genoeg ruimte: de SD-kaart is te vol</string>
-  <string name="call_recording_error_privacy">Je kan niet opnemen terwijl je in Gastmodus bent</string>
-  <string name="call_recording_error_sd_access">"Geen toegang tot de SD-kaart"</string>
-  <string name="call_recording_error_sd_unmounted">De opname is gestopt: SD-kaart is los gekoppeld</string>
+  <string name="call_recording_error_low_storage">Niet genoeg ruimte: de SD kaart is te vol</string>
+  <string name="call_recording_error_privacy">Je kan niet opnemen terwijl je in gastmodus bent</string>
+  <string name="call_recording_error_sd_access">Geen toegang tot de SD kaart</string>
+  <string name="call_recording_error_sd_unmounted">De opname is gestopt: SD kaart is losgekoppeld</string>
   <string name="call_recording_error_start_failed">De opname wordt gebruikt door een andere app</string>
   <string name="call_recording_error_unknown">Er is een onbekende fout opgetreden</string>
   <string name="call_recording_notification_message">Aanraken om te luisteren.</string>
   <string name="call_recording_notification_message_low_storage">SD kaart is vol.</string>
   <string name="call_recording_notification_message_sd_unmounted">SD kaart is verwijderd.</string>
-  <string name="call_recording_notification_title">Opnemen gesprek</string>
+  <string name="call_recording_notification_title">Gesprek opgenomen</string>
   <string name="call_recording_notification_title_error">Kon gesprek niet opnemen</string>
   <string name="call_self">Kan eigen nummer niet bellen</string>
   <string name="call_title_redialing_with_times">%d keer opnieuw gebeld</string>
@@ -51,7 +51,7 @@
   <string name="calling_via_template">Bellen via %s</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_call">Ophangen</string>
-  <string name="card_title_call_ended">Gesprek beëindigd</string>
+  <string name="card_title_call_ended">"Gesprek beëindigd "</string>
   <string name="card_title_conf_call">Groepsgesprek</string>
   <string name="card_title_dialing">Bellen</string>
   <string name="card_title_hanging_up">Ophangen</string>
@@ -59,7 +59,7 @@
   <string name="card_title_in_call_short">In gesprek</string>
   <string name="card_title_incoming_call">Inkomende oproep</string>
   <string name="card_title_on_hold">In wacht</string>
-  <string name="card_title_threeway_call">Drie weg gesprek</string>
+  <string name="card_title_threeway_call">Drieweg gesprek</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. totaal %s</string>
   <string name="conference_call_number">%s deelnemers</string>
   <string name="contactPhoto">"Contact foto's"</string>
@@ -162,7 +162,7 @@
   <string name="pause_prompt_yes">Ja</string>
   <string name="payphone">Betaal telefoon</string>
   <string name="phone_info_divider">" ｜ "</string>
-  <string name="private_num">Privé nummer</string>
+  <string name="private_num">Privénummer</string>
   <string name="purchase_now">Herladen</string>
   <string name="respond_via_sms_custom_message">Voeg eigen toe…</string>
   <string name="select_voice_call_sim">Kies SIM kaart</string>
