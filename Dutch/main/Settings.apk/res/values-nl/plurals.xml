@@ -41,8 +41,8 @@
         <item quantity="one">Wachtwoord moet ten minste één ander teken dan letters bevatten.</item>
     </plurals>
 	<plurals name="wrong_pin_code">
-        <item quantity="other">Onjuiste SIM PIN code, uit hebt nog %d pogingen over.</item>
-        <item quantity="one">Onjuiste SIM PIN code, uit hebt nog %d pogingen over voordat u moet contact moet opnemen met uw provider om uw toestel te ontgrendelen.</item>
+        <item quantity="other">Onjuiste SIM PIN code, u hebt nog %d pogingen over.</item>
+        <item quantity="one">Onjuiste SIM PIN code, u hebt nog %d poging over voordat u contact moet opnemen met uw provider om uw toestel te ontgrendelen.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d apps kunnen meldingen lezen</item>
@@ -50,11 +50,11 @@
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Wijzig de wekkers enkel voor %1$d minuten (tot %2$s)</item>
-        <item quantity="one">Wijzig de wekkers enkel voor voor één minuut tot %2$s</item>
+        <item quantity="one">Wijzig de wekkers enkel voor één minuut (tot %2$s)</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Wijzig de wekkers enkel voor %1$d uren tot %2$s</item>
-        <item quantity="one">Wijzig de wekkers enkel voor voor één uur tot %2$s</item>
+        <item quantity="other">Wijzig de wekkers enkel voor %1$d uur tot %2$s</item>
+        <item quantity="one">Wijzig de wekkers enkel voor één uur tot %2$s</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d toestemmingen verleend</item>
@@ -74,12 +74,12 @@
         <item quantity="one">Eén app kan zijn ondersteunde links openen</item>
     </plurals>
     <plurals name="high_power_count">
-        <item quantity="other">%d apps mogen de batterij optimaliseren negeren</item>
-        <item quantity="one">1 app mag de batterij optimaliseren negeren</item>
+        <item quantity="other">%d apps mogen de batterijoptimalisatie negeren</item>
+        <item quantity="one">1 app mag de batterijoptimalisatie negeren</item>
     </plurals>
 	<plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d apps verbruik geheugen in de laatste %2$s</item>
-        <item quantity="one">1 app verbruik geheugen in de laatste %2$s</item>
+        <item quantity="other">%1$d apps verbruikten geheugen in de laatste %2$s</item>
+        <item quantity="one">1 app verbruikte geheugen in de laatste %2$s</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van de telefooninfo."</item>
