@@ -78,15 +78,20 @@
   <string name="account_setup_failed_certificate_required">Er is een clientcertificaat vereist. Wilt u verbinding maken met de server met een client certificaat?</string>
   <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
   <string name="account_setup_failed_dlg_auth_message">Gebruikersnaam of wachtwoord is onjuist.</string>
+  <string name="account_setup_failed_dlg_bar_title">Aanmeldings tips van %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Kan geen veilige verbinding met de server tot stand brengen.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan geen veilige verbinding met de server tot stand brengen.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">Kon niet aanmelden. Dit account is vergrendeld</string>
   <string name="account_setup_failed_dlg_edit_details_action">Details bewerken</string>
+  <string name="account_setup_failed_dlg_error_code">Fout code: %s</string>
   <string name="account_setup_failed_dlg_server_message">Kan niet verbinden met de server.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">Kan niet verbinden met de server
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Kon account niet aanmaken</string>
+  <string name="account_setup_failed_dlg_todo1">Stel account in als hieronder of proberen in te loggen met exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Stel account in als hieronder.</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Onbekende fout.</string>
   <string name="account_setup_failed_ioerror">Kan geen verbinding met de server maken.</string>
   <string name="account_setup_failed_protocol_unsupported">U heeft een onjuist serveradres ingevoerd of de server vereist een protocolversie die niet door e-mail wordt ondersteund.</string>
   <string name="account_setup_failed_security">Kan geen verbinding maken met de server wegens een beveiligingsfout.</string>
@@ -125,6 +130,7 @@
   <string name="account_setup_options_mail_window_auto">Automatisch</string>
   <string name="account_setup_options_mail_window_default">Gebruik account standaard</string>
   <string name="account_setup_options_mail_window_label">Mail synchroniseren van</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Behouden voor</string>
   <string name="account_setup_options_title">Accountinstellingen</string>
   <string name="account_setup_outgoing_port_label">Poort</string>
   <string name="account_setup_outgoing_require_login_label">Aanmelding vereisen</string>
@@ -198,12 +204,7 @@
   <string name="bottom_bar_no_quickreply_toast">Geen snel antwoord</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Herinneren</string>
-  <string name="calendar_remind_gridview_month_later">Volgende maand</string>
-  <string name="calendar_remind_gridview_nextweek">Volgende week</string>
   <string name="calendar_remind_gridview_pick_date">Kies een datum</string>
-  <string name="calendar_remind_gridview_tomorrow">Morgen</string>
-  <string name="calendar_remind_gridview_tonight">Vanavond</string>
-  <string name="calendar_remind_gridview_weekend">Weekend</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cant_move_or_change_labels">Verplaatsen is niet mogelijk. Selectie bevat meerdere accounts.</string>
@@ -242,14 +243,14 @@
   <string name="confirm_send_message_with_no_subject">Het berichtonderwerp bevat geen tekst.</string>
   <string name="confirm_send_title">Bericht verzenden?</string>
   <string name="contact_edit_set_black_list_filtering">Bezig met filteren…</string>
-  <string name="contact_edit_set_black_list_from">All mails van deze afzender naar Ongewenst verplaatsen</string>
-  <string name="contact_edit_set_black_list_receive">Mails met deze ontvanger naar Ongewenst verplaatsen(enkel nieuwe mails)</string>
+  <string name="contact_edit_set_black_list_from">All mails van deze afzender naar prullenbak verplaatsen</string>
+  <string name="contact_edit_set_black_list_receive">Mails met deze ontvanger naar prullenbak verplaatsen(enkel nieuwe mails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Verwijder mail die deze ontvanger bevatten in het veld Aan of Cc</string>
-  <string name="contact_edit_set_black_list_title">Zwarte lijst instellen</string>
+  <string name="contact_edit_set_black_list_title">Toevoegen aan zwarte lijst</string>
   <string name="contact_edit_set_phone_contact">Bewerk telefoon contacten</string>
   <string name="contact_edit_title_phone_contact">Telefoon contact lijst</string>
   <string name="contact_in_filter_call_phone_str">Gesprek van: %s</string>
-  <string name="contact_in_filter_title">" van deze persoon."</string>
+  <string name="contact_in_filter_title">Afzender</string>
   <string name="contact_info_string">Contactgegevens weergeven voor %1$s</string>
   <string name="contact_info_string_default">Contactgegevens weergeven</string>
   <string name="contact_list_add_btn">Toevoegen</string>
@@ -292,6 +293,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">STANDAARD INSTELLINGEN</string>
   <string name="default_signature">Verzonden van mijn Xiaomi</string>
+  <string name="del_account_questionnair_hint">Kan je ons vertellen waarom u dit account verwijderd?</string>
   <string name="delete">Verwijderen</string>
   <string name="deleted">Verwijderd</string>
   <string name="device_activity_btn_str">Ga terug om te activeren</string>
@@ -300,8 +302,9 @@
   <string name="device_admin_label">E-mail</string>
   <string name="device_not_activiey_lint1">Apparaatbeheer is niet geactiveerd</string>
   <string name="device_not_activiey_lint2">Mail service werkt niet goed wisselen</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Kan geen nieuwe berichten ontvangen. Sync. is uit.</string>
-  <string name="dialog_auto_sync_setting_no_open">Kan geen nieuwe berichten ontvangen. Sync. is uit.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Kan geen nieuwe berichten automatisch ontvangen. Sync. is uitgeschakeld.</string>
+  <string name="dialog_auto_sync_setting_no_open">Kan geen nieuwe berichten automatisch ontvangen. Sync. is uitgeschakeld."</string>
+  <string name="dialog_change_sync_lookback">E-mails die %s  % s geleden ontvangen zijn worden automatisch verwijderd. Tik om te wijzigen.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server fout.</string>
   <string name="dialog_insufficient_space_on_external">Kan bijlage niet downloaden. Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_insufficient_space_on_internal">Niet genoeg ruimte op interne opslag.</string>
@@ -337,6 +340,9 @@
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -374,6 +380,7 @@
   <string name="folder_junk_name_en1">Bulk mail</string>
   <string name="folder_junk_name_en2">Ongewenste mail</string>
   <string name="folder_junk_name_en3">Ongewenste e-mail</string>
+  <string name="folder_junk_name_en4">Ongewenst</string>
   <string name="folder_list_display_all">Alle mappen weergeven</string>
   <string name="folder_list_display_only_import">Alleen belangrijke mappen weergeven</string>
   <string name="folder_picker_title">Map kiezen</string>
@@ -431,7 +438,6 @@
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
-  <string name="ignore_spam_warning">Negeren, ik vertrouw dit bericht</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Wachtwoord van de inkomende e-mail server is fout</string>
   <string name="inline_picture_deleted">Downloaden van ontbrekende afbeelding…</string>
@@ -664,6 +670,15 @@
   <string name="push_wps_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
   <string name="push_wps_confirm_title">Probeer WPS Office</string>
   <string name="push_wps_no_response_app">Geen app gevonden om deze actie te behandelen</string>
+  <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
+  <string name="questionnair_confirm_delete">Delete</string>
+  <string name="questionnair_instability">Onstabiele app, crashed regelmatig</string>
+  <string name="questionnair_not_send">Kan mail niet verzenden</string>
+  <string name="questionnair_not_sync">Onstabiele sync.</string>
+  <string name="questionnair_other_reasons">Andere redens</string>
+  <string name="questionnair_title">Account verwijderen</string>
+  <string name="questionnair_ui_not_pretty">Hou niet van het ontwerp</string>
+  <string name="questionnair_waste_resource">Wissen zou zo ruimte vrij maken</string>
   <string name="quick_1">Hartelijke bedankt!</string>
   <string name="quick_2">Dat lijkt me prima.</string>
   <string name="quick_3">Ik zal dit later lezen en kom er dan op terug.</string>
@@ -708,8 +723,6 @@
   <string name="release_to_refresh">Loslaten om te vernieuwen</string>
   <string name="remote_search_result">%s resultaten gevonden op de server.</string>
   <string name="remove_account">Account verwijderen</string>
-  <string name="remove_account_confirm">Het account \"%1$s\" wordt verwijderd van Mail.</string>
-  <string name="remove_account_confirm_title">Account verwijderen</string>
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Ster verwijderen</string>
   <string name="reply_add_bodycontent">Snel antwoord toevoegen aan berichtinhoud??</string>
@@ -754,9 +767,9 @@
   <string name="ser_resp_err_map_certificate_validator_err">"Kon niet valideren van servercertificaat
 \u0009 (maak er u zeker van dat 'Auto Sync tijd' ingeschakeld is)"</string>
   <string name="ser_resp_err_map_nouser">Gebruiker bestaat niet</string>
-  <string name="ser_resp_err_map_or">Of</string>
+  <string name="ser_resp_err_map_or">%1$s of %2$s</string>
   <string name="ser_resp_err_map_pserr">Onjuiste gebruikersnaam of wachtwoord</string>
-  <string name="ser_resp_err_map_serclosed">Service is gesloten</string>
+  <string name="ser_resp_err_map_serclosed">%s server gesloten</string>
   <string name="ser_resp_err_map_ssl">"Probeer te kiezen voor 'SSL/TLS(alle certificaten accepteren)' in 'Beveiligingstype'"</string>
   <string name="set_network">Netwerk instellen</string>
   <string name="setting_default_lable"/>
@@ -820,6 +833,7 @@
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
+  <string name="try_exchange_login">Probeer in te loggen met exchange</string>
   <string name="turn_auto_sync_on_dialog_body">Wijzigingen die u aanbrengt in alle apps en accounts, niet alleen in Gmail, worden gesynchroniseerd tussen internet, uw andere apparaten en uw %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Inschakelen</string>
   <string name="turn_auto_sync_on_dialog_title">Automatisch synchroniseren inschakelen?</string>

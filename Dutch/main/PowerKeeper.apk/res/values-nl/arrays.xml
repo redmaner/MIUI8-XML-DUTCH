@@ -52,6 +52,31 @@
     <string-array name="hmode_app_groups">
         <item>aangepast</item>
         <item>voorgesteld</item>
+	</string-array>	
+    <string-array name="power_checker_group_prefix">
+        <item>gebruikt</item>
+        <item></item>
+        <item></item>
     </string-array>
-    <array name="read_enable" />
+    <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Ontwaken</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Ontwaken</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>nu te veel</item>
+        <item>te veel deze dag</item>
+    </string-array>
 </resources>

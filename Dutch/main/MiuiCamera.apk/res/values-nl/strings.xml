@@ -1,17 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">Toegang tot USB opslag mislukt</string>
+  <string name="access_sd_fail">Toegang tot Sd kaart mislukt</string>
+  <string name="accessibility_audio_shutter_bg">Audio sluiter achtergrond</string>
+  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Voorste en achterste camera wisselen</string>
+  <string name="accessibility_countdown">Aftelknop</string>
   <string name="accessibility_flash_mode_button">Flitsknop</string>
   <string name="accessibility_hdr">HDR wissel knop</string>
-  <string name="accessibility_module_picker">Modulekiezer</string>
   <string name="accessibility_panorama_review_cancel">Panorama Annuleren Opslaan</string>
+  <string name="accessibility_peak">Focus Peak knop</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Extra instellings knop</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
   <string name="accessibility_skin_beautify_button">HuidVerfraaiKnop</string>
   <string name="accessibility_video_capture_button">VideoOpnameKnop</string>
+  <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauzeKnop</string>
   <string name="audio_focus_exit_button_text">Audio Focus sluiten</string>
   <string name="burst_shoot_exit_button_text">Sluit Burst Shoot af</string>
@@ -59,7 +63,7 @@
   <string name="find_other_qrcode">Zoek een andere QR code</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Plaats een SD kaart voordat u de camera gebruikt</string>
-  <string name="not_enough_space">Intern geheugen is vol</string>
+  <string name="not_enough_space">SD kaart is vol</string>
   <string name="object_track_enable_toast">Druk met twee vingers op beide uiteinden van het voorwerp om het te volgen.</string>
   <string name="pano_dialog_panorama_failed">Kan panorama niet opslaan</string>
   <string name="pano_dialog_title">Panorama</string>
@@ -327,7 +331,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval van 3 seconden (90 keer)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval van 30 seconden (900 keer)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Interval tijdsverloop</string>
-  <string name="preparing_sd">Controleren van intern geheugen…</string>
+  <string name="preparing_sd">Controleren van SD kaart…</string>
   <string name="record_back_pressed_hint">Raak aan om opname te stoppen</string>
   <string name="see_qrcode_detals">Details weergeven</string>
   <string name="setting_top_text">Cameramodi</string>
@@ -350,7 +354,7 @@
   <string name="simple_mode_button_text_ubifocus">Sluit herfocusmodus</string>
   <string name="snapshot_lower_than_video">Video Snapshot resolutie is lager dan formaat van de video. Gelijk maken aan videoformaat. Selecteer een resolutie hoger of gelijk aan het huidige videoformaat.</string>
   <string name="snapshotsize_low_powermode">Resolutie wordt niet ondersteund door uw huidige energiebeheer instellingen. Videoformaat zal worden gebruikt.</string>
-  <string name="spaceIsLow_content">Er is bijna geen ruimte meer in de USB opslag</string>
+  <string name="spaceIsLow_content">Er is bijna geen ruimte meer op de SD kaart</string>
   <string name="start_capture">Ok</string>
   <string name="tap_to_exposure">Tikken om de belichting handmatig in te stellen</string>
   <string name="tap_to_focus">Tikken om scherp te stellen</string>
