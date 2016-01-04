@@ -19,12 +19,12 @@
   <string name="access_control_password_title">Wachtwoord</string>
   <string name="access_control_recording_intro_header">Teken een ontgrendelpatroon:</string>
   <string name="access_control_reset_by_account">Log in op uw Mi account om uw wachtwoord te resetten</string>
-  <string name="access_point_names">Access point nameen</string>
+  <string name="access_point_names">Accesspoint namen</string>
   <string name="accessibility_captioning_title">Ondertiteling</string>
-  <string name="accessibility_category_personal">Priv" profiel accounts</string>
-  <string name="accessibility_category_work">Wrkprofiel accounts - %s</string>
+  <string name="accessibility_category_personal">Privéprofiel accounts</string>
+  <string name="accessibility_category_work">Werkprofiel accounts - %s</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beïnvloeden.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Kleur correctie</string>
+  <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimenteel) Kan de prestaties beïnvloeden</string>
   <string name="accessibility_display_inversion_preference_title">Kleurinversie</string>
   <string name="accessibility_display_title">Beeldscherm</string>
@@ -46,8 +46,9 @@ Als het apparaat meerdere gebruikers heeft, wordt toegankelijkheid tijdelijk ing
   <string name="accessibility_menu_item_settings">Instellingen</string>
   <string name="accessibility_no_services_installed">Geen services geïnstalleerd</string>
   <string name="accessibility_no_wifi">Wi-Fi verbinding verbroken.</string>
-  <string name="accessibility_personal_account_title">Priv" account - %s</string<string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit knop beëindigt oproep</string>
-  <string name="accessibility_screen_magnification_enable">Zoom bewegingen</string>
+  <string name="accessibility_personal_account_title">Privé-account - %s</string
+  <string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit knop beëindigt oproep</string>
+  <string name="accessibility_screen_magnification_enable">Zoombewegingen</string>
   <string name="accessibility_screen_magnification_summary">"Wanneer deze functie is ingeschakeld, kunt u in- en uitzoomen door drie keer op het scherm te tikken.
 
 Wanneer u bent ingezoomd, kunt u:
@@ -84,8 +85,8 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="account_list">Andere accounts</string>
   <string name="account_settings">Accounts</string>
   <string name="account_settings_menu_auto_sync">Auto-sync data</string>
-  <string name="account_settings_menu_auto_sync_personal">Auto-sync privél data</string>
-  <string name="account_settings_menu_auto_sync_work">Auto-sync werk data</string>
+  <string name="account_settings_menu_auto_sync_personal">Auto-sync privédata</string>
+  <string name="account_settings_menu_auto_sync_work">Auto-sync werkdata</string>
   <string name="account_settings_title">Accounts</string>
   <string name="account_sync_settings_title">Sync.</string>
   <string name="activate_miui_screensaver">Schermbeveiliging tijdens slaap</string>
@@ -95,7 +96,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="activity_not_found">Deze app is niet geïnstalleerd op uw apparaat.</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
   <string name="adb_keys_warning_message">Toegang tot USB foutopsporing intrekken voor alle computers waarvoor u dit eerder heeft toegestaan?</string>
-  <string name="adb_warning_message">Toegang tot de USB foutopsporing intrekken  van alle computers die u eerder heeft erkend?</string>
+  <string name="adb_warning_message">Toegang tot de USB foutopsporing intrekken van alle computers die u eerder heeft erkend?</string>
   <string name="adb_warning_title">USB foutopsporing toestaan?</string>
   <string name="add_account_label">Account toevoegen</string>
   <string name="add_auto_startup_application">Toevoegen automatisch starten van apps</string>
@@ -129,7 +130,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="agps_roaming_dia_title">A-GPS gebruiken bij roaming</string>
   <string name="agps_roaming_summary">Gebruik mobiele data om de GPS bij te staan tijdens roaming</string>
   <string name="airplane_mode">Vliegmodus</string>
-  <string name="alarm_volume_option_title">Alarm volume</string>
+  <string name="alarm_volume_option_title">Alarmvolume</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de schermbeveiliging kost extra batterij.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Batterij gebruikt</string>
@@ -153,7 +154,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="android_beam_off_summary">NFC inhoud delen is uitgeschakeld</string>
   <string name="android_beam_on_summary">NFC inhoud delen is ingeschakeld</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
+  <string name="android_beam_tips">Zorg ervoor dat de twee apparaten elkaar aanraken, en raak de content aan die je wilt beamen.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="anti_spam">Zwarte lijst</string>
@@ -189,7 +190,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="apn_type">APN type</string>
   <string name="apn_user">Gebruikersnaam</string>
   <string name="app_backup">Back-up</string>
-  <string name="app_data_usage">App data usage</string>
+  <string name="app_data_usage">App dataverbruik</string>
   <string name="app_disable_dlg_positive">App uitschakelen</string>
   <string name="app_disable_dlg_text">Als je deze app uitschakelt, kunnen andere apps niet meer naar behoren functioneren.</string>
   <string name="app_disable_dlg_title">Ingebouwde app uitschakelen?</string>
@@ -222,12 +223,12 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_notification_peekable_summary">Laat deze app bepaalde meldingen benadrukken  door ze kort over het huidige scherm te laten schuiven</string>
   <string name="app_notification_peekable_title">Gluren toestaan</string>
   <string name="app_notification_preferences">App instellingen</string>
-  <string name="app_notification_priority_summary">Laat de meldingen van deze app te horen wanneer Niet storen is ingesteld op alleen Prioriteit</string>
+  <string name="app_notification_priority_summary">Laat de meldingen van deze app horen wanneer Niet storen is ingesteld op alleen prioriteit</string>
   <string name="app_notification_priority_title">Behandelen als prioriteit</string>
   <string name="app_notification_row_banned">Geblokkeerd</string>
   <string name="app_notification_row_priority">Prioriteit</string>
   <string name="app_notification_row_sensitive">Gevoelig</string>
-  <string name="app_notification_sensitive_summary">Wanneer het apparaat vergrendeld is, verberg inhoud in deze app melding die prive-informatie kan weergeven</string>
+  <string name="app_notification_sensitive_summary">Wanneer het apparaat vergrendeld is, verberg inhoud in deze appmelding die prive-informatie kan weergeven</string>
   <string name="app_notification_sensitive_title">Verberg gevoelige inhoud</string>
   <string name="app_notifications_dialog_done">Klaar</string>
   <string name="app_notifications_switch_label">Aangepaste melding</string>
@@ -242,7 +243,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_process_limit_title">Achtergrondproceslimiet</string>
   <string name="app_restrictions_custom_label">App beperkingen instellen</string>
   <string name="app_sees_restricted_accounts">Deze app heeft toegang tot uw accounts</string>
-  <string name="app_sees_restricted_accounts_and_controlled_by">This app can access your accounts. Controlled by %1$s</string>
+  <string name="app_sees_restricted_accounts_and_controlled_by">Deze app heeft toegang tot je accounts. Gecontroleerd door %1$s</string>
   <string name="app_special_disable_dlg_text">Als je deze app uitschakelt, kunnen andere apps niet meer naar behoren functioneren. Uw gegevens worden ook verwijderd.</string>
   <string name="app_special_disable_dlg_title">Gegevens verwijderen en app uitschakelen?</string>
   <string name="app_switch_key">Recente</string>
@@ -255,7 +256,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="application_restrictions">Apps en inhoud toestaan</string>
   <string name="application_size_label">App</string>
   <string name="applications_settings">Geïnstalleerde apps</string>
-  <string name="applications_settings_header">App instellingen</string>
+  <string name="applications_settings_header">Appinstellingen</string>
   <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
   <string name="apply_fingerprint_to_category_title">Vingerafdruk toepassen naar…</string>
   <string name="apply_now_button_text">Update</string>
@@ -2779,7 +2780,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="voice_search_settings_title">Spraakgestuurd zoeken</string>
   <string name="volume_alarm_description">Wekkers</string>
   <string name="volume_alarm_mute">Wekkers dempen</string>
-  <string name="volume_bluetooth_description">Bluetooth volume</string>
+  <string name="volume_bluetooth_description">Bluetoothvolume</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">HiFi instellingen</string>
   <string name="volume_media_description">Muziek, video, games en andere media</string>
