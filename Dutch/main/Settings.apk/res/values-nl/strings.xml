@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">Accounts</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_title">Vergrendel individuele apps</string>
@@ -11,15 +12,24 @@
   <string name="accelerometer_title">Scherm automatisch draaien</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open app</string>
-  <string name="access_control_need_password">"%s is vergrendeld
+  <string name="access_control_need_password">"%s is beveiligd
 "</string>
   <string name="access_control_need_to_unlock">Wachtwoord vereist:</string>
   <string name="access_control_no_back_footer">Klik [icon] om te verlaten</string>
   <string name="access_control_password_title">Wachtwoord</string>
   <string name="access_control_recording_intro_header">Teken een ontgrendelpatroon:</string>
   <string name="access_control_reset_by_account">Log in op uw Mi account om uw wachtwoord te resetten</string>
+  <string name="access_point_names">Access point nameen</string>
   <string name="accessibility_captioning_title">Ondertiteling</string>
+  <string name="accessibility_category_personal">Priv" profiel accounts</string>
+  <string name="accessibility_category_work">Wrkprofiel accounts - %s</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beïnvloeden.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Kleur correctie</string>
+  <string name="accessibility_display_inversion_preference_subtitle">(Experimenteel) Kan de prestaties beïnvloeden</string>
+  <string name="accessibility_display_inversion_preference_title">Kleurinversie</string>
+  <string name="accessibility_display_title">Beeldscherm</string>
   <string name="accessibility_enable">Toegankelijkheid</string>
+  <string name="accessibility_feature_or_input_method_not_allowed">Niet toegestaan door uw organisatie</string>
   <string name="accessibility_feature_state_off">Uit</string>
   <string name="accessibility_feature_state_on">Aan</string>
   <string name="accessibility_global_gesture_preference_description">"Wanneer deze functie is ingeschakeld, kunt u de toegankelijkheidsfuncties inschakelen in twee snelle stappen: 
@@ -35,7 +45,8 @@ Als het apparaat meerdere gebruikers heeft, wordt toegankelijkheid tijdelijk ing
   <string name="accessibility_long_press_timeout_preference_title">Vertraging voor blijven aanraken</string>
   <string name="accessibility_menu_item_settings">Instellingen</string>
   <string name="accessibility_no_services_installed">Geen services geïnstalleerd</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit knop beëindigt oproep</string>
+  <string name="accessibility_no_wifi">Wi-Fi verbinding verbroken.</string>
+  <string name="accessibility_personal_account_title">Priv" account - %s</string<string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit knop beëindigt oproep</string>
   <string name="accessibility_screen_magnification_enable">Zoom bewegingen</string>
   <string name="accessibility_screen_magnification_summary">"Wanneer deze functie is ingeschakeld, kunt u in- en uitzoomen door drie keer op het scherm te tikken.
 
@@ -43,29 +54,39 @@ Wanneer u bent ingezoomd, kunt u:
 "&lt;li&gt;&lt;ul&gt;"Pannen: sleep twee of meer vingers over het scherm.
 "&lt;li&gt;Zoomniveau aanpassen: knijp twee of meer vingers samen of spreid deze.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-U kunt ook de inhoud onder uw vinger tijdelijk vergroten door drie keer te tikken en vast te houden. In deze vergrote staat kunt u slepen met uw vinger om verschillende gedeelten van het scherm te verkennen. Til uw vinger op om terug te keren naar de vorige staat.
+U kunt ook de inhoud onder uw vinger tijdelijk vergroten &amp;#8217; door drie keer te tikken en vast te houden. In deze vergrote staat kunt u slepen met uw vinger om verschillende gedeelten van het scherm te verkennen. Til uw vinger op om terug te keren naar de vorige staat.
 
 Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toetsenbord en de navigatiebalk."</string>
   <string name="accessibility_screen_magnification_title">Vergrotingsgebaren</string>
   <string name="accessibility_service_default_description">Geen beschrijving opgegeven.</string>
-  <string name="accessibility_service_no_apps_message">TalkBack levert gesproken feedback om blinde en slechtziende gebruikers te helpen navigeren. Wilt u deze app gratis installeren via Google Play Store?</string>
-  <string name="accessibility_service_no_apps_title">Heeft u een schermlezer nodig?</string>
   <string name="accessibility_services_title">Diensten</string>
   <string name="accessibility_settings">Toegankelijkheid</string>
   <string name="accessibility_settings_title">Instellingen voor toegankelijkheid</string>
   <string name="accessibility_sync_disabled">Sync. uitgeschakeld</string>
   <string name="accessibility_sync_enabled">Sync. is ingeschakeld</string>
   <string name="accessibility_sync_error">Sync. fout.</string>
+  <string name="accessibility_sync_in_progress">Nu sync.</string>
   <string name="accessibility_system_title">Systeem</string>
+  <string name="accessibility_toggle_high_text_contrast_preference_title">Hoge contrast tekst</string>
   <string name="accessibility_toggle_large_text_preference_title">Tekstgrootte</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Schermvergroting bijwerken bij app overgangen</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Schermvergroting automatisch bijwerken</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Schermvergroting</string>
   <string name="accessibility_toggle_speak_password_preference_title">Wachtwoorden voorlezen</string>
+  <string name="accessibility_wifi_off">Wi-Fi uit.</string>
+  <string name="accessibility_wifi_one_bar">Wi-Fi één blokje.</string>
+  <string name="accessibility_wifi_signal_full">Vol Wi-Fi signaal.</string>
+  <string name="accessibility_wifi_three_bars">Wi-Fi drie blokjes.</string>
+  <string name="accessibility_wifi_two_bars">Wi-Fi twee blokjes.</string>
+  <string name="accessibility_work_account_title">Werk account - %s</string>
   <string name="account_add">Toevoegen</string>
   <string name="account_autostar_label">Automatisch starten</string>
   <string name="account_list">Andere accounts</string>
   <string name="account_settings">Accounts</string>
+  <string name="account_settings_menu_auto_sync">Auto-sync data</string>
+  <string name="account_settings_menu_auto_sync_personal">Auto-sync privél data</string>
+  <string name="account_settings_menu_auto_sync_work">Auto-sync werk data</string>
+  <string name="account_settings_title">Accounts</string>
   <string name="account_sync_settings_title">Sync.</string>
   <string name="activate_miui_screensaver">Schermbeveiliging tijdens slaap</string>
   <string name="activating">Activeren…</string>
@@ -74,7 +95,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="activity_not_found">Deze app is niet geïnstalleerd op uw apparaat.</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
   <string name="adb_keys_warning_message">Toegang tot USB foutopsporing intrekken voor alle computers waarvoor u dit eerder heeft toegestaan?</string>
-  <string name="adb_warning_message">USB foutopsporing is alleen bedoeld voor ontwikkeldoeleinden. Het kan worden gebruikt om gegevens te kopiëren tussen uw computer en uw apparaat, apps zonder melding op uw apparaat te installeren en loggegevens te lezen.</string>
+  <string name="adb_warning_message">Toegang tot de USB foutopsporing intrekken  van alle computers die u eerder heeft erkend?</string>
   <string name="adb_warning_title">USB foutopsporing toestaan?</string>
   <string name="add_account_label">Account toevoegen</string>
   <string name="add_auto_startup_application">Toevoegen automatisch starten van apps</string>
@@ -92,18 +113,23 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="add_fingerprint_put_finger_title">Plaats en verwijder uw vinger</string>
   <string name="add_fingerprint_text">Vingerafdruk toevoegen</string>
   <string name="add_fingerprint_toast_text">Plaats uw vinger nu op de scanner</string>
+  <string name="adding_profile_owner_warning">"Door verder te gaan, zal uw gebruikersnaam worden beheerd door uw beheerder, die ook in staat zal zijn om de bijbehorende gegevens op te slaan, in aanvulling op uw persoonlijke gegevens.
+
+Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren, toegang, apps en de gegevens in verband met deze gebruiker, met inbegrip van de netwerkactiviteit en de locatiegegevens van uw apparaat te beheren."</string>
+  <string name="additional_permissions">Extra toestemmingen</string>
+  <string name="additional_permissions_more">%1$d meer</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Aanvullende systeemupdates</string>
   <string name="adjust_3d_depth_title">3D diepte aanpassen voor games</string>
   <string name="advanced_settings">Geavanceerde instellingen</string>
   <string name="advanced_settings_summary">Meer opties voor instellingen inschakelen</string>
-  <string name="advanced_text_layout">Schakel geavanceerde tekst layouts in</string>
   <string name="agps_roaming">A-GPS bij roaming</string>
   <string name="agps_roaming_dia">A-GPS gebruiken tijdens roaming kan uw mobiele dataverbruik verhogen. Als u de datalimiet overschrijdt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="agps_roaming_dia_title">A-GPS gebruiken bij roaming</string>
   <string name="agps_roaming_summary">Gebruik mobiele data om de GPS bij te staan tijdens roaming</string>
   <string name="airplane_mode">Vliegmodus</string>
+  <string name="alarm_volume_option_title">Alarm volume</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Het gebruik van de schermbeveiliging kost extra batterij.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Batterij gebruikt</string>
@@ -112,10 +138,23 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nadat u de widget heeft gemaakt, heeft %1$s toegang tot alle gegevens die de widget weergeeft.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget maken en toegang toestaan?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s altijd toestaan widgets te maken en toegang tot de widgetgegevens geven</string>
+  <string name="allow_data_usage_title">Dataverbruik toestaan tijdens roaming</string>
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
+  <string name="allow_overlay_description">Deze toestemming kan een app weergeven bovenop andere apps die u gebruikt en kan het gebruik van de interface beïnvloeden in andere toepassingen of veranderen wat je denkt te zien in andere toepassingen.</string>
   <string name="alpha_build">" | Alpha"</string>
-  <string name="always_allow_bind_appwidgets_text">U heeft ervoor gekozen deze app toe te staan widgets te maken en toegang tot de widgetgegevens te geven.</string>
+  <string name="always_allow_bind_appwidgets_text">Je hebt ervoor gekozen om deze app toe te staan om widgets te maken en toegang te krijgen tot hun gegevens.</string>
+  <string name="always_running">Altijd actief (%s)</string>
+  <string name="amber_alerts_summary">Ontvang mededelingen over kinderontvoeringen</string>
+  <string name="amber_alerts_title">AMBER waarschuwingen</string>
+  <string name="android_beam_disabled_summary">NFC inhoud delen vereist dat NFC ingeschakeld is</string>
+  <string name="android_beam_explained">U kunt een webpagina, een video of andere inhoud van uw scherm beamen naar een ander apparaat, door de apparatente laten  raken (meestal rug aan rug).</string>
+  <string name="android_beam_label">Android Beam</string>
+  <string name="android_beam_off_summary">NFC inhoud delen is uitgeschakeld</string>
+  <string name="android_beam_on_summary">NFC inhoud delen is ingeschakeld</string>
+  <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
+  <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="anti_spam">Zwarte lijst</string>
   <string name="apn_apn">APN</string>
@@ -124,10 +163,8 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="apn_auth_type_none">Geen</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">Breedband gebruikers doorverbinden naar het internet</string>
-  <string name="apn_chinaunicom_3gwap_general">Breedband gebruikers doorverbinden naar het mobiel internet</string>
-  <string name="apn_cm_net">CMNET</string>
-  <string name="apn_cm_wap">CMWAP</string>
+  <string name="apn_chinaunicom_3gnet_general">Vruchtbare 3G internetverbinding</string>
+  <string name="apn_chinaunicom_3gwap_general">Vruchtbare 3G mobiel internet</string>
   <string name="apn_edit">Toegangspunt bewerken</string>
   <string name="apn_general">Algemeen</string>
   <string name="apn_http_port">Poort</string>
@@ -142,15 +179,19 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="apn_new">Nieuw toegangspunt</string>
   <string name="apn_not_set">Niet ingesteld</string>
   <string name="apn_password">Wachtwoord</string>
+  <string name="apn_ppp_number">APN PPP telefoonnummer</string>
   <string name="apn_roaming_protocol">Roamingprotocol voor APN</string>
   <string name="apn_save">Wijzigingen opslaan?</string>
   <string name="apn_save_msg">Sla wijzigingen APN op?</string>
   <string name="apn_server">Server</string>
   <string name="apn_settings">APN\'s</string>
+  <string name="apn_settings_not_available">Access Point Naam instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="apn_type">APN type</string>
   <string name="apn_user">Gebruikersnaam</string>
   <string name="app_backup">Back-up</string>
-  <string name="app_disable_dlg_text">Als u een ingebouwde app uitschakelt, kunnen andere apps onverwacht gedrag vertonen.</string>
+  <string name="app_data_usage">App data usage</string>
+  <string name="app_disable_dlg_positive">App uitschakelen</string>
+  <string name="app_disable_dlg_text">Als je deze app uitschakelt, kunnen andere apps niet meer naar behoren functioneren.</string>
   <string name="app_disable_dlg_title">Ingebouwde app uitschakelen?</string>
   <string name="app_disable_notifications_dlg_text">Als u meldingen voor deze app uitschakelt, mist u misschien belangrijke waarschuwingen en updates.</string>
   <string name="app_disable_notifications_dlg_title">Meldingen uitschakelen?</string>
@@ -162,21 +203,50 @@ Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
   <string name="app_install_location_summary">De voorkeursinstallatielocatie voor nieuwe apps wijzigen</string>
   <string name="app_install_location_title">Voorkeursinstallatielocatie</string>
+  <string name="app_launch_domain_links_title">App links</string>
+  <string name="app_launch_open_domain_urls_summary">Openen zonder vragen</string>
+  <string name="app_launch_open_domain_urls_title">Open ondersteunde links</string>
+  <string name="app_launch_other_defaults_title">Andere standaarden</string>
+  <string name="app_launch_supported_domain_urls_title">Ondersteunde links</string>
+  <string name="app_link_open_always">Openen in deze app</string>
+  <string name="app_link_open_ask">Altijd vragen</string>
+  <string name="app_link_open_never">Niet openen in deze app</string>
+  <string name="app_list_memory_use">App gebruik</string>
+  <string name="app_list_preference_none">Geen</string>
   <string name="app_memory_use">Geheugengebruik</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
   <string name="app_not_found_dlg_title"/>
-  <string name="app_not_supported_in_limited">Deze app wordt niet ondersteund voor beperkte profielen</string>
-  <string name="app_notifications_switch_label">Meldingen</string>
+  <string name="app_notification_block_summary">Nooit meldingen tonen van deze app</string>
+  <string name="app_notification_block_title">Alles blokkeren</string>
+  <string name="app_notification_peekable_summary">Laat deze app bepaalde meldingen benadrukken  door ze kort over het huidige scherm te laten schuiven</string>
+  <string name="app_notification_peekable_title">Gluren toestaan</string>
+  <string name="app_notification_preferences">App instellingen</string>
+  <string name="app_notification_priority_summary">Laat de meldingen van deze app te horen wanneer Niet storen is ingesteld op alleen Prioriteit</string>
+  <string name="app_notification_priority_title">Behandelen als prioriteit</string>
+  <string name="app_notification_row_banned">Geblokkeerd</string>
+  <string name="app_notification_row_priority">Prioriteit</string>
+  <string name="app_notification_row_sensitive">Gevoelig</string>
+  <string name="app_notification_sensitive_summary">Wanneer het apparaat vergrendeld is, verberg inhoud in deze app melding die prive-informatie kan weergeven</string>
+  <string name="app_notification_sensitive_title">Verberg gevoelige inhoud</string>
+  <string name="app_notifications_dialog_done">Klaar</string>
+  <string name="app_notifications_switch_label">Aangepaste melding</string>
+  <string name="app_notifications_title">App meldingen</string>
   <string name="app_ops_never_used">(Nooit gebruikt)</string>
   <string name="app_ops_running">Actief</string>
   <string name="app_ops_settings">App bewerkingen</string>
+  <string name="app_overlay_permission_preference">App draw bovenop toestemming</string>
+  <string name="app_permissions">App toestemmingen</string>
+  <string name="app_permissions_group_summary" formatted="false">%d van %d apps toegestaan</string>
+  <string name="app_permissions_summary" formatted="false">%d van %d apps toegestane extra toegang</string>
   <string name="app_process_limit_title">Achtergrondproceslimiet</string>
   <string name="app_restrictions_custom_label">App beperkingen instellen</string>
   <string name="app_sees_restricted_accounts">Deze app heeft toegang tot uw accounts</string>
-  <string name="app_special_disable_dlg_text">Als u een ingebouwde app uitschakelt, functioneren andere apps mogelijk niet meer correct. Uw gegevens worden ook verwijderd.</string>
+  <string name="app_sees_restricted_accounts_and_controlled_by">This app can access your accounts. Controlled by %1$s</string>
+  <string name="app_special_disable_dlg_text">Als je deze app uitschakelt, kunnen andere apps niet meer naar behoren functioneren. Uw gegevens worden ook verwijderd.</string>
   <string name="app_special_disable_dlg_title">Gegevens verwijderen en app uitschakelen?</string>
-  <string name="app_switch_key">Menu</string>
+  <string name="app_switch_key">Recente</string>
+  <string name="app_usage_preference">App gebruiksvoorkeuren</string>
   <string name="application_forbid_auto_startup">%s niet toestaan op de achtergrond te starten</string>
   <string name="application_info_label">App info</string>
   <string name="application_item_already_permission">Toegestaan</string>

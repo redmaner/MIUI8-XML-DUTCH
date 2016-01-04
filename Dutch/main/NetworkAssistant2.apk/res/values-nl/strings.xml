@@ -266,9 +266,6 @@
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
-  <string name="operator_setted_error_dialog_message">De SIM kaart die je gebruikt is van %1$s. Deze is anders dan de locatie die u handmatig hebt ingesteld (%2$s). Wijzig SIM locatie naar %3$s?"</string>
-  <string name="operator_setted_error_notify_message">Tik om SIM locatie te wijzigen.</string>
-  <string name="operator_setted_error_notify_title">SIM kaart fout</string>
   <string name="other_exception_summary">U hebt geen internetverbinding</string>
   <string name="other_exception_title">Controleren op andere problemen</string>
   <string name="package_change_notification_summary">Tik om meer te weten.</string>
@@ -402,6 +399,9 @@
   <string name="show_traffic_dialog_title">Geef het verbruik weer in het notificatiescherm</string>
   <string name="signal_exception_summary">Kan geen verbinding maken met netwerk in dit gebied.</string>
   <string name="signal_exception_title">Test signaalsterkte</string>
+  <string name="sim_location_error_dialog_message">"De SIM kaart die je gebruikt is van %1$s. Deze is anders dan de locatie die u handmatig hebt ingesteld (%2$s). Wijzig SIM locatie naar %3$s?"</string>
+  <string name="sim_location_error_notify_message">Tik om SIM locatie te wijzigen.</string>
+  <string name="sim_location_error_notify_title">SIM kaart fout</string>
   <string name="sim_state_exception_summary">SIM status geeft aan dat er iets verkeerd kan zijn met uw SIM kaart.</string>
   <string name="songs_number">18 nummers</string>
   <string name="songs_unit">" Nummers"</string>
@@ -453,6 +453,10 @@
   <string name="tips_message">"Om je data plan te bekijken, bel %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Dagelijkse datalimiet</string>
   <string name="traffic_config_alert_body">Uw provider laten zien wat je hebt verbruikt %s Bijwerken dataverbruiks info?</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Maandelijks plan gewijzigd naar %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Geupdate data plan</string>
+  <string name="traffic_alert_auto_modify_package_summary">Datapakket automatisch aanpassen op basis van informatie van de provider</string>
+  <string name="traffic_config_alert_auto_modify">Data plan automatisch updaten</string>
   <string name="traffic_config_alert_body_extra">"
 U kocht %1$s extra data deze maand. Dit is anders dan de %2$s dat u handmatig hebt toegevoegd."</string>
   <string name="traffic_config_alert_body_extra_notset">"
@@ -460,9 +464,8 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_config_alert_body_leisure">Volgens uw provider geeft u hebt gebruikt %1$s van uw daluren data deze maand, dit is verschillend van de  %2$s dat u handmatig hebt ingesteld.</string>
   <string name="traffic_config_alert_body_leisure_notset">Uw provider toont %s overgebleven daluren data. U heeft geen limiet voor de daluren data.</string>
   <string name="traffic_config_alert_body_normal" formatted="false">"Provider geeft aan dat u %1$s gebruikt hebt van de overgebleven daluren data. %1$s van daluren data overgebleven. %2$s  %s  U heeft geen limiet voor de daluren data ingesteld."</string>
-  <string name="traffic_config_alert_cancel">Annuleren</string>
-  <string name="traffic_config_alert_nomore">Niet meer weergeven</string>
-  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_package">"
+Overgebrachte extra data"</string>
   <string name="traffic_config_alert_setted">Instellingen toegepast</string>
   <string name="traffic_config_alert_title">%s correctie</string>
   <string name="traffic_correction_failed">Verkrijgen info mislukt</string>
@@ -470,9 +473,10 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer de provider instellingen</string>
   <string name="traffic_correction_success">Dataverbruik bijgewerkt</string>
   <string name="traffic_correction_success_notify_message">Tik om de details weer te geven.</string>
-  <string name="traffic_limit_error_alert_body">Je provider accounting geeft aan dat je %1$s resterende hebt deze maand. Dat is meer dan de %2$s limiet die u handmatig hebt ingesteld.</string>
-  <string name="traffic_limit_error_alert_iknow">OK</string>
-  <string name="traffic_limit_error_alert_reset">Limiet resseten</string>
+  <string name="traffic_limit_error_alert_body">Uw resterende data voor deze maand (%1$s) is groter dan uw maandelijks plan (%2$s). Merk extra data als herlaad pakket?</string>
+  <string name="traffic_limit_error_alert_package">"
+
+Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_limit_error_alert_title">Data limiets herinnering %s</string>
   <string name="traffic_none">Geen</string>
   <string name="traffic_over_purchase_body">Aanraken om details weer te geven.</string>
@@ -502,7 +506,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_history_total_rate">Beoordelen</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Data bespaard</string>
-  <string name="traffic_saving_mobile_usage">Mobiel verbruik</string>
+  <string name="traffic_saving_mobile_usage">Data bespaarder</string>
   <string name="traffic_saving_msg_month">Bespaard deze maand</string>
   <string name="traffic_saving_msg_not_started">Databespaarder is uitgeschakeld</string>
   <string name="traffic_saving_msg_today">Resterend vandaag</string>
@@ -535,7 +539,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_saving_whitelist_btn_removed">App verwijderd uit lijst</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; dataverbruik apps is niet beperkt"</string>
   <string name="traffic_saving_whitelist_no_app">Geen apps</string>
-  <string name="traffic_saving_wifi_usage">Wi-Fi verbruik</string>
+  <string name="traffic_saving_wifi_usage">Wi-Fi bespaarder</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Pas abonnement en dataverbruik aan</string>
@@ -548,6 +552,7 @@ U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse
   <string name="traffic_setting_fragment_button1_text">Annuleren</string>
   <string name="traffic_setting_fragment_button2_text">Opslaan</string>
   <string name="traffic_setting_fragment_get_template_falure">Kan niet verbinden met netwerk. Controleer je data verbinding en probeer opnieuw."</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">Niet meer tonen</string>
   <string name="traffic_setting_fragment_loading_text">Netwerk info ophalen…</string>
   <string name="traffic_setting_fragment_no_network">Kan niet verbinden met netwerk</string>
   <string name="traffic_setting_fragment_null">Leeg</string>
