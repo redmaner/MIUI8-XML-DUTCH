@@ -101,7 +101,7 @@
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Belnotitie toevoegen</string>
   <string name="callrecordview_menu_batch_delete">Weigeren</string>
-  <string name="callrecordview_menu_conference">Gespreksconferentie</string>
+  <string name="callrecordview_menu_conference">Telefoonconferentie</string>
   <string name="callrecordview_menu_delete">Belgeschiedenis verwijderen</string>
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_all">Belgeschiedenis verwijderen</string>
@@ -386,7 +386,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
   <string name="export_to_sim2">Exporteren naar SIM kaart 2</string>
   <string name="export_to_sim_title">Exporteren…</string>
-  <string name="export_vcard_description">Exporteren vCard naar intern geheugen van telefoon</string>
+  <string name="export_vcard_description">Exporteer vCard naar SD kaart</string>
   <string name="exporting_contact_failed_message">"De contactgegevens zijn niet geëxporteerd. Reden: '%s'"</string>
   <string name="exporting_contact_failed_title">Kan niet exporteren</string>
   <string name="exporting_contact_list_message">Uw contactgegevens worden geëxporteerd naar: %s.</string>
@@ -405,7 +405,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="fail_reason_no_exportable_contact">Er is geen contact dat kan worden geëxporteerd.</string>
   <string name="fail_reason_not_supported">De indeling wordt niet ondersteund.</string>
   <string name="fail_reason_too_long_filename">"Vereiste bestandsnaam is te lang('%s')."</string>
-  <string name="fail_reason_too_many_vcard">Er staan te veel vCard bestanden in het geheugen.</string>
+  <string name="fail_reason_too_many_vcard">Er staan te veel vCard bestanden op de SD kaart.</string>
   <string name="fail_reason_unknown">Onbekende fout.</string>
   <string name="fail_reason_vcard_parse_error">Kan vCard om onverwachte reden niet ontleden.</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
@@ -453,7 +453,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
   <string name="import_contact_card_button">Contact importeren</string>
-  <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden in het geheugen.</string>
+  <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden op SD kaart.</string>
   <string name="import_from_onekey_migrate">Importeren met Transfer</string>
   <string name="import_from_other_phone">Importeren uit een andere telefoon</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
@@ -472,7 +472,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="import_to_xiaomi_account_progress_message">Importeren…</string>
   <string name="import_to_xiaomi_account_progress_title">Importeren naar Mi Account</string>
   <string name="import_to_xiaomi_account_title">Importeer onderstaande contacten naar uw Mi Account?</string>
-  <string name="import_vcard_description">Importeer contacten van intern geheugen van telefoon</string>
+  <string name="import_vcard_description">Importeer contacten van SD kaart</string>
   <string name="import_weibo_dialog_title">Importeer Weibo contacten</string>
   <string name="import_weibo_error_no_matched_contacts">Er komen geen contacten overeen</string>
   <string name="import_weibo_error_no_network">Er is geen netwerkverbinding. Controleer de verbinding en probeer het opnieuw.</string>
@@ -631,6 +631,10 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="miprofile_error_not_set">Je visitekaartje is niet gesync. met de server</string>
   <string name="miprofile_error_unknown">Onbekende fout</string>
   <string name="miprofile_name">Mijn visitekaartje</string>
+  <string name="miprofile_nick_name_divider">"  |  "</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Roepnaam invoeren</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Roepnaam zal verschijnen in belgeschiedenis en profiel info</string>
+  <string name="miprofile_nick_name_edit_dialog_title">Roepnaam bewerken</string>
   <string name="miprofile_notice_text">"Tik om profielfoto van contact te bekijken</string>
   <string name="miprofile_request_agenda_date">%1$s wil visitekaartjes uitwisselen</string>
   <string name="miprofile_request_agenda_today">%1$s wil visitekaartjes uitwisselen</string>
@@ -664,7 +668,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="multi_number_menu_delete">Verwijderen</string>
   <string name="multi_number_menu_group">Nieuwe groep</string>
   <string name="multi_number_menu_message">Bericht</string>
-  <string name="multi_number_title">Conferentie gesprek</string>
+  <string name="multi_number_title">Telefoonconferentie</string>
   <string name="multipleContactDeleteConfirmation">Als u dit contact verwijdert, worden gegevens van meerdere accounts verwijderd.</string>
   <string name="multipleContactDeleteConfirmationDetail">Verwijderen van \"%s\" zal de informatie van meerdere accounts wissen.</string>
   <string name="my_in_call_show">Mijn video</string>
@@ -708,7 +712,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="no_contacts_dialog_message">Contacten kunnen opgeslagen zijn op de SIM kaart. Probeer deze te importeren vanaf de SIM kaart en probeer het opnieuw.</string>
   <string name="no_contacts_dialog_title">"Er zijn geen contacten gevonden"</string>
   <string name="no_contacts_selected">Er zijn geen contacten geselecteerd.</string>
-  <string name="no_sdcard_message">Geen opslag gevonden.</string>
+  <string name="no_sdcard_message">Geen SD kaart gevonden.</string>
   <string name="no_voip_contacts">Geen Mi Voice contacten</string>
   <string name="non_phone_add_to_contacts">Toevoegen aan contacten</string>
   <string name="non_phone_caption">Telefoonnummer</string>
@@ -741,6 +745,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="phone_number_too_long_toast">Nummer is te lang</string>
   <string name="phone_primary">Primaire</string>
   <string name="photoPickerNotFoundText">"Er zijn geen foto's beschikbaar op de telefoon."</string>
   <string name="photo_fragment">Foto</string>
@@ -876,11 +881,11 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="scan_qrcode_card_hint1">Scan de QR code hierboven</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">"De opslag kan niet worden gescand.(Reden: '%s')"</string>
-  <string name="scanning_sdcard_failed_title">"De opslag kan niet worden gescand"</string>
+  <string name="scanning_sdcard_failed_title">SD kaart kan niet worden gescand</string>
   <string name="searchHint">Contacen zoeken</string>
-  <string name="search_results_searching">Zoeken...</string>
+  <string name="search_results_searching">Zoeken…</string>
   <string name="search_settings_description">Namen van uw contacten</string>
-  <string name="searching_vcard_message">Zoeken naar vCardgegevens in het geheugen…</string>
+  <string name="searching_vcard_message">Zoeken naar vCardgegevens op SD kaart…</string>
   <string name="select_all">Selecteer alles</string>
   <string name="select_done">Niets meer om te selecteren</string>
   <string name="select_groups">Kies groepen</string>

@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Vanavond</item>
+        <item>Morgen</item>
+        <item>Weekend</item>
+        <item>Volgende week</item>
+        <item>Volgende maand</item>
+        <item>Kies datum</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Beantwoorden</item>
         <item>Allen beantwoorden</item>
@@ -83,10 +91,5 @@
         <item>Deze e-mail</item>
         <item>Gebruiksvoorwaarden</item>
         <item>E-mail Gebruiksvoorwaarden</item>
-    </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
     </string-array>
 </resources>

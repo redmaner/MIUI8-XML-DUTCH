@@ -54,6 +54,7 @@
   <string name="cannot_resend_audio">Kon opname niet verzenden</string>
   <string name="cannot_send_message">Bericht verzenden mislukt</string>
   <string name="cannot_send_message_reason">Uw bericht heeft geen geldige ontvangers.</string>
+  <string name="card_insert_to_contact">Contact importeren</string>
   <string name="change_duration_activity">Duur wijzigen</string>
   <string name="check_all">Selecteer alles</string>
   <string name="chenghu_disable_mms">U kunt geen roepnamen gebruiken in MMS</string>
@@ -179,6 +180,7 @@
   <string name="found_old_messages_title">Berichten uploaden van uw andere SIM kaarten?</string>
   <string name="found_wild_messages_guide_cloud_desc">Om berichten van Mi Cloud te sync., meld je aan bij je Mi account en schakel sync. SMS in.</string>
   <string name="found_wild_messages_guide_settings_desc">Sync. berichten van Mi Cloud in Berichten Instellingen.</string>
+  <string name="found_wild_messages_guide_sync_not_started">Sync. nog niet gestart</string>
   <string name="found_wild_messages_title">Sync. berichten van Mi Cloud</string>
   <string name="from_label">"Van: "</string>
   <string name="group_message">Groepsbericht</string>
@@ -253,7 +255,7 @@
   <string name="mms">MMS</string>
   <string name="move_down">Naar beneden</string>
   <string name="move_up">Naar boven</string>
-  <string name="msg_type_hint_mms">Multimediabericht (MMS)</string>
+  <string name="msg_type_hint_mms">Multimedia bericht (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi bericht</string>
   <string name="msg_type_hint_mx_b2c">Netwerkmelding</string>
@@ -264,7 +266,7 @@
   <string name="msglist_continue_to_pull_for_more">Naar beneden trekken om meer weer te geven</string>
   <string name="msglist_more_refreshing">Vernieuwen…</string>
   <string name="msglist_no_more_to_refresh">Al bijgewerkt</string>
-  <string name="msglist_release_to_more">Loslaten om meer weer te geven</string>
+  <string name="msglist_release_to_more">Loslaten om meer weer tegeven</string>
   <string name="multimedia_message">MMS bericht</string>
   <string name="multimedia_notification">Melding van MMS</string>
   <string name="mx2_type_description">[%s]</string>
@@ -483,8 +485,9 @@
   <string name="select_copy_text">Selecteer en kopiëer tekst van bericht</string>
   <string name="select_different_media">Selecteer een andere %1$s.</string>
   <string name="select_link_title">Selecteer actie</string>
-  <string name="select_local_audio">Selecteer lokale audio</string>
-  <string name="select_local_video">Selecteer lokale video</string>
+  <string name="select_local_audio">Selecteer audio</string>
+  <string name="select_local_video">Selecteer video</string>
+  <string name="select_message_send_sim">Kies SIM kaart</string>
   <string name="select_recipient">Selecteer ontvangers</string>
   <string name="select_top_text">Tekst bovenaan</string>
   <string name="send">Verzenden</string>
@@ -616,6 +619,8 @@
   <string name="voip_enable_popup_msg2">Privacybeleid</string>
   <string name="wap_push_title">"[WAP Push]"</string>
   <string name="warning_show">Verzenden in %ds</string>
+  <string name="wild_msg_processing">Bezig…</string>
+  <string name="wild_msg_title">Cloud sync. inschakelen</string>
   <string name="xiaomi_service_number">Service nummer</string>
   <string name="yellowpage_recommend_msg">Probeer MIUI\'s SMS bericht functies uit</string>
   <string name="yes">OK</string>

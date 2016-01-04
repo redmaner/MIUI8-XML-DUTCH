@@ -67,20 +67,20 @@
         <item>Notitie</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Toon ontvangsttijd</item>
-        <item>Toon verzendtijd (gebruikt servertijd)</item>
+        <item>Ontvangen</item>
+        <item>Verzonden</item>
     </string-array>
 	<string-array name="entries_date_type_rightvalue">
         <item>Ontvangen</item>
         <item>Verzonden</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Via bericht</item>
-        <item>Via cloudbericht</item>
+        <item>SMS</item>
+        <item>Mi Message</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Via bericht</item>
-        <item>Via cloudbericht</item>
+        <item>SMS</item>
+        <item>Mi Messaget</item>
     </string-array>
 	    <string-array name="entries_sms_validity_period">
         <item>Niet ingesteld</item>
@@ -94,6 +94,10 @@
         <item>Maximum</item>
         <item>2 dagen</item>
     </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Alle berichten sync.</item>
+        <item>Sync. berichten van geselecteerde SIM kaarten</item>
+    </string-array>		
     <string-array name="select_dialog_items">
         <item>1 seconde</item>
         <item>2 seconden</item>
