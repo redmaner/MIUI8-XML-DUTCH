@@ -48,6 +48,7 @@
   <string name="account_vip_level">Account</string>
   <string name="account_vip_task">Verloop</string>
   <string name="account_xiaomi_service">Diensten</string>
+  <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur te activeren</string>
   <string name="add_account">Account verbinden</string>
   <string name="alert_title_remove_account">Account verwijderen?</string>
   <string name="app_name">Mi account</string>
@@ -62,6 +63,7 @@
   <string name="binded">Verbonden</string>
   <string name="binded_description" formatted="false">"%s succesvol gebonden. Voltooi je profiel met de persoonlijke informatie %s."</string>
   <string name="button_unbind">Verbinding verbreken</string>
+  <string name="change_activate_email">E-mailadres wijzigen</string>
   <string name="change_email_address">E-mailadres wijzigen</string>
   <string name="change_password">Wachtwoord wijzigen</string>
   <string name="change_phone_number">Telefoonnr. wijzigen</string>
@@ -69,8 +71,7 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="cloud_service_dspt">"Sync. uw foto\'s, contacten, notities, apps, en nog veel meer op al uw apparaten."</string>
   <string name="completed">Helemaal klaar</string>
-  <string name="confirm_email_address_dialog_message">Verificatie code zal verzonden worden naar: %s.</string>
-  <string name="confirm_email_address_dialog_title">Bevestig e-mailadres</string>
+  <string name="confirm_activate_email">Bevestigd</string>
   <string name="confirm_phone_number_dialog_message">Verificatie code zal verzonden worden naar: %s.</string>
   <string name="confirm_phone_number_dialog_title">Bevestig telefoonnr.</string>
   <string name="confirm_unbind">Dit account verbreken?</string>
@@ -87,8 +88,6 @@
   <string name="device_list__header">Mijn apparaten</string>
   <string name="device_list_title">Mijn apparaten</string>
   <string name="device_trust_info">Vertrouwd apparaat</string>
-  <string name="email_send_verify_code_prompt">"E-mail verzenden naar %s
-Gelieve de verificatiecode in te voeren in de e-mail"</string>
   <string name="empty_device_list_notice">Geen apparaten</string>
   <string name="error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een ander Mi account.</string>
   <string name="error_invalid_bind_address">Het ingevoerde e-mailadres is ongeldig.</string>
@@ -96,8 +95,8 @@ Gelieve de verificatiecode in te voeren in de e-mail"</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al gekoppeld aan een ander Mi account</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
-  <string name="get_email_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit e-mailadres. Wacht 24 uur en probeer opnieuw.</string>
   <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
+  <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
   <string name="just_a_second">Een momentje…</string>
   <string name="loading_micloud_sync_data">Een momentje…</string>
   <string name="logout_failed">Kan niet uitloggen</string>
@@ -262,7 +261,8 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
   <string name="passport_xiaomi_account_dspt">Gebruik uw Mi account om aan te melden bij Mi Cloud, MIUI Thema Store en Mi Store, waar je ook bent.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">Aanmelden bij uw Mi account vereist een internetverbinding en locatietoegang. Mi Cloud en Mi VIP worden automatisch ingeschakeld.</string>
+<string name="passport_xiaomi_account_sec_dspt2">Er is een internetverbinding nodig om aan te melden op uw Mi account. Locatie toegang en Mi Cloud zullen automatisch worden ingeschakeld.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Er is een internetverbinding nodig aan te melden op uw Mi account. Locatie toegang, Mi Cloud en Mix VIP zullen automatisch worden ingeschakeld.</string>
   <string name="phone_activated">%s geactiveerd</string>
   <string name="phone_send_verify_code_prompt">Verzend verificatiecode naar %s</string>
   <string name="phone_unactivated">Niet geactiveerd</string>
@@ -277,12 +277,15 @@ die verzonden is naar je Postvak In."</string>
   <string name="removing_account">Uitloggen…</string>
   <string name="rename_current_device">Apparaatnaam wijzigen</string>
   <string name="replace_binded_phone">Vervang telefoon</string>
-  <string name="restart_action">Herstarten</string>
-  <string name="restart_email_bind_message">Een e-mail met een verificatiecode zal worden verzonden naar dit adres.</string>
-  <string name="restart_email_bind_title">Verander herstel e-mail</string>
-  <string name="restart_phone_bind_message">Een SMS met een verificatiecode zal worden verzonden naar dit nummer.</string>
+  <string name="resend_active_email">Herverzenden</string>
+  <string name="resend_email_reach_limit_message">Je hebt te veel verificatie e-mails gevraagd. Zorg ervoor dat de verificatie e-mail niet in de map ongewenst zit</string>
+  <string name="resend_email_reach_limit_title">Kan e-mail niet verzenden</string>
+  <string name="resend_email_success">E-mail herverzonden</string>
+  <string name="restart_action">Bgin opnieuw</string>
+  <string name="restart_phone_bind_message">Het kan enige tijd duren om SMS te ontvangen. Toch opnieuw beginnen?</string>
   <string name="restart_phone_bind_title">Verander hersteltelefoon</string>
   <string name="scan_barcode_title">Om op je Mi account in te loggen, scan de QR code</string>
+  <string name="send_email_activate_message">Verificatie e-mail verzonden</string>
   <string name="service_error">Servicefout</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sns_access_token_expired_warning">Account aanmelding is verlopen. Meld opnieuw aan om dit account opnieuw te koppelen.</string>
