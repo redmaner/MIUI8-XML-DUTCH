@@ -265,13 +265,13 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="apps_with_restrictions_header">Apps met beperkingen</string>
   <string name="apps_with_restrictions_settings_button">Inst. uitbreiden voor app</string>
   <string name="ask_compatibility">Vragen bij starten</string>
-  <string name="assist_access_context_summary">Heeft de hulp app toe tot de inhoud van het scherm als tekst</string>
+  <string name="assist_access_context_summary">Sta de hulpapp toe om toegang te krijgen tot de inhoud van het scherm als tekst</string>
   <string name="assist_access_context_title">Gebruik tekst van het scherm</string>
-  <string name="assist_access_screenshot_summary">Heeft de hulp app toegang tot een afbeelding van het scherm</string>
+  <string name="assist_access_screenshot_summary">Sta de hulpapp toe om toegang te krijgen tot een afbeelding van het scherm</string>
   <string name="assist_access_screenshot_title">Gebruik schermafdruk</string>
   <string name="assist_and_voice_input_title">Hulp &amp; spraakinvoer</string>
-  <string name="assist_footer">Hulp apps kunnen u helpen op basis van informatie van het scherm die u bekijkt. Sommige apps ondersteunen zowel de launcher en spraakinvoer diensten om u geïntegreerde bijstand te geven.</string>
-  <string name="assistant_security_warning">De assistent is in staat om informatie te lezen over apps die in gebruik zijnop uw systeem, met inbegrip van informatie zichtbaar op je scherm of toegankelijk binnen de apps.</string>
+  <string name="assist_footer">Hulpapps kunnen u helpen op basis van informatie van het scherm dat u bekijkt. Sommige apps ondersteunen zowel launcher- als spraakinvoer diensten om u geïntegreerde bijstand te geven.</string>
+  <string name="assistant_security_warning">De assistent is in staat om informatie te lezen over apps die in gebruik zijn op uw systeem, met inbegrip van informatie zichtbaar op je scherm of toegankelijk binnen de apps.</string>
   <string name="assistant_security_warning_agree">Akkoord</string>
   <string name="assistant_security_warning_disagree">Niet akkoord</string>
   <string name="assistant_security_warning_title">%s uw assistent maken?</string>
@@ -286,7 +286,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="auto_caps">Automatisch hoofdlettergebruik</string>
   <string name="auto_caps_summary">Eerste letters in zinnen met hoofdletter</string>
   <string name="auto_launch_disable_text">Geen standaardwaarden ingesteld.</string>
-  <string name="auto_launch_enable_text">U hebt ervoor gekozen om deze app standaard te open voor sommige acties.</string>
+  <string name="auto_launch_enable_text">U hebt ervoor gekozen om deze app standaard te openen voor sommige acties.</string>
   <string name="auto_launch_label">Openen als standaard</string>
   <string name="auto_launch_label_generic">Standaardinstellingen</string>
   <string name="auto_punctuate">Automatische interpunctie</string>
@@ -300,7 +300,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="automatic_brightness">Automatische helderheid</string>
   <string name="available_size">%s beschikbaar</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
-  <string name="average_memory_use">Gemiddeld geheugen verbruik</string>
+  <string name="average_memory_use">Gemiddeld geheugenverbruik</string>
   <string name="average_used">Gemiddeld gebruikt (%)</string>
   <string name="awake">Stand-by tijd apparaat</string>
   <string name="back_key">Terug</string>
@@ -315,7 +315,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="backup_data_title">Back-up maken van mijn gegevens</string>
   <string name="backup_erase_dialog_message">Weet u zeker dat u het maken van back-ups van uw Wi-Fi wachtwoorden, bladwijzers, andere instellingen en appgegevens wilt stoppen en alle kopieën op Google servers wilt verwijderen?</string>
   <string name="backup_erase_dialog_title"/>
-  <string name="backup_inactive_title">Back-up dienst is niet actief.</string>
+  <string name="backup_inactive_title">Back-updienst is niet actief.</string>
   <string name="backup_pw_cancel_button_text">Annuleren</string>
   <string name="backup_pw_set_button_text">Wachtwoord voor back-up instellen</string>
   <string name="backup_section_title">Back-up en herstel</string>
@@ -336,7 +336,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="battery_desc_camera">Batterij gebruikt door camera</string>
   <string name="battery_desc_display">Batterij gebruikt door scherm en achtergrondverlichting</string>
   <string name="battery_desc_flashlight">Batterij gebruikt door flitser</string>
-  <string name="battery_desc_overcounted">Over geteld stroomverbruik</string>
+  <string name="battery_desc_overcounted">Overgeteld stroomverbruik</string>
   <string name="battery_desc_radio">Batterij gebruikt door radio</string>
   <string name="battery_desc_standby">Batterij gebruikt wanneer apparaat inactief is</string>
   <string name="battery_desc_unaccounted">Overig stroomverbruik</string>
@@ -388,10 +388,10 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="battery_info_voltage_label">Batterij voltage:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Batterijniveau</string>
-  <string name="battery_msg_unaccounted">Gebruik de batterij is een onderlinge aanpassing van stroomverbruik en bevat niet elke bron van het  batterijverbruik. Overig verschil tussen de berekende geschatte stroomverbruik en de feitelijke drain waargenomen op de batterij.</string>
-  <string name="battery_saver">Batterij bespaarder</string>
+  <string name="battery_msg_unaccounted">Batterijgebruik is een benadering van het stroomverbruik en omvat niet elke bron die batterij heeft verbruikt. Overig stroomverbruik is het verschil tussen het berekende geschatte stroomverbruik en de daadwerkelijke drain waargenomen op de batterij.</string>
+  <string name="battery_saver">Batterijbespaarder</string>
   <string name="battery_saver_turn_on_automatically_never">Nooit</string>
-  <string name="battery_saver_turn_on_automatically_pct">%1$s op de batterij</string>
+  <string name="battery_saver_turn_on_automatically_pct">bij %1$s batterij</string>
   <string name="battery_saver_turn_on_automatically_title">Automatisch inschakelen</string>
   <string name="battery_settings">Batterij</string>
   <string name="battery_settings_title">Batterij</string>
@@ -418,7 +418,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="battery_sugg_wifi">Schakel Wi-Fi uit wanneer u dit niet gebruikt of wanneer dit niet beschikbaar is</string>
   <string name="battery_summary">%1$d%% gebruik sinds laatste volledige oplading</string>
   <string name="bearer">Bearer</string>
-  <string name="ble_scan_notify_text">Om locatie nauwkeurigheid te verbeteren, kunnen systeem apps en diensten nog steeds detecteren Bluetooth apparaten. U kunt dit wijzigen in LINK_BEGIN scannen instellingen LINK_END.</string>
+  <string name="ble_scan_notify_text">Om locatienauwkeurigheid te verbeteren, kunnen systeemapps- en diensten nog steeds Bluetooth apparaten detecteren. U kunt dit wijzigen in LINK_BEGIN scannen instellingen LINK_END.</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Verbonden met audio van medium</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Gebruiken voor audio van medium</string>
@@ -426,14 +426,14 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="bluetooth_ask_discovery">Een app wil uw apparaat %1$d seconden zichtbaar maken voor andere Bluetooth-apparaten.</string>
   <string name="bluetooth_ask_enablement">Een app wil Bluetooth inschakelen voor dit apparaat.</string>
   <string name="bluetooth_ask_enablement_and_discovery">"wilt Bluetooth inschakelen en uw apparaat %1$d seconden zichtbaar maken voor andere apparaten.</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">wilt je Bluetooth inschakelen en zichtbaar maken voor andere apparaten voor %1$d seconden."</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">wilt Bluetooth inschakelen en zichtbaar maken voor andere apparaten voor %1$d seconden."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">wilt Bluetooth inschakelen en zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth instellingen.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"wilt je Bluetooth inschakelen zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth instellingen."</string>
-  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s wil Bluetooth inschakelen en Bluetooth uitzenden om te communiceren met nabijgelegen andere apparaten. U kunt deze later in de Bluetooth instellingen wijzigen.</string>
+  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s wil Bluetooth inschakelen en Bluetooth uitzenden om te communiceren met andere apparaten in de buurt. U kunt dit later in de Bluetooth instellingen wijzigen.</string>
   <string name="bluetooth_ask_enablement_detected">"wilt je Bluetooth inschakelen."</string>
   <string name="bluetooth_ask_lasting_discovery">Een app wil uw apparaat zichtbaar maken voor andere Bluetooth apparaten. U kunt dit later wijzigen in de Bluetooth instellingen.</string>
-  <string name="bluetooth_ask_start_broadcast">%1$s wil Bluetooth uitzenden inschakelen om te communiceren met nabijgelegen andere apparaten. U kunt deze later in de Bluetooth instellingen wijzigen.</string>
-  <string name="bluetooth_auto_connect">Automatische verbinding maken</string>
+  <string name="bluetooth_ask_start_broadcast">%1$s wil Bluetooth uitzenden inschakelen om te communiceren met andere apparaten in de buurt. U kunt dit later in de Bluetooth instellingen wijzigen.</string>
+  <string name="bluetooth_auto_connect">Automatisch verbinding maken</string>
   <string name="bluetooth_broadcasting">Uitzenden</string>
   <string name="bluetooth_broadcasting_explaination">"Wanneer deze functie is ingeschakeld, kan uw telefoon communiceren met andere apparaten in de buurt.
 
@@ -455,7 +455,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Inkomende bestandsoverdracht toestaan</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Verbinden met Bluetooth apparaat</string>
   <string name="bluetooth_device_advanced_online_mode_title">Verbinden</string>
-  <string name="bluetooth_device_advanced_profile_header_title">Gebruikt voor</string>
+  <string name="bluetooth_device_advanced_profile_header_title">Gebruik voor</string>
   <string name="bluetooth_device_advanced_rename_device">Naam wijzigen</string>
   <string name="bluetooth_device_advanced_title">Gekoppeld Bluetooth apparaat</string>
   <string name="bluetooth_device_context_connect">Verbinden</string>
@@ -491,7 +491,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_empty_list_user_restricted">U hebt geen toestemming om de Bluetooth instellingen te wijzigen.</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN code bevat letters of symbolen</string>
-  <string name="bluetooth_enter_passkey_msg">Typ de koppelingscode en druk op Return of Enter</string>
+  <string name="bluetooth_enter_passkey_msg">Typ de koppelingscode en druk op Terug of Enter</string>
   <string name="bluetooth_enter_passkey_other_device">U moet deze toegangscode wellicht ook opgeven op het andere apparaat.</string>
   <string name="bluetooth_enter_pin_other_device">U moet deze PIN code wellicht ook opgeven op het andere apparaat.</string>
   <string name="bluetooth_error_title"/>
@@ -536,8 +536,8 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_pairing_pin_error_message">Kan niet koppelen met %1$s vanwege een onjuiste PIN code of toegangscode.</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeling geweigerd door %1$s.</string>
   <string name="bluetooth_pairing_request">Koppelen met %1$s?</string>
-  <string name="bluetooth_pairing_shares_phonebook">%1$s toegang toestaan tot uw contacten en belgeschiedenis</string>
-  <string name="bluetooth_pairing_will_share_phonebook">Koppelen verleent toegang tot uw contacten en belgeschiedenis wanneer verbonden.</string>
+  <string name="bluetooth_pairing_shares_phonebook">Sta %1$s toe toegang te krijgen tot uw contacten en belgeschiedenis</string>
+  <string name="bluetooth_pairing_will_share_phonebook">Koppelen zorgt ervoor dat u toegang verleent tot uw contacten en belgeschiedenis wanneer verbonden.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Lokale internetverbinding delen met apparaat</string>
   <string name="bluetooth_pan_profile_summary_use_for">Gebruik voor internettoegang</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Verbonden met apparaat voor internet</string>
@@ -553,14 +553,14 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_preference_no_found_devices">Geen apparaten beschikbaar</string>
   <string name="bluetooth_preference_paired_devices">Gekoppelde apparaten</string>
   <string name="bluetooth_preference_paired_dialog_contacts_option">Contacten en belgeschiedenis</string>
-  <string name="bluetooth_preference_paired_dialog_internet_option">Internet verbinding</string>
+  <string name="bluetooth_preference_paired_dialog_internet_option">Internetverbinding</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">Toetsenbord</string>
   <string name="bluetooth_preference_paired_dialog_name_label">Naam</string>
   <string name="bluetooth_preference_paired_dialog_title">Gekoppeld apparaat</string>
   <string name="bluetooth_preference_scan_title">Scannen naar apparaten</string>
   <string name="bluetooth_profile_a2dp">Media audio</string>
   <string name="bluetooth_profile_details">Profielinstellingen</string>
-  <string name="bluetooth_profile_dun">Dial-up Netwerk toegang</string>
+  <string name="bluetooth_profile_dun">Dial-up netwerktoegang</string>
   <string name="bluetooth_profile_headset">Telefoonaudio</string>
   <string name="bluetooth_profile_hid">Invoerapparaat</string>
   <string name="bluetooth_profile_map">Toegang tot berichten</string>
@@ -575,7 +575,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_remember_choice">Niet meer vragen</string>
   <string name="bluetooth_rename_button">Naam wijzigen</string>
   <string name="bluetooth_rename_device">Naam wijzigen voor dit apparaat</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s wil toegang tot uw SIM kaart. Het verlenen van toegang tot de SIM kaart zal de data verbinding uitschakelen op het apparaat voor de duur van de verbinding. Geeft toegang tot %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s wil toegang tot uw SIM kaart. Het verlenen van toegang tot de SIM kaart zal de dataverbinding uitschakelen op het apparaat voor de duur van de verbinding. Toegang geven tot %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Verbonden met SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Gebruikt voor SIM toegang</string>
   <string name="bluetooth_sap_request">SIM toegangsverzoek</string>
@@ -632,8 +632,8 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bt_trace_log">Bluetooth Trace log inschakelen</string>
   <string name="bt_trace_log_summary">Bluetooth trace log inschakelen</string>
   <string name="bugreport_in_power">Bugrapport snelkoppeling</string>
-  <string name="bugreport_in_power_summary">Toon een knop in power menu voor het nemen van een bugrapport</string>
-  <string name="build_number">Bouwnummer</string>
+  <string name="bugreport_in_power_summary">Toon een knop in het powermenu voor het maken van een bugrapport</string>
+  <string name="build_number">Buildnummer</string>
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
   <string name="button_disconnect_network">Verbreek de verbinding met het netwerk</string>
@@ -643,10 +643,10 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="cache_header_label">Cachegeheugen</string>
   <string name="cache_size_label">Cachegeheugen</string>
   <string name="cached">Gecachet achtergrondproces</string>
-  <string name="call_manager_enable_summary">Deze dienst toestaan hoe uw gesprekken worden gemaakt te beheren.</string>
-  <string name="call_manager_enable_title">Oproep manager inschakelen</string>
+  <string name="call_manager_enable_summary">Deze dienst toestaan om te beheren hoe uw gesprekken worden gemaakt.</string>
+  <string name="call_manager_enable_title">Oproepmanager inschakelen</string>
   <string name="call_manager_summary">%1$s</string>
-  <string name="call_manager_title">Oproep manager</string>
+  <string name="call_manager_title">Oproepmanager</string>
   <string name="call_settings_summary">Voicemail, gesprekken doorschakelen, wisselgesprek en beller-id instellen</string>
   <string name="call_settings_title">Gespreksinstellingen</string>
   <string name="calls_title">Oproepen</string>
@@ -674,7 +674,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="captioning_background_color">Achtergrondkleur</string>
   <string name="captioning_background_opacity">Transparantie van achtergrond</string>
   <string name="captioning_custom_options_title">Aangepaste opties</string>
-  <string name="captioning_edge_color">Rand kleur</string>
+  <string name="captioning_edge_color">Randkleur</string>
   <string name="captioning_foreground_color">Tekstkleur</string>
   <string name="captioning_foreground_opacity">Tekstdekking</string>
   <string name="captioning_locale">Taal</string>
@@ -684,8 +684,8 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="captioning_standard_options_title">Standaardopties</string>
   <string name="captioning_text_size">Tekengrootte</string>
   <string name="captioning_typeface">Lettertype familie</string>
-  <string name="captioning_window_color">Onderschrift venster kleur</string>
-  <string name="captioning_window_opacity">Onderschrift venster dekking</string>
+  <string name="captioning_window_color">Onderschrift vensterkleur</string>
+  <string name="captioning_window_opacity">Onderschrift vensterdekking</string>
   <string name="carrier_enabled">APN inschakelen/uitschakelen</string>
   <string name="carrier_enabled_summaryOff">APN uitgeschakeld</string>
   <string name="carrier_enabled_summaryOn">APN ingeschakeld</string>
@@ -696,13 +696,13 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="category_personal">Privé</string>
   <string name="category_work">Werk</string>
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
-  <string name="cell_broadcast_settings">Nood uitzendingen</string>
+  <string name="cell_broadcast_settings">Nooduitzendingen</string>
   <string name="cellular_data_summary">Sta dataverbruik via het mobiele netwerk toe</string>
   <string name="cellular_data_title">Mobiele data</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Wijzigen</string>
   <string name="change_password">Wachtwoord wijzigen</string>
-  <string name="change_security_lock">Prbeer andere manieren om te ontgrendelen</string>
+  <string name="change_security_lock">Probeer andere manieren om te ontgrendelen</string>
   <string name="change_storage">Opslag wijzigen</string>
   <string name="charging_sounds_title">Geluiden laden</string>
   <string name="check_find_device_status_failure_confirm">Ok</string>
@@ -716,9 +716,9 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="children_mode_tips_off">Na het inschakelen van kindermodus, tikt u op de knop Home om terug te keren naar het startscherm.</string>
   <string name="children_mode_tips_on">Na het uitschakelen van kindermodus, tikt u op de knop Home om terug te keren naar het startscherm.</string>
   <string name="children_mode_title">Kindermodus</string>
-  <string name="choose_assist_title">Hulp app kiezen</string>
+  <string name="choose_assist_title">Hulpapp kiezen</string>
   <string name="choose_profile">Profiel kiezen</string>
-  <string name="choose_smartcover_type">Typegeval kiezen</string>
+  <string name="choose_smartcover_type">Type hoesje kiezen</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="cleaner">Opruimer</string>
   <string name="clear_activities">Standaardwaarden wissen</string>
@@ -760,9 +760,9 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="configure_input_method">Invoermethoden instellen</string>
   <string name="confirm_action">Ok</string>
   <string name="confirm_download_cancelation_dialog_message">Download annuleren?</string>
-  <string name="confirm_enable_multi_window_text">WAARSCHUWING: Dit is een zeer experimentele functie die meerdere activiteiten mogelijk maakt op het scherm op hetzelfde moment door de recente apps UI. Sommige apps kunnen crashen of niet goed functioneren in combinatie met deze functie.</string>
+  <string name="confirm_enable_multi_window_text">WAARSCHUWING: Dit is een zeer experimentele functie die meerdere activiteiten op het scherm mogelijk maakt op hetzelfde moment via het recente apps scherm. Sommige apps kunnen crashen of niet goed functioneren in combinatie met deze functie.</string>
   <string name="confirm_enable_multi_window_title">Multi-windowmodus inschakelen?</string>
-  <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaat bescherming functies zullen niet werken op dit apparaat, terwijl deze instelling is ingeschakeld.</string>
+  <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Functies voor apparaatbescherming zullen niet werken op dit apparaat, wanneer deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM deblokkering toestaan?</string>
   <string name="confirm_erase">Wissen</string>
   <string name="confirm_fingerprint_icon_content_description">Gebruik uw vingerafdruk om door te gaan.</string>
@@ -775,7 +775,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="contributors_title">Bijdragers</string>
   <string name="controls_label">Bedieningselementen</string>
   <string name="controls_subtitle">Energieverbruik aanpassen</string>
-  <string name="convenience_key_category_title">Comfort sleutel</string>
+  <string name="convenience_key_category_title">Comfortsleutel</string>
   <string name="copyright_title">Auteursrecht</string>
   <string name="country_name">%s (systeem)</string>
   <string name="create">Aanmaken</string>
@@ -804,11 +804,11 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="crypt_keeper_confirm_title">Versleutelen?</string>
   <string name="crypt_keeper_data_corrupt_summary">"Het door u ingevoerde wachtwoord is juist, maar helaas is uw data corrupt.
 
-Om verder te gaan met uw telefoon, moet u de fabrieksinstellingen terugzetten. Wanneer u uw telefoon instelt na de reset, zult u de mogelijkheid hebben om alle data die werd geback-uped naar uw Google account te herstellen."</string>
+Om verder te gaan met uw telefoon, moet u de fabrieksinstellingen terugzetten. Wanneer u uw telefoon instelt na de reset, zult u de mogelijkheid hebben om alle data die werd geback-upt naar uw Google account te herstellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Decodering mislukt</string>
-  <string name="crypt_keeper_desc">"U kunt uw instellingen, gedownloade apps en de bijbehorende gegevens, media en andere bestanden van uw accounts versleutelen. Nadat  u uw telefoon versleuteld hebt , ervan uitgaande dat je hebt een vergrendelscherm hebt ingestelt (dat is, een patroon of een numerieke pincode of wachtwoord), moet u het scherm ontgrendelen om de telefoon te decoderen telkens wanneer u het inschakelt. De enige andere manier om te decoderen is om een fabriekinstellingen reset uit te voeren, wist al uw gegevens.
+  <string name="crypt_keeper_desc">"U kunt uw instellingen, gedownloade apps en de bijbehorende gegevens, media en andere bestanden van uw accounts versleutelen. Nadat u uw telefoon versleuteld hebt, ervan uitgaande dat je een vergrendelscherm hebt ingestelt (dat is, een patroon of een numerieke pincode of wachtwoord), moet u het scherm ontgrendelen om de telefoon te decoderen telkens wanneer u het inschakelt. De enige andere manier om te decoderen is om een fabrieksreset uit te voeren, daarmee wist u al uw gegevens.
 
-Codering duurt een uur of meer. Je moet beginnen met opgeladen van de batterij en houd uw telefoon aangesloten gedurende het hele proces. Als je dit onderbreekt, zult u sommige of al uw gegevens verliezen."</string>
+Codering duurt een uur of meer. Je moet beginnen met het opladen van de batterij en houd uw telefoon aangesloten gedurende het hele proces. Als je dit onderbreekt, zult u sommige of al uw gegevens verliezen."</string>
   <string name="crypt_keeper_dialog_need_password_message">U moet een PIN code of wachtwoord voor schermvergrendeling instellen voordat u de encryptie kunt starten.</string>
   <string name="crypt_keeper_dialog_need_password_title">Geen PIN code of wachtwoord voor schermvergrendeling</string>
   <string name="crypt_keeper_encrypt_title">Apparaat versleutelen</string>
@@ -819,51 +819,51 @@ Codering duurt een uur of meer. Je moet beginnen met opgeladen van de batterij e
 Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen. Wanneer u het apparaat instelt na het herstel, krijgt u de mogelijkheid gegevens waarvan u een back-up heeft gemaakt in uw Google account, terug te zetten."</string>
   <string name="crypt_keeper_failed_title">Encryptie mislukt</string>
   <string name="crypt_keeper_final_desc">De coderingsbewerking kan niet ongedaan worden gemaakt en als u de bewerking onderbreekt, gaan er gegevens verloren. Het coderen duurt een uur of langer en het apparaat wordt meerdere keren opnieuw opgestart.</string>
-  <string name="crypt_keeper_force_power_cycle">Om uw telefoon te ontgrendel, schakel die uit en dan terug in.</string>
+  <string name="crypt_keeper_force_power_cycle">Om uw telefoon te ontgrendelen, schakel hem uit en dan weer aan.</string>
   <string name="crypt_keeper_low_charge_text">Laad de batterij op en probeer het opnieuw.</string>
   <string name="crypt_keeper_settings_title">Encryptie</string>
   <string name="crypt_keeper_setup_description">Wacht totdat uw apparaat is gecodeerd. 1 procent voltooid.</string>
-  <string name="crypt_keeper_setup_time_remaining">Wacht terwijl de telefoon gecodeerd wordt. Overgebleven tijd: ^1</string>
+  <string name="crypt_keeper_setup_time_remaining">Wacht terwijl de telefoon gecodeerd wordt. Resterende tijd: ^1</string>
   <string name="crypt_keeper_setup_title">Coderen</string>
   <string name="crypt_keeper_switch_input_method">Invoermethode schakelen</string>
   <string name="crypt_keeper_unplugged_text">Sluit uw lader aan en probeer het opnieuw.</string>
-  <string name="crypt_keeper_warn_wipe">Waarschuwing: Het apparaat zal gewist worden na nog ^1 mislukte pogingen om te ontgrendeld!</string>
+  <string name="crypt_keeper_warn_wipe">Waarschuwing: Het apparaat zal gewist worden na nog ^1 mislukte pogingen om te ontgrendelen!</string>
   <string name="cryptkeeper_emergency_call">Noodoproep</string>
   <string name="cryptkeeper_return_to_call">Terug naar gesprek</string>
-  <string name="cryptkeeper_wrong_password">Verkeerd paswoord</string>
+  <string name="cryptkeeper_wrong_password">Verkeerd wachtwoord</string>
   <string name="cryptkeeper_wrong_pattern">Verkeerd patroon</string>
   <string name="cryptkeeper_wrong_pin">Verkeerde PIN</string>
   <string name="current_backup_pw_prompt">Typ hier uw huidige wachtwoord voor volledige back-up</string>
   <string name="current_input_method">Huidig toetsenbord</string>
-  <string name="current_screen_lock">huidige schermvergrendeling</string>
-  <string name="current_use_ese">Met behulp van geïntegreerde veilig element</string>
+  <string name="current_screen_lock">Huidige schermvergrendeling</string>
+  <string name="current_use_ese">Met behulp van geïntegreerd veilig element</string>
   <string name="current_use_uicc_se">Met behulp van veilig element op de SIM kaart</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (rood-groen)</string>
   <string name="daltonizer_mode_disabled">Uitgeschakeld</string>
-  <string name="daltonizer_mode_monochromacy">Monochromacy</string>
-  <string name="daltonizer_mode_protanomaly">Protanomaly (rood-groen)</string>
-  <string name="daltonizer_mode_tritanomaly">Tritanomaly (blauw-geel)</string>
+  <string name="daltonizer_mode_monochromacy">Monochromasie</string>
+  <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
   <string name="daltonizer_type">Correctiemodus</string>
   <string name="daltonizer_type_overridden">Verworpen door %1$s</string>
   <string name="dashboard_title">Instellingen</string>
   <string name="data_size_label">Gegevens</string>
-  <string name="data_summary_format">%1$s used since %2$s</string>
-  <string name="data_switch_started">Switching data SIM, this may take up to a minute...</string>
-  <string name="data_usage_accounting">Carrier data accounting may differ from your device.</string>
-  <string name="data_usage_app">App usage</string>
-  <string name="data_usage_app_info_label">APP INFO</string>
-  <string name="data_usage_app_items_header_text">App verbruik</string>
-  <string name="data_usage_app_restrict_background">App achtergrond data beperken</string>
-  <string name="data_usage_app_restrict_background_summary">Achtergrond data op mobiele netwerken uitschakelen .</string>
-  <string name="data_usage_app_restrict_background_summary_disabled">Om achtergrondgegevens voor deze app te beperken, stel eerst een mobiel data limiet in.</string>
-  <string name="data_usage_app_restrict_dialog">"Deze functie kan een app die afhankelijk is van achtergrondgegevens stoppen met werken veroorzaken, wanneer slechts mobiele netwerken beschikbaar zijn.
+  <string name="data_summary_format">%1$s gebruikt sinds %2$s</string>
+  <string name="data_switch_started">Data SIM verwisselen, dit kan een minuutje duren...</string>
+  <string name="data_usage_accounting">Dataverbruik berekend door uw provider kan afwijken van wat uw apparaat weergeeft.</string>
+  <string name="data_usage_app">Appverbruik</string>
+  <string name="data_usage_app_info_label">APPINFO</string>
+  <string name="data_usage_app_items_header_text">Appverbruik</string>
+  <string name="data_usage_app_restrict_background">App achtergronddata beperken</string>
+  <string name="data_usage_app_restrict_background_summary">Achtergronddata op mobiele netwerken uitschakelen .</string>
+  <string name="data_usage_app_restrict_background_summary_disabled">Om achtergrondgegevens voor deze app te beperken, stelt u eerst een mobiel datalimiet in.</string>
+  <string name="data_usage_app_restrict_dialog">"Deze functie kan ervoor zorgen dat een app die afhankelijk is van achtergrondgegevens stopt met functioneren, wanneer slechts mobiele netwerken beschikbaar zijn.
 
 U kunt meer geschikte besturingselementen voor gegevensgebruik vinden in de instellingen van de app."</string>
   <string name="data_usage_app_restrict_dialog_title">Achtergrondgegevens beperken?</string>
   <string name="data_usage_app_restricted">Beperkt</string>
-  <string name="data_usage_app_settings">App instellingen</string>
-  <string name="data_usage_app_summary_title">App data verbruik</string>
-  <string name="data_usage_auto_sync_off_dialog">Dit zal gegevens en gebruik van de batterij sparen, maar u moet elke account handmatig sync. om de recente informatie te verzamelen. En u zal geen meldingen ontvangen wanneer updates zijn.</string>
+  <string name="data_usage_app_settings">Appinstellingen</string>
+  <string name="data_usage_app_summary_title">App dataverbruik</string>
+  <string name="data_usage_auto_sync_off_dialog">Dit zal mobiele data en batterij sparen, maar u moet elk account handmatig sync. om de recente informatie te verzamelen. U zal ook geen meldingen ontvangen wanneer er updates zijn.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Auto-sync gegevens uitschakelen?</string>
   <string name="data_usage_auto_sync_on_dialog">"Wijzigingen die u aanbrengt in uw accounts op internet worden automatisch naar uw apparaat gekopieerd.
 
