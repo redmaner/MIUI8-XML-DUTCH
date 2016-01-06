@@ -2098,14 +2098,14 @@ Selecteer het OS van uw computer:"</string>
   <string name="notification_app_settings_button">Meldingsinstellingen</string>
   <string name="notification_breathing_light_color_title">Kleur bij meldingen</string>
   <string name="notification_breathing_light_freq_title">Meldingen LED oplichtingsfrequentie</string>
-  <string name="notification_listener_security_warning_summary">%1$s zal in staat zijn om alle meldingen, waaronder persoonlijke informatie zoals namen van contactpersonen en de tekst van de berichten die u ontvangt te lezen. Het zal ook in staat zijn om meldingen af te wijzen of om actieknoppen te bevatten.</string>
-  <string name="notification_listener_security_warning_title">Melding toegang toestaan voor %1$s?</string>
+  <string name="notification_listener_security_warning_summary">%1$s zal in staat zijn om alle meldingen, waaronder persoonlijke informatie zoals namen van contactpersonen en de tekst van de berichten die u ontvangt te lezen. Het zal ook in staat zijn om meldingen af te wijzen of om actieknoppen te gebruiken.</string>
+  <string name="notification_listener_security_warning_title">Meldingtoegang toestaan voor %1$s?</string>
   <string name="notification_log_title">Meldingslog</string>
-  <string name="notification_pulse_title">Knipperd meldingslicht</string>
+  <string name="notification_pulse_title">Knipperend meldingslicht</string>
   <string name="notification_ringtone_title">Standaardmeldingsgeluid</string>
   <string name="notification_section_header">Melding</string>
   <string name="notification_settings">Geluid &amp; melding</string>
-  <string name="notification_settings_apps_title">App meldingen</string>
+  <string name="notification_settings_apps_title">Appmeldingen</string>
   <string name="notification_sound_dialog_title">Standaardmeldingsgeluid</string>
   <string name="notification_sound_title">Standaardmeldingsgeluid</string>
   <string name="notification_volume_option_title">Meldingsvolume</string>
@@ -2124,7 +2124,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">OEM specifieke gegevens/instellingen</string>
   <string name="oem_unlock_enable">OEM deblokkering</string>
-  <string name="oem_unlock_enable_summary">Laat de bootloader om te ontgrendelen</string>
+  <string name="oem_unlock_enable_summary">Toestaan dat de bootloader van het apparaat kan worden ontgrendeld</string>
   <string name="okay">Ok</string>
   <string name="oldman_mode_confirm_title">Telefoon herstarten?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Lite modus verlaten?</string>
@@ -2148,8 +2148,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="other_relative">Overige</string>
   <string name="other_sound_settings">Overige geluiden</string>
   <string name="overlay_display_devices_title">Secundaire beeldschermen simuleren</string>
-  <string name="overlay_settings">Draw over other apps</string>
-  <string name="owner_info_settings_edit_text_hint">E.g., Joe’s Android.</string>
+  <string name="overlay_settings">Tekenen over andere apps</string>
+  <string name="owner_info_settings_edit_text_hint">Bijv. Joe’s Android.</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Geen</string>
   <string name="owner_info_settings_title">Eigenaarsgegevens</string>
@@ -2205,7 +2205,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_page2_title">Voorbeeld</string>
   <string name="page_layout_small_title">KLEIN</string>
   <string name="passpoint_content">%1$s aanbevelingen</string>
-  <string name="passpoint_label">Opgeslaan via</string>
+  <string name="passpoint_label">Opgeslagen via</string>
   <string name="passwordIncorrect">Het ingevoerde wachtwoord is niet juist</string>
   <string name="password_entrance_title">Wachtwoord</string>
   <string name="password_guard">Wachtwoord</string>
@@ -2221,7 +2221,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="permit_draw_overlay">Tekening toestaan over andere apps</string>
   <string name="permit_usage_access">Gebruikstoegang toestaan</string>
   <string name="permit_write_settings">Aanpassen van systeeminstellingen toestaan</string>
-  <string name="personal_data_section_title">Privé gegevens</string>
+  <string name="personal_data_section_title">Privégegevens</string>
   <string name="personal_device_admin_title">Privé</string>
   <string name="phone_call_noise_suppression">Onderdruk ruis tijdens gesprekken</string>
   <string name="phone_info_label">Apparaatinformatie</string>
@@ -2253,8 +2253,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_charging_duration_ac">%1$s - %2$s tot volledig vol op AC</string>
   <string name="power_charging_duration_usb">%1$s - %2$s tot volledig vol over USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig vol op draadloos</string>
-  <string name="power_discharge_remaining">%1$s overblijvend</string>
-  <string name="power_discharging_duration">%1$s - ongeveer. %2$s overblijvend</string>
+  <string name="power_discharge_remaining">%1$s resterend</string>
+  <string name="power_discharging_duration">%1$s - ongeveer. %2$s resterend</string>
   <string name="power_flashlight">Flitser</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS gebruik</string>
   <string name="power_hide_mode_title">Beheer batterijverbruik van apps</string>
@@ -2269,13 +2269,13 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_unaccounted">Overige</string>
   <string name="power_usage_history">Batterijgebruik</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
-   <string name="power_usage_list_summary">Gebruikkt sinds de laatste volledige oplading</string>
+   <string name="power_usage_list_summary">Gebruikt sinds de laatste volledige oplading</string>
   <string name="power_usage_not_available">Accugebruikgegevens niet beschikbaar.</string>
   <string name="power_usage_summary">Waarvoor de batterij is gebruikt</string>
   <string name="power_usage_summary_title">Batterij &amp; prestatie</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="ppp_number">ppp_number</string>
-  <string name="pref_button_light">Knoplichten</string>
+  <string name="pref_button_light">Knopverlichting</string>
   <string name="pref_button_light_summary">Menu, Home en Terug knop verlichten</string>
   <string name="pref_edge_handgrip">Edge besturing</string>
   <string name="pref_operational_key">Navigatieknoppen</string>
@@ -2293,7 +2293,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="preferred_application_warning_title">Vervang standaard %s</string>
   <string name="preferred_application_warning_use_system">Gebruik %s</string>
   <string name="preferred_media_app_summary">Kies muziekspeler</string>
-  <string name="preferred_network_offload_footer">Netwerknaam uitzending uitschakelen beschermt u tegen derden die toegang willen krijgen tot uw netwerk informatie.</string>
+  <string name="preferred_network_offload_footer">Netwerknaam uitzending uitschakelen beschermt u tegen derden die toegang willen krijgen tot uw netwerkinformatie.</string>
   <string name="preferred_network_offload_header">Netwerknaam uitzending uitschakelen</string>
   <string name="preferred_network_offload_popup">Netwerknaam uitzending uitschakelen voorkomt automatische verbinding met verborgen netwerken.</string>
   <string name="preferred_network_offload_title">Voorkeursnetwerk Offload</string>
@@ -2348,7 +2348,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="private_sms_need_to_unlock">Wachtwoord benodigd:</string>
   <string name="private_sms_recording_intro_header">Teken een ontgrendelpatroon:</string>
   <string name="private_sms_reset_by_account">Log in op uw Mi account om uw wachtwoord te resetten.</string>
-  <string name="process_dex2oat_label">App optimalisatie</string>
+  <string name="process_dex2oat_label">Appoptimalisatie</string>
   <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android besturingssysteem</string>
   <string name="process_mediaserver_label">Mediaserver</string>
@@ -2489,7 +2489,7 @@ Selecteer het OS van uw computer:"</string>
 U verliest geen app gegevens."</string>
   <string name="reset_app_preferences_title">Appvoorkeuren herstellen?</string>
   <string name="reset_legacy_password_settings_preface_text">U moet uw vergrendelscherm wachtwoord opnieuw instellen.</string>
-  <string name="reset_network_button_text">Inste resetten</string>
+  <string name="reset_network_button_text">Instellingen resetten</string>
   <string name="reset_network_complete_toast">Netwerkinstellingen zijn gereset</string>
   <string name="reset_network_confirm_title">Resetten?</string>
   <string name="reset_network_desc">"Dit zal alle netwerkinstellingen resetten, inclusief:
@@ -2515,7 +2515,7 @@ U verliest geen app gegevens."</string>
   <string name="restriction_menu_change_pin">PIN code wijzigen</string>
   <string name="restriction_menu_reset">Beperkingen verwijderen</string>
   <string name="restriction_nfc_enable_summary">Gegevensuitwisseling toestaan wanneer het apparaat een ander apparaat fysiek raakt</string>
-  <string name="restriction_nfc_enable_summary_config">Gegevensuitwisseling Toestaan wanneer deze %1$s een ander NFC apparaat aanraakt</string>
+  <string name="restriction_nfc_enable_summary_config">Gegevensuitwisseling toestaan wanneer deze %1$s een ander NFC apparaat aanraakt</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Beperkingen</string>
   <string name="restriction_wifi_config_summary">Aanpassing van mobiele en Wi-Fi instellingen toestaan</string>
@@ -2563,8 +2563,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="runningservices_settings_title">Actieve diensten</string>
   <string name="runtime_permissions_summary_no_permissions_granted">Geen toestemming verleend</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Geen toestemming gevraagd</string>
-  <string name="save">Opgeslaan</string>
-  <string name="saved_network">Saved by %1$s</string>
+  <string name="save">Opslaan</string>
+  <string name="saved_network">Opgeslagen door %1$s</string>
   <string name="scan_list_label">Scanresultaten:</string>
   <string name="screen">Scherm</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
@@ -2610,20 +2610,21 @@ Om schermpinning te gebruiken:
 
 1. Verzeker u ervan dat schermpinning ingeschakeld is.
 
-2. Open het scherm die u wilt pinnen.
+2. Open het scherm dat u wilt pinnen.
 
 3. Raak overzicht aan.
 
-4. Veeg omhoog en raak het pin icoon aan."</string>
+4. Veeg omhoog en raak het pin-icoon aan."</string>
   <string name="screen_pinning_title">Schermpinning</string>
   <string name="screen_pinning_unlock_none">Apparaat vergrendelen bij het losmaken</string>
-  <string name="screen_pinning_unlock_password">Vraag wachtwoord voor het los te maken</string>
-  <string name="screen_pinning_unlock_pattern">Vraag patroon voor het los te maken</string>
-  <string name="screen_pinning_unlock_pin">Vraag PIN voor het los te maken</string>
+  <string name="screen_pinning_unlock_password">Vraag wachtwoord voor het losmaken</string>
+  <string name="screen_pinning_unlock_pattern">Vraag patroon voor het losmaken</string>
+  <string name="screen_pinning_unlock_pin">Vraag PIN voor het losmaken</string>
   <string name="screen_resolution_confirm">Herstarten</string>
   <string name="screen_resolution_summary">Het verlagen van de resolutie van het beeldscherm kan de levensduur van de batterij en de snelheid van het systeem verhogen, maar de beelden op het scherm kunnen dan minder duidelijk zijn. Uw apparaat moet opnieuw opgestart worden om deze wijziging door te voeren.</string>
   <string name="screen_resolution_switch">Resolutie wijzigen</string>
-  <string name="screen_resolution_title">Scrhermresolutie</string><string name="screen_saturation">Kleurverzadiging</string>
+  <string name="screen_resolution_title">Schermresolutie</string>
+  <string name="screen_saturation">Kleurverzadiging</string>
   <string name="screen_timeout">Slaap</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Slaapmodus</string>
@@ -2640,7 +2641,7 @@ Om schermpinning te gebruiken:
   <string name="sd_card_settings_label">SD kaart</string>
   <string name="sd_card_storage">SD kaart opslag</string>
   <string name="sd_eject">SD kaart ontkoppelen</string>
-  <string name="sd_eject_summary">Ontkoppel deSD kaart zodat die veilig verwijderd kan worden</string>
+  <string name="sd_eject_summary">Ontkoppel de SD kaart zodat die veilig verwijderd kan worden</string>
   <string name="sd_ejecting_summary">Ontkoppelen wordt uitgevoerd</string>
   <string name="sd_ejecting_title">Ontkoppelen</string>
   <string name="sd_format">SD kaart opslag wissen</string>
@@ -2702,7 +2703,7 @@ Om schermpinning te gebruiken:
   <string name="search_wallpaper">Achtergrond</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="secure_keyguard_business_title">Wachtwoord vergrendelscherm</string>
-  <string name="secure_lock_encryption_warning">Omdat u een toegankelijkheid service hebt ingeschakeld , zal het toestel geen gebruik maken om uw scherm te vergrendelen om de data encryptie te verbeteren.</string>
+  <string name="secure_lock_encryption_warning">Omdat u een toegankelijkheidsservice hebt ingeschakeld , zal het toestel geen gebruik maken van uw schermvergrendeling om de data-encryptie te verbeteren.</string>
   <string name="security_enable_widgets_disabled_summary">Uitgeschakeld door beheerder</string>
   <string name="security_enable_widgets_title">Widgets inschakelen</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
@@ -2717,28 +2718,28 @@ Om schermpinning te gebruiken:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Verwijderen</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Naam</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Naast het ontgrendelen van uw telefoon, kunt u ook uw vingerafdruk gebruiken om aankopen en toegang tot apps toe te staan. &lt;aantekening id="url"&gt;Meer info&lt;/aantekening&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">De schermvergrendelingsoptie is uitgeschakeld. U kunt nog steeds gebruik maken van uw vingerafdruk om aankopen en toegang tot apps toe te staan. &lt;aantekening id="url"&gt;Meer info&lt;/aantekening&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Naast het ontgrendelen van uw telefoon, kunt u ook uw vingerafdruk gebruiken om aankopen te doen en toegang tot apps toe te staan. &lt;aantekening id="url"&gt;Meer info&lt;/aantekening&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">De schermvergrendelingsoptie is uitgeschakeld. U kunt nog steeds gebruik maken van uw vingerafdruk om aankopen te doen en toegang tot apps toe te staan. &lt;aantekening id="url"&gt;Meer info&lt;/aantekening&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Klaar</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Illustratie met het apparaat en vingerafdruksensor locatie</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Illustratie van het apparaat en locatie van de vingerafdruksensor</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Zoek de vingerafdruksensor op de achterkant van je telefoon.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Vind sensor</string>
   <string name="security_settings_fingerprint_enroll_finish_message">Wanneer u dit pictogram ziet, kunt u uw vingerafdruk gebruiken voor identificatie of om een aankoop te autoriseren.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Vingerafdruk toegevoegd!</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Annuleren</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Doorgaan</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">Raak de vingerafdruksensor aan om uw telefoon te ontgrendelen, aankopen te autoriseren, of om aan te melden op apps. Wees voorzichtig met vingerafdrukken van wie u toevoegt - toegevoegde vingerafdrukken zijn ook in staat om deze dingen te doen.</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message_warning">Let op: Uw vingerafdruk is mogelijk minder veilig dan dat een sterk patroon of PIN zijn.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">Raak de vingerafdruksensor aan om uw telefoon te ontgrendelen, aankopen te autoriseren, of om aan te melden bij apps. Wees voorzichtig met vingerafdrukken van wie u toevoegt - toegevoegde vingerafdrukken zijn ook in staat om deze dingen te doen.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_warning">Let op: uw vingerafdruk is mogelijk minder veilig dan een sterk patroon of PIN.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Meer info</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Ontgrendelen met vingerafdruk</string>
-  <string name="security_settings_fingerprint_enroll_lift_touch_again">Linkse vinger, dan de sensor weer aanraken</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message">Om uw vingerafdruk gebruiken om uw scherm te ontgrendelen of aankopen te bevestigen, moet u:</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message_1">Stel uw back-p scherm vergrendelingsmethode in</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Linkervinger, dan de sensor weer aanraken</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message">Om uw vingerafdruk te gebruiken om uw scherm te ontgrendelen of aankopen te bevestigen, moet u:</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message_1">Stel uw back-up schermvergrendelingsmethode in</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_2">Uw vingerafdruk toevoegen</string>
-  <string name="security_settings_fingerprint_enroll_onboard_title">Instellen vingerafdruk</string>
-  <string name="security_settings_fingerprint_enroll_repeat_message">Beweeg uw vinger iets om alle verschillende onderdelen toe te voegen van uw vingerafdruk</string>
+  <string name="security_settings_fingerprint_enroll_onboard_title">Vingerafdruk instellen</string>
+  <string name="security_settings_fingerprint_enroll_repeat_message">Beweeg uw vinger iets om alle verschillende onderdelen van uw vingerafdruk toe te voegen</string>
   <string name="security_settings_fingerprint_enroll_repeat_title">Goed! Nu herhalen</string>
-  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Instellen schermvergrendeling</string>
+  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Schermvergrendeling instellen</string>
   <string name="security_settings_fingerprint_enroll_start_message">Leg uw vinger op de sensor en til hem op nadat u een trilling voelt</string>
   <string name="security_settings_fingerprint_enroll_start_title">Laten we beginnen!</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_message">Gebruik de vingerafdruksensor op uw apparaat.</string>
@@ -2789,7 +2790,7 @@ Om schermpinning te gebruiken:
   <string name="settings_safetylegal_activity_unreachable">U heeft geen gegevensverbinding. Als u deze informatie nu wilt weergeven, gaat u op een computer met internetverbinding naar %s.</string>
   <string name="settings_safetylegal_title">Veiligheidsinformatie</string>
   <string name="settings_shortcut">Instellingen voor snelkoppeling</string>
-  <string name="setup_fingerprint_enroll_finish_message">Raak de vingerafdruksensor om uw apparaat te wekken en te ontgrendelen.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Raak de vingerafdruksensor aan om uw apparaat te ontwaken en te ontgrendelen.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Wanneer u dit pictogram ziet, kunt u uw vingerafdruk gebruiken.</string>
   <string name="setup_wifi_nfc_tag">Wi-Fi NFC Tag instellen</string>
   <string name="setup_wizard_back_button_label">Terug</string>
@@ -2835,7 +2836,7 @@ Om schermpinning te gebruiken:
   <string name="sim_cards_changed_message_summary">Aanraken om activiteiten in te stellen</string>
   <string name="sim_cellular_data_unavailable">Mobiele data is niet beschikbaar</string>
   <string name="sim_cellular_data_unavailable_summary">Aanraken om een data SIM te selecteren</string>
-  <string name="sim_change_data_message">Gebruik %1$s in de plaats van %2$s voor mobiele data?</string>
+  <string name="sim_change_data_message">Gebruik %1$s in plaats van %2$s voor mobiele data?</string>
   <string name="sim_change_data_title">Data SIM wijzigen?</string>
   <string name="sim_change_failed">"Kan PIN niet wijzigen.
 PIN code mogelijk onjuist."</string>
@@ -2863,23 +2864,23 @@ PIN code mogelijk onjuist.</string>
   <string name="sim_lock_settings_category">SIM vergrendeling instellen</string>
   <string name="sim_lock_settings_title">SIM kaart vergrendeling</string>
   <string name="sim_management_title">SIM kaarten &amp; mobiele netwerken</string>
-  <string name="sim_multi_sims_summary">SIM kiezen dat uvoor mobile data verkiest.</string>
+  <string name="sim_multi_sims_summary">SIM kiezen die u voor mobiele data verkiest.</string>
   <string name="sim_multi_sims_title">Meerdere SIMs gevonden</string>
   <string name="sim_name_hint">SIM naam invoeren</string>
   <string name="sim_no_inserted_msg">SIM kaarten ingevoerd</string>
   <string name="sim_notification_summary">Aanraken om in te stellen</string>
-  <string name="sim_notification_title">SIM cards changed.</string>
-  <string name="sim_other_call_settings">Other call settings</string>
+  <string name="sim_notification_title">Sim kaarten veranderd.</string>
+  <string name="sim_other_call_settings">Andere belinstellingen</string>
   <string name="sim_outgoing_call_title">SIM voor uitgaande oproepen</string>
   <string name="sim_pin_change">SIM PIN code wijzigen</string>
   <string name="sim_pin_toggle">SIM kaart vergrendelen</string>
   <string name="sim_pins_dont_match">PINs komen niet overeen</string>
   <string name="sim_pref_divider">Voorkeuze SIM voor</string>
-  <string name="sim_preferred_message">%1$s is de enige SIM in uw apparaat.Wilt u deze SIM voor mobiele data, gesprekken en SMS berichten gebruiken?</string>
+  <string name="sim_preferred_message">%1$s is de enige SIM in uw apparaat. Wilt u deze SIM voor mobiele data, gesprekken en SMS berichten gebruiken?</string>
   <string name="sim_preferred_title">Voorkeuze SIM kaart updaten?</string>
   <string name="sim_radio_off">Niet geactiveerd</string>
   <string name="sim_reenter_new">Nieuwe PIN opnieuw invoeren</string>
-  <string name="sim_select_card">Selecteer eenSIM kaart</string>
+  <string name="sim_select_card">Selecteer een SIM kaart</string>
   <string name="sim_selection_required_pref">Selectie is nodig</string>
   <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM kaarten</string>
@@ -2897,7 +2898,7 @@ PIN code mogelijk onjuist.</string>
   <string name="smallwindow_smartcover_title">Doorzichtig hoesje</string>
   <string name="smartcover_sensitive_title">Smartcover modus</string>
   <string name="sms_application_title">SMS app</string>
-  <string name="sms_change_default_dialog_text">Gebruik %1$s in de plaats van %2$s als uw SMS app?</string>
+  <string name="sms_change_default_dialog_text">Gebruik %1$s in plaats van %2$s als uw SMS app?</string>
   <string name="sms_change_default_dialog_title">SMS app wijzigen?</string>
   <string name="sms_change_default_no_previous_dialog_text">Wilt u %s gebruiken als standaard SMS app?</string>
   <string name="sms_delivered_sound_dialog_title">Kies geluid voor ontvangen SMS</string>
@@ -3015,7 +3016,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Cached data</string>
-  <string name="storage_detail_dialog_other">"Andere bevatten gedeelde bestanden opgeslaan door apps, gedownloade bestanden van het internet of Bluetooth, Android bestanden, en zovoort. 
+  <string name="storage_detail_dialog_other">"Andere bevat gedeelde bestanden opgeslagen door apps, gedownloade bestanden van het internet of Bluetooth, Androidbestanden, enzovoort. 
 
 Om de volledige inhoud te zien van dit  ^1, raak Explore aan."</string>
   <string name="storage_detail_dialog_user">"^1 kunnen foto's, muziek, films, apps of andere gegevens die ^2 van het geheugen innemen. 
@@ -3037,7 +3038,7 @@ Om ^1 te gebruiken met dit apparaat, moet u het eerst instellen."</string>
   <string name="storage_external_title">Draagbare opslag</string>
   <string name="storage_format">Formatteren</string>
   <string name="storage_format_failure">Kon %1$s niet formateren</string>
-  <string name="storage_format_success">%1$s is formatted</string>
+  <string name="storage_format_success">%1$s is geformatteerd</string>
   <string name="storage_internal_forget_confirm">Alle apps, foto\'s, en data opgeslagen op ^1 zullen voor altijd verloren gaan.</string>
   <string name="storage_internal_forget_confirm_title">^1 vergeten?</string>
   <string name="storage_internal_forget_details">"Om de apps, foto's of data te gebruiken die op ^1 staan, moet u die terug plaatsen. 
@@ -3056,7 +3057,7 @@ Verplaats uw mediabestanden naar alternatieve opslag op dit apparaat of breng ze
 
 "&lt;b&gt;Apps back-uppen&lt;/b&gt;" 
 Alle apps opgeslagen op ^1 zullen worden verwijderd en hun data wordet gewist. To keep these apps, move them to alternative storage on this device."</string>
-  <string name="storage_internal_title">Apparaat opslag</string>
+  <string name="storage_internal_title">Apparaatopslag</string>
   <string name="storage_internal_unmount_details">&lt;b&gt;Wanneer u ^1 uitwerpt, apps die er opgeslagen zijn zaullen stoppen met werken en de media bestanden zullen niet meer beschikbaar zijn totdat u het teruggeplaatst.&lt;/b&gt;" 
 Dit ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal&amp;#8217;niet werken op andere apparatten."</string>
   <string name="storage_label">Opslagruimte</string>
@@ -3064,9 +3065,9 @@ Dit ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal&amp;#8217;n
   <string name="storage_low_title">Opslagruimte is bijna vol</string>
   <string name="storage_menu_explore">Verkennen</string>
   <string name="storage_menu_forget">Vergeten</string>
-  <string name="storage_menu_format">Formateren</string>
-  <string name="storage_menu_format_private">Formateren al intern</string>
-  <string name="storage_menu_format_public">Formateren als draagbare</string>
+  <string name="storage_menu_format">Formatteren</string>
+  <string name="storage_menu_format_private">Formatteren al intern</string>
+  <string name="storage_menu_format_public">Formatteren als draagbare</string>
   <string name="storage_menu_migrate">Data migreren</string>
   <string name="storage_menu_mount">Koppelen</string>
   <string name="storage_menu_rename">Naam wijzigen</string>
@@ -3085,7 +3086,7 @@ Dit ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal&amp;#8217;n
   <string name="storage_type_external">Externe opslag</string>
   <string name="storage_type_internal">Interne opslag</string>
   <string name="storage_unmount_failure">Kon %1$s niet veilig uitwerpen</string>
-  <string name="storage_unmount_success">%1$s is vei uitgeworpen</string>
+  <string name="storage_unmount_success">%1$s is veilig uitgeworpen</string>
   <string name="storage_usb_settings">Opslag &amp; USB</string>
   <string name="storage_used">Gebruikte opslag</string>
   <string name="storage_volume_summary">%1$s gebruikt van %2$s</string>
@@ -3101,7 +3102,7 @@ Na het formateren, zal ^1 alleen werkenop dit apparaat.
 
 "&lt;b&gt;Formatteren wist alle gegevens die momenteel zijn opgeslagen op de ^1.&lt;/b&gt;" Om verlies van de data te voorkomen, overweeg om een back-up te maken. "</string>
   <string name="storage_wizard_format_confirm_public_title">Formateren als draagbare opslag</string>
-  <string name="storage_wizard_format_confirm_title">Formateren als interne opslag</string>
+  <string name="storage_wizard_format_confirm_title">Formatteren als interne opslag</string>
   <string name="storage_wizard_format_progress_body">^1 niet verwijderen tijdens het formateren.</string>
   <string name="storage_wizard_format_progress_title">Formateren van ^1…</string>
   <string name="storage_wizard_init_external_summary">OM van foto\'s en andere media tussen apparaten te verplaatsen.</string>
@@ -3114,7 +3115,7 @@ Na het formateren, zal ^1 alleen werkenop dit apparaat.
 De verplaatsing duurt ongeveer ^2 en zal ^3 ruimte vrijmaken op het intern geheugen. Sommige apps zullen niet werken tijdens de verplaatsing."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;De verplaatsing duurt ongeveer ^1 en zal ^2 ruimte vrijmaken op ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Verplaatsen</string>
-  <string name="storage_wizard_migrate_confirm_title">Data nou verplaatsen</string>
+  <string name="storage_wizard_migrate_confirm_title">Data nu verplaatsen</string>
   <string name="storage_wizard_migrate_details">"Tijdens de verplaatsing: 
 • Verwijder ^1 niet. 
 • Sommige apps zullen niet goed werken. 
@@ -3196,7 +3197,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Systeemupdates</string>
   <string name="tap_to_wake">Tik om te ontwaken</string>
-  <string name="tap_to_wake_summary">Eender waar op het scherm dubbel tikken om het apparaat te ontwaken</string>
+  <string name="tap_to_wake_summary">Op een willekeurige plek op het scherm dubbeltikken om het apparaat te ontwaken</string>
   <string name="terms_title">Algemene voorwaarden</string>
   <string name="testing">Testen</string>
   <string name="testing_phone_info">Telefooninformatie</string>
@@ -3230,7 +3231,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="total_memory">Totaal geheugen</string>
   <string name="total_size">%s totaal</string>
   <string name="total_size_label">Totaal</string>
-  <string name="touch_filtered_warning">Omdat een app toestemming verzoek verdoezeld ,kan Instellingen uw reactie niet controleren.</string>
+  <string name="touch_filtered_warning">Omdat een app toestemmingverzoek verdoezeld ,kan Instellingen uw reactie niet controleren.</string>
   <string name="touch_sensitive_summary">"Maakt het touchscreen extra gevoelig zodat u het met handschoenen aan kunt bedienen"</string>
   <string name="touch_sensitive_title">Handschoenmodus</string>
   <string name="touch_sensitive_turn_off_cancel">Annuleren</string>
