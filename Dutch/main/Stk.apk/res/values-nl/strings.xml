@@ -2,8 +2,6 @@
 <resources>
   <string name="alphabet">Alfabet</string>
   <string name="app_name">SIM Toolkit</string>
-  <string name="app_name2">SIM Toolkit2</string>
-  <string name="app_name3">SIM Toolkit3</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_no">Nee</string>
   <string name="button_ok">OK</string>
@@ -11,20 +9,25 @@
   <string name="default_call_setup_msg">Gesprek bezig…</string>
   <string name="default_close_channel_msg">Kanaal gesloten</string>
   <string name="default_open_channel_msg">Kanaal openen?</string>
-  <string name="default_receive_data_msg">Ontvangt data</string>
-  <string name="default_send_data_msg">Verzend data</string>
-  <string name="default_setup_call_msg">Instellen gesprek…</string>
-  <string name="default_tone_dialog_msg">Speelt beltoon</string>
+  <string name="default_receive_data_msg">Data ontvangen</string>
+  <string name="default_send_data_msg">Data verzenden</string>
+  <string name="default_setup_call_msg">Oproep wordt ingesteld</string>
+  <string name="default_tone_dialog_msg">Geluid afspelen</string>
   <string name="digits">Cijfers(0-9, *, #, +)</string>
-  <string name="disable_app">Uit</string>
-  <string name="enable_app">Aan</string>
+  <string name="disable_app">Uitschakelen</string>
+  <string name="enable_app">Inschakelen</string>
   <string name="help">Terug</string>
   <string name="menu_back">Vorige</string>
-  <string name="menu_end_session">Einde sessie</string>
+  <string name="menu_end_session">Sessie beëindigen</string>
+  <string name="no_sim_card_inserted">Gelieve SIM in te voeren om SIM Toolkit te openen.</string>
   <string name="service_name">Service naam</string>
-  <string name="stk_app_state">Verzoek te vermelden</string>
-  <string name="stk_dialog_accept">Aanvaarden</string>
-  <string name="stk_dialog_reject">Afwijzen</string>
-  <string name="stk_dialog_title">SIM Toolkit</string>
+  <string name="sim_type_sim_name">SIM Toolkit</string>
+  <string name="sim_type_uim_name">UIM Toolkit</string>
+  <string name="sim_type_usim_name">USIM Toolkit</string>
+  <string name="stk_app_state">App status</string>
+  <string name="stk_dialog_accept">JA</string>
+  <string name="stk_dialog_reject">NEE</string>
+  <string name="stk_dialog_title">SIM ToolKit</string>
+  <string name="stk_intent_permission">STK Intents toestaan</string>
   <string name="stk_no_service">Geen service beschikbaar</string>
 </resources>

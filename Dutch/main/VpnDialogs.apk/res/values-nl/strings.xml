@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept">Ik vertrouw deze app.</string>
   <string name="configure">Configureren</string>
   <string name="data_received">Ontvangen:</string>
   <string name="data_transmitted">Verzonden:</string>
@@ -8,7 +7,7 @@
   <string name="disconnect">Verbinding verbreken</string>
   <string name="duration">Duur:</string>
   <string name="legacy_title">Verbinding met VPN</string>
-  <string name="prompt">%s pogingen om een VPN verbinding te maken.</string>
+  <string name="prompt">Verbindingsverzoek.</string>
   <string name="session">Sessie:</string>
-  <string name="warning">Als u doorgaat, geeft u de app toestemming om al het netwerkverkeer te onderscheppen. &lt;b&gt;Ga NIET akkoord, tenzij u de app vertrouwt.&lt;/b&gt; Anders loopt u het risico dat uw gegevens worden gecomprimeerd door schadelijke software.</string>
+  <string name="warning">%s wilt een VPN-verbindinginstellen die het mogelijk maakt om het netwerkverkeer te controleren. Alleen accepteren als u de bron vertrouwt.&lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt;verschijnt aan de bovenkant van het scherm wanneer VPN actief is.</string>
 </resources>
