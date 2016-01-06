@@ -88,6 +88,9 @@
   <string name="control_vol_by_cellphone">Gebruik het apparaat om het volume te regelen</string>
   <string name="controller_list">Afstandsbedieningen</string>
   <string name="cool_mode">Koud</string>
+  <string name="create_shortcut_cancel">No thanks</string>
+  <string name="create_shortcut_confirm">Aanmaken</string>
+  <string name="create_shortcut_done">Met succes aangemaakt</string>
   <string name="current_place">Huidige positie:</string>
   <string name="current_play">Speelt nu:  </string>
   <string name="current_stb">Huidige:</string>
@@ -95,6 +98,7 @@
   <string name="current_version_latest">Geen udates beschikbaar</string>
   <string name="data_request_error">Kon info niet verkrijgen</string>
   <string name="day">D</string>
+  <string name="day_string">Japan</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_confirm">Apparaat verwijderen?</string>
   <string name="delete_desc">"U zult “%s” niet kunnen bedienen met behulp van de Mi afstandsbediening."</string>
@@ -122,15 +126,26 @@
   <string name="edit_controller">(huidig)</string>
   <string name="edit_ir_device">Naam apparaat wijzigen</string>
   <string name="eject">Uitwerpen</string>
+  <string name="empty_name_tip">Afstandsbediening die geen naam heeft~</string>
+  <string name="epg_all_channels">Alle kanalen</string>
+  <string name="epg_bookable">Voorbehouden</string>
+  <string name="epg_booked">Gereserveerde</string>
   <string name="epg_booked_str">Planning</string>
   <string name="epg_bottom_subtitle_textview_str">Koppel settopbox voor meer details</string>
   <string name="epg_bottom_subtitle_textview_str2">Klik om afstandsbediening weer te geven</string>
   <string name="epg_bottom_title_textview_str">Klik om settopbox te koppelen</string>
+  <string name="epg_change_channel">Voor Taiwan</string>
   <string name="epg_channel_group_open">Alles weergeven</string>
   <string name="epg_detail_title_text">Uitleg</string>
+  <string name="epg_details_episode">Artikel %1$s verzameling</string>
   <string name="epg_episode_open">Alles weergeven</string>
-  <string name="epg_name">"TV programma's"</string>
+  <string name="epg_fav_channels">Favoriete kanalen</string>
+  <string name="epg_hot_channels">Populaire kanalen</string>
+  <string name="epg_hot_programs">Populaire programma\'s</string>
+  <string name="epg_loading_hint">Mobiele controle is een belangrijke set-top box </string>
+  <string name="epg_name">TV programma\'s</string>
   <string name="epg_status_playing_text">Speelt nu…</string>
+  <string name="epg_status_playing_text_v5">Wonen in</string>
   <string name="epg_unbooked_str">Niet gepland</string>
   <string name="episode_intro_title_text">Samenvatting aflevering</string>
   <string name="episode_title">Aflevering %1$d</string>
@@ -163,6 +178,7 @@
   <string name="gesture_pad_sencond_line_tips">Tik op &amp; Houd het centrale gedeelte van het scherm om het menu te bekijken. Schuif omhoog of omlaag om het volume aan te passen.</string>
   <string name="gesture_pad_vol_tips">Gebruik de volumeknoppen van apparaat om het volume van verbonden apparaat aan te passen</string>
   <string name="get_info_failed">Kon info niet verkrijgen</string>
+  <string name="get_location_fail_tip">De locatie van de storing automatisch verkrijgen, handmatig een stad instellen</string>
   <string name="guid_one">· Verbind met hetzelfde Wi-Fi netwerk als het doelapparaat</string>
   <string name="guid_three">"· Sommige besturingselementen zijn mogelijk niet beschikbaar als uw tv of set-top box geen Android ondersteund"</string>
   <string name="guid_two">· Router AP Isolation uitschakelen</string>
@@ -193,7 +209,7 @@
   <string name="ir_device_amp">Versterker</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
-  <string name="ir_device_dvb_s">Kabel/Sat box</string>
+  <string name="ir_device_dvb_s">Kabel/Sateliet box</string>
   <string name="ir_device_dvd">DVD speler</string>
   <string name="ir_device_fan">Ventilator</string>
   <string name="ir_device_iptv">IPTV</string>
@@ -213,6 +229,7 @@
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_wifi">Wi-Fi afstandsbediening</string>
   <string name="jump_to_mivideo">Bekijken op mobiel apparaat</string>
+  <string name="just_now">Zopas</string>
   <string name="just_used">Zopas</string>
   <string name="key_press_vibrate">Trillen bij aanraken</string>
   <string name="last_use_frame">%1$s geleden</string>
@@ -240,8 +257,8 @@
   <string name="match_count_frame">Koppel %1$d/%2$d afstandsbediening</string>
   <string name="match_count_tip_frame">Test knoppen (%1$d/%2$d)</string>
   <string name="match_data">Koppelinfo</string>
-  <string name="match_data_error_tips">"Ik heb de beschikbare gegevens niet. Om verder te gaan, 
-probeer opnieuw"</string>
+  <string name="match_data_error_tips">Kon geen info verkrijgen
+Ga terug om door te gaan</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Werken de richtingsknoppen?</string>
   <string name="match_dvd_intro_pause">Vrijgeven wanneer DVD pauzeert</string>
@@ -312,6 +329,8 @@ Wacht een momentje na de handeling"</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV assistent Versie %1$s</string>
   <string name="mode">Modus</string>
+  <string name="month">Maand</string>
+  <string name="month_day_format">dd MMM</string>
   <string name="more">Meer</string>
   <string name="mute">Dempen</string>
   <string name="network_diagnosis">Netwerktest</string>
@@ -319,7 +338,7 @@ Wacht een momentje na de handeling"</string>
   <string name="network_ok">Geen problemen gevonden</string>
   <string name="network_unstable">· Je hebt een stabiele verbinding</string>
   <string name="next_step">Volgende</string>
-  <string name="no">Annuleren</string>
+  <string name="no">Nee</string>
   <string name="no_brand_service">Merk is momenteel niet beschikbaar</string>
   <string name="no_current_play">"Speelt nu: - "</string>
   <string name="no_data">Geen info</string>
@@ -480,21 +499,23 @@ Om je account te activeren, volg de
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Aanmelden bij uw Mi account vereist een internetverbinding. Daarnaast worden locatie toegang, Mi Cloud en Mi VIP automatisch ingeschakeld.</string>
   <string name="place_frame">Locatie:</string>
+  <string name="play_in_phone">In telefoon afspelen</string>
   <string name="play_on_tv">Spelen op TV</string>
+  <string name="playing_time">Afspeeltijd</string>
   <string name="please_enter">Mag niet leeg zijn</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="power">Power</string>
   <string name="press_to_continue_match">Tik om door te gaan</string>
   <string name="press_to_match">Tik om te koppelen</string>
-  <string name="privacy_content">"Door het gebruik van dit product, gaat u akkoord met ons "&lt;u&gt;Privacybeleid&lt;/u&gt; en &lt;u&gt;Servicevoorwaarden&lt;/u&gt;. Mi Remote moet verbinding hebben met het internet om normaal te kunnen werken.</string>
+  <string name="privacy_content">"Lees Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacybeleid&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; voordat u Mi Remote gebruikt. Toegang tot het internet en locatiediensten is nodig voor de app normaal te werken.</string>
   <string name="privacy_nohit">Niet meer opnieuw tonen</string>
   <string name="privacy_title">Algemene voorwaarden</string>
   <string name="projection_failed_for_disconnect">Apparaten niet verbonden</string>
   <string name="province">Provincie</string>
   <string name="pull_down_refresh">Naar beneden trekken om te vernieuwen</string>
   <string name="pull_up_refresh">Naar boven trekken om te vernieuwen</string>
-  <string name="push_add">Een gedeelde afstandsbediening</string>
-  <string name="push_add_desc">%1$s in de omgeving van afstandsbediening gebruiken</string>
+  <string name="push_add">Vond een afstandsbediening gedeeld met u</string>
+  <string name="push_add_desc">%1$s in de omgeving contrleren met deze afstandsbediening?</string>
   <string name="rc">Afstandsbediening</string>
   <string name="rc_name">Afstandsbediening</string>
   <string name="refreshing">Vernieuwen…</string>
@@ -567,6 +588,8 @@ Om je account te activeren, volg de
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Delen met Sina Weibo</string>
   <string name="share_to_others">Delen</string>
+  <string name="shortcut_pop_desc">Lijkt alsof je Mi Remote veel gebruikt. Een snelkoppeling op het startscherm?</string>
+  <string name="shortcut_pop_title">Snelkoppeling</string>
   <string name="similar">Aanverwante</string>
   <string name="somthing_wrong">Heb je problemen?</string>
   <string name="sorry">Fout</string>
@@ -596,6 +619,8 @@ Om je account te activeren, volg de
   <string name="to_qq_maintext">Word lid van onze groep en geef ons feedback</string>
   <string name="to_qq_subtext">QQ Groep： 259685862</string>
   <string name="tv_broadcast">TV en radio</string>
+  <string name="today">Vandaag</string>
+  <string name="tomorrow">Morgen</string>
   <string name="tv_mirror">Schermcontroles</string>
   <string name="tv_mirror_intro">Toon schermcontroles in landschapmodus</string>
   <string name="unknown">Onbekend</string>
@@ -633,10 +658,17 @@ Om je account te activeren, volg de
   <string name="video_play_count_label">"Bekeken: "</string>
   <string name="virtual_keyhboard">Gebruik het toetsenbord van apparaat </string>
   <string name="virtual_keyhboard_intro">Gebruik het toetsenbord van apparaat om op het scherm te typen</string>
+  <string name="voice_download_tips">"Niet gedetecteerde iFLYTEK voice-service, klikt u op \ "bevestigen \" om te downloaden"</string>
+  <string name="voice_download_title">Melding</string>
+  <string name="voice_engine_ifly_fail">Mislukkite spraakherkenning door iFLYTEK voice-service</string>
+  <string name="voice_record_start">Start de stemopname </string>
+  <string name="voice_resolving">Lopende spraakherkenning</string>
   <string name="volume">Volume</string>
   <string name="weather_out">Temperatuur buiten:</string>
   <string name="wind_direct">Windrichting</string>
+  <string name="wind_direct_automatic">Automatische </string>
   <string name="wind_direct_down">Geen</string>
+  <string name="wind_direct_manual">Handmatig</string>
   <string name="wind_direct_middle">Gemiddeld</string>
   <string name="wind_direct_up">Hoger</string>
   <string name="wind_speed">Windsnelheid</string>
@@ -645,5 +677,7 @@ Om je account te activeren, volg de
   <string name="wind_speed_low">Laag</string>
   <string name="wind_speed_medium">Medium</string>
   <string name="wind_sweep">Zwaaien</string>
-  <string name="yes">Verwijderen</string>
+  <string name="year_month_day_format">dd MMM, yyyy</string>
+  <string name="yes">Ja</string>
+  <string name="yesterday">Gisteren</string>
 </resources>
