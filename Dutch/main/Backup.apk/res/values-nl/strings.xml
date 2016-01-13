@@ -49,6 +49,7 @@
   <string name="button_next">Volgende</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Terug</string>
+  <string name="button_send">Verzenden</string>
   <string name="call_title">Belgeschiedenis</string>
   <string name="camera_summary">"Camera instellingen (foto's niet inbegrepen)"</string>
   <string name="cancel">Annuleren</string>
@@ -127,9 +128,13 @@
   <string name="local_no_backup">Geen lokale back-up(s).</string>
   <string name="local_restore_window_title">Lokaal herstel</string>
   <string name="local_select_account_contact">Accounts &amp; contacten</string>
+  <string name="local_select_audio">Audio \'s</string>
+  <string name="local_select_doc">Documenten</string>
   <string name="local_select_files">SD kaart</string>
+  <string name="local_select_image">Afbeeldingen</string>
   <string name="local_select_sysdata">Systeem</string>
   <string name="local_select_userapp">Apps</string>
+  <string name="local_select_video">Video\'s</string>
   <string name="miliao_account_guide">Maak een Mi Account aan om van alle online services te genieten</string>
   <string name="miliao_account_login">Login bij MiTalk</string>
   <string name="mms_title">Multimedia berichten</string>
@@ -191,6 +196,10 @@
   <string name="select_storage_location">Kies back-up locatie</string>
   <string name="service_stoped">Service gestopt</string>
   <string name="settings_summary">Apparaat- en berichtinstellingen</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Berichten</string>
   <string name="software_backup_info">Back-up apps en gegevens</string>
   <string name="start_backup">Back-up starten</string>
@@ -247,40 +256,55 @@
   <string name="trans_main_tutor">Contacten, belgeschiedenis, berichten, startschermlayout, apps, instellingen, enz. transferen naar een nieuw apparaat</string>
   <string name="trans_my_device">Mijn apparaat</string>
   <string name="trans_one_key_migrate">Transferen</string>
+  <string name="trans_operate_func_one">Methode A</string>
+  <string name="trans_operate_func_two">Methode B</string>
   <string name="trans_operate_new_phone_tips">"QR code scannen bij gebruik van nieuwe apparaat
 Ga naar Instellingen &gt; Extra instellingen &gt; Transferen
 Tik [ik ben een ontvanger] om een QR code te maken"</string>
-  <string name="trans_operate_old_phone_tips1">"Methode A
-1. Installeer Transferen app op uw oude apparaat
+  <string name="trans_operate_old_phone_tips1">"1. Installeer 
+Transferen app op uw oude apparaat
 2. Open de app en selecteer [Ik ben verzender]
 3. Scan de QR code met uw oude apparaat"</string>
-  <string name="trans_operate_old_phone_tips2">"Methode B
-Ga naar Instellingen &gt; Extra instellingen &gt; Transferen
-Tik [ik ben een ontvanger]"</string>
-  <string name="trans_progress_subdescript_br_receiver">%s ontvangen</string>
-  <string name="trans_progress_subdescript_br_sender">%s aan het back-uppen</string>
-  <string name="trans_progress_subdescript_transing_receiver">%s ontvangen</string>
-  <string name="trans_progress_subdescript_transing_sender">%s verzenden</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Bestanden ontvangen…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Bestanden verzenden…</string>
+  <string name="trans_operate_old_phone_tips2">"Ga naar instellingen &gt; Extra instellingen &gt; Transferen, Tik op [Ik ben verzender]"</string>
+  <string name="trans_progress_subdescript_br_receiver">Hersteld %1$s, %2$s voltooid</string>
+  <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s voltooid</string>
+  <string name="trans_progress_subdescript_transing_receiver">Ontvangt %1$s, %2$s voltooid</string>
+  <string name="trans_progress_subdescript_transing_sender">Verzend %1$s, %2$s voltooid</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Ontvangt bestanden, %s voltooid</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Verzend bestanden, %s voltooid</string>
   <string name="trans_progress_subdescript_waiting">Wachten om %s te ontvangen</string>
   <string name="trans_receiver">Ik ben een ontvanger</string>
+  <string name="trans_receiver_time_remained">"%s resterend. Apparaat goed opgeladen.
+Hotspot niet uitschakelen. Beide apparaten dicht bijeen houden."</string>
   <string name="trans_receiving_completed">Data ontvangen</string>
   <string name="trans_restoring">Herstellen…</string>
   <string name="trans_restoring_no_items">Sync. items</string>
   <string name="trans_scan_invalid_qrcode">Ongeldige QR code</string>
   <string name="trans_scan_qr_code_tips">Scan QR code met nieuwe apparaat</string>
-  <string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
+  
+  <string name="trans_select_data">Data kiezen</string>
+  <string name="trans_select_data_no_space">"%s beschikbaar op het nieuwe apparaat
+Betanden opnieuw selecteren of maak ruimte vrij"</string>
+  <string name="trans_select_data_tips">"Bestanden selecteren om te transferen
+Gelijkaardige bestand op het nieuwe apparaat zullen overschreven worden"</string><string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
   <string name="trans_select_device_send">Selecteer een apparaat om data naar te transferen.</string>
   <string name="trans_sender">Ik ben een verzender</string>
   <string name="trans_sender_connectting">Bevestigen op nieuwe apparaat</string>
   <string name="trans_sender_searching">Zoeken naar nieuwe apparaten</string>
   <string name="trans_sender_searching_ensurance">"Maak u er van bewust dat uw oude apparaat ingeschakeld is
 Wachten op oud apparaat om te verbinden…"</string>
+  <string name="trans_select_data">Data kiezen</string>
+  <string name="trans_select_data_no_space">"%s beschikbaar op het nieuwe apparaat
+Selecteer de bestanden opnieuw of maak ruimte vrij"</string>
+  <string name="trans_select_data_tips">"Selecteer bestanden om te transfereren
+Gelijkaardige bestanden p het nieuwe apparaat zullen overschreven worden"</string>
   <string name="trans_sending_completed">Data verzonden</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
   <string name="trans_time_format_second">Minder dan een minuut</string>
-  <string name="trans_time_remained">klaar binnen, </string>
+  <string name="trans_time_spent">"
+Tijd besteed %s"</string>
+  <string name="trans_wait_trans_data">"Verbonden met het oude apparaat.
+Wachten om te transfereren…"</string>
   <string name="trans_waiting_ensurance">"Maak u er van bewust dat uw oude apparaat ingeschakeld is
 en dat overdracht ingeschakeld is"</string>
   <string name="trans_waiting_for_sender">Wachten op oude apparaat om te verbinden…</string>
