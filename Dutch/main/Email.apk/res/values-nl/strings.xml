@@ -78,7 +78,7 @@
   <string name="account_setup_failed_certificate_required">Er is een clientcertificaat vereist. Wilt u verbinding maken met de server met een client certificaat?</string>
   <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
   <string name="account_setup_failed_dlg_auth_message">Gebruikersnaam of wachtwoord is onjuist.</string>
-  <string name="account_setup_failed_dlg_bar_title">Aanmeldings tips van %s</string>
+  <string name="account_setup_failed_dlg_bar_title">Manieren om aan te melden bij %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Kan geen veilige verbinding met de server tot stand brengen.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan geen veilige verbinding met de server tot stand brengen.
 (%s)"</string>
@@ -89,8 +89,8 @@
   <string name="account_setup_failed_dlg_server_message_fmt">Kan niet verbinden met de server
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Kon account niet aanmaken</string>
-  <string name="account_setup_failed_dlg_todo1">Stel account in als hieronder of proberen in te loggen met exchange.</string>
-  <string name="account_setup_failed_dlg_todo2">Stel account in als hieronder.</string>
+  <string name="account_setup_failed_dlg_todo1">Account instellen zoals hieronder weergegeven of probeer aan te melden met EXCHANGE.</string>
+  <string name="account_setup_failed_dlg_todo2">Account instellen zoals hieronder weergegeven</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Onbekende fout.</string>
   <string name="account_setup_failed_ioerror">Kan geen verbinding met de server maken.</string>
   <string name="account_setup_failed_protocol_unsupported">U heeft een onjuist serveradres ingevoerd of de server vereist een protocolversie die niet door e-mail wordt ondersteund.</string>
@@ -203,7 +203,7 @@
   <string name="bottom_bar_more_share">Delen</string>
   <string name="bottom_bar_no_quickreply_toast">Geen snel antwoord</string>
   <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Herinneren</string>
+  <string name="calendar_remind_dialog_title">Herinnering</string>
   <string name="calendar_remind_gridview_pick_date">Kies een datum</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
@@ -673,13 +673,13 @@
   <string name="push_wps_no_response_app">Geen app gevonden om deze actie te behandelen</string>
   <string name="questionnair_body_invisibility">Berichten worden niet weergegeven</string>
   <string name="questionnair_confirm_delete">Verwijderen</string>
-  <string name="questionnair_instability">Onstabiele app, crasht regelmatig</string>
+  <string name="questionnair_instability">Crasht regelmatig</string>
   <string name="questionnair_not_send">Kan mail niet verzenden</string>
   <string name="questionnair_not_sync">Onstabiele sync.</string>
-  <string name="questionnair_other_reasons">Andere redenen</string>
-  <string name="questionnair_title">Account verwijderen</string>
-  <string name="questionnair_ui_not_pretty">Houd niet van het ontwerp</string>
-  <string name="questionnair_waste_resource">Wissen zou ruimte vrij kunnen maken</string>
+  <string name="questionnair_other_reasons">Ander</string>
+  <string name="questionnair_title">Account verwijderen?</string>
+  <string name="questionnair_ui_not_pretty">Houd niet van het app ontwerp</string>
+  <string name="questionnair_waste_resource">Niet genoeg ruimte</string>
   <string name="quick_1">Hartelijk bedankt!</string>
   <string name="quick_2">Dat lijkt me prima.</string>
   <string name="quick_3">Ik zal dit later lezen en kom er dan op terug.</string>
@@ -835,7 +835,7 @@
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
-  <string name="try_exchange_login">Probeer in te loggen met exchange</string>
+  <string name="try_exchange_login">Aanmelden met EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">Wijzigingen die u aanbrengt in alle apps en accounts, niet alleen in Gmail, worden gesynchroniseerd tussen internet, uw andere apparaten en uw %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Inschakelen</string>
   <string name="turn_auto_sync_on_dialog_title">Automatisch synchroniseren inschakelen?</string>

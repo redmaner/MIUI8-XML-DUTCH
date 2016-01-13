@@ -41,6 +41,7 @@
   <string name="audio_chat">Voicechat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="back_view_description">Klik om terug te keren naar vorig scherm</string>
   <string name="batch_delete">Meerdere verwijderen</string>
   <string name="blacklist">Blokkeren</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth verbinding verbroken</string>
@@ -281,13 +282,18 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_dial_button">Bellen</string>
   <string name="description_dial_phone_number">Telefoon van %1$s bellen</string>
   <string name="description_digits_edittext">Nummer om te bellen</string>
+  <string name="description_image_button_comma">komma</string>
+  <string name="description_image_button_dial">bel</string>
   <string name="description_image_button_eight">acht</string>
   <string name="description_image_button_five">vijf</string>
   <string name="description_image_button_four">vier</string>
   <string name="description_image_button_nine">negen</string>
   <string name="description_image_button_one">één</string>
+  <string name="description_image_button_plus">plus</string>
   <string name="description_image_button_pound">Pond</string>
   <string name="description_image_button_seven">zeven</string>
+  <string name="description_image_button_sim1_dial">bel met sim één</string>
+  <string name="description_image_button_sim2_dial">bel met sim twee</string>
   <string name="description_image_button_six">zes</string>
   <string name="description_image_button_star">ster</string>
   <string name="description_image_button_three">drie</string>
@@ -336,6 +342,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialer_empty_text_loading">Een momentje…</string>
   <string name="dialer_empty_text_no_call_log">Geen recente contacten</string>
   <string name="dialer_empty_text_no_search_result">Geen contacten gevonden</string>
+  <string name="dialer_menu_description">Klik om belmenu te openen</string>
   <string name="dialer_returnToInCallScreen">Terugkeren naar huidig gesprek</string>
   <string name="dialer_useDtmfDialpad">Gebruik toestenblok</string>
   <string name="dialog_import">Contacten importeren</string>
@@ -427,6 +434,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="group_create_fail_toast">Kan geen groep maken</string>
   <string name="group_create_success_toast">Groep gemaakt</string>
   <string name="group_delete_success_toast">Groep verwijderd</string>
+  <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Groepsnaam</string>
   <string name="group_member_remove_toast">Verwijderd van groep</string>
   <string name="group_name">Mijn groepen</string>
@@ -1057,12 +1065,14 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="voicemail_status_configure_voicemail">Stel uw voicemail in.</string>
   <string name="voicemail_status_messages_waiting">Geen verbinding met de voicemailserver. Nieuwe voicemailberichten wachten.</string>
   <string name="voicemail_status_voicemail_not_available">Er kan geen verbinding met de voicemailserver gemaakt worden.</string>
+  <string name="voip_audio_description">Klik om voip audio</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Een momentje…</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tik om Mi Voice te gebruiken</string>
   <string name="voip_shortcut_name">Mi Voice</string>
+  <string name="voip_video_description">Klik om voip video</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Verwijder data</string>
