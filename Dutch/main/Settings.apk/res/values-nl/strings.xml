@@ -2051,7 +2051,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="next_button_label">Volgende</string>
   <string name="next_label">Volgende</string>
   <string name="nfc_category_title">NFC</string>
-   <string name="nfc_how_it_works_content">Stel een betalingsapp in. Houd dan gewoon de achterkant van de telefoon tegen elke terminal aan met het contactloze symbool.</string>
+  <string name="nfc_how_it_works_content">Stel een betalingsapp in. Houd dan gewoon de achterkant van de telefoon tegen elke terminal aan met het contactloze symbool.</string>
   <string name="nfc_how_it_works_got_it">Begrepen</string>
   <string name="nfc_how_it_works_title">Betalen aan de terminal</string>
   <string name="nfc_more_title">Meer…</string>
@@ -2271,7 +2271,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_unaccounted">Overige</string>
   <string name="power_usage_history">Batterijgebruik</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
-   <string name="power_usage_list_summary">Gebruikt sinds de laatste volledige oplading</string>
+  <string name="power_usage_list_summary">Gebruikt sinds de laatste volledige oplading</string>
   <string name="power_usage_not_available">Accugebruikgegevens niet beschikbaar.</string>
   <string name="power_usage_summary">Waarvoor de batterij is gebruikt</string>
   <string name="power_usage_summary_title">Batterij &amp; prestatie</string>
@@ -2396,8 +2396,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="proxy_port_label">Proxy poort</string>
   <string name="proxy_settings_label">Proxy instellingen</string>
   <string name="proxy_settings_title">Proxy</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="proxy_url">"PAC URL: "</string>
+  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="proxy_warning_limited_support">De HTTP proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
   <string name="query_hint_text">Zoekinstellingen</string>
   <string name="quiet">Niet storen</string>
@@ -2475,7 +2475,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="remove_account_label">Account verwijderen</string>
   <string name="remove_device_admin">Deactiveren</string>
   <string name="remove_from_frequently_fragment">Verwijder %s uit snelle instellingen?</string>
-   <string name="remove_managed_profile_label">Werkprofiel verwijderen</string>
+  <string name="remove_managed_profile_label">Werkprofiel verwijderen</string>
   <string name="repeat">Herhalen</string>
   <string name="repeat_title">Herhalen</string>
   <string name="reset_app_preferences">Appvoorkeuren herstellen</string>
@@ -2605,7 +2605,6 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetverbinding</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Lijst met apps die leesmodus gebruiken automatisch updaten</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch updaten</string>
-  
   <string name="screen_pinning_description">"Wanneer deze instelling is ingeschakeld, kunt u schermpinning  gebruiken om het huidige scherm in beeld te houden totdat u het losmaakt.
 
 Om schermpinning te gebruiken:
@@ -3504,7 +3503,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="vibrate_in_silent_title">Trillen indien stil</string>
   <string name="vibrate_input_devices">Trilstand gebruiken</string>
   <string name="vibrate_input_devices_summary">Trilstand overschakelen naar gamecontroller wanneer deze is aangesloten.</string>
-   <string name="vibrate_on_touch_title">Trillen bij aanraken</string>
+  <string name="vibrate_on_touch_title">Trillen bij aanraken</string>
   <string name="vibrate_when_ringing_title">Ook trillen bij oproepen</string>
   <string name="virtual_sim_category_title">Virtuele SIM</string>
   <string name="virtual_sim_description">Betrouwbare internationale roamingservice</string>
@@ -3577,8 +3576,8 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="vpn_disconnect">Verbinding verbreken</string>
   <string name="vpn_disconnect_confirm">Deze VPN verbinding verbreken.</string>
   <string name="vpn_dns_servers">DNS servers (bijv. 8.8.8.8)</string>
-  <string name="vpn_done">Afwijzen</string>
   <string name="vpn_dns_servers_hint">bijv. 8.8.8.8</string>
+  <string name="vpn_done">Afwijzen</string>
   <string name="vpn_edit">VPN profiel bewerken</string>
   <string name="vpn_enable">VPN</string>
   <string name="vpn_forget">Vergeten</string>
@@ -3750,8 +3749,8 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_failed_connect_message">Kan geen verbinding maken met het netwerk</string>
   <string name="wifi_failed_forget_message">Vergeten van netwerk is mislukt</string>
   <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>
-  <string name="wifi_frequency">Frequentie</string>
   <string name="wifi_forget">Vergeten</string>
+  <string name="wifi_frequency">Frequentie</string>
   <string name="wifi_gateway">Gateway</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hotspot_checkbox_text">Wi-Fi hotspot</string>
@@ -3869,7 +3868,7 @@ Dit toestaan voor alle apps die willen scannen?"</string>
   <string name="wifi_setting_frequency_band_error">Probleem bij instellen van het frequentiebeleid.</string>
   <string name="wifi_setting_frequency_band_summary">Het frequentiebereik voor gebruik opgeven</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi frequentieband</string>
-   <string name="wifi_setting_on_during_sleep_title">Wi-Fi aan tijdens slaap</string>
+  <string name="wifi_setting_on_during_sleep_title">Wi-Fi aan tijdens slaap</string>
   <string name="wifi_setting_sleep_policy_error">Er is een probleem opgetreden bij het wijzigen van de instelling</string>
   <string name="wifi_setting_sleep_policy_title">Wi-Fi behouden in slaapstand</string>
   <string name="wifi_settings">Wi-Fi</string>
