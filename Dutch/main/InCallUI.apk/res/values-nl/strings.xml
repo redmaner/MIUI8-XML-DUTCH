@@ -56,10 +56,20 @@
   <string name="card_title_in_call">In gesprek</string>
   <string name="card_title_in_call_short">In gesprek</string>
   <string name="card_title_incoming_call">Inkomende oproep</string>
+  <string name="card_title_incoming_conference_call">Inkomend groepsgesprek</string>
   <string name="card_title_on_hold">In wacht</string>
   <string name="card_title_threeway_call">Drieweg gesprek</string>
+  <string name="card_title_upgrade_video_call_error">Kon video niet udaten</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">Kon video niet udaten</string>
+  <string name="card_title_upgrade_video_call_requesting">Video aanvragen…</string>
+  <string name="card_title_upgrade_video_call_timed_out">Kon video niet udaten</string>
+  <string name="card_title_video_call">Video-oproep</string>
+  <string name="card_title_video_call_paused">Video gepauzeerd</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. totaal %s</string>
   <string name="conference_call_number">%s deelnemers</string>
+  <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
+  <string name="conference_caller_info_name">"%1$s's groepsgesprek"</string>
+  <string name="conference_caller_name_me">IK</string>
   <string name="contactPhoto">"Contact foto's"</string>
   <string name="contacts_icon_label">Contacten</string>
   <string name="description_image_button_answer">Omhoog schuiven om te antwoorden</string>
@@ -95,7 +105,8 @@
   <string name="incall_error_supp_service_switch">Kan niet schakelen tussen gesprekken</string>
   <string name="incall_error_supp_service_transfer">Kan geen gesprek doorverbinden.</string>
   <string name="incall_error_supp_service_unknown">Niet ondersteunde service.</string>
-  <string name="incoming_call_forwarded_title">Doorschakelen inkomende oproepen</string>
+  <string name="incoming_answer_voice_text">Stem antwoordt</string>
+  <string name="incoming_call_forwarded_title">Inkomende oproepen doorschakelen</string>
   <string name="ivr_menu_dialing_msg">Doorschakelen…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Ga naar de geselecteerde service…[automatische foutcorrectie is ingeschakeld]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Druk %s</string>
@@ -128,6 +139,7 @@
   <string name="notification_action_end_call">Ophangen</string>
   <string name="notification_dialing">Bellen</string>
   <string name="notification_incoming_call">Inkomende oproep</string>
+  <string name="notification_incoming_video_call">Inkomende video-oproep</string>
   <string name="notification_on_hold">In wacht</string>
   <string name="notification_ongoing_call">Huidige gesprek</string>
   <string name="notification_requesting_video_call">Inkomend videoverzoek</string>
@@ -145,14 +157,20 @@
   <string name="onscreen_audio_mode_speaker">Luidspreker</string>
   <string name="onscreen_audio_switch_mode">Wissel audio</string>
   <string name="onscreen_call_record">Opnemen</string>
+  <string name="onscreen_change_to_video">Video-oproep</string>
+  <string name="onscreen_change_to_voice">Stemoproep</string>
+  <string name="onscreen_close_preview_camera">Camera sluiten</string>
   <string name="onscreen_hold_text">Vasthouden</string>
   <string name="onscreen_merge_calls_text">Gesprekken samenvoegen</string>
   <string name="onscreen_mute_text">Dempen</string>
+  <string name="onscreen_rcs_text">Berichten</string>
   <string name="onscreen_swap_calls_text">Wisselen</string>
+  <string name="onscreen_switch_camera">Camera wisselen</string>
   <string name="pause_prompt_no">Nee</string>
   <string name="pause_prompt_yes">Ja</string>
   <string name="payphone">Betaal telefoon</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="picking_participant">Contact info verkrijgen…</string>
   <string name="private_num">Privénummer</string>
   <string name="respond_via_sms_custom_message">Voeg eigen toe…</string>
   <string name="select_sim_hint">"Kan SIM %2$d niet gebruiken, terwijl SIM %1$d in gebruik is."</string>
@@ -161,8 +179,8 @@
   <string name="suspect_info">Controleer altijd de identiteit van de persoon met wie je spreekt over de telefoon of video voordat je reageert op berichten met betrekking tot uw persoonlijke financiën.</string>
   <string name="unknown">Onbekend</string>
   <string name="upgrade_vt_prompt">Wilt u het gesprek upgraden naar videogesprek?</string>
-  <string name="upgrade_vt_rx_prompt">Wilt u het gesprek upgraden om videogesprekken te ontvangen?</string>
-  <string name="upgrade_vt_tx_prompt">Wilt u het gesprek upgraden om videogesprekken te verzenden?</string>
+ <string name="video_call_not_allowed_if_tty_enabled">TTY modus eerst uitschakelen</string>
+  <string name="video_switch_to_voice_call_prompt">Overschakelen naar stemoproep</string>
   <string name="voicemail">Voicemail</string>
   <string name="wait_prompt_str">"Volgende beltoon versturen?"</string>
   <string name="waiting_close_airplane_mode">Een momentje…</string>
