@@ -45,7 +45,7 @@
   <string name="button_backup">Back-up</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_continue">Doorgaan</string>
-  <string name="button_finish">Ok</string>
+  <string name="button_finish">Beëindigen</string>
   <string name="button_next">Volgende</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Terug</string>
@@ -216,7 +216,7 @@
   <string name="task_backup_cancel_progress">Back-up annuleren…</string>
   <string name="task_backup_finished_local">Geback-upt</string>
   <string name="task_canceled">Back-up geannuleerd</string>
-  <string name="task_canceled_all_local">Taak annuleren</string>
+  <string name="task_canceled_all_local">Geannuleerd</string>
   <string name="task_canceled_local">De volgende %s taak is geannuleerd</string>
   <string name="task_cloud_backup_cancel_dialog">"Back-up is nog niet afgerond. Klik op OK om deze taak te annuleren"</string>
   <string name="task_failed">Mislukt</string>
@@ -243,7 +243,7 @@
   <string name="total_num">%d items</string>
   <string name="trans_backingup">Bezig met back-up…</string>
   <string name="trans_backingup_no_items">Sync.…</string>
-  <string name="trans_cancel_confirm">Overdracht in uitvoering, nu annuleren?</string>
+  <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
   <string name="trans_cancelling">Annuleren</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
   <string name="trans_connecting_toast">Verbinden…</string>
@@ -274,14 +274,14 @@ Transferen app op uw oude apparaat
   <string name="trans_progress_subdescript_transingsd_sender">Bestanden aan het verzenden, %s voltooid</string>
   <string name="trans_progress_subdescript_waiting">Wachten om %s te ontvangen</string>
   <string name="trans_receiver">Ik ben een ontvanger</string>
-  <string name="trans_receiver_time_remained">"%s resterend. Apparaat goed opgeladen.
-Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
+  <string name="trans_receiver_time_remained">"%s resterend.
+Wi-Fi Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_receiving_completed">Data ontvangen</string>
   <string name="trans_restoring">Herstellen…</string>
   <string name="trans_restoring_no_items">Sync. items</string>
   <string name="trans_scan_invalid_qrcode">Ongeldige QR code</string>
   <string name="trans_scan_qr_code_tips">Scan QR code met nieuwe apparaat</string>
-  <string name="trans_select_data">Data kiezen</string>
+  <string name="trans_select_data">Selecteer items om te verzenden</string>
   <string name="trans_select_data_no_space">"%s beschikbaar op het nieuwe apparaat
 Selecteer de bestanden opnieuw of maak ruimte vrij"</string>
   <string name="trans_select_data_tips">"Selecteer bestanden om te transferen
@@ -293,11 +293,13 @@ Gelijkaardige bestanden op het nieuwe apparaat zullen overschreven worden"</stri
   <string name="trans_sender_searching">Zoeken naar nieuwe apparaten</string>
   <string name="trans_sender_searching_ensurance">"Maak u er van bewust dat uw oude apparaat ingeschakeld is
 Wachten op oud apparaat om te verbinden…"</string>
-  <string name="trans_sending_completed">Data verzonden</string>
+  <string name="trans_sender_time_remained">"%s resterend.
+Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
+  <string name="trans_sending_completed">Met succes verzonden</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
-  <string name="trans_time_format_second">Minder dan een minuut</string>
+  <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"
-Tijd besteed %s"</string>
+Tijd besteed: %s"</string>
   <string name="trans_wait_trans_data">"Verbonden met het oude apparaat.
 Wachten om te transfereren…"</string>
   <string name="trans_waiting_ensurance">"Maak u er van bewust dat uw oude apparaat ingeschakeld is
