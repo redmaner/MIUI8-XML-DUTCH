@@ -813,6 +813,16 @@ Herlaad en start met bellen"</string>
   <string name="onscreenVideoCallText">Video-oproep</string>
   <string name="open_miui">Openen</string>
   <string name="operation_successfully">Operatie met succes beëndigd!</string>
+  <string name="operator_first_mins_hint">xx minuten</string>
+  <string name="operator_first_mins_none_summary">Pakket eerst herladen</string>
+  <string name="operator_first_mins_none_title">Provider pakket minuten allemaal opgebruikt</string>
+  <string name="operator_first_no_set">Geen waarde meer</string>
+  <string name="operator_first_set_failed">Mislukt</string>
+  <string name="operator_first_sim_card_changed_summary">Provider pakket minuten resetten</string>
+  <string name="operator_first_sim_card_changed_title">Sim kaart wijziging</string>
+  <string name="operator_first_title">Provider eerst</string>
+  <string name="operator_remain_mins">Provider pakket minuten</string>
+  <string name="operator_remain_mins_value">%1$s minuten</string>
   <string name="optional_summary">&lt;Optioneel&gt;</string>
   <string name="order_by_recent">Frequentie</string>
   <string name="order_id">Bestelings ID: %1$s</string>
@@ -1060,7 +1070,7 @@ U hebt nog %d pogingen over."</string>
   <string name="set_primary_title">Instellen als primair account</string>
   <string name="set_smsc_address_error">Nummer instellen gefaald</string>
   <string name="set_smsc_address_timeout">Verbinding timed out</string>
-  <string name="set_smsc_address_title">Stel het SMS center nummer in</string>
+  <string name="set_smsc_address_title">Los berichten dienst center op (SMSC)</string>
   <string name="set_time_period">Tijdsperiode instellen</string>
   <string name="setting_activate_domestic_title">Nationale gesprekken</string>
   <string name="setting_activate_international_title">Internationale gesprekken</string>
