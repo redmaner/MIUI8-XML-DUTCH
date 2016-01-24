@@ -2,7 +2,7 @@
 <resources>
   <string name="ErrorTooManyRequests">Er worden te veel aanvragen verwerkt, probeer het later opnieuw.</string>
   <string name="ack_record">ACK record</string>
-  <string name="airplane_can_not_share">Vlegmodus kan Bluetooth niet gebruiken om te delen</string>
+  <string name="airplane_can_not_share">Vliegmodus kan Bluetooth niet gebruiken om te delen</string>
   <string name="airplane_error_msg">U kunt Bluetooth niet gebruiken in Vliegmodus.</string>
   <string name="airplane_error_title">Vliegmodus</string>
   <string name="app_name">Delen via Bluetooth</string>
@@ -27,7 +27,7 @@
   <string name="bluetooth_map_settings_intro">Selecteer de accounts die u wilt delen via Bluetooth. U moet nog steeds elke toegang accepteren om te verbinden met de accounts.</string>
   <string name="bluetooth_map_settings_no_account_slots_left">Kan geen account selecteren. 0 slots over</string>
   <string name="bluetooth_map_settings_save">Opslaan</string>
-  <string name="bluetooth_map_settings_title">Bluetooth Message Sharing instellingen</string>
+  <string name="bluetooth_map_settings_title">Bluetooth berichten delen instellingen</string>
   <string name="bluetooth_preference_connected_devices">Gekoppelde apparaten</string>
   <string name="bluetooth_preference_found_devices">Beschikbare apparaten</string>
   <string name="bluetooth_preference_scan_title">Zoeken naar apparaten</string>
@@ -35,8 +35,8 @@
   <string name="bluetooth_sap_notif_disconnecting">Wachten op klant om de verbinding te verbreken</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Verbinding verbreken forceren</string>
   <string name="bluetooth_sap_notif_message">De klant verzoeken om de verbinding te verbreken?</string>
-  <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Access</string>
-  <string name="bluetooth_sap_notif_title">Bluetooth SIM access</string>
+  <string name="bluetooth_sap_notif_ticker">Bluetooth SIM toegang</string>
+  <string name="bluetooth_sap_notif_title">Bluetooth SIM toegang</string>
   <string name="bluetooth_search_for_devices">Zoek naar apparaten</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">Annuleren</string>
@@ -145,7 +145,6 @@
   <string name="permlab_bluetoothAvrcpDataManager">Toegang tot avrcp metadata.</string>
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
-  <string name="permlab_handoverStatus">Ontvang BT overhandiging overdracht uitzendingen.</string>
   <string name="process"/>
   <string name="progress_scanning">Zoeken…</string>
   <string name="reset_function_msg">Deze functie resetten kan voorkomen dat %1$s niet meer normaal werkt</string>
@@ -156,7 +155,7 @@
   <string name="status_connection_error">Verbinding mislukt.</string>
   <string name="status_file_error">Probleem met opslagruimte.</string>
   <string name="status_forbidden">Overdracht wordt niet toegestaan door het doelapparaat.</string>
-  <string name="status_no_sd_card">Geen USB opslag.</string>
+  <string name="status_no_sd_card">Geen SD kaart. SD kaart invoeren om de getransfereerde bestanden op te slaan</string>
   <string name="status_not_accept">Inhoud wordt niet ondersteund.</string>
   <string name="status_pending">Bestandsoverdracht nog niet gestart.</string>
   <string name="status_protocol_error">Het verzoek kan niet correct worden verwerkt.</string>
@@ -183,7 +182,7 @@
   <string name="upload_fail_line1">"Het bestand is niet verzonden naar '%1$s'."</string>
   <string name="upload_fail_line1_2">Bestand: %1$s</string>
   <string name="upload_fail_ok">Opnieuw proberen</string>
-  <string name="upload_fail_waiting">Aan het voorbereiden om bestand te verzenden, later automatisch verdergaan</string>
+  <string name="upload_fail_waiting">Aan het voorbereiden om bestand te verzenden, later opnieuw automatisch verzenden</string>
   <string name="upload_line1">"Aan: '%1$s'"</string>
   <string name="upload_line3">Bestandstype: %1$s (%2$s)</string>
   <string name="upload_line5">Bestand verzenden…</string>

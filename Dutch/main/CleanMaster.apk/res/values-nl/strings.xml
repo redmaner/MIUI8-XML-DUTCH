@@ -5,6 +5,7 @@
   <string name="activity_title_brightness_image">Onder- en overbelicht</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Appdata</string>
+  <string name="activity_title_deep_apk">APK\'s verwijderen</string>
   <string name="activity_title_deep_clean">Diepe schoonmaak</string>
   <string name="activity_title_garbage_cleanup">Opruimer</string>
   <string name="activity_title_ignored_image">Genegeerd</string>
@@ -20,6 +21,7 @@
   <string name="activity_title_similar_image_group">Duplicaten verwijderen</string>
   <string name="activity_title_tedious_image">Per ongeluk genomen foto\'s</string>
   <string name="activity_title_uninstall_apps">Apps</string>
+  <string name="activity_title_video">Video\'s verwijderen</string>
   <string name="activity_title_white_list">Uitzonderingen</string>
   <string name="apk_status_damage">Corrupt</string>
   <string name="apk_status_duplicate">Dupliceer</string>
@@ -84,6 +86,9 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Netwerkverbinding voor beveiliging</string>
   <string name="connecting">Verbinden…</string>
+  <string name="deepclean_apk_content">APK\'s of onnodige apps verwijderen</string>
+  <string name="deepclean_apk_summary_empty">Alles ziet er goed uit, geen APK\'s om te verwijderen​</string>
+  <string name="deepclean_apk_version_error">Onbekend</string>
   <string name="deepclean_app_content">Apps die 30 dagen niet gebruikt zijn verwijderen</string>
   <string name="deepclean_app_summary_empty">Alles ziet er goed uit, geen apps om te verwijderen​</string>
   <string name="deepclean_cache_content">Verwijder data aangemaakt door apps</string>
@@ -105,6 +110,8 @@
   <string name="deepclean_size_summary_normal">Opslagruimte beschikbaar</string>
   <string name="deepclean_title_large_file">Verwijder grote bestanden</string>
   <string name="deepclean_title_uninstall_apps">Weinig gebruikte apps</string>
+  <string name="deepclean_video_content">Reeds bekeken of onnodige video\'s verwijderen</string>
+  <string name="deepclean_video_summary_empty">Alles ziet er goed uit</string>
   <string name="default_cache_type">Databestanden</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Foto\'s ook van Mi Cloud verwijderen</string>
   <string name="dialog_content_delete_image_confirm">%d foto\'s verwijderen?</string>
@@ -131,6 +138,7 @@
   <string name="empty_title_installed_apps">Leeg</string>
   <string name="empty_title_large_files">Leeg</string>
   <string name="empty_title_residual">Geen restanten gevonden</string>
+  <string name="empty_title_video">Geen video\'s om te verwijderen​</string>
   <string name="flow_rank_title">Datagebruik</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_cleanup_detail">%1$d keer, %2$s opgeruimd</string>
@@ -147,6 +155,8 @@
   <string name="hints_apk_version">Versie %s</string>
   <string name="hints_app_uninstall_residual">Restanten van verwijderde apps opruimen?</string>
   <string name="hints_cache_header_left">Cachebestanden</string>
+  <string name="hints_cache_msd_desc">Verwijderen van delta updates zal geen invloed hebben op app gebruik</string>
+  <string name="hints_cache_msd_title">Delta update</string>
   <string name="hints_cleanfinish">Klaar met opruimen</string>
   <string name="hints_deepclean_list_item_from">Van %s</string>
   <string name="hints_deepclean_scanning">%s scannen</string>
@@ -165,6 +175,9 @@
   <string name="hints_install_apps_risk">Risico gedetecteerd</string>
   <string name="hints_install_apps_today">Vandaag gebruikt</string>
   <string name="hints_install_apps_virus">Virus gedetecteerd</string>
+   <string name="hints_installed_app_fewer">Zelden gebruikt</string>
+  <string name="hints_installed_app_near">Recent gebruikt</string>
+  <string name="hints_installed_app_never">Nooit gebruikt</string>
   <string name="hints_installed_apps_header_left">Geïnstalleerde apps: %d</string>
   <string name="hints_large_file_header_left">Grote bestanden: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Laatst opgeruimd: %d dagen geleden</string>
@@ -193,6 +206,8 @@
   <string name="hints_storage_free_size">Totaal %1$s, %2$s beschikbaar​</string>
   <string name="hints_storage_news">Beveiligingsnieuws</string>
   <string name="hints_title_garbage">Afval</string>
+  <string name="hints_video_camera">Opgenomen video\'s</string>
+  <string name="hints_video_download">Gedownloade video\'s</string>
   <string name="hot">Populair</string>
   <string name="hot_today">Populair vandaag</string>
   <string name="installed">Geïnstalleerd</string>
@@ -298,8 +313,10 @@
   <string name="sponsored">Gesponsord</string>
   <string name="start_install">Nu installeren</string>
   <string name="summary_auto_cleaner">Om de 3 dagen systeem automatisch opruimen?</string>
-  <string name="summary_delete_cache">Alle gegevens van deze app worden permanent verwijderd (inclusief alle bestanden, instellingen en accounts).</string>
-  <string name="summary_delete_large_file">"Sommige grote bestanden kunnen handig zijn wanneer je geen internetverbinding hebt (bijvoorbeeld kaarten, schema's, etc.). Zorg ervoor dat u dit bestand niet nodig hebt."</string>
+  <string name="summary_delete_apk">De geselecteerde APK\'s permanent verwijderen?</string>
+  <string name="summary_delete_cache">Cache wissen van de geselecteerde apps?</string>
+  <string name="summary_delete_large_file">Geselecteerde bestanden permanent verwijderen ?</string>
+  <string name="summary_delete_video">Geselecteerde video\'s permanent verwijderen ?</string>
   <string name="summary_optimizer">Deze functie uploadt onbekend mapnamen naar de online database van Cheetah Mobile om die bij te werken en vereist het toestel ID.</string>
   <string name="text_optimizer">Mapnamen uploaden</string>
   <string name="there_is_no">Ziet er goed uit, kom later terug</string>
@@ -315,9 +332,10 @@
   <string name="tips_of_traffic_pack_threshold">Koop meer data wanneer je op het punt staat om je datalimiet te bereiken</string>
   <string name="tips_of_virus_scan">Scan uw apparaat regelmatig op virussen om het veilig te houden </string>
   <string name="title_auto_cleaner">Automatisch opruimen?</string>
-  <string name="title_delete_cache">Gecachete data verwijderen?</string>
+  <string name="title_delete_cache">App cache wissen</string>
   <string name="title_delete_clipboard">Klembord inhoud</string>
-  <string name="title_delete_large_file">Dit bestand verwijderen?</string>
+  <string name="title_delete_deepclean">Verwijderen</string>
+  <string name="title_delete_large_file">Grootte bestanden verwijderen</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
   <string name="title_of_cloud_service">Clouddiensten</string>
   <string name="title_of_garbage_cloud_scan">Cloudscan</string>
@@ -355,7 +373,7 @@
   <string name="white_list_ad_header">Advertentiebestanden: %d</string>
   <string name="white_list_apk_header">Installatiepakketten: %d</string>
   <string name="white_list_cache_header">Gecachete bestanden: %d</string>
-  <string name="white_list_large_file_header">Grote bestanden: %d</string>
+  <string name="white_list_large_file_header">Grootte bestanden en video\'s: %d</string>
   <string name="white_list_residual_header">Restanten: %d</string>
   <string name="white_list_title">Uitzonderingen</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
