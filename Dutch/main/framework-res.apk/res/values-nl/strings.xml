@@ -243,6 +243,7 @@ met %s"</string>
   <string name="default_sms_application">com.android.messaging</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteText">Verwijderen</string>
+  <string name="deleted_key">%1$s verwijderd</string>
   <string name="deny">Weigeren</string>
   <string name="description_target_unlock_tablet">Vegen om te ontgrendelen</string>
   <string name="dial_number_using">"Nummer bellen
@@ -300,7 +301,7 @@ met %s"</string>
   <string name="ext_media_badremoval_notification_message">%s ontkoppelen voordat u deze verwijdered om gegevensverlies te voorkomen</string>
   <string name="ext_media_badremoval_notification_title">%s onverwacht verwijderd</string>
   <string name="ext_media_browse_action">Verkennen</string>
-  <string name="ext_media_checking_notification_message">ontroleren op fouten</string>
+  <string name="ext_media_checking_notification_message">Controleren op fouten</string>
   <string name="ext_media_checking_notification_title">%s voorbereiden</string>
   <string name="ext_media_init_action">Instellen</string>
   <string name="ext_media_missing_message">Herplaats dit apparaat</string>
@@ -335,7 +336,7 @@ met %s"</string>
   <string name="ext_media_unsupported_notification_title">%s niet ondersteund</string>
   <string name="faceunlock_multiple_failures">Maximaal aantal pogingen voor Ontgrendelen via gezichtsherkenning overschreden</string>
   <string name="factory_reset_message">De admin app is mist onderdelen of is beschadigd en kan niet worden gebruikt. Uw apparaat zal nu worden gewist. Neem contact op met uw beheerder voor hulp.</string>
-  <string name="factory_reset_warning">Uw apparaat wordt gewist</string>
+  <string name="factory_reset_warning">Uw apparaat zal gewist worden</string>
   <string name="factorytest_failed">Fabriekstest mislukt</string>
   <string name="factorytest_no_action">Er is geen pakket gevonden dat de actie FACTORY_TEST levert.</string>
   <string name="factorytest_not_system">De actie FACTORY_TEST wordt alleen ondersteund voor pakketten die zijn geïnstalleerd in /system/app.</string>
@@ -557,6 +558,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="launch_warning_title">App verplaatst</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Laden…</string>
+  <string name="locale_codes"/>
   <string name="locale_replacement"/>
   <string name="lock_pattern_view_aspect">vierkantig</string>
   <string name="lock_to_app_description">"Scherm pinning vergrendelt het scherm in één weergave. 
@@ -757,6 +759,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_bodySensors">Hiermee kan de app toegang krijgen tot de gegevens van sensoren die uw fysieke conditie meten, zoals uw hartslag.</string>
   <string name="permdesc_broadcastSticky">Hiermee kan de app sticky broadcasts verzenden die behouden blijven nadat de broadcast is beëindigd. Bij overmatig gebruik kan de telefoon traag of instabiel worden omdat er te veel geheugenruimte wordt gebruikt.</string>
   <string name="permdesc_callPhone">Hiermee kan de app zonder uw tussenkomst telefoonnummers bellen. Dit kan tot onverwachte kosten of oproepen leiden. De app kan hiermee geen noodnummers bellen. Schadelijke apps kunnen u geld kosten door nummers te bellen zonder om uw bevestiging te vragen.</string>
+  <string name="permdesc_camera">Hiermee kan de app foto\'s en video\'s maken met de camera. Met deze toestemming kan de app de camera gebruiken op elk gewenst moment zonder uw bevestiging.</string>
   <string name="permdesc_changeNetworkState">Hiermee kan de app de status van de netwerkverbinding wijzigen.</string>
   <string name="permdesc_changeTetherState">Hiermee kan de app de status van de getetherde netwerkverbinding wijzigen.</string>
   <string name="permdesc_changeWifiMulticastState">Hiermee kan de app pakketten ontvangen die via multicastadressen naar alle apparaten in een WI-Fi netwerk worden verzonden, niet alleen naar uw telefoon. Het stroomgebruik ligt hierbij hoger dan in de niet multicastmodus.</string>
@@ -898,7 +901,7 @@ voor account %s."</string>
   <string name="permlab_install_shortcut">Snelkoppelingen installeren</string>
   <string name="permlab_invokeCarrierSetup">De door de provider geleverde configuratie app aanroepen</string>
   <string name="permlab_killBackgroundProcesses">Andere apps sluiten</string>
-  <string name="permlab_manageFingerprint">vingerafdruk hardware beheren</string>
+  <string name="permlab_manageFingerprint">Vingerafdruk hardware beheren</string>
   <string name="permlab_manageNetworkPolicy">Netwerkbeleid beheren</string>
   <string name="permlab_manageProfileAndDeviceOwners">profiel en apparaat eigenaars beheren</string>
   <string name="permlab_modifyAudioSettings">Uw audio instellingen wijzigen</string>

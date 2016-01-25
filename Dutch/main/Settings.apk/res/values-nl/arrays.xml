@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden…</item>
+        <item>Verificeren…</item>
+        <item>IP address verkrijgen…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbindingen vermijden</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden met %1$s…</item>
+        <item>Verificeren met %1$s…</item>
+        <item>IP address verkrijgen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken met %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Unsuccessful</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbindingen vermijden</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>
@@ -8,13 +36,7 @@
         <item>Australië</item>
         <item>Stille Oceaan</item>
         <item>Alles</item>
-    </string-array>
-	    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-    </string-array>
+	</string-array>	
     <string-array name="screen_timeout_entries">
         <item>15 seconden</item>
         <item>30 seconden</item>
@@ -63,34 +85,6 @@
         <item>Hoog</item>
         <item>Zeer hoog</item>
     </string-array>
-	    <string-array name="wifi_status">
-        <item></item>
-        <item>Bezig met scannen…</item>
-        <item>Verbinden…</item>
-        <item>Verificiëren…</item>
-        <item>IP adres verkrijgen…</item>
-        <item>Verbonden</item>
-        <item>Geschorst</item>
-        <item>Verbinding verbreken…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbinding vermijden</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Bezig met scannen…</item>
-        <item>Verbinden met %1$s…</item>
-        <item>Verificiëren met %1$s…</item>
-        <item>IP adres verkrijgen van %1$s…</item>
-        <item>Verbonden met %1$s</item>
-        <item>Geschorst</item>
-        <item>Verbinding verbreken met %1$s…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbinding vermijden</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
         <item>PIN code van peer apparaat</item>
@@ -118,12 +112,16 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Altijd</item>
         <item>Alleen tijdens het opladen</item>
-        <item>Nooit (verbruikt meer mobiele data)</item>
+        <item>Nooit</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Altijd</item>
         <item>Alleen tijdens het opladen</item>
         <item>Nooit</item>
+    </string-array>
+	<string-array name="data_usage_data_range">
+        <item>Laaste 30 dagen</item>
+        <item>Gebruikscyclus instelen…</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatisch</item>
@@ -154,15 +152,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Geen</item>
         <item>Handmatig</item>
-	</string-array>
-	<string-array name="emergency_tone_entries">
-        <item>Uit</item>
-        <item>Alarm</item>
-        <item>Trillen</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>Chinese (Engels)</item>
-        <item>Chinese (traditioneel)</item>
+        <item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Geen</item>
@@ -171,9 +161,22 @@
         <item>PAP or CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
+	    <item>Ongespecifiëerd</item>
         <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
         <item>eHRPD</item>
-        <item>Ongespecifiëerd</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Geen</item>
@@ -256,6 +259,9 @@
         <item>Sans Serif versmald</item>
         <item>Serif</item>
         <item>Serif monospace</item>
+		<item>Normaal</item>
+        <item>Cursief</item>
+        <item>Kleine hoofletters</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Zeer klein</item>
@@ -265,9 +271,12 @@
         <item>Enorm</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Geen</item>
+        <item>Standaard</item>
+		<item>Geen</item>
         <item>Contour</item>
         <item>Slagschaduw</item>
+		<item>Verhoogd</item>
+        <item>Verlaagd</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Gebruik app standaard</item>
@@ -276,12 +285,7 @@
         <item>Geel op zwart</item>
         <item>Geel op blauw</item>
         <item>Aangepast</item>
-    </string-array>
-	    <string-array name="select_runtime_summaries">
-        <item>Dalvik gebruiken</item>
-        <item>Use ART gebruiken</item>
-        <item>ART debug build gebruiken</item>
-    </string-array>
+	</string-array>	
     <string-array name="hdcp_checking_titles">
         <item>Nooit controleren</item>
         <item>Alleen op DRM inhoud controleren</item>
@@ -325,9 +329,13 @@
         <item>720x480 mdpi (veilig)</item>
         <item>1280x720 tvdpi</item>
         <item>1280x720 tvdpi (veilig)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (veilig)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+        <item>1080p</item>
+        <item>1080p (veilig)</item>
+        <item>4K</item>
+        <item>4K (veilig)</item>
+        <item>4K (opgewaardeerd)</item>
+        <item>4K (opgewaardeerd, veilig)</item>
+        <item>720p, 1080p (dubbel scherm)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Geen</item>
@@ -394,7 +402,48 @@
         <item>Laag</item>
         <item>Kritiek</item>
     </string-array>
-	    <string-array name="haptic_feedback_level_entries">
+	<string-array name="proc_stats_memory_states">
+        <item>Normaal</item>
+        <item>Matig</item>
+        <item>Laag </item>
+        <item>Kritiek</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Aanhoudend</item>
+        <item>Top activiteit</item>
+        <item>Belangerijk (voorgrond)</item>
+        <item>Belangerijk (achtergrond)</item>
+        <item>Back-up</item>
+        <item>Zwaar gewicht</item>
+        <item>Service (actief)</item>
+        <item>Service (herstatend)</item>
+        <item>Onvanger</item>
+        <item>Home</item>
+        <item>Laaste activiteit</item>
+        <item>Cached (activiteit)</item>
+        <item>Cached (activiteit client)</item>
+        <item>Cached (leeg)</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Blauwgroen</item>
+        <item>Blauw</item>
+        <item>Indigo</item>
+        <item>Paars</item>
+        <item>Roze</item>
+        <item>Rood</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>MTP (Media Overdracht Protocol)</item>
+        <item>PTP (Afbeelding Overdracht Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Bron</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Bij voorkeur Wi-Fi</item>
+        <item>Bij voorkeur mobiele</item>
+    </string-array>
+	<string-array name="haptic_feedback_level_entries">
         <item>Sterk</item>
         <item>Medium</item>
         <item>Licht</item>
@@ -441,13 +490,6 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
-	<string-array name="pink_panel_led_color_entries">
-        <item>Lila</item>
-        <item>Robijnrood</item>
-        <item>Oranje</item>
-        <item>Groen</item>
-        <item>Magenta</item>
-    </string-array>
     <string-array name="screen_key_press_action">
         <item>Toon recente apps</item>
         <item>Toon menu</item>
@@ -491,6 +533,9 @@
         <item>Windows Vista en nieuwer</item>
         <item>OSX</item>
         <item>Linux</item>
+    </string-array>
+	    <string-array name="msd_pc_system_install_summary">
+        <item>2.Volg de instucties op het scherm</item>
     </string-array>
 	    <string-array name="msd_pc_system_install_finish_summary">
         <item>USB massa opslag zal automatisch openen wanneer u verbonden bent met een computer.</item>
@@ -554,6 +599,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Handmatig verbinden</item>
         <item>Altijd vragen</item>
     </string-array>
+	    <string-array name="wifi_ssid_type_entries">
+        <item>Automatisch verbinden</item>
+        <item>Handmatig verbinden</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuten</item>
         <item>15 minuten</item>
@@ -603,14 +652,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>KOUD</item>
     </string-array>
-	<string-array name="install_non_market_app_entries">
-        <item>Inschakelen (aanbevolen)</item>
-        <item>Niet gebruiken (gevaaarlijk)</item>
-	 </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Inschakelen</item>
-        <item>Niet gebruiken</item>
-    </string-array>	
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Meteen</item>
         <item>1 minuut</item>
@@ -631,6 +672,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Apparaat herstarten om deze instellingen toe te passen?</item>
         <item>Apparaat herstarten om deze instellingen toe te passen?</item>
 	</string-array>
+	    <string-array name="screen_resolution_entries">
+        <item>Ultrahoog (2K)</item>
+        <item>Normaal (720p)</item>
+    </string-array>
     <string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>
         <item>Kindermodus</item>

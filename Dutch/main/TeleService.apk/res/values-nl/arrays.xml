@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
         <string-array name="preferred_network_mode_choices_world_mode">
-        <item>Globaal</item>
+        <item>Wereldwijd</item>
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
@@ -9,6 +9,11 @@
         <item>Standaard netwerk</item>
         <item>Nummer verbergen</item>
         <item>Nummer weergeven</item>
+    </string-array>
+	    <string-array name="clir_values">
+        <item>STANDAARD</item>
+        <item>VERBERGEN</item>
+        <item>WEERGEVEN</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
