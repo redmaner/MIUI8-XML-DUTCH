@@ -31,7 +31,7 @@
   <string name="app_permissions_breadcrumb">Apps</string>
   <string name="app_permissions_group_summary">%1$d van %2$d apps toestaan</string>
   <string name="cancel">Annuleren</string>
-  <string name="current_permission_template">%1$s of %2$s</string>
+  <string name="current_permission_template">%1$s van %2$s</string>
   <string name="default_permission_description">uitvoeren van een onbekende actie</string>
   <string name="devicePerms">Apparaat toegang</string>
   <string name="dlg_app_replacement_statement">De app die u installeert, vervangt een andere app. Al uw eerdere gebruikersgegevens worden opgeslagen.</string>
@@ -53,9 +53,9 @@
   <string name="install_failed">App niet geïnstalleerd.</string>
   <string name="install_failed_cpu_abi_incompatible">Deze app is niet compatibel met uw telefoon.</string>
   <string name="install_failed_file_not_found">Het opgegeven pakket werd verwijderd voordat de installatie kon worden voltooid.</string>
-  <string name="install_failed_inconsistent_certificates">Een bestaand pakket met dezelfde naam met een tegenstrijdige handtekening is al geïnstalleerd.</string>
+  <string name="install_failed_inconsistent_certificates">Een bestaand pakket met dezelfde naam met een tegenstrijdige handtekening is reeds geïnstalleerd.</string>
   <string name="install_failed_invalid_apk">Het pakket lijkt beschadigd.</string>
-  <string name="install_failed_msg">%1$s kon niet geïnstalleerd worden op uw telefoon.</string>
+  <string name="install_failed_msg">%1$s kon niet geïnstalleerd worden op uw apparaat.</string>
   <string name="install_failed_older_sdk">Het pakket werkt alleen op nieuwere versies van Android.</string>
   <string name="install_failed_verify_failed">Het pakket is niet geverifieerd en kan niet worden geïnstalleerd.</string>
   <string name="install_failed_verify_timeout">Er is een time-out opgetreden bij het controleren van dit pakket. Probeer het later opnieuw te installeren.</string>
@@ -95,7 +95,7 @@
   <string name="lb_search_bar_hint_with_title_speech">%1$s spraak naar zoeken</string>
   <string name="loading">Bezig met laden…</string>
   <string name="location_settings">Locatie instellingen</string>
-  <string name="location_warning">%1$s is een provider van locatiediensten voor dit apparaat. Locatietoegang kan worden gewijzigd in instellingen.</string>
+  <string name="location_warning">%1$s is een provider van locatiediensten voor dit apparaat. Locatietoegang kan worden gewijzigd in locatie instellingen.</string>
   <string name="manage_applications">Apps beheren</string>
   <string name="manage_device_administrators">Apparaatbeheerders beheren</string>
   <string name="menu_hide_system">Systeem verbergen</string>
@@ -148,5 +148,4 @@
   <string name="unknown_installer">Niet geïdentificeerde PC tools</string>
   <string name="v7_preference_off">UIT</string>
   <string name="v7_preference_on">AAN</string>
-  <string name="virus_scan_caller_unknown">Onbekend</string>
 </resources>

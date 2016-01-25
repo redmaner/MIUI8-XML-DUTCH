@@ -29,12 +29,12 @@
   <string name="cancel_download">Deze update stoppen?</string>
   <string name="cancel_download_buton_text">Annuleren</string>
   <string name="check_local_package_update_btn">Reboot en updaten</string>
-  <string name="check_local_package_update_msg">"U gaat updaten naar MIUI versie %s. De telefoon zal automatisch herstarten tijdens de update."</string>
+  <string name="check_local_package_update_msg">"Uw telefoon zal automatisch herstarten om te updaten naar MIUI versie %s."</string>
   <string name="check_local_package_update_title">Updaten</string>
   <string name="check_local_package_validate_error_button">Ok</string>
   <string name="check_local_package_validate_error_msg">Kon update pakket niet verifiëren</string>
   <string name="check_local_package_wipe_btn">Wissen en updaten</string>
-  <string name="check_local_package_wipe_msg">"U zal overschakelen naar MIUI versie %s, die is ouder dan de huidige versie. Uw persoonlijke data zal gewist worden. Maak u er zeker van dat u alle belangrijke items hebt geback-upt voordat u met deze actie begint."</string>
+  <string name="check_local_package_wipe_msg">"U gaat terug keren naar MIUI versie %s die ouder is dan de huidige versie. Uw persoonlijke gegevens worden gewist. Zorg ervoor dat u een back-up maakt van alles wat u wilt behouden voordat u het proces start."</string>
   <string name="check_local_package_wipe_title">Data wissen</string>
   <string name="check_new_version">Controleren</string>
   <string name="check_update_policy">Instellingen</string>
@@ -49,8 +49,10 @@
   <string name="comment_upload_not_logined">U moet eerst inloggen op je MI account om een reactie te versturen</string>
   <string name="comment_upload_success">Reactie succesvol verstuurd!</string>
   <string name="confirm_local_package_wipe_btn">Wissen en updaten</string>
-  <string name="confirm_local_package_wipe_msg">Uw persoonlijke data zal gewist worden. Maak u er zeker van dat u alle belangrijke items hebt geback-upt voordat u met deze actie begint.</string>
+  <string name="confirm_local_package_wipe_msg">Uw persoonlijke data zal gewist worden. Maak u er zeker van dat u een back-up maakt van alles wat u wilt behouden voordat u met deze actie begint.</string>
   <string name="confirm_local_package_wipe_title">Data wissen?</string>
+  <string name="continue_update_negative_btn">Doorgaan</string>
+  <string name="continue_update_positive_btn">Stoppen</string>
   <string name="daily_build">Iedere nacht</string>
   <string name="download_again">Probeer opnieuw</string>
   <string name="download_cancel">Annuleren</string>
@@ -109,7 +111,7 @@
   <string name="no_log">Geen samenvatting beschikbaar</string>
   <string name="no_wifi_msg">Downloaden met uw mobiele dataverbinding zal uw dataverbruik verhogen.</string>
   <string name="no_wifi_title">Waarschuwing dataverbruik</string>
-  <string name="not_open">Niet nu</string>
+  <string name="not_open">Nee</string>
   <string name="notification_auto_reboot_seccess_title">Apparaat automatisch geüpdatet</string>
   <string name="notification_downloading">Update downloaden…</string>
   <string name="notification_fail_msg">Probeer de volledige ROM te downloaden</string>
@@ -118,7 +120,7 @@
   <string name="notification_load_title_alpha">Inloggen op je Mi Account</string>
   <string name="notification_load_title_dev">Inloggen op je Mi Account</string>
   <string name="notification_reboot_btn">Herstart</string>
-  <string name="notification_reboot_seccess_des">Tik om de update-info weer te geven.</string>
+  <string name="notification_reboot_seccess_des">Tik om de update info weer te geven.</string>
   <string name="notification_reboot_seccess_title">Toestel geüpdatet!</string>
   <string name="notification_reboot_summary_hm">Aanraken om uw apparaat opnieuw op te starten.</string>
   <string name="notification_reboot_title">Herstarten om update te voltooien</string>
@@ -129,7 +131,7 @@
   <string name="notification_update_now">Nu updaten</string>
   <string name="notification_updating">Updaten…</string>
   <string name="on_checking">Aan het controleren…</string>
-  <string name="open_now">Inschakelen</string>
+  <string name="open_now">Ja</string>
   <string name="particular_build">Particulier</string>
   <string name="pause">Pauze</string>
   <string name="pm_root_acquired_button">Roottoegang</string>
@@ -159,8 +161,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_agree_check_box_title">Ik begrijp de risico\'s van roottoegang</string>
   <string name="root_dangerous_msg">Roottoegang toestaan is zeer riskant en kan uw apparaat en persoonlijke gegevens blootstellen aan aanvallen van kwaadaardige apps. Gaat u ermee akkoord dat u zelf verantwoordelijk bent voor eventuele schade aan het apparaat of verlies van gegevens die voortkomen door roottoegang toe te staan.</string>
   <string name="set_auto">Automatisch controleren op updates</string>
-  <string name="set_auto_msg">Updates automatisch downloaden met Wi-Fi</string>
-  <string name="set_auto_update_title">Updates automatisch downloaden</string>
+  <string name="set_auto_msg">Updates automatisch downloaden bij verbinding met Wi-Fi?</string>
+  <string name="set_auto_update_title">Updates automatisch downloaden?</string>
   <string name="set_installfail_full_msg">"Kan niet updaten op dit moment. Druk op \"OK\" om deze fout aan onze ontwikkelaars te melden."</string>
   <string name="set_installfail_msg">Downloaden van update met uw mobiele dataverbinding zal uw dataverbruik verhogen.</string>
   <string name="set_installfail_title">De update opnieuw downloaden?</string>
