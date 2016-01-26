@@ -5,7 +5,7 @@
         <item>Scannen…</item>
         <item>Verbinden…</item>
         <item>Verificeren…</item>
-        <item>IP address verkrijgen…</item>
+        <item>IP adres verkrijgen…</item>
         <item>Verbonden</item>
         <item>Opgeschort</item>
         <item>Verbinding verbreken…</item>
@@ -19,12 +19,12 @@
         <item>Scannen…</item>
         <item>Verbinden met %1$s…</item>
         <item>Verificeren met %1$s…</item>
-        <item>IP address verkrijgen van %1$s…</item>
+        <item>IP adres verkrijgen van %1$s…</item>
         <item>Verbonden met %1$s</item>
         <item>Opgeschort</item>
         <item>Verbinding verbreken met %1$s…</item>
         <item>Verbinding verbroken</item>
-        <item>Unsuccessful</item>
+        <item>Mislukt</item>
         <item>Geblokkeerd</item>
         <item>Tijdelijk slechte verbindingen vermijden</item>
     </string-array>
@@ -120,8 +120,8 @@
         <item>Nooit</item>
     </string-array>
 	<string-array name="data_usage_data_range">
-        <item>Laaste 30 dagen</item>
-        <item>Gebruikscyclus instelen…</item>
+        <item>Laatste 30 dagen</item>
+        <item>Gebruikscyclus instellen…</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatisch</item>
@@ -261,7 +261,7 @@
         <item>Serif monospace</item>
 		<item>Normaal</item>
         <item>Cursief</item>
-        <item>Kleine hoofletters</item>
+        <item>Kleine hoofdletters</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Zeer klein</item>
@@ -279,7 +279,7 @@
         <item>Verlaagd</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Gebruik app standaard</item>
+        <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
         <item>Zwart op wit</item>
         <item>Geel op zwart</item>
@@ -292,7 +292,7 @@
         <item>Altijd controleren</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Nooit controle HDCP gebruiken</item>
+        <item>Nooit HDCP controle gebruiken</item>
         <item>Gebruik HDCP controle alleen op DRM inhoud</item>
         <item>Altijd controleren</item>
     </string-array>
@@ -411,15 +411,15 @@
     <string-array name="proc_stats_process_states">
         <item>Aanhoudend</item>
         <item>Top activiteit</item>
-        <item>Belangerijk (voorgrond)</item>
-        <item>Belangerijk (achtergrond)</item>
+        <item>Belangrijk (voorgrond)</item>
+        <item>Belangrijk (achtergrond)</item>
         <item>Back-up</item>
         <item>Zwaar gewicht</item>
         <item>Service (actief)</item>
-        <item>Service (herstatend)</item>
-        <item>Onvanger</item>
+        <item>Service (herstartend)</item>
+        <item>Ontvanger</item>
         <item>Home</item>
-        <item>Laaste activiteit</item>
+        <item>Laatste activiteit</item>
         <item>Cached (activiteit)</item>
         <item>Cached (activiteit client)</item>
         <item>Cached (leeg)</item>
@@ -441,7 +441,7 @@
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Bij voorkeur Wi-Fi</item>
-        <item>Bij voorkeur mobiele</item>
+        <item>Bij voorkeur mobiel</item>
     </string-array>
 	<string-array name="haptic_feedback_level_entries">
         <item>Sterk</item>
