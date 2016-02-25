@@ -67,6 +67,12 @@
         <item>10 minuten</item>
         <item>30 minuten</item>
     </string-array>
+	    <string-array name="entries_font_size">
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Extra groot</item>
+    </string-array>
     <string-array name="tts_rate_entries">
         <item>Zeer langzaam</item>
         <item>Langzaam</item>
@@ -514,7 +520,7 @@
         <item>5 seconden</item>
         <item>10 seconden</item>
         <item>20 seconden</item>
-        <item>Altijd aan</item>
+        <item>Altijd</item>
     </string-array>
 	<string-array name="wfd_status">
         <item>Sessie starten…</item>
