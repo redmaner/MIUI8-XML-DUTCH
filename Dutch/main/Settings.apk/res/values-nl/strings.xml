@@ -105,10 +105,10 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_done_msg">Nu kunt u dit apparaat ontgrendelen met uw vingerafdruk.</string>
   <string name="add_fingerprint_done_title">Klaar!</string>
   <string name="add_fingerprint_finished_button_text">Ok</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"Om uw vingerafdruk info toe te voegen, plaatst u uw vinger op de vingerafdruk lezer.
+  <string name="add_fingerprint_instruction_dialog_msg">"Om uw vingerafdruk info toe te voegen, plaatst u uw vinger op de vingerafdrukscanner.
 Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
-  <string name="add_fingerprint_instruction_msg">Ontgrendel d apparaat of verifieër uw betaling met uw vingerafdruk</string>
-  <string name="add_fingerprint_instruction_title">Plaats uw vinger in de vingerafdruk lezer</string>
+  <string name="add_fingerprint_instruction_msg">Ontgrendel uw apparaat of verifieër uw betaling met uw vingerafdruk</string>
+  <string name="add_fingerprint_instruction_title">Plaats uw vinger op de vingerafdrukscanner</string>
   <string name="add_fingerprint_put_finger_edge_msg">Plaats en verwijder uw vinger totdat uw vingerafdruk volledig is geregistreerd</string>
   <string name="add_fingerprint_put_finger_msg">Nadat u op de sensor hebt gedrukt, verwijder uw vinger en herhaal dit.</string>
   <string name="add_fingerprint_put_finger_title">Plaats en verwijder uw vinger</string>
@@ -772,7 +772,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="confirm_enable_oem_unlock_title">OEM deblokkering toestaan?</string>
   <string name="confirm_erase">Wissen</string>
   <string name="confirm_fingerprint_icon_content_description">Gebruik uw vingerafdruk om door te gaan.</string>
-  <string name="confirm_fingerprint_msg">Plaats uw vinger op de vingerafdruk lezer</string>
+  <string name="confirm_fingerprint_msg">Plaats uw vinger op de vingerafdrukscanner</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
   <string name="connect_to_internet">Maak verbinding met het internet</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
@@ -3659,9 +3659,9 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="webview_license_title">Systeem WebView Licentie</string>
   <string name="welcome">Welkom</string>
   <string name="wfd_available_devices">Beschikbare apparaten</string>
-  <string name="wfd_disconnect_diag_msg">Verbinding verbroken met %1$s?</string>
+  <string name="wfd_disconnect_diag_msg">Verbinding verbreken met %1$s?</string>
   <string name="wfd_disconnect_diag_title">Verbinding scherm verbreken?</string>
-  <string name="wfd_disconnect_multiple_diag_message">Verbinding verbroken met %1$s en %2$s andere apparaten?.</string>
+  <string name="wfd_disconnect_multiple_diag_message">Verbinding verbreken met %1$s en %2$s andere apparaten?.</string>
   <string name="wfd_enable_wifi_diag_title">U moet de Wi-Fi inschakelen om van draadloze scherm gebruik te maken. Nu inschakelen?</string>
   <string name="wfd_enabler_title">Draadloze scherm inschakelen</string>
   <string name="wfd_menu_search">Zoeken naar apparaten</string>
@@ -3946,15 +3946,15 @@ Raak "&lt;b&gt;Terug&lt;/b&gt; aan om verbinding te maken met een ander Wi-Fi ne
   <string name="wifi_share_add_summary">"U kunt gebruik maken van andermans openbare netwerk
 als u uw publieke netwerk deelt."</string>
   <string name="wifi_share_connect">Verbinden</string>
-  <string name="wifi_share_connected_summary">U bent verbonden met een openbare Wi-Fi netwerk dat door een andere gebruik gedeeld is.</string>
+  <string name="wifi_share_connected_summary">U bent verbonden met een openbaar Wi-Fi netwerk dat door een andere gebruiker gedeeld is.</string>
   <string name="wifi_share_connected_title">Netwerk verbonden via MIUI gedeelde Wi-Fi verbinding</string>
   <string name="wifi_share_count">%d gedeelde netwerken</string>
   <string name="wifi_share_current_network">Huidige netwerk</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">Geen gedeelde Wi-Fi netwerken gevonden.</string>
   <string name="wifi_share_login">Deel publiek Wi-Fi wachtwoord</string>
-  <string name="wifi_share_login_summary">Als dit een openbare netwerk is, kunt u deze delen met andere MIUI gebruikers.</string>
-  <string name="wifi_share_notification_summary">MIUI heeft u verbonden met een openbare Wi-Fi netwerk.</string>
+  <string name="wifi_share_login_summary">Als dit een openbaar netwerk is, kunt u deze delen met andere MIUI gebruikers.</string>
+  <string name="wifi_share_notification_summary">MIUI heeft u verbonden met een openbaar Wi-Fi netwerk.</string>
   <string name="wifi_share_other_network">Andere Wi-Fi netwerken</string>
   <string name="wifi_share_qrcode_finish">OK</string>
   <string name="wifi_share_qrcode_summary">Gebruik de camera om de QR code te scannen</string>
