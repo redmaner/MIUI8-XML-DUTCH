@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="bluetooth_dun_acceptance_dialog_text">%1$s wil DUN gebruiken. %2$s toegang geven?</string>
+  <string name="bluetooth_dun_request">DUN verzoek</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s wil toegang tot uw bestanden en mappen. %2$s toegang geven?</string>
+  <string name="bluetooth_ftp_request">Ftp verzoek</string>
+  <string name="bluetooth_mas_acceptance_dialog_text">%1$s wil toegang tot uw berichten. %2$s toegang geven?</string>
+  <string name="bluetooth_mas_request">Berichten toegangsverzoek</string>
+  <string name="bluetooth_remember_choice">Altijd toestaan</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s wil toegang tot uw SIM.  %2$s toegang geven?</string>
+  <string name="bluetooth_sap_request">SAP verzoek</string>
+  <string name="defaultname">Carkit</string>
+  <string name="dun_acceptance_timeout_message">Er was een time-out om verbinding met %1$s te aanvaarden</string>
+  <string name="dun_notif_message">Aanraken om te verbinden met \"%1$s\".</string>
+  <string name="dun_notif_ticker">Bluetooth DUN verzoek</string>
+  <string name="dun_notif_title">Sessie sleutel verzoek voor DUN</string>
+  <string name="ftp_acceptance_dialog_header">Telefoon map toegang</string>
+  <string name="ftp_acceptance_dialog_title">%1$s wil toegang tot uw telefoon mappen. %2$s toegang geven?</string>
+  <string name="ftp_acceptance_timeout_message">Er was een time-out om verbinding met %1$s te aanvaarden</string>
+  <string name="ftp_authentication_timeout_message">Er was een time-out om de sessie sleutel in te voeren met %1$s</string>
+  <string name="ftp_notif_message">Aanraken om te verbinden met \"%1$s\".</string>
+  <string name="ftp_notif_ticker">Bluetooth verbindingsverzoek</string>
+  <string name="ftp_notif_title">Sessie sleutel verzoek voor FTP</string>
+  <string name="ftp_session_key_dialog_header">Bluetooth sessie sleutel nodig</string>
+  <string name="ftp_session_key_dialog_title">Typ sessie sleutel voor %1$s</string>
+  <string name="map_acceptance_dialog_header">Telefoon map toegang</string>
+  <string name="map_acceptance_dialog_title">%1$s wil toegang tot uw telefoon mappen. %2$s toegang geven?</string>
+  <string name="map_acceptance_timeout_message">Er was een time-out om verbinding met %1$s te aanvaarden</string>
+  <string name="map_alert_conn_failed_message">Bluetooth MAP verbinding mislukt.</string>
+  <string name="map_authentication_timeout_message">Er was een time-out om de sessie sleutel in te voeren met %1$s</string>
+  <string name="map_notif_message">Aanraken om te verbinden met \"%1$s\".</string>
+  <string name="map_notif_ticker">Bluetooth verbindingsverzoek</string>
+  <string name="map_notif_title">Sessie sleutel verzoek voor MAP</string>
+  <string name="map_session_key_dialog_header">Bluetooth sessie sleutel nodig</string>
+  <string name="map_session_key_dialog_title">TTyp sessie sleutel voor %1$s</string>
+  <string name="process"/>
+  <string name="sap_acceptance_timeout_message">Er was een time-out om verbinding met %1$s te aanvaarden</string>
+  <string name="sap_notif_message">Aanraken om te verbinden met \"%1$s\".</string>
+  <string name="sap_notif_ticker">Bluetooth SIM toegangsverzoek</string>
+  <string name="sap_notif_title">Sessie sleutel verzoek voor</string>
+</resources>

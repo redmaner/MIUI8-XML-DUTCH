@@ -369,7 +369,7 @@
   <string name="fmt_time">T</string>
   <string name="fmt_time_12hour">"h 'o''clock'"</string>
   <string name="fmt_time_12hour_minute">h:mm</string>
-  <string name="fmt_time_12hour_minute_pm">h:mma</string>
+  <string name="fmt_time_12hour_minute_pm">h:mm a</string>
   <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
   <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
   <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
@@ -463,7 +463,7 @@
   <string name="noon">PM</string>
   <string name="note">Notitie</string>
   <string name="organization">Organisatie</string>
-  <string name="perm_payment_dspt">Laat app betalen door middel van Mi Pay Service</string>
+  <string name="perm_payment_dspt">Laat app betalen door gebruik van Mi Pay Service</string>
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">App kan SMS berichten versturen zonder eerst te vragen. Uw provider kan kosten aanrekenen voor deze berichten.</string>
   <string name="permlab_sendSmsNoConfirmation">Laat SMS berichten toe op de achtergrond</string>
@@ -519,7 +519,7 @@
   <string name="sunday">zondag</string>
   <string name="sunday_short">Zo</string>
   <string name="sunday_shortest">Z</string>
-  <string name="sync_one_time_sync">Aanraken om te sync.（ %1$s )</string>
+  <string name="sync_one_time_sync">Tik om te sync.（ %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Verjaardag van Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti agressie dag</string>
   <string name="the_arbor_day">Aswoensdag</string>
