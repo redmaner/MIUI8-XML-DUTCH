@@ -240,7 +240,7 @@ met %s"</string>
   <string name="default_audio_route_name_headphones">Hoofdtelefoon</string>
   <string name="default_browser"/>
   <string name="default_media_route_name_hdmi">HDMI</string>
-  <string name="default_sms_application">com.android.messaging</string>
+  <string name="default_sms_application">com.android.mms</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteText">Verwijderen</string>
   <string name="deleted_key">%1$s verwijderd</string>
@@ -809,8 +809,8 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_reorderTasks">Hiermee kan de app taken naar de voor- en achtergrond verplaatsen. De app kan dit doen zonder om uw bevestiging te vragen.</string>
   <string name="permdesc_requestInstallPackages">Hiermee kan een app om de installatie van de pakketten vragen.</string>
   <string name="permdesc_route_media_output">Hiermee kan een app media uitvoer naar andere externe apparaten doorsturen.</string>
-  <string name="permdesc_sdcardRead">Hiermee kan de app de inhoud van uw SD kaart lezen.</string>
-  <string name="permdesc_sdcardWrite">Hiermee kan de app schrijven naar de SD kaart.</string>
+  <string name="permdesc_sdcardRead">Hiermee kan de app de inhoud van uw USB opslag lezen.</string>
+  <string name="permdesc_sdcardWrite">Hiermee kan de app schrijven naar de USB opslag.</string>
   <string name="permdesc_sendSms">Hiermee kan de app SMS berichten verzenden. Dit kan tot onverwachte kosten leiden. Schadelijke apps kunnen u geld kosten doordat ze zonder uw bevestiging berichten kunnen verzenden.</string>
   <string name="permdesc_setAlarm">Hiermee kan de app een alarm instellen in een geïnstalleerde wekkerapp. Deze functie wordt door sommige wekkerapps niet geïmplementeerd.</string>
   <string name="permdesc_setInputCalibration">Hiermee kan de app de kalibratie parameters van het aanraakscherm wijzigen. Nooit vereist voor normale apps.</string>
@@ -931,8 +931,8 @@ voor account %s."</string>
   <string name="permlab_reorderTasks">Actieve apps opnieuw rangschikken</string>
   <string name="permlab_requestInstallPackages">installeer pakketten verzoeken</string>
   <string name="permlab_route_media_output">Media uitvoer aansturen</string>
-  <string name="permlab_sdcardRead">read the contents of your SD card</string>
-  <string name="permlab_sdcardWrite">modify or delete the contents of your SD card</string>
+  <string name="permlab_sdcardRead">leest de inhoud van uw USB opslag</string>
+  <string name="permlab_sdcardWrite">past aan of verwijderd de inhoud van uw USB opslag</string>
   <string name="permlab_sendSms">SMS berichten verzenden en lezen</string>
   <string name="permlab_setAlarm">Een alarm instellen</string>
   <string name="permlab_setInputCalibration">invoerapparaat kalibratie wijzigen</string>
@@ -1016,7 +1016,7 @@ voor account %s."</string>
   <string name="preposition_for_year">in %s</string>
   <string name="print_service_installed_message">Tik om in te schakelen</string>
   <string name="print_service_installed_title">%s service geïnstalleerd</string>
-  <string name="progress_erasing">Bezig met SD kaart te wissen…</string>
+  <string name="progress_erasing">Bezig met USB opslag te wissen…</string>
   <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
   <string name="quick_contacts_not_available">Er is geen app gevonden om dit contact te bekijken.</string>
   <string name="reason_service_unavailable">Afdrukservice niet ingeschakeld</string>

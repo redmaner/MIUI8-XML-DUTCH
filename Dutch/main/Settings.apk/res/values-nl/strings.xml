@@ -791,8 +791,8 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="credentials_configure_lock_screen_hint">U moet een PIN code of wachtwoord voor het vergrendelen van het scherm instellen voordat u de referentieopslag kunt gebruiken.</string>
   <string name="credentials_enabled">De opslag van referenties is ingeschakeld.</string>
   <string name="credentials_erased">Opslag van referenties is gewist.</string>
-  <string name="credentials_install">Installeren van SD kaart</string>
-  <string name="credentials_install_summary">Certificaten installeren van SD kaart</string>
+  <string name="credentials_install">Installeren van opslag</string>
+  <string name="credentials_install_summary">Certificaten installeren van opslag</string>
   <string name="credentials_not_erased">Referentieopslag kon niet worden gewist.</string>
   <string name="credentials_old_password">Huidig wachtwoord:</string>
   <string name="credentials_password_too_short">Minimum 8 tekens.</string>
@@ -930,7 +930,10 @@ Aangezien dit gegevensverbruik wordt gemeten door uw apparaat en uw provider tot
   <string name="data_usage_pick_cycle_day">Dag van maand voor opnieuw instellen van gegevensgebruikcyclus:</string>
   <string name="data_usage_received_sent">%1$s ontvangen, %2$s verzonden</string>
   <string name="data_usage_restrict_background">Als u het gebruik van mobiele achtergrondgegevens beperkt, werken sommige apps en services niet, tenzij u bent verbonden met een Wi-Fi netwerk.</string>
-  <string name="data_usage_restrict_background_multiuser">"Als u het gebruik van mobiele achtergrondgegevens beperkt, werken sommige apps en services niet goed, tenzij u bent verbonden met een Wi-Fi netwerk."</string>
+  <string name="data_usage_restrict_background_multiuser">"Als u het gebruik van mobiele achtergrondgegevens beperkt, werken sommige apps en services niet goed, tenzij u bent verbonden met een Wi-Fi netwerk.
+  
+Deze instelling heeft effect voor alle gebruikers op deze telefoon
+"</string>
   <string name="data_usage_restrict_background_title">Achtergrondgegevens beperken?</string>
   <string name="data_usage_restrict_denied_dialog">U kunt achtergrondgegevens alleen beperken als u een mobiele gegevenslimiet heeft ingesteld.</string>
   <string name="data_usage_summary_title">Datagebruik</string>
@@ -1068,9 +1071,9 @@ Aangezien dit gegevensverbruik wordt gemeten door uw apparaat en uw provider tot
   <string name="display_settings_title">Weergave</string>
   <string name="dlg_cancel">Annuleren</string>
   <string name="dlg_close">Sluiten</string>
-  <string name="dlg_confirm_unmount_text">Als u de SD kaart ontkoppelt, zullen sommige apps die u gebruikt stoppen en mogelijk niet beschikbaar zijn totdat u de SD kaart weer koppelt.</string>
-  <string name="dlg_confirm_unmount_title">SD kaart ontkoppelen?</string>
-  <string name="dlg_error_unmount_text">Kon SD kaart niet ontkoppelen. Probeer later opnieuw.</string>
+  <string name="dlg_confirm_unmount_text">Als u de USB opslag ontkoppelt, zullen sommige apps die u gebruikt stoppen en mogelijk niet beschikbaar zijn totdat u de SD kaart weer koppelt.</string>
+  <string name="dlg_confirm_unmount_title">USB opslag ontkoppelen?</string>
+  <string name="dlg_error_unmount_text">Kon USB opslag niet ontkoppelen. Probeer later opnieuw.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dlg_switch">Wisselen</string>
@@ -1232,12 +1235,12 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Naast het gebruik van uw vingerafdruk om uw toestel te ontgrendelen, kunt u dit apparaat meer beschermen door een PIN te eisen voordat het opstart. Totdat het apparaat opstart, kan het geen oproepen, berichten of mededelingen, inclusief alarmen ontvangen.
 
 Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</string>
-  <string name="enforce_read_external_confirm_message">"Wanneer de SD kaart is beveiligd, moeten apps toestemming vragen om gegevens van de externe opslag te mogen lezen.
+  <string name="enforce_read_external_confirm_message">"Wanneer de USB opslag is beveiligd, moeten apps toestemming vragen om gegevens van de externe opslag te mogen lezen.
 
 Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars.</string>
-  <string name="enforce_read_external_confirm_title">SD kaart beveiligen?</string>
-  <string name="enforce_read_external_summary">Apps moeten toestemming vragen om de SD kaart te mogen lezen</string>
-  <string name="enforce_read_external_title">SD kaart beveiligen</string>
+  <string name="enforce_read_external_confirm_title">USB opslag beveiligen?</string>
+  <string name="enforce_read_external_summary">Apps moeten toestemming vragen om de USB opslag te mogen lezen</string>
+  <string name="enforce_read_external_title">USB opslag beveiligen</string>
   <string name="enhanced_4g_lte_mode_summary">Gebruik LTE data om spraak en communicatie te verbeteren (aanbevolen)</string>
   <string name="enhanced_4g_lte_mode_title">Verbeterde 4G LTE modus</string>
   <string name="enter_password">Om Android te starten, voer uw wachtwoord in</string>
@@ -1246,8 +1249,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="erase_application">Apps verwijderen</string>
   <string name="erase_application_description">De geïnstalleerde apps verwijderen</string>
   <string name="erase_data">Verwijderen</string>
-  <string name="erase_external_storage">SD kaart wissen</string>
-  <string name="erase_external_storage_description">Wis alle data op de SD kaart, zoals muziek en foto\'s</string>
+  <string name="erase_external_storage">USB opslag wissen</string>
+  <string name="erase_external_storage_description">Wis alle data op de USB opslag, zoals muziek en foto\'s</string>
   <string name="erase_internal_storage">Wis alle opgeslagen inhoud</string>
   <string name="erase_internal_storage_description">Interne opslag wissen zal alle bestanden wissen, zoals muziek of foto\'s</string>
   <string name="erase_optional">Optionele wisactie</string>
@@ -1262,7 +1265,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="every_day">Dagelijks</string>
   <string name="experimental_preference">(Experimenteel)</string>
   <string name="external_code_size_label">USB opslagapparaat</string>
-  <string name="external_data_size_label">SD kaart</string>
+  <string name="external_data_size_label">USB opslag data</string>
   <string name="extreme_threats_summary">Ontvang waarschuwingen voor extreme bedreigingen voor het leven en eigendom</string>
   <string name="extreme_threats_title">Extreme bedreigingen</string>
   <string name="factory_reset_summary">Wis alle gegevens van de interne opslag</string>
@@ -1277,7 +1280,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="filter_apps_all">Alles</string>
   <string name="filter_apps_cached">Gecachet</string>
   <string name="filter_apps_disabled">Uitgeschakeld</string>
-  <string name="filter_apps_onsdcard">Op SD kaart</string>
+  <string name="filter_apps_onsdcard">USB opslag</string>
   <string name="filter_apps_running">Wordt uitgevoerd</string>
   <string name="filter_apps_third_party">Gedownload</string>
   <string name="filter_dlg_title">Filteropties kiezen</string>
@@ -1842,7 +1845,7 @@ U bent momenteel aangemeld bij de volgende accounts:
 "&lt;li&gt;Andere gebruikersgegevens&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">
   
-"Als u muziek, foto\'s en andere gebruikersgegevens wilt wissen, moet de "&lt;b&gt;SD kaart&lt;/b&gt; worden gewist."</string>
+"Als u muziek, foto\'s en andere gebruikersgegevens wilt wissen, moet de "&lt;b&gt;USB opslag&lt;/b&gt; worden gewist."</string>
   <string name="master_clear_erase_application_progress">Apps verwijderen…</string>
   <string name="master_clear_failed">"Niet opnieuw ingesteld, omdat de service 'Systeem wissen' niet beschikbaar is."</string>
   <string name="master_clear_final_button_text">Alles wissen</string>
@@ -1962,7 +1965,7 @@ Er zijn nog andere gebruikers op dit toestel.
   <string name="move_app_failed_dlg_text">Kon app niet verplaatsen. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Verplaatsen naar apparaat</string>
-  <string name="move_app_to_sdcard">Verplaatsen naar SD kaart</string>
+  <string name="move_app_to_sdcard">Verplaatsen naar USB opslag</string>
   <string name="moving">Verplaatsen</string>
   <string name="msd_driver_download">Driver downloaden</string>
   <string name="msd_driver_download_mac">Voor Macs, download de driver en klik op AndroidFileTransfer.dmg om te installeren</string>
@@ -2582,6 +2585,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="scan_list_label">Scanresultaten:</string>
   <string name="screen">Scherm</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
+  <string name="screen_color_and_optimize_disabled">Kan kleurtemperatuur niet aanpassen in leesmodus</string>
   <string name="screen_color_temperature">Kleuren</string>
   <string name="screen_color_temperature_and_saturation">Kleuren &amp; verzadiging</string>
   <string name="screen_compatibility_label">Schermcompatibiliteit</string>
@@ -2651,34 +2655,34 @@ Om schermpinning te gebruiken:
   <string name="screensaver_settings_summary_sleep">Tijdens het opladen</string>
   <string name="screensaver_settings_title">Dagdromen</string>
   <string name="screensaver_settings_when_to_dream">Wanneer dagdromen</string>
-  <string name="sd_card_settings_label">SD kaart</string>
-  <string name="sd_card_storage">SD kaart opslag</string>
-  <string name="sd_eject">SD kaart ontkoppelen</string>
-  <string name="sd_eject_summary">Ontkoppel de SD kaart zodat die veilig verwijderd kan worden</string>
+  <string name="sd_card_settings_label">USB opslag</string>
+  <string name="sd_card_storage">USB opslag</string>
+  <string name="sd_eject">Gedeelde opslag ontkoppelen</string>
+  <string name="sd_eject_summary">Ontkoppel de intene USB opslag</string>
   <string name="sd_ejecting_summary">Ontkoppelen wordt uitgevoerd</string>
   <string name="sd_ejecting_title">Ontkoppelen</string>
-  <string name="sd_format">SD kaart opslag wissen</string>
-  <string name="sd_format_summary">Wist alle gegevens op de SD kaart, zoals muziek en foto\'s</string>
-  <string name="sd_insert_summary">SD kaart plaatsen om te koppelen</string>
-  <string name="sd_memory">SD kaart</string>
-  <string name="sd_mount">SD kaart koppelen</string>
+  <string name="sd_format">USB opslag wissen</string>
+  <string name="sd_format_summary">Wist alle gegevens op de USB opslag, zoals muziek en foto\'s</string>
+  <string name="sd_insert_summary">USB opslag plaatsen om te koppelen</string>
+  <string name="sd_memory">USB opslag</string>
+  <string name="sd_mount">USB opslag koppelen</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Wijzigingen worden van kracht als de USB kabel opnieuw wordt aangesloten.</string>
-  <string name="sdcard_format">SD kaart wissen</string>
-  <string name="sdcard_setting">SD kaart</string>
+  <string name="sdcard_format">USB opslag wissen</string>
+  <string name="sdcard_setting">USB opslag</string>
   <string name="sdcard_settings_available_bytes_label">Beschikbare bytes:</string>
-  <string name="sdcard_settings_bad_removal_status">SD kaart verwijderd tijdens gebruik!</string>
-  <string name="sdcard_settings_mass_storage_status">SD kaart wordt gebruikt als apparaat voor massaopslag.</string>
-  <string name="sdcard_settings_not_present_status">SD kaart niet gekoppeld.</string>
-  <string name="sdcard_settings_read_only_status">Gekoppelde SD kaart alleen lezen.</string>
-  <string name="sdcard_settings_scanning_status">SD kaart scannen op media…</string>
+  <string name="sdcard_settings_bad_removal_status">USB opslag verwijderd tijdens gebruik!</string>
+  <string name="sdcard_settings_mass_storage_status">USB opslag wordt gebruikt als apparaat voor massaopslag.</string>
+  <string name="sdcard_settings_not_present_status">USB opslag niet gekoppeld.</string>
+  <string name="sdcard_settings_read_only_status">Gekoppelde USB opslag alleen lezen.</string>
+  <string name="sdcard_settings_scanning_status">USB opslag scannen op media…</string>
   <string name="sdcard_settings_screen_mass_storage_text">USB massaopslag inschakelen</string>
   <string name="sdcard_settings_total_bytes_label">Totaal aantal bytes:</string>
-  <string name="sdcard_settings_unmounted_status">SD kaart kan veilig worden verwijderd.</string>
+  <string name="sdcard_settings_unmounted_status">USB opslag kan veilig worden verwijderd.</string>
   <string name="sdcard_settings_used_bytes_label">Gebruikte bytes:</string>
-  <string name="sdcard_unmount">SD kaart ontkoppelen</string>
+  <string name="sdcard_unmount">USB opslag ontkoppelen</string>
   <string name="se_route_ese">Ingebed beveiligde element</string>
-  <string name="se_route_uicc">Beveiligd element op SIM-kaart</string>
+  <string name="se_route_uicc">Beveiligd element op SIM kaart</string>
   <string name="search_about">Over</string>
   <string name="search_accelerometer">Versnellingsmeter</string>
   <string name="search_access_control">Toegang beheer</string>
@@ -3091,7 +3095,7 @@ Deze ^1 is geformatteerd om enkel op dit apparaat te werken. Het zal&amp;#8217; 
   <string name="storage_other_users">Andere gebruikers</string>
   <string name="storage_rename_title">Naam opslag wijzigen</string>
   <string name="storage_settings">Opslagruimte</string>
-  <string name="storage_settings_summary">SD kaart ontkoppelen, beschikbare opslag weergeven</string>
+  <string name="storage_settings_summary">USB opslag ontkoppelen, beschikbare opslag weergeven</string>
   <string name="storage_settings_title">Instellingen voor opslag</string>
   <string name="storage_size_large">^1&lt;klein&gt;&lt;klein&gt; ^2&lt;/klein&gt;&lt;/klein&gt;</string>
   <string name="storage_summary_format">%1$s gebruikt in %2$s</string>
@@ -3367,7 +3371,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
   <string name="unlock_setup_wizard_fingerprint_details">Als u eenmaal de schermvergrendeling hebt ingesteld, kan u ook uw vingerafdruk instellen in Instellingen &gt; Beveiliging.</string>
-  <string name="unmount_inform_text">SD kaart zal losgekoppeld worden.</string>
+  <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
   <string name="upload_debug_log_summary">Help Xiaomi haar producten en diensten te verbeteren door anonieme gegevens te versturen</string>
@@ -3720,7 +3724,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_connect_cmcc_dialog_content">Verbonden met mobiel datanetwerk. Als u uw datalimiet overschrijdt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Niet opnieuw tonen</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC verbonden</string>
-  <string name="wifi_connect_failed_message">Kon niet verbinden met Wi-Fi netwerk</string>
+  <string name="wifi_connect_failed_message">De telefoon kon niet verbinden met een Wi-Fi netwerk</string>
   <string name="wifi_connected_no_internet">Verbonden, geen internet</string>
   <string name="wifi_context_menu_change_password">Verander wachtwoord</string>
   <string name="wifi_context_menu_change_wapi_certificate">Verander WAPI certificaat</string>

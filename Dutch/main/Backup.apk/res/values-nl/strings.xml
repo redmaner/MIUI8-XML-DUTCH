@@ -243,8 +243,13 @@
   <string name="total_num">%d items</string>
   <string name="trans_backingup">Bezig met back-up…</string>
   <string name="trans_backingup_no_items">Sync.…</string>
+  <string name="trans_calculating">Berekenen…</string>
+  <string name="trans_calculating_app_sd_size">Berekend de data grootte om te verzenden, %s gescand</string>
+  <string name="trans_calculating_base_size">Berekenen van apps basis grootte</string>
   <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
   <string name="trans_cancelling">Annuleren</string>
+  <string name="trans_connect_failed_message">"Verbinding mislukt, probeer opnieuw of herstart. Op het andere apparaat, Ga naar Instellingen &gt; Extra Instellingen &gt; Mi Mover, Tik [Ik ben een verzender] of start Mi Mover opnieuw na herstarten"</string>
+  <string name="trans_connect_failed_title">Verbinding mislukt</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
   <string name="trans_connecting_toast">Verbinden…</string>
   <string name="trans_detail_category_account">Accounts en contacten</string>
@@ -255,6 +260,8 @@
   <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
   <string name="trans_main_tutor">Contacten, belgeschiedenis, berichten, startschermlayout, apps, instellingen, enz. verplaatsen naar een nieuw apparaat</string>
   <string name="trans_my_device">Mijn apparaat</string>
+  <string name="trans_native_no_space">"Dit apparaat heeft niet genoeg ruimte
+Verwijdere teminste %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
@@ -266,18 +273,23 @@ Transfereren app op uw oude apparaat
 2. Open de app en selecteer [Ik ben verzender]
 3. Scan de QR code met uw oude apparaat"</string>
   <string name="trans_operate_old_phone_tips2">"Ga naar instellingen &gt; Extra instellingen &gt; Mi Mover, Tik op [Ik ben verzender]"</string>
+  <string name="trans_please_waiting">Een momentje…</string>
   <string name="trans_progress_subdescript_br_receiver">%1$s aan het herstellen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_br_sender">%1$s aan het back-uppen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_transing_receiver">%1$s aan het ontvangen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_transing_sender">%1$s aan het verzenden, %2$s voltooid</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Bestanden aan het ontvangen, %s voltooid</string>
   <string name="trans_progress_subdescript_transingsd_sender">Bestanden aan het verzenden, %s voltooid</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Het ontvangen van SD kaart datas van %1$s, %2$s voltooid</string>
+ +  <string name="trans_progress_subdescript_transingsddata_sender">Het verzenden van SD kaart datas van %1$s, %2$s voltooid</string>
+    <string name="trans_progress_subdescript_waiting">Wachten om %s te ontvangen</string>
   <string name="trans_progress_subdescript_waiting">Wachten om %s te ontvangen</string>
   <string name="trans_receiver">Ik ben een ontvanger</string>
   <string name="trans_receiver_time_remained">"%s resterend.
 Wi-Fi Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_restoring">Herstellen…</string>
   <string name="trans_restoring_no_items">Sync. items</string>
+  <string name="trans_retry">Probeer opnieuw</string>
   <string name="trans_scan_invalid_qrcode">Ongeldige QR code</string>
   <string name="trans_scan_qr_code_tips">Scan QR code met nieuwe apparaat</string>
   <string name="trans_select_data">Selecteer items om te verzenden</string>
@@ -297,6 +309,8 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_sending_completed">Met succes verzonden</string>
   <string name="trans_show_qr_code_label">Oud apparaat verbinden</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
+  <string name="trans_start_failed_message">Starten mislukt, probeer opnieuw of herstart</string>
+ +  <string name="trans_start_failed_title">Starten mislukt</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"
 Tijd besteed: %s"</string>
