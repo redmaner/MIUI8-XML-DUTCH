@@ -287,6 +287,12 @@
   <string name="permission_send_sms_descx">Apps kunnen SMS and MMS berichten verzenden</string>
   <string name="permission_with_SMS_and_MMS">Toestemmingen in verband met SMS en MMS</string>
   <string name="permission_with_call_and_contact">Toestemmingen in verband met gesprekken, contactinfo en gespreksgeschiedenis</string>
+  <string name="pm_auto_start_basic_services_lock">Vergrendelen</string>
+  <string name="pm_auto_start_basic_services_unlock">Ontgrendelen</string>
+  <string name="pm_auto_start_by_basic_services">Basis diensten</string>
+  <string name="pm_auto_start_by_other_services">Probeer deze diensten uit te schakelen</string>
+  <string name="pm_auto_start_by_system">Start apps</string>
+  <string name="pm_auto_start_proc_is_running">Bezig</string>
   <string name="pm_root_success_notification_title">Roottoegang ingeschakeld</string>
   <string name="power_20s_enter_mode">Verwisselen naar %2$s in %1$ds</string>
   <string name="power_20s_shutdown">Apparaat zal binnen 20 seconden uitgeschakeld worden</string>
@@ -513,7 +519,7 @@
   <string name="summary_flow_verify">Dataverbruikgegevens van provider zijn de laatste %d dagen niet gesynchroniseerd</string>
   <string name="summary_garbage_lib">Gebruik de nieuwste definities om spyware, adware en andere ongewenste rommel te verwijderen</string>
   <string name="summary_install_virus">Controleer apps op virussen voor installeren</string>
-  <string name="summary_live_talk_purchase">Slechts ¥ 0.05 per minuut voor nationale gesprekken.</string>
+  <string name="summary_live_talk_purchase">Bespaar 70% op uw belkosten</string>
   <string name="summary_miui_update">Update beschikbaar voor %s.</string>
   <string name="summary_mms">Filteren van ongewenste berichten (sales, adv, etc.)</string>
   <string name="summary_network_switch">Beveiligingsapp toestaan verbinding te maken met internet</string>
@@ -528,6 +534,7 @@
   <string name="summary_virus">Virussen verwijderen om uw apparaat veilig te houden</string>
   <string name="summary_virus_cloudscan">Upload appnamen en details en scan met behulp van online virusdefinities</string>
   <string name="summary_virus_update">Update virusdefinities automatisch bij Wi-Fi verbinding</string>
+  <string name="summary_xiaomi_roaming">0.01 yuan per MB voor internationaal netwerk verkeer.</string>
   <string name="system_check_content">"%1$d risico's"</string>
   <string name="system_check_content_none">Veilig</string>
   <string name="system_header_title">%1$d processen verwijderen om %2$s geheugen vrij te maken</string>
@@ -549,7 +556,7 @@
   <string name="title_garbage_lib">Automatische updates</string>
   <string name="title_install_virus_no">Installatie monitor uit</string>
   <string name="title_install_virus_yes">Installatie monitor aan</string>
-  <string name="title_live_talk_purchase">Herlaad nu</string>
+  <string name="title_live_talk_purchase">Herlaad pakket inschakelen</string>
   <string name="title_miui_update">Update beschikbaar</string>
   <string name="title_mms_no">Berichtenfilter uitgeschakeld</string>
   <string name="title_mms_yes">Berichtenfilter ingeschakeld</string>
@@ -568,6 +575,7 @@
   <string name="title_virus_update_no">Automatisch update voor virusdefinities uit</string>
   <string name="title_virus_update_yes">Automatisch update voor virusdefinities aan</string>
   <string name="title_virus_yes">Geen virussen gevonden</string>
+  <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_cleaner_cloudscan">Opruimer zal gebruik maken van online definities</string>
   <string name="toast_default_app">"%1$s ingesteld als standaard %2$s"</string>
   <string name="toast_flow_notification">Ingeschakelde dataverbruik notificaties</string>
