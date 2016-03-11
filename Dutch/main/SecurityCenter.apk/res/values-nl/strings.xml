@@ -50,6 +50,7 @@
   <string name="antivirus_privacy_dialog_title">Privacybeleid</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
+  <string name="app_install_intercept">Installatie blokkeren</string>
   <string name="app_name_securitycenter">Veiligheid</string>
   <string name="app_not_installed_toast">App is niet geïnstalleerd op apparaat</string>
   <string name="auto_handle_title">ALGEMEEN</string>
@@ -122,6 +123,7 @@
   <string name="cmcc_app_check_dialog_positive">Nu herstarten</string>
   <string name="cmcc_app_check_dialog_title">Systeem hersteld</string>
   <string name="confirm_reject_all_permission">Alle apps beperken om deze functie te gebruiken?</string>
+  <string name="continue_install">Installeren</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Annuleren</string>
   <string name="cta_checkbox_title">Niet meer weergeven</string>
@@ -152,6 +154,7 @@
   <string name="dialog_msg_stop_virus_scan">Virusscan stoppen voordat hij klaar is?</string>
   <string name="dialog_title_auto_start_declare">Over autostart</string>
   <string name="dialog_title_stop_virus_scan">Stoppen met virusscan</string>
+  <string name="empty_app">Geen apps</string>
   <string name="empty_title_auto_start_list">Geen autostart apps</string>
   <string name="empty_title_manual_item_white_list">Geen uitzonderingen.</string>
   <string name="empty_title_perm_apps">Apps hebben deze toestemming niet</string>
@@ -213,6 +216,7 @@
   <string name="hints_virus_scan_result_descx">Deze app is een groot risico voor de veiligheid van uw telefoon.</string>
   <string name="history_details_title">Geschiedenisdetails</string>
   <string name="info_and_call">Gesprekken en berichten</string>
+  <string name="install_title">Installeren via USB</string>
   <string name="item_app_permission">Apptoestemmingen</string>
   <string name="item_dev_mode">Ontwikkelaarsopties</string>
   <string name="item_install_monitor">Installeer monitor</string>
@@ -267,6 +271,7 @@
   <string name="menu_text_power_manager">Vermogen beheer</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Batterij %s</string>
+  <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="month_report_month_report_switch">Geef maandelijks rapport weer</string>
   <string name="never">1 maal</string>
   <string name="notification_button_text_of_low_memory">Opruimen</string>
@@ -275,6 +280,8 @@
   <string name="notification_title_firewall_blocked">Geblokkeerd</string>
   <string name="ok">OK</string>
   <string name="packages_subtitle">Inbegrepen pakketten</string>
+  <string name="pc_install_manager">Installeren via USB</string>
+  <string name="pc_to_phone_install">Installatie geblokkeerd van %s via USB</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Toestaan</string>
   <string name="permission_action_prompt">Melden</string>
@@ -293,6 +300,7 @@
   <string name="pm_auto_start_by_other_services">Probeer deze diensten uit te schakelen</string>
   <string name="pm_auto_start_by_system">Start apps</string>
   <string name="pm_auto_start_proc_is_running">Bezig</string>
+  <string name="pm_remember_choice">Mijn keuze herinneren</string>
   <string name="pm_root_success_notification_title">Roottoegang ingeschakeld</string>
   <string name="power_20s_enter_mode">Verwisselen naar %2$s in %1$ds</string>
   <string name="power_20s_shutdown">Apparaat zal binnen 20 seconden uitgeschakeld worden</string>
@@ -479,7 +487,11 @@
   <string name="protection_category_dangerous_title">"Risico's (%d)"</string>
   <string name="protection_category_recommend_title">Aanbevolen veranderingen (%d)</string>
   <string name="protection_category_security_title">Opruimen (%d)</string>
+  <string name="recently_reject_message">Installatie weigeren van %1$s en %2$d andere apps</string>
+  <string name="recently_reject_message_one">Weiger %1$s installatie verzoeken</string>
   <string name="reject_all">Alle beperken</string>
+  <string name="reject_countdown">Weigeren (%d)</string>
+  <string name="reject_usb_install">Geweigerde installatie van volgende apps via USB</string>
   <string name="risk_list_header_title">%d verdachte app gedetecteerd</string>
   <string name="root_apply_step_1">%s roottoegang verlenen?</string>
   <string name="root_apply_step_2">Apps roottoegang verlenen kan ertoe leiden dat uw apparaat instabiel wordt.</string>
@@ -602,5 +614,6 @@
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aan blijven</string>
   <string name="usage_type_wifi_running">Wi-Fi actief</string>
+  <string name="usb_install_desc">Deze app installeren via USB?</string>
   <string name="virus_list_header_title">%d virussen gedetecteerd</string>
 </resources>
