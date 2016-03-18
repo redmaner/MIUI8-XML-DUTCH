@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">SMS en MMS</string>
+  <string name="Setting_lock">Instellingen</string>
   <string name="Settings_title_anti_spam">Anti-spam instellingen</string>
   <string name="Settings_title_anti_virus">Virusscanner instellingen</string>
   <string name="Settings_title_garbage_cleanup">Prullenbak opruiminstellingen</string>
   <string name="Settings_title_network_assistants">Netwerkassistent instellingen</string>
   <string name="Settings_title_power_center">Batterij instellingen</string>
+  <string name="access_control_need_password">"%s Blokkering met succes toegevoegd
+"</string>
+  <string name="access_control_need_to_unlock">"Deblokkeren met vingerafdruk
+of vooer wachtwoord in"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Voer deblokkeringswachtwoord in</string>
+  <string name="access_control_recording_intro_header">Teken een patroon om app blokkering toe te voegen</string>
+  <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om app blokkering te resetten</string>
   <string name="activity_title_antispam">Zwarte lijst</string>
   <string name="activity_title_antivirus">Virusscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -66,6 +74,7 @@
   <string name="app_detail">Details</string>
   <string name="app_install_intercept">Installatie blokkeren</string>
   <string name="app_mobile">Mobiele</string>
+  <string name="app_name">App blokkering</string>
   <string name="app_name">Dataverbruik</string>
   <string name="app_name_securitycenter">Veiligheid</string>
   <string name="app_not_installed_toast">App is niet geïnstalleerd op apparaat</string>
@@ -105,6 +114,8 @@
   <string name="brightness_auto_adjust_off">Helderheid van het scherm zal constant blijven in elke omgeving</string>
   <string name="brightness_auto_adjust_on">Helderheid van het scherm varieert in relatie tot het omgevingslicht</string>
   <string name="btn_finish_diagnostic">Ok</string>
+  <string name="btn_jump">Overslaan</string>
+  <string name="btn_lock">Blokkering toevoegen</string>
   <string name="btn_start_diagnostic">Test netwerk</string>
   <string name="btn_stop_diagnostic">Stoppen</string>
   <string name="btn_text_cleanup_all">Opruimen</string>
@@ -141,6 +152,7 @@
   <string name="button_text_view_power">Batterijvermogen weergeven</string>
   <string name="cache_header_title">Verwijder %1$d gecachete bestanden om %2$s ruimte vrij te maken</string>
   <string name="call_and_contact">Gesprekken en contacten</string>
+  <string name="cancal_to_setting_fingerprint">Annuleren</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_button">Annuleren</string>
   <string name="chat_number">10 Uren</string>
@@ -152,6 +164,7 @@
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Nu herstarten</string>
   <string name="cmcc_app_check_dialog_title">Systeem hersteld</string>
+  <string name="confirm_fingerprint_msg">Plaats uw vinger op de vingerafdruklezer</string>
   <string name="confirm_reject_all_permission">Alle apps beperken om deze functie te gebruiken?</string>
   <string name="connect_internet_by_mobiledata">Mobiele dataverbinding</string>
   <string name="connect_internet_by_usbshare">Deel internet via USB</string>
@@ -274,6 +287,17 @@
   <string name="examination_score_80_100_with_recommend">%d items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_80_60">Sommige items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
+  <string name="finger_remind_message">App blokkering ondersteunt vingerafdruk deblokkering. Vingerafdruk toevoegen?</string>
+  <string name="fingerprint_identify_msg">Vingerafdruk scannen…</string>
+  <string name="fingerprint_not_identified_msg">Om uw apparaat te deblokkeren, voer uw wachtwoord in.</string>
+  <string name="fingerprint_not_remind">Niet meer vragen</string>
+  <string name="fingerprint_remind_dialog_title">Vingerafdruk deblokkering</string>
+  <string name="fingerprint_to_lock">Deblokkeren met vingerafdruk</string>
+  <string name="fingerprint_verification">Vingerafdruk verificatie</string>
+  <string name="fingerprint_verification_message">Verifieer de huidige vingerafdrukken om deze functie beginnen te gebruiken.</string>
+  <string name="fingerprint_verify_failed">Kon niet worden geverifieerd</string>
+  <string name="fingerprint_verify_succeed">Geverifieerd</string>
+  <string name="fingerprint_verify_try_agin">Kon niet scannen, probeer opnieuw</string>
   <string name="firewall_activity_lable">Dataverbruik beperken per app, strikt dataverbruik per app</string>
   <string name="firewall_applist">Apps</string>
   <string name="firewall_fragment_nonesys_listempty">Leeg</string>
@@ -291,6 +315,8 @@
   <string name="force_stop_dlg_text">Als u achtergrond mobiele data beperkt, kunnen sommige apps en services niet werken tenzij u bent verbonden met een Wi-Fi netwerk.</string>
   <string name="force_stop_dlg_title">Achtergronddata beperken</string>
   <string name="foreground_traffic">Voorgrond %s</string>
+  <string name="forget_password_button_text">&lt;u&gt;Wachtwoord vergeten&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;Wachtwoord vergeten?&lt;/u&gt;</string>
   <string name="free_time_traffic">Daluren datalimiet</string>
   <string name="free_time_traffic_hint">Voer daluren datalimiet in</string>
   <string name="free_time_traffic_settings">Daluren datalimiet instellingen</string>
@@ -299,9 +325,11 @@
   <string name="gateway_exception_summary">Controleer je router en probeer opnieuw.</string>
   <string name="gateway_exception_summary2">Kan niet verbinden met server</string>
   <string name="gateway_exception_title">Test router</string>
+  <string name="go_to_setting_fingerprint">Ga naar instellingen</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Geheugen</string>
   <string name="handle_text_system">Systeem</string>
+  <string name="help_label">Help</string>
   <string name="hints_auto_start_warning_info">Als je automatisch starten verbiedt, zullen sommige apps en services niet in staat zijn om meldingen te ontvangen</string>
   <string name="hints_cleanning_text">Opruimen…</string>
   <string name="hints_handle_item_text_risk">"Risico's: %d"</string>
@@ -385,6 +413,28 @@
   <string name="lock_screen_warning_switch_summary">Geef een waarschuwing op het vergrendelscherm weer wanneer het dataverbruik een bepaalde grens overschrijdt</string>
   <string name="lock_screen_warning_switch_title">Geef waarschuwingen op het vergrendelscherm</string>
   <string name="lock_screen_warning_value">Waarschuwen bij </string>
+  <string name="lock_settings_title">Vergrendelscherm en wachtwoord</string>
+  <string name="lockpassword_confirm_your_password_header">Bevestig wachtwoord</string>
+  <string name="lockpassword_confirm_your_pattern_header">Bevestig patroon</string>
+  <string name="lockpattern_confirm_button_text">Ok</string>
+  <string name="lockpattern_continue_button_text">Volgende</string>
+  <string name="lockpattern_need_to_confirm">Teken het patroon opnieuw om te bevestigen</string>
+  <string name="lockpattern_need_to_unlock">Bevestig het opgeslagen patroon</string>
+  <string name="lockpattern_need_to_unlock_wrong">Probeer opnieuw</string>
+  <string name="lockpattern_pattern_confirmed_header">Uw nieuw ontgrendelings patroon</string>
+  <string name="lockpattern_pattern_entered_header">Patroon toegevoegd</string>
+  <string name="lockpattern_recording_incorrect_too_short">Verbind ten minste %d punten</string>
+  <string name="lockpattern_recording_inprogress">Verwijder uw vinger nadat het patroon volledig is</string>
+  <string name="lockpattern_recording_intro_header">Verbind ten minste 4 punten om een patroon te maken</string>
+  <string name="lockpattern_retry_button_text">Opnieuw tekenen</string>
+  <string name="lockpattern_settings_help_how_to_record">Hoe een patroon tekenen</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wacht %d seconden en probeer opnieuw.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel mislukte pogingen!</string>
+  <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
+  <string name="lockpattern_tutorial_continue_label">Volgende</string>
+  <string name="lockscreen_glogin_checking_password">Controleren…</string>
+  <string name="lockscreen_glogin_password_hint">Wachtwoord</string>
+  <string name="lockscreen_glogin_submit_button">Aanmelden</string>
   <string name="main_alert_message_month_limit_error">Het datalimiet dat u hebt ingesteld is fout</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_no_mobile_package">Datalimiet instellen</string>
@@ -468,6 +518,8 @@
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
+  <string name="modify_password_info">Vergrendel patroon</string>
+  <string name="modifypassword">Wachtwoord wijzigen</string>
   <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="month_report_month_report_switch">Geef maandelijks rapport weer</string>
   <string name="network_assistant_upgraded_body">Tik om details weer te geven</string>
@@ -555,6 +607,7 @@
   <string name="package_setted_error_notification_summary">Tik om datagebruik details weer te geven.</string>
   <string name="package_setted_error_notification_titile">Kon geen dataplan instellen</string>
   <string name="packages_subtitle">Inbegrepen pakketten</string>
+  <string name="passwordIncorrect">Gebruikersnaam of wachtwoord onjuist</string>
   <string name="pay_charge">Koop extra data</string>
   <string name="pc_install_manager">Installeren via USB</string>
   <string name="pc_to_phone_install">Installatie geblokkeerd van %s via USB</string>
@@ -842,6 +895,7 @@
   <string name="preferred_app_entries_music">Muziek</string>
   <string name="privacy_declare_dialog_message">"Door het gebruik van deze dienst, gaat u akkoord met Opera's &lt;a href=%s&gt; Algemene Voorwaarden&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
+  <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en providerdetails zullen gecodeerd en geüpload worden naar de servers van Mi om uw dataverbruik info te actualiseren.</string>
   <string name="privacy_prompt_traffic_adjust_message">Deze functie moet IMEI, telefoonnummer en providerinformatie van uw apparaat gecodeerd naar de servers van Mi verzenden om de dataverbruik statistieken van uw provider te verkrijgen.</string>
   <string name="privacy_prompt_traffic_purchase_message">Uw telefoonnummer en providerdetails zullen worden gecodeerd en geüpload naar de servers van Mi om meer informatie over data aankoop opties te verkrijgen.</string>
@@ -861,6 +915,7 @@
   <string name="read_unit">" artikels"</string>
   <string name="recently_reject_message">Installatie weigeren van %1$s en %2$d andere apps</string>
   <string name="recently_reject_message_one">Weiger %1$s installatie verzoeken</string>
+  <string name="recommend_app">Aanbevolen apps</string>
   <string name="reject_all">Alle beperken</string>
   <string name="reject_countdown">Weigeren (%d)</string>
   <string name="reject_usb_install">Geweigerde installatie van volgende apps via USB</string>
@@ -899,13 +954,16 @@
   <string name="scanning_bar_system_title">Systeem scannen…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="security_app_lock">App blokkering</string>
   <string name="security_scan_optimizing">Optimaliseren…</string>
   <string name="see_detail">Details</string>
+  <string name="select_pattern">Patroon selecteren</string>
   <string name="setting_traffic_pkg">Instellen datapakket</string>
   <string name="settings">Dataverbruik instellingen</string>
   <string name="settings_title_permission">Instellingen toestemmingen</string>
   <string name="show_traffic_dialog_message">Uw dataverbruik informatie wordt weergegeven in het notificatiescherm. U kunt deze functie op elk gewenst moment in- of uitschakelen in Datagebruik &gt; Instellingen</string>
   <string name="show_traffic_dialog_title">Geef het verbruik weer in het notificatiescherm</string>
+  <string name="showpattern">Patroon weergeven</string>
   <string name="shutdown_cancel_reminder">Werd niet uitgeschakeld</string>
   <string name="shutdown_cancel_reminder_detail">Werd niet uitgeschakeld omdat u aan het bellen was</string>
   <string name="shutdown_time">Uitschakelen om: %1$s</string>
@@ -927,6 +985,7 @@
   <string name="stop_app_button">Stoppen</string>
   <string name="suffix_virus_count_bottom">Totaal</string>
   <string name="suffix_virus_count_top">"Risico's"</string>
+  <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="summary_cleaner_cloudscan">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_cloud_account">Haal het meeste uit uw Mi apparaat</string>
   <string name="summary_cloud_service">"Sync. uw foto's, contactpersonen en meer op al uw apparaten"</string>
@@ -960,9 +1019,11 @@
   <string name="summary_virus_update">Update virusdefinities automatisch bij Wi-Fi verbinding</string>
   <string name="summary_xiaomi_roaming">0.01 yuan per MB voor internationaal netwerk verkeer.</string>
   <string name="system_app">Systeemapps</string>
+  <string name="system_application">Systeemapps</string>
   <string name="system_check_content">"%1$d risico's"</string>
   <string name="system_check_content_none">Veilig</string>
   <string name="system_header_title">%1$d processen verwijderen om %2$s geheugen vrij te maken</string>
+  <string name="system_info_remind">Blokkeringen toevoegen om onbevoegde toegang tot uw apps te voorkomen</string>
   <string name="tc_diagnostic_all_error_notification_summary">Tik op om een probleem te melden</string>
   <string name="tc_diagnostic_all_error_notification_title">Kon diagnostiek niet  voltooien</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Tik om het netwerktype aan te passen</string>
@@ -1034,6 +1095,8 @@
   <string name="tc_sms_report_upload_when_net">Dank je voor de feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
   <string name="text_day"/>
+  <string name="text_lock_info">Teken deblokkeringspatroon</string>
+  <string name="third_application">Apps van derden</string>
   <string name="three_percent_total_pkg">%s (3%% maandelijkse data)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
@@ -1086,6 +1149,7 @@
   <string name="toast_default_app">"%1$s ingesteld als standaard %2$s"</string>
   <string name="toast_flow_notification">Ingeschakelde dataverbruik notificaties</string>
   <string name="toast_garbage_lib">Schakel automatische updates voor Opruimer in</string>
+  <string name="toast_lockscreen_glogin_empty_password">Wachtwoord nodig</string>
   <string name="toast_network_switch">Deze app kan verbinding maken met het internet</string>
   <string name="toast_root_apply_accept">Roottoegang verleent aan %s</string>
   <string name="toast_root_apply_reject">Roottoegang geweigerd voor %s</string>
