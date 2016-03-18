@@ -84,4 +84,45 @@
         <item quantity="other">Updates beschikbaar voor %d apps.</item>
         <item quantity="one">Update beschikbaar voor %d app.</item>
     </plurals>
+	<plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Wachtwoord moet ten minste %d letters bevatten.</item>
+        <item quantity="one">"Wachtwoord moet ten minste 1 letter bevatten. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Wachtwoord moet ten minste %d kleine letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 kleine letter bevatten …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Wachtwoord moet ten minste %d hoofdletters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 hoofdletter bevatten …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Wachtwoord moet ten minste %d nummers bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 nummer bevatten …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Wachtwoord moet ten minste %d speciale symbolen bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 speciaal symbool bevatten …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Wachtwoord moet ten minste %d andere karakters dan letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 ander karakter dan letters bevatten …</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d apps geblokkeerd</item>
+        <item quantity="one">%d app geblokkeerd</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d apps niet geblokkeerd</item>
+        <item quantity="one">%d app niet geblokkeerd</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Onder %d apps zoeken</item>
+        <item quantity="one">Onder %d app zoeken</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d apps gevonden</item>
+        <item quantity="zero">0 app gevonden</item>
+        <item quantity="one">%d app gevonden</item>
+    </plurals>
 </resources>
