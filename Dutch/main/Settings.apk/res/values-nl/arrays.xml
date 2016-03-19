@@ -1,33 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden…</item>
-        <item>Verificeren…</item>
-        <item>IP adres verkrijgen…</item>
-        <item>Verbonden</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbindingen vermijden</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden met %1$s…</item>
-        <item>Verificeren met %1$s…</item>
-        <item>IP adres verkrijgen van %1$s…</item>
-        <item>Verbonden met %1$s</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken met %1$s…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbindingen vermijden</item>
-    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>
@@ -91,6 +63,56 @@
         <item>Hoog</item>
         <item>Zeer hoog</item>
     </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden…</item>
+        <item>Verificeren…</item>
+        <item>IP adres verkrijgen…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbindingen vermijden</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden met %1$s…</item>
+        <item>Verificeren met %1$s…</item>
+        <item>IP adres verkrijgen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken met %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbindingen vermijden</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
         <item>PIN code van peer apparaat</item>
@@ -129,6 +151,10 @@
         <item>Laatste 30 dagen</item>
         <item>Gebruikscyclus instellen…</item>
     </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Last 4 digits</item>
+        <item>First 4 digits</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatisch</item>
         <item>Alleen 5 GHz</item>
@@ -138,6 +164,12 @@
         <item>Gebruikstijd</item>
         <item>Aantal keer gestart</item>
         <item>Appnaam</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Geen</item>
@@ -165,6 +197,11 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
 	    <item>Ongespecifiëerd</item>
@@ -195,12 +232,79 @@
         <item>Verwijderbare SD kaart</item>
         <item>Het systeem laten bepalen</item>
     </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Allowed</item>
+        <item>Ignored</item>
+        <item>Always ask</item>
+    </string-array>
     <string-array name="app_ops_categories">
         <item>Locatie</item>
         <item>Privé</item>
         <item>Berichten</item>
         <item>Media</item>
         <item>Apparaat</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>write contacts</item>
+        <item>read call log</item>
+        <item>write call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>toast window</item>
+        <item>project media</item>
+        <item>activate VPN</item>
+        <item>wlan change</item>
+        <item>bluetooth change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+        <item>nfc change</item>
+        <item>delete SMS</item>
+        <item>delete MMS</item>
+        <item>delete contacts</item>
+        <item>delete call log</item>
+        <item>data change</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Locatie</item>
@@ -284,6 +388,12 @@
 		<item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -292,6 +402,25 @@
         <item>Geel op blauw</item>
         <item>Aangepast</item>
 	</string-array>	
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nooit controleren</item>
         <item>Alleen op DRM inhoud controleren</item>
@@ -374,6 +503,14 @@
         <item>Maximaal 3 processen</item>
         <item>Maximaal 4 processen</item>
     </string-array>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN met van tevoren gedeelde sleutels</item>
@@ -397,16 +534,16 @@
         <item>Chimpansee</item>
         <item>Aap</item>
     </string-array>
-	<string-array name="security_settings_premium_sms_values">
-        <item>Vragen</item>
-        <item>Nooit toestaan</item>
-        <item>Altijd toestaan</item>
-    </string-array>
     <string-array name="ram_states">
         <item>Normaal</item>
         <item>Gemiddeld</item>
         <item>Laag</item>
         <item>Kritiek</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Off</item>
+        <item>Limited interruptions</item>
+        <item>Zero interruptions</item>
     </string-array>
 	<string-array name="proc_stats_memory_states">
         <item>Normaal</item>
@@ -430,24 +567,11 @@
         <item>Cached (activiteit client)</item>
         <item>Cached (leeg)</item>
     </string-array>
-    <string-array name="color_picker">
-        <item>Blauwgroen</item>
-        <item>Blauw</item>
-        <item>Indigo</item>
-        <item>Paars</item>
-        <item>Roze</item>
-        <item>Rood</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>MTP (Media Overdracht Protocol)</item>
-        <item>PTP (Afbeelding Overdracht Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Bron</item>
-        <item>MIDI</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>Bij voorkeur Wi-Fi</item>
-        <item>Bij voorkeur mobiel</item>
+    <string-array name="hidedm_plmn_list">
+        <item>46000</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46007</item>
     </string-array>
 	<string-array name="haptic_feedback_level_entries">
         <item>Sterk</item>
@@ -496,6 +620,25 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>Toon recente apps</item>
         <item>Toon menu</item>
@@ -522,6 +665,12 @@
         <item>20 seconden</item>
         <item>Altijd</item>
     </string-array>
+    <integer-array name="font_size_preference_preview_size">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>27</item>
+    </integer-array>
 	<string-array name="wfd_status">
         <item>Sessie starten…</item>
         <item>Sessie gestart</item>
@@ -542,12 +691,6 @@
     </string-array>
 	    <string-array name="msd_pc_system_install_summary">
         <item>2.Volg de instucties op het scherm</item>
-    </string-array>
-	    <string-array name="msd_pc_system_install_finish_summary">
-        <item>USB massa opslag zal automatisch openen wanneer u verbonden bent met een computer.</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_xp">
-        <item>MiPhoneManager opnieuw installeren.</item>
     </string-array>
 	<string-array name="msd_pc_system_retry_linux">
         <item>Installatie tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -590,6 +733,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>sRGB</item>
         <item>Native</item>
     </string-array>
+    <string-array name="values_color_calibration">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Enkele micro geluidsonderdrukking</item>
         <item>Dubbele micro geluidsonderdrukking</item>
@@ -608,13 +755,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 	    <string-array name="wifi_ssid_type_entries">
         <item>Automatisch verbinden</item>
         <item>Handmatig verbinden</item>
-    </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minuten</item>
-        <item>15 minuten</item>
-        <item>30 minuten</item>
-        <item>1 uur</item>
-        <item>Onbeperkt</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -653,10 +793,23 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Thuisnetwerk</item>
         <item>Alle netwerken</item>
     </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+    </string-array>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
     <string-array name="agps_reset_type_entries">
         <item>HEET</item>
         <item>WARM</item>
         <item>KOUD</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inches</item>
+        <item>4.0 inches</item>
+        <item>3.5 inches</item>
     </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Meteen</item>
@@ -681,6 +834,47 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 	    <string-array name="screen_resolution_entries">
         <item>Ultrahoog (2K)</item>
         <item>Normaal (720p)</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
+    <string-array name="broadcast_locales">
+        <item>AG</item>
+        <item>AR</item>
+        <item>BO</item>
+        <item>BS</item>
+        <item>BB</item>
+        <item>BZ</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>EC</item>
+        <item>GF</item>
+        <item>GD</item>
+        <item>GY</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>SR</item>
+        <item>KN</item>
+        <item>LC</item>
+        <item>VC</item>
+        <item>TW</item>
+        <item>TT</item>
+        <item>UY</item>
+        <item>VE</item>
+    </string-array>
+    <string-array name="common_password_business_keys">
+        <item>miui_keyguard</item>
+        <item>childrenmode</item>
+        <item>file_explorer</item>
+        <item>com_miui_applicatinlock_use_fingerprint_state</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>

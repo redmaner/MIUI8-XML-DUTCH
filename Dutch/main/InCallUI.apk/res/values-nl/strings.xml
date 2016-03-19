@@ -6,6 +6,7 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="antispam_provider">Geïdentificeerd door %s</string>
+  <string name="areacode_set_default">Set as default</string>
   <string name="callFailed_cb_enabled">Je kunt geen uitgaande gesprekken voeren, terwijl het blokkeren van gesprekken is ingeschakeld.</string>
   <string name="callFailed_congestion">Netwerk bezet</string>
   <string name="callFailed_dialToDial">KIES verzoek aangepast om met ander nummer te bellen.</string>
@@ -50,6 +51,7 @@
   <string name="call_title_redialing_with_times">%d keer opnieuw gebeld</string>
   <string name="caller_manage_header">Groepsgesprek %s</string>
   <string name="calling_via_template">Bellen via %s</string>
+  <string name="can_not_call_oneself">"Can't complete call to this number"</string>
   <string name="cancel">Annuleren</string>
   <string name="card_title_call_ended">"Gesprek beëindigd "</string>
   <string name="card_title_conf_call">Groepsgesprek</string>
@@ -74,6 +76,7 @@
   <string name="conference_caller_name_me">IK</string>
   <string name="contactPhoto">"Contactfoto's"</string>
   <string name="contacts_icon_label">Contacten</string>
+  <string name="default_area_code_setting">Default area code</string>
   <string name="description_image_button_answer">Omhoog schuiven om te antwoorden</string>
   <string name="description_image_button_dialpad">Toetsenblok</string>
   <string name="description_image_button_eight">Acht</string>
@@ -94,6 +97,10 @@
   <string name="description_image_button_two">twee</string>
   <string name="description_image_button_zero">nul</string>
   <string name="description_target_answer">Antwoorden</string>
+  <string name="dialog_activate_livetalk">Verify number</string>
+  <string name="dialog_call_ordinary_telephone">Regular call</string>
+  <string name="dialog_purchase">Top up</string>
+  <string name="do_not_ask">Dont show again</string>
   <string name="emergency_call_dialog_number_for_display">Noodnummer</string>
   <string name="fraud_call_answer">Antwoorden</string>
   <string name="fraud_call_decline">Afwijzen</string>
@@ -117,7 +124,9 @@
   <string name="jeejen_end_call_text">Gesprek beëindigen</string>
   <string name="jeejen_reject_call_text">Gesprek afwijzen</string>
   <string name="jeejen_toggle_dialpad_text">Toetsenblok</string>
+  <string name="keep_wait_call_back">Keep waiting</string>
   <string name="livetalk_dial">Herlaad pakket gebruiken</string>
+  <string name="livetalk_hangup">Hang up</string>
   <string name="livetalk_left_minute">%s minuten over</string>
   <string name="manageConferenceLabel">Beheer groepsgesprekken</string>
   <string name="miprofile_stranger_card">Vreemde kaart</string>
@@ -130,10 +139,21 @@
   <string name="modify_call_prompt_no">Nee</string>
   <string name="modify_call_prompt_yes">Ja</string>
   <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="network_error_message">Current network is unstable. Switching to regular call for which you might be charged by the carrier.</string>
+  <string name="network_error_title">Unstable network</string>
+  <string name="no_balance_message">Insufficient funds on your Top up package balance. You can still make a regular call for which youll be charged by the carrier.</string>
+  <string name="no_balance_title">Insufficient funds</string>
+  <string name="no_call_back_message">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
+  <string name="no_call_back_title">Attention</string>
   <string name="no_vm_number">Ontbrekend voicemailnummer</string>
   <string name="no_vm_number_msg">Geen voicemailnummer opgeslagen op de SIM kaart.</string>
   <string name="non_ivr_menu_collapse_menu">Menu inklappen</string>
   <string name="non_ivr_menu_view_menu">Bekijk menu</string>
+  <string name="not_activate_sim_card_content">Verify your phone number to start using Top up package. You can still make a regular call for which youll be charged by the carrier.</string>
+  <string name="not_activate_sim_card_content_title">Phone number isnt verified</string>
+  <string name="not_activate_sim_card_content_with_operator">Verify SIM %1$s (%2$s) to make a call using Top up package. You can still make a regular call for which youll be charged by the carrier.</string>
+  <string name="not_support_message">Cant call this number. Switching to regular call for which you might be charged by the carrier.</string>
+  <string name="not_support_title">This number isnt supported</string>
   <string name="notification_action_accept">Aanvaarden</string>
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Stem</string>
@@ -179,11 +199,11 @@
   <string name="select_voice_call_sim">Kies SIM kaart</string>
   <string name="separate_from_conference">Apart gesprek</string>
   <string name="suspect_info">Controleer altijd de identiteit van de persoon met wie je spreekt over de telefoon of video voordat je reageert op berichten met betrekking tot uw persoonlijke financiën.</string>
+  <string name="time_left_livetalk">(%dS)</string>
   <string name="unknown">Onbekend</string>
   <string name="upgrade_vt_prompt">Wilt u het gesprek upgraden naar videogesprek?</string>
   <string name="video_call_not_allowed_if_tty_enabled">TTY modus eerst uitschakelen</string>
   <string name="video_switch_to_voice_call_prompt">Overschakelen naar stemoproep</string>
-  <string name="voicemail">Voicemail</string>
   <string name="wait_prompt_str">"Volgende beltoon versturen?"</string>
   <string name="waiting_close_airplane_mode">Een momentje…</string>
 </resources>
