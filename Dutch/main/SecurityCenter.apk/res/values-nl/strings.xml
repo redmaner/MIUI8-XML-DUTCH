@@ -75,6 +75,7 @@ of vooer wachtwoord in"</string>
   <string name="app_install_intercept">Installatie blokkeren</string>
   <string name="app_mobile">Mobiele</string>
   <string name="app_name">App blokkering</string>
+  <string name="app_name_na">Data usage</string>
   <string name="app_name_securitycenter">Veiligheid</string>
   <string name="app_not_installed_toast">App is niet geïnstalleerd op apparaat</string>
   <string name="app_version">Versie</string>
@@ -169,7 +170,7 @@ of vooer wachtwoord in"</string>
   <string name="connect_internet_by_usbshare">Deel internet via USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="continue_install">Installeren</string>
-   <string name="correction_attention_dialog_message">Instellingen nu aanpassen. Wacht tot het proces is voltooid en probeer opnieuw.</string>
+  <string name="correction_attention_dialog_message">Instellingen nu aanpassen. Wacht tot het proces is voltooid en probeer opnieuw.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Annuleren</string>
   <string name="cta_checkbox_title">Niet meer weergeven</string>
@@ -593,6 +594,7 @@ of vooer wachtwoord in"</string>
   <string name="online_read">Lezen</string>
   <string name="online_songs">Muziek</string>
   <string name="open_now">App toelaten om mobiele data te gebruiken</string>
+  <string name="operator_diagnostic">Carrier diagnostics</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -780,13 +782,17 @@ of vooer wachtwoord in"</string>
   <string name="power_save_low_battery_seekbar_title">Verwissel van batterijprofiel wanneer het resterende vermogen lager dan %1$d%% is</string>
   <string name="power_save_low_battery_title">Batterijbespaarder</string>
   <string name="power_save_on_time_auto_save_title">Verwissel schema profiel</string>
+  <string name="power_save_on_time_default_time">00:00</string>
+  <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary">Einde</string>
+  <string name="power_save_on_time_end_time_summary_na">To</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_goout_title">Na deze tijd terugschakelen naar</string>
   <string name="power_save_on_time_option_recovery_title">Wanneer deze tijd eindigt, verwissel naar</string>
   <string name="power_save_on_time_option_summary">Na deze tijd apparaat terug wisselen naar het laatst gebruikte profiel</string>
   <string name="power_save_on_time_option_title">Gedurende deze tijd wisselen naar</string>
   <string name="power_save_on_time_start_time_summary">Start</string>
+  <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Verwissel schema profiel</string>
   <string name="power_screen">Scherm</string>
@@ -846,6 +852,7 @@ of vooer wachtwoord in"</string>
   <string name="pref_package_traffic_settings">Mobiel datalimiet</string>
   <string name="pref_pkg_begin_date">Verbruiks reset datum</string>
   <string name="pref_roaming_daily_limit_setting">Dagelijks data roaming limiet</string>
+  <string name="pref_roaming_daily_limit_setting_cat_title">Daily data limit</string>
   <string name="pref_roaming_setting_gategory">Data roaming</string>
   <string name="pref_setting_operators_message">Bericht aanpassen dat uw apparaat verzend naar uw provider om uw dataverbruik stats te sync.</string>
   <string name="pref_show_mobile_traffic">Toon dataverbruik statistieken tijdens ontgrendelen, nadat apparaat is vergrendeld voor meer dan 5 minuten</string>
@@ -880,6 +887,7 @@ of vooer wachtwoord in"</string>
   <string name="pref_version">Versie %s</string>
   <string name="pref_warning_values">Dataverbruik waarschuwingsniveau</string>
   <string name="pref_whitelist_setting">Uitzonderingen beheren</string>
+  <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
   <string name="preferred_app_entries_browser">Browser</string>
   <string name="preferred_app_entries_camera">Camera</string>
   <string name="preferred_app_entries_dial">Bellen</string>
@@ -948,7 +956,7 @@ of vooer wachtwoord in"</string>
   <string name="scanning_bar_system_text">App toestemmingen</string>
   <string name="scanning_bar_system_title">Systeem scannen…</string>
   <string name="score_pts">%</string>
-  <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="security_app_lock">App blokkering</string>
   <string name="security_scan_optimizing">Optimaliseren…</string>
   <string name="see_detail">Details</string>
@@ -966,6 +974,7 @@ of vooer wachtwoord in"</string>
   <string name="shutdown_time_day_tomorrow">Uitschakelen om: %1$s</string>
   <string name="signal_exception_summary">Kan geen verbinding maken met netwerk in dit gebied.</string>
   <string name="signal_exception_title">Test signaalsterkte</string>
+  <string name="sim_location_diagnostic">Location diagnostics</string>
   <string name="sim_location_error_dialog_message">"De SIM kaart die je gebruikt is van %1$s. Deze is anders dan de locatie die u handmatig hebt ingesteld (%2$s). Wijzig SIM locatie naar %3$s?"</string>
   <string name="sim_location_error_notify_message">Tik om SIM locatie te wijzigen.</string>
   <string name="sim_location_error_notify_title">SIM kaart fout</string>
@@ -1089,6 +1098,7 @@ of vooer wachtwoord in"</string>
   <string name="tc_sms_report_upload_success">Dataverbruiks rapport SMS ingediend. We zijn zo mee bezig!</string>
   <string name="tc_sms_report_upload_when_net">Dank je voor de feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
+  <string name="text_button">Got it</string>
   <string name="text_day"/>
   <string name="text_lock_info">Teken deblokkeringspatroon</string>
   <string name="third_application">Apps van derden</string>
@@ -1268,6 +1278,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_setting_step_num">Instellingen Data plan</string>
   <string name="traffic_warning_purchase_title">Mobiele data verbruiks waarschuwing</string>
   <string name="unable_connect_internet">Geen internet verbinding</string>
+  <string name="updating_diagnostic_botton">Analyzing data…</string>
   <string name="usage_sorted_activity_lable">Dataverbruik</string>
   <string name="usage_sorted_empty_text">Leeg</string>
   <string name="usage_sorted_loading_text">Een momentje…</string>

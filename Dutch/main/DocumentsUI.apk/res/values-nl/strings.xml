@@ -1,19 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Documenten</string>
-  <string name="button_copy">Kopiëren</string>
-  <string name="button_select">Selecteren</string>
-  <string name="copy_failure_alert_content">"Deze bestanden zijn niet gekopiëerd: %1$s"</string>
-  <string name="copy_notification_title">Bestanden kopiëren</string>
-  <string name="copy_preparing">Voorbereiden om te kopiëren…</string>
-  <string name="copy_remaining">%s resterend</string>
   <string name="create_error">Kan map niet aanmaken</string>
   <string name="drawer_close">Roots verbergen</string>
   <string name="drawer_open">Roots weergeven</string>
   <string name="empty">Geen items</string>
   <string name="menu_advanced_hide">Interne opslag verbergen</string>
   <string name="menu_advanced_show">Interne opslag weergeven</string>
-  <string name="menu_copy">Kopiëren naar…</string>
   <string name="menu_create_dir">Map maken</string>
   <string name="menu_delete">Verwijderen</string>
   <string name="menu_file_size_hide">Bestandsgrootte verbergen</string>
@@ -23,13 +16,12 @@
   <string name="menu_open">Openen</string>
   <string name="menu_save">Opslaan</string>
   <string name="menu_search">Zoeken</string>
-  <string name="menu_select_all">Alles selecteren</string>
+  <string name="menu_select">Select \"^1\"</string>
   <string name="menu_settings">Instellingen</string>
   <string name="menu_share">Delen</string>
   <string name="menu_sort">Sorteren op</string>
-  <string name="notification_touch_for_details">Aanraken om details weer te geven</string>
+  <string name="mode_selected_count">%1$d selected</string>
   <string name="query_error">Kan geen query\'s voor documenten verzenden</string>
-  <string name="retry">Probeer opnieuw</string>
   <string name="root_available_bytes">%1$s vrij</string>
   <string name="root_recent">Recent</string>
   <string name="root_type_apps">Meer apps</string>

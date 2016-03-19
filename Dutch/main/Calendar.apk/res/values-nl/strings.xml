@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessbility_suggestion_dropdown_opened">Contact suggesties geopend</string>
   <string name="accessibility_add_attendee">Deelnemer toevoegen</string>
   <string name="accessibility_add_reminder">Herinnering toevoegen</string>
   <string name="accessibility_all_day">Afspraak die de hele dag duurt</string>
@@ -87,6 +86,14 @@
   <string name="change_response_title">Antwoord wijzigen</string>
   <string name="chinese_leap">Uitvoeren</string>
   <string name="chongsha">Ghosts</string>
+  <string name="click_watch">点击观看</string>
+  <string name="common_fri">周五</string>
+  <string name="common_mon">周一</string>
+  <string name="common_sat">周六</string>
+  <string name="common_sun">周日</string>
+  <string name="common_thu">周四</string>
+  <string name="common_tus">周二</string>
+  <string name="common_wed">周三</string>
   <string name="copy_db">Database verzenden</string>
   <string name="copy_email">E-mailadres kopiëren</string>
   <string name="copy_number">Telefoonnummer kopiëren</string>
@@ -96,11 +103,27 @@
 • Maak beveiligde back-ups van uw afspraken"</string>
   <string name="creating_event">Afspraak gemaakt.</string>
   <string name="creating_event_with_guest">Uitnodigingen worden verzonden.</string>
+  <string name="credit">信用卡</string>
+  <string name="credit_card_amount_label">账单金额：</string>
+  <string name="credit_card_date_label">还款日：</string>
+  <string name="credit_card_number_label">卡号：</string>
+  <string name="credit_card_overdue">已过期</string>
+  <string name="credit_card_repayment_count">最后%1$s天</string>
+  <string name="credit_currency">元</string>
+  <string name="credit_detail_amount_label">应还</string>
+  <string name="credit_detail_sms_content">短信原文</string>
+  <string name="credit_detail_today">今日：</string>
+  <string name="credit_event_card_title">信用卡还款</string>
+  <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
+  <string name="credit_event_title">信用卡账单</string>
   <string name="custom">Aangepast(kan niet op de tablet worden aangepast)</string>
   <string name="daily">Dagelijks</string>
   <string name="data_notice_change_settings">Instellingen wijzigen</string>
   <string name="data_notice_continue_confirm">Blijven gebruiken</string>
   <string name="data_notice_online_large_image">Abonneer u op grotere afbeeldingen van de kalender pagina, om verkeer te besparen, is de kalender ingesteld op Synchroniseer abonnement alleen op Wi-Fi.</string>
+  <string name="date_pattern_mm_dd">M月d日</string>
+  <string name="date_pattern_mm_dd_kk_mm">M月d日 HH:mm</string>
+  <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dag</string>
   <string name="day_view_new_event_hint">+ Nieuwe afspraak</string>
@@ -124,7 +147,13 @@
   <string name="downloaded">Gedownload</string>
   <string name="downloading">Bezig met downloaden…</string>
   <string name="downloading_wallpaper">Achtergrond downloaden</string>
-  <string name="dropdown_delete_button_desc">%s verwijderen uit ontvangers</string>
+  <string name="drop_down_list_footer_default_text">更多</string>
+  <string name="drop_down_list_footer_loading_text">加载中…</string>
+  <string name="drop_down_list_footer_no_more_text">没有更多了</string>
+  <string name="drop_down_list_header_default_text">点击可以刷新</string>
+  <string name="drop_down_list_header_loading_text">加载中…</string>
+  <string name="drop_down_list_header_pull_text">下拉可以刷新</string>
+  <string name="drop_down_list_header_release_text">松开可以刷新</string>
   <string name="edit_event_all_day_label">De hele dag</string>
   <string name="edit_event_calendar_label">Agenda</string>
   <string name="edit_event_confirm_message">Wijzigingen ongedaan maken?</string>
@@ -151,6 +180,7 @@
   <string name="event_hide_more">Verbergen</string>
   <string name="event_info_descrip">"Beschrijving: "</string>
   <string name="event_info_end">Einde\u0009\u0009\u0009</string>
+  <string name="event_info_from">from</string>
   <string name="event_info_organizer">Organisator:</string>
   <string name="event_info_reminders_label">Herinneringen</string>
   <string name="event_info_reminders_label_1">Herinnering</string>
@@ -162,8 +192,11 @@
   <string name="event_info_where">"Waar: "</string>
   <string name="event_lunar_month">Maand</string>
   <string name="event_show_more">Meer opties</string>
+  <string name="event_subscirbe_detail_title">事件详情</string>
+  <string name="event_title">Title</string>
   <string name="event_view">Afspraak weergeven</string>
   <string name="every_weekday">Werkdagen (ma-vr)</string>
+  <string name="every_year_month_of_day">%1$s%2$s日</string>
   <string name="exist_calendar">Geabonneerd</string>
   <string name="free_day_default_banner_title">Geniet nu van een geweldige vakantie!</string>
   <string name="from_google_group_calendar">Google kalender</string>
@@ -184,6 +217,7 @@
   <string name="huangli_bad_type">Vermijd</string>
   <string name="huangli_good_type">Indien</string>
   <string name="huangli_label"/>
+  <string name="image_content">Image</string>
   <string name="joke_card_icon_text">|  %1$s personen laten lachen</string>
   <string name="jump_date">Overslaan</string>
   <string name="jump_date_full">Spring naar datum</string>
@@ -220,6 +254,7 @@
   <string name="monthly_on_day_count">Maandelijks (%1$s %2$s)</string>
   <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">Inleiding</string>
+  <string name="my_subscribe_events">我的订阅</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="new_event_dialog_label">Nieuwe afspraak</string>
   <string name="new_event_dialog_option">Nieuwe afspraak</string>
@@ -261,6 +296,7 @@
   <string name="preferences_hide_declined_title">Geweigerde afspraken verbergen</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Eigen tijdzone</string>
+  <string name="preferences_import_credit_repayment">信用卡还款</string>
   <string name="preferences_reminder_title">Meldingen en herinneringen</string>
   <string name="preferences_show_week_num_title">Weeknummer weergeven</string>
   <string name="preferences_title">Kalender</string>
@@ -320,6 +356,7 @@
   <string name="select_synced_calendars_title">"Agenda's om te synchroniseren"</string>
   <string name="select_visible_calendars_title">"Agenda's om weer te geven"</string>
   <string name="set_as_wallpaper">Instellen als achtergrond</string>
+  <string name="setting_sms_import">导入短信事件</string>
   <string name="setting_wifi_mode">Alleen bij Wi-Fi kalender sync.</string>
   <string name="show_controls">Bediening weergeven</string>
   <string name="show_day_view">Geef dag weer</string>
@@ -327,7 +364,23 @@
   <string name="show_older_events">Raak aan om gebeurtenissen vóór %1$s weer te geven</string>
   <string name="snooze_all_label">5 min. uitstellen</string>
   <string name="snooze_label">Snooze</string>
+  <string name="str_dayofmonth">%s号</string>
+  <string name="str_everyday">每天</string>
+  <string name="str_everymonth">每月%s</string>
+  <string name="str_everyweek">每周%s</string>
+  <string name="str_everyyear">每年%s</string>
+  <string name="str_from_mon_to_fri">周一至周五</string>
+  <string name="str_hour_of_everyday">每天%s</string>
+  <string name="str_hour_of_next">下一次%s</string>
+  <string name="subscribe">订阅</string>
   <string name="subscribe_all">Alle abonnementen</string>
+  <string name="subscribe_card_more_default_text">更多</string>
+  <string name="subscribe_card_recommend_default_text">推荐订阅</string>
+  <string name="subscribe_description_card_default_title">订阅简介</string>
+  <string name="subscribe_description_card_more_cut">收起</string>
+  <string name="subscribe_description_card_more_launch">展开</string>
+  <string name="subscribe_detail_title">订阅详情</string>
+  <string name="subscribe_ed">已订阅</string>
   <string name="sync_notice_cancel_toast_message">Lokale kalender wordt niet gesync. met Mi Cloud"</string>
   <string name="sync_notice_message">Je kalender sync. met Mi Cloud?</string>
   <string name="sync_notice_ok">Nu sync.</string>
