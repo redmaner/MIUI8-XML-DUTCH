@@ -7,13 +7,13 @@
   <string name="Settings_title_garbage_cleanup">Prullenbak opruiminstellingen</string>
   <string name="Settings_title_network_assistants">Netwerkassistent instellingen</string>
   <string name="Settings_title_power_center">Batterij instellingen</string>
-  <string name="access_control_need_password">"%s Blokkering met succes toegevoegd
+  <string name="access_control_need_password">"%sBlokkering met succes toegevoegd
 "</string>
   <string name="access_control_need_to_unlock">"Deblokkeren met vingerafdruk
-of vooer wachtwoord in"</string>
+of voer wachtwoord in"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Voer deblokkeringswachtwoord in</string>
-  <string name="access_control_recording_intro_header">Teken een patroon om app blokkering toe te voegen</string>
-  <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om app blokkering te resetten</string>
+  <string name="access_control_recording_intro_header">Teken een patroon om appblokkering toe te voegen</string>
+  <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om appblokkering te resetten</string>
   <string name="activity_title_antispam">Zwarte lijst</string>
   <string name="activity_title_antivirus">Virusscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -41,7 +41,7 @@ of vooer wachtwoord in"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Virus detail</string>
   <string name="activity_title_virus_settings">Instellingen</string>
-  <string name="add_miservice_dialog_content">"%s vereist dat je MIUI Service framework toevoegd aan de lijst met uitzonderingen. U kunt meldingen ontvangen van MIUI ingebouwde apps en andere apps van derden."</string>
+  <string name="add_miservice_dialog_content">"%s vereist dat je MIUI Service framework toevoegt aan de lijst met uitzonderingen. U kunt meldingen ontvangen van MIUI ingebouwde apps en andere apps van derden."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Uitzonderingen beheren</string>
   <string name="add_white_list">Toevoegen</string>
@@ -69,13 +69,13 @@ of vooer wachtwoord in"</string>
   <string name="antivirus_privacy_dialog_title">Privacybeleid</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
-  <string name="apn_exception_summary">"Test  configuratie's van providers Netwerk toegangspunt"</string>
+  <string name="apn_exception_summary">"Test toegangspunt naamconfiguraties van provider"</string>
   <string name="apn_exception_title">Controleer APN configuraties</string>
   <string name="app_detail">Details</string>
   <string name="app_install_intercept">Installatie blokkeren</string>
-  <string name="app_mobile">Mobiele</string>
-  <string name="app_name">App blokkering</string>
-  <string name="app_name_na">Data usage</string>
+  <string name="app_mobile">Mobiel</string>
+  <string name="app_name">Appblokkering</string>
+  <string name="app_name_na">Dataverbruik</string>
   <string name="app_name_securitycenter">Veiligheid</string>
   <string name="app_not_installed_toast">App is niet geïnstalleerd op apparaat</string>
   <string name="app_version">Versie</string>
@@ -164,7 +164,7 @@ of vooer wachtwoord in"</string>
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Nu herstarten</string>
   <string name="cmcc_app_check_dialog_title">Systeem hersteld</string>
-  <string name="confirm_fingerprint_msg">Plaats uw vinger op de vingerafdruklezer</string>
+  <string name="confirm_fingerprint_msg">Plaats uw vinger op de vingerafdrukscanner</string>
   <string name="confirm_reject_all_permission">Alle apps beperken om deze functie te gebruiken?</string>
   <string name="connect_internet_by_mobiledata">Mobiele dataverbinding</string>
   <string name="connect_internet_by_usbshare">Deel internet via USB</string>
@@ -287,7 +287,7 @@ of vooer wachtwoord in"</string>
   <string name="examination_score_80_100_with_recommend">%d items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_80_60">Sommige items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
-  <string name="finger_remind_message">App blokkering ondersteunt vingerafdruk deblokkering. Vingerafdruk toevoegen?</string>
+  <string name="finger_remind_message">Appblokkering ondersteunt vingerafdruk deblokkering. Vingerafdruk toevoegen?</string>
   <string name="fingerprint_identify_msg">Vingerafdruk scannen…</string>
   <string name="fingerprint_not_identified_msg">Om uw apparaat te deblokkeren, voer uw wachtwoord in.</string>
   <string name="fingerprint_not_remind">Niet meer vragen</string>
@@ -310,9 +310,9 @@ of vooer wachtwoord in"</string>
   <string name="firewall_rule_group_title_mobile">Mobiele</string>
   <string name="firewall_rule_group_title_roaming">Internationale roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
-  <string name="firewall_service_network_blocked">%1$s is beperkt om %2$s networken te gebruiken</string>
+  <string name="firewall_service_network_blocked">%1$s is beperkt om %2$s netwerken te gebruiken</string>
   <string name="five_percent_total_pkg">%s (5%% maandelijkse data)</string>
-  <string name="force_stop_dlg_text">Als u achtergrond mobiele data beperkt, kunnen sommige apps en services niet werken tenzij u bent verbonden met een Wi-Fi netwerk.</string>
+  <string name="force_stop_dlg_text">Als u mobiele achtergronddata beperkt, kunnen sommige apps en services niet werken tenzij u bent verbonden met een Wi-Fi netwerk.</string>
   <string name="force_stop_dlg_title">Achtergronddata beperken</string>
   <string name="foreground_traffic">Voorgrond %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Wachtwoord vergeten&lt;/u&gt;</string>
@@ -421,7 +421,7 @@ of vooer wachtwoord in"</string>
   <string name="lockpattern_need_to_confirm">Teken het patroon opnieuw om te bevestigen</string>
   <string name="lockpattern_need_to_unlock">Bevestig het opgeslagen patroon</string>
   <string name="lockpattern_need_to_unlock_wrong">Probeer opnieuw</string>
-  <string name="lockpattern_pattern_confirmed_header">Uw nieuw ontgrendelings patroon</string>
+  <string name="lockpattern_pattern_confirmed_header">Uw nieuwe ontgrendelpatroon</string>
   <string name="lockpattern_pattern_entered_header">Patroon toegevoegd</string>
   <string name="lockpattern_recording_incorrect_too_short">Verbind ten minste %d punten</string>
   <string name="lockpattern_recording_inprogress">Verwijder uw vinger nadat het patroon volledig is</string>
@@ -511,14 +511,14 @@ of vooer wachtwoord in"</string>
   <string name="menu_text_networkassistants">Datagebruik</string>
   <string name="menu_text_networkassistants_danger">%s over</string>
   <string name="menu_text_networkassistants_remain">%s over</string>
-  <string name="menu_text_power_manager">Vermogen beheer</string>
+  <string name="menu_text_power_manager">Batterijgebruik</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Batterij %s</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
-  <string name="modify_password_info">Vergrendel patroon</string>
+  <string name="modify_password_info">Ontgrendelpatroon</string>
   <string name="modifypassword">Wachtwoord wijzigen</string>
   <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="month_report_month_report_switch">Geef maandelijks rapport weer</string>
@@ -528,7 +528,7 @@ of vooer wachtwoord in"</string>
   <string name="network_blocked_notification_summary">Test netwerk</string>
   <string name="network_blocked_switch_wifi">Verander van netwerk</string>
   <string name="network_connected_exception_title">Test netwerk</string>
-  <string name="network_control">App instellingen bekijken</string>
+  <string name="network_control">Appinstellingen bekijken</string>
   <string name="network_diagnostics">Test netwerk</string>
   <string name="network_mobile_exception_detail">"Uw apparaat kan geen verbinding maken met internet:
 
@@ -538,7 +538,7 @@ of vooer wachtwoord in"</string>
  
  3. Het signaal van uw providernetwerk kan te zwak zijn op uw huidige locatie."</string>
   <string name="network_operator_exception_summary">Kon de SIM kaart niet activeren. Zorg ervoor dat de SIM kaart juist geplaatst is en dat uw mobiele plan is geactiveerd door uw provider.</string>
-  <string name="network_permission_exception_tips">Kunnen mobiele data niet gebruiken om verbinding te maken met netwerk</string>
+  <string name="network_permission_exception_tips">Kan mobiele data niet gebruiken om verbinding te maken met netwerk</string>
   <string name="network_roaming_exception_tips">Kan mobiele data niet gebruiken tijdens roamen om verbinding te maken met netwerk.</string>
   <string name="network_route_exception_detail">"Er is mogelijk een probleem met de router waarmee u verbonden bent:
 
@@ -581,20 +581,20 @@ of vooer wachtwoord in"</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
   <string name="notify_daily_limit_title">Vandaag %s verbruikt</string>
-  <string name="notify_daily_limit_title_for_slotnum">%1$s verbruikt %2$s vandaag</string>
+  <string name="notify_daily_limit_title_for_slotnum">%1$s heeft %2$s verbruikt vandaag</string>
   <string name="notify_month_traffic_body">Stel een datalimiet in om te voorkomen dat je over je maandelijkse abonnementlimiet heen gaat.</string>
   <string name="notify_month_traffic_title">Deze maand %s verbruikt</string>
-  <string name="notify_month_traffic_title_for_slotnum">%1$s verbruikt %2$s deze maand</string>
+  <string name="notify_month_traffic_title_for_slotnum">%1$s heeft %2$s verbruikt deze maand</string>
   <string name="notify_weekly_traffic_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_weekly_traffic_title">Deze week %s verbruikt</string>
-  <string name="notify_weekly_traffic_title_for_slotnum">%1$s verbruikt %2$s deze week</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s heeft %2$s verbruikt deze week</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Lezen</string>
   <string name="online_songs">Muziek</string>
   <string name="open_now">App toelaten om mobiele data te gebruiken</string>
-  <string name="operator_diagnostic">Carrier diagnostics</string>
+  <string name="operator_diagnostic">Provider diagnostiek</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -620,7 +620,7 @@ of vooer wachtwoord in"</string>
   <string name="permission_close_permission_control_dialog_msg">Wanneer toestemmingsbeheer is uitgeschakeld, zullen apps niet uw toestemming vragen voor het lezen van uw contacten, het bekijken van uw bellijst, systeeminstellingen wijzigen, of de toegang tot de camera en andere hulpmiddelen krijgen.</string>
   <string name="permission_close_permission_control_dialog_title">Toestemmingsbeheer uitschakelen?</string>
   <string name="permission_exception_summary">Sommige apps hebben geen toestemmig om te verbinden met internet</string>
-  <string name="permission_exception_title">Bekijk netwerk toestemmingen</string>
+  <string name="permission_exception_title">Bekijk netwerktoestemmingen</string>
   <string name="permission_group_title_others">Overige</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps zullen uw toestemming niet vragen voor het lezen van contacten, bekijken van bellijst, systeeminstellingen wijzigen, of de toegang tot de camera en andere hulpmiddelen. U kunt deze functie inschakelen in Toestemmings instellingen.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Toestemmingsbeheer</string>
@@ -632,7 +632,7 @@ of vooer wachtwoord in"</string>
   <string name="pkg_traffic">Datalimiet instellen</string>
   <string name="pm_auto_start_basic_services_lock">Vergrendelen</string>
   <string name="pm_auto_start_basic_services_unlock">Ontgrendelen</string>
-  <string name="pm_auto_start_by_basic_services">Basis diensten</string>
+  <string name="pm_auto_start_by_basic_services">Basisdiensten</string>
   <string name="pm_auto_start_by_other_services">Probeer deze diensten uit te schakelen</string>
   <string name="pm_auto_start_by_system">Start apps</string>
   <string name="pm_auto_start_proc_is_running">Bezig</string>
@@ -840,7 +840,7 @@ of vooer wachtwoord in"</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Ingeschakeld</string>
   <string name="pref_leisure_not_opened">Uitgeschakeld</string>
-  <string name="pref_manual_adjust">Dataverbruik stats handmatig instellen</string>
+  <string name="pref_manual_adjust">Dataverbruikstatistieken handmatig instellen</string>
   <string name="pref_month_begin_date">Verbruik reset datum</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Extra instellingen</string>
@@ -851,9 +851,9 @@ of vooer wachtwoord in"</string>
   <string name="pref_package_traffic_overlay">%1$s | Extra: %2$s</string>
   <string name="pref_package_traffic_settings">Mobiel datalimiet</string>
   <string name="pref_pkg_begin_date">Verbruiks reset datum</string>
-  <string name="pref_roaming_daily_limit_setting">Dagelijks data roaming limiet</string>
-  <string name="pref_roaming_daily_limit_setting_cat_title">Daily data limit</string>
-  <string name="pref_roaming_setting_gategory">Data roaming</string>
+  <string name="pref_roaming_daily_limit_setting">Dagelijks dataroaming limiet</string>
+  <string name="pref_roaming_daily_limit_setting_cat_title">Dagelijks datalimiet</string>
+  <string name="pref_roaming_setting_gategory">Dataroaming</string>
   <string name="pref_setting_operators_message">Bericht aanpassen dat uw apparaat verzend naar uw provider om uw dataverbruik stats te sync.</string>
   <string name="pref_show_mobile_traffic">Toon dataverbruik statistieken tijdens ontgrendelen, nadat apparaat is vergrendeld voor meer dan 5 minuten</string>
   <string name="pref_special_traffic_exceed_limit">Waarschuw mij als datalimiet bereikt is</string>
@@ -877,9 +877,9 @@ of vooer wachtwoord in"</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Zal mijn privacy effect hebben bij het inschakelen van databespaarder? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nee. Uw data zal privé blijven en zal niet gedeeld worden met een derde partij. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Waarom werkt de databespaarder niet? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; De databespaarder komt enkel tussen bij het gebruik van uw provider netwerk om inhoud te verzenden of te downloaden"</string>
   <string name="pref_traffic_saving_no_compress">Ongecomprimeerd</string>
   <string name="pref_traffic_saving_notify_switch">Weergeven in notificatiescherm</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Geef dataverbuik stats in notificatiescherm weer</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Geef dataverbruikstatistieken op notificatiescherm weer</string>
   <string name="pref_traffic_saving_pic_compress_level">Compressie</string>
-  <string name="pref_traffic_saving_switch">Beperken dataverbruik</string>
+  <string name="pref_traffic_saving_switch">Dataverbruik verminderen</string>
   <string name="pref_traffic_saving_switch_hint">Gebruik proxy om data te comprimeren</string>
   <string name="pref_traffic_saving_title">Instellingen databespaarder</string>
   <string name="pref_traffic_saving_whitelist">Uitzonderingen</string>
@@ -917,11 +917,11 @@ of vooer wachtwoord in"</string>
   <string name="read_number">86 artikels</string>
   <string name="read_unit">" artikels"</string>
   <string name="recently_reject_message">Installatie weigeren van %1$s en %2$d andere apps</string>
-  <string name="recently_reject_message_one">Weiger %1$s installatie verzoeken</string>
+  <string name="recently_reject_message_one">%1$s installatieverzoeken geweigerd</string>
   <string name="recommend_app">Aanbevolen apps</string>
   <string name="reject_all">Alle beperken</string>
   <string name="reject_countdown">Weigeren (%d)</string>
-  <string name="reject_usb_install">Geweigerde installatie van volgende apps via USB</string>
+  <string name="reject_usb_install">Installatie van volgende apps via USB geweigerd</string>
   <string name="renew_ip">Opnieuw proberen</string>
   <string name="repair">Herstellen</string>
   <string name="repair_loading_text">Een momentje…</string>
@@ -957,15 +957,15 @@ of vooer wachtwoord in"</string>
   <string name="scanning_bar_system_title">Systeem scannen…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">App blokkering</string>
+  <string name="security_app_lock">Appblokkering</string>
   <string name="security_scan_optimizing">Optimaliseren…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Patroon selecteren</string>
   <string name="setting_traffic_pkg">Instellen datapakket</string>
   <string name="settings">Dataverbruik instellingen</string>
   <string name="settings_title_permission">Instellingen toestemmingen</string>
-  <string name="show_traffic_dialog_message">Uw dataverbruik informatie wordt weergegeven in het notificatiescherm. U kunt deze functie op elk gewenst moment in- of uitschakelen in Datagebruik &gt; Instellingen</string>
-  <string name="show_traffic_dialog_title">Geef het verbruik weer in het notificatiescherm</string>
+  <string name="show_traffic_dialog_message">Uw dataverbruik informatie wordt weergegeven op het notificatiescherm. U kunt deze functie op elk gewenst moment in- of uitschakelen in Datagebruik &gt; Instellingen</string>
+  <string name="show_traffic_dialog_title">Geef het verbruik weer op het notificatiescherm</string>
   <string name="showpattern">Patroon weergeven</string>
   <string name="shutdown_cancel_reminder">Werd niet uitgeschakeld</string>
   <string name="shutdown_cancel_reminder_detail">Werd niet uitgeschakeld omdat u aan het bellen was</string>
@@ -1021,7 +1021,7 @@ of vooer wachtwoord in"</string>
   <string name="summary_virus">Virussen verwijderen om uw apparaat veilig te houden</string>
   <string name="summary_virus_cloudscan">Upload appnamen en details en scan met behulp van online virusdefinities</string>
   <string name="summary_virus_update">Update virusdefinities automatisch bij Wi-Fi verbinding</string>
-  <string name="summary_xiaomi_roaming">0.01 yuan per MB voor internationaal netwerk verkeer.</string>
+  <string name="summary_xiaomi_roaming">0.01 yuan per MB voor internationaal netwerkverkeer.</string>
   <string name="system_app">Systeemapps</string>
   <string name="system_application">Systeemapps</string>
   <string name="system_check_content">"%1$d risico's"</string>
@@ -1110,7 +1110,7 @@ of vooer wachtwoord in"</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Weet u uw datalimiet niet</string>
-  <string name="tips_message">"Om je data plan te bekijken, bel %2$s (%1$s)."</string>
+  <string name="tips_message">"Om je dataplan te bekijken, bel %2$s (%1$s)."</string>
   <string name="title_app_update">Updates beschikbaar</string>
   <string name="title_cleaner_cloudscan">Mapnamen uploaden</string>
   <string name="title_cloud_account">Mi Account</string>
@@ -1164,15 +1164,15 @@ of vooer wachtwoord in"</string>
   <string name="toast_virus_cloudscan">Virusscanner zal online definities gebruiken</string>
   <string name="toast_virus_in_cloud_scanning">Stoppen met scannen van de cloud mislukt</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Maandelijks plan gewijzigd naar %s.</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Geupdate data plan</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Dataplan geupdatet</string>
   <string name="traffic_alert_auto_modify_package_summary">Datapakket automatisch aanpassen op basis van informatie van de provider</string>
-  <string name="traffic_config_alert_auto_modify">Data plan automatisch updaten</string>
-  <string name="traffic_config_alert_body">Uw provider laten zien wat je hebt verbruikt %s Bijwerken dataverbruiks info?</string>
+  <string name="traffic_config_alert_auto_modify">Dataplan automatisch updaten</string>
+  <string name="traffic_config_alert_body">Uw provider laten zien wat je hebt verbruikt %s Dataverbruiksinfo bijwerken?</string>
   <string name="traffic_config_alert_body_extra">"
 U kocht %1$s extra data deze maand. Dit is anders dan de %2$s dat u handmatig hebt toegevoegd."</string>
   <string name="traffic_config_alert_body_extra_notset">"
-U kocht  %s extra data deze maand.Dit is niet terug te vinden in de maandelijkse datate beperking die u handmatig hebt ingesteld."</string>
-  <string name="traffic_config_alert_body_leisure">Volgens uw provider geeft u hebt gebruikt %1$s van uw daluren data deze maand, dit is verschillend van de  %2$s dat u handmatig hebt ingesteld.</string>
+U kocht  %s extra data deze maand. Dit is niet terug te vinden in de maandelijkse databeperking die u handmatig hebt ingesteld."</string>
+  <string name="traffic_config_alert_body_leisure">Volgens uw provider heeft %1$s van uw daluren gebruikt deze maand, dit is verschillend van de  %2$s dat u handmatig hebt ingesteld.</string>
   <string name="traffic_config_alert_body_leisure_notset">Uw provider toont %s overgebleven daluren data. U heeft geen limiet voor de daluren data.</string>
   <string name="traffic_config_alert_body_normal" formatted="false">"Provider geeft aan dat u %1$s gebruikt hebt van de overgebleven daluren data. %1$s van daluren data overgebleven. %2$s  %s  U heeft geen limiet voor de daluren data ingesteld."</string>
   <string name="traffic_config_alert_package">"
@@ -1180,19 +1180,19 @@ Overgebrachte extra data"</string>
   <string name="traffic_config_alert_setted">Instellingen toegepast</string>
   <string name="traffic_config_alert_title">%s correctie</string>
   <string name="traffic_correction_failed">Verkrijgen info mislukt</string>
-  <string name="traffic_correction_start_correction">Verbinden met providers servers…</string>
-  <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer de provider instellingen</string>
+  <string name="traffic_correction_start_correction">Verbinden met servers van provider…</string>
+  <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer de providerinstellingen</string>
   <string name="traffic_correction_success">Dataverbruik bijgewerkt</string>
   <string name="traffic_correction_success_notify_message">Tik om de details weer te geven.</string>
   <string name="traffic_limit_error_alert_body">Uw resterende data voor deze maand (%1$s) is groter dan uw maandelijks plan (%2$s). Merk extra data als herlaad pakket?</string>
   <string name="traffic_limit_error_alert_package">"
 
 Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
-  <string name="traffic_limit_error_alert_title">Data limiets herinnering %s</string>
+  <string name="traffic_limit_error_alert_title">Datalimiet herinnering %s</string>
   <string name="traffic_none">Geen</string>
   <string name="traffic_over_purchase_body">Aanraken om details weer te geven.</string>
-  <string name="traffic_over_purchase_link">"Je hebt dataverbruiks limiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tik om je saldo bij te vullen.&lt;/U&gt;&lt;/font&gt;""</string>
-  <string name="traffic_over_purchase_title">Dataverbruiks limiet overschreden</string>
+  <string name="traffic_over_purchase_link">"Je hebt de datalimiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tik om je saldo bij te vullen.&lt;/U&gt;&lt;/font&gt;""</string>
+  <string name="traffic_over_purchase_title">Dataverbruikslimiet overschreden</string>
   <string name="traffic_protection_data_usage_summary">Verbruik buiten uw databundel kan leiden tot extra kosten.</string>
   <string name="traffic_protection_label">Dataverbruik waarschuwing</string>
   <string name="traffic_protection_next">Volgende</string>
