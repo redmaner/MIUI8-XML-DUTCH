@@ -368,7 +368,7 @@ met %s"</string>
   <string name="font_family_subhead_material">sans-serif</string>
   <string name="font_family_title_material">sans-serif-medium</string>
   <string name="force_close">OK</string>
-  <string name="format_error">"Couldn't erase SD card."</string>
+  <string name="format_error">Kon SD kaart niet wissen</string>
   <string name="forward_intent_to_owner">U gebruikt deze app buiten uw werkprofiel</string>
   <string name="forward_intent_to_work">U gebruikt deze app in uw werkprofiel</string>
   <string name="gadget_host_error_inflating">Kan widget niet toevoegen.</string>
@@ -448,7 +448,7 @@ met %s"</string>
   <string name="ime_action_search">Zoeken</string>
   <string name="ime_action_send">Verzenden</string>
   <string name="imei">IMEI</string>
-  <string name="immersive_mode_confirmation">Swipe down from the top to exit full screen.</string>
+  <string name="immersive_mode_confirmation">Veeg naar beneden vanaf de top om het volledige scherm af te sluiten.</string>
   <string name="inputMethod">Invoermethode</string>
   <string name="input_method_binding_label">Invoermethode</string>
   <string name="invalidPin">Voer een PIN code van 4 tot 8 cijfers in.</string>
@@ -456,7 +456,7 @@ met %s"</string>
   <string name="issued_by">Uitgegeven door:</string>
   <string name="issued_on">Uitgegeven op:</string>
   <string name="issued_to">Uitgegeven voor:</string>
-  <string name="item_is_selected">%1$s selected</string>
+  <string name="item_is_selected">%1$s geselecteerd</string>
   <string name="js_dialog_before_unload">"%s
 
 Weet u zeker dat u deze pagina wilt verlaten?"</string>
@@ -504,7 +504,7 @@ Weet u zeker dat u deze pagina wilt verlaten?"</string>
   <string name="keyguard_password_enter_puk_prompt">PUK code</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Raak aan om wachtwoord in te voeren&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Onjuiste PIN code.</string>
-  <string name="kg_emergency_call_label">Emergency call</string>
+  <string name="kg_emergency_call_label">Noodoproep</string>
   <string name="kg_enter_confirm_pin_hint">Gewenste PIN code bevestigen</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. Na nog eens %d mislukte pogingen wordt u gevraagd uw telefoon te ontgrendelen via een e-mailaccount.
 
@@ -577,7 +577,7 @@ Om weer los te maken, houd de home en de powerknop op hetzelfde moment ingedrukt
   <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
   <string name="lockscreen_access_pattern_start">Patroon gestart</string>
-  <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
+  <string name="lockscreen_airplane_mode_on">Vliegmodus</string>
   <string name="lockscreen_carrier_default">Geen service.</string>
   <string name="lockscreen_emergency_call">Noodoproep</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">U heeft nu %d keer geprobeerd de telefoon op een onjuiste manier te ontgrendelen. Na nog eens %d mislukte pogingen worden de fabrieksinstellingen hersteld op de telefoon en gaan alle gebruikersgegevens verloren.</string>
@@ -612,7 +612,7 @@ Ga naar "&lt;b&gt;https://www.google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Onbruikbare SIM kaart.</string>
   <string name="lockscreen_return_to_call">Terug naar gesprek</string>
   <string name="lockscreen_screen_locked">Scherm vergrendeld.</string>
-  <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
+  <string name="lockscreen_sim_error_message_short">Ongeldige kaart.</string>
   <string name="lockscreen_sim_locked_message">SIM kaart geblokkeerd.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Bekijk de gebruikershandleiding of neem contact op met de klantendienst.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM kaart is vergrendeld met PUK code.</string>
@@ -644,9 +644,9 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="managed_profile_label">Werk</string>
   <string name="managed_profile_label_badge">%1$s werk</string>
   <string name="me">Ik</string>
-  <string name="media_bad_removal">SD card was removed before being unmounted.</string>
-  <string name="media_checking">SD card is currently being checked.</string>
-  <string name="media_removed">SD card has been removed.</string>
+  <string name="media_bad_removal">SD kaart is verwijderd voordat ze ontkoppeld was.</string>
+  <string name="media_checking">SD kaart wordt momenteel gecontroleerd.</string>
+  <string name="media_removed">SD kaart is verwijderd.</string>
   <string name="media_route_button_content_description">Cast</string>
   <string name="media_route_chooser_extended_settings">Instellingen</string>
   <string name="media_route_chooser_searching">Zoeken naar apparaten…</string>
@@ -658,78 +658,8 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="media_route_status_in_use">In gebruik</string>
   <string name="media_route_status_not_available">Niet beschikbaar</string>
   <string name="media_route_status_scanning">Scannen…</string>
-  <string name="media_shared">SD card is currently in use by a computer.</string>
-  <string name="media_unknown_state">External media in unknown state.</string>
-  <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
-  <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
-  <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
-  <string name="mediasize_chinese_prc_1">PRC 1</string>
-  <string name="mediasize_chinese_prc_10">PRC 10</string>
-  <string name="mediasize_chinese_prc_16k">PRC 16K</string>
-  <string name="mediasize_chinese_prc_2">PRC 2</string>
-  <string name="mediasize_chinese_prc_3">PRC 3</string>
-  <string name="mediasize_chinese_prc_4">PRC 4</string>
-  <string name="mediasize_chinese_prc_5">PRC 5</string>
-  <string name="mediasize_chinese_prc_6">PRC 6</string>
-  <string name="mediasize_chinese_prc_7">PRC 7</string>
-  <string name="mediasize_chinese_prc_8">PRC 8</string>
-  <string name="mediasize_chinese_prc_9">PRC 9</string>
-  <string name="mediasize_chinese_roc_16k">ROC 16K</string>
-  <string name="mediasize_chinese_roc_8k">ROC 8K</string>
-  <string name="mediasize_iso_a0">ISO A0</string>
-  <string name="mediasize_iso_a1">ISO A1</string>
-  <string name="mediasize_iso_a10">ISO A10</string>
-  <string name="mediasize_iso_a2">ISO A2</string>
-  <string name="mediasize_iso_a3">ISO A3</string>
-  <string name="mediasize_iso_a4">ISO A4</string>
-  <string name="mediasize_iso_a5">ISO A5</string>
-  <string name="mediasize_iso_a6">ISO A6</string>
-  <string name="mediasize_iso_a7">ISO A7</string>
-  <string name="mediasize_iso_a8">ISO A8</string>
-  <string name="mediasize_iso_a9">ISO A9</string>
-  <string name="mediasize_iso_b0">ISO B0</string>
-  <string name="mediasize_iso_b1">ISO B1</string>
-  <string name="mediasize_iso_b10">ISO B10</string>
-  <string name="mediasize_iso_b2">ISO B2</string>
-  <string name="mediasize_iso_b3">ISO B3</string>
-  <string name="mediasize_iso_b4">ISO B4</string>
-  <string name="mediasize_iso_b5">ISO B5</string>
-  <string name="mediasize_iso_b6">ISO B6</string>
-  <string name="mediasize_iso_b7">ISO B7</string>
-  <string name="mediasize_iso_b8">ISO B8</string>
-  <string name="mediasize_iso_b9">ISO B9</string>
-  <string name="mediasize_iso_c0">ISO C0</string>
-  <string name="mediasize_iso_c1">ISO C1</string>
-  <string name="mediasize_iso_c10">ISO C10</string>
-  <string name="mediasize_iso_c2">ISO C2</string>
-  <string name="mediasize_iso_c3">ISO C3</string>
-  <string name="mediasize_iso_c4">ISO C4</string>
-  <string name="mediasize_iso_c5">ISO C5</string>
-  <string name="mediasize_iso_c6">ISO C6</string>
-  <string name="mediasize_iso_c7">ISO C7</string>
-  <string name="mediasize_iso_c8">ISO C8</string>
-  <string name="mediasize_iso_c9">ISO C9</string>
-  <string name="mediasize_japanese_chou2">Chou2</string>
-  <string name="mediasize_japanese_chou3">Chou3</string>
-  <string name="mediasize_japanese_chou4">Chou4</string>
-  <string name="mediasize_japanese_hagaki">Hagaki</string>
-  <string name="mediasize_japanese_jis_b0">JIS B0</string>
-  <string name="mediasize_japanese_jis_b1">JIS B1</string>
-  <string name="mediasize_japanese_jis_b10">JIS B10</string>
-  <string name="mediasize_japanese_jis_b2">JIS B2</string>
-  <string name="mediasize_japanese_jis_b3">JIS B3</string>
-  <string name="mediasize_japanese_jis_b4">JIS B4</string>
-  <string name="mediasize_japanese_jis_b5">JIS B5</string>
-  <string name="mediasize_japanese_jis_b6">JIS B6</string>
-  <string name="mediasize_japanese_jis_b7">JIS B7</string>
-  <string name="mediasize_japanese_jis_b8">JIS B8</string>
-  <string name="mediasize_japanese_jis_b9">JIS B9</string>
-  <string name="mediasize_japanese_jis_exec">JIS Exec</string>
-  <string name="mediasize_japanese_kahu">Kahu</string>
-  <string name="mediasize_japanese_kaku2">Kaku2</string>
-  <string name="mediasize_japanese_oufuku">Oufuku</string>
-  <string name="mediasize_japanese_you4">You4</string>
-  <string name="mediasize_na_foolscap">Foolscap</string>
+  <string name="media_shared">SD kaart wordt momenteel gebruikt door een computer.</string>
+  <string name="media_unknown_state">Externe media in onbekende staat.</string>
   <string name="mediasize_na_gvrnmt_letter">Overheidsbrief</string>
   <string name="mediasize_na_index_3x5">Indexkaart 3 x 5 inch</string>
   <string name="mediasize_na_index_4x6">Indexkaart 4 x 6 inch</string>

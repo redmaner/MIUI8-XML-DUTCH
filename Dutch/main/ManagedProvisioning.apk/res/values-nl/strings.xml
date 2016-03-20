@@ -2,7 +2,7 @@
 <resources>
   <string name="admin_has_ability_to_monitor_device">Uw beheerder heeft de mogelijkheid om te controleren en instellingen te beheren, corporate toegang, apps, machtigingen en gegevens in verband met dit apparaat, met inbegrip van de netwerkactiviteit en de locatiegegevens van uw apparaat te beheren.</string>
   <string name="admin_has_ability_to_monitor_profile">Uw beheerder heeft de mogelijkheid om te controleren en instellingen te beheren, corporate toegang, apps, machtigingen en gegevens in verband met het profiel, met inbegrip van de netwerkactiviteit en de locatiegegevens van uw apparaat te beheren.</string>
-  <string name="app_name">Device Provisioner</string>
+  <string name="app_name">Apparaat Provisies</string>
   <string name="cancel_delete_profile">ANNULEREN</string>
   <string name="cancel_provisioning">ANNULEREN</string>
   <string name="cancel_setup">ANNULEREN</string>
@@ -15,7 +15,7 @@
   <string name="delete_profile">VERWIJDEREN</string>
   <string name="device_owner_cancel_cancel">ANNULEREN</string>
   <string name="device_owner_cancel_message">Stoppen met het instellen en de gegevens van uw apparaat te wissen?</string>
-  <string name="device_owner_cancel_title">Stop setting up?</string>
+  <string name="device_owner_cancel_title">Stoppen met instellen?</string>
   <string name="device_owner_error_already_provisioned">Dit apparaat is reeds ingesteld.</string>
   <string name="device_owner_error_download_failed">Kon admin app niet downloaden</string>
   <string name="device_owner_error_general">Kon uw apparaat niet instellen. Neem contact op met uw IT afdeling.</string>
@@ -28,9 +28,9 @@
   <string name="device_owner_error_wifi">Kon niet vebinden met Wi-Fi</string>
   <string name="encrypt_device_cancel">ANNULEREN</string>
   <string name="encrypt_device_launch_settings">CODEREN</string>
-  <string name="encrypt_device_text">"To continue setting up your work profile, you'll need to encrypt your device. This may take some time."</string>
+  <string name="encrypt_device_text">Om door te gaan met het instellen van uw werk profiel, moet u uw apparaat te coderen. Dit kan enige tijd in beslag nemen.</string>
   <string name="learn_more_link">Meer informatie</string>
-  <string name="managed_profile_already_present">You already have a work profile on your device. Do you want to remove it?</string>
+  <string name="managed_profile_already_present">Je hebt al een werk profiel op uw apparaat. Wilt u die verwijderen?</string>
   <string name="managed_provisioning_error_text">Kon uw werkprofiel niet instellen. Neem contact op met uw IT afdeling of probeer later opnieuw.</string>
   <string name="managed_provisioning_not_supported">Uw toestel ondersteunt geen werkprofielen</string>
   <string name="managed_provisioning_not_supported_by_launcher">Uw werkprofiel wordt niet ondersteund door deze app launcher. U moet overschakelen naar een launcher die compatibel is.</string>
@@ -39,7 +39,7 @@
   <string name="profile_owner_cancel_cancel">NEE</string>
   <string name="profile_owner_cancel_message">Stoppen met instellen?</string>
   <string name="profile_owner_cancel_ok">JA</string>
-  <string name="profile_owner_cancel_title">Stop setting up?</string>
+  <string name="profile_owner_cancel_title">Stoppen met instellen?</string>
   <string name="profile_owner_cancelling">Bezig met annuleren…</string>
   <string name="progress_connect_to_wifi">Bezig met verbinden van Wi-Fi…</string>
   <string name="progress_data_process">Bezig met verwerking van setup data…</string>
@@ -49,8 +49,8 @@
   <string name="provisioning_error_title">Oops!</string>
   <string name="set_up">Instellen</string>
   <string name="setting_up_workspace">Bezig met instellen van uw werkprofiel…</string>
-  <string name="setup_device">Set up your device</string>
-  <string name="setup_work_space">Set up your profile</string>
+  <string name="setup_device">Uw apparaat instellen</string>
+  <string name="setup_work_space">Uw profiel instellen</string>
   <string name="sure_you_want_to_delete_profile">Alle apps en gegevens in dit profiel worden verwijderd als u doorgaat.</string>
   <string name="the_following_is_your_mdm">Volgende app heeft toegang tot uw profiel nodig:</string>
   <string name="user_is_not_owner">Werkprofielen moeten worden ingesteld door de hoofdgebruiker van het apparaat</string>
