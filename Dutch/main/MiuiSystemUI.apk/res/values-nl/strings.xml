@@ -45,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">"WiMAX signaal  is op volle sterkte."</string>
   <string name="accessibility_wimax_three_bars">WiMAX: drie streepjes.</string>
   <string name="accessibility_wimax_two_bars">WiMAX: twee streepjes.</string>
+  <string name="account_info">Not logged in</string>
   <string name="activate_usb_message">Om deze functie te activeren, voer je SIM kaart in.</string>
   <string name="activate_usb_title">USB activeren</string>
   <string name="always_use_accessory">Standaard gebruiken voor dit USB accessoire</string>
@@ -93,21 +94,21 @@
   <string name="drive_mode_tip">U bent in de auto modus</string>
   <string name="expanded_confirm_disable_notification">Verbergen</string>
   <string name="expanded_notification_manager">Meldingen beheren</string>
-  <string name="ext_media_badremoval_notification_message">Ontkoppel de SD kaart voor het verwijderen om het verlies van data te voorkomen.</string>
-  <string name="ext_media_badremoval_notification_title">SD kaart onverwacht verwijderd</string>
+  <string name="ext_media_badremoval_notification_message">Ontkoppel de USB opslag voor het verwijderen om het verlies van data te voorkomen.</string>
+  <string name="ext_media_badremoval_notification_title">USB opslag onverwacht verwijderd</string>
   <string name="ext_media_checking_notification_message">Controleren op fouten.</string>
-  <string name="ext_media_checking_notification_title">SD kaart voorbereiden</string>
+  <string name="ext_media_checking_notification_title">USB opslag voorbereiden</string>
   <string name="ext_media_mountable_notification_message">"Klik 'Ga naar Explorer'"</string>
   <string name="ext_media_mountable_notification_title">USB opslag is verbonden</string>
-  <string name="ext_media_nofs_notification_message">SD kaart leeg of heeft geen ondersteunde bestandsindeling.</string>
-  <string name="ext_media_nofs_notification_title">Lege SD kaart</string>
-  <string name="ext_media_nomedia_notification_message">SD kaart verwijderd. Voer een nieuwe media in.</string>
-  <string name="ext_media_nomedia_notification_title">SD kaart verwijderd</string>
+  <string name="ext_media_nofs_notification_message">USB opslag leeg of heeft geen ondersteunde bestandsindeling.</string>
+  <string name="ext_media_nofs_notification_title">Lege USB opslag</string>
+  <string name="ext_media_nomedia_notification_message">USB opslag verwijderd. Voer een nieuwe media in.</string>
+  <string name="ext_media_nomedia_notification_title">USB opslag verwijderd</string>
   <string name="ext_media_safe_remove">Veilig verwijderen</string>
-  <string name="ext_media_safe_unmount_notification_message">U kunt de SD kaart veilig verwijderen.</string>
-  <string name="ext_media_safe_unmount_notification_title">SD kaart veilig te verwijderen</string>
-  <string name="ext_media_unmountable_notification_message">SD kaart is beschadigd. Misschien moet u formatteren.</string>
-  <string name="ext_media_unmountable_notification_title">Beschadigde SD kaart</string>
+  <string name="ext_media_safe_unmount_notification_message">U kunt de USB opslag veilig verwijderen.</string>
+  <string name="ext_media_safe_unmount_notification_title">USB opslag veilig te verwijderen</string>
+  <string name="ext_media_unmountable_notification_message">USB opslag is beschadigd. Misschien moet u formatteren.</string>
+  <string name="ext_media_unmountable_notification_title">Beschadigde USB opslag</string>
   <string name="gps_notification_found_text">Locatie bepaald met GPS</string>
   <string name="gps_notification_searching_text">Zoeken naar GPS</string>
   <string name="invalid_charger">Opladen via USB niet ondersteund.Gebruik alleen de bijgeleverde oplader.</string>
@@ -127,10 +128,11 @@
   <string name="media_projection_dialog_text">"%s begint met het vastleggen van alles wat er op je scherm verschijnt."</string>
   <string name="media_projection_remember_text">Niet meer weergeven</string>
   <string name="megabyte_per_second">M/s</string>
-  <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Ja</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Geen meldingen.</string>
+  <string name="notification_header_title">Notifications</string>
+  <string name="notification_hidden_text">Inhoud verborgen</string>
   <string name="notification_otg_gamestick_in">Game controller verbonden</string>
   <string name="notification_otg_gamestick_out">Game controller ontkoppeld</string>
   <string name="notification_otg_keyboard_in">Toetsenbord verbonden</string>
@@ -174,6 +176,8 @@
   <string name="settings_toggle_position_reset">Schakelaars herstellen</string>
   <string name="share">Deel</string>
   <string name="status_bar_date_format">M/d E</string>
+  <string name="status_bar_date_format_12">"EEEE
+MMMM d"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Vandaag: %1$s   Overblijvend: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Vandaag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan overschreden:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -222,11 +226,11 @@
   <string name="usb_notification_ptp_ticker_text">"Verbonden met USB (foto's)"</string>
   <string name="usb_ptp_text">"Foto's"</string>
   <string name="usb_share_net_info">Gebruik het internet van de computer</string>
-  <string name="usb_storage_error_message">Er is een probleem met de SD kaart.</string>
-  <string name="usb_storage_message">U heeft verbinding met uw computer via de USB. Tik op onderstaande knop voor bestandsoverdracht tussen uw computer en Android SD kaart</string>
+  <string name="usb_storage_error_message">Er is een fout opgetreden terwijl u uw apparaat wou bekijken als USB massaopslag.</string>
+  <string name="usb_storage_message">U heeft verbinding met uw computer via de USB. Tik op onderstaande knop voor bestandsoverdracht tussen uw computer en Android USB opslag</string>
   <string name="usb_storage_notification_message">Selecteer voor bestandsoverdracht van en naar uw computer.</string>
   <string name="usb_storage_notification_title">USB verbonden</string>
-  <string name="usb_storage_stop_message">"Voordat u de USB opslag uitschakelt, zorg ervoor dat u de Android SD kaart hebt ontkoppeld ('uitgeworpen') van uw computer."</string>
+  <string name="usb_storage_stop_message">"Voordat u de USB opslag uitschakelt, zorg ervoor dat u de Android USB opslag hebt ontkoppeld ('uitgeworpen') van uw computer."</string>
   <string name="usb_storage_stop_notification_message">Kies om USB opslag uit te schakelen.</string>
   <string name="usb_storage_stop_notification_title">Schakel USB opslag uit</string>
   <string name="usb_storage_stop_title">USB opslag in gebruik</string>

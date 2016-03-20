@@ -393,7 +393,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
   <string name="export_to_sim2">Exporteren naar SIM kaart 2</string>
   <string name="export_to_sim_title">Exporteren…</string>
-  <string name="export_vcard_description">Exporteer vCard naar SD kaart</string>
+  <string name="export_vcard_description">Exporteer vCard naar de interne opslag van telefoon</string>
   <string name="exporting_contact_failed_message">"De contactgegevens zijn niet geëxporteerd. Reden: '%s'"</string>
   <string name="exporting_contact_failed_title">Kan niet exporteren</string>
   <string name="exporting_contact_list_message">Uw contactgegevens worden geëxporteerd naar: %s.</string>
@@ -412,7 +412,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="fail_reason_no_exportable_contact">Er is geen contact dat kan worden geëxporteerd.</string>
   <string name="fail_reason_not_supported">De indeling wordt niet ondersteund.</string>
   <string name="fail_reason_too_long_filename">"Vereiste bestandsnaam is te lang('%s')."</string>
-  <string name="fail_reason_too_many_vcard">Er staan te veel vCard bestanden op de SD kaart.</string>
+  <string name="fail_reason_too_many_vcard">Er staan te veel vCard bestanden in de opslag.</string>
   <string name="fail_reason_unknown">Onbekende fout.</string>
   <string name="fail_reason_vcard_parse_error">Kan vCard om onverwachte reden niet ontleden.</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
@@ -461,7 +461,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
   <string name="import_contact_card_button">Contact importeren</string>
-  <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden op SD kaart.</string>
+  <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden in opslag.</string>
   <string name="import_from_onekey_migrate">Importeren met Mi Mover</string>
   <string name="import_from_other_phone">Importeren uit een andere telefoon</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
@@ -480,7 +480,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="import_to_xiaomi_account_progress_message">Importeren…</string>
   <string name="import_to_xiaomi_account_progress_title">Importeren naar Mi Account</string>
   <string name="import_to_xiaomi_account_title">Importeer onderstaande contacten naar uw Mi Account?</string>
-  <string name="import_vcard_description">Importeer contacten van SD kaart</string>
+  <string name="import_vcard_description">Importeer contacten van de interne opslag van telefoon</string>
+  <string name="import_vcard_dialog_message">VCard importeren?</string>
   <string name="import_weibo_dialog_title">Importeer Weibo contacten</string>
   <string name="import_weibo_error_no_matched_contacts">Er komen geen contacten overeen</string>
   <string name="import_weibo_error_no_network">Er is geen netwerkverbinding. Controleer de verbinding en probeer het opnieuw.</string>
@@ -604,6 +605,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="menu_import_export">Importeren/exporteren</string>
   <string name="menu_joinAggregate">Samenvoegen</string>
   <string name="menu_newContact">Nieuw contact</string>
+  <string name="menu_newContactButton">Toevoegen</string>
   <string name="menu_new_contact_action_bar">Contact toevoegen</string>
   <string name="menu_new_favorite_action_bar">Toevoegen aan favorieten</string>
   <string name="menu_new_group_action_bar">Groep toevoegen</string>
@@ -680,7 +682,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="miprofile_switch_on_alertdialog_positive">Inschakelen</string>
   <string name="miprofile_switch_on_alertdialog_title">Profielfoto update</string>
   <string name="missing_name">(Geen naam)</string>
-  <string name="missing_required_permission">U hebt een toestemming uitgeschakeld die nodig is.</string>
+  <string name="mobile_equipment_identification">Mobiele uitrustingsidentificatie</string>
   <string name="more_call_logs">Bekijk de gedetailleerde belgeschiedenis op i.mi.com</string>
   <string name="move_and_resize">Verplaatsen en vergroten/verkleinen</string>
   <string name="multi_number_menu_call">Oproep</string>
@@ -731,7 +733,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="no_contacts_dialog_message">Contacten kunnen opgeslagen zijn op de SIM kaart. Probeer deze te importeren vanaf de SIM kaart en probeer het opnieuw.</string>
   <string name="no_contacts_dialog_title">"Er zijn geen contacten gevonden"</string>
   <string name="no_contacts_selected">Er zijn geen contacten geselecteerd.</string>
-  <string name="no_sdcard_message">Geen SD kaart gevonden.</string>
+  <string name="no_sdcard_message">Geen opslag gevonden.</string>
   <string name="no_voip_contacts">Geen Mi Voice contacten</string>
   <string name="non_phone_add_to_contacts">Toevoegen aan contacten</string>
   <string name="non_phone_caption">Telefoonnummer</string>
@@ -900,11 +902,11 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="scan_qrcode_card_hint1">Scan de QR code hierboven</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">"(Reden: '%s')"</string>
-  <string name="scanning_sdcard_failed_title">SD kaart kan niet worden gescand</string>
+  <string name="scanning_sdcard_failed_title">De opslag kan niet worden gescand</string>
   <string name="searchHint">Contacen zoeken</string>
   <string name="search_results_searching">Zoeken…</string>
   <string name="search_settings_description">Namen van uw contacten</string>
-  <string name="searching_vcard_message">Zoeken naar vCardgegevens op SD kaart…</string>
+  <string name="searching_vcard_message">Zoeken naar vCardgegevens in opslag…</string>
   <string name="select_all">Selecteer alles</string>
   <string name="select_done">Niets meer om te selecteren</string>
   <string name="select_groups">Kies groepen</string>
@@ -936,8 +938,6 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="sim_capacity_content" formatted="false">Totale ruimte %d | %d gebruikt</string>
   <string name="sim_card_no_free_space_message">Onvoldoende ruimte</string>
   <string name="sim_card_no_free_space_title">SIM kaart vol</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Alles deselecteren</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Alles selecteren</string>
   <string name="sim_contact_existing">Dit contact bestaat al</string>
   <string name="sim_contact_invalid">Foutief SIM contact</string>
   <string name="sim_contact_search_error">Er is een fout opgetreden</string>
@@ -1029,6 +1029,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="type_mx_msg">Cloudberichten</string>
   <string name="type_outgoing">Uitgaande gesprekken</string>
   <string name="type_voicemail">Voicemail</string>
+  <string name="unable_get_device_id">Kan geen IMEI verkrijgen</string>
   <string name="unknow_phone_number_call_failed">Kan onbekend nummer niet bellen</string>
   <string name="unknow_phone_number_mms_failed">Kan onbekend nummer geen bericht zenden</string>
   <string name="unknown">Onbekend</string>

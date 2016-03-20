@@ -12,10 +12,6 @@
         <item quantity="other">U moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
         <item quantity="one">U moet nog %1$d stap uitvoeren om ontwikkelaar te worden.</item>
     </plurals>
-	<plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d vingerafdrukken instellen</item>
-        <item quantity="one">%1$d vingerafdruk instellen</item>
-    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Wachtwoord moet ten minste %d letters bevatten.</item>
         <item quantity="one">Wachtwoord moet ten minste één letter bevatten.</item>
@@ -48,38 +44,9 @@
         <item quantity="other">%d apps kunnen meldingen lezen</item>
         <item quantity="one">%d app kan meldingen lezen</item>
     </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Wijzig de wekkers enkel voor %1$d minuten (tot %2$s)</item>
-        <item quantity="one">Wijzig de wekkers enkel voor één minuut (tot %2$s)</item>
-    </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Wijzig de wekkers enkel voor %1$d uur tot %2$s</item>
-        <item quantity="one">Wijzig de wekkers enkel voor één uur tot %2$s</item>
-    </plurals>
-    <plurals name="permissions_summary">
-        <item quantity="other">%d toestemmingen verleend</item>
-        <item quantity="one">%d toestemming verleend</item>
-    </plurals>
-    <plurals name="runtime_permissions_summary">
-        <item quantity="other">%1$d van %2$d toestemmingen verleend</item>
-        <item quantity="one">%1$d van %2$d toestemmingen verleend</item>
-    </plurals>
-    <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d extra toestemmingen</item>
-        <item quantity="one">%d extra toestemming</item>
-    </plurals>
-    <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d apps kunnen hun ondersteunde links openen</item>
-        <item quantity="zero">Geen enkele app kan zijn ondersteunde links openen</item>
-        <item quantity="one">Eén app kan zijn ondersteunde links openen</item>
-    </plurals>
-    <plurals name="high_power_count">
-        <item quantity="other">%d apps mogen de batterijoptimalisatie negeren</item>
-        <item quantity="one">1 app mag de batterijoptimalisatie negeren</item>
-    </plurals>
-	<plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d apps verbruikten geheugen in de laatste %2$s</item>
-        <item quantity="one">1 app verbruikte geheugen in de laatste %2$s</item>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d apps provide conditions</item>
+        <item quantity="one">%d app provides conditions</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van de telefooninfo."</item>
@@ -92,5 +59,13 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van bug rapporteren."</item>
         <item quantity="one">"Je bent %1$d stap verwijderd van bug rapporteren."</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Always disable for %d apps</item>
+        <item quantity="one">Always disable for 1 app</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Never disable for %d apps</item>
+        <item quantity="one">Never disable for 1 app</item>
     </plurals>
 </resources>

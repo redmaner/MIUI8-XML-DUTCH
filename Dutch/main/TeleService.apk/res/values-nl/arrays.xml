@@ -1,51 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-        <string-array name="preferred_network_mode_choices_world_mode">
-        <item>Wereldwijd</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
     </string-array>
-    <string-array name="clir_display_values">
-        <item>Standaard netwerk</item>
-        <item>Nummer verbergen</item>
-        <item>Nummer weergeven</item>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Triple modus</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM/WCDMA, CDMA and EvDo</item>
-        <item>TD-SCDMA, GSM/WCDMA en LTE</item>
-        <item>TD-SCDMA, WCDMA en LTE</item>
-        <item>TD-SCDMA, GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM en LTE</item>
-        <item>TD-SCDMA en GSM</item>
-        <item>TD-SCDMA en LTE</item>
-        <item>TD-SCDMA en WCDMA</item>
-        <item>Alleen TD-SCDMA</item>
-        <item>LTE/WCDMA</item>
-        <item>Alleen LTE</item>
-        <item>LTE/GSM/CDMA auto (PRL)</item>
-        <item>LTE/GSM auto (PRL)</item>
-        <item>LTE/CDMA auto (PRL)</item>
-        <item>GSM/CDMA auto (PRL)</item>
-        <item>Alleen EvDo</item>
-        <item>Alleen CDMA</item>
-        <item>CDMA auto (PRL)</item>
-        <item>GSM auto (PRL)</item>
-        <item>Alleen WCDMA</item>
-        <item>Alleen GSM</item>
-        <item>Bij voorkeur WCDMA</item>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
     </string-array>
-    <string-array name="call_barring_outgoing_display_values">
-        <item>Uit</item>
-        <item>Internationale roam oproep</item>
-        <item>Internationale oproep</item>
-        <item>Uitgaande oproep</item>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Long</item>
     </string-array>
-    <string-array name="call_barring_incoming_display_values">
-        <item>Uit</item>
-        <item>Roaming</item>
-        <item>Alle</item>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple modus</item>
     </string-array>
+    <integer-array name="support_networktypes_cdma_master">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="support_networktypes_cdma_vice">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="support_networktypes_gsm_master">
+        <item>20</item>
+        <item>18</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="support_networktypes_gsm_vice">
+        <item>20</item>
+        <item>18</item>
+        <item>1</item>
+    </integer-array>
     <string-array name="list_language_entries">
         <item>Engels</item>
         <item>Frans</item>
@@ -59,16 +59,18 @@
         <item>Alleen thuis</item>
         <item>Automatisch</item>
     </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Triple modus</item>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
     </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Triple modus</item>
+    <string-array name="origin_carrier_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="locale_carrier_names">
+        <item>china_mobile</item>
+        <item>china_unicom</item>
+        <item>china_telecom</item>
     </string-array>
 </resources>

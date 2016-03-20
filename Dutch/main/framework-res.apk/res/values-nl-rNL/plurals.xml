@@ -4,9 +4,73 @@
         <item quantity="other">U heeft nog %d pogingen over voordat de SIM kaart wordt vergrendeld.</item>
         <item quantity="one">U heeft nog %d poging over voordat de SIM kaart wordt vergrendeld.</item>
     </plurals>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d seconden geleden</item>
+        <item quantity="one">1 second geleden</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Laatste %d dagen</item>
         <item quantity="one">Laatste %d dag</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">Gisteren</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">in %d seconden</item>
+        <item quantity="one">in 1 second</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 minuut</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">in %d uur</item>
+        <item quantity="one">in 1 uur</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">in %d dagen</item>
+        <item quantity="one">morgen</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d sec geleden</item>
+        <item quantity="one">1 sec geleden</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min geleden</item>
+        <item quantity="one">1 min geleden</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">Gisteren</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">in %d sec</item>
+        <item quantity="one">in 1 sec</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d min</item>
+        <item quantity="one">in 1 min</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">in %d uur</item>
+        <item quantity="one">in 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">in %d dagen</item>
+        <item quantity="one">Morgen</item>
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d seconden</item>
@@ -40,15 +104,7 @@
         <item quantity="other">Voor %1$d minuten (tot %2$s)</item>
         <item quantity="one">Voor één minuut (tot %2$s)</item>
     </plurals>
-    <plurals name="zen_mode_duration_minutes_summary_short">
-        <item quantity="other">Voor %1$d min (tot %2$s)</item>
-        <item quantity="one">Voor 1 min (tot %2$s)</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">Voor %1$d uur (tot %2$s)</item>
-        <item quantity="one">Voor 1 uur (tot %2$s)</item>
-    </plurals>
-    <plurals name="zen_mode_duration_hours_summary_short">
         <item quantity="other">Voor %1$d uur (tot %2$s)</item>
         <item quantity="one">Voor 1 uur (tot %2$s)</item>
     </plurals>
@@ -56,20 +112,8 @@
         <item quantity="other">Voor %d minuten</item>
         <item quantity="one">Voor één minuut</item>
     </plurals>
-    <plurals name="zen_mode_duration_minutes_short">
-        <item quantity="other">Voor %d min</item>
-        <item quantity="one">Voor 1 min</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Voor %d uur</item>
         <item quantity="one">Voor één uur</item>
-    </plurals>
-    <plurals name="zen_mode_duration_hours_short">
-        <item quantity="other">Voor %d uur</item>
-        <item quantity="one">Voor 1 uur</item>
-    </plurals>
-    <plurals name="selected_count">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
     </plurals>
 </resources>

@@ -48,6 +48,7 @@
   <string name="bookmark_confirm_delete_message">Berichten verwijderen uit favorieten?</string>
   <string name="bookmark_empty">Geen favorieten</string>
   <string name="bookmark_list_title">Favorieten</string>
+  <string name="call_sender">Bel afzender</string>
   <string name="cannot_add_picture_and_video">Kan video en afbeelding niet toevoegen aan een dia.</string>
   <string name="cannot_add_slide_anymore">Meer dia\'s toevoegen mislukt</string>
   <string name="cannot_forward_drm_obj">Het DRM object in het bericht kan niet worden doorgestuurd.</string>
@@ -159,8 +160,6 @@
   <string name="failed_to_add_media">"U kunt deze %1$s niet toevoegen aan uw bericht."</string>
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
-  <string name="feedback_description_hint">Schrijf hier uw feedbac</string>
-  <string name="feedback_submit">Verzenden feedback</string>
   <string name="festival">Snelle reaties</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Deze functie dient verbinding te maken met internet om normaal te functioneren.</string>
@@ -363,7 +362,6 @@
   <string name="pref_collapse_sp_messages_summary">SMS meldingen automatisch samen groeperen</string>
   <string name="pref_edit_smsc_address">SMS berichtencentrum telefoonnr.</string>
   <string name="pref_forward_title">Vooruit</string>
-  <string name="pref_key_mx_feedback">Feedback verzenden</string>
   <string name="pref_message_recovery_introduction_title">Berichten herstellen</string>
   <string name="pref_messages_to_save">Stel het aantal berichten om op te slaan</string>
   <string name="pref_mms_settings_title">Multimediaberichten (MMS)</string>
@@ -378,10 +376,9 @@
   <string name="pref_summary_delivery_reports">Afleverrapporten voor elk verzonden bericht</string>
   <string name="pref_summary_hide_festival">Verberg aanbevelingstab voor niet Chinese talen</string>
   <string name="pref_summary_manage_sim_messages">Berichten op uw SIM kaart beheren</string>
-   <string name="pref_summary_mms_auto_retrieval">Foto\'s en video\'s in berichten automatisch downloaden</string>
+  <string name="pref_summary_mms_auto_retrieval">Foto\'s en video\'s in berichten automatisch downloaden</string>
   <string name="pref_summary_mms_read_reports">Toon een melding in een gespreksweergave wanneer de ontvanger de MMS inhoud heeft gedownload</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Automatisch foto\'s en video\'s in berichten downloaden bij roamen</string>
-  <string name="pref_summary_mx_feedback">Rapporteer bugs en verstuur feedback rechtstreeks naar Xiaomi</string>
   <string name="pref_summary_notification_body_enabled">Voorbeeld berichten op vergrendelscherm en statusbalk</string>
   <string name="pref_summary_notification_body_enabled_when_secure">U kan geen voorbeeld van berichten zien in Gastmodus</string>
   <string name="pref_summary_off_system_mms_priority">Gebruik apps van derden om uw MMS te verzonden of ontvangen</string>
@@ -441,7 +438,6 @@
   <string name="recipients_over_size">Teveel onvangers.</string>
   <string name="recording_failed">Kan niet opnemen</string>
   <string name="red_package_btn">Openen</string>
-  <string name="red_package_default_hint">Geluk, veel geluk!</string>
   <string name="refill_now">Nu opwaarderen</string>
   <string name="refresh">Vernieuwen</string>
   <string name="refresh_failed">Vernieuwen mislukt</string>
@@ -516,6 +512,7 @@
   <string name="set">Instellen</string>
   <string name="share_img">Delen</string>
   <string name="show_all_messages">Alle berichten weergeven</string>
+  <string name="show_sender">Geef afzender info weer</string>
   <string name="sim_card1">SIM kaart 1</string>
   <string name="sim_card2">SIM kaart 2</string>
   <string name="sim_card_cloud">%s (Mi Message)</string>
@@ -577,7 +574,9 @@
   <string name="timed_message_to">Aan</string>
   <string name="title_allow_network_access">Info automatisch updaten</string>
   <string name="title_collapse_sp_messages">Meldingengroep</string>
-  <string name="title_date_type">Tijdstempel bericht</string>
+  <string name="title_recv_red_package">Rood pakket verkrijgen</string>
+  <string name="title_red_package">Rijk worden en veel geluk</string>
+  <string name="title_send_red_package">Rood pakket controleren</string>
   <string name="title_show_blocked_messages">Geef geblokkeerde SMS weer</string>
   <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
   <string name="title_show_sms_template_in">Controleer SMS op OTP</string>
@@ -586,10 +585,6 @@
   <string name="to_count">%d onvangers</string>
   <string name="to_label">"Aan "</string>
   <string name="to_send_wrapper">Wordt verzonden op %s</string>
-  <string name="toast_description_required">Feedback mag niet leeg zijn</string>
-  <string name="toast_feedback_finish">Feedback wordt automatisch verzonden als u verbonden bent met Wi-Fi</string>
-  <string name="toast_feedback_max">U mag maar 3 keer per dag een feedback geven</string>
-  <string name="toast_feedback_start">Feedback verzenden…</string>
   <string name="too_many_attachments">Kan %1$s bijlagen niet overschrijden. Alleen de eerste %2$s zullen toegevoegd worden.</string>
   <string name="too_many_recipients">"Bericht bevat te veel ontvangers (%1$s). De limiet is %2$s ontvangers."</string>
   <string name="too_many_unsent_mms">Bericht verzenden mislukt. Er zijn teveel onverzonden multimedia berichten."</string>
