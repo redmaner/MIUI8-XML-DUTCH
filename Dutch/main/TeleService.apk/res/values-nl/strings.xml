@@ -196,13 +196,13 @@
   <string name="card_title_outgoing_barred">Uitgaande gesprekken geblokkeerd</string>
   <string name="card_title_redialing">Nummerherhaling</string>
   <string name="card_title_unconditionalCF">Oproep onvoorwaardelijk doorschakelen is ingeschakeld</string>
-  <string name="carrier_name">(Provider naam)</string>
+  <string name="carrier_name">(Providernaam)</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Providerinstellingen</string>
   <string name="cb_sms_settings">Instellingen voor SMS info dienstberichten</string>
   <string name="cdma_activate_device">Apparaat activeren</string>
-  <string name="cdma_alert_message">Als u een andere kaart als standaard selecteerd voor mobiele data, zal u niet in staat zijn om uw China Telecom SIM kaart te gebruiken(behalve bij roaming).</string>
+  <string name="cdma_alert_message">Als u een andere kaart als standaard selecteert voor mobiele data, zal u niet in staat zijn om uw China Telecom SIM kaart te gebruiken (behalve bij roaming).</string>
   <string name="cdma_alert_title">UIM kaart moet standaard zijn</string>
   <string name="cdma_display_precise_call_state_message">De status kan verkeerd zijn als uw provider dit niet ondersteund.</string>
   <string name="cdma_display_precise_call_state_summary">Verzeker u er van dat uw provider deze functie ondersteund</string>
@@ -467,8 +467,8 @@
   <string name="ims_set_wifi_calling_preference_failed">Mislukt om een Wi-Fi oproep voorkeur in te stellen</string>
   <string name="ims_vt_call_quality_high">Hoog</string>
   <string name="ims_vt_call_quality_low">Laag</string>
-  <string name="ims_vt_call_quality_set_failed">Mislukt omvideo kwaliteit in te stellen</string>
-  <string name="ims_vt_call_quality_title">VT oproep kwaliteit</string>
+  <string name="ims_vt_call_quality_set_failed">Mislukt om videokwaliteit in te stellen</string>
+  <string name="ims_vt_call_quality_title">VT oproepkwaliteit</string>
   <string name="ims_vt_call_quality_unknown">Onbekend</string>
   <string name="incall_error_call_failed">Kan niet bellen</string>
   <string name="incall_error_emergency_only">Niet geregistreerd op netwerk.</string>
@@ -753,7 +753,7 @@ Herlaad en start met bellen"</string>
   <string name="notification_incoming_call">Inkomende oproep</string>
   <string name="notification_missedCallTicker">Gemiste oproep van %s</string>
   <string name="notification_missedCallTitle">Gemiste oproep</string>
-  <string name="notification_missedCall_call_back">Terug bellen</string>
+  <string name="notification_missedCall_call_back">Terugbellen</string>
   <string name="notification_missedCall_message">Bericht</string>
   <string name="notification_missedCallsMsg">%s gemiste oproepen</string>
   <string name="notification_missedCallsTitle">Missed calls</string>
@@ -896,7 +896,7 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_mode_gsm_only_summary">Voorkeursnetwerk modus: Alleen GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA auto</string>
   <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
-  <string name="preferred_network_mode_gsm_wcdma_preferred_choice">Bij voorkeurGSM/WCDMA</string>
+  <string name="preferred_network_mode_gsm_wcdma_preferred_choice">Bij voorkeur GSM/WCDMA</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Voorkeursnetwerk modus: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Voorkeursnetwerk modus: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_choice">LTE</string>
@@ -926,7 +926,7 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Voorkeursnetwerk modus: TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Voorkeursnetwerk modus: TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Voorkeursnetwerktype</string>
-  <string name="preferred_network_mode_wcdma_only_choice">Allleen WCDMA</string>
+  <string name="preferred_network_mode_wcdma_only_choice">Alleen WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Voorkeursnetwerk modus: Alleen WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Voorkeursnetwerk modus: Bij voorkeur WCDMA</string>
   <string name="preferred_network_restrict_network_changed_incall">Kan het mobiele netwerk niet veranderen tijdens gesprek</string>
