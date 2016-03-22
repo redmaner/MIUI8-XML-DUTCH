@@ -2,7 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het ontleden van het pakket.</string>
   <string name="Parse_error_dlg_title">Parseerfout</string>
-  <string name="activity_package_delete_confirm_title">Belangerijke waarschuwing</string>
+  <string name="activity_package_delete_confirm_title">Belangrijke waarschuwing</string>
   <string name="allow_source_dlg_text">"%1$s wil andere apps installeren. Dit voortaan toestaan?"</string>
   <string name="allow_source_dlg_title">Nieuwe bron voor apps</string>
   <string name="app_name">Installatieprogramma van pakket</string>
@@ -10,7 +10,7 @@
   <string name="app_not_found_dlg_title">App niet gevonden</string>
   <string name="app_store_install_hint">Nu installeren</string>
   <string name="app_store_installing_message">Installeren…</string>
-  <string name="app_store_missing_message">Het lijkt erop dat u onze officiële App Store niet hebt geïnstalleerd. Nu nstalleren?</string>
+  <string name="app_store_missing_message">Het lijkt erop dat u onze officiële App Store niet hebt geïnstalleerd. Nu installeren?</string>
   <string name="app_store_missing_title">App Store is niet geïnstalleerd</string>
   <string name="auto_startup_dialog_msg">Deze app kan niet starten zonder toestemming.</string>
   <string name="btn_text_full_scan">Volledige scan</string>
@@ -56,10 +56,10 @@
   <string name="manage_applications">Apps beheren</string>
   <string name="manage_device_administrators">Apparaatbeheerders beheren</string>
   <string name="message_appstore_verify_has_new_version">Een nieuwere versie van deze app is beschikbaar in de App Store. Wilt u die installeren?</string>
-  <string name="message_appstore_verify_inconsistent">De apphandtekening is verschillend van die in de App Store, het veiliger om de app vanaf daar te installeren.</string>
-  <string name="message_appstore_verify_ok">De versie van deze app in de App Store is geslaagd voor onze veiligheid testen, wij raden u aan de app van daaruit te installeren.</string>
+  <string name="message_appstore_verify_inconsistent">De apphandtekening is verschillend van die in de App Store, het is veiliger om de app van daaruit te installeren.</string>
+  <string name="message_appstore_verify_ok">De versie van deze app in de App Store is geslaagd voor onze veiligheidstests, wij raden u aan de app van daaruit te installeren.</string>
   <string name="message_full_scanning">Volledig scannen…</string>
-  <string name="message_install_in_market">Wij raden u aan de app uit App Store te installeren</string>
+  <string name="message_install_in_market">Wij raden u aan de app uit de App Store te installeren</string>
   <string name="message_quick_scanning">Snel scannen…</string>
   <string name="ok">Ok</string>
   <string name="other_relative">Ander</string>
@@ -67,7 +67,7 @@
   <string name="out_of_space_dlg_title">Niet genoeg ruimte</string>
   <string name="package_delete_confirm_step_1">%s verwijderen?</string>
   <string name="package_delete_confirm_step_2">Deze app verwijderen, kan ertoe leiden dat uw systeem instabiel wordt.</string>
-  <string name="package_delete_confirm_step_3">Je zal niet in staat zijn om deze app te openen nadat u het verwijdert is.</string>
+  <string name="package_delete_confirm_step_3">Je zal niet in staat zijn om deze app te openen nadat u het verwijdert hebt.</string>
   <string name="perm_action_accept">Toestaan</string>
   <string name="perm_action_prompt">Vragen</string>
   <string name="perm_action_reject">Weigeren</string>
@@ -109,7 +109,7 @@
   <string name="uninstalling">Verwijderen…</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_apps_dlg_text">Voor de veiligheid is uw telefoon ingesteld om de installatie van apps verkregen van onbekende bronnen te blokkeren.</string>
-  <string name="unknown_apps_dlg_text1">"Uw telefoon is ingesteld om de installatie van apps van onbekende bronnen blokkeren. U kunt deze functie uitschakelen in "</string>
+  <string name="unknown_apps_dlg_text1">"Uw telefoon is ingesteld om de installatie van apps van onbekende bronnen te blokkeren. U kunt deze functie uitschakelen in "</string>
   <string name="unknown_apps_dlg_text2">\"Instellingen\"</string>
   <string name="unknown_apps_dlg_text3">.</string>
   <string name="unknown_apps_dlg_title">Installatie geblokkeerd</string>
