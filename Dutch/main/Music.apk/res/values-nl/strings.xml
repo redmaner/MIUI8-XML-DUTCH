@@ -40,6 +40,7 @@
   <string name="all_tracks_short">Alle nummers</string>
   <string name="already_download">Bezig met downloaden…</string>
   <string name="already_favorited">Reeds bij favorieten</string>
+  <string name="android_sdk_too_low">Android versie is te laag, kan de muziek niet upgraden. Updaten a.u.b.</string>
   <string name="artist">Artiest</string>
   <string name="artist_is_empty">Artiestennaam kan niet leeg zijn.</string>
   <string name="artist_name">Artiest</string>
@@ -205,7 +206,8 @@
   <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Verberg bestanden kleiner dan "</string>
   <string name="filter_by_size_summary">Verberg kleine audiobestanden</string>
-  <string name="find_music">Ontdek nummers</string>
+  <string name="find_music">Nummers ontdekken</string>
+  <string name="font_family">Miui</string>
   <string name="format_not_support">Deze indeling is niet ondersteund</string>
   <string name="format_unsupported_or_corrupted">Dit formaat wordt niet ondersteund of het bestand is beschadigd</string>
   <string name="fragment_more">Meer</string>
@@ -303,7 +305,7 @@
   <string name="more_online_song">Meer</string>
   <string name="more_online_suggest">Meer</string>
   <string name="more_settings">Meer geavanceerde instellingen</string>
-  <string name="more_settings_summary">Downloadinstellingen, slaapmodus, mobiele data, bestandsfilters, enz.</string>
+  <string name="more_settings_summary">Downloadinstellingen, slaapmodus, stroomregeling, bestand filtering enz.</string>
   <string name="multichoice">Selecteer</string>
   <string name="music_browser_label">Muziek</string>
   <string name="music_filter">Filter audiobestanden</string>
@@ -463,10 +465,10 @@
   <string name="sort_by_name">Naam</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Bron: %1$s</string>
-  <string name="start_download_music">Updates downloaden…</string>
+  <string name="start_download_music">Beginnen met downloaden van muziek upgradepakket</string>
   <string name="start_to_download">Downloaden…</string>
   <string name="start_to_play">Afspelen</string>
-  <string name="start_to_use">App openen</string>
+  <string name="start_to_use">Begin met te genieten</string>
   <string name="start_update">Updaten naar de nieuwste versie van de muziekapp.</string>
   <string name="stream_normal">Afspelen in standaardkwaliteit</string>
   <string name="stream_quality">Streamingkwaliteit</string>
@@ -492,7 +494,7 @@
   <string name="take_effect_afater_restart">U moet de Muziek app opnieuw opstarten om deze instelling van kracht te laten zijn.</string>
   <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
   <string name="ticket_title">Tickets weergeven</string>
-  <string name="time_to_upgrade">Updaten naar de nieuwste versie van Mi Muziek</string>
+  <string name="time_to_upgrade">Mi Muziek moet geupdate worden</string>
   <string name="title_online_artist">Trending artiesten</string>
   <string name="title_online_billboard">Muziek lijsten</string>
   <string name="title_online_fm">Radio</string>
@@ -504,6 +506,7 @@
   <string name="title_search_hot">Populair</string>
   <string name="to_mi_pay">Mi Credits</string>
   <string name="toast_cancel_download">Download geannuleerd</string>
+  <string name="toast_cancel_play">Afspelen geannuleerd</string>
   <string name="toast_download_error_by_count_limit">U hebt uw download quota voor deze maand bereikt.</string>
   <string name="toast_download_error_by_vip_required">Premium muziek pakket verkrijgen om dit nummer te downloaden.</string>
   <string name="toast_download_in_process">Bezig met downloaden</string>
