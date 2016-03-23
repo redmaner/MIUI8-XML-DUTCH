@@ -15,12 +15,12 @@
   <string name="__leak_canary_toast_heap_dump">Geheugen dumpen, app zal bevriezen. Brrrr.</string>
   <string name="abandon">Annuleren</string>
   <string name="accept">Accepteren</string>
-  <string name="accept_or_deny">%1$s deel album %2$s met u.</string>
+  <string name="accept_or_deny">%1$s heeft album %2$s met u gedeeld.</string>
   <string name="add_automatically_alert_msg">Foto\'s van \"%1$s\" automatisch toevoegen aan dit album?</string>
   <string name="add_automatically_alert_title">Foto\'s automatisch toevoegen</string>
   <string name="add_sharer">Lid toevoegen</string>
   <string name="add_to_album">Toevoegen aan album</string>
-  <string name="add_to_album_bulk_result">Fout %d</string>
+  <string name="add_to_album_bulk_result">%d mislukt</string>
   <string name="add_to_album_exist">Foto bestaat reeds</string>
   <string name="add_to_album_failed">Kon niet toevoegen aan album</string>
   <string name="add_to_album_success">Toegevoegd aan album</string>
@@ -128,7 +128,7 @@
   <string name="choose_baby_sexy">Geslacht</string>
   <string name="choose_owner_relation">Relatie</string>
   <string name="choose_people">Album van persoon kiezen</string>
-  <string name="choose_some_people">Kies album met %s is</string>
+  <string name="choose_some_people">Kies album met %s</string>
   <string name="click_download_gif">Tik om gif te downloaden</string>
   <string name="click_top_right">Tik op het icoon rechtsboven</string>
   <string name="cloud_camera_display_name">Camera foto\'s</string>
@@ -282,7 +282,7 @@
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Gratis</string>
   <string name="gallery_setting">Galerij</string>
-  <string name="gallery_sync_disable_toast">Sync. van gallerij is uitgeschakeld</string>
+  <string name="gallery_sync_disable_toast">Sync. van galerij is uitgeschakeld</string>
   <string name="get_album_info_in_process">Opvragen van gedeelde albumdetails</string>
   <string name="gif_tip">Gif</string>
   <string name="gigabyteShort">GB</string>
@@ -314,7 +314,7 @@
   <string name="image_download_item_title">Download foto(%s)</string>
   <string name="image_quota_fulfiled">Kan bestand niet aanmaken: bestandslimiet overschreden.</string>
   <string name="impunity_declaration_settings">Internetverbindingsmelding weergeven</string>
-  <string name="impunity_declaration_summary">Internetverbindingsmelding weergeven iedere keer u de gallerij opent</string>
+  <string name="impunity_declaration_summary">Internetverbindingsmelding weergeven iedere keer dat u de galerij opent</string>
   <string name="initializing_cloud">Initialiseren</string>
   <string name="input_a_name">Naam invoeren</string>
   <string name="input_baby_name">Naam invoeren</string>
@@ -377,7 +377,7 @@
   <string name="not_ask_any_more">"Niet meer vragen bij volgende \"%s\" antwoorden"</string>
   <string name="not_is">Nee</string>
   <string name="not_remind_any_more">Niet meer weergeven</string>
-  <string name="number_of_uploading_finish">Albums zijn automatisch geback-upet</string>
+  <string name="number_of_uploading_finish">Albums zijn automatisch geback-upt</string>
   <string name="old">Ouderwets</string>
   <string name="open">Inschakelen</string>
   <string name="open_public_message">Genereer een URL en stuur deze door</string>
@@ -411,8 +411,8 @@
   <string name="operation_too_often">De handeling wordt te vaak uitgevoerd, probeer het opnieuw over 1 minuut.</string>
   <string name="operation_unforce_top">Losmaken</string>
   <string name="operation_unhide">Zichtbaar maken</string>
-  <string name="orientation_lock_tip">Auto-rotate vergrendeld</string>
-  <string name="orientation_unlock_tip">Auto-rotate geopend</string>
+  <string name="orientation_lock_tip">Auto-rotatie vergrendeld</string>
+  <string name="orientation_unlock_tip">Auto-rotatie geopend</string>
   <string name="original">Origineel</string>
   <string name="original_scale">Originele</string>
   <string name="other_settings">Extra instellingen</string>
@@ -514,7 +514,7 @@
   <string name="set_face_group_toast_msg_new_user">Gezicht ingedrukt houden om deze persoon samen te voegen of te negeren.</string>
   <string name="set_face_group_toast_msg_old_user">Gezicht ingedrukt houden en tag deze persoon (familie, vrienden, klasgenoten, enz.)</string>
   <string name="set_face_group_toast_title_new_user">Suggestie</string>
-  <string name="set_face_group_toast_title_old_user">Personen kunnen gerankschikt worden</string>
+  <string name="set_face_group_toast_title_old_user">Personen kunnen gerangschikt worden</string>
   <string name="set_face_image">Nieuw gezicht instellen</string>
   <string name="set_group">Groep instellen</string>
   <string name="shadow">Schaduwen</string>
@@ -546,7 +546,7 @@
   <string name="sync_album_in_proecess">Album sync. met server…</string>
   <string name="sync_battery_low">Batterij laag</string>
   <string name="sync_cloud_space_full">Niet genoeg ruimte op de Mi Cloud</string>
-  <string name="sync_diabled_toast">Sync is uitgeschakeld voor de gallerij</string>
+  <string name="sync_diabled_toast">Sync is uitgeschakeld voor de galerij</string>
   <string name="system_album">Systeemalbum</string>
   <string name="temperature">Hue</string>
   <string name="terabyteShort">TB</string>
