@@ -46,7 +46,6 @@
   <string name="album_page_label">Album</string>
   <string name="album_quota_fulfiled">Kan het album niet aanmaken: het albumlimiet is overschreden</string>
   <string name="album_screenshot_name">Screenshot</string>
-  <string name="album_setting_show_in_photo_tab_success">Dit album staat reeds op de startpagina</string>
   <string name="album_share_exit_confirm">Het album verlaten?</string>
   <string name="album_share_kicked">%1$s is gesloten</string>
   <string name="album_share_stat_content">Uitnodigingen</string>
@@ -243,6 +242,8 @@
   <string name="expand_people">Toon meer personen</string>
   <string name="face_album_detecting_tip">Een momentje…</string>
   <string name="face_album_empty">Leeg</string>
+  <string name="face_album_empty_syncing">Data sync.</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Zal gezichtsdata sync. wanneer het apparaat verbonden is met Wi-Fi</string>
   <string name="face_album_long_tap_tip">Om meerdere personen te selecteren of groepsinstellingen te wijzigen, druk op &amp; en houd een profielfoto ingedrukt</string>
   <string name="face_album_new_name_hint">Nieuwe naam</string>
   <string name="face_album_not_named">Naamloos</string>
@@ -410,6 +411,8 @@
   <string name="operation_too_often">De handeling wordt te vaak uitgevoerd, probeer het opnieuw over 1 minuut.</string>
   <string name="operation_unforce_top">Losmaken</string>
   <string name="operation_unhide">Zichtbaar maken</string>
+  <string name="orientation_lock_tip">Auto-rotate vergrendeld</string>
+  <string name="orientation_unlock_tip">Auto-rotate geopend</string>
   <string name="original">Origineel</string>
   <string name="original_scale">Originele</string>
   <string name="other_settings">Extra instellingen</string>
@@ -469,8 +472,6 @@
   <string name="relation_text_maternal_grandmother">Grootmoeder van moederszijde</string>
   <string name="relation_text_mother">Moeder</string>
   <string name="relation_with_you">Relatie kiezen</string>
-  <string name="remind_shows_in_photo_tab_summary">Dit album weergeven op de startpagina?</string>
-  <string name="remind_shows_in_photo_tab_title">Albuminstellingen</string>
   <string name="remove_from_secret_fail">Verwijderen uit verborgen album mislukt</string>
   <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderd worden uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items kunnen niet verwijderd worden uit verborgen album. %1$s."</string>
@@ -514,6 +515,7 @@
   <string name="set_face_group_toast_msg_old_user">Gezicht ingedrukt houden en tag deze persoon (familie, vrienden, klasgenoten, enz.)</string>
   <string name="set_face_group_toast_title_new_user">Suggestie</string>
   <string name="set_face_group_toast_title_old_user">Personen kunnen gerankschikt worden</string>
+  <string name="set_face_image">Nieuw gezicht instellen</string>
   <string name="set_group">Groep instellen</string>
   <string name="shadow">Schaduwen</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
