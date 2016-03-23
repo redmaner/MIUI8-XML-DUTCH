@@ -151,6 +151,8 @@
   <string name="notif_restore_complete_title">Herstellen gelukt</string>
   <string name="notif_restore_content">Gebruikersdata herstellen</string>
   <string name="notif_restore_title">Data herstellen</string>
+  <string name="notif_trans_receiving_completed">Data met succes ontvangen</string>
+  <string name="notif_trans_sending_completed">Data met succes verzonden</string>
   <string name="page_loading">Een momentje…</string>
   <string name="progress_backup_hint">Back-uppen…</string>
   <string name="progress_restore_hint">Herstellen…</string>
@@ -244,14 +246,15 @@
   <string name="trans_backingup">Bezig met back-up…</string>
   <string name="trans_backingup_no_items">Sync.…</string>
   <string name="trans_calculating">Berekenen…</string>
-  <string name="trans_calculating_app_sd_size">Datagrootte berekenen om te verzenden, %s gescand</string>
-  <string name="trans_calculating_base_size">Basisgrootte van apps berekenen</string>
+  <string name="trans_calculating_app_sd_size">Datagrootte berekenen %s</string>
+  <string name="trans_calculating_base_size">Appsgrootte berekenen</string>
   <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
   <string name="trans_cancelling">Annuleren</string>
   <string name="trans_connect_failed_message">"Verbinding mislukt, probeer opnieuw of herstart. Op het andere apparaat, Ga naar Instellingen &gt; Extra Instellingen &gt; Mi Mover, Tik [Ik ben een verzender] of start Mi Mover opnieuw na herstarten"</string>
   <string name="trans_connect_failed_title">Verbinding mislukt</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
   <string name="trans_connecting_toast">Verbinden…</string>
+  <string name="trans_connection_failed">Verbinding van apparaat verbroken</string>
   <string name="trans_detail_category_account">Accounts en contacten</string>
   <string name="trans_detail_category_files">Bestanden</string>
   <string name="trans_detail_category_sysdata">Systeemdata</string>
@@ -276,12 +279,14 @@ Transfereren app op uw oude apparaat
   <string name="trans_please_waiting">Een momentje…</string>
   <string name="trans_progress_subdescript_br_receiver">%1$s aan het herstellen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_br_sender">%1$s aan het back-uppen, %2$s voltooid</string>
+  <string name="trans_progress_subdescript_br_sender_finish">%s geback-upt, wachten om te verzenden…</string>
   <string name="trans_progress_subdescript_transing_receiver">%1$s aan het ontvangen, %2$s voltooid</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">%s ontvangen, wachten om te herstellen…</string>
   <string name="trans_progress_subdescript_transing_sender">%1$s aan het verzenden, %2$s voltooid</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Bestanden aan het ontvangen, %s voltooid</string>
   <string name="trans_progress_subdescript_transingsd_sender">Bestanden aan het verzenden, %s voltooid</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Het ontvangen van SD kaart datas van %1$s, %2$s voltooid</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Het verzenden van SD kaart datas van %1$s, %2$s voltooid</string>
+   <string name="trans_progress_subdescript_transingsddata_receiver">%1$s SD kaart bestanden ontvangen, %2$s voltooid</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">%1$s SD kaart bestanden verzonden, %2$s voltooid</string>
   <string name="trans_progress_subdescript_waiting">Wachten om %s te ontvangen</string>
   <string name="trans_receiver">Ik ben een ontvanger</string>
   <string name="trans_receiver_time_remained">"%s resterend.
@@ -293,8 +298,8 @@ Wi-Fi Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</stri
   <string name="trans_scan_invalid_qrcode">Ongeldige QR code</string>
   <string name="trans_scan_qr_code_tips">Scan QR code met nieuwe apparaat</string>
   <string name="trans_select_data">Selecteer items om te verzenden</string>
-  <string name="trans_select_data_no_space">"%s beschikbaar op het nieuwe apparaat
-Selecteer de bestanden opnieuw of maak ruimte vrij"</string>
+  <string name="trans_select_data_no_space">"Niet genoeg ruimte op nieuw apparaat
+Selecteer de bestanden opnieuw of maak %s ruimte vrij op nieuw apparaat"</string>
   <string name="trans_select_data_tips">"Selecteer bestanden om te transfereren
 Gelijkaardige bestanden op het nieuwe apparaat zullen overschreven worden"</string>
   <string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
@@ -324,6 +329,16 @@ en dat Mi Mover ingeschakeld is"</string>
   <string name="unknown_hint">Onbekend</string>
   <string name="wifi_title">Wi-Fi instellingen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Verbinden van Download Manager mislukt, controleer de Download Manager staat in App beheer.</string>
+  <string name="xiaomi_external_storage_unavailable">Opslag niet beschikbaar, controleer de SD kaart.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_update_dialog_message">"Introductie versie %1$s
+Grootte: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introductie versie %1$s
+Delta update grootte: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Nieuwe versie beschikbaar!</string>
 </resources>

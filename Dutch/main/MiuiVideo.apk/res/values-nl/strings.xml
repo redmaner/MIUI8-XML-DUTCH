@@ -6,7 +6,6 @@
   <string name="about_version_label">"Versie "</string>
   <string name="actor">Acteur</string>
   <string name="actor_intro">Over</string>
-  <string name="ad_countdown">%ss overblijvend</string>
   <string name="ad_moredetail">Details weergeven</string>
   <string name="add_favorite_success">Favorieten</string>
   <string name="add_more_addons">Voeg meer addons toe</string>
@@ -107,6 +106,7 @@
   <string name="delete_addon">Verwijderen</string>
   <string name="delete_addon_content">Verwijder dit artikel?</string>
   <string name="delete_with">Verwijder (%d)</string>
+  <string name="detail">Detail</string>
   <string name="detail_comment_empty">Leeg</string>
   <string name="develop_version">Beta applicatie</string>
   <string name="development_setting">Ontwikkelaarsinstellingen</string>
@@ -280,13 +280,14 @@
   <string name="positive_comment">Leuk</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
-  <string name="prefix_countdown">"Advertenties resterend:"</string>
   <string name="priority_storage">Opslaan op externe SD card</string>
   <string name="priority_storage_summary">Automatisch opslaan naar externe SD card, indien beschikbaar</string>
   <string name="pulltorefresh">Trek om te vernieuwen</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Film</string>
   <string name="receive_develop_summary">Ontvang updates van beta versie voor deze app</string>
+  <string name="receive_follow">Meldingen voor nieuwe afleveringen</string>
+  <string name="receive_follow_summary">Melding ontvangen wanneer een nieuwe aflevering beschikbaar is</string>
   <string name="receive_mipush">Mi push melding</string>
   <string name="receive_mipush_summary">Inhoud meldingen</string>
   <string name="recentplay">Recent afgespeeld</string>
@@ -335,6 +336,7 @@
   <string name="start_addon">Start addon</string>
   <string name="storage_remain">"Beschikbaar: "</string>
   <string name="storage_total">"Totale ruimte: "</string>
+  <string name="subscribe">Abboneren</string>
   <string name="suffix_countdown">Seconden</string>
   <string name="system_setting">App instellingen</string>
   <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
@@ -393,7 +395,10 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Uw apparaat ondersteunt dit type bestand niet.</string>
   <string name="vp_VideoView_error_text_unknown">Er is een onbekende fout opgetreden.</string>
   <string name="vp_VideoView_error_title">Onbekende fout</string>
-  <string name="vp_ad_skip">Overslaan</string>
+  <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
+  <string name="vp_ad_countdown_s">%1$s</string>
+  <string name="vp_ad_skip">AD overslaan</string>
+  <string name="vp_ad_skip_at">AD overslaan na %1$d</string>
   <string name="vp_adapt_height">Aanpassen aan hoogte</string>
   <string name="vp_adapt_width">Aanpassen aan breedte</string>
   <string name="vp_app_download">Applicatie downloaden</string>

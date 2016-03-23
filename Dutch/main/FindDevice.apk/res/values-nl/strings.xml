@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate_xiaomi_account">Dit apparaat activeren</string>
+  <string name="adding_or_updating_account">Account updaten…</string>
   <string name="app_name">Apparaat vinden</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Kon niet ontgrendelen. %s."</string>
@@ -9,6 +10,7 @@
   <string name="device_lost">Dit apparaat is verloren</string>
   <string name="disable_find_device_error">"Kan apparaat niet uitschakelen. %1$s"</string>
   <string name="disable_find_device_success">Apparaat vinden is uitgeschakeld</string>
+  <string name="doing_extra_login_steps">Aanmelden verifiëren…</string>
   <string name="enable_find_device_error">"Kan apparaat vinden niet inschakelen. %1$s"</string>
   <string name="enable_find_device_success">Apparaat vinden is ingeschakeld</string>
   <string name="find_device">Apparaat vinden</string>
@@ -29,22 +31,36 @@ Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze fu
   <string name="find_device_success_title">Apparaat vinden</string>
   <string name="i_know">Ok</string>
   <string name="lock_msg_phone">Contactinformatie: %s</string>
-  <string name="login_failed">Kon niet aanmelden</string>
+  <string name="login_extra_steps">Aanmeld verificatie</string>
+  <string name="login_failed">"Kon niet aanmelden. %s."</string>
+  <string name="passport_checking_vcode">Wachtwoord controleren…</string>
+  <string name="passport_error_empty_vcode">Verificatie code invoeren</string>
+  <string name="passport_notification_need_unlock_again">Probeer opnieuw te ontgrendelen</string>
+  <string name="passport_notification_processing">Bezig…</string>
+  <string name="passport_trust_device">Dit apparaat vertrouwen</string>
+  <string name="passport_vcode_prompt_long">Verificatie code invoeren</string>
+  <string name="passport_verify">Verifiëren</string>
   <string name="password">Wachtwoord</string>
   <string name="phone_locked">Dit apparaat is misschien gekoppeld aan een bestaand Mi Account (%s). Aanmelden om dit apparaat te activeren.</string>
   <string name="stop_on_empty_captcha">Captcha mag niet leeg zijn</string>
   <string name="stop_on_empty_password">"Wachtwoord mag niet leeg zijn</string>
+  <string name="time_correction_failure">"Kan tijd niet aanpassen (%s)"</string>
+  <string name="time_correction_failure_network">Netwerk fout</string>
+  <string name="time_correction_failure_no_ntp">NTP servers zijn niet beschikbaar</string>
+  <string name="time_correction_success">Tiid aangepast</string>
   <string name="unlock">Activeren</string>
   <string name="unlock_access_denied">Toegang geweigerd</string>
   <string name="unlock_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
   <string name="unlock_error_device_id">Kan apparaat ID niet verkrijgen</string>
   <string name="unlock_error_interrupted">Onderbroken</string>
   <string name="unlock_error_network">Kan niet verbinden met netwerk</string>
+  <string name="unlock_error_passport_sdk_timeout">Mi Account SDK reageerd niet</string>
   <string name="unlock_error_rpc">RPC fout</string>
   <string name="unlock_error_server">Serverfout</string>
   <string name="unlock_error_ssl_hand_shake">Kon niet verbinden met de server, probeer de tijd en datum handmatig in te stellen</string>
   <string name="unlock_error_unknown">Kan niet aanmelden</string>
   <string name="unlock_error_user_name">Ongeldige gebruikersnaam</string>
+  <string name="unlock_error_wrong_vcode">De ingevoerde code is fout</string>
   <string name="unlock_help">"Blijf verbonden met het netwerk
 Zorg ervoor dat u een werkende SIM kaart hebt geïnstalleerd en dat uw apparaat niet is verbonden met een ineffectief Wi-Fi netwerk
 
@@ -56,5 +72,6 @@ Aanmelden op i.mi.com en probeer het ontgrendelen van uw apparaat vanaf daar"</s
   <string name="unlock_help_title">Ontgrendelingshulp:</string>
   <string name="unlock_wrong_captcha">De ingevoerde code is fout</string>
   <string name="unlocking">Bezig met activeren…</string>
+  <string name="verifing_account">Wachtwoord verifiëren…</string>
   <string name="verify_password_failed">"Kon Mi Account ID niet verifiëren. %s."</string>
 </resources>

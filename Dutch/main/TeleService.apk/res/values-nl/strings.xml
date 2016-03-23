@@ -22,6 +22,7 @@
   <string name="advanced_settings_show">▷ Aanraken om alles weer te geven</string>
   <string name="advertisements_disable">Advertenties uitgeschakeld</string>
   <string name="advertisements_enable">Advertenties ingeschakeld</string>
+  <string name="agree_provision">Akkoord en doorgaan</string>
   <string name="alert_dialog_close">Het profiel sluiten</string>
   <string name="alert_dialog_dismiss">Negeren</string>
   <string name="alert_dialog_in_ecm_call">De geselecteerde actie is niet beschikbaar tijdens noodoproepen.</string>
@@ -38,6 +39,7 @@
   <string name="answer_state_setting_title">Opties voor binnenkomende oproepen</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="apn_settings">Namen toegangspunten</string>
+  <string name="area_code_preference_be_set_summary">Huidige locatie: %s</string>
   <string name="area_code_preference_summary">Automatisch regiocode kiezen</string>
   <string name="areacode_set_default">Standaard</string>
   <string name="atr_disable">Verkeersberichten uitgeschakeld</string>
@@ -245,6 +247,8 @@
   <string name="cloud_antispam_title">Identificeer onbekende nummers</string>
   <string name="cmcc_ut_data_enable_prompt">Kon geen verbinding maken door gebruik van het VoLTE netwerk. Schakel nu uw mobiele dataverbinding in.</string>
   <string name="command_error_fdn_failure">U dient eerst de PDN uit te schakelen</string>
+  <string name="common_problem_message">Meer leren in %1$s of bel onze klantendienst op 400-100-5678</string>
+  <string name="common_setting">Algemene instellingen</string>
   <string name="config_default_data_sim">Instellingen</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirmPin2Label">Nieuwe PIN2 bevestigen</string>
@@ -269,6 +273,8 @@
   <string name="contactdeleteSuccess">SIM contact verwijderd</string>
   <string name="corporate_unlock_failed">SIM fabrieksontgrendeling gefaald.</string>
   <string name="corporate_unlock_success">SIM fabrieksontgrendeling gelukt.</string>
+  <string name="creat_account_error">Kon geen account aanmaken. Opnieuw proberen?</string>
+  <string name="creating_account">Account aanmaken…</string>
   <string name="cursorError">Cursor heeft geen juiste data !!!</string>
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
@@ -338,6 +344,7 @@
   <string name="display_name_title">Weergavenaam</string>
   <string name="do_not_ask">Niet meer vragen</string>
   <string name="domain_address_title">Server</string>
+  <string name="domestic_calls">Alleen binnenlandse</string>
   <string name="doneButton">Klaar</string>
   <string name="dtmf_tones_summary">De lengte van DTMF tonen instellen</string>
   <string name="dtmf_tones_title">DTMF tonen</string>
@@ -455,6 +462,7 @@
   <string name="hac_mode_title">Gehoorapparaten</string>
   <string name="handon_ringer_summary">Verminderd belvolume voor inkomende oproepen als je de telefoon optilt. Deze functie werkt niet wanneer trillen voor inkomende oproepen is ingeschakeld.</string>
   <string name="handon_ringer_title">Stopt belvolume bij optillen</string>
+  <string name="help_view">Help</string>
   <string name="hintName">Naam.</string>
   <string name="hintPhonenumber">Telefoonnummer.</string>
   <string name="importAllSimEntries">Alles importeren</string>
@@ -486,6 +494,7 @@
   <string name="incall_status_dialed_mmi">MMI reeks starten…</string>
   <string name="incoming_video_show_pref_summary">Geef video beltoon weer ingesteld door beller. Om deze functie te gebruiken, zet naam kaarten aan.</string>
   <string name="incoming_video_show_pref_title">Geef video beltoon van inkomende oproep weer</string>
+  <string name="international_calls">Alleen internationale</string>
   <string name="international_dial_complete_intention">Maak internationale gesprekken tegen lagere tarieven</string>
   <string name="international_dial_complete_no">Nu niet</string>
   <string name="international_dial_complete_summary">Internationale gesprekken hebben normaal hogere gesprekskosten. Gebruik het herlaadpakket om goedkoper te bellen</string>
@@ -556,11 +565,9 @@
   <string name="livetalk_activate_number">SIM kaart verifiëren</string>
   <string name="livetalk_activate_number_1">Verifieer SIM 1</string>
   <string name="livetalk_activate_number_2">Verifieer SIM 2</string>
-  <string name="livetalk_activate_sim_card">Activeer</string>
   <string name="livetalk_activate_summary">Er zal een SMS verstuurd worden om deze dienst te verifiëren.</string>
   <string name="livetalk_add_white_list_info">Telefoonnr. toevoegen om direct te bellen.</string>
   <string name="livetalk_before_provision">Gelezen en aanvaard</string>
-  <string name="livetalk_charge_now">Herladen</string>
   <string name="livetalk_common_problem">FAQ</string>
   <string name="livetalk_complete">Klaar</string>
   <string name="livetalk_complete_domestic_phone">Maak nationale gesprekken door gebruik van herlaadpakketten.</string>
@@ -571,24 +578,27 @@
   <string name="livetalk_continue_button">Snel gebruiken</string>
   <string name="livetalk_continue_button_creat_account">Account aanmaken</string>
   <string name="livetalk_creat_account_fialed">Account fout</string>
-  <string name="livetalk_dial_direct">Direct bellen</string>
+  <string name="livetalk_enable_switch">Herlaadpakket gebruiken</string>
   <string name="livetalk_experience_button">Nu proberen</string>
   <string name="livetalk_introduction_text">Internationale gesprekken tegen aantrekkelijke tarieven</string>
   <string name="livetalk_last_step">Terug</string>
-  <string name="livetalk_name">Herlaad pakket</string>
+  <string name="livetalk_login_message">"Aanmelden met Mi Account
+om herlaadpakket beginnen te gebruiken"</string>
+  <string name="livetalk_name">Herlaadpakket</string>
   <string name="livetalk_network_confirm">Ok</string>
   <string name="livetalk_network_confirm_summary">Herlaadpakketten gebruiken ongeveer 1KB aan mobiele data bij elk gesprek.</string>
   <string name="livetalk_network_unavailable">Netwerk niet beschikbaar</string>
   <string name="livetalk_next_step">Volgende</string>
-  <string name="livetalk_nsufficient_balance">Onvoldoende krediet</string>
   <string name="livetalk_package_introduction_text">"Goedkope gesprekken naar iedere telefoon
 Herlaad en start met bellen"</string>
   <string name="livetalk_package_name">Saldo bijvullen</string>
   <string name="livetalk_provider">Aangeboden door %1$s</string>
   <string name="livetalk_provision">Algemene Voorwaarden</string>
+  <string name="livetalk_provision_content">Je moet akkoord gaan met %1$s om het herlaadpakket beginnen te gebruiken . Om deze dienst te gebruiken, moet u aangesloten zijn op internet. Een normale SMS kan van uw telefoon worden gestuurd worden om de dienst te activeren. Akkoord?</string>
   <string name="livetalk_provision_title">Provisie</string>
+  <string name="livetalk_remain_minutes_title">Resterende beltijd</string>
   <string name="livetalk_setting">Herlaad pakket</string>
-  <string name="livetalk_sim_card_not_activated">Deze SIM kaart is niet geactiveerd.</string>
+  <string name="livetalk_terms_conditions">Algemene voorwaarden</string>
   <string name="livetalk_unavaiable_info">Deze service is tijdelijk niet beschikbaar</string>
   <string name="livetalk_user_config_title">Telefoonnr. verifiëren</string>
   <string name="livetalk_welcome_description_text">"• bespaar 70% op uw telefoonkosten.
@@ -606,6 +616,7 @@ Herlaad en start met bellen"</string>
   <string name="local_weather_enable">Lokaal weerbericht ingeschakeld</string>
   <string name="lodgings_disable">Overnachtingen uitgeschakeld</string>
   <string name="lodgings_enable">Overnachtingen ingeschakeld</string>
+  <string name="login_account_button_text">Aanmelden</string>
   <string name="lte_checkbox_text">Stel mobiele data in om de geselecteerde SIM kaart eenmaal als standaard in 4G/3G SIM kaart wordt gewijzigd</string>
   <string name="lte_recognition_title">SIM kaart erkenning</string>
   <string name="lte_recognize_summary">Twee 4G/3G SIM kaarten worden gedetecteerd,  u moet een standaard 4G/3G SIM kaart instellen:</string>
@@ -787,6 +798,7 @@ Herlaad en start met bellen"</string>
   <string name="onscreenSwapCallsText">Wisselen</string>
   <string name="onscreenVideoCallText">Video-oproep</string>
   <string name="open_miui">Openen</string>
+  <string name="operator_first">Voorrang geven aan provider abbonement</string>
   <string name="operator_first_mins_hint">xx minuten</string>
   <string name="operator_first_mins_none_summary">Pakket eerst herladen</string>
   <string name="operator_first_mins_none_title">Provider pakket minuten allemaal opgebruikt</string>
@@ -795,6 +807,8 @@ Herlaad en start met bellen"</string>
   <string name="operator_first_sim_card_changed_summary">Provider pakket minuten resetten</string>
   <string name="operator_first_sim_card_changed_title">SIM kaart wijziging</string>
   <string name="operator_first_title">Provider eerst</string>
+  <string name="operator_mins_first">Voorrang geven aan provider abbonement</string>
+  <string name="operator_mins_first_close">Uitschakelen</string>
   <string name="operator_remain_mins">Provider pakket minuten</string>
   <string name="operator_remain_mins_value">%1$s minuten</string>
   <string name="optional_summary">&lt;Optioneel&gt;</string>
@@ -943,6 +957,7 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Selectie netwerktype</string>
   <string name="private_num">Privénummer</string>
+  <string name="product_reflash_button">Vernieuwen…</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adres voor uitgaande proxy</string>
@@ -957,7 +972,6 @@ U hebt nog %d pogingen over."</string>
   <string name="puk_unlock_failed">PUK ontgrendeling gefaald.</string>
   <string name="puk_unlock_success">PUK ontgrendeling gelukt.</string>
   <string name="puk_unlocked">Uw SIM kaart is gedeblokkeerd. Uw telefoon wordt ontgrendeld...</string>
-  <string name="purchase">Aankoop</string>
   <string name="purchase_description_summary">"- Bel iedere telefoon in de wereld, er zijn geen provider beperkingen.
 - Geen conflicten met de huidige diensten.
 - Herladen en beginnen met bellen
@@ -966,6 +980,8 @@ U hebt nog %d pogingen over."</string>
   <string name="purchase_limit">Je hebt je herlaad limiet bereikt</string>
   <string name="purchase_list">Aankoopgeschiedenis</string>
   <string name="purchase_notes">Opmerking: Het kan worden gebruikt voor internationale oproepen. Het betaalde bedrag  voor 1 min van de internationale oproep is gelijk aan het bedrag voor een binnenlandse oproep van 6 min .</string>
+  <string name="purchase_primary">Aankoop</string>
+  <string name="purchase_summary">Bespaar tot 70% op uw belkosten</string>
   <string name="query">Vraag</string>
   <string name="quickly_verify">Bevestigen</string>
   <string name="radio_off_error">Schakel de radio in voordat u deze instellingen bekijkt.</string>
@@ -995,8 +1011,8 @@ U hebt nog %d pogingen over."</string>
   <string name="reject_via_sms_summary">Snelle berichten aanpassen</string>
   <string name="reject_via_sms_title">Snelle antwoorden</string>
   <string name="remain_mins_divider">of</string>
-  <string name="remain_mins_domestic">Resterend (nationaal)</string>
-  <string name="remain_mins_international">Resterend (internationaal)</string>
+  <string name="remain_mins_domestic">Nationaal</string>
+  <string name="remain_mins_international">Internationaal</string>
   <string name="remain_mins_unit">Min</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_sip_account">Account verwijderen</string>
@@ -1063,8 +1079,6 @@ U hebt nog %d pogingen over."</string>
   <string name="set_smsc_address_error">Nummer instellen gefaald</string>
   <string name="set_smsc_address_timeout">Verbinding timed out</string>
   <string name="set_smsc_address_title">Los berichten dienst center op (SMSC)</string>
-  <string name="setting_activate_domestic_title">Nationale gesprekken</string>
-  <string name="setting_activate_international_title">Internationale gesprekken</string>
   <string name="settings_label">Netwerkinstellingen</string>
   <string name="sim1_activated">SIM kaart 1</string>
   <string name="sim1_no_activated">Kon SIM kaart 1 niet verifiëren</string>
@@ -1218,9 +1232,12 @@ Volgende periode start binnen (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Nieuwe PLMN</string>
   <string name="uplmn_list_setting_title">Voorkeursnetwerken</string>
   <string name="uplmn_numeric_is_empty">Voeg netwerk ID in</string>
+  <string name="use_current_account_creat_livetalk">"U bent aangemeld bij uw Mi Account: %1$s.
+Het herlaadpakket gebruiken?"</string>
+  <string name="use_current_account_creat_livetalk_button">Gebruiken</string>
   <string name="use_history">Activiteit</string>
   <string name="use_history_duration_min">%1$s minuten</string>
-  <string name="use_range">Functies</string>
+  <string name="use_range">Gamma</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD code uitvoeren…</string>
   <string name="ussd_dialog_sep">----------</string>
@@ -1250,6 +1267,7 @@ Volgende periode start binnen (%3$s)"</string>
   <string name="volte_switch_summary">Gebruik VoLTE om de kwaliteit van stem- en video-oproepen te verbeteren</string>
   <string name="volte_switch_title">VoLTE ingeschakeld</string>
   <string name="wait_prompt_str">"Volgende beltonen verzenden?"</string>
+  <string name="whole_calls">Alle oproepen</string>
   <string name="wifi_call_setting">Wi-Fi oproepinstellingen</string>
   <string name="wifi_calling_call_assistant">Belassistent</string>
   <string name="wifi_calling_call_assistant_configure">Configureren</string>
