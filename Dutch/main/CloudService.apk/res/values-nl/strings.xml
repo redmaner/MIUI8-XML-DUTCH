@@ -2,7 +2,9 @@
 <resources>
   <string name="access_denied">Toegang geweigerd</string>
   <string name="account">Account</string>
+  <string name="account_related">Uw toestel is gekoppeld aan een bestaande Mi account(%s). Maak verbinding met netwerk om het apparaat te controleren.</string>
   <string name="activate">Activeren</string>
+  <string name="activate_finddevice">Verbinden met netwerk om apparaat te activeren</string>
   <string name="activate_number_change_dialog_message">Kies telefoonnr. die zichtbaar zal zijn voor anderen wanneer je met VoIP belt</string>
   <string name="activating">Activeren…</string>
   <string name="alert_notif_title_dspt">Niet gesynchroniseerd</string>
@@ -47,8 +49,11 @@ Laatst geback-upt op %2$s"</string>
   <string name="cloud_space_upgrade_title">Meer ruimte voor Mi Cloud</string>
   <string name="cloudservice_new_sync">Sync. %s met Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren, je apparaat zoeken en dingen te delen met je vrienden.</string>
+  <string name="connect_network">Verbind met Wi-Fi of voer SIM kaart in</string>
+  <string name="connect_wlan">Verbind met Wi-Fi</string>
   <string name="contact">Contacten</string>
   <string name="deskclock_backup">Backup klokken</string>
+  <string name="detect_sim_card">Terug naar SIM kaart zoeken</string>
   <string name="disable_find_device_error">"Kan apparaat zoeken niet uitschakelen. %1$s"</string>
   <string name="disable_find_device_success">Apparaat zoeken uitgeschakeld.</string>
   <string name="enableAll">Sync. alle</string>
