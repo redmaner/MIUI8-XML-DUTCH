@@ -16,6 +16,8 @@
   <string name="add_device_match_desc_center">    2. Tik op de knop</string>
   <string name="add_device_match_desc_top">    1. Richt je Mi apparaat op uw %1$s</string>
   <string name="add_device_remote">%1$s afstandsbediening toevoegen</string>
+  <string name="add_fav_channel">Toevoegen aan favorieten</string>
+  <string name="add_fav_channel_hint">Meer kanaal Toevoegen aan favorieten, zodat u deze gemakkelijker kan vinden</string>
   <string name="add_more">Meer IR apparaten toevoegen</string>
   <string name="add_new_control">Afstandsbediening toevoegen</string>
   <string name="add_new_tv">TV toevoegen…</string>
@@ -50,8 +52,13 @@
   <string name="app_uninstall">Installatie ongedaan maken</string>
   <string name="app_update">Updaten</string>
   <string name="app_version">Versie %1$s</string>
+  <string name="append_ok_key_after_num">Om van kanaal te veranderen druk de Entertoets</string>
   <string name="application">Apps</string>
   <string name="back">Terug</string>
+  <string name="backup">Back-Back-up is mislukt, probeer opnieuwup naar de cloud</string>
+  <string name="backup_failed">备份失败，请您重试</string>
+  <string name="backup_succeed">Back-up gelukt</string>
+  <string name="backuping">正在备份</string>
   <string name="bedroom">Slaapkamer</string>
   <string name="bind_stb_dlg">Koppel settopbox om van kanaal te veranderen</string>
   <string name="bind_stb_dlg_agree">Nu koppelen</string>
@@ -70,6 +77,7 @@
   <string name="cancel_share">Delen stoppen</string>
   <string name="cancel_share_done">Delen gestopt</string>
   <string name="carrier_data">Providerinfo</string>
+  <string name="change_to_channel">Voor Taiwan [%1$s] %2$s</string>
   <string name="channel">Kanaal</string>
   <string name="channel_added_to_fav">%1$s toegevoegd aan favorieten</string>
   <string name="channel_catogory_name">Kanalen</string>
@@ -80,6 +88,7 @@
   <string name="choose_address_title">Locatie selecteren</string>
   <string name="circlepad_slide_tips">Gebruik de aanraakgevoelige draaischijf om het volume aan te passen</string>
   <string name="click_to_expend">Uitbreiden</string>
+  <string name="click_to_login">Klik om aan te melden</string>
   <string name="click_to_retry">Tik om opnieuw te proberen</string>
   <string name="click_to_shrink">Minimaliseren</string>
   <string name="close">Afsluiten</string>
@@ -150,7 +159,9 @@
   <string name="epg_detail_title_text">Uitleg</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_episode_open">Alles weergeven</string>
-  <string name="epg_fav_channels">Favoriete kanaal</string>
+  <string name="epg_fav_channels">Kanaal opslaan</string>
+  <string name="epg_home_sliding_down">Inklappen</string>
+  <string name="epg_home_sliding_up">Uitklappen</string>
   <string name="epg_hot_channels">Kanalen</string>
   <string name="epg_hot_programs">Programma\'s</string>
   <string name="epg_loading_hint">Verander van kanaal op uw set-top box met uw telefoon</string>
@@ -164,7 +175,7 @@
   <string name="epg_status_playing_text_v5">Wonen</string>
   <string name="epg_unbooked_str">Niet gepland</string>
   <string name="epg_user_my_booked_events">Mijn reserveringen</string>
-  <string name="epg_user_my_favorite_channel">Mijn favorieten</string>
+  <string name="epg_user_my_favorite_channel">Favoriete kanalen</string>
   <string name="episode_intro_title_text">Samenvatting aflevering</string>
   <string name="episode_title">Aflevering %1$d</string>
   <string name="exit">Afsluiten</string>
@@ -196,6 +207,8 @@
   <string name="gesture_pad_orietaion_tips">Veeg in eender welke richting en klik op Ok</string>
   <string name="gesture_pad_sencond_line_tips">Tik op &amp; Houd het centrale gedeelte van het scherm om het menu te bekijken. Schuif omhoog of omlaag om het volume aan te passen.</string>
   <string name="gesture_pad_vol_tips">Gebruik de volumeknoppen van apparaat om het volume van verbonden apparaat aan te passen</string>
+  <string name="get_backup_failed">Herstel is mislukt, probeer opnieuw</string>
+  <string name="get_backup_succeed">Herstel is voltooid, totaal van %1$d, reeds %2$d,herstel %3$d</string>
   <string name="get_data_fail_tips">Gegevens ophalen mislukt, probeer opnieuw.</string>
   <string name="get_info_failed">Kon info niet verkrijgen</string>
   <string name="get_location_fail_tip">Kon locatie niet instellen, kies een stad</string>
@@ -227,7 +240,7 @@
   <string name="ir_device_air_cleaner">Luchtreiniger</string>
   <string name="ir_device_air_condition">A/C</string>
   <string name="ir_device_all_ir">Alle</string>
-  <string name="ir_device_amp">A/V ontvanger</string>
+  <string name="ir_device_amp">Versterker</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
   <string name="ir_device_dvb_s">Settopbox</string>
@@ -253,6 +266,7 @@
   <string name="just_now">Zopas</string>
   <string name="just_used">Zopas</string>
   <string name="key_press_vibrate">Trillen bij aanraken</string>
+  <string name="last_bak_time">Laatste back-up %1$s</string>
   <string name="last_use_frame">%1$s geleden</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Woonkamer</string>
@@ -265,9 +279,15 @@
   <string name="locate_current_place">Zoek huidige locatie</string>
   <string name="location_select">Apparaat hernoemen</string>
   <string name="login">Aanmelden</string>
+  <string name="login_directly">Onmiddellijk aanmelden</string>
   <string name="login_done">Aangemeld</string>
   <string name="login_failed">Kon niet aanmelden</string>
+  <string name="login_failed_tips">Sorry verkeerde informatie gekrijgen, zorg verbonden met het netwerk</string>
   <string name="login_thirdparty">Anders aanmelden</string>
+  <string name="login_wxfailed_tips">获取微信账号信息失败，请稍后再试</string>
+  <string name="logining">Aanmelden</string>
+  <string name="logout">Afmelden</string>
+  <string name="logout_done">Afgemeld</string>
   <string name="management_app_management">Apps</string>
   <string name="management_settings">Instellingen</string>
   <string name="management_video_favor">Geschiedenis &amp; favorieten</string>
@@ -347,6 +367,7 @@ Wacht een momentje na de handeling"</string>
   <string name="max_enter">Kan niet langer dan %d tekens zijn</string>
   <string name="maybe_is">Wees zeker:</string>
   <string name="menu">Menu</string>
+  <string name="mi_account">Mi Account</string>
   <string name="mi_account_name">Mi Account</string>
   <string name="mi_brand">Mi</string>
   <string name="mi_rc">Mi afstandsbediening</string>
@@ -359,9 +380,11 @@ Wacht een momentje na de handeling"</string>
   <string name="month">Maand</string>
   <string name="month_day_format">dd MMM</string>
   <string name="more">Meer</string>
+  <string name="more_fav_channel">Meer favoriete kanalen</string>
   <string name="more_hot_programs">Meer programma\'s…</string>
   <string name="mute">Dempen</string>
   <string name="my_activity">Mijn evenementen</string>
+  <string name="my_backup">Back-up afstandsbediening</string>
   <string name="my_appointment">Mijn reserveringen</string>
   <string name="my_favorite">Mijn favorieten</string>
   <string name="my_setting">Mijn instellingen</string>
@@ -371,6 +394,7 @@ Wacht een momentje na de handeling"</string>
   <string name="network_unstable">· Je hebt een stabiele verbinding</string>
   <string name="next_step">Volgende</string>
   <string name="no">Nee</string>
+  <string name="no_backup">Geen back-up gevonden</string>
   <string name="no_brand_service">Merk is momenteel niet beschikbaar</string>
   <string name="no_current_play">"Speelt nu: - "</string>
   <string name="no_data">Geen info</string>
@@ -388,6 +412,7 @@ Wacht een momentje na de handeling"</string>
   <string name="notification_found_shared_remote_title">%1$s dichtbij gevonden</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" zal binnen 30 minuten beginnen.</string>
+  <string name="notification_str3">\" zal binnen  5 minuten beginnen.</string>
   <string name="notification_title">Timer melding</string>
   <string name="num_keys">Numerieke knoppen</string>
   <string name="office">Kantoor</string>
@@ -573,6 +598,8 @@ Om je account te activeren, volg de
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Afstandsbediening</string>
+  <string name="recover">Herstellen van Drive</string>
+  <string name="recovering">Hervatten</string>
   <string name="refreshing">Vernieuwen…</string>
   <string name="refreshing_no_point">Vernieuwen…</string>
   <string name="refreshing_retry">Kon niet laden, probeer opnieuw</string>
@@ -582,6 +609,7 @@ Om je account te activeren, volg de
   <string name="rename_hint">Voer apparaatnaam in</string>
   <string name="repeat_diagnosis">Test herhalen</string>
   <string name="report_problem">Rapporteer probleem</string>
+  <string name="require_login">Aanmelden</string>
   <string name="respond">Werkt</string>
   <string name="retry_for_more">Tik om meer weer te geven</string>
   <string name="save">Opslaan</string>
@@ -608,6 +636,7 @@ Om je account te activeren, volg de
   <string name="select_area">Kies locatie</string>
   <string name="select_brand">Selecteer %s</string>
   <string name="select_dvb_carrier">Selecteer provider</string>
+  <string name="select_stb">Selecteer de set-top box</string>
   <string name="service_info">Service Informatie</string>
   <string name="setting_airkan">DRAADLOOS SCHERM</string>
   <string name="setting_common">ALGEMEEN</string>
@@ -675,13 +704,14 @@ Om je account te activeren, volg de
   <string name="somthing_wrong">Heb je problemen?</string>
   <string name="sorry">Fout</string>
   <string name="speech_init_failed">Tik om iFly voice engine te installeren.</string>
+  <string name="speed_up_channel_switch">Op sommige set-top box kan de snelheid voor wijzigen van kanaal verhogen</string>
   <string name="splash_add_device_des">Begin met sommige apparaten te koppelen</string>
   <string name="splash_desc">Controleer alles met slechts een tik.</string>
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Koppelen</string>
   <string name="stb">Settopbox</string>
   <string name="stb_detail_title_frame">%1$s - %2$d</string>
-  <string name="stb_power">STB aan/uit</string>
+  <string name="stb_power">Set-top box aan/uit</string>
   <string name="steps">Poging #%d</string>
   <string name="stop_diagnosis">Stoppen</string>
   <string name="study_room">Bestuderen</string>
@@ -725,6 +755,7 @@ Om je account te activeren, volg de
   <string name="upgrading">Updaten…</string>
   <string name="use_tv_power_key">"Gebruik %1$s's power knop
 Om te wijzigen, lang drukken op de TV power knop"</string>
+  <string name="user_title">Gebruikstitel</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
@@ -745,17 +776,19 @@ Om te wijzigen, lang drukken op de TV power knop"</string>
   <string name="video_play_count_label">"Bekeken: "</string>
   <string name="virtual_keyhboard">Gebruik het toetsenbord van apparaat</string>
   <string name="virtual_keyhboard_intro">Gebruik het toetsenbord van apparaat om op het scherm te typen</string>
-  <string name="voice_download_tips">Tik op \"OK\" om de voice engine te downloaden</string>
+  <string name="voice">Stem</string> 
+ <string name="voice_download_tips">Tik op \"OK\" om de voice engine te downloaden</string>
   <string name="voice_download_title">Aandacht</string>
   <string name="voice_engine_ifly_fail">Kon stem niet herkennen</string>
   <string name="voice_record_start">Stem opnemen</string>
   <string name="voice_resolving">Stem herkennen…</string>
   <string name="volume">Volume</string>
   <string name="weather_out">Temperatuur buiten:</string>
+  <string name="wechat_account">WeChat account</string>
   <string name="wind_direct">Richting</string>
   <string name="wind_direct_automatic">Draaien</string>
   <string name="wind_direct_down">Omlaag</string>
-  <string name="wind_direct_manual">Vaste richting</string>
+  <string name="wind_direct_manual">Vast</string>
   <string name="wind_direct_middle">Midden</string>
   <string name="wind_direct_up">Omhoog</string>
   <string name="wind_speed">Windsnelheid</string>
@@ -763,7 +796,8 @@ Om te wijzigen, lang drukken op de TV power knop"</string>
   <string name="wind_speed_high">Hoog</string>
   <string name="wind_speed_low">Laag</string>
   <string name="wind_speed_medium">Normaal</string>
-  <string name="wind_sweep">Draaien</string>
+  <string name="wind_sweep">Ventilator</string>
+  <string name="wx_not_installed">Je hoeft geen micro channel client te installeren</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gisteren</string>
