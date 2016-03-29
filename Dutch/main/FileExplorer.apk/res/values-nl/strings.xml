@@ -76,7 +76,6 @@
   <string name="clean_message">%1$s ruimte vrijgemaakt.</string>
   <string name="clean_title">Bestanden die ouder zijn dan 30 dagen verwijderen.</string>
   <string name="clean_trash_box">Prullenbak legen</string>
-  <string name="cleaning">Legen…</string>
   <string name="click_to_switch_volume">Tik hier om te schakelen tussen intern geheugen en SD kaart</string>
   <string name="close">Sluiten</string>
   <string name="compress_fail">Compressie mislukt: er bestaat al een bestand met dezelfde naam.</string>
@@ -128,7 +127,6 @@
   <string name="delete_folders">%1$d mappen verwijderen?</string>
   <string name="delete_selected_tasks">Geselecteerde verwijderen？</string>
   <string name="des_running_trans">%1$d bestanden zijn niet verplaatst.</string>
-  <string name="dialog_confirm">Ok</string>
   <string name="dialog_select_type">Type selecteren</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Foto\'s</string>
@@ -199,7 +197,6 @@
   <string name="ftp_username_hint">Gebruikersnaam</string>
   <string name="gbk_summary">Vereenvoudigd Chinees Windows standaard codering</string>
   <string name="gbk_title">GBK</string>
-  <string name="get_cloud_space">500GB toevoegen</string>
   <string name="gigabyteShort">GB</string>
   <string name="good_tip">Goed gedaan!</string>
   <string name="group_title">%2$s van %1$s</string>
@@ -210,8 +207,8 @@
   <string name="homepage_tab_category">Categorieën</string>
   <string name="homepage_tab_file_view">Telefoon</string>
   <string name="homepage_tab_recent">Recent</string>
-  <string name="hot_sticker">Populaire stickers</string>
-  <string name="hot_video">Populaire video\'s</string>
+  <string name="hot_sticker">Stickers</string>
+  <string name="hot_video">Video\'s</string>
   <string name="if_cancel">Deze operatie annuleren?</string>
   <string name="image_loading_error">Kon afbeelding niet laden</string>
   <string name="input_memo_hint">Voer extra redenen in (optioneel)</string>
@@ -328,6 +325,7 @@
   <string name="networkView_notConnected">Kan geen netwerkverbinding maken</string>
   <string name="network_connect_confirm_des">Explorer moet verbinding maken met internet om normaal te werken</string>
   <string name="network_dialog_checkbox_tip">Niet meer tonen</string>
+   <string name="network_not_available">Kan niet verbinden met het netwerk</string>
   <string name="network_spent_reminding">Om deze pagina te openen zal er verkeer gebruikt worden van uw dataplan.</string>
   <string name="network_spent_reminding_title">Datavebruiksmelding</string>
   <string name="never_notify_network_connect">Keuze onthouden</string>
@@ -463,7 +461,6 @@ en nooit de koele nieuwe missen!"</string>
   <string name="remote_video_no_network">Kan niet verbinden met netwerk. Controleer de verbinding en probeer opnieuw</string>
   <string name="remote_video_report_success">Bedankt voor uw feedback! We zullen er zo snel mogelijk naar kijken.</string>
   <string name="remote_video_server_error">Kan niet verbinden met de server, probeer opnieuw binnen een minuut of 2</string>
-  <string name="remote_video_update">%1$s nieuwe video\'s gevonden</string>
   <string name="rename_alert">"Als je de extensie van dit bestand wijzigt, is het mogelijk niet meer te openen."</string>
   <string name="rename_description">Naam wijzigen…</string>
   <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
@@ -477,6 +474,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="report_politics">Politieke incorrectheid</string>
   <string name="report_porn">Porno</string>
   <string name="report_violence">Geweld</string>
+  <string name="request_timeout">Netwerkverzoek time-out</string>
   <string name="reset_password">Wachtwoord veranderen</string>
   <string name="restoring">Herstellen…</string>
   <string name="rlv_last_loading_time">Laatst vernieuwd: %1$s</string>
@@ -541,6 +539,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="server_control_advanced_settings">Instellingen FTP</string>
   <string name="server_control_charset">Overdrachtsencodering</string>
   <string name="server_control_settings">Instellingen</string>
+  <string name="server_error">Sever fout, probeer later opnieuw. (Fout %s)</string>
   <string name="share_box">Gedeeld</string>
   <string name="share_box_receive">Ontvangen</string>
   <string name="share_box_send">Verzonden</string>
