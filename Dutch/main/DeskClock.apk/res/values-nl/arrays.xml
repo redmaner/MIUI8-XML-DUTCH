@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string-array name="stat_volume_button_behaviors">
+        <item>Geen</item>
+        <item>Later snoozen</item>
+        <item>Dicht</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarm binnen 1 minuut</item>
         <item>Alarm in %1$s</item>
