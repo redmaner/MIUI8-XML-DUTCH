@@ -93,6 +93,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_device_admin_msg">Apparaatbeheerder activeren?</string>
   <string name="add_fingerprint_done_msg">Nu kunt u dit apparaat ontgrendelen met uw vingerafdruk.</string>
   <string name="add_fingerprint_done_title">Klaar!</string>
+  <string name="add_fingerprint_failed_retry_text">Kon vingerafdruk niet toevoegen, probeer opnieuw</string>
   <string name="add_fingerprint_finished_button_text">Ok</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Om uw vingerafdruk info toe te voegen, plaatst u uw vinger op de vingerafdrukscanner.
 Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
@@ -949,6 +950,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual core</string>
   <string name="device_cpu4_info">Quad core</string>
+  <string name="device_cpu6_info">Hexa core</string>
   <string name="device_cpu8_info">Octa core</string>
   <string name="device_edit_title">Apparaatnaam wijzigen</string>
   <string name="device_feedback">Feedback versturen over dit apparaat</string>
@@ -1705,8 +1707,9 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="master_clear_progress_title">Wissen</string>
   <string name="master_clear_summary">Alle gegevens op het apparaat wissen</string>
   <string name="master_clear_title">Terug naar fabrieksinstellingen</string>
-  <string name="max_cpu6_info">Hexa-core Max</string>
-  <string name="max_cpu8_info">"Octa-core Max "</string>
+  <string name="max_cpu4_info">"Quad core Max "</string>
+  <string name="max_cpu6_info">Hexa core Max</string>
+  <string name="max_cpu8_info">"Octa core Max "</string>
   <string name="max_fingerprint_number_reached">Kan niet meer dan 5 vingerafdrukken toevoegen. Om een vingerafdruk toe te voegen moet je eerst een bestaande vingerafdruk verwijderen</string>
   <string name="media_button">Mediaknop</string>
   <string name="media_category">Media</string>

@@ -32,4 +32,12 @@
         <item quantity="other">Alarm zal na %d minuten dempen</item>
         <item quantity="one">Alarm zal na %d minuut dempen</item>	
     </plurals>
+	<plurals name="delete_alarm_confirm">
+        <item quantity="other">Geselecteerde wekkers verwijderen?</item>
+        <item quantity="one">Deze wekker verwijderen?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Geselecteerde tijdzones verwijderen?</item>
+        <item quantity="one">Deze tijdzone verwijderen?</item>
+    </plurals>
 </resources>
