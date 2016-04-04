@@ -147,7 +147,7 @@ Wilt u het sluiten?"</string>
 Batterij bespaarder wordt automatisch uitgeschakeld wanneer het toestel wordt opgeladen."</string>
   <string name="beforeOneMonthDurationPast">Meer dan 1 maand geleden</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth audio</string>
-  <string name="bugreport_message">Hiermee worden gegevens over de huidige status van uw apparaat verzameld en als e-mail verzonden. Wanneer u een foutenrapport start, duurt het even voordat het kan worden verzonden. Even geduld alstublieft.</string>
+  <string name="bugreport_message">Hiermee worden gegevens over de huidige status van uw apparaat verzamelt en als e-mail verzonden. Wanneer u een foutenrapport start, duurt het even voordat het kan worden verzonden. Even geduld alstublieft.</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Foutenrapport genereren</string>
   <string name="byteShort">B</string>
@@ -221,10 +221,10 @@ Batterij bespaarder wordt automatisch uitgeschakeld wanneer het toestel wordt op
   <string name="create_contact_using">"Contact maken
 met %s"</string>
   <string name="cut">Knippen</string>
-  <string name="data_usage_3g_limit_snoozed_title">Gegevenslimiet 2G 3G overschreden</string>
-  <string name="data_usage_3g_limit_title">2G-/3G datalimiet bereikt</string>
+  <string name="data_usage_3g_limit_snoozed_title">Gegevenslimiet 2G/3G overschreden</string>
+  <string name="data_usage_3g_limit_title">2G/3G datalimiet bereikt</string>
   <string name="data_usage_4g_limit_snoozed_title">Gegevenslimiet 4G overschreden</string>
-  <string name="data_usage_4g_limit_title">4G data limiet bereikt</string>
+  <string name="data_usage_4g_limit_title">4G datalimiet bereikt</string>
   <string name="data_usage_limit_body">Data gepauzeerd voor de rest van de cyclus</string>
   <string name="data_usage_limit_snoozed_body">%s meer dan limiet.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Mobiele datalimiet overschreden</string>
@@ -322,7 +322,7 @@ met %s"</string>
   <string name="eventTypeCustom">Aangepast</string>
   <string name="eventTypeOther">Overig</string>
   <string name="expires_on">Verloopt op:</string>
-  <string name="ext_media_badremoval_notification_message">%s ontkoppelen voordat u deze verwijdered om gegevensverlies te voorkomen</string>
+  <string name="ext_media_badremoval_notification_message">%s ontkoppelen voordat u deze verwijdert om gegevensverlies te voorkomen</string>
   <string name="ext_media_badremoval_notification_title">%s onverwacht verwijderd</string>
   <string name="ext_media_checking_notification_message">Controleren op fouten</string>
   <string name="ext_media_checking_notification_title">%s voorbereiden</string>
@@ -339,7 +339,7 @@ met %s"</string>
   <string name="extmedia_format_title">SD kaart formatteren?</string>
   <string name="extract_edit_menu_button">Bewerken</string>
   <string name="faceunlock_multiple_failures">Maximaal aantal pogingen voor Ontgrendelen via gezichtsherkenning overschreden</string>
-  <string name="factory_reset_message">De admin app is mist onderdelen of is beschadigd en kan niet worden gebruikt. Uw apparaat zal nu worden gewist. Neem contact op met uw beheerder voor hulp.</string>
+  <string name="factory_reset_message">De admin app mist onderdelen of is beschadigd en kan niet worden gebruikt. Uw apparaat zal nu worden gewist. Neem contact op met uw beheerder voor hulp.</string>
   <string name="factory_reset_warning">Uw apparaat zal gewist worden</string>
   <string name="factorytest_failed">Fabriekstest mislukt</string>
   <string name="factorytest_no_action">Er is geen pakket gevonden dat de actie FACTORY_TEST levert.</string>
@@ -469,7 +469,7 @@ Weet u zeker dat u deze pagina wilt verlaten?"</string>
   <string name="keyboard_password_character_no_headset">Stip.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">Annuleren</string>
-  <string name="keyboardview_keycode_delete">Delete</string>
+  <string name="keyboardview_keycode_delete">Wissen</string>
   <string name="keyboardview_keycode_done">Gereed</string>
   <string name="keyboardview_keycode_enter">Enter</string>
   <string name="keyboardview_keycode_mode_change">Modus wijzigen</string>
@@ -629,7 +629,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"U heeft uw PIN code %d keer onjuist getypt. 
 
 Probeer het over %d seconden opnieuw."</string>
-  <string name="lockscreen_transport_ffw_description">Snel vooruit</string>
+  <string name="lockscreen_transport_ffw_description">Vooruitspoelen</string>
   <string name="lockscreen_transport_next_description">Volgend nummer</string>
   <string name="lockscreen_transport_pause_description">Pauze</string>
   <string name="lockscreen_transport_play_description">Afspelen</string>
@@ -1361,8 +1361,8 @@ voor account %s."</string>
   <string name="print_service_installed_message">Tik om in te schakelen</string>
   <string name="print_service_installed_title">%s service geïnstalleerd</string>
   <string name="progress_erasing">Bezig met USB opslag te wissen…</string>
-  <string name="progress_nomediapresent">No removable media present…</string>
-  <string name="progress_unmounting">Unmounting SD card…</string>
+  <string name="progress_nomediapresent">Geen verwisselbare media aanwezig…</string>
+  <string name="progress_unmounting">SD kaart ontkoppelen…</string>
   <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
   <string name="quick_contacts_not_available">Er is geen app gevonden om dit contact te bekijken.</string>
   <string name="radial_numbers_typeface">sans-serif</string>
@@ -1498,7 +1498,7 @@ voor account %s."</string>
   <string name="sipAddressTypeOther">Overig</string>
   <string name="sipAddressTypeWork">Werk</string>
   <string name="skip_button_label">Overslaan</string>
-  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; verzendt moment een groot aantal SMS berichten. Wilt u toestaan ​​dat deze app berichten blijft verzenden?</string>
+  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; verzendt momenteel een groot aantal SMS berichten. Wilt u toestaan ​​dat deze app berichten blijft verzenden?</string>
   <string name="sms_control_no">Weigeren</string>
   <string name="sms_control_title">SMS berichten verzenden</string>
   <string name="sms_control_yes">Toestaan</string>
@@ -1598,7 +1598,7 @@ voor account %s."</string>
   <string name="use_a_different_app">Gebruik een andere app</string>
   <string name="user_owner_label">Privé</string>
   <string name="user_switched">Huidige gebruiker %1$s.</string>
-  <string name="user_switching_message">Switching to %1$s…</string>
+  <string name="user_switching_message">Wisselen naar %1$s…</string>
   <string name="validity_period">Geldigheid:</string>
   <string name="volume_alarm">Alarmvolume</string>
   <string name="volume_bluetooth_call">Volume tijdens gesprek in Bluetoothmodus</string>
@@ -1663,15 +1663,15 @@ Wilt u de pagina sluiten?"</string>
   <string name="wireless_display_route_description">Draadloze weergave</string>
   <string name="work_profile_deleted">Werkprofiel verwijderd</string>
   <string name="work_profile_deleted_description">Werkprofiel verwijderd als gevolg van ontbrekende admin app.</string>
-  <string name="work_profile_deleted_details">Het werkprofiel admin app ontbreekt of is beschadigd. Als gevolg van hebben uw werkprofiel en de bijbehorende gegevens verwijderd. Neem contact op met uw beheerder voor ondersteuning.</string>
+  <string name="work_profile_deleted_details">Het werkprofiel admin app ontbreekt of is beschadigd. Als gevolg zijn uw werkprofiel en de bijbehorende gegevens verwijderd. Neem contact op met uw beheerder voor ondersteuning.</string>
   <string name="write_fail_reason_cancelled">Geannuleerd</string>
   <string name="write_fail_reason_cannot_write">Fout bij schrijven van inhoud</string>
   <string name="year">jaar</string>
   <string name="year_picker_description">Year list</string>
   <string name="years">jaren</string>
   <string name="yes">OK</string>
-  <string name="zen_mode_forever">Tot u dit uitschakeld</string>
-  <string name="zen_mode_next_alarm_line_one">Until next alarm</string>
-  <string name="zen_mode_next_alarm_summary">Until next alarm at %1$s</string>
+  <string name="zen_mode_forever">Tot u dit uitschakelt</string>
+  <string name="zen_mode_next_alarm_line_one">Tot volgende alarm</string>
+  <string name="zen_mode_next_alarm_summary">Tot volgende alarm om %1$s</string>
   <string name="zen_mode_until">Tot %1$s</string>
 </resources>
