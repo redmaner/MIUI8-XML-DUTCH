@@ -150,6 +150,7 @@ of voer wachtwoord in"</string>
   <string name="button_text_uninstall_shortcut">Verwijder snelkoppeling van startscherm</string>
   <string name="button_text_view">Weergeven</string>
   <string name="button_text_view_power">Batterijvermogen weergeven</string>
+  <string name="byteShort">B</string>
   <string name="cache_header_title">Verwijder %1$d gecachete bestanden om %2$s ruimte vrij te maken</string>
   <string name="call_and_contact">Gesprekken en contacten</string>
   <string name="cancal_to_setting_fingerprint">Annuleren</string>
@@ -182,7 +183,7 @@ of voer wachtwoord in"</string>
   <string name="daily_limit_network_available_body">Raak aan om gebruiksgegevens statistieken te bekijken.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tik om mobiele data in te schakelen.</string>
   <string name="daily_limit_over_message">Je hebt je dagelijkse datalimiet overschreden.</string>
-  <string name="daily_pkg_traffic">Datalimiet instellen</string>
+  <string name="daily_pkg_traffic">Piek datalimiet</string>
   <string name="data_network_blocked_notification_title">Geen internetverbinding</string>
   <string name="data_usage_correction_timeout_body">Aanraken om handmatig bij te werken.</string>
   <string name="data_usage_correction_timeout_title">Dataverbruik synchronisatie gepauzeerd</string>
@@ -325,6 +326,7 @@ of voer wachtwoord in"</string>
   <string name="gateway_exception_summary">Controleer je router en probeer opnieuw.</string>
   <string name="gateway_exception_summary2">Kan niet verbinden met server</string>
   <string name="gateway_exception_title">Test router</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">Ga naar instellingen</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Geheugen</string>
@@ -389,6 +391,7 @@ of voer wachtwoord in"</string>
   <string name="item_usb_debug">USB debugging</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Automatisch virusdefinitie updaten</string>
+  <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="last_check_canceled">Vorige scan is geannuleerd</string>
   <string name="last_check_date_today">Meest recente scan: vandaag</string>
@@ -432,6 +435,10 @@ of voer wachtwoord in"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel mislukte pogingen!</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
+  <string name="lockscreen_access_pattern_cell_added">Telefoon toegevoegd</string>
+  <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
+  <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
+  <string name="lockscreen_access_pattern_start">Patroon gestart</string>
   <string name="lockscreen_glogin_checking_password">Controleren…</string>
   <string name="lockscreen_glogin_password_hint">Wachtwoord</string>
   <string name="lockscreen_glogin_submit_button">Aanmelden</string>
@@ -480,6 +487,7 @@ of voer wachtwoord in"</string>
   <string name="manual_item_white_list_summary">Voorkom dat geselecteerde apps worden geoptimaliseerd</string>
   <string name="manual_item_white_list_title">Uitzonderingen</string>
   <string name="manual_white_list_header">%d uitzonderingen</string>
+  <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="memory_check_content_none">Leeg</string>
   <string name="menu_item_about_content">Versie: %s</string>
@@ -815,7 +823,7 @@ of voer wachtwoord in"</string>
   <string name="pref_auto_adjust_settings">Autosync. dataverbruik stats instellingen</string>
   <string name="pref_auto_adjust_traffic">Autosync. dataverbruik stats</string>
   <string name="pref_automatic_adjust">Sync dataverbruik van provider</string>
-  <string name="pref_avaible_traffic">Databundel</string>
+  <string name="pref_avaible_traffic">Dataplan</string>
   <string name="pref_category_title_lock_screen_memory_clean">Opruimen na vergrendelen</string>
   <string name="pref_category_title_module_settings">Functie instellingen</string>
   <string name="pref_category_title_other">Extra instellingen</string>
@@ -1220,7 +1228,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_saving_mobile_usage">Data bespaarder</string>
   <string name="traffic_saving_msg_month">Bespaard deze maand</string>
   <string name="traffic_saving_msg_not_started">Databespaarder is uitgeschakeld</string>
-  <string name="traffic_saving_msg_today">Resterend vandaag</string>
+  <string name="traffic_saving_msg_today">Bespaard vandaag</string>
   <string name="traffic_saving_need_optimize">Kan niet geoptimaliseerd worden</string>
   <string name="traffic_saving_notification_button_start">Activeren</string>
   <string name="traffic_saving_notify_no_apps_saving">Beperk het dataverbruik</string>
