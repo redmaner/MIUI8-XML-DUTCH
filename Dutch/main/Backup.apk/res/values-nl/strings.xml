@@ -114,8 +114,9 @@
   <string name="files_backup_info">Alle bestanden op SD kaart (inclusief foto\'s, nummers, video\'s, appdata, enz.)</string>
   <string name="findlost_contact">Contacten herstellen</string>
   <string name="findlost_contact_online">Herstel verwijderde contacten van Mi Cloud</string>
-  <string name="guarded_mode_dialog_message">Deze functie is niet toegestaan in Gastmodus.</string>
+  <string name="guarded_mode_dialog_message">Back-ups zijn niet toegestaan in Gastmodus.</string>
   <string name="guarded_mode_dialog_title">U zit in Gastmodus</string>
+  <string name="guarded_mode_dialog_transfer_message">Kan Mi Mover niet gebruiken in Gastmodus.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Download de MiTalk app en log in.
   \u0009http://www.miliao.com
 
@@ -139,6 +140,8 @@
   <string name="miliao_account_login">Login bij MiTalk</string>
   <string name="mms_title">Multimedia berichten</string>
   <string name="multi_select_title">%1$s geselecteerd</string>
+  <string name="multi_user_mode_dialog_message">Kan Mi Mover niet gebruiken in Multigebruikersmodus. Schakel Multigebruikersmodus uit om door te gaan</string>
+  <string name="multi_user_mode_dialog_title">U bent in Multigebruikersmodus</string>
   <string name="never">Nooit</string>
   <string name="new_backup">Back-up</string>
   <string name="no_encrypt_password">Geen gecodeerd wachtwoord</string>
@@ -250,8 +253,8 @@
   <string name="trans_calculating_base_size">Datagrootte berekenen</string>
   <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
   <string name="trans_cancelling">Annuleren</string>
-  <string name="trans_connect_failed_message">"Verbinding mislukt, probeer opnieuw of herstart. Op het andere apparaat, Ga naar Instellingen &gt; Extra Instellingen &gt; Mi Mover, Tik [Ik ben een verzender] of start Mi Mover opnieuw na herstarten"</string>
-  <string name="trans_connect_failed_title">Verbinding mislukt</string>
+  <string name="trans_connect_failed_message">"Kon niet verbinden, probeer opnieuw of herstart het apparaat. Op het andere apparaat, Ga naar Instellingen &gt; Extra Instellingen &gt; Mi Mover, tik [Ik ben een verzender] of start Mi Mover opnieuw na herstarten"</string>
+  <string name="trans_connect_failed_title">Kon niet verbinden</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
   <string name="trans_connecting_toast">Verbinden…</string>
   <string name="trans_connection_failed">Verbinding van apparaat verbroken</string>
@@ -314,8 +317,8 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_sending_completed">Met succes verzonden</string>
   <string name="trans_show_qr_code_label">Oud apparaat verbinden</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
-  <string name="trans_start_failed_message">Starten mislukt, probeer opnieuw of herstart</string>
-  <string name="trans_start_failed_title">Starten mislukt</string>
+  <string name="trans_start_failed_message">Kon transfer niet starten, probeer opnieuw of herstart het apparaat</string>
+  <string name="trans_start_failed_title">Kon transfer niet starten</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"
 Tijd besteed: %s"</string>
@@ -328,8 +331,8 @@ en dat Mi Mover ingeschakeld is"</string>
   <string name="unit_piece">"  items"</string>
   <string name="unknown_hint">Onbekend</string>
   <string name="user_notice_declaration_ignore">Niet meer tonen</string>
-  <string name="user_notice_message">Sommige functies hebben toegang tot een internetverbinding nodig om normaal te werken.</string>
-  <string name="user_notice_title">Gebruikersmelding</string>
+  <string name="user_notice_message">Sommige functies hebben een internetverbinding nodig om normaal te werken.</string>
+  <string name="user_notice_title">Aandacht</string>
   <string name="wifi_title">Wi-Fi instellingen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
