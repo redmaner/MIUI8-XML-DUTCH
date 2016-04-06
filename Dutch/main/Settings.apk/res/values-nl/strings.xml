@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
+  <string name="aaid_info">"
+Reclame identificatie is een permanente ID die uniek is voor uw apparaat. Verkopers gebruiken het om reclame inhoud die meer nuttig is voor u te selecteren.
+
+Als u kiest voor gepersonaliseerde advertenties niet te gebruiken, zal de reclame niet worden verminderd, maar de hoeveelheid advertenties nuttig voor u zullen aanzienlijk afnemen."</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_summary">Wachtwoord zal zijn vereist om de app te openen</string>
@@ -84,6 +88,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
   <string name="activity_not_found">Deze app is niet geïnstalleerd op uw apparaat.</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
+  <string name="ad_service">Diensten toevoegen</string>
   <string name="adb_keys_warning_message">Toegang tot USB foutopsporing intrekken voor alle computers waarvoor u dit eerder heeft toegestaan?</string>
   <string name="adb_warning_message">Toegang tot de USB foutopsporing intrekken van alle computers die u eerder heeft geautoriseerd?</string>
   <string name="adb_warning_title">USB foutopsporing toestaan?</string>
@@ -714,6 +719,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="confirm_erase">Wissen</string>
   <string name="confirm_fingerprint_msg">Plaats uw vinger op de sensor</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
+  <string name="confirm_reset_aaid">Ok</string>
   <string name="connect_to_internet">Maak verbinding met het internet</string>
   <string name="connected_wifi">Verbonden</string>
   <string name="continue_all_caps">DOORGAAN</string>
@@ -2294,6 +2300,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="remove_managed_profile_label">Werkprofiel verwijderen</string>
   <string name="repeat">Herhalen</string>
   <string name="repeat_title">Herhalen</string>
+  <string name="reset_aaid">Reset de reclame identificatie</string>
   <string name="reset_app_preferences">Appvoorkeuren herstellen</string>
   <string name="reset_app_preferences_button">Apps herstellen</string>
   <string name="reset_app_preferences_desc">"Hiermee worden alle voorkeuren opnieuw ingesteld voor:  
@@ -3068,6 +3075,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="use_location_title">Locatie en Google Zoeken</string>
   <string name="use_nuplayer">Gebruik NuPlayer (experimenteel)</string>
   <string name="use_nuplayer_summary">Gebruik NuPlayer inplaats van AwesomePlayer</string>
+  <string name="use_personalized_ad_service">Gepersonaliseerde adv</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="user_account_title">Account voor inhoud</string>
   <string name="user_add_on_lockscreen_menu">Gebruikers toevoegen wanneer apparaat vergrendeld is</string>
