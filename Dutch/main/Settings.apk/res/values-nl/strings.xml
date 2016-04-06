@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
+  <string name="aaid_info">"
+Reclame identificatie is een permanente ID die uniek is voor uw apparaat. Verkopers gebruiken het om reclame inhoud die meer nuttig is voor u te selecteren.
+
+Als u kiest voor gepersonaliseerde advertenties niet te gebruiken, zal de reclame niet worden verminderd, maar de hoeveelheid advertenties nuttig voor u zullen aanzienlijk afnemen."</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_summary">Wachtwoord zal zijn vereist om de app te openen</string>
@@ -84,6 +88,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
   <string name="activity_not_found">Deze app is niet geïnstalleerd op uw apparaat.</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
+  <string name="ad_service">Diensten toevoegen</string>
   <string name="adb_keys_warning_message">Toegang tot USB foutopsporing intrekken voor alle computers waarvoor u dit eerder heeft toegestaan?</string>
   <string name="adb_warning_message">Toegang tot de USB foutopsporing intrekken van alle computers die u eerder heeft geautoriseerd?</string>
   <string name="adb_warning_title">USB foutopsporing toestaan?</string>
@@ -95,15 +100,15 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_done_title">Klaar!</string>
   <string name="add_fingerprint_failed_retry_text">Kon vingerafdruk niet toevoegen, probeer opnieuw</string>
   <string name="add_fingerprint_finished_button_text">Ok</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"Om uw vingerafdruk info toe te voegen, plaatst u uw vinger op de vingerafdrukscanner.
-Zorg ervoor dat uw vinger de binnenrand van de sensor afdekt"</string>
-  <string name="add_fingerprint_instruction_msg">Ontgrendel uw apparaat of verifieër uw betaling met uw vingerafdruk</string>
-  <string name="add_fingerprint_instruction_title">Plaats uw vinger op de vingerafdrukscanner</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Plaats en verwijder uw vinger totdat uw vingerafdruk volledig is geregistreerd</string>
-  <string name="add_fingerprint_put_finger_msg">Nadat u op de sensor hebt gedrukt, verwijder uw vinger en herhaal dit.</string>
-  <string name="add_fingerprint_put_finger_title">Plaats en verwijder uw vinger</string>
+  <string name="add_fingerprint_instruction_dialog_msg">Om uw vingerafdruk toe te voegen, plaatst u uw vinger op de sensor en verwijder hem nadat u een trilling voelde.</string>
+  <string name="add_fingerprint_instruction_msg">Ontgrendel uw apparaat of verifieër uw betaling met uw vingerafdruk.</string>
+  <string name="add_fingerprint_instruction_title">Voeg uw vingerafdruk toe</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Beweeg uw vinger iets en plaats het weer op de sensor om alle verschillende onderdelen toe te voegen van uw vingerafdruk.</string>
+  <string name="add_fingerprint_put_finger_msg">Plaatst u uw vinger op de sensor en verwijder hem nadat u een trilling voelde.</string>
+  <string name="add_fingerprint_put_finger_title">Vingerafdruk toevoegen</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Beweeg uw vinger iets en plaats het weer op de sensor om alle verschillende onderdelen toe te voegen van uw vingerafdruk.</string>
   <string name="add_fingerprint_text">Vingerafdruk toevoegen</string>
-  <string name="add_fingerprint_toast_text">Plaats uw vinger nu op de lezer</string>
+  <string name="add_fingerprint_toast_text">Plaats uw vinger nu op de sensor</string>
   <string name="adding_profile_owner_warning">"Door verder te gaan, zal uw gebruikersnaam worden beheerd door uw beheerder, die ook in staat zal zijn om de bijbehorende gegevens op te slaan, in aanvulling op uw persoonlijke gegevens.
 
 Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren, toegang, apps en de gegevens in verband met deze gebruiker, met inbegrip van de netwerkactiviteit en de locatiegegevens van uw apparaat te beheren."</string>
@@ -712,8 +717,9 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="confirm_action">Ok</string>
   <string name="confirm_download_cancelation_dialog_message">Download annuleren?</string>
   <string name="confirm_erase">Wissen</string>
-  <string name="confirm_fingerprint_msg">Plaats uw vinger op de vingerafdrukscanner</string>
+  <string name="confirm_fingerprint_msg">Plaats uw vinger op de sensor</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
+  <string name="confirm_reset_aaid">Ok</string>
   <string name="connect_to_internet">Maak verbinding met het internet</string>
   <string name="connected_wifi">Verbonden</string>
   <string name="continue_all_caps">DOORGAAN</string>
@@ -927,7 +933,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="delete_fingerprint_confirm_msg">Vingerafdruk verwijderen?</string>
   <string name="delete_fingerprint_text">Verwijder vingerafdruk</string>
   <string name="delete_legacy_fingerprint">Verwijderen</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Vinger data verwijderen?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Deze vingerafdruk verwijderen?</string>
   <string name="deny">Weigeren</string>
   <string name="deny_sms_message">Geïnstalleerde apps niet toestaan om SMS te verzenden</string>
   <string name="deny_sms_title">SMS vergrendelen</string>
@@ -1222,8 +1228,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="filter_dlg_title">Filteropties kiezen</string>
   <string name="fingerprint_and_password_entrance_title">Schermvergrendeling &amp; vingerafdruk</string>
   <string name="fingerprint_identify_input_password_msg">Voer wachtwoord in</string>
-  <string name="fingerprint_identify_msg">Vingerafdruk scannen…</string>
-  <string name="fingerprint_identify_try_again_msg">Kon niet scannen, probeer opnieuw</string>
+  <string name="fingerprint_identify_msg">Vingerafdruk lezen…</string>
+  <string name="fingerprint_identify_try_again_msg">Kon niet lezen, probeer opnieuw</string>
   <string name="fingerprint_list_title">Vingerafdruk</string>
   <string name="finish_application">Gedwongen stoppen</string>
   <string name="finish_button_label">Voltooien</string>
@@ -1581,7 +1587,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
   <string name="lock_settings_picker_title">Schermvergrendeling kiezen</string>
   <string name="lock_settings_title">Apparaatbeveiliging</string>
-  <string name="lock_settings_with_fingerprint">Schermbeveiliging &amp; wachtwoord</string>
+  <string name="lock_settings_with_fingerprint">Schermbeveiliging &amp; vingerafdruk</string>
   <string name="lock_setup">Het instellen is voltooid.</string>
   <string name="lock_sounds_enable_title">Geluid voor schermvergrendeling</string>
   <string name="lockpassword_cancel_label">Annuleren</string>
@@ -1670,7 +1676,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="managed_device_admin_title">Werk</string>
   <string name="managed_profile_device_admin_info">Om %1$s te stoppen toegang te krijgen tot uw werkprofiel, verwijder het profiel onder Instellingen &gt; Accounts</string>
   <string name="managed_profile_location_category">Werkprofiel</string>
-  <string name="managed_profile_location_switch_lockdown">Uitgeschakeld door uw bedrijf</string>
+  <string name="managed_profile_location_switch_lockdown">Uitgeschakeld door uw bedrijfsadministrator</string>
   <string name="managed_profile_location_switch_title">Locatie voor werkprofiel</string>
   <string name="managed_profile_not_available_label">Werkprofiel is nog niet beschikbaar</string>
   <string name="managed_user_title">Werkprofiel</string>
@@ -1710,7 +1716,7 @@ U bent momenteel aangemeld bij de volgende accounts:
   <string name="max_cpu4_info">"Quad core Max "</string>
   <string name="max_cpu6_info">Hexa core Max</string>
   <string name="max_cpu8_info">"Octa core Max "</string>
-  <string name="max_fingerprint_number_reached">Kan niet meer dan 5 vingerafdrukken toevoegen. Om een vingerafdruk toe te voegen moet je eerst een bestaande vingerafdruk verwijderen</string>
+  <string name="max_fingerprint_number_reached">Kan niet meer dan 5 vingerafdrukken toevoegen. Om een nieuwe vingerafdruk toe te voegen moet je eerst een bestaande vingerafdruk verwijderen</string>
   <string name="media_button">Mediaknop</string>
   <string name="media_category">Media</string>
   <string name="media_feedback_enable_title">Trillen op de maat</string>
@@ -2294,6 +2300,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="remove_managed_profile_label">Werkprofiel verwijderen</string>
   <string name="repeat">Herhalen</string>
   <string name="repeat_title">Herhalen</string>
+  <string name="reset_aaid">Reset de reclame identificatie</string>
   <string name="reset_app_preferences">Appvoorkeuren herstellen</string>
   <string name="reset_app_preferences_button">Apps herstellen</string>
   <string name="reset_app_preferences_desc">"Hiermee worden alle voorkeuren opnieuw ingesteld voor:  
@@ -3068,6 +3075,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="use_location_title">Locatie en Google Zoeken</string>
   <string name="use_nuplayer">Gebruik NuPlayer (experimenteel)</string>
   <string name="use_nuplayer_summary">Gebruik NuPlayer inplaats van AwesomePlayer</string>
+  <string name="use_personalized_ad_service">Gepersonaliseerde adv</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="user_account_title">Account voor inhoud</string>
   <string name="user_add_on_lockscreen_menu">Gebruikers toevoegen wanneer apparaat vergrendeld is</string>

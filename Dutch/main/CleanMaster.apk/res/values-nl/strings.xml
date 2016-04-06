@@ -136,7 +136,7 @@
   <string name="empty_title_ad">Geen adv. bestanden gevonden</string>
   <string name="empty_title_apk">Geen installatiepakketten gevonden</string>
   <string name="empty_title_garbage_cache">Niets om op te ruimen</string>
-  <string name="empty_title_garbage_white_list">Geen uitzonderingen.</string>
+  <string name="empty_title_garbage_white_list">Inhouden om uitzonderingen toe te voegen.</string>
   <string name="empty_title_installed_apps">Leeg</string>
   <string name="empty_title_large_files">Leeg</string>
   <string name="empty_title_residual">Geen restanten gevonden</string>
@@ -222,6 +222,8 @@
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
   <string name="load_only_under_wlan">Nieuws laden wanneer verbonden met Wi-Fi</string>
   <string name="login_immediately">Aanmelden</string>
+  <string name="long_click_dialog_summary">Lang drukken om toe te voegen aan uitzonderingen.</string>
+  <string name="long_click_dialog_title">Melding</string>
   <string name="mainbtn_text_quick_cleanup">Ruim %s op</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
@@ -252,13 +254,15 @@
   <string name="open_browser">Openen in browser</string>
   <string name="optimizecenter_data_support">Powered by Clean Master</string>
   <string name="positive_confirm">Ok</string>
-  <string name="pref_category_title_auto_clean_settings">Schema</string>
+  <string name="pref_category_title_auto_clean_settings">Automatisch opruimen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Extra instellingen</string>
   <string name="pref_category_title_cleanup_white_list">Uitzonderingen</string>
   <string name="pref_category_title_garbage_cleanup_check">Meldingen</string>
   <string name="pref_category_title_other_clean_settings">Extra instellingen</string>
   <string name="pref_content_cleanup_white_list_none">Geen</string>
+  <string name="pref_section_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_summary_auto_clean_and_alert">Opruimerschema automatisch laten uitvoeren</string>
+  <string name="pref_summary_auto_deepclean_and_alert">Ongebruikte apps melding</string>
   <string name="pref_summary_auto_update_cleanup_db">%s bijgewerkt</string>
   <string name="pref_summary_cleanup_white_list">Afval in witte lijst wordt genegeerd</string>
   <string name="pref_summary_expand_cache_group">Gecachete details worden automatisch weergegeven</string>
@@ -267,13 +271,12 @@
   <string name="pref_summary_garbage_cleanup_check_time">Opruiming plannen</string>
   <string name="pref_summary_garbage_process_mode">Stel meldingen in wanneer er wordt opgeruimd</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Uploaden en vergelijken van onbekende bestandsnamen met online definities</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Automatisch apps kiezen om op te ruimen</string>
   <string name="pref_title_apps_check_size">Limiet opslagruimte</string>
   <string name="pref_title_apps_check_time">Frequentie</string>
   <string name="pref_title_apps_cleanup_size">​Wanneer cachegrootte is bereikt</string>
   <string name="pref_title_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_title_auto_clean_content_choose">Kies items om op te ruimen</string>
-  <string name="pref_title_auto_deepclean_and_alert">Melding ongebruikte apps</string>
+  <string name="pref_title_auto_deepclean_and_alert">Diepe schoonmaak</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch updaten</string>
   <string name="pref_title_cleanup_white_list">Uitzonderingen</string>
   <string name="pref_title_expand_cache_group">Gecachte items weergeven</string>
@@ -284,7 +287,7 @@
   <string name="pref_title_garbage_process_mode">Meldingen</string>
   <string name="pref_title_manual_check_cleanup_db_update">Controleer op updates</string>
   <string name="pref_title_open_optimizer_cloud_scan">Bestandsnamen uploaden</string>
-  <string name="pref_title_open_optimizer_memory_scan">Apps automatisch kiezen</string>
+  <string name="pref_title_open_optimizer_memory_scan">App geheugen scannen</string>
   <string name="privacy_app_desc">Account en wachtwoord</string>
   <string name="privacy_app_desc_message">Account, wachtwoorden en berichten</string>
   <string name="privacy_app_desc_search">Account, wachtwoorden en zoekgeschiedenis</string>
@@ -324,6 +327,7 @@
   <string name="summary_optimizer">Deze functie uploadt onbekend mapnamen naar de online database van Cheetah Mobile om die bij te werken en vereist het toestel ID.</string>
   <string name="text_optimizer">Mapnamen uploaden</string>
   <string name="there_is_no">Ziet er goed uit, kom later terug</string>
+  <string name="tips_of_app_manage">Zelden gebruikte apps verwijderen om opslag te besparen</string>
   <string name="tips_of_auto_launch_manage">Voorkom dat zelden gebruikte apps automatisch worden gestart</string>
   <string name="tips_of_cloud_service">Aanmelden met uw Mi account om meer Mi diensten te gebruiken</string>
   <string name="tips_of_connect">Verbinden met internet om de volledige set van veiligheidsfuncties te gebruiken</string>
@@ -340,6 +344,7 @@
   <string name="title_delete_clipboard">Klembord inhoud</string>
   <string name="title_delete_deepclean">Verwijderen</string>
   <string name="title_delete_large_file">Grote bestanden verwijderen</string>
+  <string name="title_of_app_manage">Apps</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
   <string name="title_of_cloud_service">Clouddiensten</string>
   <string name="title_of_garbage_cloud_scan">Cloudscan</string>

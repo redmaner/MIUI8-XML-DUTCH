@@ -70,6 +70,7 @@
   <string name="app_name_view_picture">Afbeelding weergeven</string>
   <string name="apply">Toepassen</string>
   <string name="associate_face_album">Kies een album</string>
+  <string name="auto_backup_introduce">Automatisch foto\'s en videos\'s back-uppen(Xiaomi account is nodig)</string>
   <string name="auto_update_face">Foto\'s automatisch toevoegen</string>
   <string name="auto_update_face_summary">Automatisch foto\'s vergelijken en toevoegen aan het babyalbum</string>
   <string name="auto_update_off">Uit</string>
@@ -82,7 +83,7 @@
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_change_background">Achtergrondfoto wijzigen</string>
-  <string name="baby_album_needs_auto_backup_tip">Kan back-up voor baby album niet uitschakelen</string>
+  <string name="baby_album_needs_auto_backup_tip">baby album kan automatische back-up niet uitschakelen</string>
   <string name="baby_album_new_photo_remind">Er zijn nieuwe foto\'s in het baby album.</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -105,7 +106,7 @@
   <string name="backup_only_in_wifi">Alleen Wi-Fi gebruiken om foto\'s en video\'s te back-uppen</string>
   <string name="backup_only_in_wifi_summary">Nooit mobiele data gebruiken om foto\'s en video\'s te back-uppen</string>
   <string name="begin_share">Baby album aanmaken \"%s\", u kan die nu delen</string>
-  <string name="begin_share_toast">Het systeem zal een baby album aanmaken van deze kinderen. Het zal mogelijk zijn om deze te delen</string>
+  <string name="begin_share_toast">Een apart album voor dit kind aanmaken voordat u die deelt?</string>
   <string name="black_white">Zwart &amp; wit</string>
   <string name="blank_app_name"/>
   <string name="brannan">Brannan</string>
@@ -116,7 +117,7 @@
   <string name="by_sms">SMS bericht</string>
   <string name="byteShort">B</string>
   <string name="camera_black_white">Zwart &amp; wit</string>
-  <string name="camera_needs_auto_backup_tip">Camera foto\'s moet geback-upt worden</string>
+  <string name="camera_needs_auto_backup_tip">Camera album moet geback-upt worden</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Overschakelen naar standaard vergrendelschermachtergrond?</string>
   <string name="cancel_hint">Handeling geannuleerd</string>
@@ -132,7 +133,10 @@
   <string name="click_download_gif">Tik om gif te downloaden</string>
   <string name="click_top_right">Tik op het icoon rechtsboven</string>
   <string name="cloud_camera_display_name">Camera foto\'s</string>
-  <string name="cloud_guide_auto_backup_title">Albums kiezen om te back-uppen naar MiCloud</string>
+  <string name="cloud_guide_auto_backup_title">Kies albums om te back-uppen naar de Mi Cloud</string>
+  <string name="cloud_guide_login_title">Foto\'s en video\'s automatisch back-uppen</string>
+  <string name="cloud_guide_slim_text">Automatisch back-uppen. Bespaar meer dan 90%  90% ruimte door in te krimpen.</string>
+  <string name="cloud_guide_slim_title">Album inkrimpen inschakelenom %1$s te besparen</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
   <string name="cloud_settings">Mi Cloud</string>
@@ -181,7 +185,7 @@
   <string name="delete_album_success">Album verwijderd.</string>
   <string name="delete_finish_format">%d verwijderd</string>
   <string name="delete_from_album">van \"%s\" album (alle apparaten)</string>
-  <string name="delete_from_album_no_account">Van \"%s\" album</string>
+  <string name="delete_from_album_no_account">van \"%s\" album</string>
   <string name="delete_from_all_devices">Van alle apparaten</string>
   <string name="delete_from_devices">Alle apparaten die automatisch sync. zijn</string>
   <string name="delete_from_devices_album">Alle apparaten die dit album hebben gesync.</string>
@@ -198,7 +202,7 @@
   <string name="deny">Weigeren</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
-  <string name="detail_title">Detail info</string>
+  <string name="detail_title">Details</string>
   <string name="do_not_remind_me">Niet meer tonen</string>
   <string name="do_not_save">Niet opslaan</string>
   <string name="documentary">Documentaire</string>
@@ -217,7 +221,7 @@
   <string name="enable_cloud_for_sharing">"U moet Cloud albums inschakelen om gedeelde foto's te bekijken."</string>
   <string name="enable_face_album_summary">Foto\'s automatisch sorteren op personen die erop staan</string>
   <string name="enable_face_album_title">Sorteren op personen</string>
-  <string name="enable_micloud_service">Starten met gebruik van MiCloud</string>
+  <string name="enable_slim_title">Album inkrimpen inschakelen</string>
   <string name="enabling_face_feature">Een momentje…</string>
   <string name="enter_email_hint">Voer e-mailadres in</string>
   <string name="error_album_not_exist">Album bestaat niet</string>
@@ -241,9 +245,9 @@
   <string name="exit_video_play">Afsluiten</string>
   <string name="expand_people">Toon meer personen</string>
   <string name="face_album_detecting_tip">Een momentje…</string>
-  <string name="face_album_empty">Leeg</string>
+  <string name="face_album_empty">Leeg.</string>
   <string name="face_album_empty_syncing">Data sync.</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Zal gezichtsdata sync. wanneer het apparaat verbonden is met Wi-Fi</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Zal gezichten sync. wanneer het apparaat verbonden is met Wi-Fi</string>
   <string name="face_album_long_tap_tip">Om meerdere personen te selecteren of groepsinstellingen te wijzigen, druk op &amp; en houd een profielfoto ingedrukt</string>
   <string name="face_album_new_name_hint">Nieuwe naam</string>
   <string name="face_album_not_named">Naamloos</string>
@@ -321,7 +325,6 @@
   <string name="input_baby_nick_name">Roepnaam invoeren</string>
   <string name="input_nickname_toast">Naam baby invoeren</string>
   <string name="input_or_select_a_name">Kies of voer een naam in</string>
-  <string name="introduce">Foto\'s en video\'s automatisch back-uppen</string>
   <string name="invalid_invition_url">Foutieve uitnodiging URL</string>
   <string name="invalid_recipient_message">De namen van de ontvangers zijn ongeldig</string>
   <string name="invite_send_sms_tip">Uw provider kan kosten aanrekenen voor een SMS bericht die gebruikt is om deze uitnodiging te sturen.</string>
@@ -352,6 +355,7 @@
   <string name="loading_video">Video laden…</string>
   <string name="loading_video_thumbnail">Video cover downloaden…</string>
   <string name="lomoish">Lomo</string>
+  <string name="login_and_enable_service">Begin met aan te melden en gebruik de Mi Cloud</string>
   <string name="long_press_to_refocus">Blijf drukken om de focus bij te stellen</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nieuw album</string>
@@ -362,9 +366,9 @@
   <string name="merge_album">Samenvoegen</string>
   <string name="merge_album_title">Albums samenvoegen</string>
   <string name="messagelist_sender_self">Ik</string>
+  <string name="micloud_introduce">Foto\'s en video\'s automatisch back-uppen(Xiaomi account is nodig)</string>
   <string name="more_face_album_name">Meer personen</string>
   <string name="must_pick_file">Kies een afbeelding</string>
-  <string name="need_to_log_in_xiaomi_account">Aanmelden om foto\'s en video\'s automatisch te back-uppen naar Mi Cloud</string>
   <string name="need_to_turn_on_network">U hebt geen internetverbinding</string>
   <string name="need_to_turn_on_sync">Back-up naar Mi Cloud inschakelen</string>
   <string name="need_to_turn_on_wlan">Eerst met Wi-Fi verbinden</string>
@@ -377,7 +381,7 @@
   <string name="not_ask_any_more">"Niet meer vragen bij volgende \"%s\" antwoorden"</string>
   <string name="not_is">Nee</string>
   <string name="not_remind_any_more">Niet meer weergeven</string>
-  <string name="number_of_uploading_finish">Albums zijn automatisch geback-upt</string>
+  <string name="number_of_uploading_finish">Auto-backup albums zijn geback-upt</string>
   <string name="old">Ouderwets</string>
   <string name="open">Inschakelen</string>
   <string name="open_public_message">Genereer een URL en stuur deze door</string>
@@ -386,7 +390,7 @@
   <string name="operation_add_picture">Items toevoegen</string>
   <string name="operation_add_secret">Toevoegen aan verborgen album</string>
   <string name="operation_delete">Verwijderen</string>
-  <string name="operation_detail">Detail info</string>
+  <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Automatisch back-up uitschakelen</string>
   <string name="operation_download">Foto downloaden (%s)</string>
   <string name="operation_edit">Bewerken</string>
@@ -519,6 +523,7 @@
   <string name="set_group">Groep instellen</string>
   <string name="shadow">Schaduwen</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
+  <string name="share">Delen</string>
   <string name="share_album">Deel album</string>
   <string name="share_album_needs_auto_upload_tip">Kan backup niet uitschakelen voor gedeelde albums</string>
   <string name="share_by_email_start">Deel %1$s in de achtergrond</string>
@@ -533,9 +538,16 @@
   <string name="slideshow_interval_invalid">Interval moet tussen de 1 en 3600 seconden zijn</string>
   <string name="slideshow_interval_title">Iedere dia weergeven voor</string>
   <string name="slideshow_interval_value">%1$d seconden</string>
-  <string name="slim_after_backuped_summary">Vervang full-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Full-resolutie foto\'s zijn nog steeds beschikbaar in Mi Cloud. Dit kan heel wat lokale opslag besparen.</string>
-  <string name="slim_after_backuped_summary_with_size">Vervang full-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Full-resolutie foto\'s zijn nog steeds beschikbaar in Mi Cloud.. Dit kan %1$s besparen.</string>
+  <string name="slim_after_backuped_summary">Vervang volle-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Volle-resolutie foto\'s zijn nog steeds beschikbaar in Mi Cloud. Dit kan heel wat lokale opslag besparen.</string>
   <string name="slim_after_backuped_title">Optimaliseer lokale opslag na back-up</string>
+  <string name="slim_introduce">Vervang volle-resolutie foto\'s/video\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. De volle-resoluties zijn nog steeds beschikbaar in Mi Cloud. Dit kan tot 90% ruimte besparen(Xiaomi account is nodig).</string>
+  <string name="slim_introduce_with_specific_size">Vervang volle-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. De volle-resoluties zijn nog steeds beschikbaar in Mi Cloud. Dit kon tot %1$s besparen(Xiaomi account is nodig).</string>
+  <string name="slim_now">Nu inkrimpen</string>
+  <string name="slim_result_size">%1$s bespaard</string>
+  <string name="slim_result_title">Met succes ingekrimt</string>
+  <string name="slim_tip_msg">Albums will be slimmed automatically when WLAN is connected. Download full-resolution files by clicking \"Download photo\" menu in photo detail page.</string>
+  <string name="slim_tip_title">Inkrimp tip</string>
+  <string name="slimming">Inkrimpen…</string>
   <string name="square">Vierkant</string>
   <string name="start_to_use_face_albumset">Sorteren op personen</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
@@ -585,7 +597,8 @@
   <string name="view_queuing_status">Status controleren</string>
   <string name="vignette">Vervloeien</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
-  <string name="welcome">Welkom bij Mi Cloud</string>
+  <string name="welcome_to_micloud">Welkom op Mi Cloud</string>
+  <string name="welcome_to_slim">Welkom bij album inkrimping</string>
   <string name="where_is_barcode">Waar is de QR code?</string>
   <string name="who_is_this">Wie?</string>
   <string name="xiaomi_account_not_exists_toast">Mi account bestaat niet</string>
