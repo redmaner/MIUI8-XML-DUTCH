@@ -25,7 +25,7 @@
   <string name="add_to_album_failed">Kon niet toevoegen aan album</string>
   <string name="add_to_album_success">Toegevoegd aan album</string>
   <string name="add_to_secret_exist">Foto bestaat reeds in verborgen album</string>
-  <string name="add_to_secret_fail">Toevoegen aan verborgen album mislukt</string>
+  <string name="add_to_secret_fail">Kon niet toevoegen aan verborgen album</string>
   <string name="add_to_secret_failed_with_reason">"Kan niet toegvoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items kunnen niet toegvoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_successful">Toegevoegd aan verborgen album</string>
@@ -35,17 +35,17 @@
   <string name="album_already_exists">Een album met dezelfde naam bestaat reeds</string>
   <string name="album_already_forced_top">Reeds bovenop</string>
   <string name="album_camera_name">Camera</string>
-  <string name="album_detail_page_empty">Geen foto of video</string>
-  <string name="album_faces_name">Gezicht</string>
+  <string name="album_detail_page_empty">Geen items</string>
+  <string name="album_faces_name">Personen</string>
   <string name="album_member">Albumleden %s</string>
   <string name="album_name">Albumnaam</string>
   <string name="album_others_share_baby_info_format">Baby album van %s</string>
   <string name="album_others_share_info_format">Van %s</string>
-  <string name="album_owner_share">Door mij gedeeld</string>
+  <string name="album_owner_share">Gegedeeld</string>
   <string name="album_page_empty">Leeg</string>
-  <string name="album_page_label">Album</string>
+  <string name="album_page_label">Albums</string>
   <string name="album_quota_fulfiled">Kan het album niet aanmaken: het albumlimiet is overschreden</string>
-  <string name="album_screenshot_name">Screenshot</string>
+  <string name="album_screenshot_name">Schermafdrukken</string>
   <string name="album_share_exit_confirm">Het album verlaten?</string>
   <string name="album_share_kicked">%1$s is gesloten</string>
   <string name="album_share_stat_content">Uitnodigingen</string>
@@ -80,10 +80,9 @@
   <string name="auto_upload_disable_toast">Foto\'s en video\'s in dit album zullen niet automatisch geback-upt worden</string>
   <string name="auto_upload_enable_toast">Foto\'s en video\'s in dit album zullen automatisch worden geback-upt worden</string>
   <string name="autofix">Auto fix</string>
-  <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Babyalbum</string>
   <string name="baby_album_change_background">Achtergrondfoto wijzigen</string>
-  <string name="baby_album_needs_auto_backup_tip">babyalbum kan automatische back-up niet uitschakelen</string>
+  <string name="baby_album_needs_auto_backup_tip">Kan back-up voor baby album niet uitschakelen</string>
   <string name="baby_album_new_photo_remind">Er zijn nieuwe foto\'s in het babyalbum.</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -111,13 +110,13 @@
   <string name="blank_app_name"/>
   <string name="brannan">Brannan</string>
   <string name="browse_category_title">Browse</string>
-  <string name="buy_member_tip">word lid.</string>
+  <string name="buy_member_tip">Word lid.</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">Overige</string>
-  <string name="by_sms">SMS bericht</string>
+  <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
   <string name="camera_black_white">Zwart &amp; wit</string>
-  <string name="camera_needs_auto_backup_tip">Camera album moet geback-upt worden</string>
+  <string name="camera_needs_auto_backup_tip">Camera foto\'s moeten geback-upt worden</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Overschakelen naar standaard vergrendelschermachtergrond?</string>
   <string name="cancel_hint">Handeling geannuleerd</string>
@@ -133,10 +132,10 @@
   <string name="click_download_gif">Tik om gif te downloaden</string>
   <string name="click_top_right">Tik op het icoon rechtsboven</string>
   <string name="cloud_camera_display_name">Camera foto\'s</string>
-  <string name="cloud_guide_auto_backup_title">Kies albums om te back-uppen naar de Mi Cloud</string>
+  <string name="cloud_guide_auto_backup_title">Kies albums om te back-uppen</string>
   <string name="cloud_guide_login_title">Foto\'s en video\'s automatisch back-uppen</string>
-  <string name="cloud_guide_slim_text">Automatisch back-uppen. Bespaar meer dan 90% ruimte door in te krimpen.</string>
-  <string name="cloud_guide_slim_title">Album inkrimpen inschakelen om %1$s te besparen</string>
+  <string name="cloud_guide_slim_text">Automatisch back-uppen. Verklein de foto grootte op het intern geheugen en bespaar 90% aan ruimte.</string>
+  <string name="cloud_guide_slim_title">Verklein de foto grootte op het intern geheugen om %1$s te besparen</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
   <string name="cloud_settings">Mi Cloud</string>
@@ -151,11 +150,11 @@
   <string name="confirm_face">Passen</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Dit album samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Deze albums samenvoegen met %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Geen gelijkenis</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Zeker dat dit &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;is? Dit gezicht zal na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Zeker dat dit &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet is? Dit gezicht zal na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;zijn? Deze gezichten zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet zijn? Deze gezichten zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_not_face">Geen gelijkenissen</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Zeker dat dit &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;is? Deze persoon zal na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Zeker dat dit &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet is? Deze persoon zal na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;zijn? Deze personen zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Zeker dat het deze &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;niet zijn? Deze personen zullen na bevestiging verplaatst worden naar \"%2$s\" album. &lt;/Data&gt;" "</string>
   <string name="contact_tip">Contacten</string>
   <string name="context_menu_add_contact">Toevoegen aan contactpersonen</string>
   <string name="context_menu_copy">Kopiëren</string>
@@ -168,13 +167,13 @@
   <string name="create_baby_album">Maak een baby album aan</string>
   <string name="create_baby_album_dialog_msg">Maak een album voor \"%s\"?</string>
   <string name="create_baby_album_later_toast">U kunt altijd een baby album maken in Instellingen</string>
-  <string name="create_new_album">Maak nieuw album aan</string>
-  <string name="create_new_album_failed">Aanmaken mislukt</string>
+  <string name="create_new_album">Maak album aan</string>
+  <string name="create_new_album_failed">Kon geen aanmaken</string>
   <string name="create_new_face">Nieuw persoon</string>
   <string name="create_quick_icon_on_desk">Snelkoppeling maken</string>
   <string name="creating_baby_album">Album aanmaken…</string>
   <string name="crop">Bijsnijden</string>
-  <string name="crop_label">Foto bijsnijden</string>
+  <string name="crop_label">Bijgesneden foto\'s</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">OK</string>
   <string name="crop_tooltip">Versleep markers om de foto bij te snijden</string>
@@ -182,7 +181,7 @@
   <string name="delete">Verwijderen</string>
   <string name="delete_album_failed">Kon album niet verwijderen</string>
   <string name="delete_album_msg_format">Verwijder \"%2$s\" album %1$s%3$s?</string>
-  <string name="delete_album_success">Album verwijderd.</string>
+  <string name="delete_album_success">Album verwijderd</string>
   <string name="delete_finish_format">%d verwijderd</string>
   <string name="delete_from_album">van \"%s\" album (alle apparaten)</string>
   <string name="delete_from_album_no_account">van \"%s\" album</string>
@@ -194,7 +193,7 @@
   <string name="delete_in_album">Wanneer je een foto of video uit album verwijdert, zal het ook verwijderd worden van:</string>
   <string name="delete_in_home_page">Wanneer je een foto of video van de startpagina verwijdert, zal het ook verwijderd worden van:</string>
   <string name="delete_in_process">Verwijderen…</string>
-  <string name="delete_origin">Foto\'s verwijderen van origineel album</string>
+  <string name="delete_origin">Items verwijderen van origineel album</string>
   <string name="delete_other_shared_images">Kan geen foto\'s verwijderen gedeeld door anderen</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d verwijderd，%2$d opgeslagen</string>
   <string name="delete_third_party_photo">Deze foto verwijderen?</string>
@@ -221,7 +220,7 @@
   <string name="enable_cloud_for_sharing">"U moet Cloud albums inschakelen om gedeelde foto's te bekijken."</string>
   <string name="enable_face_album_summary">Foto\'s automatisch sorteren op personen die erop staan</string>
   <string name="enable_face_album_title">Sorteren op personen</string>
-  <string name="enable_slim_title">Album inkrimpen inschakelen</string>
+  <string name="enable_slim_title">Foto grootte verkleinen</string>
   <string name="enabling_face_feature">Een momentje…</string>
   <string name="enter_email_hint">Voer e-mailadres in</string>
   <string name="error_album_not_exist">Album bestaat niet</string>
@@ -245,9 +244,9 @@
   <string name="exit_video_play">Afsluiten</string>
   <string name="expand_people">Toon meer personen</string>
   <string name="face_album_detecting_tip">Een momentje…</string>
-  <string name="face_album_empty">Leeg.</string>
-  <string name="face_album_empty_syncing">Data sync.</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Zal gezichten sync. wanneer het apparaat verbonden is met Wi-Fi</string>
+  <string name="face_album_empty">Leeg</string>
+  <string name="face_album_empty_syncing">Data sync</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Zal personen sync. wanneer het apparaat verbonden is met Wi-Fi</string>
   <string name="face_album_long_tap_tip">Om meerdere personen te selecteren of groepsinstellingen te wijzigen, druk op &amp; en houd een profielfoto ingedrukt</string>
   <string name="face_album_new_name_hint">Nieuwe naam</string>
   <string name="face_album_not_named">Naamloos</string>
@@ -260,7 +259,7 @@
   <string name="facelift">Gezichtsgloed</string>
   <string name="facetan">Gezichtskleur</string>
   <string name="fail_hint">Handeling mislukt</string>
-  <string name="fail_to_pick_email">E-mail ongeldig</string>
+  <string name="fail_to_pick_email">Ongeldig e-mail adres</string>
   <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerkverbinding.</string>
   <string name="family_member_invitation_text">Ander familielid</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
@@ -299,8 +298,8 @@
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_page_empty">Leeg</string>
-  <string name="home_page_label">Foto</string>
-  <string name="how_to_set_relation">Lang drukken op een album om groep in te stellen</string>
+  <string name="home_page_label">Foto\'s</string>
+  <string name="how_to_set_relation">&amp; album ingedrukt houden om een groep aan te maken</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Netwerkinstellingen</string>
   <string name="hybrid_data_error">Er is een fout opgetreden</string>
@@ -355,8 +354,8 @@
   <string name="loading_video">Video laden…</string>
   <string name="loading_video_thumbnail">Video cover downloaden…</string>
   <string name="lomoish">Lomo</string>
-  <string name="login_and_enable_service">Begin met aanmelden en gebruik de Mi Cloud</string>
-  <string name="long_press_to_refocus">Blijf drukken om de focus bij te stellen</string>
+  <string name="login_and_enable_service">Om Mi Cloud te gebruiken, meld je aan met uw Mi account</string>
+  <string name="long_press_to_refocus">&amp; ingedrukt houden focus bij te stellen</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nieuw album</string>
   <string name="menu_item_sort_date">Datum</string>
@@ -368,9 +367,9 @@
   <string name="messagelist_sender_self">Ik</string>
   <string name="micloud_introduce">Foto\'s en video\'s automatisch back-uppen (Xiaomi account is nodig)</string>
   <string name="more_face_album_name">Meer personen</string>
-  <string name="must_pick_file">Kies een afbeelding</string>
+  <string name="must_pick_file">Kies een foto</string>
   <string name="need_to_turn_on_network">U hebt geen internetverbinding</string>
-  <string name="need_to_turn_on_sync">Back-up naar Mi Cloud inschakelen</string>
+  <string name="need_to_turn_on_sync">Eerst back-up naar Mi Cloud inschakelen</string>
   <string name="need_to_turn_on_wlan">Eerst met Wi-Fi verbinden</string>
   <string name="negative">Negatief</string>
   <string name="network_connected_rescan">Kan niet verbinden met netwerk</string>
@@ -381,14 +380,14 @@
   <string name="not_ask_any_more">"Niet meer vragen bij volgende \"%s\" antwoorden"</string>
   <string name="not_is">Nee</string>
   <string name="not_remind_any_more">Niet meer weergeven</string>
-  <string name="number_of_uploading_finish">Auto-backup albums zijn geback-upt</string>
+  <string name="number_of_uploading_finish">Albums zijn automatisch geback-upt</string>
   <string name="old">Ouderwets</string>
   <string name="open">Inschakelen</string>
   <string name="open_public_message">Genereer een URL en stuur deze door</string>
   <string name="open_public_title">Publiekelijk delen</string>
   <string name="operation_add_album">Toevoegen aan album</string>
   <string name="operation_add_picture">Items toevoegen</string>
-  <string name="operation_add_secret">Toevoegen aan verborgen album</string>
+  <string name="operation_add_secret">Verbergen</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Automatisch back-up uitschakelen</string>
@@ -402,7 +401,7 @@
   <string name="operation_not_show_in_photos_tab">Niet weergegeven in foto\'s tab</string>
   <string name="operation_projection">Cast</string>
   <string name="operation_remove_from_face_album">Uit album verwijderen</string>
-  <string name="operation_remove_secret">Verwijdereen uit verborgen album</string>
+  <string name="operation_remove_secret">Zichtbaar maken</string>
   <string name="operation_save">Opslaan</string>
   <string name="operation_send">Verzenden</string>
   <string name="operation_set_contact_photo">Instellen als contactfoto</string>
@@ -416,7 +415,7 @@
   <string name="operation_unforce_top">Losmaken</string>
   <string name="operation_unhide">Zichtbaar maken</string>
   <string name="orientation_lock_tip">Auto-rotatie vergrendeld</string>
-  <string name="orientation_unlock_tip">Auto-rotatie geopend</string>
+  <string name="orientation_unlock_tip">Auto-rotatie is ingeschakeld</string>
   <string name="original">Origineel</string>
   <string name="original_scale">Originele</string>
   <string name="other_settings">Extra instellingen</string>
@@ -430,7 +429,7 @@
   <string name="paint_highlight">Doodle</string>
   <string name="paint_highlight_cancel_context">Doodle afbeelding opslaan?</string>
   <string name="paint_highlight_cancel_title">Veranderingen niet wijzigen</string>
-  <string name="people_page_label">Gezicht</string>
+  <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
   <string name="petabyteShort">PB</string>
@@ -477,7 +476,7 @@
   <string name="relation_text_mother">Moeder</string>
   <string name="relation_with_you">Relatie kiezen</string>
   <string name="remove_from_secret_fail">Verwijderen uit verborgen album mislukt</string>
-  <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderd worden uit verborgen album. %1$s."</string>
+  <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderd uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items kunnen niet verwijderd worden uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_successful">Verwijderd uit verborgen album</string>
   <string name="rename_face_album">Naam wijzigen</string>
@@ -502,9 +501,9 @@
   <string name="saving_failure">Foto opslaan mislukt</string>
   <string name="scan_barcode_guide">Om een QR code van het album te krijgen, tik op het deel icoon.</string>
   <string name="scan_barcode_to_join">Scan QR code om een album toe te voegen</string>
-  <string name="scan_qr_code_buttom_text">Scan QR code om dit album te bekijken.</string>
+  <string name="scan_qr_code_buttom_text">Scan QR code om dit album te bekijken</string>
   <string name="secret_album_display_name">Verborgen album</string>
-  <string name="secret_reason_space_full">Cloud album is vol</string>
+  <string name="secret_reason_space_full">Cloud albums zijn vol</string>
   <string name="secret_reason_too_large">Bestand is te groot</string>
   <string name="secret_reason_type_not_support">Dit bestandstype wordt niet ondersteund</string>
   <string name="secret_reason_unknow_reasons">Onbekende fout</string>
@@ -512,14 +511,14 @@
   <string name="send_invitation_fail">Kon uitnodiging niet verzenden</string>
   <string name="send_multiple_files_hint_format">Verzend (%s)</string>
   <string name="send_public_url">Verzend album URL</string>
-  <string name="send_too_many_files_error">Kan niet zoveel items verzenden (maximaal %d items).</string>
+  <string name="send_too_many_files_error">Kan niet zoveel items verzenden (tot %d items).</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Instellen als vergrendelscherm achtergrond</string>
-  <string name="set_face_group_toast_msg_new_user">Gezicht ingedrukt houden om deze persoon samen te voegen of te negeren.</string>
+  <string name="set_face_group_toast_msg_new_user">Persoon ingedrukt houden om deze persoon samen te voegen of te negeren.</string>
   <string name="set_face_group_toast_msg_old_user">Een persoon zijn foto ingedrukt houden en tag deze persoon (familie, vrienden, klasgenoten, enz.)</string>
   <string name="set_face_group_toast_title_new_user">Suggestie</string>
   <string name="set_face_group_toast_title_old_user">Personen kunnen gerangschikt worden</string>
-  <string name="set_face_image">Nieuw gezicht instellen</string>
+  <string name="set_face_image">Nieuwe persoon instellen</string>
   <string name="set_group">Groep instellen</string>
   <string name="shadow">Schaduwen</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
@@ -540,14 +539,14 @@
   <string name="slideshow_interval_value">%1$d seconden</string>
   <string name="slim_after_backuped_summary">Vervang volle-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Volle-resolutie foto\'s zijn nog steeds beschikbaar in Mi Cloud. Dit kan heel wat lokale opslag besparen.</string>
   <string name="slim_after_backuped_title">Optimaliseer lokale opslag na back-up</string>
-  <string name="slim_introduce">Vervang volle-resolutie foto\'s/video\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. De volle-resoluties zijn nog steeds beschikbaar in Mi Cloud. Dit kan tot 90% ruimte besparen (Xiaomi account is nodig).</string>
-  <string name="slim_introduce_with_specific_size">Vervang volle-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. De volle-resoluties zijn nog steeds beschikbaar in Mi Cloud. Dit kon tot %1$s besparen (Xiaomi account is nodig).</string>
-  <string name="slim_now">Nu inkrimpen</string>
+  <string name="slim_introduce">Vervang volle-resolutie foto\'s/video\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. De volle-resoluties zijn nog steeds beschikbaar in Mi Cloud. Dit kan veel ruimte besparen op lokale opslag. U hebt een MI account nodig zodat deze functie normaal zou werken.</string>
+  <string name="slim_introduce_with_specific_size">Vervang volle-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. De volle-resoluties zijn nog steeds beschikbaar in Mi Cloud. Dit kon tot %1$s besparen. U hebt een MI account nodig zodat deze functie normaal zou werken.</string>
+  <string name="slim_now">Nu verkleinen</string>
   <string name="slim_result_size">%1$s bespaard</string>
-  <string name="slim_result_title">Met succes ingekrimpt</string>
-  <string name="slim_tip_msg">Albums zullen automatisch worden ingekrimpt wanneer verbonden met Wi-Fi. Download de volle-resolutie bestanden door op \"Download foto\" te klikken op de fotodetail pagina.</string>
-  <string name="slim_tip_title">Inkrimptip</string>
-  <string name="slimming">Inkrimpen…</string>
+  <string name="slim_result_title">Met succes verkleind</string>
+  <string name="slim_tip_msg">Foto zullen automatisch worden verkleind wanneer verbonden met Wi-Fi. Download de volle-resolutie bestanden door op \"Download foto\" te klikken op de fotodetail pagina.</string>
+  <string name="slim_tip_title">Over foto verkleinen</string>
+  <string name="slimming">Verkleinen…</string>
   <string name="square">Vierkant</string>
   <string name="start_to_use_face_albumset">Sorteren op personen</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
@@ -596,9 +595,9 @@
   <string name="view_face_album">Album weergeven</string>
   <string name="view_queuing_status">Status controleren</string>
   <string name="vignette">Vervloeien</string>
-  <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
-  <string name="welcome_to_micloud">Welkom op Mi Cloud</string>
-  <string name="welcome_to_slim">Welkom bij album inkrimping</string>
+  <string name="welcome_to_auto_backup">Welkom op de Mi Cloud</string>
+  <string name="welcome_to_micloud">Welkom op de Mi Cloud</string>
+  <string name="welcome_to_slim">Behoud uw foto\'s, bespaar ruimte</string>
   <string name="where_is_barcode">Waar is de QR code?</string>
   <string name="who_is_this">Wie?</string>
   <string name="xiaomi_account_not_exists_toast">Mi account bestaat niet</string>
