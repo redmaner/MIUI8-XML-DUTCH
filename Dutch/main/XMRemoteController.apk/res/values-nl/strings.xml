@@ -86,6 +86,7 @@
   <string name="check_upgrade">Controleer op updates</string>
   <string name="choose_ac">Kies afstandsbediening</string>
   <string name="choose_address_title">Locatie selecteren</string>
+  <string name="choose_key_to_fix">Selecteer de sleutel die u wilt repareren</string>
   <string name="circlepad_slide_tips">Gebruik de aanraakgevoelige draaischijf om het volume aan te passen</string>
   <string name="click_to_expend">Uitbreiden</string>
   <string name="click_to_login">Klik om aan te melden</string>
@@ -148,6 +149,8 @@
   <string name="eject">Uitwerpen</string>
   <string name="empty_name_tip">&gt;Geef de afstandsbediening een naam</string>
   <string name="epg_all_channels">Alle kanalen</string>
+  <string name="epg_book_all">Alle reserveren</string>
+  <string name="epg_book_count">De gereserveerde %1$s collectie</string>
   <string name="epg_bookable">Reserveren</string>
   <string name="epg_booked">Gereserveerde</string>
   <string name="epg_booked_str">Planning</string>
@@ -158,21 +161,27 @@
   <string name="epg_channel_group_open">Alles weergeven</string>
   <string name="epg_detail_title_text">Uitleg</string>
   <string name="epg_details_episode">Ep. %1$s</string>
+  <string name="epg_edit_channel_name">Kanaal naam</string>
+  <string name="epg_edit_channel_number">Kanaalnummer</string>
+  <string name="epg_edit_channel_title">Kanaal bewerken</string>
   <string name="epg_episode_open">Alles weergeven</string>
-  <string name="epg_fav_channels">Kanaal opslaan</string>
+  <string name="epg_fav_channels">Favoriete kanaal</string>
   <string name="epg_home_sliding_down">Inklappen</string>
   <string name="epg_home_sliding_up">Uitklappen</string>
   <string name="epg_hot_channels">Kanalen</string>
   <string name="epg_hot_programs">Programma\'s</string>
   <string name="epg_loading_hint">Verander van kanaal op uw set-top box met uw telefoon</string>
   <string name="epg_name">TV programma\'s</string>
+  <string name="epg_no_booking_data">Geen programma gereserveerd </string>
   <string name="epg_no_search_result">Geen zoekresultaten</string>
+  <string name="epg_program_detail_more_time_events">Meer zendtijd</string>
   <string name="epg_program_updated_to">Afspelen ingesteld op %1$d</string>
   <string name="epg_search_box_hint">Zoek de tv programma\'s die u wilt zien</string>
   <string name="epg_search_history">Zoekgeschiedenis</string>
   <string name="epg_search_hot_keyword">Populaire zoekopdrachten</string>
   <string name="epg_status_playing_text">Speelt nu…</string>
   <string name="epg_status_playing_text_v5">Wonen</string>
+  <string name="epg_unbook_all">Alles annuleren</string>
   <string name="epg_unbooked_str">Niet gepland</string>
   <string name="epg_user_my_booked_events">Mijn reserveringen</string>
   <string name="epg_user_my_favorite_channel">Favoriete kanalen</string>
@@ -181,7 +190,8 @@
   <string name="exit">Afsluiten</string>
   <string name="external_app">Installeer app</string>
   <string name="external_photo">Foto\'s bekijken</string>
-  <string name="external_video">Bekijk video</string>
+  <string name="external_video">Video afspelen</string>
+  <string name="extra_keys">Uitgebreide sleutel</string>
   <string name="fail_add_controller_photo">Voeg externe foto toe</string>
   <string name="fail_add_device_photo">Voeg apparaat foto toe</string>
   <string name="fail_content">"    Kon geen koppelinfo vinden. U kunt uw feedback versturen naar onze ingenieurs."</string>
@@ -200,6 +210,9 @@
   <string name="feedback_error_tips">Problemen met de afstandsbediening, tik om het probleem te rapporteren</string>
   <string name="find_adb_frame">%1$d ADB apparaten gedetecteerd</string>
   <string name="find_milink_frame">%1$d Mi apparaten gedetecteerd</string>
+  <string name="fix_keys">Herstelknop</string>
+  <string name="fix_keys_success">Met succes hersteld!</string>
+  <string name="fix_keys_tips">Als sommige toetsen moeilijk werken, kunt u die proberen te herstellen</string>
   <string name="from_share">Gedeeld door anderen</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">Kan scherm liggend niet gebruiken bij Gamepadmodus</string>
@@ -240,7 +253,7 @@
   <string name="ir_device_air_cleaner">Luchtreiniger</string>
   <string name="ir_device_air_condition">A/C</string>
   <string name="ir_device_all_ir">Alle</string>
-  <string name="ir_device_amp">Versterker</string>
+  <string name="ir_device_amp">A/V versterker</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
   <string name="ir_device_dvb_s">Settopbox</string>
@@ -313,6 +326,7 @@ Ga terug om door te gaan</string>
   <string name="match_dvd_name_stop">Stop</string>
   <string name="match_fail_frame">Kon %1$d afstandsbediening niet koppelen</string>
   <string name="match_fail_model_hint">Voer modelnummer afstandsbediening in</string>
+  <string name="match_failed">Niet meer gegevens, probeer opnieuw of keer terug</string>
   <string name="match_fan_intro_open">Vrijgeven wanneer ventilator inschakelt</string>
   <string name="match_fan_name_open">Inschakelen</string>
   <string name="match_guide_main_frame">Richt apparaat op %1$s</string>
@@ -320,6 +334,8 @@ Ga terug om door te gaan</string>
   <string name="match_intro_power">Vrijgeven wanneer apparaat inschakelt</string>
   <string name="match_is_respond">Reageerd dit apparaat？</string>
   <string name="match_main_tip_frame">Wijs naar %1$s en druk op de knop</string>
+  <string name="match_main_tip_frame_click">"Richt de afstandsbediening op %1$s en tik op de knop
+En beantwoord de vraag dan"</string>
   <string name="match_mibox_first">    Mi TV gevonden</string>
   <string name="match_mibox_sencond">· Bedien uw Mi TV met dit apparaat.</string>
   <string name="match_mibox_third">· Automatisch andere Mi apparaten toevoegen</string>
@@ -587,6 +603,25 @@ Om je account te activeren, volg de
   <string name="privacy_content">"Lees Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacybeleid&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; voordat u Mi Remote gebruikt. Toegang tot het internet en locatiediensten is nodig voor de app normaal te werken.</string>
   <string name="privacy_nohit">Niet meer opnieuw tonen</string>
   <string name="privacy_title">Algemene voorwaarden</string>
+  <string name="program_booking_book_filter_book_status">Status reserveren</string>
+  <string name="program_booking_book_filter_not_booked">Niet gereserveerd</string>
+  <string name="program_booking_channel_filter_all_channels">Alle kanalen</string>
+  <string name="program_booking_date_filter_day_0">Vandaag</string>
+  <string name="program_booking_date_filter_day_1">Morgen</string>
+  <string name="program_booking_date_filter_day_2">Overmorgen</string>
+  <string name="program_booking_date_filter_friday">Vrijdag</string>
+  <string name="program_booking_date_filter_monday">Maandag</string>
+  <string name="program_booking_date_filter_next">Volgende</string>
+  <string name="program_booking_date_filter_saturday">Zaterdag</string>
+  <string name="program_booking_date_filter_sunday">Zondag</string>
+  <string name="program_booking_date_filter_thursday">Donderdag</string>
+  <string name="program_booking_date_filter_tuesday">Dinsdag</string>
+  <string name="program_booking_date_filter_wednesday">Woensdag</string>
+  <string name="program_booking_date_filter_whole_week">Gans de week</string>
+  <string name="program_booking_time_filter_dawn">Voor dag en dauw</string>
+  <string name="program_booking_time_filter_day">Dag</string>
+  <string name="program_booking_time_filter_night">"'s Avonds"</string>
+  <string name="program_booking_time_filter_whole_day">Dag</string>
   <string name="projection_failed_for_disconnect">Apparaten niet verbonden</string>
   <string name="province">Provincie</string>
   <string name="pull_down_refresh">Naar beneden trekken om te vernieuwen</string>
@@ -604,6 +639,7 @@ Om je account te activeren, volg de
   <string name="refreshing_no_point">Vernieuwen…</string>
   <string name="refreshing_retry">Kon niet laden, probeer opnieuw</string>
   <string name="release_to_refresh">Loslaten om te vernieuwen</string>
+  <string name="rematch">Opnieuw koppelen</string>
   <string name="remote_controller_name">Mi afstandsbediening</string>
   <string name="rename">Naam wijzigen</string>
   <string name="rename_hint">Voer apparaatnaam in</string>
@@ -711,7 +747,7 @@ Om je account te activeren, volg de
   <string name="start_match">Koppelen</string>
   <string name="stb">Settopbox</string>
   <string name="stb_detail_title_frame">%1$s - %2$d</string>
-  <string name="stb_power">Set-top box aan/uit</string>
+  <string name="stb_power">STB aan/uit</string>
   <string name="steps">Poging #%d</string>
   <string name="stop_diagnosis">Stoppen</string>
   <string name="study_room">Bestuderen</string>
@@ -786,7 +822,7 @@ Om te wijzigen, lang drukken op de TV power knop"</string>
   <string name="weather_out">Temperatuur buiten:</string>
   <string name="wechat_account">WeChat account</string>
   <string name="wind_direct">Richting</string>
-  <string name="wind_direct_automatic">Draaien</string>
+  <string name="wind_direct_automatic">Draaiend</string>
   <string name="wind_direct_down">Omlaag</string>
   <string name="wind_direct_manual">Vast</string>
   <string name="wind_direct_middle">Midden</string>
@@ -796,7 +832,7 @@ Om te wijzigen, lang drukken op de TV power knop"</string>
   <string name="wind_speed_high">Hoog</string>
   <string name="wind_speed_low">Laag</string>
   <string name="wind_speed_medium">Normaal</string>
-  <string name="wind_sweep">Ventilator</string>
+  <string name="wind_sweep">Draaien</string>
   <string name="wx_not_installed">Je hoeft geen micro channel client te installeren</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Ja</string>

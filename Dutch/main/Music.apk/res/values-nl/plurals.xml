@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d nummers&lt;/font> gedownload</item>
+        <item quantity="one">&lt;font color==\"red\">%d nummer&lt;/font> gedownload</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d nummers&lt;/font> bezig met downloaden</item>
+        <item quantity="one">&lt;font color==\"red\">%d nummer&lt;/font> bezig met downloaden</item>
+    </plurals>
   <plurals name="Ntracks_search_result">
         <item quantity="other">%d nummers gevonden</item>
         <item quantity="one">%d nummers gevonden</item>
