@@ -19,6 +19,9 @@
   <string name="accessibility_time_picker_second">Seconde</string>
   <string name="account_prifix">Account:</string>
   <string name="action">Aanmelden</string>
+  <string name="action_menu_account_not_login">Niet aangemeld</string>
+  <string name="action_menu_account_not_login_hint">Gebruik de cloud instellingen bij aanmelden</string>
+  <string name="action_menu_bookshelf">Boekenplank</string>
   <string name="action_menu_current_version">Huidige versie</string>
   <string name="action_menu_text_add_bookmark">Blw. toev.</string>
   <string name="action_menu_text_bandwidth">Databespaarder</string>
@@ -40,6 +43,9 @@
   <string name="action_menu_text_share">Delen</string>
   <string name="action_menu_text_snapshot">Pagina opslaan</string>
   <string name="action_menu_text_video">Video</string>
+  <string name="action_menu_toolbox">Toolbox</string>
+  <string name="action_menu_useful_page">Bruikbare toevoegen</string>
+  <string name="action_menu_useful_page_added">Bruikbare toegevoegd</string>
   <string name="actionbar_share">Delen</string>
   <string name="actionbar_web_search">Voer URL  in of zoeken op het web</string>
   <string name="adblock_notification">%d advertenties geblokkeerd</string>
@@ -145,6 +151,8 @@
   <string name="color_picker_hue">Tint</string>
   <string name="color_picker_saturation">Verzadiging</string>
   <string name="color_picker_value">Waarde</string>
+  <string name="comment_app_menu">opmerking</string>
+  <string name="comment_menu">opmerking</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -180,6 +188,10 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefoon</string>
+  <string name="custom_head_card_text">"Altijd geloven dat iets prachtigs staat 
+te gebeuren"</string>
+  <string name="custom_head_card_text_incognito">"Alleen God en jij weet dat 
+privé scherm"</string>
   <string name="data_traffic_prompt_change">Het gebruik van mobiele gegevensverbinding om video\'s te bekijken zal uw dataverbruik verhogen. Als u een datalimiet hebt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_message">Het gebruik van mobiele dataverbinding om te bladeren in video\'s zal uw dataverbruik verhogen. Als u een datalimiet hebt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_title">Waarschuwing datagebruik</string>
@@ -319,6 +331,7 @@ Deze pagina verlaten?"</string>
   <string name="license_activity_title">Systeem WebView licenties</string>
   <string name="loading_tips">Naar beneden trekken om te vernieuwen</string>
   <string name="local_bookmarks">Mi</string>
+  <string name="login_failed_toast">Aanmelden mislukt, vernieuwen.</string>
   <string name="low_memory_error">Niet in staat om de vorige bewerking te voltooien vanwege laag geheugen</string>
   <string name="max_tabs_warning">Geen tabbladen meer beschikbaar</string>
   <string name="maximum_input_alert">Maximaal 2048 tekens invoeren</string>
@@ -577,6 +590,7 @@ Deze pagina verlaten?"</string>
   <string name="remove_history_item">Uit geschiedenis verwijderen</string>
   <string name="remove_snapshot">Opgeslagen pagina verwijderen</string>
   <string name="removed_from_bookmarks">Verwijderd uit bladwijzers</string>
+  <string name="reply_comment_title">Beantwoord: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">Kan niet verbinden met netwerk</string>
   <string name="retry_download">Opnieuw proberen</string>
@@ -630,6 +644,8 @@ Deze pagina verlaten?"</string>
   <string name="security_warnings_confirm_message">Deze functie uitschakelen kan veiligheidsrisico\'s veroorzaken.</string>
   <string name="select_dot">Tekst selecteren</string>
   <string name="select_download_device">Apparaat kiezen</string>
+  <string name="send_comment_button">verzenden</string>
+  <string name="send_comment_title">opmerking</string>
   <string name="share_page_text">"Ik geniet van 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">De URL van deze website wordt verzonden naar servers van Xiaomi om de veiligheid te verifiëren. U kunt deze functie op elk moment uitschakelen in Instellingen.</string>
   <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>

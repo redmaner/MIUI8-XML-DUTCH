@@ -7,13 +7,13 @@
   <string name="Settings_title_garbage_cleanup">Prullenbak opruiminstellingen</string>
   <string name="Settings_title_network_assistants">Netwerkassistent instellingen</string>
   <string name="Settings_title_power_center">Batterij instellingen</string>
-  <string name="access_control_need_password">"%sBlokkering met succes toegevoegd
+  <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
-  <string name="access_control_need_to_unlock">"Deblokkeren met vingerafdruk
-of voer wachtwoord in"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Voer deblokkeringswachtwoord in</string>
+  <string name="access_control_need_to_unlock">"Scan met vingerafdruk
+of voer een app blokkeringswachtwoord in"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Voer app blokkeringswachtwoord in</string>
   <string name="access_control_recording_intro_header">Teken een patroon om appblokkering toe te voegen</string>
-  <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om appblokkering te resetten</string>
+  <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om app blokkeringswachtwoord te resetten</string>
   <string name="activity_title_antispam">Zwarte lijst</string>
   <string name="activity_title_antivirus">Virusscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -165,7 +165,7 @@ of voer wachtwoord in"</string>
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Nu herstarten</string>
   <string name="cmcc_app_check_dialog_title">Systeem hersteld</string>
-  <string name="confirm_fingerprint_msg">Plaats uw vinger op de vingerafdrukscanner</string>
+  <string name="confirm_fingerprint_msg">Plaats uw vinger op de sensor</string>
   <string name="confirm_reject_all_permission">Alle apps beperken om deze functie te gebruiken?</string>
   <string name="connect_internet_by_mobiledata">Mobiele dataverbinding</string>
   <string name="connect_internet_by_usbshare">Deel internet via USB</string>
@@ -288,16 +288,16 @@ of voer wachtwoord in"</string>
   <string name="examination_score_80_100_with_recommend">%d items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_80_60">Sommige items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
-  <string name="finger_remind_message">Appblokkering ondersteunt vingerafdruk deblokkering. Vingerafdruk toevoegen?</string>
-  <string name="fingerprint_identify_msg">Vingerafdruk scannen…</string>
+  <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor app blokkering</string>
+  <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om uw apparaat te deblokkeren, voer uw wachtwoord in.</string>
   <string name="fingerprint_not_remind">Niet meer vragen</string>
   <string name="fingerprint_remind_dialog_title">Vingerafdruk deblokkering</string>
   <string name="fingerprint_to_lock">Deblokkeren met vingerafdruk</string>
-  <string name="fingerprint_verification">Vingerafdruk verificatie</string>
-  <string name="fingerprint_verification_message">Verifieer de huidige vingerafdrukken om deze functie beginnen te gebruiken.</string>
-  <string name="fingerprint_verify_failed">Kon niet worden geverifieerd</string>
-  <string name="fingerprint_verify_succeed">Geverifieerd</string>
+  <string name="fingerprint_verification">Vingerafdruk scannen</string>
+  <string name="fingerprint_verification_message">Scan uw vingerafdruk om deze functie te gebruiken.</string>
+  <string name="fingerprint_verify_failed">Kon vingerafdruk niet bevestigen</string>
+  <string name="fingerprint_verify_succeed">Vingerafdruk bevestigd</string>
   <string name="fingerprint_verify_try_agin">Kon niet scannen, probeer opnieuw</string>
   <string name="firewall_activity_lable">Dataverbruik beperken per app, strikt dataverbruik per app</string>
   <string name="firewall_applist">Apps</string>
@@ -327,7 +327,7 @@ of voer wachtwoord in"</string>
   <string name="gateway_exception_summary2">Kan niet verbinden met server</string>
   <string name="gateway_exception_title">Test router</string>
   <string name="gigabyteShort">GB</string>
-  <string name="go_to_setting_fingerprint">Ga naar instellingen</string>
+  <string name="go_to_setting_fingerprint">Instellingen</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Geheugen</string>
   <string name="handle_text_system">Systeem</string>
@@ -424,13 +424,13 @@ of voer wachtwoord in"</string>
   <string name="lockpattern_need_to_confirm">Teken het patroon opnieuw om te bevestigen</string>
   <string name="lockpattern_need_to_unlock">Bevestig het opgeslagen patroon</string>
   <string name="lockpattern_need_to_unlock_wrong">Probeer opnieuw</string>
-  <string name="lockpattern_pattern_confirmed_header">Uw nieuwe ontgrendelpatroon</string>
+  <string name="lockpattern_pattern_confirmed_header">Nieuw ontgrendelpatroon</string>
   <string name="lockpattern_pattern_entered_header">Patroon toegevoegd</string>
   <string name="lockpattern_recording_incorrect_too_short">Verbind ten minste %d punten</string>
-  <string name="lockpattern_recording_inprogress">Verwijder uw vinger nadat het patroon volledig is</string>
+  <string name="lockpattern_recording_inprogress">Wanneer klaar verwijder uw vinger</string>
   <string name="lockpattern_recording_intro_header">Verbind ten minste 4 punten om een patroon te maken</string>
   <string name="lockpattern_retry_button_text">Opnieuw tekenen</string>
-  <string name="lockpattern_settings_help_how_to_record">Hoe een patroon tekenen</string>
+  <string name="lockpattern_settings_help_how_to_record">Teken een patroon</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wacht %d seconden en probeer opnieuw.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel mislukte pogingen!</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
@@ -965,7 +965,7 @@ of voer wachtwoord in"</string>
   <string name="scanning_bar_system_title">Systeem scannen…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">Appblokkering</string>
+  <string name="security_app_lock">App blokkering</string>
   <string name="security_scan_optimizing">Optimaliseren…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Patroon selecteren</string>
@@ -998,6 +998,7 @@ of voer wachtwoord in"</string>
   <string name="suffix_virus_count_bottom">Totaal</string>
   <string name="suffix_virus_count_top">"Risico's"</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
+  <string name="summary_app_lock_disable">Blokkeer apps om uw privacy te beschermen</string>
   <string name="summary_cleaner_cloudscan">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_cloud_account">Haal het meeste uit uw Mi apparaat</string>
   <string name="summary_cloud_service">"Sync. uw foto's, contactpersonen en meer op al uw apparaten"</string>
@@ -1109,7 +1110,7 @@ of voer wachtwoord in"</string>
   <string name="text_button">Begrepen</string>
   <string name="text_day"/>
   <string name="text_lock_info">Teken deblokkeringspatroon</string>
-  <string name="third_application">Apps van derden</string>
+  <string name="third_application">Geïnstalleerde apps</string>
   <string name="three_percent_total_pkg">%s (3%% maandelijkse data)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
@@ -1119,6 +1120,7 @@ of voer wachtwoord in"</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Weet u uw datalimiet niet</string>
   <string name="tips_message">"Om je dataplan te bekijken, bel %2$s (%1$s)."</string>
+  <string name="title_app_lock_disable">Blokkeer apps</string>
   <string name="title_app_update">Updates beschikbaar</string>
   <string name="title_cleaner_cloudscan">Mapnamen uploaden</string>
   <string name="title_cloud_account">Mi Account</string>
