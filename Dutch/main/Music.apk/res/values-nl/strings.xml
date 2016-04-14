@@ -43,7 +43,7 @@
   <string name="all_tracks_short">Alle nummers</string>
   <string name="already_download">Bezig met downloaden…</string>
   <string name="already_favorited">Reeds bij favorieten</string>
-  <string name="android_sdk_too_low">Android versie is te laag is, kan de muziek niet upgraden. Updaten </string>
+  <string name="android_sdk_too_low">Android versie is te laag, kan de muziek niet upgraden. Updaten </string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
@@ -58,7 +58,8 @@
   <string name="auto_download_in_wifi">Download favoriete nummers met Wi-Fi</string>
   <string name="auto_payment">Automatisch vernieuwen</string>
   <string name="auto_payment_date">Volgende betaling: %s</string>  
-  <string name="auto_restart_under_wifi">Wi-Fi zal dit bestand automatisch downloaden</string><string name="avail_services">Beschikbaar</string>
+  <string name="auto_restart_under_wifi">Wi-Fi zal dit bestand automatisch downloaden</string>
+  <string name="avail_services">Beschikbaar</string>
   <string name="available_playlist_name_format">Nieuwe afspeellijst %d</string>
   <string name="avoid_to_use_traffic_summary">Gebruik nooit mobiele netwerken om muziek te streamen</string>
   <string name="avoid_to_use_traffic_title">Gebruik alleen Wi-Fi om te streamen</string>
@@ -135,18 +136,18 @@
   <string name="dialog_button_scan_tracks">Zoek naar muziek op dit apparaat</string>
   <string name="dialog_cannot_resume">Download onderbroken. Het kan niet worden hervat.</string>
   <string name="dialog_confirm_delete_checkbox_message">Ook lokale bestanden verwijderen</string>
-  <string name="dialog_confirm_delete_downloads_message">Verwijder %d taken?</string>
+  <string name="dialog_confirm_delete_downloads_message">%d taken verwijderen?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Deze taken verwijderen</string>
   <string name="dialog_failed_body">Wilt u later opnieuw proberen om het bestand te downloaden of verwijderen uit de wachtrij?</string>
   <string name="dialog_file_already_exists">Kan niet downloaden. Het bestemmingsbestand bestaat al.</string>
   <string name="dialog_file_missing_body">Het gedownloade bestand kan niet gevonden worden.</string>
   <string name="dialog_file_missing_title">Kan bestand niet openen</string>
   <string name="dialog_hint_music_error">Geen nummers gevonden</string>
-  <string name="dialog_insufficient_space_on_cache">Kan download niet afmaken. Er is niet genoeg ruimte op de interne download opslag.</string>
+  <string name="dialog_insufficient_space_on_cache">Kan download niet afmaken. Er is niet genoeg ruimte op de interne downloadopslag.</string>
   <string name="dialog_insufficient_space_on_external">Kan download niet afmaken. Er is niet genoeg ruimte op de externe opslag.</string>
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
   <string name="dialog_not_show_again">Niet meer tonen</string>
-  <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor eentoekomstige download.</string>
+  <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
   <string name="dialog_title_add_playlist">Afspeellijst toevoegen</string>
   <string name="dialog_title_delete_tracks">Verwijderen</string>
   <string name="dialog_title_name_playlist">Naam afspeellijst</string>
@@ -195,14 +196,14 @@
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei download versneller is ingeschakeld</string>
   <string name="download_list_get_hightspeed_flow_pay_ok">Betaling voltooid.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei trial sessie aangemaakt</string>
-  <string name="download_list_get_hightspeed_flow_sucess_tail">Geniet van een snellere download snelheden powered by Xunlei</string>
+  <string name="download_list_get_hightspeed_flow_sucess_tail">Geniet van snellere downloadsnelheden powered by Xunlei</string>
   <string name="download_manage">Downloads</string>
   <string name="download_manage_item_complete">VOLTOOID</string>
   <string name="download_method">Download</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
   <string name="download_paused">Download gepauzeerd</string>
   <string name="download_paused_in_power_save_mode">Het apparaat is in energiebesparende modus, download gepauzeerd</string>
-  <string name="download_pending">Download hangt</string>
+  <string name="download_pending">Download in de wacht</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">Downloaden…</string>
   <string name="download_quality">Downloadkwaliteit</string>
@@ -216,8 +217,8 @@
   <string name="download_success">Voltooid</string>
   <string name="download_title_sorted_by_date">Downloads - Gesorteerd op datum</string>
   <string name="download_title_sorted_by_size">Downloads - Gesorteerd op grootte</string>
-  <string name="download_traffic_dialog_buy_package">Koop en muziek data plan</string>
-  <string name="download_traffic_dialog_msg">Het gebruik van uw mobiele dataverbinding om muziek te downloaden kan uw data gebruikskosten verhogen</string>
+  <string name="download_traffic_dialog_buy_package">Koop muziekdataplan</string>
+  <string name="download_traffic_dialog_msg">Het gebruik van uw mobiele dataverbinding om muziek te downloaden kan uw datakosten verhogen</string>
   <string name="download_traffic_dialog_negative_button">Wachten op Wi-Fi</string>
   <string name="download_traffic_dialog_position_button">Eenmaal downloaden</string>
   <string name="download_unknown_title">&lt;Naamloos&gt;</string>
@@ -413,7 +414,7 @@
   <string name="music_filter">Filter audiobestanden</string>
   <string name="music_service">Muziekservice</string>
   <string name="music_settings">Muziek</string>
-  <string name="music_traffic">Mi Muziek data plan</string>
+  <string name="music_traffic">Mi Muziek dataplan</string>
   <string name="music_traffic_summary">Beluister en download nummers zonder dataverbruik</string>
   <string name="my_account">Mi account</string>
   <string name="my_music_empty">Afspeellijst is leeg</string>
@@ -464,7 +465,7 @@
   <string name="notification_headset_custom">Weigeren</string>
   <string name="notification_headset_info">Tik om instellingen weer te geven.</string>
   <string name="notification_headset_settings">Hoofdtelefoon verbonden</string>
-  <string name="notification_need_wifi_for_size">Download grootte vereist Wi-Fi.</string>
+  <string name="notification_need_wifi_for_size">Downloadgrootte vereist Wi-Fi.</string>
   <string name="notification_title_no_song">Controleer waar iedereen naar luistert!</string>
   <string name="nowplaying_menu_item_delete">Verwijderen</string>
   <string name="ok">OK</string>
@@ -478,8 +479,8 @@
   <string name="order_pending">Bevestiging afwachten</string>
   <string name="order_process_fail">Kon je account niet verifiëren. Probeer het later opnieuw.</string>
   <string name="other_filter">Andere</string>
-  <string name="othor_song_in_album">Andere nummers in zelfde Album.</string>
-  <string name="package_filter">Pakketen</string>
+  <string name="othor_song_in_album">Andere nummers in zelfde album.</string>
+  <string name="package_filter">Pakketten</string>
   <string name="pause_download">Pauze</string>
   <string name="paused_by_app">Gepauzeerd</string>
   <string name="paused_in_power_save_mode">Gepauzeerd in energiebesparende modus</string>
@@ -502,12 +503,12 @@
   <string name="please_search_or_select">Zoek of selecteer een veld</string>
   <string name="please_select_song">Een nummer kiezen</string>
   <string name="power_save_mode_dialog_msg">Het apparaat is in de energiebesparende modus. Het downloaden nu starten?</string>
-  <string name="pref_download_settings_title">Download grootte limiet</string>
+  <string name="pref_download_settings_title">Limiet downloadgrootte</string>
   <string name="pref_summary_any_bytes_popup">Altijd wachten op Wi-Fi verbinding om bestanden te downloaden</string>
   <string name="pref_summary_enable_max_bytes_popup">Toon popup melding bij het gebruik van mobiele dataverbinding om de inhoud te downloaden</string>
-  <string name="pref_summary_max_bytes_limit_format">Wacht op Wi-Fi als bestand groter dan %s is</string>
+  <string name="pref_summary_max_bytes_limit_format">Wacht op Wi-Fi als bestand groter is dan %s</string>
   <string name="pref_summary_no_limit_popup">Onbeperkt</string>
-  <string name="pref_title_enable_max_bytes_popup">Geef meteen het dataverbruik weer </string>
+  <string name="pref_title_enable_max_bytes_popup">Geef meteen het dataverbruik weer</string>
   <string name="preferences_title">Instellingen</string>
   <string name="preset_music_playlist">Mi Music afspeellijst</string>
   <string name="presonal_center">Account Instellingen</string>
@@ -524,12 +525,12 @@
   <string name="project_device_mobile">Mobiel apparaat</string>
   <string name="radar">ACRCloud</string>
   <string name="radar_click_to_retry">Klik om opnieuw te proberen</string>
-  <string name="radar_fail">Geen resultat</string>
+  <string name="radar_fail">Geen resultaten</string>
   <string name="radar_fail_by_noise">Het kan misschien te luid zijn</string>
-  <string name="radar_listening_state">Herkening is bezig</string>
+  <string name="radar_listening_state">Herkenning is bezig</string>
   <string name="radar_possible_result">Mogelijke nummers</string>
   <string name="radar_retry">Probeer opnieuw</string>
-  <string name="radar_searching_state">Is bezig aan het zoeken</string>
+  <string name="radar_searching_state">Is bezig met zoeken</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Nu betalen?</string>
   <string name="recommend_fragment_title">Aanbevolen</string>
@@ -548,7 +549,7 @@
   <string name="restart_immediate">Nu herstarten</string>
   <string name="resume_download">Hervatten</string>
   <string name="retry">Opnieuw proberen</string>
-  <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer u dataverbinding en probeer het opnieuw.</string>
+  <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer uw dataverbinding en probeer het opnieuw.</string>
   <string name="retry_download">Opnieuw proberen</string>
   <string name="ringtone_not_support">Het formaat wordt niet ondersteund.</string>
   <string name="root_downloads">Downloads</string>
@@ -688,7 +689,7 @@
   <string name="trigger_to_scan_media_library_finish">Vernieuwen voltooid</string>
   <string name="trigger_to_scan_media_library_processing">Bezig met vernieuwen</string>
    <string name="traffic_network_alert">Mi Muziek data plan</string>
-  <string name="traffic_network_alert_message">Je gebruikt Mi Muziek data plan geleverd door China Unicom. U moet verbinding maken met een 3G netwerk om nummers streamen zonder mobiele data te verbruiken . Zorg ervoor dat je de netwerkinstellingen controleerd voordat muziek u streamd.</string>
+  <string name="traffic_network_alert_message">Je gebruikt Mi Muziek dataplan geleverd door China Unicom. U moet verbinding maken met een 3G netwerk om nummers streamen zonder mobiele data te verbruiken . Zorg ervoor dat je de netwerkinstellingen controleert voordat u muziek streamt.</string>
   <string name="trigger_to_scan_media_library_start">Vernieuwen…</string>
   <string name="turn_off_xunlei_tips">Xunlei download versnelling is uitgeschakeld</string>
   <string name="ultra_high_quality">Hoogste</string>
@@ -700,7 +701,7 @@
   <string name="upgrade_immediate">Update nu</string>
   <string name="upgrade_membership">Meer ruimte verkrijgen</string>
   <string name="upgrade_music">Muziek updaten</string>
-  <string name="upgrade_music_message">Pakket is klaar. Herstart om up te daten.</string>
+  <string name="upgrade_music_message">Pakket is klaar. Herstart om te updaten.</string>
   <string name="upgrade_nobeta">We zullen onze huidige streamingservice stopzetten terwijl auteursrechtelijke kwesties worden opgelost. Excuses voor het ongemak</string>
   <string name="upgrade_remind">Update beschikbaar</string>
   <string name="upgrade_services">Upgrade diensten</string>
@@ -721,12 +722,12 @@
   <string name="vip_required">Premium muziekpakket verkrijgen om dit nummer af te spelen. We hebben dit nummer overgeslagen voor jou.</string>
   <string name="vip_required_with_song">Premium muziekpakket verkrijgen om “%s” af te spelen. We hebben dit nummer overgeslagen voor jou.</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">Je bent niet langer verbonden met Wi-Fi. Uw mobiele dataverbinding gebruik om deze download te voltooien zal uw dataverbruik verhogen. Als u over uw datalimiet gaat, kan uw provider extra kosten aanrekenen.</string>
+  <string name="warning_tip_content">Je bent niet langer verbonden met Wi-Fi. Uw mobiele dataverbinding gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Als u over uw datalimiet gaat, kan uw provider extra kosten aanrekenen.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Dataverbruik waarschuwing</string>
   <string name="welcome_to_new_music">Welkom op de nieuwe versie van Mi Muziek</string>
   <string name="wifi_required_body" formatted="false">"U moet Wi-Fi gebruiken om deze %s download te voltooien. 
 
-Raak %s aan om deze download te starten de volgende keer dat u bent verbonden een Wi-Fi netwerk."</string>
-  <string name="wifi_required_title">Download te groot voor provider netwerk</string>
+Raak %s aan om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
+  <string name="wifi_required_title">Download te groot voor providernetwerk</string>
 </resources>
