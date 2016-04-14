@@ -155,7 +155,6 @@
   <string name="att_download_failed_content">Download mislukt</string>
   <string name="att_download_failed_network_slow">Verbinding is te traag, probeer later opnieuw</string>
   <string name="att_download_failed_title">Download van bijlage mislukt</string>
-  <string name="att_download_failed_permission_denied">Geen toestemming om toegang te krijgen tot extern geheugen</string>
   <string name="att_file_not_exists">Kon %s bestand niet vinden</string>
   <string name="att_mgr_no_attachment">Geen bijlagen</string>
   <string name="att_mgr_title_order_mime">Opmaak</string>
@@ -221,7 +220,7 @@
   <string name="clear_display_images_whitelist_dialog_title">"Goedkeuringen voor foto's verwijderen?"</string>
   <string name="clear_display_images_whitelist_title">"Goedkeuringen voor foto's verwijderen"</string>
   <string name="click_download_all_content">[Tik op om inhoud te downloaden]</string>
-  <string name="click_to_reload">Tik op scherm om te vernieuwen</string>
+  <string name="click_to_reload">Klik op scherm om te herladen</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
   <string name="compose_attachment_number_limit">kan niet meer dan 10 bijlagen toevoegen</string>
@@ -328,7 +327,6 @@
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
   <string name="download_message_failed_for_too_large">Bericht is te groot om te downloaden.</string>
-  <string name="download_whole_email">Download de rest van de inhoud</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Navigatie lader sluiten</string>
   <string name="drawer_open">Navigatie lader openen</string>
@@ -358,8 +356,6 @@
   <string name="feedback">Feedback verzenden</string>
   <string name="feedback_body">Feedback informatie</string>
   <string name="feedback_sent">Bedankt voor uw feedback. We zullen blijven verbeteren voor u</string>
-  <string name="feedback_user_edit_hint">Beschrijf het probleem hier. Wij sturen je een e-mail nadat we er naar hebben gekeken.</string>
-  <string name="feedback_user_edit_tag">Van MIUI </string>
   <string name="fetching_attachment">Bijlage ophalen</string>
   <string name="file_deleted_success">Bestand verwijderd</string>
   <string name="file_not_found">Kon bestand niet vinden</string>
@@ -440,18 +436,18 @@
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Wachtwoord van de inkomende e-mailserver is fout</string>
-  <string name="info_actionbar_normal_detail">Details</string>
-  <string name="info_actionbar_subscribe">Nieuwsfeed</string>
+  <string name="info_actionbar_normal_detail">Artikel details</string>
+  <string name="info_actionbar_subscribe">Abonneelijn</string>
   <string name="info_item_from">Van </string>
   <string name="info_item_hide">Verbergen</string>
-  <string name="info_loading">Laden…</string>
+  <string name="info_loading">Laden</string>
   <string name="info_name_title">NIEUWS</string>
-  <string name="info_no_message">Geen artikels om te bekijken</string>
-  <string name="info_no_more_message">Geen items meer om te bekijken</string>
-  <string name="info_switch_summary">Topnieuws bekijken</string>
+  <string name="info_no_message">Geen artikels</string>
+  <string name="info_no_more_message">Er is niets meer</string>
+  <string name="info_switch_summary">Open Postvak In Topnieuws</string>
   <string name="info_switch_title">Inbox nieuws</string>
-  <string name="info_sync_error">Kon niet sync., probeer later opnieuw.</string>
-  <string name="information_subscribe_first_intro">Het lijkt erop dat u Nieuwsfeed voor de eerste keer gebruikt. Vertel ons over uw interesses zodat we ook uw nieuws kunnen personaliseren.</string>
+  <string name="info_sync_error">Sync. fout, probeer later opnieuw.</string>
+  <string name="information_subscribe_first_intro">Dit is de eerste maal dat u 「Abboneer」 gebruikt,selecteert u een aantal van de tags die u geïnteresseerd in bent, zodat we kunnen aanbeveling naar de hand van uw inhoud~</string>
   <string name="inline_picture_deleted">Downloaden van ontbrekende afbeelding…</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
   <string name="invalid_recipient">Het adres \"%s\" is ongeldig.</string>
@@ -473,7 +469,7 @@
   <string name="mail_body_turncated">Deze e-mail is te groot om te laden, kan slechts een deel weergeven, probeer later op de PC</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerd account</string>
-  <string name="mailbox_name_display_ad">Adv &amp; meldingen</string>
+
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
   <string name="mailbox_name_display_junk">Ongewenst</string>
@@ -521,7 +517,7 @@
   <string name="menu_att_mgr_order_size">Sorteren op grootte</string>
   <string name="menu_change_folders">Mappen wijzigen</string>
   <string name="menu_compose">Opstellen</string>
-  <string name="menu_discovery">Ontdek</string>
+  <string name="menu_discovery">Te ontdekken</string>
   <string name="menu_folder_options">Synchronisatieopties</string>
   <string name="menu_move_to">Verplaatsen naar</string>
   <string name="menu_move_to_inbox">Naar Postvak IN</string>
@@ -555,20 +551,19 @@
   <string name="move_to_selection_dialog_title">Verplaatsen naar een andere map</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Dempen</string>
-  <string name="net_check_title">Kon niet verbinden met netwerk. Controleer de instellingen en probeer opnieuw.</string>
+  <string name="net_check_title">Kon niet verbinden met netwerk. Controleer de netwerkinstellingen en probeer opnieuw.</string>
   <string name="network_error">Geen verbinding</string>
   <string name="network_not_available">Netwerkfout, controleer het netwerk</string>
-  <string name="network_try_again">Controleer de netwerkverbinding en probeer opnieuw</string>
+  <string name="network_try_again">Controleer het netwerk</string>
   <string name="network_unavailable">Netwerk niet beschikbaar</string>
   <string name="new_incoming_messages_one">Nieuw bericht van %s. Weergeven.</string>
   <string name="new_messages">%1$d nieuwe berichten</string>
   <string name="next_action">Volgende</string>
   <string name="no">Nee</string>
-  <string name="no_address_email">noodadresemail@123.com</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
   <string name="no_application_found_title">Open deze bijlage.</string>
   <string name="no_contacts">Geen contacten</string>
-  <string name="no_content_in_body">[No Body]</string>
+  <string name="no_content_in_body">[Geen opbouw]</string>
   <string name="no_conversations">Geen berichten.</string>
   <string name="no_mails">Geen mails</string>
   <string name="no_matched_attachment">Geen overeenkomende bijlagen</string>
@@ -677,7 +672,7 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Trek naar beneden om te vernieuwen</string>
-  <string name="pull_up_to_load_more">Omhoog trekken om meer te laden</string>
+  <string name="pull_up_to_load_more">Laad op krijgt meer</string>
   <string name="push_wps_better_confirm_download">Downloaden</string>
   <string name="push_wps_better_confirm_exit">Nu niet</string>
   <string name="push_wps_better_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
@@ -867,9 +862,9 @@
   <string name="upload_log">Upload logs</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
   <string name="upload_log_no">Annueleren</string>
-  <string name="upload_log_success">Met succes verzonden. We zullen snel contact met u opnemen</string>
-  <string name="upload_log_title">Verstuur logs om ons te helpen WPS Mail te verbeteren</string>
-  <string name="upload_log_yes">Verzenden</string>
+  <string name="upload_log_success">logs met succes verzonden.</string>
+  <string name="upload_log_title">Verzend log naar Xiaomi</string>
+  <string name="upload_log_yes">Opladen</string>
   <string name="uploading_logs">Een momentje…</string>
   <string name="validation_failed_prompt">Kan account niet bevestigen, controleer de server instellingen voor %s"</string>
   <string name="veiled_address"/>
@@ -886,7 +881,7 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_other_views">Overige</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="yes">Ja</string>
-  <string name="yidianzixun">Yi Dian Zixun</string>
+  <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Log verzenden door gebruik van mobiele data verbinding? Als je over datalimiet zit kan uw kan je provider extra kosten aanrekenen.</string>
   <string name="zip_viewer_no_file">Geen bestanden</string>
 </resources>
