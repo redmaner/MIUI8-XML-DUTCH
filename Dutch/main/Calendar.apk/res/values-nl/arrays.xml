@@ -37,6 +37,7 @@
         <item>1 dag</item>
         <item>2 dagen</item>
         <item>1 week</item>
+	</string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Standaardlandinstelling</item>
         <item>Zaterdag</item>
@@ -203,14 +204,15 @@
         <item>1 dag</item>
         <item>2 dagen</item>
         <item>1 week</item>
-<string-array name="travel_reminder_minutes_labels">
+	</string-array>
+    <string-array name="travel_reminder_minutes_labels">
         <item>3 uur</item>
         <item>4 uur</item>
         <item>5 uur</item>
         <item>6 uur</item>
         <item>1 dag</item>
     </string-array>	
- <string-array name="repeat_frequency_spinner">
+    <string-array name="repeat_frequency_spinner">
         <item>Dag</item>
         <item>Week</item>
         <item>Maand</item>
