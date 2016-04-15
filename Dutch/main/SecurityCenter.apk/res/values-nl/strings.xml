@@ -142,7 +142,7 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="button_text_known">OK</string>
   <string name="button_text_next_step">Volgende</string>
   <string name="button_text_next_step_timer">Volgende stap (%d)</string>
-  <string name="button_text_quick_clean">Optimaliseer</string>
+  <string name="button_text_quick_clean">Optimaliseren</string>
   <string name="button_text_reject">Weigeren</string>
   <string name="button_text_reject_timer">Weiger (%d)</string>
   <string name="button_text_security">Beveiliging</string>
@@ -273,9 +273,9 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="empty_title_auto_start_list">Geen autostart apps</string>
   <string name="empty_title_manual_item_white_list">Geen uitzonderingen.</string>
   <string name="empty_title_perm_apps">Apps hebben deze toestemming niet</string>
-  <string name="empty_title_permission_apps_list">Geen apps</string>
-  <string name="empty_title_risk_list">Geen risico apps</string>
-  <string name="empty_title_root_apps">Geen enkele app heeft roottoegang</string>
+  <string name="empty_title_permission_apps_list">Geen apps.</string>
+  <string name="empty_title_risk_list">Geen risicovolle apps</string>
+  <string name="empty_title_root_apps">Geen enkele app heeft roottoegang.</string>
   <string name="empty_title_system_cache_list">Systeemcache leeg</string>
   <string name="empty_title_system_process_list">Geen systeemprocessen</string>
   <string name="empty_title_virus_list">Geen virussen</string>
@@ -290,16 +290,16 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appblokkering</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
-  <string name="fingerprint_not_identified_msg">Om uw apparaat te deblokkeren, voer uw wachtwoord in.</string>
+  <string name="fingerprint_not_identified_msg">Om uw apparaat te ontgrendelen, voer uw wachtwoord in.</string>
   <string name="fingerprint_not_remind">Niet meer vragen</string>
-  <string name="fingerprint_remind_dialog_title">Vingerafdruk deblokkering</string>
-  <string name="fingerprint_to_lock">Deblokkeren met vingerafdruk</string>
+  <string name="fingerprint_remind_dialog_title">Vingerafdrukontgrendeling</string>
+  <string name="fingerprint_to_lock">Ontgrendelen met vingerafdruk</string>
   <string name="fingerprint_verification">Vingerafdruk scannen</string>
   <string name="fingerprint_verification_message">Scan uw vingerafdruk om deze functie te gebruiken.</string>
   <string name="fingerprint_verify_failed">Kon vingerafdruk niet bevestigen</string>
   <string name="fingerprint_verify_succeed">Vingerafdruk bevestigd</string>
-  <string name="fingerprint_verify_try_agin">Kon niet scannen, probeer opnieuw</string>
-  <string name="firewall_activity_lable">Dataverbruik beperken per app, strikt dataverbruik per app</string>
+  <string name="fingerprint_verify_try_agin">Kon vingerafdruk niet scannen, probeer opnieuw</string>
+  <string name="firewall_activity_lable">Dataverbruik beperken per app.</string>
   <string name="firewall_applist">Apps</string>
   <string name="firewall_fragment_nonesys_listempty">Leeg</string>
   <string name="firewall_fragment_sys_listempty">Leeg</string>
@@ -332,7 +332,7 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="handle_text_memory">Geheugen</string>
   <string name="handle_text_system">Systeem</string>
   <string name="help_label">Help</string>
-  <string name="hints_auto_start_warning_info">Als je automatisch starten verbiedt, zullen sommige apps en services niet in staat zijn om meldingen te ontvangen</string>
+  <string name="hints_auto_start_warning_info">Als je automatisch starten verbiedt, zullen sommige apps en services niet in staat zijn om meldingen te ontvangen.</string>
   <string name="hints_cleanning_text">Opruimen…</string>
   <string name="hints_handle_item_text_risk">"Risico's: %d"</string>
   <string name="hints_handle_item_text_safe">Veilig</string>
@@ -383,7 +383,7 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="install_title">Installeren via USB</string>
   <string name="international_roaming_setting">Internationale roaming</string>
   <string name="international_roaming_whitelist_count">%d apps kunnen mobiele data gebruiken bij roamen</string>
-  <string name="ip_address_exception_summary">Kon IP adres niet verkrijgen. Als dit nog eens voorkomt , probeer dan een vast IP adres te gebruiken.</string>
+  <string name="ip_address_exception_summary">Kon IP adres niet verkrijgen. Als dit nog eens voorkomt, probeer dan een vast IP adres te gebruiken.</string>
   <string name="item_app_permission">Apptoestemmingen</string>
   <string name="item_dev_mode">Ontwikkelaarsopties</string>
   <string name="item_install_monitor">Installeer monitor</string>
@@ -415,7 +415,7 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="lock_screen_warning_category">Vergrendelscherm meldingen</string>
   <string name="lock_screen_warning_switch_summary">Geef een waarschuwing op het vergrendelscherm weer wanneer het dataverbruik een bepaalde grens overschrijdt</string>
   <string name="lock_screen_warning_switch_title">Geef waarschuwingen op het vergrendelscherm</string>
-  <string name="lock_screen_warning_value">Waarschuwen bij </string>
+  <string name="lock_screen_warning_value">Waarschuwing dataverbruik</string>
   <string name="lock_settings_title">Vergrendelscherm en wachtwoord</string>
   <string name="lockpassword_confirm_your_password_header">Bevestig wachtwoord</string>
   <string name="lockpassword_confirm_your_pattern_header">Bevestig patroon</string>
@@ -445,7 +445,7 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="main_alert_message_month_limit_error">Het datalimiet dat u hebt ingesteld is fout</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_no_mobile_package">Datalimiet instellen</string>
-  <string name="main_alert_message_slot_no_data_connection">De SIM kaart ondersteund geen mobiele dataverbinding</string>
+  <string name="main_alert_message_slot_no_data_connection">De SIM kaart ondersteunt geen mobiele dataverbinding</string>
   <string name="main_button_idel_traffic">Daluren</string>
   <string name="main_button_normal_traffic">Piekuren</string>
   <string name="main_button_usage_adjust">Sync. mobiel dataverbruik</string>
@@ -1008,7 +1008,7 @@ of voer een app blokkeringswachtwoord in"</string>
   <string name="summary_data_flow">Vermijd de maandelijkse datalimiet van uw provider te overschrijden</string>
   <string name="summary_default_app">"%s is niet ingesteld als een standaard systeemapp"</string>
   <string name="summary_dev">Vermijd malware en bescherm uw persoonlijke data</string>
-  <string name="summary_find_device">Localiseer en vergrendel uw apparaat van overal</string>
+  <string name="summary_find_device">Lokaliseer en vergrendel uw apparaat van overal</string>
   <string name="summary_flow_notification">Toon uw maandelijkse dataverbruik op het meldingspaneel</string>
   <string name="summary_flow_purchase_beyond">"Je hebt de maandelijkse datalimiet van uw provider overschreden met %sMB"</string>
   <string name="summary_flow_purchase_left">Je hebt nog maar %sMB mobiele data over deze maand</string>
@@ -1237,7 +1237,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Tik om de databespaarder in te schakelen.</string>
   <string name="traffic_saving_notify_start_content">%s bespaard deze maand</string>
   <string name="traffic_saving_notify_start_title">Dataverbruik beperkt</string>
-  <string name="traffic_saving_one_key_optimize">Optimaliseer naar data besparing</string>
+  <string name="traffic_saving_one_key_optimize">Optimaliseer naar databesparing</string>
   <string name="traffic_saving_optimized">Reeds geoptimaliseerd</string>
   <string name="traffic_saving_pic_compress_orig">Origineel</string>
   <string name="traffic_saving_ratio">Dataverbruik verminderd %.2f%%</string>
