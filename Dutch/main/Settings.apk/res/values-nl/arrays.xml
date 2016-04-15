@@ -567,6 +567,22 @@
         <item>Cached (activiteit client)</item>
         <item>Cached (leeg)</item>
     </string-array>
+	<string-array name="color_picker">
+        <item>Blauw-groen</item>
+        <item>Blauw</item>
+        <item>Indigo</item>
+        <item>Paars</item>
+        <item>Roze</item>
+        <item>Rood</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Geluidsbron</item>
+        <item>MIDI</item>
+    </string-array>
     <string-array name="hidedm_plmn_list">
         <item>46000</item>
         <item>46002</item>
@@ -640,16 +656,16 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Toon recente apps</item>
-        <item>Toon menu</item>
+        <item>Recente apps tonen</item>
+        <item>Menu tonen</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Geen</item>
-        <item>Toon recente apps</item>
-        <item>Open Assistant</item>
-        <item>Open Google now</item>
+        <item>Recente apps tonen</item>
+        <item>Assistant openen</item>
+        <item>Google now openen</item>
         <item>Huidige app sluiten</item>
-        <item>Toon menu</item>
+        <item>Menu tonen</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 seconden</item>
