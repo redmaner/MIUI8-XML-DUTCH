@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Downloadbeheer</string>
-  <string name="auto_restart_under_wifi">Wi-Fi zal dit bestand automatisch downloaden</string>
+  <string name="auto_restart_under_wifi">Bestand zal automatisch downloaden wanneer verbonden met Wi-Fi</string>
   <string name="button_cancel_download">Annuleren</string>
   <string name="button_download_now">Nu downloaden</string>
   <string name="button_queue_for_wifi">Wachtrij</string>
@@ -22,11 +22,11 @@
   <string name="download_running">In uitvoering</string>
   <string name="download_running_percent">Bezig: %d%%</string>
   <string name="download_unknown_title">&lt;Zonder titel&gt;</string>
-  <string name="enter_garbage_clean">Ruim intern geheugen op.</string>
-  <string name="insufficient_space">Niet genoeg ruimte in intern geheugen van apparaat</string>
+  <string name="enter_garbage_clean">Intern geheugen opruimen.</string>
+  <string name="insufficient_space">Niet genoeg ruimte op intern geheugen van apparaat</string>
   <string name="mobile_recommended_title">Mobiel dataverbruik</string>
-  <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
-  <string name="notif_text_engine_on">Accelerating…</string>
+  <string name="notif_text_engine_off">Xunlei accelerator is uit.</string>
+  <string name="notif_text_engine_on">Versnellen…</string>
   <string name="notif_title_file_size">%1$d totaal</string>
   <string name="notif_title_multiple_downloading">%1$d bestanden aan het downloaden</string>
   <string name="notif_title_single_downloading">Downloaden van %1$s</string>
@@ -52,17 +52,17 @@
   <string name="permlab_downloadWithoutNotification">bestanden downloaden zonder melding</string>
   <string name="permlab_seeAllExternal">Alle downloads op USB opslag bekijken</string>
   <string name="privacy_notif_content">Aanraken om details te bekijken.</string>
-  <string name="privacy_notif_title">Xunlei Download Accelerator ligt aan</string>
+  <string name="privacy_notif_title">Xunlei Download Accelerator staat aan</string>
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">"Xunlei Accelerator gebruiken om je downloads te versnellen? De URL van de download gastheer  zal geüpload naar de servers van Xunlei's. Uw Mi Account gegevens zullen ook worden geüpload om te controleren of u een actieve abonnementen hebt op deze dienst."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Xunlei Accelerator gebruiken?</string>
-  <string name="recommended_file_size_download_in_mobile">%s gebruiken mobiele data om dit bestand te downloaden?</string>
+  <string name="recommended_file_size_download_in_mobile">%s mobiele data gebruiken om dit bestand te downloaden?</string>
   <string name="recommended_no_file_size_download_in_mobile">Mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Taak bestaat al</string>
   <string name="warning_tip_cancel">Downloaden</string>
-  <string name="warning_tip_content">Wi-Fi is onderbroken，Het gebruik van uw mobiele gegevensverbinding om deze download te voltooien zal uw dataverbruik verhogen，kan leiden tot extra kosten.</string>
+  <string name="warning_tip_content">Wi-Fi is onderbroken. Het gebruik van uw mobiele gegevensverbinding om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
   <string name="warning_tip_ok">Ok</string>
   <string name="warning_tip_title">Data vebruiks waarschuwing</string>
   <string name="wifi_recommended_body" formatted="false">"Als u deze download van %s nu start, kan dit de levensduur van de batterij verkorten en/of leiden tot bovenmatig gebruik van uw mobiele gegevensverbinding. Uw provider kan hiervoor kosten aanrekenen.
