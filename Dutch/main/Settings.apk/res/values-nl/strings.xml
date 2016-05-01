@@ -66,7 +66,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_sync_disabled">Sync. uitgeschakeld</string>
   <string name="accessibility_sync_enabled">Sync. is ingeschakeld</string>
   <string name="accessibility_sync_error">Sync. fout.</string>
-  <string name="accessibility_sync_in_progress">Nu sync.</string>
+  <string name="accessibility_sync_in_progress">Nu synchroniseren</string>
   <string name="accessibility_system_title">Systeem</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Hoge contrast tekst</string>
   <string name="accessibility_toggle_large_text_preference_title">Tekstgrootte</string>
@@ -2789,7 +2789,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_priority_summary">Meldingen weergeven bovenaan de lijst</string>
   <string name="status_bar_settings_notification_sound_vibrate">Geluid &amp; trillen</string>
   <string name="status_bar_settings_show_carrier">Provider tonen</string>
-  <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en in de notificatiebalk als deze functie is uitgeschakeld</string>
+  <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en op het notificatiescherm als deze functie is uitgeschakeld</string>
   <string name="status_bar_settings_show_floating_notification">Zwevende meldingen</string>
   <string name="status_bar_settings_show_floating_notification_summary">Zwevende meldingen verdwijnen automatisch nadat ze zijn getoond aan de bovenkant van het scherm</string>
   <string name="status_bar_settings_show_flow_info">Flow details weergegeven</string>
@@ -2797,7 +2797,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_keyguard_notification">Meldingen op vergrendelscherm</string>
   <string name="status_bar_settings_show_network_speed">Verbindingssnelheid tonen</string>
   <string name="status_bar_settings_show_notification_icon">Meldingsiconen weergeven</string>
-  <string name="status_bar_settings_show_screenshot_notification">Schermafdrukmelding weergeven</string>
+  <string name="status_bar_settings_show_screenshot_notification">Melding weergeven na schermafdruk</string>
   <string name="status_bar_settings_show_wifi_name">Toon Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Statusbalk</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Inklappen na aanraken</string>
@@ -2874,17 +2874,17 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="sync_error">Sync. mislukt</string>
   <string name="sync_failed">Sync. mislukt</string>
   <string name="sync_gmail">Gmail</string>
-  <string name="sync_in_progress">Nu sync.…</string>
+  <string name="sync_in_progress">Synchroniseren…</string>
   <string name="sync_is_failing">Er zijn momenteel problemen met de sync. Sync. wordt snel opnieuw uitgevoerd.</string>
   <string name="sync_item_title">%s sync.</string>
   <string name="sync_menu_sync_cancel">Sync. annuleren</string>
-  <string name="sync_menu_sync_now">Nu sync.</string>
+  <string name="sync_menu_sync_now">Nu synchroniseren</string>
   <string name="sync_one_time_sync">"Aanraken om nu te sync.
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welkom bij Google Sync!&lt;/font&gt;"
 Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal toegang heeft tot uw contacten, afspraken en nog veel meer."</string>
-  <string name="sync_settings">Account sync.</string>
-  <string name="sync_wifi_label">Wi-Fi Sync. instellingen</string>
+  <string name="sync_settings">Synchronisatie</string>
+  <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Alleen via Wi-Fi</string>
   <string name="system">Systeem</string>
   <string name="system_app_settings">Systeemapps</string>
