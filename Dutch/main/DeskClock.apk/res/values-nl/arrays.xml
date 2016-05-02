@@ -2,8 +2,8 @@
 <resources>
 <string-array name="stat_volume_button_behaviors">
         <item>Geen</item>
-        <item>Later snoozen</item>
-        <item>Dicht</item>
+        <item>Snoozen</item>
+        <item>Uitzetten</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarm binnen 1 minuut</item>
@@ -21,16 +21,16 @@
         <item>Morgen</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Eenmaal</item>
+        <item>Eenmalig</item>
         <item>Dagelijks</item>
         <item>Werkdagen</item>
-        <item>Maan tot Vrij</item>
+        <item>Maandag tot vrijdag</item>
         <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Eenmaal</item>
+        <item>Eenmalig</item>
         <item>Dagelijks</item>
-        <item>Maan tot Vrij</item>
+        <item>Maandag tot vrijdag</item>
         <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_set">

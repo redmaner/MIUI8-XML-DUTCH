@@ -301,7 +301,7 @@
 	"sleep_mode_canceled": "Slaapmodius uitgeschakeld",
 	"priority_storage": "Gebruik externe SD kaart",
 	"priority_storage_summary": "Automatisch naar externe SD kaart downloaden",
-	"headset_settings": "Koptelefoons&amp; audio effecten",
+	"headset_settings": "Koptelefoons &amp; geluidseffecten",
 	"music_filter": "Filter audiobestanden",
 	"filter_by_size": "Op grootte",
 	"filter_by_size_summary": "Verberg kleine audiobestanden",
