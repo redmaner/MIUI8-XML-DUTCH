@@ -86,6 +86,11 @@
         <item>Alleen voor uitzonderingen</item>
         <item>Nooit</item>
     </string-array>
+	 <string-array name="lock_mode">
+        <item>Vergrendelen wanneer apparaat vergrendeld is</item>
+        <item>Vergrendelen na het afsluiten van de app</item>
+        <item>Na 1 minuut vergrendelen na het afsluiten van de app</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Na 1 minuut</item>
         <item>Na 5 minuten</item>
