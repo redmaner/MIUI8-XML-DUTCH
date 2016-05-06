@@ -44,7 +44,7 @@
   <string name="album_others_share_info_format">Van %s</string>
   <string name="album_owner_share">Gedeeld</string>
   <string name="album_page_empty">Leeg</string>
-  <string name="album_page_label">Albums</string>
+  <string name="album_page_label">Album</string>
   <string name="album_quota_fulfiled">Kan het album niet aanmaken: het albumlimiet is overschreden</string>
   <string name="album_screenshot_name">Schermafdrukken</string>
   <string name="album_share_exit_confirm">Het album verlaten?</string>
@@ -78,8 +78,7 @@
   <string name="auto_update_on">Aan</string>
   <string name="auto_upload_before_share_message">Dit album back-uppen naar Mi Cloud voor het delen</string>
   <string name="auto_upload_before_share_title">Hint</string>
-  <string name="auto_upload_disable_toast">Foto\'s en video\'s in dit album zullen niet automatisch geback-upt worden</string>
-  <string name="auto_upload_enable_toast">Foto\'s en video\'s in dit album zullen automatisch worden geback-upt worden</string>
+  <string name="auto_upload_enable_toast_long_press_menu">AutoBackup is ingeschakeld, ga terug naar album pagina om te bekijken</string>
   <string name="autofix">Auto fix</string>
   <string name="baby_album">Babyalbum</string>
   <string name="baby_album_change_background">Achtergrondfoto wijzigen</string>
@@ -174,7 +173,7 @@
   <string name="create_quick_icon_on_desk">Snelkoppeling maken</string>
   <string name="creating_baby_album">Album aanmaken…</string>
   <string name="crop">Bijsnijden</string>
-  <string name="crop_label">Bijgesneden foto\'s</string>
+  <string name="crop_label">Bijsnijden</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">OK</string>
   <string name="crop_tooltip">Versleep markers om de foto bij te snijden</string>
@@ -295,7 +294,7 @@
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_page_empty">Leeg</string>
-  <string name="home_page_label">Foto\'s</string>
+  <string name="home_page_label">Foto</string>
   <string name="how_to_set_relation">&amp; album ingedrukt houden om een groep aan te maken</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Netwerkinstellingen</string>
@@ -387,10 +386,10 @@
   <string name="operation_add_secret">Verbergen</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_detail">Details</string>
-  <string name="operation_disable_auto_upload">Automatische back-up uitschakelen</string>
+  <string name="operation_disable_auto_upload">AutoBackup uitschakelen</string>
   <string name="operation_download">Foto downloaden (%s)</string>
   <string name="operation_edit">Bewerken</string>
-  <string name="operation_enable_auto_upload">Automatische back-up inschakelen</string>
+  <string name="operation_enable_auto_upload">AutoBackup inschakelen</string>
   <string name="operation_failed">Uitvoering mislukt</string>
   <string name="operation_force_top">Plakken</string>
   <string name="operation_hide">Verbergen</string>
@@ -404,7 +403,7 @@
   <string name="operation_set_contact_photo">Instellen als contactfoto</string>
   <string name="operation_set_wallpaper">Instellen als achtergrond</string>
   <string name="operation_share">Deel</string>
-  <string name="operation_show_in_photos_tab">Weergeven op startpagina</string>
+  <string name="operation_show_in_photos_tab">Weergeven in foto tabs</string>
   <string name="operation_show_on_map">Weergeven in map</string>
   <string name="operation_slide_show">Start diavoorstelling</string>
   <string name="operation_successful">Gereed</string>
@@ -415,6 +414,7 @@
   <string name="orientation_unlock_tip">Auto-rotatie geopend</string>
   <string name="original">Origineel</string>
   <string name="original_scale">Originele</string>
+  <string name="other_album">Andere albums</string>
   <string name="other_settings">Extra instellingen</string>
   <string name="owner_album_subtitle">Gedeeld met %1$s personen</string>
   <string name="paint_brush">Verfkwast</string>
