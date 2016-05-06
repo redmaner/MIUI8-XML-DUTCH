@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Prullenbak opruiminstellingen</string>
   <string name="Settings_title_network_assistants">Netwerkassistent instellingen</string>
   <string name="Settings_title_power_center">Batterij instellingen</string>
+  <string name="ac_enable_title">App vergrendeling inschakelen</string>
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
   <string name="access_control_need_to_unlock">"Scan met vingerafdruk
@@ -52,6 +53,7 @@ of voer appblokkeringswachtwoord in"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">2 dagen geleden bijgewerkt</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Gisteren bijgewerkt om %s</string>
   <string name="adjust_traffic_data">Dataverbruik instellen</string>
+  <string name="after_the_lock_screen">App is samen vergrendeld met het scherm, u kan dit wijzigen in de App vergrendelinstellingen.</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Definities kiezen</string>
   <string name="antivirus_choose_engine_disable_toast">Kan niet wisselen van definities tijdens het scannen</string>
@@ -407,6 +409,7 @@ of voer appblokkeringswachtwoord in"</string>
   <string name="list_empty_text">Leeg</string>
   <string name="load_fail">Kon het niet laden</string>
   <string name="local_ip_exception_summary">Kon openbaar IP-adres niet verkrijgen. Om dit probleem aan MIUI melden, gaat u naar de Rapporteer Bug app en stuur een log van uw toestel.</string>
+  <string name="lock_mode_title">Vergrendelinstellingen</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s gebruikt op vergrendelscherm</string>
   <string name="lock_screen_traffic_guide_notification_title">Tik om dataverbruik te beheren.</string>
   <string name="lock_screen_traffic_notify_body">Vergrendeld voor %2$s op %1$s, data verbruikt %3$s</string>
@@ -526,7 +529,6 @@ of voer appblokkeringswachtwoord in"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
-  <string name="modify_password_info">Ontgrendelpatroon</string>
   <string name="modifypassword">Wachtwoord wijzigen</string>
   <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="month_report_month_report_switch">Geef maandelijks rapport weer</string>
