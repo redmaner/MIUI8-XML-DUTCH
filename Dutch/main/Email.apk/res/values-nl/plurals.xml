@@ -2,6 +2,7 @@
 <resources>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d ongelezen</item>
+		<item quantity="one">%1$d ongelezen</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Deze %1$d conversaties archiveren?</item>
@@ -12,20 +13,12 @@
         <item quantity="one">Deze conversatie verwijderen?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
-        <item quantity="zero">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
+        <item quantity="other">Deze gesprekken bevatten samengevoegde artikelen. Toch verwijderen?</item>
         <item quantity="one">Dit gesprek bevat samengevoegde artikelen. Toch verwijderen?</item>
-        <item quantity="two">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
-        <item quantity="few">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
-        <item quantity="many">Deze gesprekken bevatten samengevoegde artikelen. Ze toch verwijderen?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d geselecteerd</item>
-        <item quantity="zero">%d geselecteerd</item>
         <item quantity="one">%d geselecteerd</item>
-        <item quantity="two">%d geselecteerd</item>
-        <item quantity="few">%d geselecteerd</item>
-        <item quantity="many">%d geselecteerd</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> gearchiveerd.</item>
@@ -69,34 +62,18 @@
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Verplaats %1$d conversaties</item>
-        <item quantity="zero">Verplaats %1$d conversaties</item>
         <item quantity="one">Verplaats conversatie</item>
-        <item quantity="two">Verplaats %1$d conversaties</item>
-        <item quantity="few">Verplaats %1$d conversaties</item>
-        <item quantity="many">Verplaats %1$d conversaties</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Geef %1$d nieuwe berichten weer.</item>
-        <item quantity="zero">Geef %1$d nieuwe berichten weer.</item>
         <item quantity="one">Geef %1$d nieuw bericht weer.</item>
-        <item quantity="two">Geef %1$d nieuwe berichten weer.</item>
-        <item quantity="few">Geef %1$d nieuwe berichten weer.</item>
-        <item quantity="many">Geef %1$d nieuwe berichten weer.</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d geselecteerd</item>
-        <item quantity="zero">%d geselecteerd</item>
         <item quantity="one">%d geselecteerd</item>
-        <item quantity="two">%d geselecteerd</item>
-        <item quantity="few">%d geselecteerd</item>
-        <item quantity="many">%d geselecteerd</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">%1$d oudere berichten</item>
-        <item quantity="zero">%1$d oudere berichten</item>
         <item quantity="one">%1$d ouder bericht</item>
-        <item quantity="two">%1$d oudere berichten</item>
-        <item quantity="few">%1$d oudere berichten</item>
-        <item quantity="many">%1$d oudere berichten</item>
     </plurals>
 </resources>
