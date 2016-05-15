@@ -9,8 +9,10 @@
   <string name="backing_up_to_micloud">Bezig met back-up…</string>
   <string name="backup_fail">Kon startscherm niet back-uppen</string>
   <string name="backup_finished_notification_content">Back-up gemaakt van apps van startscherm, systeeminstelllingen, enz.</string>
+  <string name="backup_now">Nu back-uppen</string>
   <string name="backup_size">Grootte: %s</string>
-  <string name="backup_success">Startschermapps geback-upt</string>
+  <string name="backup_success">Back-up gelukt</string>
+  <string name="backup_successfully">Back-up gelukt</string>
   <string name="backup_to_cloud">App back-uppen</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_delete">Verwijderen</string>
@@ -49,12 +51,12 @@
   <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
   <string name="cloud_back_up_task">Bezig met back-up…</string>
   <string name="cloud_backup_detail_frequence">Back-upschema</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s back-up eenmalig</string>
+  <string name="cloud_backup_detail_frequence_day">Eenmalig back-uppen %1$s</string>
   <string name="cloud_backup_detail_manage">Back-ups beheren</string>
   <string name="cloud_backup_detail_manage_summary">%1$s back-ups, grootte:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud back-up</string>
   <string name="cloud_backup_detail_state_summary">Apps, startscherm en systeeminstellingen</string>
-  <string name="cloud_backup_detail_time">, back-uptijd: %1$s</string>
+  <string name="cloud_backup_detail_time">Laatste back-up: %1$s</string>
   <string name="cloud_backup_have_data">Back-up gevonden in Mi Cloud</string>
   <string name="cloud_backup_select_recover">Kies back-up van Mi Cloud</string>
   <string name="cloud_restore_from_other_device">Stop met het herstellen van %s en deze back-up verwijderen? Je kan deze actie niet ongedaan maken.</string>
@@ -104,6 +106,7 @@
   <string name="restore_from_cloud">Herstellen van Mi Cloud back-up</string>
   <string name="restore_from_this_device">Herstellen met deze backup</string>
   <string name="restore_home_screen_apps">Herstellen vanuit Mi Cloud backup</string>
+  <string name="restore_task_unfinished">Apps aan het herstellen, probeer later opnieuw</string>
   <string name="restoreing_file_tile">Herstellen van %d bestanden</string>
   <string name="retry">Probeer opnieuw</string>
   <string name="self_phone">Deze telefoon</string>
