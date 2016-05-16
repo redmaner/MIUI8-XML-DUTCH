@@ -9,7 +9,7 @@ Als u kiest voor gepersonaliseerde advertenties niet te gebruiken, zal de reclam
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_summary">Wachtwoord zal zijn vereist om de app te openen</string>
   <string name="ac_enable_title">Vergrendel individuele apps</string>
-  <string name="ac_privacy_mode_sum">Wachtwoord vereist om Gastmodus uit te schakelen</string>
+  <string name="ac_privacy_mode_sum">Wachtwoord vereist om gastmodus uit te schakelen</string>
   <string name="ac_privacy_mode_title">Wachtwoord</string>
   <string name="ac_set_apps_title">Apps kiezen om te blokkeren</string>
   <string name="accelerometer_summary_off">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
@@ -243,23 +243,23 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="auto_disable_screenbuttons_auto">Altijd uitschakelen</string>
   <string name="auto_disable_screenbuttons_cancel">Annuleren</string>
   <string name="auto_disable_screenbuttons_no">Nooit uitschakelen</string>
-  <string name="auto_disable_screenbuttons_summary">Bij het gebruik van geselecteerde apps automatisch de navigatieknoppen uitschakelen. Dubbel tikken op navigatieknop om opnieuw in te schakelen.</string>
-  <string name="auto_disable_screenbuttons_title">Automatisch navigatieknoppen uitschakelen</string>
+  <string name="auto_disable_screenbuttons_summary">Bij het gebruik van geselecteerde apps automatisch de navigatieknoppen uitschakelen. Dubbeltikken op navigatieknop om opnieuw in te schakelen.</string>
+  <string name="auto_disable_screenbuttons_title">Navigatieknoppen automatisch uitschakelen</string>
   <string name="auto_launch_disable_text">Geen standaardwaarden ingesteld.</string>
   <string name="auto_launch_enable_text">U hebt ervoor gekozen om deze app standaard te openen voor sommige acties.</string>
   <string name="auto_launch_label">Openen als standaard</string>
   <string name="auto_launch_label_generic">Standaardinstellingen</string>
   <string name="auto_punctuate">Automatische interpunctie</string>
-  <string name="auto_punctuate_summary">Druk twee keer op de spatiebalk om een punt(.) in te voegen</string>
+  <string name="auto_punctuate_summary">Druk twee keer op de spatiebalk om een punt (.) in te voegen</string>
   <string name="auto_replace">Automatisch vervangen</string>
   <string name="auto_replace_summary">Corrigeer verkeerd getypte woorden</string>
   <string name="auto_restore_summary">In een back-up opgeslagen instellingen of andere gegevens herstellen bij het opnieuw installeren van een app</string>
   <string name="auto_restore_title">Automatisch terugzetten</string>
   <string name="auto_startup_application_manage">Automatisch starten</string>
-  <string name="auto_startup_count">%d apps zijn toegestaan om automatisch te starten</string>
+  <string name="auto_startup_count">%d apps hebben toestemming om automatisch te starten</string>
   <string name="automatic_brightness">Automatische helderheid</string>
   <string name="available_size">%s beschikbaar</string>
-  <string name="awake">Stand-by tijd apparaat</string>
+  <string name="awake">Stand-bytijd apparaat</string>
   <string name="back_key">Terug</string>
   <string name="background_data">Achtergrondgegevens</string>
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterij en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
@@ -284,7 +284,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="baseband_version">Smalbandversie</string>
   <string name="battery_action_app_details">Appinfo</string>
   <string name="battery_action_app_settings">Appinstellingen</string>
-  <string name="battery_action_bluetooth">Bluetooth instellingen</string>
+  <string name="battery_action_bluetooth">Bluetooth-instellingen</string>
   <string name="battery_action_display">Scherminstellingen</string>
   <string name="battery_action_stop">Gedwongen stoppen</string>
   <string name="battery_action_wifi">Wi-Fi instellingen</string>
@@ -307,8 +307,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="battery_history_minutes_no_seconds">%1$d m</string>
   <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_indicator_style">Opmaak batterijstatus</string>
-  <string name="battery_info_awake_battery">Standby-tijd op batterij:</string>
-  <string name="battery_info_awake_plugged">Standby-tijd tijdens opladen:</string>
+  <string name="battery_info_awake_battery">Standbytijd op batterij:</string>
+  <string name="battery_info_awake_plugged">Standbytijd tijdens opladen:</string>
   <string name="battery_info_health_cold">Koud</string>
   <string name="battery_info_health_dead">Versleten</string>
   <string name="battery_info_health_good">Goed</string>
@@ -341,7 +341,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="battery_info_temperature_label">Batterijtemperatuur:</string>
   <string name="battery_info_temperature_units">° C</string>
   <string name="battery_info_uptime">Tijd sinds opstarten:</string>
-  <string name="battery_info_voltage_label">Batterij voltage:</string>
+  <string name="battery_info_voltage_label">Batterijvoltage:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Batterijniveau</string>
   <string name="battery_light_summary">Meldingslicht oplichten tijdens opladen</string>
@@ -368,7 +368,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="battery_sugg_apps_settings">De app kan instellingen aanbieden om het batterijgebruik te beperken</string>
   <string name="battery_sugg_bluetooth_basic">Schakel Bluetooth uit wanneer u deze functie niet gebruikt</string>
   <string name="battery_sugg_bluetooth_headset">Probeer verbinding te maken met een ander Bluetooth apparaat</string>
-  <string name="battery_sugg_display">Verlaag de helderheid van het scherm en/of geef een kortere time-out voor het scherm op</string>
+  <string name="battery_sugg_display">Verlaag de helderheid van het scherm en/of stel een kortere time-out voor het scherm in</string>
   <string name="battery_sugg_radio">Schakel over naar de vliegmodus om energie te besparen in gebieden zonder mobiel bereik</string>
   <string name="battery_sugg_wifi">Schakel Wi-Fi uit wanneer u dit niet gebruikt of wanneer dit niet beschikbaar is</string>
   <string name="biometric_weak_improve_matching_title">Verbeter gezichtskoppeling</string>
@@ -571,16 +571,16 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_unlock_turned_on">Aan</string>
   <string name="bluetooth_untether_blank">Tethering van %1$s wordt opgeheven.</string>
   <string name="bluetooth_visibility_timeout">Zichtbaarheid uitstellen</string>
-  <string name="bootloader">Snelle start modus</string>
-  <string name="bootloader_apply_step_1">Snelle start modus inschakelen?</string>
-  <string name="bootloader_apply_step_2">Wanneer uw toestel zich in snelle start modus bevindt en aangesloten is op de computer</string>
+  <string name="bootloader">Fastbootmodus</string>
+  <string name="bootloader_apply_step_1">Fastbootmodus inschakelen?</string>
+  <string name="bootloader_apply_step_2">Wanneer uw toestel zich in fastbootmodus bevindt en aangesloten is op de computer</string>
   <string name="bootloader_apply_step_3">De data (zoals wachtwoorden, berichten) op het apparaat kan worden geopend zonder uw toestemming.</string>
   <string name="bootloader_apply_step_4">Het kan leiden tot de bekendmaking of verlies van data of zelfs onherstelbare schade aan de hardware.</string>
-  <string name="bootloader_apply_step_5">Zorg ervoor dat je weet hoe je snelle start modus moet gebruiken voordat u deze inschakelt.</string>
+  <string name="bootloader_apply_step_5">Zorg ervoor dat je weet hoe je fastbootmodus moet gebruiken voordat u deze inschakelt.</string>
   <string name="bootloader_apply_title">Belangrijke waarschuwing</string>
   <string name="bootloader_summary">Flash uw apparaat via USB</string>
-  <string name="breathing_light_color_menu_title">Licht kleur</string>
-  <string name="breathing_light_color_summary">Licht kleur bij een nieuwe melding</string>
+  <string name="breathing_light_color_menu_title">Kleur licht</string>
+  <string name="breathing_light_color_summary">Kleur licht bij een nieuwe melding</string>
   <string name="breathing_light_freq_summary">Knipperen bij nieuwe meldingen</string>
   <string name="breathing_light_freq_title">Meldingslicht knipperfrequentie</string>
   <string name="brightness">Helderheidsniveau</string>
@@ -670,8 +670,8 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="checking_for_updates">Controleren op updates…</string>
   <string name="children_mode_enable_title">Kindermodus</string>
   <string name="children_mode_set_apps_title">Toegankelijke apps</string>
-  <string name="children_mode_tips_off">Na het inschakelen van kindermodus, tikt u op de knop Home om terug te keren naar het startscherm.</string>
-  <string name="children_mode_tips_on">Na het uitschakelen van kindermodus, tikt u op de knop Home om terug te keren naar het startscherm.</string>
+  <string name="children_mode_tips_off">Na het inschakelen van kindermodus, tikt u op de Homeknop om terug te keren naar het startscherm.</string>
+  <string name="children_mode_tips_on">Na het uitschakelen van kindermodus, tikt u op de Homeknop om terug te keren naar het startscherm.</string>
   <string name="children_mode_title">Kindermodus</string>
   <string name="choose_smartcover_type">Type hoesje kiezen</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
@@ -796,11 +796,12 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="current_input_method">Huidig toetsenbord</string>
   <string name="current_use_ese">Met behulp van geïntegreerd veilig element</string>
   <string name="current_use_uicc_se">Met behulp van veilig element op de SIM kaart</string>
-  <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (rood-groen)</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (rood-groen)</string>
   <string name="daltonizer_mode_disabled">Uitgeschakeld</string>
   <string name="daltonizer_mode_monochromacy">Monochromasie</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
+  <string name="daltonizer_type">Correctiemodus</string>
   <string name="daltonizer_type_overridden">Verworpen door %1$s</string>
   <string name="dashboard_title">Instellingen</string>
   <string name="data_size_label">Gegevens</string>
@@ -924,7 +925,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Indelingsgrenzen weergeven</string>
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
-  <string name="debug_log">Gebruikerservaring programma</string>
+  <string name="debug_log">Gebruikerservaringprogramma</string>
   <string name="debug_monitoring_category">Controleren</string>
   <string name="debug_view_attributes">Attribuut inspectie bekijken inschakelen</string>
   <string name="default_date_format">dd/MM/yyyy</string>
@@ -1031,9 +1032,9 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="dndm_alarm_content_event_and_sms">Meldingen &amp; berichten</string>
   <string name="dndm_alarm_content_not_all">Alles dempen</string>
   <string name="dndm_alarm_content_sms">Berichten</string>
-  <string name="dndm_auto_button_title">Herhalen niet storen tijd</string>
+  <string name="dndm_auto_button_title">Niet storen tijd herhalen</string>
   <string name="dndm_auto_setting_group">Gepland</string>
-  <string name="dndm_auto_time_setting">Tijdsinstellingen</string>
+  <string name="dndm_auto_time_setting">Tijd instellen</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Tot</string>
   <string name="dndm_auto_time_turn_off_title">Rustmodus automatisch uitschakelen</string>
@@ -1111,7 +1112,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="drive_mode_voice_report">Uitvoer voor tekst naar spraak</string>
   <string name="dtmf_tone_enable_title">Toetsenblokgeluiden</string>
   <string name="edge_mode_back">Ga terug</string>
-  <string name="edge_mode_back_summary">Dubbel tikken op de rand van de telefoon om terug te gaan</string>
+  <string name="edge_mode_back_summary">Dubbeltikken op de rand van de telefoon om terug te gaan</string>
   <string name="edge_mode_clean">Systeemcache wissen</string>
   <string name="edge_mode_clean_summary">Schuif aan beide kanten tegelijk om systeemcache te wissen</string>
   <string name="edge_mode_guide_title">Raak het gemarkeerde gebied aan om de randbedieningselementen te gebruiken</string>
@@ -1120,7 +1121,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="edge_mode_photo">Neem een foto</string>
   <string name="edge_mode_photo_summary">Terwijl u in de camera-app bent, tik op de rand van je telefoon om de sluiter te activeren en tik nogmaals om een foto te nemen</string>
   <string name="edge_mode_screenshot">Schermafdruk</string>
-  <string name="edge_mode_screenshot_summary">Dubbel tikken op beide randen om een schermafdruk te maken</string>
+  <string name="edge_mode_screenshot_summary">Dubbeltikken op beide randen om een schermafdruk te maken</string>
   <string name="emergency_tone_alert">Alarm</string>
   <string name="emergency_tone_silent">Stil</string>
   <string name="emergency_tone_summary">Gedrag bij noodoproepen instellen</string>
@@ -1321,7 +1322,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="gadget_toggle_wifi">Wi-Fi instelling bijwerken</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Game controller</string>
-  <string name="gesture_wakeup_title">Dubbel tikken om scherm te ontwaken</string>
+  <string name="gesture_wakeup_title">Dubbeltikken om scherm te ontwaken</string>
   <string name="getConfiguredNetworks">Geconfigureerde netwerken ophalen</string>
   <string name="getConnectionInfo">Ophalen verbindingsinfo</string>
   <string name="global_change_warning">Deze instelling is van invloed op alle gebruikers van dit apparaat.</string>
@@ -2111,7 +2112,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_discharging_duration">%1$s - ongeveer. %2$s resterend</string>
   <string name="power_flashlight">Flitser</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS gebruik</string>
-  <string name="power_hide_mode_title">Beheer batterijverbruik van apps</string>
+  <string name="power_hide_mode_title">Batterijverbruik van apps beheren</string>
   <string name="power_idle">Telefoon inactief</string>
   <string name="power_mgr">Batterij</string>
   <string name="power_mode">Energie-instellingen</string>
@@ -2411,6 +2412,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="runningservices_settings_summary">Services die momenteel actief zijn, weergeven en beheren</string>
   <string name="runningservices_settings_title">Actieve diensten</string>
   <string name="scan_list_label">Scanresultaten:</string>
+  <string name="screen">Scherm</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">Kan kleurtemperatuur niet aanpassen in leesmodus</string>
   <string name="screen_color_temperature">Kleuren</string>
@@ -2726,6 +2728,7 @@ Pogingen over :"</string>
   <string name="sim_slot_empty">SIM leeg</string>
   <string name="sim_status_summary">SIM gerelateerde informatie</string>
   <string name="sim_status_title">SIM status</string>
+  <string name="simulate_color_space">Kleursimulatie</string>
   <string name="skip_label">Overslaan</string>
   <string name="skip_lock_screen_confirm_msg">De volgende functies worden uitgeschakeld voor het vergrendelscherm: meldingen, muziekspeler controles, veeg naar links om toegang te krijgen tot de camera en veeg naar rechts om toegang te krijgen tot Telefoon.</string>
   <string name="skip_step">Overslaan</string>
@@ -2883,7 +2886,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="sync_calendar">Agenda</string>
   <string name="sync_contacts">Contacten</string>
   <string name="sync_disabled">Sync. UIT</string>
-  <string name="sync_enable">Automatisch sync. inschakelen</string>
+  <string name="sync_enable">Automatisch synchroniseren</string>
   <string name="sync_enabled">Sync. AAN</string>
   <string name="sync_error">Sync. mislukt</string>
   <string name="sync_failed">Sync. mislukt</string>
@@ -3066,7 +3069,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
   <string name="upload_debug_log_summary">Help Xiaomi haar producten en diensten te verbeteren door anonieme gegevens te versturen</string>
-  <string name="upload_debug_log_title">Gebruikerservaringsprogramma</string>
+  <string name="upload_debug_log_title">Gebruikerservaringprogramma</string>
   <string name="usage_access_title">Apps met gebruikstoegang</string>
   <string name="usage_log">App gebruiksstatistieken</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
@@ -3395,6 +3398,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
 "&lt;li&gt;Zal u geen software-updates krijgen tot u verbonden bent met internet.&lt;/li&gt;"
 
 "&lt;li&gt;Kan u geen beschermingsfuncties van het apparaat activeren.&lt;/li&gt;</string>
+  <string name="wifi_ap_band_config">Selecteer AP Band</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_assistant_card_message">Automatisch verbinding maken met beschikbare netwerken met een Wi-fi assistent.</string>
   <string name="wifi_assistant_intro_setup">"Introductie
