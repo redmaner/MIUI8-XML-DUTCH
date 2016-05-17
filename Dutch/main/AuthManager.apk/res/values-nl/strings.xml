@@ -55,12 +55,12 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="Generic_UserApp">Gedownload (%d)</string>
   <string name="Generic_Version">Versie %1$s</string>
   <string name="HIPS_Action_Accept">Toestaan</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Toestaan&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">Eenmaal toestaan</string>
   <string name="HIPS_Action_Prompt">Prompt</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Prompt&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Weigeren</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Weigeren&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">Eenmaal weigeren</string>
   <string name="HIPS_Group_DataPrivacy">Privacy</string>
   <string name="HIPS_Group_Expense">Veiligheid</string>
@@ -228,9 +228,9 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="HIPS_Perm_process_outgoing_calls_Desc">gesprekken volgen en beëindigen</string>
   <string name="HIPS_Perm_use_sip">Videodiensten</string>
   <string name="HIPS_Perm_use_sip_Desc">Gebruik Session Initiation Protocol om video te streamen</string>
-  <string name="HIPS_SecurityPrompt_Accept">Toestaan(%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept">Toestaan (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Toestaan</string>
-  <string name="HIPS_SecurityPrompt_Accept_Once">Eenmaal toestaan (%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Eenmalig toestaan (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Veiligheidsmelding</string>
   <string name="HIPS_SecurityPrompt_Next">Volgende</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Kan roottoegang verkrijgen</string>
@@ -241,7 +241,7 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Apps roottoegang verlenen is op eigen risico.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s roottoegang verlenen?</string>
   <string name="HIPS_SecurityPrompt_Reject">Weigeren (%d)</string>
-  <string name="HIPS_SecurityPrompt_Reject_Once">Eenmaal weigeren (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Eenmalig weigeren (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Voorkeur onthouden</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s wil %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d toestemmingen</string>
@@ -273,14 +273,14 @@ U moet de ontwikkelaars build van MIUI flashen om roottoegang te krijgen</string
   <string name="grant_dialog_button_deny">Weigeren</string>
   <string name="location_settings">Locatie instellingen</string>
   <string name="location_warning">%1$s is een provider van locatiediensten voor dit apparaat. Locatietoegang kan worden gewijzigd in de instellingen.</string>
-  <string name="never_ask_again">Niet meer vragen</string>
+  <string name="never_ask_again">Niet opnieuw vragen</string>
   <string name="ok">OK</string>
   <string name="permission_group_title_charges_related">Netwerkgerelateerd</string>
   <string name="permission_group_title_media_related">Multimedia</string>
   <string name="permission_group_title_privacy_related">Privacy</string>
   <string name="permission_group_title_settings_related">Instellingen</string>
   <string name="permission_request_title">Toestemmingsverzoek</string>
-  <string name="permission_warning_template">%1$s toestaan tot %2$s ?</string>
+  <string name="permission_warning_template">%1$s wil %2$s</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" heeft geen toestemming tot %2$s. U kunt apptoestemmingen elk moment wijzigen in Beveiliging &gt; Toestemmingen."</string>
   <string name="screen_overlay_button">Open instellingen</string>
   <string name="screen_overlay_message">Om deze toestemming instelling te wijzigen, moet u eerst schermoverlay uitschakelen in Instellingen &gt; Apps</string>
