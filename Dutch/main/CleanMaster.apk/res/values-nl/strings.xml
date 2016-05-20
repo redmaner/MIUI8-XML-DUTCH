@@ -11,6 +11,7 @@
   <string name="activity_title_ignored_image">Genegeerd</string>
   <string name="activity_title_image_gallery">Duplicaten verwijderen</string>
   <string name="activity_title_large_file">Grote bestanden</string>
+  <string name="activity_title_main">Opruimer</string>
   <string name="activity_title_news">Nieuws</string>
   <string name="activity_title_privacy_cache">Privacy cache</string>
   <string name="activity_title_residual">Restanten</string>
@@ -116,7 +117,7 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Foto\'s ook van Mi Cloud verwijderen</string>
   <string name="dialog_content_delete_image_confirm">%d foto\'s verwijderen?</string>
   <string name="dialog_content_select_all_confirm">Kopie bewaren van deze foto?</string>
-  <string name="dialog_msg_add_white_list_error">Het bestand biedt geen ondersteuning aan om toe te voegen aan uitzonderingen</string>
+  <string name="dialog_msg_add_white_list_error">Kan dit bestand niet toevoegen aan uitzonderingen</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Geselecteerde apps back-uppen en verwijderen?</string>
   <string name="dialog_msg_check_all">Bevestigen om te selecteren dat %1$s %2$d items bevat</string>
   <string name="dialog_msg_esc_cleanmaster">Opruimscan stoppen?</string>
@@ -128,7 +129,7 @@
   <string name="dialog_title_backup_and_uninstall_apps">Back-uppen en verwijderen</string>
   <string name="dialog_title_check_all">Selecteer alle</string>
   <string name="dialog_title_delete_image">Geselecteerde afbeeldingen verwijderen</string>
-  <string name="dialog_title_esc_cleanmaster">Opruimer verlaten</string>
+  <string name="dialog_title_esc_cleanmaster">Opruimer afsluiten</string>
   <string name="dialog_title_load_cleanup_engine_error">Er is iets misgegaan</string>
   <string name="dialog_title_stop_scan">Stoppen met afval scannen</string>
   <string name="dialog_title_uninstall_apps">Verwijderen</string>
@@ -242,7 +243,7 @@
   <string name="msg_update_error_code_success">Klaar</string>
   <string name="msg_update_error_code_unknown_error">Onbekende fout</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
-  <string name="name_optimizer">Opruimer Privacybeleid</string>
+  <string name="name_optimizer">Privacybeleid</string>
   <string name="nb_clear_set">ROM wissen, batterij bekijken en zwarte lijst-info op notificatiescherm</string>
   <string name="net_assistant_detail">%1$s gebruikt, %2$s bespaard</string>
   <string name="net_assistant_title">%s aan mobiele data verbruikt deze maand</string>
@@ -250,9 +251,7 @@
   <string name="no_network">Kon niet verbinden met netwerk, probeer later opnieuw</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="notification_summary_after_auto_cleanup">%s opgeruimd.</string>
-  <string name="notification_summary_of_apps_cleanup">Ongebruikte apps gebruiken %s van de opslagruimte</string>
   <string name="notification_summary_of_garbage_cleanup">Afvalgrootte is over de %s.</string>
-  <string name="notification_title_of_apps_cleanup">Ongebruikte apps</string>
   <string name="notification_title_of_garbage_cleanup">Afvalgrootte</string>
   <string name="notify_when">Een melding krijgen wanneer de afval 100MB heeft bereikt</string>
   <string name="ok">Ok</string>
@@ -270,7 +269,6 @@
   <string name="pref_content_cleanup_white_list_none">Geen</string>
   <string name="pref_section_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_summary_auto_clean_and_alert">Opruimerschema automatisch laten uitvoeren</string>
-  <string name="pref_summary_auto_deepclean_and_alert">Ongebruikte apps melding</string>
   <string name="pref_summary_auto_update_cleanup_db">Automatisch updaten</string>
   <string name="pref_title_choose_engine">Definities</string>
   <string name="pref_summary_cleanup_white_list">Afval in witte lijst wordt genegeerd</string>
@@ -280,12 +278,9 @@
   <string name="pref_summary_garbage_cleanup_check_time">Opruiming plannen</string>
   <string name="pref_summary_garbage_process_mode">Stel meldingen in wanneer er wordt opgeruimd</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Uploaden en vergelijken van onbekende bestandsnamen met online definities</string>
-  <string name="pref_title_apps_check_size">Limiet opslagruimte</string>
-  <string name="pref_title_apps_check_time">Frequentie</string>
   <string name="pref_title_apps_cleanup_size">​Wanneer cachegrootte is bereikt</string>
   <string name="pref_title_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_title_auto_clean_content_choose">Kies items om op te ruimen</string>
-  <string name="pref_title_auto_deepclean_and_alert">Diepe schoonmaak</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch updaten</string>
   <string name="pref_title_cleanup_white_list">Uitzonderingen</string>
   <string name="pref_title_expand_cache_group">Gecachte items weergeven</string>

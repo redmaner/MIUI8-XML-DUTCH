@@ -19,8 +19,8 @@
   <string name="accessibility_time_picker_second">Seconde</string>
   <string name="account_prifix">Account:</string>
   <string name="action">Aanmelden</string>
-  <string name="action_menu_account_not_login">Niet aangemeld</string>
-  <string name="action_menu_account_not_login_hint">Gebruik de cloudinstellingen bij aanmelden</string>
+  <string name="action_menu_account_not_login">Niet ingelogd</string>
+  <string name="action_menu_account_not_login_hint">Log in om te synchroniseren met Mi Cloud</string>
   <string name="action_menu_bookshelf">Boekenplank</string>
   <string name="action_menu_current_version">Huidige versie</string>
   <string name="action_menu_text_add_bookmark">Blw. toev.</string>
@@ -43,9 +43,9 @@
   <string name="action_menu_text_share">Delen</string>
   <string name="action_menu_text_snapshot">Pagina opslaan</string>
   <string name="action_menu_text_video">Video</string>
-  <string name="action_menu_toolbox">Toolbox</string>
-  <string name="action_menu_useful_page">Bruikbare toevoegen</string>
-  <string name="action_menu_useful_page_added">Bruikbare toegevoegd</string>
+  <string name="action_menu_toolbox">Tools</string>
+  <string name="action_menu_useful_page">Snelkoppeling toevoegen</string>
+  <string name="action_menu_useful_page_added">Toegevoegd aan startpagina</string>
   <string name="actionbar_share">Delen</string>
   <string name="actionbar_web_search">Voer URL  in of zoeken op het web</string>
   <string name="adblock_notification">%d advertenties geblokkeerd</string>
@@ -153,8 +153,8 @@
   <string name="color_picker_hue">Tint</string>
   <string name="color_picker_saturation">Verzadiging</string>
   <string name="color_picker_value">Waarde</string>
-  <string name="comment_app_menu">opmerking</string>
-  <string name="comment_menu">opmerking</string>
+  <string name="comment_app_menu">Opmerking</string>
+  <string name="comment_menu">Opmerking</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -192,8 +192,8 @@
   <string name="current_version_phone">Telefoon</string>
   <string name="custom_head_card_text">"Altijd geloven dat er iets prachtigs staat 
 te gebeuren"</string>
-  <string name="custom_head_card_text_incognito">"Alleen God en jij weten van dat 
-privéscherm af"</string>
+  <string name="custom_head_card_text_incognito">"Je bent incognito!
+Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="data_traffic_prompt_change">Het gebruik van mobiele gegevensverbinding om video\'s te bekijken zal uw dataverbruik verhogen. Als u een datalimiet hebt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_message">Het gebruik van mobiele dataverbinding om te bladeren in video\'s zal uw dataverbruik verhogen. Als u een datalimiet hebt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_message_short">Het gebruik van mobiele data om video te streamen kan ertoe leiden dat u over uw datalimiet heen gaat.</string>
@@ -335,7 +335,7 @@ Deze pagina verlaten?"</string>
   <string name="license_activity_title">Systeem WebView licenties</string>
   <string name="loading_tips">Naar beneden trekken om te vernieuwen</string>
   <string name="local_bookmarks">Mi</string>
-  <string name="login_failed_toast">Aanmelden mislukt, vernieuwen.</string>
+  <string name="login_failed_toast">Kon niet inloggen, vernieuw en probeer opnieuw</string>
   <string name="low_memory_error">Niet in staat om de vorige bewerking te voltooien vanwege laag geheugen</string>
   <string name="max_tabs_warning">Geen tabbladen meer beschikbaar</string>
   <string name="maximum_input_alert">Maximaal 2048 tekens invoeren</string>
@@ -449,7 +449,7 @@ Deze pagina verlaten?"</string>
   <string name="page_info_address">Adres:</string>
   <string name="page_info_view">Pagina informatie weergeven</string>
   <string name="password">Wachtwoord</string>
-  <string name="password_generation_popup_content_description">Wachtwoord genereren popup weergeven</string>
+  <string name="password_generation_popup_content_description">Wachtwoord genereren pop-up wordt weergeven</string>
   <string name="pause_download">Gepauzeerd</string>
   <string name="paused_queued_for_wifi">Wachten op verbinding…</string>
   <string name="paused_unknown">Gepauzeerd</string>
@@ -594,7 +594,7 @@ Deze pagina verlaten?"</string>
   <string name="remove_history_item">Uit geschiedenis verwijderen</string>
   <string name="remove_snapshot">Opgeslagen pagina verwijderen</string>
   <string name="removed_from_bookmarks">Verwijderd uit bladwijzers</string>
-  <string name="reply_comment_title">Beantwoord: %s</string>
+  <string name="reply_comment_title">Re: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">Kan niet verbinden met netwerk</string>
   <string name="retry_download">Opnieuw proberen</string>
@@ -648,8 +648,8 @@ Deze pagina verlaten?"</string>
   <string name="security_warnings_confirm_message">Deze functie uitschakelen kan veiligheidsrisico\'s veroorzaken.</string>
   <string name="select_dot">Tekst selecteren</string>
   <string name="select_download_device">Apparaat kiezen</string>
-  <string name="send_comment_button">verzenden</string>
-  <string name="send_comment_title">opmerking</string>
+  <string name="send_comment_button">Verzenden</string>
+  <string name="send_comment_title">Opmerking</string>
   <string name="share_page_text">"Ik geniet van 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">De URL van deze website wordt verzonden naar servers van Xiaomi om de veiligheid te verifiëren. U kunt deze functie op elk moment uitschakelen in Instellingen.</string>
   <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>
@@ -759,7 +759,7 @@ Deze pagina verlaten?"</string>
   <string name="video_downloaded_group">Gedownload</string>
   <string name="video_downloading_group">Downloaden</string>
   <string name="video_edit">Bewerken</string>
-  <string name="video_float_window">Pop-Up</string>
+  <string name="video_float_window">Pop-up</string>
   <string name="video_float_window_playing">Video speelt af</string>
   <string name="video_float_window_text">Pop-up</string>
   <string name="video_fragment_name_collections">Favorieten</string>
