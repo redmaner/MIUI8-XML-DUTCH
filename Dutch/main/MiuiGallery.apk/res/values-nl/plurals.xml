@@ -21,16 +21,16 @@
         <item quantity="one">%d dag</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
-        <item quantity="one">%1$d foto van %2$s wordt toegevoegd</item>
+        <item quantity="other">"%1$d foto's van %2$s zullen worden toegevoegd"</item>
+        <item quantity="one">%1$d foto van %2$s zal worden toegevoegd</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">"%1$d foto's van %2$s worden toegevoegd"</item>
-        <item quantity="one">%1$d foto van %2$s wordt toegevoegd</item>
+        <item quantity="other">"%1$d foto's van %2$s zullen worden toegevoegd"</item>
+        <item quantity="one">%1$d foto van %2$s zal worden toegevoegd</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Reeds toegevoegd aan %d personen</item>
-        <item quantity="one">Reeds toegevoegd aan %d persoon</item>
+        <item quantity="other">Gedeeld met %d personen</item>
+        <item quantity="one">Gedeeld met %d persoon</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%1$d foto\'s verwijderen?</item>
@@ -45,8 +45,8 @@
         <item quantity="one">Dit item verwijderen?</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d items totaal)</item>
-        <item quantity="one">(1 item totaal)</item>
+        <item quantity="other">(%d items)</item>
+        <item quantity="one">(1 item)</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="other">%d foto\'s</item>
@@ -79,5 +79,13 @@
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Sync. van %1$d items…</item>
         <item quantity="one">Sync. van item…</item>	
+    </plurals>
+	<plurals name="download_error">
+        <item quantity="other">%1$d bestanden met downloadfout</item>
+        <item quantity="one">%1$d bestand met downloadfout</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
     </plurals>
 </resources>
