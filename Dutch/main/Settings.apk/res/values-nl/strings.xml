@@ -178,7 +178,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_disable_notifications_dlg_text">Als u meldingen voor deze app uitschakelt, mist u misschien belangrijke waarschuwingen en updates.</string>
   <string name="app_disable_notifications_dlg_title">Meldingen uitschakelen?</string>
   <string name="app_factory_reset">Updates verwijderen</string>
-  <string name="app_factory_reset_dlg_text">Alle updates van deze app van het Android systeem worden verwijderd.</string>
+  <string name="app_factory_reset_dlg_text">Alle updates van deze systeemapp worden verwijderd.</string>
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
   <string name="app_floating_window_dlg_disable">"Het uitschakelen van %1$s's floating scherm zal de app doen stoppen. Floating schermen uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Het inschakelen van %1$s's floating scherm instellingen benodigd een herstart van de app. U kunt de app ook handmatig stoppen. Floating schermen inschakelen?"</string>
@@ -265,7 +265,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterij en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
   <string name="background_data_summary">Onbeperkt gegevens sync., verzenden en ontvangen</string>
-  <string name="background_process_stop_description">Dit is een oud app proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
+  <string name="background_process_stop_description">Dit is een oud appproces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
   <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-up gegevens</string>
   <string name="backup_configure_account_title">Back-up account</string>
   <string name="backup_data_summary">Een back-up van appgegevens, Wi-Fi wachtwoorden en andere instellingen maken op de Google-servers</string>
@@ -927,6 +927,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Gebruikerservaringprogramma</string>
   <string name="debug_monitoring_category">Controleren</string>
+  <string name="debug_networking_category">Verbindingen</string>
   <string name="debug_view_attributes">Attribuut inspectie bekijken inschakelen</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Kies standaard toetsenbord</string>
@@ -1606,7 +1607,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
   <string name="lock_screen_unlock_show">Scherm vegen overslaan</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord invoeren na het ontwaken</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Klik om te wijzigen</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">" Klik om te wijzigen"</string>
   <string name="lock_settings">Vergrendelscherm en wachtwoord</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
@@ -2069,9 +2070,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="performance_category">Prestatie</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">%1$d beveiliging | %2$d privacy | %3$d overig</string>
-  <string name="permission_manage">Machtigingen beheren</string>
+  <string name="permission_manage">Toestemmingen beheren</string>
   <string name="permission_manage_summary">Uw toestemming vragen voordat apps uw contacten kunnen lezen, uw oproepgeschiedenis kunnen lezen, systeeminstellingen wijzigen, of toegang willen tot de camera en andere apparaatbronnen</string>
-  <string name="permission_manage_title">%s machtigingen</string>
+  <string name="permission_manage_title">Toestemmingen voor %s</string>
   <string name="permission_manager">Toestemmingen</string>
   <string name="permission_mgr">Toestemmingen</string>
   <string name="permissions_label">Toestemmingen</string>
