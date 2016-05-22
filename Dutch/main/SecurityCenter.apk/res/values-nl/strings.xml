@@ -8,8 +8,11 @@
   <string name="Settings_title_network_assistants">Instellingen netwerkassistent</string>
   <string name="Settings_title_power_center">Batterij-instellingen</string>
   <string name="ac_enable_title">Appvergrendeling inschakelen</string>
+  <string name="ac_enter_applock">Appvergrendeling openen</string>
   <string name="ac_firstUseApplock_subTitle">Gebruik appvergrendeling om uw privacy te beschermen</string>
   <string name="ac_firstUseApplock_title">Wachtwoord vereisen om geselecteerde apps te openen</string>
+  <string name="ac_summaryOff">Uitgeschakeld, wachtwoord is niet vereist om apps te openen</string>
+  <string name="ac_summaryOn">Ingeschakeld, wachtwoord is vereist om apps te openen</string>
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
   <string name="access_control_need_to_unlock">"Scan met vingerafdruk
@@ -295,7 +298,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
-  <string name="fingerprint_not_identified_msg">Om uw apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
+  <string name="fingerprint_not_identified_msg">Om het apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
   <string name="fingerprint_not_remind">Niet meer vragen</string>
   <string name="fingerprint_remind_dialog_title">Vingerafdrukontgrendeling</string>
   <string name="fingerprint_to_lock">Ontgrendelen met vingerafdruk</string>
@@ -855,6 +858,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="pref_leisure_no_overlay">Ingeschakeld</string>
   <string name="pref_leisure_not_opened">Uitgeschakeld</string>
   <string name="pref_manual_adjust">Dataverbruikstatistieken handmatig instellen</string>
+  <string name="pref_mi_sim_settings">Mi SIM instellingen</string>
   <string name="pref_month_begin_date">Resetdatum verbruik</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Extra instellingen</string>
@@ -1318,6 +1322,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usbsharenet_exception_title">Test gedeelt netwerk via USB</string>
   <string name="usbsharenet_pc_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de internetverbinding van uw computer.</string>
   <string name="virus_list_header_title">%d virussen gedetecteerd</string>
+  <string name="warning_open_mi_sim">Mi SIM inschakelen</string>
   <string name="wifi_exception_summary">Test beschikbare Wi-Fi netwerken</string>
   <string name="wifi_exception_title">Test Wi-Fi netwerk</string>
   <string name="wifi_network_blocked_notification_title">Geen internetverbinding</string>
