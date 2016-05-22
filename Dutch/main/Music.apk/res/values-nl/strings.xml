@@ -22,7 +22,7 @@
   <string name="action_item_share">Delen</string>
   <string name="action_settings">Instellingen</string>
   <string name="add_music">Nummers toevoegen</string>
-  <string name="add_to_last_of_playlist">Toevoegen aan het einde van de afspeellijst.</string>
+  <string name="add_to_last_of_playlist">Toevoegen aan het einde van de afspeellijst</string>
   <string name="alaka_required">Dit nummer is niet beschikbaar</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
@@ -43,7 +43,7 @@
   <string name="all_tracks_short">Alle nummers</string>
   <string name="already_download">Bezig met downloaden…</string>
   <string name="already_favorited">Reeds bij favorieten</string>
-  <string name="android_sdk_too_low">Android versie is te laag, kan de muziek niet upgraden. Updaten </string>
+  <string name="android_sdk_too_low">Update Android om muziek te kunnen updaten.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
@@ -95,13 +95,13 @@
   <string name="close_music_time">"Resterende tijd: "</string>
   <string name="cloud_enable">Sync. muziek met Mi Cloud</string>
   <string name="cloud_settings">Sync. instellingen</string>
-  <string name="cloud_space_full">Geen opslagruimte meer over</string>
+  <string name="cloud_space_full">Mi Cloud opslag is vol</string>
   <string name="cloud_space_full_message">Niet genoeg ruimte in uw Mi Cloud om meer nummers toe te voegen. Om meer ruimte te krijgen, upgrade uw Mi Account.</string>
   <string name="confirm_delete_downloads_message">%d downloads zullen verwijderd worden.</string>
   <string name="confirm_delete_the_download_item_message">Deze downloads verwijderen?</string>
   <string name="confirm_download">Download</string>
   <string name="confirm_to_renew">Vernieuwen</string>
-  <string name="cp_info_first">Online muziek streaming dienst wordt voornamelijk verzorgd door Ultimate Inc.</string>
+  <string name="cp_info_first">Online muziekstreamingdienst wordt verzorgd door Ultimate Inc.</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_playlist">Afspeellijst maken</string>
   <string name="create_playlist_failure">Kon geen afspeellijst maken</string>
@@ -121,12 +121,12 @@
   <string name="desktop_lyric_button_close">Sluiten</string>
   <string name="desktop_lyric_button_lock">Vergrendelen</string>
   <string name="desktop_lyric_color">Kleur</string>
-  <string name="desktop_lyric_dialog_msg">Open het in Mijn muziek-Instellingen-Meer geavanceerde instellingen</string>
-  <string name="desktop_lyric_dialog_positive_button">Probeer het nu</string>
-  <string name="desktop_lyric_dialog_title">Probeer bureaubladsongtekst</string>
-  <string name="desktop_lyric_lock_toast">Vergrendeld. Gebruik de  Miniplayer in de notificatiebalk om te ontgrendelen</string>
-  <string name="desktop_lyric_setting_summary">Geef de zwevende songtekst op het bureaublad weer</string>
-  <string name="desktop_lyric_setting_title">Bureaubladsongtekst</string>
+  <string name="desktop_lyric_dialog_msg">Schakel thuisscherm songteksten aan en uit in Muziek &gt; Instellingen &gt; Geavanceerde instellingen</string>
+  <string name="desktop_lyric_dialog_positive_button">Nu proberen</string>
+  <string name="desktop_lyric_dialog_title">Nu proberen</string>
+  <string name="desktop_lyric_lock_toast">Vergrendeld. Je kan muziek ontgrendelen in de notificatiebalk.</string>
+  <string name="desktop_lyric_setting_summary">Songteksten weergeven op thuisscherm</string>
+  <string name="desktop_lyric_setting_title">Thuisscherm songteksten</string>
   <string name="desktop_lyric_textsize">Tekst</string>
   <string name="device_connected">Verbonden</string>
   <string name="device_not_connected">Niet verbonden</string>
@@ -203,7 +203,7 @@
   <string name="download_method">Download</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
   <string name="download_paused">Download gepauzeerd</string>
-  <string name="download_paused_in_power_save_mode">Het apparaat is in energiebesparende modus, download gepauzeerd</string>
+  <string name="download_paused_in_power_save_mode">Huidige downloads zijn gepauzeerd door batterijbespaarder</string>
   <string name="download_pending">Download in de wacht</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">Downloaden…</string>
@@ -219,12 +219,12 @@
   <string name="download_title_sorted_by_date">Downloads - Gesorteerd op datum</string>
   <string name="download_title_sorted_by_size">Downloads - Gesorteerd op grootte</string>
   <string name="download_traffic_dialog_buy_package">Koop muziekdataplan</string>
-  <string name="download_traffic_dialog_msg">Het gebruik van uw mobiele dataverbinding om muziek te downloaden kan uw datakosten verhogen</string>
+  <string name="download_traffic_dialog_msg">Uw mobiele data gebruiken om liedjes te downloaden kan uw datakosten verhogen</string>
   <string name="download_traffic_dialog_negative_button">Wachten op Wi-Fi</string>
-  <string name="download_traffic_dialog_position_button">Eenmaal downloaden</string>
+  <string name="download_traffic_dialog_position_button">Nog steeds aan het downloaden</string>
   <string name="download_unknown_title">&lt;Naamloos&gt;</string>
   <string name="download_wait_connect">Wachten op verbinding</string>
-  <string name="download_when_network_connected">Downloaden door gebruik van dataverbinding</string>
+  <string name="download_when_network_connected">Downloaden met dataverbinding</string>
   <string name="download_while_playing_no_vip_summary">Automatisch nummers downloaden die u online streamt (met uitzondering van betaalde content)</string>
   <string name="download_while_playing_summary">Automatisch muziek downloaden die u online beluistert.</string>
   <string name="download_while_playing_title">Luisteren tijdens het downloaden</string>
@@ -340,7 +340,7 @@
   <string name="japan_korea_male">Zangers (Japan/Korea)</string>
   <string name="keep_queued_download">Behouden</string>
   <string name="ktv_playlist">KTV afspeellijst</string>
-  <string name="latest_song">Afspeelgeschiedenis(%d)</string>
+  <string name="latest_song">Afspeelgeschiedenis (%d)</string>
   <string name="like">Leuk</string>
   <string name="list_detail_title">Details</string>
   <string name="list_item_play_FM_radio">Raak aan om de FM radio af te spelen</string>
@@ -373,7 +373,7 @@
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Annuleer</string>
   <string name="metered_play_toast">Streamen met mobiele data</string>
-  <string name="milink_unavaliable_please_update">Mi Link functie is niet beschikbaar. MIUI systeem updaten.</string>
+  <string name="milink_unavaliable_please_update">Mi Link is niet beschikbaar. Update MIUI.</string>
   <string name="min_sleep_time">1</string>
   <string name="missing_title">&lt;Onbekend&gt;</string>
   <string name="miui_music">Mi Muziek</string>
@@ -434,7 +434,7 @@
   <string name="network_request_error">Kan niet verbinden met netwerk</string>
   <string name="network_settings_error">Kan niet verbinden met netwerk</string>
   <string name="network_traffic">Datagebruik</string>
-  <string name="next_time">Volgende keer</string>
+  <string name="next_time">Niet nu</string>
   <string name="no_album_info">Geen albuminfo</string>
   <string name="no_artist_info">Geen artiestinfo</string>
   <string name="no_enough_info">Niet genoeg info over nummer</string>
@@ -480,7 +480,7 @@
   <string name="order_pending">Bevestiging afwachten</string>
   <string name="order_process_fail">Kon je account niet verifiëren. Probeer het later opnieuw.</string>
   <string name="other_filter">Andere</string>
-  <string name="othor_song_in_album">Andere nummers in zelfde album.</string>
+  <string name="othor_song_in_album">Andere nummers van dit album.</string>
   <string name="package_filter">Pakketten</string>
   <string name="pause_download">Pauze</string>
   <string name="paused_by_app">Gepauzeerd</string>
@@ -499,7 +499,7 @@
   <string name="permission_declaration_positive_text">Ga naar Beveiliging</string>
   <string name="permission_declaration_title">Toegang toestaan</string>
   <string name="play_all_song">Alles afspelen</string>
-  <string name="play_next">Volgende afspelen.</string>
+  <string name="play_next">Volgende afspelen</string>
   <string name="playback_failed_no_title_by_bad_file">Nummer afspelen mislukt. Bestandsformaat niet ondersteund of het bestand bestaat niet.</string>
   <string name="playlist_deleted_message">Afspeellijst verwijderd.</string>
   <string name="playlist_renamed_message">"Naam van afspeellijst gewijzigd in '%s'."</string>
@@ -529,13 +529,13 @@
   <string name="project_device">Mi Telefoon</string>
   <string name="project_device_mobile">Mobiel apparaat</string>
   <string name="radar">ACRCloud</string>
-  <string name="radar_click_to_retry">Klik om opnieuw te proberen</string>
+  <string name="radar_click_to_retry">Tik om opnieuw te proberen</string>
   <string name="radar_fail">Geen resultaten</string>
-  <string name="radar_fail_by_noise">Het kan misschien te luid zijn</string>
-  <string name="radar_listening_state">Herkenning is bezig</string>
-  <string name="radar_possible_result">Mogelijke nummers</string>
+  <string name="radar_fail_by_noise">Ziet ernaar uit dat het te luid is hier</string>
+  <string name="radar_listening_state">Herkennen…</string>
+  <string name="radar_possible_result">Mogelijke resultaten</string>
   <string name="radar_retry">Probeer opnieuw</string>
-  <string name="radar_searching_state">Is bezig met zoeken</string>
+  <string name="radar_searching_state">Zoeken…</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Nu betalen?</string>
   <string name="recommend_fragment_title">Aanbevolen</string>
@@ -551,7 +551,7 @@
   <string name="repeat_all_notif">Alle nummers herhalen.</string>
   <string name="repeat_current_notif">Huidig nummer herhalen.</string>
   <string name="restart_download">Herstarten</string>
-  <string name="restart_immediate">Nu herstarten</string>
+  <string name="restart_immediate">Herstarten</string>
   <string name="resume_download">Hervatten</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer uw dataverbinding en probeer het opnieuw.</string>
@@ -595,7 +595,7 @@
   <string name="set_now">Ga naar instellingen</string>
   <string name="set_ringtones_failed">Beltonen instellen mislukt.</string>
   <string name="set_ringtones_successful">%s succesvol ingesteld als beltoon.</string>
-  <string name="setting_feature_setting">Functie instelling</string>
+  <string name="setting_feature_setting">Functie instellingen</string>
   <string name="settings">Instellingen</string>
   <string name="settings_notification_text">Toon speler widget in meldingsschaduw</string>
   <string name="settings_notification_title">Meldingsschaduw widget</string>
@@ -610,7 +610,7 @@
   <string name="shuffle_on_notif">Shuffle aan.</string>
   <string name="similar_songs">Vergelijkbare nummers</string>
   <string name="sleep_mode">Slaaptimer</string>
-  <string name="song_exist_in_playlist">Operatie mislukt. Nummer bestaat reeds in afspeellijst.</string>
+  <string name="song_exist_in_playlist">Dit nummer staat al in de afspeellijst.</string>
   <string name="sleep_mode_canceled">Slaapmodus geannuleerd</string>
   <string name="sleep_mode_summary">Stop speler na een bepaalde tijd</string>
   <string name="sleep_mode_title">Slaaptimer</string>
@@ -623,10 +623,10 @@
   <string name="sort_by_name">Naam</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Bron: %1$s</string>
-  <string name="start_download_music">Beginnen met downloaden van muziek upgrade pakket</string>
+  <string name="start_download_music">Updates aan het downloaden voor muziek.</string>
   <string name="start_to_download">Downloaden…</string>
   <string name="start_to_play">Afspelen</string>
-  <string name="start_to_use">Begin te genieten</string>
+  <string name="start_to_use">Open muziek</string>
   <string name="start_update">Updaten naar de nieuwste versie van de muziekapp.</string>
   <string name="storage_internal">Interne opslag</string>
   <string name="storage_sd_card">SD kaart</string>
@@ -706,7 +706,7 @@
   <string name="upgrade_immediate">Update nu</string>
   <string name="upgrade_membership">Meer ruimte verkrijgen</string>
   <string name="upgrade_music">Muziek updaten</string>
-  <string name="upgrade_music_message">Pakket is klaar. Herstart om te updaten.</string>
+  <string name="upgrade_music_message">Updates zijn klaar. Herstart om te updaten.</string>
   <string name="upgrade_nobeta">We zullen onze huidige streamingservice stopzetten terwijl auteursrechtelijke kwesties worden opgelost. Excuses voor het ongemak</string>
   <string name="upgrade_remind">Update beschikbaar</string>
   <string name="upgrade_services">Upgrade diensten</string>
@@ -730,7 +730,7 @@
   <string name="warning_tip_content">Je bent niet langer verbonden met Wi-Fi. Uw mobiele dataverbinding gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Als u over uw datalimiet gaat, kan uw provider extra kosten aanrekenen.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Dataverbruik waarschuwing</string>
-  <string name="welcome_to_new_music">Welkom op de nieuwe versie van Mi Muziek</string>
+  <string name="welcome_to_new_music">Welkom bij de nieuwe versie van Mi Muziek</string>
   <string name="wifi_required_body" formatted="false">"U moet Wi-Fi gebruiken om deze %s download te voltooien. 
 
 Raak %s aan om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
