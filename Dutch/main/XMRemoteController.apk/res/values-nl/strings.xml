@@ -47,7 +47,7 @@
   <string name="app_installing">Installeren…</string>
   <string name="app_listitem_installing">Installeren</string>
   <string name="app_listitem_waiting">Wacht op installatie</string>
-  <string name="app_manager_get_data_failed">Kon app info niet verkrijgen</string>
+  <string name="app_manager_get_data_failed">Kon appinfo niet verkrijgen</string>
   <string name="app_manager_no_data">Geen apps gevonden</string>
   <string name="app_name">Mi Remote</string>
   <string name="app_name_for_airkan">Screen cast kunstobject</string>
@@ -294,8 +294,8 @@
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_wifi">Wi-Fi afstandsbediening</string>
   <string name="jump_to_mivideo">Bekijken op mobiel apparaat</string>
-  <string name="just_now">Zopas</string>
-  <string name="just_used">Zopas</string>
+  <string name="just_now">Zojuist</string>
+  <string name="just_used">Zojuist</string>
   <string name="key_press_vibrate">Trillen bij aanraken</string>
   <string name="last_bak_time">Laatste back-up %1$s</string>
   <string name="last_use_frame">%1$s geleden</string>
@@ -328,8 +328,8 @@
   <string name="match_ac_intro_power">Vrijgeven bij afsliuten A/C</string>
   <string name="match_ac_name_mode">Koeling</string>
   <string name="match_ac_name_power">Uitschakelen</string>
-  <string name="match_ch_inc">Schakelt het naar volgende kanaal?</string>
-  <string name="match_chl_dec">Schakelt het naar vorige kanaal?</string>
+  <string name="match_ch_inc">Schakelt het naar het volgende kanaal?</string>
+  <string name="match_chl_dec">Schakelt het naar het vorige kanaal?</string>
   <string name="match_count_frame">Koppel %1$d/%2$d afstandsbediening</string>
   <string name="match_count_tip_frame">Test knoppen (%1$d/%2$d)</string>
   <string name="match_data">Koppelinfo</string>
@@ -545,7 +545,7 @@ Om je account te activeren, volg de
   <string name="passport_login_title">Aanmelden op je Mi Account</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;Aanmelden met e-mail adres of Mi Account ID&lt;/u&gt;</string>
   <string name="passport_next">Volgende</string>
-  <string name="passport_notification_title">Aanmeldigsfout voor %1$s</string>
+  <string name="passport_notification_title">Aanmeldingsfout voor %1$s</string>
   <string name="passport_password_req_notice">Wachtwoord moet 8-16 tekens lang zijn en zowel uit cijfers als letters bestaan (hoofdlettergevoelig).</string>
   <string name="passport_phone_num_hint_text">Telefoonnummer</string>
   <string name="passport_prev">Terug</string>
@@ -588,12 +588,12 @@ Om je account te activeren, volg de
   <string name="passport_restart">Begin opnieuw</string>
   <string name="passport_restart_register_prompt">Een andere verificatie bericht kan nodig zijn om uw account aan te maken.</string>
   <string name="passport_restart_register_title">Maak een Mi Account aan</string>
-  <string name="passport_send_too_many_code">Te veel verificatie codes zijn verzonden naar dit nummer. Wacht 24 uur en probeer opnieuw.</string>
+  <string name="passport_send_too_many_code">Te veel verificatiecodes zijn verzonden naar dit nummer. Wacht 24 uur en probeer opnieuw.</string>
   <string name="passport_setting">Instellen…</string>
   <string name="passport_sim_index_info">SIM kaart %1$d - %2$s</string>
   <string name="passport_skip_login">Aanmelden overslaan</string>
   <string name="passport_skip_register">Inschrijven overslaan</string>
-  <string name="passport_skip_setup_account_msg">U kunt later een Mi-account aanmaken in Instellingen.</string>
+  <string name="passport_skip_setup_account_msg">U kunt later een Mi account aanmaken in Instellingen.</string>
   <string name="passport_skip_setup_account_title">Aanmaken overslaan</string>
   <string name="passport_title_reg">Account aanmaken overslaan</string>
   <string name="passport_trust_device">Dit apparaat vertrouwen</string>
@@ -629,7 +629,7 @@ Om je account te activeren, volg de
   <string name="power_on">Ingeschakeld</string>
   <string name="press_to_continue_match">Tik om door te gaan</string>
   <string name="press_to_match">Tik om te koppelen</string>
-  <string name="privacy_content">"Lees Xiaomi's <a href="http://www.miui.com/res/doc/privacy/en.html">Privacybeleid</a> en <a href="http://www.miui.com/res/doc/eula/en.html">Gebruikersovereenkomst</a> voordat u Mi Remote gebruikt. Toegang tot het internet en locatiediensten is nodig voor de app normaal te werken.</string>
+  <string name="privacy_content">"Lees Xiaomi's <a href="http://www.miui.com/res/doc/privacy/en.html">Privacybeleid</a> en <a href="http://www.miui.com/res/doc/eula/en.html">Gebruikersovereenkomst</a> voordat u Mi Remote gebruikt. Toegang tot het internet en locatiediensten is nodig voor de app om normaal te werken.</string>
   <string name="privacy_nohit">Niet meer opnieuw tonen</string>
   <string name="privacy_title">Algemene voorwaarden</string>
   <string name="program_booking_book_filter_book_status">Status reserveren</string>
@@ -646,7 +646,7 @@ Om je account te activeren, volg de
   <string name="program_booking_date_filter_thursday">Donderdag</string>
   <string name="program_booking_date_filter_tuesday">Dinsdag</string>
   <string name="program_booking_date_filter_wednesday">Woensdag</string>
-  <string name="program_booking_date_filter_whole_week">Gans de week</string>
+  <string name="program_booking_date_filter_whole_week">De hele week</string>
   <string name="program_booking_time_filter_dawn">Voor dag en dauw</string>
   <string name="program_booking_time_filter_day">Dag</string>
   <string name="program_booking_time_filter_night">"'s Avonds"</string>

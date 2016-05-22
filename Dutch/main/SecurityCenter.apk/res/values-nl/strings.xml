@@ -8,15 +8,18 @@
   <string name="Settings_title_network_assistants">Instellingen netwerkassistent</string>
   <string name="Settings_title_power_center">Batterij-instellingen</string>
   <string name="ac_enable_title">Appvergrendeling inschakelen</string>
+  <string name="ac_enter_applock">Appvergrendeling openen</string>
   <string name="ac_firstUseApplock_subTitle">Gebruik appvergrendeling om uw privacy te beschermen</string>
-  <string name="ac_firstUseApplock_title">Vereis wachtwoord om geselecteerde apps te openen</string>
+  <string name="ac_firstUseApplock_title">Wachtwoord vereisen om geselecteerde apps te openen</string>
+  <string name="ac_summaryOff">Uitgeschakeld, wachtwoord is niet vereist om apps te openen</string>
+  <string name="ac_summaryOn">Ingeschakeld, wachtwoord is vereist om apps te openen</string>
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
   <string name="access_control_need_to_unlock">"Scan met vingerafdruk
-of voer appblokkeringswachtwoord in"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Voer wachtwoord voor appblokkering in</string>
-  <string name="access_control_recording_intro_header">Teken een patroon om appblokkering toe te voegen</string>
-  <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om wachtwoord voor appblokkering te resetten</string>
+of voer wachtwoord voor appvergrendeling in"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Voer wachtwoord voor appvergrendeling in</string>
+  <string name="access_control_recording_intro_header">Teken een patroon om appvergrendeling toe te voegen</string>
+  <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om wachtwoord voor appvergrendeling te resetten</string>
   <string name="activity_title_antispam">Zwarte lijst</string>
   <string name="activity_title_antivirus">Virusscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -79,7 +82,7 @@ of voer appblokkeringswachtwoord in"</string>
   <string name="app_detail">Details</string>
   <string name="app_install_intercept">Installatie blokkeren</string>
   <string name="app_mobile">Mobiel</string>
-  <string name="app_name">Appblokkering</string>
+  <string name="app_name">Appvergrendeling</string>
   <string name="app_name_na">Dataverbruik</string>
   <string name="app_name_securitycenter">Veiligheid</string>
   <string name="app_not_installed_toast">App is niet geïnstalleerd op apparaat</string>
@@ -293,9 +296,9 @@ of voer appblokkeringswachtwoord in"</string>
   <string name="examination_score_80_100_with_recommend">%d items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_80_60">Sommige items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
-  <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appblokkering</string>
+  <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
-  <string name="fingerprint_not_identified_msg">Om uw apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
+  <string name="fingerprint_not_identified_msg">Om het apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
   <string name="fingerprint_not_remind">Niet meer vragen</string>
   <string name="fingerprint_remind_dialog_title">Vingerafdrukontgrendeling</string>
   <string name="fingerprint_to_lock">Ontgrendelen met vingerafdruk</string>
@@ -855,6 +858,7 @@ of voer appblokkeringswachtwoord in"</string>
   <string name="pref_leisure_no_overlay">Ingeschakeld</string>
   <string name="pref_leisure_not_opened">Uitgeschakeld</string>
   <string name="pref_manual_adjust">Dataverbruikstatistieken handmatig instellen</string>
+  <string name="pref_mi_sim_settings">Mi SIM instellingen</string>
   <string name="pref_month_begin_date">Resetdatum verbruik</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Extra instellingen</string>
@@ -972,7 +976,7 @@ of voer appblokkeringswachtwoord in"</string>
   <string name="scanning_bar_system_title">Systeem scannen…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">Appblokkering</string>
+  <string name="security_app_lock">Appvergrendeling</string>
   <string name="security_scan_optimizing">Optimaliseren…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Patroon selecteren</string>
@@ -1318,6 +1322,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usbsharenet_exception_title">Test gedeelt netwerk via USB</string>
   <string name="usbsharenet_pc_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de internetverbinding van uw computer.</string>
   <string name="virus_list_header_title">%d virussen gedetecteerd</string>
+  <string name="warning_open_mi_sim">Mi SIM inschakelen</string>
   <string name="wifi_exception_summary">Test beschikbare Wi-Fi netwerken</string>
   <string name="wifi_exception_title">Test Wi-Fi netwerk</string>
   <string name="wifi_network_blocked_notification_title">Geen internetverbinding</string>

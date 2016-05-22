@@ -6,10 +6,10 @@ Reclame identificatie is een permanente ID die uniek is voor uw apparaat. Verkop
 
 Als u kiest voor gepersonaliseerde advertenties niet te gebruiken, zal de reclame niet worden verminderd, maar de hoeveelheid advertenties nuttig voor u zullen aanzienlijk afnemen."</string>
   <string name="about_settings">Over apparaat</string>
-  <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
-  <string name="ac_enable_summary">Wachtwoord zal zijn vereist om de app te openen</string>
-  <string name="ac_enable_title">Vergrendel individuele apps</string>
-  <string name="ac_privacy_mode_sum">Wachtwoord vereist om gastmodus uit te schakelen</string>
+  <string name="about_settings_summary">Juridische info, status, softwareversie</string>
+  <string name="ac_enable_summary">Wachtwoord instellen voor individuele apps</string>
+  <string name="ac_enable_title">Appvergrendeling</string>
+  <string name="ac_privacy_mode_sum">Wachtwoord vereisen om gastmodus uit te schakelen</string>
   <string name="ac_privacy_mode_title">Wachtwoord</string>
   <string name="ac_set_apps_title">Apps kiezen om te blokkeren</string>
   <string name="accelerometer_summary_off">Stand automatisch wijzigen als apparaat wordt gedraaid</string>
@@ -178,7 +178,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_disable_notifications_dlg_text">Als u meldingen voor deze app uitschakelt, mist u misschien belangrijke waarschuwingen en updates.</string>
   <string name="app_disable_notifications_dlg_title">Meldingen uitschakelen?</string>
   <string name="app_factory_reset">Updates verwijderen</string>
-  <string name="app_factory_reset_dlg_text">Alle updates van deze app van het Android systeem worden verwijderd.</string>
+  <string name="app_factory_reset_dlg_text">Alle updates van deze systeemapp worden verwijderd.</string>
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
   <string name="app_floating_window_dlg_disable">"Het uitschakelen van %1$s's floating scherm zal de app doen stoppen. Floating schermen uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Het inschakelen van %1$s's floating scherm instellingen benodigd een herstart van de app. U kunt de app ook handmatig stoppen. Floating schermen inschakelen?"</string>
@@ -265,7 +265,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterij en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
   <string name="background_data_summary">Onbeperkt gegevens sync., verzenden en ontvangen</string>
-  <string name="background_process_stop_description">Dit is een oud app proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
+  <string name="background_process_stop_description">Dit is een oud appproces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
   <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-up gegevens</string>
   <string name="backup_configure_account_title">Back-up account</string>
   <string name="backup_data_summary">Een back-up van appgegevens, Wi-Fi wachtwoorden en andere instellingen maken op de Google-servers</string>
@@ -927,6 +927,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Gebruikerservaringprogramma</string>
   <string name="debug_monitoring_category">Controleren</string>
+  <string name="debug_networking_category">Verbindingen</string>
   <string name="debug_view_attributes">Attribuut inspectie bekijken inschakelen</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Kies standaard toetsenbord</string>
@@ -1389,7 +1390,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">Ondersteunt geen werkprofielen</string>
-  <string name="ime_security_warning">%1$sDit toetsenbord kan alles registreren wat u typt, inclusief wachtwoorden, creditcardnummers en andere persoonlijke gegevens.</string>
+  <string name="ime_security_warning">%1$s kan alles registreren wat u typt, inclusief wachtwoorden, creditcardnummers en andere persoonlijke gegevens.</string>
   <string name="imei_information_summary">IMEI gerelateerde informatie</string>
   <string name="imei_information_title">IMEI informatie</string>
   <string name="immediately_destroy_activities">Activiteiten niet behouden</string>
@@ -1606,7 +1607,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
   <string name="lock_screen_unlock_show">Scherm vegen overslaan</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord invoeren na het ontwaken</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Klik om te wijzigen</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">" Klik om te wijzigen"</string>
   <string name="lock_settings">Vergrendelscherm en wachtwoord</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
   <string name="lock_settings_picker_settings">Schermbeveiliging instellen</string>
@@ -1906,7 +1907,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_hifi_volume">HiFi volume</string>
   <string name="music_mi_effect_summary">Gebruik Mi geluidsversterker bij gebruik van koptelefoon</string>
   <string name="music_mi_effect_title">Mi geluidsversterker</string>
-  <string name="music_title_dolby_control">Dolby digitaal plus</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Muziekeffecten</string>
   <string name="mvno_match_data">MVNO waarde</string>
   <string name="nearby_wifi">Beschikbare netwerken</string>
@@ -2069,9 +2070,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="performance_category">Prestatie</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">%1$d beveiliging | %2$d privacy | %3$d overig</string>
-  <string name="permission_manage">Machtigingen beheren</string>
+  <string name="permission_manage">Toestemmingen beheren</string>
   <string name="permission_manage_summary">Uw toestemming vragen voordat apps uw contacten kunnen lezen, uw oproepgeschiedenis kunnen lezen, systeeminstellingen wijzigen, of toegang willen tot de camera en andere apparaatbronnen</string>
-  <string name="permission_manage_title">%s machtigingen</string>
+  <string name="permission_manage_title">Toestemmingen voor %s</string>
   <string name="permission_manager">Toestemmingen</string>
   <string name="permission_mgr">Toestemmingen</string>
   <string name="permissions_label">Toestemmingen</string>
@@ -3247,7 +3248,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Betrouwbare internationale roamingservice</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
-  <string name="virtual_sim_global_description">Er is geen SIM kaart nodig om te verbinden met data netwerk</string>
+  <string name="virtual_sim_global_description">Er is geen SIM kaart nodig om te verbinden met datanetwerk</string>
   <string name="virtual_sim_global_title">Data verkeerservice</string>
   <string name="virtual_sim_search_title">Virtuele SIM</string>
   <string name="virtual_sim_title">Roaming datanetwerk</string>
