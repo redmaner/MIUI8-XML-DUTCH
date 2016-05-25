@@ -36,6 +36,7 @@
   <string name="album_already_exists">Een album met dezelfde naam bestaat reeds</string>
   <string name="album_already_forced_top">Reeds bovenop</string>
   <string name="album_camera_name">Camera</string>
+  <string name="album_detail_clear_local_page_empty">"Geen geback-upte foto\'s of video\'s om te verwijderen"</string>
   <string name="album_detail_page_empty">Geen foto\'s of video\'s</string>
   <string name="album_faces_name">Personen</string>
   <string name="album_member">Albumleden %s</string>
@@ -104,8 +105,11 @@
   <string name="baby_suffix">baby</string>
   <string name="backup_automatically_summary">Foto\'s en video\'s op alle apparaten back-uppen naar Mi Cloud. U kunt gemakkelijk foto\'s en video\'s bladeren, sorteren, bewerken en delen op alle apparaten.</string>
   <string name="backup_automatically_title">Automatisch sync. en back-uppen</string>
+  <string name="backup_detail_page_title">Mi Cloud back-ups</string>
   <string name="backup_only_in_wifi">Alleen Wi-Fi gebruiken om foto\'s en video\'s te back-uppen</string>
   <string name="backup_only_in_wifi_summary">Nooit mobiele data gebruiken om foto\'s en video\'s te back-uppen</string>
+  <string name="backup_waiting_button_text">Nu back-uppen</string>
+  <string name="backuping">%1$d/%2$d aan het back-uppen</string>
   <string name="begin_share">Baby album aanmaken \"%s\", u kan die nu delen</string>
   <string name="begin_share_toast">Een apart album voor dit kind aanmaken voordat u die deelt?</string>
   <string name="black_white">Zwart &amp; wit</string>
@@ -131,6 +135,7 @@
   <string name="choose_owner_relation">Relatie</string>
   <string name="choose_people">Album van persoon kiezen</string>
   <string name="choose_some_people">Kies album met %s</string>
+  <string name="clear_local_photo_direction">Als u foto\'s of video\'s verwijdert van uw apparaat, zullen ze nog steeds beschikbaar zijn in Mi Cloud</string>
   <string name="click_download_gif">Tik om gif te downloaden</string>
   <string name="click_top_right">Tik op het icoon rechtsboven</string>
   <string name="cloud_camera_display_name">Camerafoto\'s</string>
@@ -141,6 +146,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
   <string name="cloud_settings">Mi Cloud</string>
+  <string name="cloud_space_full_button_text">Meer Mi Cloud opslag verkrijgen</string>
   <string name="cloudfolder_cannot_start_with">"De naam van een album kan niet beginnen met '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"De naam van een album kan geen '%s' bevatten"</string>
   <string name="cloudfolder_name_cannot_empty">Geef de album een naam</string>
@@ -215,11 +221,11 @@
   <string name="doodle">Doodle</string>
   <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
   <string name="doodle_tooltip">Aanraken om te doodlen</string>
-  <string name="download_retry_message">Fout bij downloaden van afbeeldingen, verbind met netwerk en probeer opnieuw.</string>
+  <string name="download_retry_message">Kon bestanden niet downloaden, controleer netwerkverbinding en probeer opnieuw.</string>
   <string name="download_retry_text">Opnieuw proberen</string>
-  <string name="download_retry_title">Downloadfout</string>
+  <string name="download_retry_title">Kon bestanden niet downloaden</string>
   <string name="download_tip">Downloaden</string>
-  <string name="download_title">Bestanden worden voorbereid...</string>
+  <string name="download_title">Bestanden voorbereiden…</string>
   <string name="download_without_wifi_msg">"Het gebruik van uw mobiele dataverbinding om foto's te downloaden zal uw dataverbruik verhogen. Als je de datalimiet overschrijdt, kan uw provider extra kosten aanrekenen."</string>
   <string name="download_without_wifi_title">Waarschuwing dataverbruik</string>
   <string name="duotone">Duotone</string>
@@ -360,6 +366,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="loading_suspend">Download gepauzeerd: Wordt hervat bij een Wi-Fi verbinding</string>
   <string name="loading_video">Video laden…</string>
   <string name="loading_video_thumbnail">Video cover downloaden…</string>
+  <string name="local_space_full_button_text">Ruimte wissen</string>
   <string name="lomoish">Lomo</string>
   <string name="login_and_enable_service">Log in met Mi account</string>
   <string name="long_press_to_refocus">&amp; ingedrukt houden om focus bij te stellen</string>
@@ -377,10 +384,11 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="more_face_album_name">Meer personen</string>
   <string name="must_pick_file">Kies een foto</string>
   <string name="need_to_turn_on_network">U hebt geen internetverbinding</string>
-  <string name="need_to_turn_on_sync">Eerst back-ups naar Mi Cloud inschakelen</string>
+  <string name="need_to_turn_on_sync">Schakel eerst synchroniseren met Mi Cloud in</string>
   <string name="need_to_turn_on_wlan">Eerst met Wi-Fi verbinden</string>
   <string name="negative">Negatief</string>
   <string name="network_connected_rescan">Kan niet verbinden met netwerk</string>
+  <string name="network_unsatisfied_button_text">Verbinden met netwerk</string>
   <string name="next">Volgende</string>
   <string name="no">Nee</string>
   <string name="no_map_app">Er is geen app beschikbaar voor deze actie</string>
@@ -399,9 +407,11 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Synchronisatie met Mi Cloud uitschakelen</string>
+  <string name="operation_do_delete_local_thumnail">Verwijderen van apparaat</string>
   <string name="operation_download">Foto downloaden (%s)</string>
   <string name="operation_edit">Bewerken</string>
   <string name="operation_enable_auto_upload">Synchronisatie met Mi Cloud inschakelen</string>
+  <string name="operation_enter_delte_thumbnail">Geback-upte foto\'s en video\'s van apparaat verwijderen</string>
   <string name="operation_failed">Uitvoering mislukt</string>
   <string name="operation_force_top">Pin</string>
   <string name="operation_hide">Verbergen</string>
@@ -484,6 +494,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="relation_text_maternal_grandmother">Grootmoeder van moederszijde</string>
   <string name="relation_text_mother">Moeder</string>
   <string name="relation_with_you">Relatie kiezen</string>
+  <string name="release_space_finish_format">%s lokale opslag vrijgemaakt</string>
   <string name="remove_from_secret_fail">Verwijderen uit verborgen album mislukt</string>
   <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderen uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items kunnen niet verwijderd worden uit verborgen album. %1$s."</string>
@@ -568,7 +579,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="sync_album_in_proecess">Album sync. met server…</string>
   <string name="sync_battery_low">Batterij laag</string>
   <string name="sync_cloud_space_full">Niet genoeg ruimte op de Mi Cloud</string>
-  <string name="sync_diabled_toast">Sync is uitgeschakeld</string>
+  <string name="sync_diabled_toast">Synchronisatie is uitgeschakeld</string>
+  <string name="sync_off_button_text">Synchronisatie inschakelen</string>
   <string name="system_album">Systeemalbum</string>
   <string name="temperature">Hue</string>
   <string name="terabyteShort">TB</string>

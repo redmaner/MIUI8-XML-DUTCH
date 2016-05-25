@@ -13,7 +13,7 @@
   <string name="account_binded_phone">Telefoon %d</string>
   <string name="account_crop_user_avatar">Foto bijsnijden</string>
   <string name="account_empty_user_name">Voer je Mi account gebruikersnaam in</string>
-  <string name="account_error_all_space_user_name">Naam kan niet uit alleen maar spaties bestaan</string>
+  <string name="account_error_all_space_user_name">Naam kan niet alleen maar spaties bevatten</string>
   <string name="account_error_longer_user_name">Naam mag niet langer zijn dan 20 tekens</string>
   <string name="account_error_shorter_user_name">Naam moet langer zijn dan 2 tekens</string>
   <string name="account_error_user_birthday">De ingevoerde verjaardag is ongeldig</string>
@@ -114,7 +114,7 @@
   <string name="find_device_access_denied">"Kan status niet verkrijgen, toegang geweigerd"</string>
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
   <string name="find_device_bad_response_error">"Kan status niet verkrijgen door serverfout, probeer later opnieuw"</string>
-  <string name="find_device_error_password_not_confirmed">"Kan apparaat vinden niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in"</string>
+  <string name="find_device_error_password_not_confirmed">"Kan apparaat vinden niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in."</string>
   <string name="find_device_error_password_recently_changed">"U heeft uw wachtwoord de afgelopen 3 dagen veranderd. Kan nu apparaat vinden niet uitschakelen om veiligheidsredenen."</string>
   <string name="find_device_interrupted">Actie is onderbroken, probeer later opnieuw</string>
   <string name="find_device_io_error">"Kan niet verbinden met het netwerk"</string>
@@ -128,7 +128,7 @@
   <string name="forward_to_bind">Toevoegen</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
   <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
-  <string name="i_know">Ik weet het</string>
+  <string name="i_know">Begrepen</string>
   <string name="ignore">Niet nu</string>
   <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
   <string name="just_a_second">Een momentje…</string>
@@ -180,7 +180,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_downlink_reg">Account aanmaken door middel van telefoonnummer</string>
   <string name="passport_email">E-mailadres</string>
   <string name="passport_email_or_id_hint_text">E-mailadres of Mi account ID</string>
-  <string name="passport_email_reg_success_summary">%1$s is gebonden aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
+  <string name="passport_email_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
   <string name="passport_error_device_id">Kan apparaat ID niet verkrijgen</string>
   <string name="passport_error_dup_email">Ingevoerde e-mail is al gekoppeld aan een ander account</string>
   <string name="passport_error_dup_phone">Dit telefoonnummer is al gekoppeld aan een ander account</string>
@@ -206,7 +206,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_error_verify_code">De ingevoerde code is fout.</string>
   <string name="passport_failed_to_send_activate_email">Kon activatie e-mail niet verzenden</string>
   <string name="passport_find_device_activate_account">Account activeren</string>
-  <string name="passport_find_device_display_id">ontgrendelnummer:%s</string>
+  <string name="passport_find_device_display_id">Ontgrendelnummer: %s</string>
   <string name="passport_find_password_on_web_msg">Bezoek account.mi.com om uw wachtwoord te resetten.</string>
   <string name="passport_forget_password">Wachtwoord vergeten</string>
   <string name="passport_forget_password_no_underline">Wachtwoord vergeten</string>
@@ -256,7 +256,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_reg_prompt">Geen Mi Account? Maak er gratis één aan.</string>
   <string name="passport_reg_sms_send_prompt">Verzend verificatiecode naar %s</string>
   <string name="passport_reg_success">Account aangemaakt</string>
-  <string name="passport_reg_success_summary">%1$s is gebonden aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
+  <string name="passport_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
   <string name="passport_reg_type_email">Gebruik e-mailadres</string>
   <string name="passport_reg_type_other_ways">Gebruik je e-mail of alternatief telefoonnummer</string>
   <string name="passport_reg_type_other_ways_title">Maak een Mi account aan</string>
@@ -298,7 +298,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_uplink_slot1_reg">SIM 1 gebruiken</string>
   <string name="passport_uplink_slot2_reg">SIM 2 gebruiken</string>
   <string name="passport_use_generated_pwd_message">Zorg ervoor dat u uw wachtwoord onthoudt. U kunt het gebruiken om aan te melden bij andere Mi diensten.</string>
-  <string name="passport_use_generated_pwd_title">Wachtwoord herinneren!</string>
+  <string name="passport_use_generated_pwd_title">Onthoud uw wachtwoord</string>
   <string name="passport_user_agreement">Gebruikersovereenkomst</string>
   <string name="passport_user_agreement_p1">"Akkoord gaan met "</string>
   <string name="passport_user_agreement_p2">Gebruikersovereenkomst</string>
