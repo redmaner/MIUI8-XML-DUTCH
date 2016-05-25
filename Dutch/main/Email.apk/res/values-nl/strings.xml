@@ -6,7 +6,7 @@
   <string name="account_duplicate_dlg_message_fmt">"        U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_name_toast">Kan geen account aanmaken. Een account met dezelfde naam al bestaat</string>
-  <string name="account_options_sync_title">Sync.</string>
+  <string name="account_options_sync_title">Synchronisatie</string>
   <string name="account_password_spaces_error">"Dit wachtwoord begint of eindigt met een of meerdere
         spaties. Veel servers bieden geen ondersteuning voor wachtwoorden met spaties."</string>
   <string name="account_security_dialog_content_fmt">"Voor %s moet u uw beveiligingsinstellingen
@@ -117,9 +117,9 @@
   <string name="account_setup_options_mail_check_frequency_12hour">Elke 12 uur</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Elk uur</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Elke 4 uur</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">Automatisch(Push, als de server dit ondersteunt)</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Automatisch (push, als de server dit ondersteunt)</string>
   <string name="account_setup_options_mail_check_frequency_never">Nooit</string>
-  <string name="account_setup_options_mail_check_frequency_push">Automatisch(push)</string>
+  <string name="account_setup_options_mail_check_frequency_push">Automatisch (push)</string>
   <string name="account_setup_options_mail_window_1day">Gisteren</string>
   <string name="account_setup_options_mail_window_1month">Afgelopen maand</string>
   <string name="account_setup_options_mail_window_1week">Afgelopen week</string>
@@ -138,7 +138,7 @@
          bepaalde beveiligingsfuncties van uw Android apparaat extern te bedienen. Wilt u het instellen van dit account
 		 voltooien?"</string>
   <string name="account_setup_security_required_title">Extern beveiligingsbeheer</string>
-  <string name="account_setup_server_acc_manager_title">Accounten</string>
+  <string name="account_setup_server_acc_manager_title">Accounts</string>
   <string name="account_setup_username_password_toast">"        Voer een geldig e-mailadres en wachtwoord in."</string>
   <string name="account_sync_off">Accountsynchronisatie is uitgeschakeld.</string>
   <string name="account_waiting_for_folders_msg">Mappenlijst laden…</string>
@@ -153,7 +153,7 @@
   <string name="add_pre_message_attachments_no">Niet toevoegen</string>
   <string name="add_pre_message_attachments_yes">Toevoegen</string>
   <string name="add_star">Favoriet</string>
-  <string name="allread">Alles Gelezen</string>
+  <string name="allread">Alles gelezen</string>
   <string name="always_bcc_myself">Altijd Bcc naar mijzelf</string>
   <string name="always_show_images">Afbeeldingen van deze afzender altijd tonen</string>
   <string name="app_name">E-mail</string>
@@ -232,6 +232,7 @@
   <string name="click_to_reload">Tik op scherm om te vernieuwen</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
+  <string name="compose">Opstellen</string>
   <string name="compose_attachment_number_limit">kan niet meer dan 10 bijlagen toevoegen</string>
   <string name="compose_picturesexceedlimits">Kan niet meer dan 5 in lijn afbeeldingen in bericht overschreiden</string>
   <string name="compose_send">Verzenden</string>
@@ -292,11 +293,11 @@
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Vandaag, %1$s</string>
   <string name="default_">STANDAARD</string>
-  <string name="default_exchange">Exchange</string>
+  <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
-  <string name="default_setup">STANDAARD INSTELLINGEN</string>
-  <string name="default_signature">Verzonden van mijn Xiaomi</string>
+  <string name="default_setup">STANDAARDINSTELLINGEN</string>
+  <string name="default_signature">Verstuurd vanaf mijn Mi telefoon</string>
   <string name="del_account_questionnair_hint">Kan je ons vertellen waarom u dit account verwijderd?</string>
   <string name="delete">Verwijderen</string>
   <string name="deleted">Verwijderd</string>
@@ -319,9 +320,9 @@
   <string name="discard_drafts">Concepten verwijderen</string>
   <string name="dismiss_tip_hover_text">Tip negeren</string>
   <string name="disturb_switch">Niet storen</string>
-  <string name="done">Voltooid</string>
-  <string name="done_action">Voltooid</string>
-  <string name="donot_disturb_endtime_title">Naar</string>
+  <string name="done">Voltooien</string>
+  <string name="done_action">Voltooien</string>
+  <string name="donot_disturb_endtime_title">Tot</string>
   <string name="donot_disturb_starttime_title">Van</string>
   <string name="donot_disturb_summary">Meldingen voor binnenkomende e-mails zullen gedempt worden</string>
   <string name="donot_disturb_title">Niet storen</string>
@@ -437,7 +438,7 @@
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Minuscuul</string>
   <string name="generic_attachment_problem">Kan bestand niet bijvoegen.</string>
-  <string name="get_database_exception">"Wis de gegevens van deze app in Instellingen &gt; Systeem apps en probeer het opnieuw"</string>
+  <string name="get_database_exception">"Wis de gegevens van deze app in Instellingen &gt; Systeemapps en probeer het opnieuw"</string>
   <string name="gmail_acceleration">Gebruik proxy server voor Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Proxy server gebruiken voor toegang tot je Gmail Account?</string>
   <string name="gmail_login_failed_non_proxy_title">Kon geen toegang tot de Gmail server krijgen</string>
@@ -495,11 +496,11 @@
   <string name="mailbox_name_display_junk">Ongewenst</string>
   <string name="mailbox_name_display_outbox">Postvak UIT</string>
   <string name="mailbox_name_display_sent">Verzonden</string>
-  <string name="mailbox_name_display_starred">Favoriet</string>
+  <string name="mailbox_name_display_starred">Favorieten</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
   <string name="mailbox_settings_activity_title">Sync. instellingen</string>
-  <string name="mailbox_settings_activity_title_with_mailbox">Sync. instellingen(%s)</string>
+  <string name="mailbox_settings_activity_title_with_mailbox">Sync. instellingen (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail sync van</string>
   <string name="mailbox_settings_sync_enabled_label">Deze map synchroniseren</string>
   <string name="mailbox_settings_sync_enabled_summary">Gesync. berichten in deze map</string>
@@ -661,9 +662,9 @@
   <string name="password_expired_ticker">Uw PIN code of wachtwoord voor schermvergrendeling is verlopen.</string>
   <string name="perference_change_pw_notnull_tips">Invoeren wachtwoord</string>
   <string name="perference_change_pw_ok_tips">Wachtwoord veranderd</string>
-  <string name="perference_setup_pop_del">Verwijderen van mail server</string>
-  <string name="perference_setup_recv_tag">Inkomende mail server</string>
-  <string name="perference_setup_send_tag">Uitgaande mail server</string>
+  <string name="perference_setup_pop_del">Verwijderen van mailserver</string>
+  <string name="perference_setup_recv_tag">Server inkomende mail</string>
+  <string name="perference_setup_send_tag">Server uitgaande mail</string>
   <string name="permission_access_provider_desc">Hiermee geeft u deze app toegang tot uw e-maildatabase, inclusief ontvangen berichten, verzonden berichten, gebruikersnamen en wachtwoorden.</string>
   <string name="permission_access_provider_label">Gegevens e-mailprovider openen</string>
   <string name="permission_read_attachment_desc">Hiermee kan de app uw e-mailbijlagen lezen.</string>
@@ -702,11 +703,11 @@
   <string name="policy_screen_timeout">Inactief apparaat vergrendelt scherm</string>
   <string name="policy_text_truncation">Tekst e-mail grootte beperken</string>
   <string name="pop3_name">POP3</string>
-  <string name="preference_eas_tips">Tik op Votooid om mailserver in te stellen</string>
+  <string name="preference_eas_tips">Tik op voltooien om mailserver in te stellen</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, zullen bijlagen automatisch gedownload worden met e-mail zelf. Dit kan uw mobiele datagebruik verhogen.</string>
-  <string name="preference_sender_image_description">Afbeelding van afzender weergeven in Postvak In</string>
-  <string name="preference_sender_image_title">Afbeelding van afzender weergeven in Postvak In</string>
+  <string name="preference_sender_image_description">Afbeelding van afzender weergeven in Postvak IN</string>
+  <string name="preference_sender_image_title">Afbeelding van afzender weergeven in Postvak IN</string>
   <string name="preferences_signature_dialog_title">Handtekening</string>
   <string name="preferences_signature_summary_not_set">Geen</string>
   <string name="preferences_signature_title">Handtekening</string>
@@ -762,7 +763,7 @@
 &gt;"</string>
   <string name="quote_divider_huawei_zh">Van Huawei mobiele telefoon</string>
   <string name="quote_divider_ipad_zh">Van iPad</string>
-  <string name="quote_divider_iphone_en">Verzonden van mijn iPhone</string>
+  <string name="quote_divider_iphone_en">Verstuurd vanaf mijn iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Begin doorgestuurd bericht:</string>
   <string name="quote_divider_iphone_fwd_zh">De volgende is een doorgestuurd bericht:</string>
   <string name="quote_divider_ks_web">________________________________________</string>
@@ -786,7 +787,7 @@
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Favoriet verwijderen</string>
   <string name="reply">Beantwoorden</string>
-  <string name="reply_add_bodycontent">Snel antwoord toevoegen aan berichtinhoud??</string>
+  <string name="reply_add_bodycontent">Snel antwoord toevoegen aan berichtinhoud?</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="report_phishing">Phishing melden</string>
@@ -796,7 +797,7 @@
   <string name="save_action">Opslaan</string>
   <string name="save_attachment">Opslaan</string>
   <string name="save_draft_failed">Concept opslaan mislukt</string>
-  <string name="save_power_summary">Stel de batterijverbruikstijd in</string>
+  <string name="save_power_summary">Tijd batterijbesparing instellen</string>
   <string name="save_power_title">Batterijbespaarder</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
@@ -890,8 +891,8 @@
   <string name="toast_bar_fail_synchronization">Kan niet verbinden met netwerk</string>
   <string name="toast_bar_insufficient_memory_space">Niet genoeg opslag ruimte</string>
   <string name="toast_bar_invalid_account">Opnieuw aanmelden</string>
-  <string name="toast_bar_no_connection_network">Je heb geen internet verbinding</string>
-  <string name="toast_bar_open_gmail_synchronization">Tik om de  proxy server te gebruiken voor Gmail</string>
+  <string name="toast_bar_no_connection_network">Er is geen internetverbinding</string>
+  <string name="toast_bar_open_gmail_synchronization">Tik om de  proxyserver te gebruiken voor Gmail</string>
   <string name="too_large_to_attach_additional">Bestand niet bijgevoegd. Limiet van %1$s bereikt.</string>
   <string name="too_large_to_attach_multiple">Een of meer bestanden niet bijgevoegd. Limiet van %1$s.</string>
   <string name="too_large_to_attach_single">Kan bestand groter dan %1$s niet bijvoegen.</string>
@@ -910,7 +911,7 @@
   <string name="unselected_lable">Meer</string>
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="unzip_file_failed">Kon dit bestand niet unzippen</string>
-  <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+  <string name="update_date_format_templete">dd MMMM, HH:mm</string>
   <string name="updated_at">Laatst bijgewerkt op %1$s</string>
   <string name="upload_log">Upload logs</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
