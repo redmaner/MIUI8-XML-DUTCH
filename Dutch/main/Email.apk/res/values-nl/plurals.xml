@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d ongelezen</item>
-	    <item quantity="one">%1$d ongelezen</item>
+        <item quantity="other">%1$d ongelezen berichten</item>
+	    <item quantity="one">%1$d ongelezen berichten</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">Deze %1$d conversaties archiveren?</item>
+        <item quantity="other">%1$d conversaties archiveren?</item>
         <item quantity="one">Deze conversatie archiveren?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Deze %1$d conversaties verwijderen?</item>
+        <item quantity="other">%1$d conversaties verwijderen?</item>
         <item quantity="one">Deze conversatie verwijderen?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Deze gesprekken bevatten samengevoegde artikelen. Toch verwijderen?</item>
-        <item quantity="one">Dit gesprek bevat samengevoegde artikelen. Toch verwijderen?</item>
+        <item quantity="other">Deze gesprekken bevatten meerdere berichten. Toch verwijderen?</item>
+        <item quantity="one">Dit gesprek bevat meerdere berichten. Toch verwijderen?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d geselecteerd</item>
-        <item quantity="one">%d geselecteerd</item>
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b>%1$d&lt;/b> gearchiveerd.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> gearchiveerd.</item>
+        <item quantity="other">%1$d conversaties gearchiveerd.</item>
+        <item quantity="one">%1$d conversatie gearchiveerd.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> verwijderd.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> verwijderd.</item>
+        <item quantity="other">%1$d conversaties verwijderd.</item>
+        <item quantity="one">%1$d conversatie verwijderd.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Mappen gewijzigd.</item>
         <item quantity="one">Map gewijzigd.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> gedempt</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> gedempt.</item>
+        <item quantity="other">%1$d conversaties genegeerd</item>
+        <item quantity="one">%1$d conversatie genegeerd</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&lt;b>%1$d&lt;/b> berichten verwijderd uit de 'belangrijke' map"</item>
-        <item quantity="one">"&lt;b>%1$d&lt;/b> bericht verwijderd uit de 'belangrijke' map"</item>
+        <item quantity="other">"%1$d conversaties verwijderd uit de 'belangrijke' map"</item>
+        <item quantity="one">"%1$d conversatie verwijderd uit de 'belangrijke' map"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&lt;b>%1$d&lt;/b> verwijderd uit de 'spam' map"</item>
-        <item quantity="one">"&lt;b>%1$d&lt;/b> verwijderd uit de 'spam' map"</item>
+        <item quantity="other">"%1$d conversaties verwijderd uit de 'spam' map"</item>
+        <item quantity="one">"%1$d conversatie verwijderd uit de 'spam' map"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b> %1$d &lt;/b> berichten gerapporteerd als spam</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b> bericht gerapporteerd als spam</item>
+        <item quantity="other">%1$d conversaties gerapporteerd als spam</item>
+        <item quantity="one">%1$d conversatie gerapporteerd als spam</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b>%1$d&lt;/b> aangegeven als spam.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> aangegeven als spam.</item>
+        <item quantity="other">%1$d conversaties aangegeven als spam.</item>
+        <item quantity="one">%1$d conversatie aangegeven als spam.</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Concepten</item>
@@ -61,16 +61,16 @@
         <item quantity="one">%1$d bericht wordt permanent verwijderd.</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Verplaats %1$d conversaties</item>
-        <item quantity="one">Verplaats conversatie</item>
+        <item quantity="other">%1$d conversaties verplaatsen</item>
+        <item quantity="one">%1$d conversatie verplaatsen</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">Geef %1$d nieuwe berichten weer.</item>
-        <item quantity="one">Geef %1$d nieuw bericht weer.</item>
+        <item quantity="other">%1$d nieuwe berichten</item>
+        <item quantity="one">%1$d nieuw bericht</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d geselecteerd</item>
-        <item quantity="one">%d geselecteerd</item>
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">%1$d oudere berichten</item>
