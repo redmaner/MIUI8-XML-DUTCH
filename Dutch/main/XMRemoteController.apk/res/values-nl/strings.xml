@@ -34,8 +34,12 @@
   <string name="anion">Ionisator</string>
   <string name="app_clear">Gegevens wissen</string>
   <string name="app_detail_comments">Beoordelingen</string>
+  <string name="app_detail_content_hidemore_text">Meer weergeven</string>
+  <string name="app_detail_content_showmore_text">Minder weergeven</string>
+  <string name="app_detail_content_title_text">Details</string>
   <string name="app_detail_info">Details bekijken</string>
   <string name="app_detail_no_comments">Geen beoordelingen.</string>
+  <string name="app_detail_recomments_title_text">Gerelateerde apps</string>
   <string name="app_detail_title_info">Overzicht</string>
   <string name="app_detail_title_recomment">Gerelateerde apps</string>
   <string name="app_exit_tip">Druk nogmaals op de terug knop om af te sluiten</string>
@@ -45,8 +49,10 @@
   <string name="app_install">Installeer op Mi TV</string>
   <string name="app_install_count">%1$s geïnstalleerd</string>
   <string name="app_installing">Installeren…</string>
+  <string name="app_lastest">Laatste</string>
   <string name="app_listitem_installing">Installeren</string>
   <string name="app_listitem_waiting">Wacht op installatie</string>
+  <string name="app_local">Lokaal</string>
   <string name="app_manager_get_data_failed">Kon appinfo niet verkrijgen</string>
   <string name="app_manager_no_data">Geen apps gevonden</string>
   <string name="app_name">Mi Remote</string>
@@ -54,7 +60,7 @@
   <string name="app_open">Openen</string>
   <string name="app_open_inbox">Openen met behulp van Mi Box</string>
   <string name="app_open_intv">Openen op Mi TV</string>
-   <string name="app_search_hint">Vul de naam van de toepassing in</string>
+  <string name="app_search_hint">Vul de naam van de toepassing in</string>
   <string name="app_search_title_mishop">%d gevonden in de Miui App Store applicaties</string>
   <string name="app_search_title_thirdpatry">%d internettoepassing gevonden</string>
   <string name="app_size">Grootte: %1$s</string>
@@ -84,6 +90,7 @@
   <string name="by_position">Op locatie</string>
   <string name="camera_shoot">Sluiterknop</string>
   <string name="cancel">Annuleren</string>
+  <string name="cancel_select_all">Alles deselecteren</string>
   <string name="cancel_share">Delen stoppen</string>
   <string name="cancel_share_done">Delen gestopt</string>
   <string name="cancel_timer">Annuleer de timer</string>
@@ -93,6 +100,7 @@
   <string name="channel">Kanaal</string>
   <string name="channel_added_to_fav">%1$s toegevoegd aan favorieten</string>
   <string name="channel_catogory_name">Kanalen</string>
+  <string name="channel_list">Kanalenlijst</string>
   <string name="channel_num">——</string>
   <string name="channel_removed_from_fav">%1$s verwijderd uit favorieten</string>
   <string name="check_upgrade">Controleer op updates</string>
@@ -114,6 +122,7 @@
   <string name="confirm_on">Ok</string>
   <string name="connect_to_retry">Kan niet verbinden met netwerk. Controleer de verbinding en probeer opnieuw</string>
   <string name="connected">Verbonden</string>
+  <string name="connected_stb">Aangesloten set-top box</string>
   <string name="continue_to_add_other_rc">Meer apparaten toevoegen</string>
   <string name="control_vol_by_cellphone">Gebruik het apparaat om het volume te regelen</string>
   <string name="controller_invalid">Ongeldige afstandsbediening</string>
@@ -160,6 +169,7 @@
   <string name="edit_ir_device">Naam apparaat wijzigen</string>
   <string name="eject">Uitwerpen</string>
   <string name="empty_name_tip">&gt;Geef de afstandsbediening een naam</string>
+  <string name="epg_add_fav_bind_stb_dlg">Set-topbox toevoegen aan favorieten</string>
   <string name="epg_all_channels">Alle kanalen</string>
   <string name="epg_book_all">Alle reserveren</string>
   <string name="epg_book_count">De gereserveerde %1$s collectie</string>
@@ -181,6 +191,7 @@
   <string name="epg_edit_channel_title">Kanaal bewerken</string>
   <string name="epg_episode_open">Alles weergeven</string>
   <string name="epg_fav_channels">Favoriete kanaal</string>
+  <string name="epg_have_no_fav_channel">U heeft geen favoriete kanalen</string>
   <string name="epg_home_sliding_down">Inklappen</string>
   <string name="epg_home_sliding_up">Uitklappen</string>
   <string name="epg_hot_channels">Kanalen</string>
@@ -262,6 +273,7 @@
   <string name="input_complete">Ok</string>
   <string name="input_source">Invoerbron</string>
   <string name="input_speech_button">Druk &amp; houd ingedrukt en geef vervolgens uw bevel</string>
+  <string name="input_tip">De code vervalt na 15 minuten</string>
   <string name="install_failed">"Kon %s niet installeren"</string>
   <string name="install_succed">%s geïnstalleerd</string>
   <string name="installing">Installeren…</string>
@@ -315,9 +327,9 @@
   <string name="login_directly">Onmiddellijk aanmelden</string>
   <string name="login_done">Aangemeld</string>
   <string name="login_failed">Kon niet aanmelden</string>
-  <string name="login_failed_tips">Sorry verkeerde informatie gekrijgen, zorg verbonden met het netwerk</string>
+  <string name="login_failed_tips">Accountgegevens verkrijgen mislukt</string>
   <string name="login_thirdparty">Anders aanmelden</string>
-  <string name="login_wxfailed_tips">获取微信账号信息失败，请稍后再试</string>
+  <string name="login_wxfailed_tips">WeChat accountgegevens verkrijgen mislukt, probeer later opnieuw.</string>
   <string name="logining">Aanmelden</string>
   <string name="logout">Afmelden</string>
   <string name="logout_done">Afgemeld</string>
@@ -450,6 +462,7 @@ Wacht een momentje na de handeling"</string>
   <string name="no_qq">Eerst QQ installeren</string>
   <string name="no_save_brand_service">Deze afstandsbediening terug toevoegen</string>
   <string name="none">Leeg</string>
+  <string name="none_apk_note">Geen installatiebestand</string>
   <string name="not_login">Niet aangemeld</string>
   <string name="not_respond">Geen reactie</string>
   <string name="notification_found_shared_remote_text">Tik om het te controleren</string>
@@ -706,6 +719,7 @@ Om je account te activeren, volg de
   <string name="search_page_clear_history">Geschiedenis wissen</string>
   <string name="search_rank">Zoeken op vaak voorkomende woorden</string>
   <string name="search_video_app_hint">Zoeken</string>
+  <string name="select_all">Alles selecteren</string>
   <string name="select_area">Kies locatie</string>
   <string name="select_brand">Selecteer %s</string>
   <string name="select_dvb_carrier">Selecteer provider</string>
@@ -784,12 +798,14 @@ Om je account te activeren, volg de
   <string name="speed_up_channel_switch">Op sommige set-top box kan de snelheid voor wijzigen van kanaal verhogen</string>
   <string name="splash_add_device_des">Begin met sommige apparaten te koppelen</string>
   <string name="splash_desc">Controleer alles met slechts een tik.</string>
+  <string name="start_auto_tune">Kanalen afstemmen starten</string>
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Koppelen</string>
   <string name="stb">Settopbox</string>
   <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">STB aan/uit</string>
   <string name="steps">Poging #%d</string>
+  <string name="stop_auto_tune">Kanalen afstemmen stoppen</string>
   <string name="stop_diagnosis">Stoppen</string>
   <string name="study_room">Bestuderen</string>
   <string name="submit">Indienen</string>
@@ -815,6 +831,7 @@ Om je account te activeren, volg de
   <string name="to_qq_subtext">QQ Groep： 532652329</string>
   <string name="today">Vandaag</string>
   <string name="tomorrow">Morgen</string>
+  <string name="tune_from_first_channel">Vanaf het eerste kanaal afstemmen</string>
   <string name="turn_off">Uit</string>
   <string name="turn_on">Aan</string>
   <string name="tv">TV</string>
@@ -867,7 +884,7 @@ Om te wijzigen, lang drukken op de TV power knop"</string>
   <string name="virtual_keyhboard">Gebruik het toetsenbord van apparaat</string>
   <string name="virtual_keyhboard_intro">Gebruik het toetsenbord van apparaat om op het scherm te typen</string>
   <string name="voice">Stem</string> 
- <string name="voice_download_tips">Tik op \"OK\" om de voice engine te downloaden</string>
+  <string name="voice_download_tips">Tik op \"OK\" om de voice engine te downloaden</string>
   <string name="voice_download_title">Aandacht</string>
   <string name="voice_engine_ifly_fail">Kon stem niet herkennen</string>
   <string name="voice_record_start">Stem opnemen</string>
