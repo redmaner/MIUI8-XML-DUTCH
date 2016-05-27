@@ -2,10 +2,10 @@
 <resources>
   <string name="SMS_and_MMS">SMS en MMS</string>
   <string name="Setting_lock">Instellingen</string>
-  <string name="Settings_title_anti_spam">Instellingen anti-spam</string>
+  <string name="Settings_title_anti_spam">Instellingen zwarte lijst</string>
   <string name="Settings_title_anti_virus">Instellingen virusscanner</string>
-  <string name="Settings_title_garbage_cleanup">Opruiminstellingen prullenbak</string>
-  <string name="Settings_title_network_assistants">Instellingen netwerkassistent</string>
+  <string name="Settings_title_garbage_cleanup">Instellingen opruimer</string>
+  <string name="Settings_title_network_assistants">Instellingen dataverbruik</string>
   <string name="Settings_title_power_center">Batterij-instellingen</string>
   <string name="ac_enable_title">Appvergrendeling inschakelen</string>
   <string name="ac_enter_applock">Appvergrendeling openen</string>
@@ -463,10 +463,10 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="main_button_usage_package_setting">Mobiele dataverbruik instellen</string>
   <string name="main_message_no_package_by_dual">Datalimiet instellen voor %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Daaluur dataverbruik</string>
-  <string name="main_primary_message_traffic_cur_normal">Onder datalimiet</string>
+  <string name="main_primary_message_traffic_cur_normal">Onder piek datalimiet</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Datalimiet overschreden</string>
   <string name="main_primary_message_traffic_cur_normal_warning">Dataverbruik waarschuwing</string>
-  <string name="main_primary_message_traffic_enough">Onder dataverbruikspiek</string>
+  <string name="main_primary_message_traffic_enough">Onder dataverbruikslimiet</string>
   <string name="main_primary_message_traffic_overlimit">Datalimiet overschreden</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Opwaarderen</string>
   <string name="main_primary_message_traffic_purchase">Opwaarderen</string>
@@ -478,7 +478,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="main_secondary_message_traffic_used_leisure">%s daluren dataverbruik</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s piekuren data verbruikt| geen daluren data resterend</string>
   <string name="main_secondary_message_traffic_used_normal">%s piekuren data verbruikt</string>
-  <string name="main_toolbar_firewall">Beperk dataverbruik</string>
+  <string name="main_toolbar_firewall">Dataverbruik beperken</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobiele data</string>
   <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
   <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
@@ -491,7 +491,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="main_traffic_used_only">%s verbruikt</string>
   <string name="main_traffic_used_text">Verbruikt</string>
   <string name="manual_handle_title">EXTRA OPTIES</string>
-  <string name="manual_input_free_traffic">Daluren dataverbruik instellen</string>
+  <string name="manual_input_free_traffic">Dataverbruik daluren instellen</string>
   <string name="manual_input_traffic">Dataverbruik instellen</string>
   <string name="manual_item_white_list_summary">Voorkom dat geselecteerde apps worden geoptimaliseerd</string>
   <string name="manual_item_white_list_title">Uitzonderingen</string>
@@ -623,7 +623,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="other_exception_title">Controleren op andere problemen</string>
   <string name="package_change_notification_summary">Tik om meer te weten.</string>
   <string name="package_change_notification_title">Datalimiet automatisch aanpassen</string>
-  <string name="package_setted_error_notification_summary">Tik om datagebruik details weer te geven.</string>
+  <string name="package_setted_error_notification_summary">Tik om details over dataverbruik weer te geven.</string>
   <string name="package_setted_error_notification_titile">Kon geen dataplan instellen</string>
   <string name="packages_subtitle">Inbegrepen pakketten</string>
   <string name="passwordIncorrect">Gebruikersnaam of wachtwoord onjuist</string>
