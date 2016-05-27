@@ -7,7 +7,7 @@
   <string name="app_name">Updater</string>
   <string name="apply_title">Bezig met updaten (%s)</string>
   <string name="apply_update_dialog_cancel_button">Annuleren</string>
-  <string name="apply_update_dialog_update_button">Update</string>
+  <string name="apply_update_dialog_update_button">Updaten</string>
   <string name="auto_agree_clause">Onze bijgewerkte Privacy Policy is al van kracht</string>
   <string name="auto_button_examine">Bekijken</string>
   <string name="auto_button_examine_immediately">Bekijken</string>
@@ -23,7 +23,7 @@
   <string name="boot_recovery">Herstart in recovery modus</string>
   <string name="button_text_check">Controleren</string>
   <string name="button_text_later_reboot">Later herstarten</string>
-  <string name="button_text_reboot">Herstart nu</string>
+  <string name="button_text_reboot">Herstarten</string>
   <string name="button_text_reboot_hm">Na herstart</string>
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Deze update stoppen?</string>
@@ -32,7 +32,7 @@
   <string name="check_local_package_update_msg">"Uw telefoon zal automatisch herstarten om te updaten naar MIUI versie %s."</string>
   <string name="check_local_package_update_title">Updaten</string>
   <string name="check_local_package_validate_error_button">Ok</string>
-  <string name="check_local_package_validate_error_msg">Kon update pakket niet verifiëren</string>
+  <string name="check_local_package_validate_error_msg">Kon updatepakket niet verifiëren</string>
   <string name="check_local_package_wipe_btn">Wissen en updaten</string>
   <string name="check_local_package_wipe_msg">"U gaat terugkeren naar MIUI versie %s die ouder is dan de huidige versie. Uw persoonlijke gegevens worden gewist. Zorg ervoor dat u een back-up maakt van alles wat u wilt behouden voordat u het proces start."</string>
   <string name="check_local_package_wipe_title">Data wissen</string>
@@ -92,7 +92,7 @@
   <string name="menu_title_current_version_log">Update changelog</string>
   <string name="menu_title_download_current_rom">Updatepakket downloaden</string>
   <string name="menu_title_pick_rom_file">Updatepakket selecteren</string>
-  <string name="menu_title_recovery">Herstarten in recovery mode</string>
+  <string name="menu_title_recovery">Herstarten in recoverymodus</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Ga naar MIUI forum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">"  Nieuwe update gevonden  "</string>
   <string name="miui_summary_no_new_version">Geen update beschikbaar</string>
@@ -102,7 +102,7 @@
   <string name="monthly_build">Maandelijks</string>
   <string name="my_best_update">Beste update</string>
   <string name="my_expect_update">Verwachtingen</string>
-  <string name="my_rank">"Update status: "</string>
+  <string name="my_rank">"Updatestatus: "</string>
   <string name="my_update_feel">Mijn feedback</string>
   <string name="my_worst_update">Slechtste update die ik heb gekozen</string>
   <string name="network_error">Netwerkfout, probeer het opnieuw</string>
@@ -151,7 +151,7 @@
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Uw apparaat beschikt niet over voldoende geheugen om naar recovery modus te gaan en je systeem te updaten. Probeer dan de Mi PC Suite te gebruiken.:
 http://zhushou.xiaomi.com"</string>
-  <string name="recovery_failed_notification_msg">Kan niet in recovery modus komen</string>
+  <string name="recovery_failed_notification_msg">Kan niet in recoverymodus komen</string>
   <string name="recovery_failed_title">Gebruik Mi PC Suite om je systeem te updaten</string>
   <string name="recovery_power_not_enough_msg">Sluit de lader aan om te updaten indien er minder dan 30% van de batterij over is</string>
   <string name="recovery_power_not_enough_msg_plugged">Batterij moet boven de 30% zijn voordat het apparaat kan updaten</string>
@@ -211,7 +211,7 @@ http://zhushou.xiaomi.com"</string>
   Maar je kan volgende maandag deelnemen</string>
   <string name="update_feedback_need_account">Je moet eerst inloggen op je account</string>
   <string name="update_feedback_need_network">Eerst verbinden met netwerk</string>
-  <string name="update_feedback_need_update">Je moet uw systeem eerst naar de laatste build updaten.</string>
+  <string name="update_feedback_need_update">U moet uw systeem eerst naar de laatste build updaten.</string>
   <string name="update_feel">Hoe voelt u zich?</string>
   <string name="update_general">Middelmatig</string>
   <string name="update_happy">Tevreden!</string>

@@ -45,26 +45,26 @@
         <item>Wanneer scherm uit is</item>
     </string-array>
     <string-array name="app_groups">
-        <item>geselecteerd</item>
-        <item>gedeselecteerd</item>
-        <item>ander geselecteerde</item>
+        <item>In deze modus</item>
+        <item>Niet geselecteerd</item>
+        <item>In andere geselecteerde modus</item>
 	</string-array>
     <string-array name="hmode_app_groups">
-        <item>aangepast</item>
-        <item>voorgesteld</item>
+        <item>Aangepast</item>
+        <item>Batterijbespaarder</item>
 	</string-array>	
     <string-array name="power_checker_group_prefix">
-        <item>gebruikt</item>
-        <item></item>
-        <item></item>
+        <item>Nu</item>
+        <item>Achtergrond</item>
+        <item>Recent</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WIFI scan</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Ontwaken</item>
+        <item>Voorkomt diepe slaapmodus</item>
+        <item>Voorkomt slaapmodus</item>
+        <item>Zoekt naar Wi-Fi</item>
+        <item>Gebruikt GPS</item>
+        <item>Houdt de CPU bezig</item>
+        <item>Ontwaakt het apparaat regelmatig</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
@@ -76,8 +76,8 @@
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
-        <item>nu te veel</item>
-        <item>te veel deze dag</item>
+        <item></item>
+        <item></item>
     </string-array>
 	<string-array name="invisible_app_groups">
         <item>Geselecteerd</item>

@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Touch Assistant</string>
+  <string name="app_name">Snelkoppelingmenu</string>
   <string name="app_not_installed">Niet geïnstalleerd</string>
-  <string name="applications">Applicaties</string>
-  <string name="category_others">Overige</string>
+  <string name="applications">Apps</string>
+  <string name="category_others">Overig</string>
   <string name="category_setting">Instellingen</string>
-  <string name="customize_entries">Functie aanpassen</string>
-  <string name="enable_touch_assistant">Touch Assistant inschakelen</string>
-  <string name="function_settings">Functie instellingen</string>
-  <string name="hide_touch_assistant">Touch Assistant automatisch verbergen</string>
-  <string name="hide_touch_assistant_intro">Touch Assistant verbergen in bepaalde apps.</string>
-  <string name="name_alipay_scan">Alipay code scannen</string>
-  <string name="name_kill_processes">Geheugen opruimen</string>
+  <string name="customize_entries">Snelkoppelingen selecteren</string>
+  <string name="enable_touch_assistant">Snelkoppelingmenu inschakelen</string>
+  <string name="function_settings">Snelkoppelinginstellingen</string>
+  <string name="hide_touch_assistant">Automatisch verbergen</string>
+  <string name="hide_touch_assistant_intro">Snelkoppelingmenu verbergen in bepaalde apps.</string>
+  <string name="name_alipay_payment_code">Alipay betaling</string>
+  <string name="name_alipay_scan">Alipay scanner</string>
+  <string name="name_long_press_power_key">Powerknop ingedrukt houden</string>
+  <string name="name_memory_clean">Cache wissen</string>
   <string name="name_music_next_song">Volgende nummer</string>
   <string name="name_music_prev_song">Vorige nummer</string>
   <string name="name_music_toggle">Speel/pauzeer nummer</string>
@@ -22,12 +24,13 @@
   <string name="name_quick_search">Zoeken</string>
   <string name="name_scan_to_pay">Scan om te betalen</string>
   <string name="name_screenshot">Schermafdruk</string>
-  <string name="name_wechat_scan">Wechat code scannen</string>
+  <string name="name_wechat_payment_code">Wechat betaling</string>
+  <string name="name_wechat_scan">Wechat scanner</string>
   <string name="pay_entry_dialog_title_select">App selecteren om te openen</string>
-  <string name="pay_entry_dialog_title_setting">App aanvinken om in te schakelen</string>
-  <string name="pref_category_others">Overige</string>
+  <string name="pay_entry_dialog_title_setting">App instellen</string>
+  <string name="pref_category_others">Overig</string>
   <string name="pref_category_quick_settings">Snelle instellingen</string>
   <string name="pref_category_system">Systeeminstellingen</string>
   <string name="restore_default">Standaardinstellingen herstellen</string>
-  <string name="restore_intro">Standaardinstellingen terugzetten, inclusief functies en volgordes. Dit zal geen gegevens van uw telefoon wissen.</string>
+  <string name="restore_intro">Standaardinstellingen terugzetten, inclusief snelkoppelingen en volgordes. Appgegevens op uw telefoon worden niet gewist.</string>
 </resources>
