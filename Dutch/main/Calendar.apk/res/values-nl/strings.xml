@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Deelnemer toevoegen</string>
   <string name="accessibility_add_reminder">Herinnering toevoegen</string>
   <string name="accessibility_all_day">Afspraak die de hele dag duurt</string>
@@ -93,6 +94,7 @@
   <string name="card_manager">Kaart management</string>
   <string name="card_title_change">Wijzigen</string>
   <string name="change_response_title">Antwoord wijzigen</string>
+  <string name="check_reminded_text">查看提醒</string>
   <string name="chinese_leap">Uitvoeren</string>
   <string name="chongsha">Ghosts</string>
   <string name="click_watch">Klik hier om naar te kijken</string>
@@ -118,6 +120,7 @@
   <string name="credit_card_number_label">Kaart:</string>
   <string name="credit_card_overdue">Verlopen</string>
   <string name="credit_card_repayment_count">Tenslotte %1$s dagen</string>
+  <string name="credit_card_source">来自短信的还款提醒</string>
   <string name="credit_currency">yuan</string>
   <string name="credit_detail_amount_label">Dienen tevens</string>
   <string name="credit_detail_sms_content">Oorspronkelijke tekst</string>
@@ -163,6 +166,7 @@
   <string name="drop_down_list_header_loading_text">Laden…</string>
   <string name="drop_down_list_header_pull_text">Naar beneden trekken om te vernieuwen</string>
   <string name="drop_down_list_header_release_text">Loslaten om te vernieuwen</string>
+  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">De hele dag</string>
   <string name="edit_event_calendar_label">Agenda</string>
   <string name="edit_event_confirm_message">Wijzigingen ongedaan maken?</string>
@@ -182,6 +186,8 @@
   <string name="event_action_edit">Bewerken</string>
   <string name="event_all_day_label">Hele dag</string>
   <string name="event_create">Nieuwe afspraak</string>
+  <string name="event_created_fail_text">创建赛事提醒失败</string>
+  <string name="event_created_text">已创建赛事提醒</string>
   <string name="event_date_format">d/MM</string>
   <string name="event_delete">Afspraak verwijderen</string>
   <string name="event_edit">Afspraak bewerken</string>
@@ -208,6 +214,16 @@
   <string name="every_year_month_of_day">%1$s%2$s dag</string>
   <string name="exist_calendar">Geabonneerd</string>
   <string name="festival_detail_title">Festival</string>
+  <string name="fortune_birthday">生日</string>
+  <string name="fortune_card_caiwei">财位：</string>
+  <string name="fortune_card_set_bazi">设置生辰八字</string>
+  <string name="fortune_card_taohua">桃花：</string>
+  <string name="fortune_card_working">事业学业运势：</string>
+  <string name="fortune_card_zhengchong">正冲：</string>
+  <string name="fortune_label">每日运势</string>
+  <string name="fortune_name">称呼</string>
+  <string name="fortune_name_hint">请输入</string>
+  <string name="fortune_no_name">请填写称呼</string>
   <string name="free_day_default_banner_title">Geniet nu van een geweldige vakantie!</string>
   <string name="from_google_group_calendar">Google kalender</string>
   <string name="gadget_no_events">Geen lopende agenda-afspraken</string>
@@ -219,6 +235,7 @@
   <string name="hint_description">Beschrijving</string>
   <string name="hint_what">Afspraaknaam</string>
   <string name="hint_where">Locatie</string>
+  <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">Uitgebreid geluk:</string>
   <string name="horoscope_card_financial">Welvaart geluk:</string>
   <string name="horoscope_card_love">LIEFDE:</string>
@@ -238,12 +255,15 @@
   <string name="jump_date">Overslaan</string>
   <string name="jump_date_full">Spring naar datum</string>
   <string name="label_recent_events">Recente gebeurtenissen</string>
+  <string name="live_text">直播</string>
+  <string name="living_text">直播中</string>
   <string name="loading">Een momentje…</string>
   <string name="local_calendar_display_name">Lokale kalender</string>
   <string name="local_owner_account_name">Opgeslagen op dit apparaat</string>
   <string name="lunar_date">Lunar Datum</string>
   <string name="match_ed">Installatie voltooid</string>
   <string name="match_ing">Lopend</string>
+  <string name="match_not_started">未开始</string>
   <string name="menu_about_preferences">Over Agenda</string>
   <string name="menu_general_preferences">Algemene instellingen</string>
   <string name="menu_preferences">Instellingen</string>
@@ -271,6 +291,7 @@
   <string name="monthly">Maandelijks</string>
   <string name="monthly_on_day">Maandelijks (op datum %s)</string>
   <string name="monthly_on_day_count">Maandelijks (%1$s %2$s)</string>
+  <string name="more_match">更多赛事</string>
   <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">Inleiding</string>
   <string name="my_subscribe_events">Mijn abonnementen</string>
@@ -291,6 +312,7 @@
   <string name="online_reminder_header_text">Herinnering</string>
   <string name="online_reminder_minutes_text">Tijdsherinnering</string>
   <string name="online_reminder_slider_text">Herinneringen inschakelen</string>
+  <string name="path_calendar">System apps/Calendar/Settings</string>
   <string name="pengzu">PANG</string>
   <string name="prefDialogTitle_vibrateWhen">Trillen</string>
   <string name="pref_error_no_ringtone_select">Geen geselecteerd</string>
@@ -303,6 +325,7 @@
   <string name="preferences_alerts_ringtone_title">Geluid</string>
   <string name="preferences_alerts_title">Meldingen</string>
   <string name="preferences_alerts_vibrateWhen_title">Trillen</string>
+  <string name="preferences_alerts_vibrate_title">Vibrate and ringtone</string>
   <string name="preferences_build_version">Build versie</string>
   <string name="preferences_category_account_title">Account</string>
   <string name="preferences_category_general_title">Algemene instellingen</string>
@@ -318,6 +341,7 @@
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Eigen tijdzone</string>
   <string name="preferences_import_credit_repayment">Creditkaartbetalingen</string>
+  <string name="preferences_notification_ringtone_title">Sound</string>
   <string name="preferences_reminder_title">Meldingen en herinneringen</string>
   <string name="preferences_show_week_num_title">Weeknummer weergeven</string>
   <string name="preferences_solar_terms">Zonnetermen weergeven</string>
@@ -371,6 +395,7 @@
   <string name="saving_event">Afspraak opgeslagen.</string>
   <string name="saving_event_with_guest">Updates worden verzonden.</string>
   <string name="search">Zoeken</string>
+  <string name="search_calendar">Calendar;Agenda;Reminder</string>
   <string name="search_history_cleared">Zoekgeschiedenis gewist.</string>
   <string name="search_title">"Zoeken in mijn agenda's"</string>
   <string name="select_date">Selecteer datum</string>
@@ -382,10 +407,12 @@
   <string name="setting_others">Overig</string>
   <string name="setting_sms_import">SMS importeer evenement</string>
   <string name="setting_wifi_mode">Alleen bij Wi-Fi kalender sync.</string>
+  <string name="settings_calendar">Calendar</string>
   <string name="show_controls">Bediening weergeven</string>
   <string name="show_day_view">Dag weergeven</string>
   <string name="show_newer_events">Raak aan om gebeurtenissen na %1$s weer te geven</string>
   <string name="show_older_events">Raak aan om gebeurtenissen vóór %1$s weer te geven</string>
+  <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
   <string name="snooze_all_label">5 min. uitstellen</string>
   <string name="snooze_label">Snooze</string>
   <string name="str_dayofmonth">%s nummer</string>

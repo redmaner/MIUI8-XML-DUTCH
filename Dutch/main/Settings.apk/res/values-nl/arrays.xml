@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden…</item>
+        <item>Verificeren…</item>
+        <item>IP adres verkrijgen…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbindingen vermijden</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden met %1$s…</item>
+        <item>Verificeren met %1$s…</item>
+        <item>IP adres verkrijgen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken met %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbindingen vermijden</item>
+    </string-array>
+    <string-array name="status_bar_style_entries">
+        <item>Combined</item>
+        <item>Separate</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>
@@ -79,35 +111,13 @@
         <item>spa</item>
         <item>kor</item>
     </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden…</item>
-        <item>Verificeren…</item>
-        <item>IP adres verkrijgen…</item>
-        <item>Verbonden</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbindingen vermijden</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden met %1$s…</item>
-        <item>Verificeren met %1$s…</item>
-        <item>IP adres verkrijgen van %1$s…</item>
-        <item>Verbonden met %1$s</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken met %1$s…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbindingen vermijden</item>
-    </string-array>
     <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
         <item>TLS</item>
         <item>TTLS</item>
@@ -150,10 +160,6 @@
 	<string-array name="data_usage_data_range">
         <item>Laatste 30 dagen</item>
         <item>Gebruikscyclus instellen…</item>
-    </string-array>
-    <string-array name="sim_card_data_range">
-        <item>Laatste 4 cijfers</item>
-        <item>Eerste 4 cijfers</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatisch</item>
@@ -231,11 +237,6 @@
         <item>Interne apparaat opslag</item>
         <item>Verwijderbare SD kaart</item>
         <item>Het systeem laten bepalen</item>
-    </string-array>
-    <string-array name="app_ops_permissions">
-        <item>Toegestaan</item>
-        <item>Geweigerd</item>
-        <item>Altijd vragen</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Locatie</item>
@@ -540,11 +541,6 @@
         <item>Laag</item>
         <item>Kritiek</item>
     </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Uit</item>
-        <item>Beperkte onderbrekingen</item>
-        <item>Geen onderbrekingen</item>
-    </string-array>
 	<string-array name="proc_stats_memory_states">
         <item>Normaal</item>
         <item>Matig</item>
@@ -575,16 +571,15 @@
         <item>Roze</item>
         <item>Rood</item>
     </string-array>
-    <string-array name="hidedm_plmn_list">
-        <item>46000</item>
-        <item>46002</item>
-        <item>46003</item>
-        <item>46007</item>
+    <string-array name="wifi_calling_mode_choices">
+        <item>WLAN preferred</item>
+        <item>Cellular preferred</item>
     </string-array>
-	<string-array name="haptic_feedback_level_entries">
-        <item>Sterk</item>
+    <string-array name="haptic_feedback_level_texts">
+        <item>Off</item>
+        <item>Light</item>
         <item>Medium</item>
-        <item>Licht</item>
+        <item>Strong</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Sterk</item>
@@ -646,6 +641,10 @@
     <string-array name="wifi_eap_method_add_sim_for_cmcc">
         <item>PEAP</item>
         <item>SIM</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Overview button on the left, Back button on the right</item>
+        <item>Back button on the left, Overview button on the right</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Recente apps tonen</item>
@@ -878,6 +877,9 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>UY</item>
         <item>VE</item>
     </string-array>
+    <string-array name="ncc_locales">
+        <item>TW</item>
+    </string-array>
     <string-array name="common_password_business_keys">
         <item>miui_keyguard</item>
         <item>childrenmode</item>
@@ -889,6 +891,22 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Kindermodus</item>
         <item>File Explorer</item>
 		<item>Appvergrendeling</item>
+    </string-array>
+    <string-array name="description_primary">
+        <item>骁龙801</item>
+        <item>GB</item>
+        <item>GB</item>
+        <item>5英寸</item>
+        <item>4G</item>
+        <item>1300万像素</item>
+    </string-array>
+    <string-array name="description_secondary">
+        <item>四核2.5GHz</item>
+        <item>机身存储</item>
+        <item>LPDDR3内存</item>
+        <item>全高清屏幕</item>
+        <item>高速网络</item>
+        <item>高画质相机</item>
     </string-array>
 	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>

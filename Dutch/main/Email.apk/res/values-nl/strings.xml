@@ -16,7 +16,7 @@
          bepaalde beveiligingsfuncties om uw Androidapparaat extern te bedienen."</string>
   <string name="account_security_title">Apparaatbeveiliging</string>
   <string name="account_set_up_change_type_note">"Als u een omschakelaccount wilt instellen vóór POP3 en IMAP dan moet u eerst het account verwijderen, opnieuw configureren en inloggen."</string>
-  <string name="account_setting">Accountinstellingen</string>
+  <string name="account_setting_keywords">Accounts;mail accounts</string>
   <string name="account_settings_action">Accountinstellingen</string>
   <string name="account_settings_background_attachments_label">Bijlagen downloaden</string>
   <string name="account_settings_background_attachments_summary">Bijlagen downloaden met Wi-Fi</string>
@@ -145,6 +145,7 @@ Nu bijwerken?"</string>
   <string name="activity_folder_selection">Map selecteren</string>
   <string name="activity_mailbox_selection">Account kiezen</string>
   <string name="add_account">Account toevoegen</string>
+  <string name="add_account_keywords">Add account;add mail account</string>
   <string name="add_attachment">Bijlage toevoegen</string>
   <string name="add_calendar">Herinneren</string>
   <string name="add_label">Map toevoegen</string>
@@ -195,6 +196,7 @@ Nu bijwerken?"</string>
   <string name="auto_advance_summary">Kies naar welk bericht je wilt scrollen nadat een bericht is verwijderd</string>
   <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
   <string name="battery_saver">Energiebesparende modus</string>
+  <string name="battery_saver_keywords">battery saver;mail battery</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">De feedback is leeg, voer feedback in!</string>
@@ -218,6 +220,7 @@ Nu bijwerken?"</string>
   <string name="change_sync_settings">Sync. inst. wijzigen</string>
   <string name="changepw_dialog_tips">Wachtwoord opnieuw invoeren voor %s</string>
   <string name="chat_item_msg_people_unit">Personen</string>
+  <string name="chat_item_msg_user_etc">etc.</string>
   <string name="chat_view_description">Bekijk e-maildiscussies als conversatiebubbels</string>
   <string name="chat_view_title">Conversatieweergave</string>
   <string name="check_setup_data">"    Serverinstellingen valideren…"</string>
@@ -230,14 +233,15 @@ Nu bijwerken?"</string>
   <string name="click_to_reload">Tik op scherm om te vernieuwen</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
-  <string name="compose">Opstellen</string>
   <string name="compose_attachment_number_limit">kan niet meer dan 10 bijlagen toevoegen</string>
   <string name="compose_picturesexceedlimits">Kan niet meer dan 5 in lijn afbeeldingen in bericht overschreiden</string>
   <string name="compose_send">Verzenden</string>
   <string name="compose_sent">Verzonden</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_before_delete">Bevestigen voor verwijderen</string>
+  <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
   <string name="confirm_before_send">Bevestigen voor verzenden</string>
+  <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
   <string name="confirm_delete_conversation_title">Verwijderen</string>
   <string name="confirm_discard_text">Dit bericht weggooien?</string>
   <string name="confirm_response">Reactie verzenden…</string>
@@ -286,6 +290,7 @@ Nu bijwerken?"</string>
   <string name="conversation_item_mark_unread">Ongelezen</string>
   <string name="conversation_photo_welcome_text">Raak de afbeelding van een afzender aan om dat gesprek te selecteren.</string>
   <string name="conversation_view">Conversatie weergeven</string>
+  <string name="conversation_view_keywords">conversation view;mail conversation</string>
   <string name="copied">Gekopiëerd</string>
   <string name="copy_email">E-mailadres kopiëren</string>
   <string name="copy_number">Telefoonnummer kopiëren</string>
@@ -303,6 +308,7 @@ Nu bijwerken?"</string>
   <string name="del_account_questionnair_hint">Kan je ons vertellen waarom u dit account verwijderd?</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_message_flow">Automatisch verwijderen</string>
+  <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
   <string name="deleted">Verwijderd</string>
   <string name="device_activity_btn_str">Ga terug om te activeren</string>
   <string name="device_activity_lint_str">Mail service uitschakelen om verder te updaten en de veiligheid te activeren</string>
@@ -353,6 +359,8 @@ Nu bijwerken?"</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Mail</string>
   <string name="email_qq">QQ Mail</string>
+  <string name="email_setting">Email Setting</string>
+  <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
@@ -427,7 +435,6 @@ Nu bijwerken?"</string>
   <string name="folder_trash_name_en3">[Gmail]/Prullenbak</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s %2$s</string>
-  <string name="forward">Doorsturen</string>
   <string name="forward_attachment">Doorsturen</string>
   <string name="forward_attribution">---------- Doorgestuurd bericht ----------&lt;br&gt;Van: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Onderwerp: %3$s&lt;br&gt;Aan: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
@@ -610,6 +617,7 @@ Nu bijwerken?"</string>
   <string name="new_messages">%1$d nieuwe berichten</string>
   <string name="next_action">Volgende</string>
   <string name="no">Nee</string>
+  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
   <string name="no_application_found_title">Open deze bijlage.</string>
   <string name="no_contacts">Geen contacten</string>
@@ -666,6 +674,15 @@ Nu bijwerken?"</string>
   <string name="password_expired_dialog_title">Wachtwoord schermvergrendeling verlopen</string>
   <string name="password_expired_ticker">Uw PIN code of wachtwoord voor schermvergrendeling is verlopen.</string>
   <string name="path_about_account_setting">Mail/Instellingen</string>
+  <string name="path_about_add_account">Email/Setting/Add account</string>
+  <string name="path_about_battery_saver">Email/Setting/Battery saver</string>
+  <string name="path_about_confirm_before_delete">Email/Setting/Confirm before deleting</string>
+  <string name="path_about_confirm_before_send">Email/Setting/Confirm before sending</string>
+  <string name="path_about_conversation_view">Email/Setting/Conversation view</string>
+  <string name="path_about_delete_message_flow">Email/Setting/Delete message flow</string>
+  <string name="path_about_email_setting">Email/Setting</string>
+  <string name="path_about_send_feed_back">Email/Setting/Send feedback</string>
+  <string name="path_about_upload_logs">Email/Setting/Upload logs</string>
   <string name="perference_change_pw_notnull_tips">Invoeren wachtwoord</string>
   <string name="perference_change_pw_ok_tips">Wachtwoord veranderd</string>
   <string name="perference_setup_pop_del">Verwijderen van mailserver</string>
@@ -791,7 +808,6 @@ Nu bijwerken?"</string>
   <string name="remove_account">Account verwijderen</string>
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Uit favorieten verwijderen</string>
-  <string name="reply">Beantwoorden</string>
   <string name="reply_add_bodycontent">Snel antwoord toevoegen aan berichtinhoud?</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
@@ -832,6 +848,7 @@ Nu bijwerken?"</string>
   <string name="send">Verzenden</string>
   <string name="send_failed">Bericht niet verzonden.</string>
   <string name="send_feed_back">Feedback versturen</string>
+  <string name="send_feed_back_keywords">send feedback</string>
   <string name="sender_whitelist_cleared">Afbeeldingen worden niet automatisch weergegeven.</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -927,6 +944,7 @@ Nu bijwerken?"</string>
   <string name="upload_log_title">Verzend foutrapporten om ons te helpen Mail te verbeteren</string>
   <string name="upload_log_yes">Versturen</string>
   <string name="upload_logs">Rapporten verzenden</string>
+  <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">Een momentje…</string>
   <string name="validation_failed_prompt">Kan account niet bevestigen, controleer de server instellingen voor %s"</string>
   <string name="veiled_address"/>

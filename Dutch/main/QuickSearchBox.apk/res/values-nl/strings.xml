@@ -13,6 +13,7 @@
   <string name="clear_shortcuts_disagree">Niet verwijderen</string>
   <string name="clear_shortcuts_prompt">Dit verwijdert alle snelkoppelingen naar recent gekozen suggesties. (Om browsergeschiedenis te wissen, gebruik de browserinstellingen)</string>
   <string name="clear_shortcuts_summary">Verwijder recente snelkoppelingen van zoeksuggesties</string>
+  <string name="common_setting">General settings</string>
   <string name="connect_and_retry">Verbind met internet en probeer opnieuw</string>
   <string name="corpus_description_apps">Namen van geïnstalleerde applicaties</string>
   <string name="corpus_description_web">Web, favorieten en browsergeschiedenis</string>
@@ -43,9 +44,12 @@
   <string name="menu_help">Help</string>
   <string name="menu_settings">Zoekinstellingen</string>
   <string name="network_unavailable">Kon niet verbinden met het netwerk</string>
+  <string name="recent_apps">Recent apps</string>
   <string name="recently_shortcut_label">Recente snelkoppelingen</string>
   <string name="remove_from_history">Verwijderen uit zoekgeschiedenis?</string>
   <string name="remove_from_history_failed">Verwijderen uit zoekgeschiedenis mislukt</string>
+  <string name="search_group_fold">Hide</string>
+  <string name="search_group_unfold">More</string>
   <string name="search_history">Geschiedenis</string>
   <string name="search_in_app_store">Zoek in Mi app store</string>
   <string name="search_in_web">Online zoeken</string>
@@ -56,13 +60,16 @@
   <string name="search_widget">Zoeken</string>
   <string name="send_secret_code">Code verzenden</string>
   <string name="show_more">Meer weergeven</string>
+  <string name="suggest_open_app_failed">"Couldn't open this app"</string>
   <string name="system_search_category_title">Telefoon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Probeer te zeggen "</string>
   <string name="web_search_results">Web zoekresultaten</string>
   <string name="xiaomi_hint"/>
-  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
+  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
   <string name="xiaomi_search_label">Online resultaten</string>
+  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
   <string name="xiaomi_suggest_base"/>
 </resources>

@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="auto_memory_clean">
-        <item>Binnen 1 minuut</item>
-        <item>Binnen 5 minuten</item>
-        <item>Binnen 10 minuten</item>
-		<item>Binnen 30 minuten</item>
-        <item>Nooit</item>
-    </string-array>
 	<string-array name="date_of_traffic_cmcc">
         <item>"Deze week "</item>
         <item>"Vandaag "</item>
@@ -91,34 +84,18 @@
         <item>Vergrendelen na het afsluiten van de app</item>
         <item>Vergrendelen 1 minuut na het afsluiten van de app</item>
     </string-array>
+    <integer-array name="pc_time_choice_items">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Na 1 minuut</item>
         <item>Na 5 minuten</item>
         <item>Na 10 minuten</item>
         <item>Nooit</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 seconden</item>
-        <item>30 seconden</item>
-        <item>1 minuut</item>
-        <item>2 minuten</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>Nooit</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Hoge prestaties</item>
-        <item>Gebalanceerd</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Uitschakelen</item>
-        <item>Inschakelen</item>
-        <item>Standaard</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Nooit trillen</item>
-        <item>Trillen indien stil</item>
-        <item>Altijd trillen</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>

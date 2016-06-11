@@ -1,8 +1,8 @@
-#MIUI7 - Dutch translations#
+#MIUI8 - Dutch translations#
 
 ---------------------------------------------------------------------------------------------
 
-MIUI7 Dutch Translations based on MIUI6 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
+MIUI8 Dutch Translations based on MIUI6 and MIUI7 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
 
 Currently maintained by Cueie, MannyRibo and Redmaner
 

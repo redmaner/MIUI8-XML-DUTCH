@@ -78,8 +78,6 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="reboot_progress">Opnieuw opstarten…</string>
   <string name="replace">Vervangen</string>
   <string name="resource_select">Selecteren</string>
-  <string name="screen_button_disabled_message">Navigatieknoppen uitgeschakeld. Om opnieuw in te schakelen raakt u gelijktijdig de Home en de Power knop aan.</string>
-  <string name="screen_button_enabled_message">Navigatieknoppen ingeschakeld.</string>
   <string name="screen_button_notification_text">Om ze in te schakelen, drukt u op de Home- en Power knoppen tegelijk.</string>
   <string name="screen_button_notification_title">Navigatieknoppen zijn uitgeschakeld</string>
   <string name="screen_on_proximity_sensor_hint">Om ze uit te schakelen, drukt u op de Terug- en Volume omhoog knoppen tegelijk.</string>
@@ -87,6 +85,21 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="screen_on_proximity_sensor_title">Broekzakgesprekken voorkomen</string>
   <string name="screen_paper_mode_enter_toast">Leesmodus is ingeschakeld. U kunt deze functie in- en uitschakelen op elk gewenst moment in Extra instellingen &gt; Leesmodus.</string>
   <string name="screen_rotation_freeze_message">Auto-rotatie uitgeschakeld.</string>
+  <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
+  <string name="securespaces_extension_accelerometer_serviceName"/>
+  <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
+  <string name="securespaces_extension_delete_userdata_serviceName"/>
+  <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
+  <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
+  <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
+  <string name="securespaces_extension_hidden_serviceName"/>
+  <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
+  <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
+  <string name="security_permission_denied_text">Access denied</string>
+  <string name="security_permission_failed_text">Internal error, retry later</string>
+  <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
+  <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
+  <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
   <string name="select">Selecteren</string>
   <string name="select_all">Alles selecteren</string>
   <string name="set_password_action">Wachtwoord instellen</string>
@@ -98,8 +111,10 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="sim_added_reboot_title">SIM kaart zal geactiveerd worden nadat u uw apparaat opnieuw hebt opgestart.</string>
   <string name="softap_notifif_summary">%d verbonden</string>
   <string name="softap_notifif_title">Hotspot \"%s\" ingeschakeld</string>
+  <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
   <string name="status_bar_toggle_auto_brightness">Helderheid</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+  <string name="status_bar_toggle_cast">Cast</string>
   <string name="status_bar_toggle_data">Data</string>
   <string name="status_bar_toggle_flight_mode">Vliegmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -109,7 +124,6 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="status_bar_toggle_mute">Stil</string>
   <string name="status_bar_toggle_paper_mode">Leesmodus</string>
   <string name="status_bar_toggle_power_mode">Prestatie</string>
-  <string name="status_bar_toggle_privacy_mode">Gast</string>
   <string name="status_bar_toggle_quiet_mode">Niet storen</string>
   <string name="status_bar_toggle_rotate">Rotatie vergrendelen</string>
   <string name="status_bar_toggle_screen_button">Knoppen</string>
@@ -120,6 +134,10 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="subinfo_default_name">%d SIM</string>
+  <string name="translation_query_error">"Couldn't find results"</string>
+  <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
   <string name="turn_off">Uitschakelen</string>
   <string name="unknown_caller">Onbekend nummer</string>
+  <string name="user_switching_dialog_text">Switching…</string>
+  <string name="xspace_resolver_activity_title">Select app</string>
 </resources>

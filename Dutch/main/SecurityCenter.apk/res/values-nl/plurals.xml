@@ -56,6 +56,26 @@
         <item quantity="other">"%d minuten "</item>
         <item quantity="one">"%d minuut "</item>
     </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">In %1$d minutes</item>
+        <item quantity="one">In %1$d min</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Resolved %d battery issues</item>
+        <item quantity="one">Resolved %d battery issue</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Found %d battery issues</item>
+        <item quantity="one">Found %d battery issue</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d battery issues</item>
+        <item quantity="one">%d battery issue</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d items can be optimized</item>
+        <item quantity="one">%d item can be optimized</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d apps die autostarten</item>
         <item quantity="one">%d app die autostart</item>
@@ -128,5 +148,21 @@
         <item quantity="other">%d apps gevonden</item>
         <item quantity="zero">0 apps gevonden</item>
         <item quantity="one">%d app gevonden</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s payment risks</item>
+        <item quantity="one">%s payment risk</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s payment apps are protected</item>
+        <item quantity="one">%s payment app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s apps are protected</item>
+        <item quantity="one">%s app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s apps are not protected</item>
+        <item quantity="one">%s app is not protected</item>
     </plurals>
 </resources>
