@@ -41,12 +41,12 @@
         <item quantity="many">nog %1$d bestanden te uploaden</item>
     </plurals>
     <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d files left to transmit</item>
-        <item quantity="zero">%1$d files left to transmit</item>
-        <item quantity="one">%1$d file left to transmit</item>
-        <item quantity="two">%1$d files left to transmit</item>
-        <item quantity="few">%1$d files left to transmit</item>
-        <item quantity="many">%1$d files left to transmit</item>
+        <item quantity="other">%1$d bestanden resterend om te verzenden</item>
+        <item quantity="zero">%1$d bestanden resterend om te verzenden</item>
+        <item quantity="one">%1$d bestand resterend om te verzenden</item>
+        <item quantity="two">%1$d bestanden resterend om te verzenden</item>
+        <item quantity="few">%1$d bestanden resterend om te verzenden</item>
+        <item quantity="many">%1$d bestanden resterend om te verzenden</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d geselecteerd</item>
@@ -129,36 +129,36 @@
         <item quantity="many">%1$d dagen geleden</item>
     </plurals>
     <plurals name="seconds">
-        <item quantity="other">%1$d seconds</item>
-        <item quantity="zero">%1$d seconds</item>
-        <item quantity="one">%1$d second</item>
-        <item quantity="two">%1$d seconds</item>
-        <item quantity="few">%1$d seconds</item>
-        <item quantity="many">%1$d seconds</item>
+        <item quantity="other">%1$d seconden</item>
+        <item quantity="zero">%1$d seconden</item>
+        <item quantity="one">%1$d seconde</item>
+        <item quantity="two">%1$d seconden</item>
+        <item quantity="few">%1$d seconden</item>
+        <item quantity="many">%1$d seconden</item>
     </plurals>
     <plurals name="mins">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="zero">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
-        <item quantity="two">%1$d mins</item>
-        <item quantity="few">%1$d mins</item>
-        <item quantity="many">%1$d mins</item>
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="zero">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
+        <item quantity="two">%1$d minuten</item>
+        <item quantity="few">%1$d minuten</item>
+        <item quantity="many">%1$d minuten</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%1$d hours</item>
-        <item quantity="zero">%1$d hours</item>
-        <item quantity="one">%1$d hour</item>
-        <item quantity="two">%1$d hours</item>
-        <item quantity="few">%1$d hours</item>
-        <item quantity="many">%1$d hours</item>
+        <item quantity="other">%1$d uur</item>
+        <item quantity="zero">%1$d uur</item>
+        <item quantity="one">%1$d uur</item>
+        <item quantity="two">%1$d uur</item>
+        <item quantity="few">%1$d uur</item>
+        <item quantity="many">%1$d uur</item>
     </plurals>
     <plurals name="days">
-        <item quantity="other">%1$d days</item>
-        <item quantity="zero">%1$d days</item>
-        <item quantity="one">%1$d day</item>
-        <item quantity="two">%1$d days</item>
-        <item quantity="few">%1$d days</item>
-        <item quantity="many">%1$d days</item>
+        <item quantity="other">%1$d dagen</item>
+        <item quantity="zero">%1$d dagen</item>
+        <item quantity="one">%1$d dag</item>
+        <item quantity="two">%1$d dagen</item>
+        <item quantity="few">%1$d dagen</item>
+        <item quantity="many">%1$d dagen</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">%1$d nieuwe bestanden gevonden</item>
@@ -169,12 +169,12 @@
         <item quantity="many">%1$d nieuwe bestanden gevonden</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">%1$d bestanden ontvangen van App %2$s</item>
-        <item quantity="zero">%1$d bestanden ontvangen van App %2$s</item>
-        <item quantity="one">%1$d bestand ontvangen van App %2$s</item>
-        <item quantity="two">%1$d bestanden ontvangen van App %2$s</item>
-        <item quantity="few">%1$d bestanden ontvangen van App %2$s</item>
-        <item quantity="many">%1$d bestanden ontvangen van App %2$s</item>
+        <item quantity="other">%1$d bestanden ontvangen van app %2$s</item>
+        <item quantity="zero">%1$d bestanden ontvangen van app %2$s</item>
+        <item quantity="one">%1$d bestand ontvangen van app %2$s</item>
+        <item quantity="two">%1$d bestanden ontvangen van app %2$s</item>
+        <item quantity="few">%1$d bestanden ontvangen van app %2$s</item>
+        <item quantity="many">%1$d bestanden ontvangen van app %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
         <item quantity="other">%1$d bestanden van WeChat</item>
@@ -249,12 +249,12 @@
         <item quantity="many">%1$s video\'s</item>
     </plurals>
     <plurals name="follower_num">
-        <item quantity="other">followers</item>
-        <item quantity="zero">followers</item>
-        <item quantity="one">follower</item>
-        <item quantity="two">followers</item>
-        <item quantity="few">followers</item>
-        <item quantity="many">followers</item>
+        <item quantity="other">volgers</item>
+        <item quantity="zero">volgers</item>
+        <item quantity="one">volger</item>
+        <item quantity="two">volgers</item>
+        <item quantity="few">volgers</item>
+        <item quantity="many">volgers</item>
     </plurals>
     <plurals name="user_upload_items">
         <item quantity="other">video\'s</item>
@@ -265,19 +265,19 @@
         <item quantity="many">video\'s</item>
     </plurals>
     <plurals name="number_of_comment">
-        <item quantity="other">%1$s comments</item>
-        <item quantity="zero">%1$s comments</item>
-        <item quantity="one">%1$s comment</item>
-        <item quantity="two">%1$s comments</item>
-        <item quantity="few">%1$s comments</item>
-        <item quantity="many">%1$s comments</item>
+        <item quantity="other">%1$s opmerkingen</item>
+        <item quantity="zero">%1$s opmerkingen</item>
+        <item quantity="one">%1$s opmerking</item>
+        <item quantity="two">%1$s opmerkingen</item>
+        <item quantity="few">%1$s opmerkingen</item>
+        <item quantity="many">%1$s opmerkingen</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s videos</item>
-        <item quantity="zero">%1$s videos</item>
+        <item quantity="other">%1$s video\'s</item>
+        <item quantity="zero">%1$s video\'s</item>
         <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videos</item>
-        <item quantity="few">%1$s videos</item>
-        <item quantity="many">%1$s videos</item>
+        <item quantity="two">%1$s video\'s</item>
+        <item quantity="few">%1$s video\'s</item>
+        <item quantity="many">%1$s video\'s</item>
     </plurals>
 </resources>
