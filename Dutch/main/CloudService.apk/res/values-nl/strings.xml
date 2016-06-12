@@ -220,11 +220,11 @@ of apparaat te wissen."</string>
   <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
   <string name="micloud_main_memory_low_message">Om te sync, items te verwijderen die u hebt opgeslagen in de cloud.</string>
   <string name="micloud_main_memory_low_title">Intern geheugen is bijna vol</string>
-  <string name="micloud_main_multi_user_error_message">"You login the same account with the first space and micloud stops. If you want to backup data:
+  <string name="micloud_main_multi_user_error_message">Je logt in met hetzelfde account als de eerste ruimte en Mi Cloud stopt. Als je gegevens wil back-uppen:
 
-1.Use another accout
-2.Transfer data to first space"</string>
-  <string name="micloud_main_multi_user_error_title">MiCloud stops</string>
+1. Gebruik een ander account
+2. Verplaats gegevens naar eerste ruimte"</string>
+  <string name="micloud_main_multi_user_error_title">Mi Cloud stopt</string>
   <string name="micloud_main_network_abnormal">Kan niet verbinden met netwerk</string>
   <string name="micloud_main_network_error">Kan geen verbinding maken met het netwerk</string>
   <string name="micloud_main_not_sync">%d items wachten om te synchroniseren</string>
@@ -277,7 +277,7 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_notif_content_depend_wifi">Verbinden met Wi-Fi om te sync.</string>
   <string name="micloud_notif_content_master_depend_wifi">Eerst verbinden met Wi-Fi.</string>
   <string name="micloud_notif_content_memory_low">Niet genoeg opslagruimte.</string>
-  <string name="micloud_notif_content_multi_user_error">You login the same account with original space.</string>
+  <string name="micloud_notif_content_multi_user_error">Je logt in met hetzelfde account als de originele ruimte.</string>
   <string name="micloud_notif_content_sync_finish">Account</string>
   <string name="micloud_notif_content_sync_not_finish">Detail</string>
   <string name="micloud_notif_content_sync_with_off">Tik om uw apparaat nu te sync.</string>
@@ -286,7 +286,7 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_notif_title_depend_wifi">%d wacht om te sync.</string>
   <string name="micloud_notif_title_master_depend_wifi">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_memory_low">Kan niet sync. met Mi Cloud</string>
-  <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_multi_user_error">Kan niet synchroniseren met Mi Cloud</string>
   <string name="micloud_notif_title_sync_finish">Gesynchroniseerd</string>
   <string name="micloud_notif_title_sync_not_finish">Sommige items zijn niet gesynchroniseerd</string>
   <string name="micloud_notif_title_sync_progress">Bezig met synchroniseren</string>
@@ -342,10 +342,10 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_web_discription_02">Om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
   <string name="micloud_web_discription_international">Bezoek www.mi.com/micloud</string>
   <string name="micloud_website">Items in Mi Cloud bekijken</string>
-  <string name="micloud_wipe_data_confirm_label">Remove data from Mi Cloud</string>
-  <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
-  <string name="micloud_wipe_data_remove">Remove</string>
-  <string name="micloud_wipe_data_retain">Leave</string>
+  <string name="micloud_wipe_data_confirm_label">Verwijder gegevens Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_title">Items gesynchroniseerd met Mi Cloud verwijderen van de telefoon nadat je uitlogt?</string>
+  <string name="micloud_wipe_data_remove">Verwijderen</string>
+  <string name="micloud_wipe_data_retain">Behouden</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Ongeveer RMB 80 per jaar</string>
@@ -439,7 +439,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sync_sub_int_dspt">Uw provider kan u kosten aanrekenen voor een internationale SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
   <string name="title_reg">Maak Mi Account aan</string>
   <string name="total_space_upgraded_to">Totale ruimte:%s</string>
-  <string name="trying_to_connect_to_network">Connecting to the network…</string>
+  <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
   <string name="unactivated_user">Gedeactiveerd</string>
   <string name="upgrade_space">Toevoegen ruimte</string>
   <string name="upgrade_space_gb">GB</string>
@@ -455,14 +455,14 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Mi Cloud's Servicevoorwaarden"</string>
   <string name="vcode">Code bevestigen</string>
-  <string name="verify">Bevestig</string>
-  <string name="view_storage_title">Opslag ruimte</string>
+  <string name="verify">Bevestigen</string>
+  <string name="view_storage_title">Opslagruimte</string>
   <string name="voip_choose_sim">Kies telefoonnr. om Mi Voice te activeren</string>
-  <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
-  <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
-  <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
+  <string name="wipe_data_dialog_button_check_sync">Controleer of gesynchroniseerd</string>
+  <string name="wipe_data_dialog_msg">%s waren niet gesynchroniseerd en zullen blijven staan op je telefoon.</string>
+  <string name="wipe_data_dialog_msg_and_on">, en wat andere items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
+  <string name="wipe_data_dialog_title">Sommige items zijn niet gesynchroniseerd</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>

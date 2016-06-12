@@ -104,7 +104,7 @@
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Belnotitie toevoegen</string>
   <string name="callrecordview_menu_batch_delete">Weigeren</string>
-  <string name="callrecordview_menu_blocklist">Blocklist</string>
+  <string name="callrecordview_menu_blocklist">Zwarte lijst</string>
   <string name="callrecordview_menu_conference">Telefoonconferentie</string>
   <string name="callrecordview_menu_delete">Belgeschiedenis verwijderen</string>
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
@@ -117,11 +117,11 @@
   <string name="callrecordview_menu_delete_sim">Verwijder %s belgeschiedenis</string>
   <string name="callrecordview_menu_delete_stranger">Onbekende nummers verwijderen</string>
   <string name="callrecordview_menu_edit_call_note">Notitie bewerken</string>
-  <string name="callrecordview_menu_ip">Auto IP dialing</string>
-  <string name="callrecordview_menu_livetalk">Top-up package</string>
-  <string name="callrecordview_menu_mobiledata">Purchase data</string>
+  <string name="callrecordview_menu_ip">Auto IP bellen</string>
+  <string name="callrecordview_menu_livetalk">Pakket herladen</string>
+  <string name="callrecordview_menu_mobiledata">Data kopen</string>
   <string name="callrecordview_menu_paste">Plakken</string>
-  <string name="callrecordview_menu_recharge">Top up</string>
+  <string name="callrecordview_menu_recharge">Herladen</string>
   <string name="callrecordview_menu_save_to_group">保存通话联系人到群组</string>
   <string name="callrecordview_menu_settings">Instellingen</string>
   <string name="callrecordview_menu_show_accepted">Beantwoorde gesprekken</string>
@@ -246,9 +246,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contactsGroupsLabel">Groepen</string>
   <string name="contactsJoinedMessage">Contacten zijn samengevoegd</string>
   <string name="contactsList">Contacten</string>
-  <string name="contacts_hybrid_activity_label">Recover contacts</string>
+  <string name="contacts_hybrid_activity_label">Contacten herstellen</string>
   <string name="contacts_in_call_show">"%s's video"</string>
-  <string name="contacts_setting_title">Contacts setting</string>
+  <string name="contacts_setting_title">Contacteninstelling</string>
   <string name="contacts_unavailable_add_account">Inloggen bij een account</string>
   <string name="contacts_unavailable_create_contact">Een nieuw contact maken</string>
   <string name="contacts_unavailable_import_contacts">Contacten importeren</string>
@@ -358,13 +358,13 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialerIconLabel">Recente</string>
   <string name="dialerKeyboardHintText">Gebruik het toetsenbord om te bellen</string>
   <string name="dialer_addAnotherCall">Gesprek toevoegen</string>
-  <string name="dialer_copy_view_delete_description">Clear copied number</string>
-  <string name="dialer_digits_copy_number_label">Copied number</string>
+  <string name="dialer_copy_view_delete_description">Gekopieerd nummer wissen</string>
+  <string name="dialer_digits_copy_number_label">Gekopieerd nummer</string>
   <string name="dialer_empty_text_loading">Een momentje…</string>
   <string name="dialer_empty_text_no_call_log">Geen recente contacten</string>
   <string name="dialer_empty_text_no_search_result">Geen contacten gevonden</string>
   <string name="dialer_menu_description">Tik om belmenu te openen</string>
-  <string name="dialer_menu_title">Menu options</string>
+  <string name="dialer_menu_title">Menu opties</string>
   <string name="dialer_returnToInCallScreen">Terugkeren naar huidig gesprek</string>
   <string name="dialer_useDtmfDialpad">Gebruik toestenblok</string>
   <string name="dialog_import">Contacten importeren</string>
@@ -414,7 +414,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="export_to_sim">Exporteren naar SIM kaart</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
   <string name="export_to_sim2">Exporteren naar SIM kaart 2</string>
-  <string name="export_to_sim_prepare_title">Preparing…</string>
+  <string name="export_to_sim_prepare_title">Voorbereiden…</string>
   <string name="export_to_sim_title">Exporteren…</string>
   <string name="export_vcard_description">Exporteer vCard naar de interne opslag van telefoon</string>
   <string name="exporting_contact_failed_message">"De contactgegevens zijn niet geëxporteerd. Reden: '%s'"</string>
@@ -492,7 +492,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="imei_invalid">Ongeldige IMEI</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
-  <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
+  <string name="import_contact_card_aggregate_suggestion_button">Kaarten samenvoegen</string>
   <string name="import_contact_card_button">Contact importeren</string>
   <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden in opslag.</string>
   <string name="import_from_onekey_migrate">Importeren met Mi Mover</string>
@@ -694,7 +694,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="miprofile_finding_label">Visitekaartjes vinden</string>
   <string name="miprofile_name">Mijn profiel</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
-  <string name="miprofile_nick_name_edit">Edit card nick name</string>
+  <string name="miprofile_nick_name_edit">Bijnaam van kaart wijzigen</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Roepnaam invoeren</string>
   <string name="miprofile_nick_name_edit_dialog_message">Roepnaam zal verschijnen in belgeschiedenis en profiel info</string>
   <string name="miprofile_nick_name_edit_dialog_title">Roepnaam bewerken</string>
@@ -851,7 +851,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="picker_postal_title">Kies een postcode</string>
   <string name="picker_recent_list_empty">Er zijn geen recente contacten</string>
   <string name="pkgLabel">Contacten en toetsenblok</string>
-  <string name="play_add_incall_show_entry">Play or add video</string>
+  <string name="play_add_incall_show_entry">Video afspelen of toevoegen</string>
   <string name="play_incall_show_entry">Video afspelen</string>
   <string name="postalLabelsGroup">Adres</string>
   <string name="postal_address">Adres</string>
@@ -870,7 +870,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="pref_key_sim_manage">SIM kaarten</string>
   <string name="pref_key_sim_manage1">Instellen SIM kaart 1</string>
   <string name="pref_key_sim_manage2">Instellen SIM kaart 2</string>
-  <string name="pref_rcs_backup_restore_title">Backup &amp; recovery settings</string>
+  <string name="pref_rcs_backup_restore_title">Backup &amp; herstelinstellingen</string>
   <string name="pref_rcs_fetion_entry_title">融合通信飞信设置</string>
   <string name="pref_summary_import_from_account">Contacten overdragen van Google en Exchange accounts naar mijn Mi Account</string>
   <string name="pref_title_account_import">Importeer contacten</string>
@@ -1048,8 +1048,8 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="sim_capacity_content" formatted="false">Totale ruimte %d | %d gebruikt</string>
   <string name="sim_card_no_free_space_message">Onvoldoende ruimte</string>
   <string name="sim_card_no_free_space_title">SIM kaart vol</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">Alles deselecteren</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">Alles selecteren</string>
   <string name="sim_contact_existing">Dit contact bestaat al</string>
   <string name="sim_contact_invalid">Foutief SIM contact</string>
   <string name="sim_contact_search_error">Er is een fout opgetreden</string>
@@ -1152,7 +1152,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="upgrade_out_of_memory_uninstall">Verwijder enkele apps</string>
   <string name="use_photo_as_primary">Deze foto gebruiken</string>
   <string name="use_photo_as_primary2">"Gebruik %1$s's contact foto"</string>
-  <string name="useful_numbers">Useful numbers</string>
+  <string name="useful_numbers">Handige nummers</string>
   <string name="user_profile_contacts_list_header">Ik</string>
   <string name="vcard_export_request_rejected_message">Verzoek voor vCard-export is geweigerd. Probeer het later opnieuw.</string>
   <string name="vcard_export_will_start_message">%s wordt binnenkort geëxporteerd.</string>
