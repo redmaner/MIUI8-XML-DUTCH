@@ -1,7 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">%d items gevonden</item>
+        <item quantity="one">1 item gevonden</item>
+    </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">%d items verwijderen?</item>
         <item quantity="one">Dit item verwijderen?</item>
+    </plurals>
+	<plurals name="sniff_find_result">
+        <item quantity="other">%d resultaten gevonden</item>
+        <item quantity="one">1 resultaat gevonden</item>
     </plurals>
 </resources>

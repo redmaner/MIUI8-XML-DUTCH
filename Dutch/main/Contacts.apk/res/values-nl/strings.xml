@@ -49,8 +49,8 @@
   <string name="btn_rotation">Draaien</string>
   <string name="btn_split_contact">Afsplitsen</string>
   <string name="button_cancel_scan">Stoppen</string>
-  <string name="button_join_service_number">Add service number</string>
-  <string name="button_my_center">Profile</string>
+  <string name="button_join_service_number">Servicenummer toevoegen</string>
+  <string name="button_my_center">Profiel</string>
   <string name="button_scan">Opnieuw scannen</string>
   <string name="caching_vcard_message">Bezig met opslaan van vCard(s) in de lokale tijdelijke opslag. Het daadwerkelijke importeren begint binnenkort.</string>
   <string name="caching_vcard_title">In cachegeheugen opslaan</string>
@@ -60,7 +60,7 @@
   <string name="callDetailsDurationFormat" formatted="false">%s min. %s sec.</string>
   <string name="callShortcutActivityTitle">Kies een nummer om te bellen</string>
   <string name="call_assistant">%s bellen</string>
-  <string name="call_callback">Nummer terug bellen</string>
+  <string name="call_callback">Nummer terugbellen</string>
   <string name="call_car">Auto bellen</string>
   <string name="call_company_main">Hoofdnummer bedrijf bellen</string>
   <string name="call_custom">%s bellen</string>
@@ -157,14 +157,14 @@
   <string name="clearFrequentsConfirmation">U verwijderd de lijst met contactpersonen waarmee u regelmatig contact opneemt in de apps Personen en Telefoon en emailapps moeten uw voorkeursadressen weer opnieuw leren.</string>
   <string name="clearFrequentsConfirmation_title">Lijst regelmatige contactpersonen wissen?</string>
   <string name="clearFrequentsProgress_title">Regelmatige contactpersonen verwijderen...</string>
-  <string name="clear_copy_number_description">Clear copied number</string>
+  <string name="clear_copy_number_description">Gekopieerd nummer wissen</string>
   <string name="clear_default">Standaardwaarden verwijderen</string>
   <string name="clear_digits">Telefoonnummer verwijderen</string>
   <string name="click_close">Tik om te sluiten</string>
   <string name="clip_dialog_title">Gekopiëerd nummer bellen?</string>
   <string name="close_dial_pad">Toetsenblok sluiten</string>
   <string name="cloud_antispam_mark">Markeren als spam</string>
-  <string name="cloud_antispam_title">Onbekende nummers identificeren</string>
+  <string name="cloud_antispam_title">Beller ID</string>
   <string name="cloud_recommend_msg">Tik om contacten te sync. met Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync. met Mi Cloud is uitgeschakeld</string>
   <string name="cloud_state_loading">Een momentje…</string>
@@ -196,8 +196,8 @@
   <string name="contactSavedErrorToast">Kan wijzigingen in contactpersoon niet opslaan.</string>
   <string name="contactSavedToast">Contactpersoon opgeslagen.</string>
   <string name="contact_delete_toast">Contactpersoon verwijderd</string>
-  <string name="contact_detail_action_item_calllog">Call history</string>
-  <string name="contact_detail_action_item_nocalllog">No history</string>
+  <string name="contact_detail_action_item_calllog">Gespreksgeschiedenis</string>
+  <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
   <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
   <string name="contact_detail_menu_delete_miprofile">Visitekaartje verwijderen</string>
@@ -262,9 +262,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="customLabelPickerTitle">Aangepaste labelnaam</string>
   <string name="custom_list_filter">Aangepaste weergave definiëren</string>
   <string name="custom_nickname_hint">Bijnaam invoeren</string>
-  <string name="data_already_used">Used data</string>
-  <string name="data_charge">Top up mobile data</string>
-  <string name="data_left">Remaining data</string>
+  <string name="data_already_used">Data gebruikt</string>
+  <string name="data_charge">Mobiele data opladen</string>
+  <string name="data_left">Resterende data</string>
   <string name="data_unit">MB</string>
   <string name="date_picker_label">Herinner mij drie dagen vooraf en op de dag zelf</string>
   <string name="date_time_set">Instellen</string>
@@ -409,7 +409,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="eventTypeCustom">Aangepast</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Contacten geëxporteerd</string>
-  <string name="export_sim_contact_finish_msg">%1$d overgedragen | %2$d gedupliceerd | %3$d overblijvend</string>
+  <string name="export_sim_contact_finish_msg">%1$d overgedragen | %2$d gedupliceerd | %3$d resterend%4$s</string>
   <string name="export_to_sdcard">Exporteren naar SD kaart</string>
   <string name="export_to_sim">Exporteren naar SIM kaart</string>
   <string name="export_to_sim1">Exporteren naar SIM kaart 1</string>
@@ -724,7 +724,7 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="missing_name">(Geen naam)</string>
   <string name="missing_required_permission">U hebt een vereiste toestemming uitgeschakeld.</string>
   <string name="mobile_equipment_identification">Mobiele uitrustingsidentificatie</string>
-  <string name="more_call_logs">Bekijk de gedetailleerde belgeschiedenis op i.mi.com</string>
+  <string name="more_call_logs">Luister naar al je opgenomen gesprekken op i.mi.com</string>
   <string name="move_and_resize">Verplaatsen en vergroten/verkleinen</string>
   <string name="multi_number_menu_call">Oproep</string>
   <string name="multi_number_menu_delete">Verwijderen</string>
@@ -923,9 +923,9 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="profile_name">Mijn profiel</string>
   <string name="profile_name_photo">Foto</string>
   <string name="public_account_name">移动公众号</string>
-  <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen…</string>
-  <string name="pull_to_refresh_refreshing_label">Laden…</string>
-  <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen…</string>
+  <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen</string>
+  <string name="pull_to_refresh_refreshing_label">Een momentje…</string>
+  <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen</string>
   <string name="qr_card_card">QR Code</string>
   <string name="qrcode_card_title">QR code</string>
   <string name="qrcode_detail_menu_edit">编辑二维码</string>
@@ -1024,10 +1024,10 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="send_to_voicemail_checkbox">Oproepen rechtstreeks naar voicemail verzenden</string>
   <string name="separatorJoinAggregateAll">Alle contacten</string>
   <string name="separatorJoinAggregateSuggestions">Mogelijke contacten</string>
-  <string name="service_more">More</string>
-  <string name="service_provider">Directory</string>
-  <string name="service_provider_detail">Directory details</string>
-  <string name="set_data_package">Set data plan first</string>
+  <string name="service_more">Meer</string>
+  <string name="service_provider">Adresboek</string>
+  <string name="service_provider_detail">Adresboek details</string>
+  <string name="set_data_package">Stel eerst dataplan in</string>
   <string name="set_default">Standaard instellen</string>
   <string name="set_photo_failed_msg">Kon foto niet toewijzen.</string>
   <string name="share_error">Dit contact kan niet worden gedeeld.</string>

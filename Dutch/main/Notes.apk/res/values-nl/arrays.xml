@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="folder_operations">
-        <item>Rename</item>
-        <item>Delete</item>
+        <item>Hernoemen</item>
+        <item>Verwijderen</item>
     </string-array>
     <string-array name="attachment_chooser">
         <item>Camera</item>
-        <item>Gallery</item>
+        <item>Galerij</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Naam</item>
@@ -27,12 +27,17 @@
         <item>Groot</item>
         <item>Enorm</item>
     </string-array>
-    <string-array name="welcome_notes_content">
-        <item>Tik om een notitie te maken</item>
-        <item>Om een foto toe te voegen of om de selectievakjes zichtbaar te maken, tikt u op de onderstaande knop
-</item>
-        <item>Ingedrukt houden om een notitie te pinnen, te verplaatsen of te verwijderen
-</item>
+        <string-array name="welcome_notes_content">
+        <item>"Welkom bij Notities
+"</item>
+        <item>"Tik om een notitie te maken
+"</item>
+        <item>"Templates kiezen
+"</item>
+        <item>"Folders aanmaken
+"</item>
+        <item>"Notities verbergen
+"</item>
         <item>"En nog meer leuke eigenschappen!
   - Sync met Mi Cloud
   - Herinneringen instellen"</item>
