@@ -29,6 +29,7 @@
   <string name="add_to_secret_failed_with_reason">"Kan niet toegevoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items kunnen niet toegevoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_successful">Toegevoegd aan verborgen album</string>
+  <string name="add_to_share_album_not_delete">Kan foto niet verwijderen van gedeeld album</string>
   <string name="adding">Toevoegen…</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="adding_to_album">Foto\'s toevoegen…</string>
@@ -67,8 +68,8 @@
   <string name="album_share_subtitle_quitting">Verlaten…</string>
   <string name="album_share_subtitle_requesting">Albuminformatie ophalen…</string>
   <string name="album_share_title_new_album">Nieuw album delen</string>
-  <string name="album_type_baby">Gedeelde albums</string>
-  <string name="album_type_share">Baby album</string>
+  <string name="album_type_baby">Baby album</string>
+  <string name="album_type_share">Gedeelde albums</string>
   <string name="album_type_system">Systeemalbums</string>
   <string name="album_videos_name">Video\'s</string>
   <string name="alert_secret_album_enter">Begrepen</string>
@@ -701,6 +702,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_auto_trim_tip">Automatisch trimmen…</string>
   <string name="video_editor_cancel">Annuleren</string>
   <string name="video_editor_done">Klaar</string>
+  <string name="video_editor_down_load_no_wifi_tips">Je kan alleen downloaden met Wi-Fi</string>
   <string name="video_editor_encode_video">Video coderen…</string>
   <string name="video_editor_encode_video_error">Kon video niet coderen</string>
   <string name="video_editor_fatal_error">Onbekende fout</string>
@@ -717,9 +719,13 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_filter_rouge">Rouge</string>
   <string name="video_editor_filter_sunny">Zonnig</string>
   <string name="video_editor_invalid_trim_arguments">Moet langer zijn dan 1 seconde</string>
+  <string name="video_editor_loading_plugin">Laden...</string>
   <string name="video_editor_more">Geavanceerd</string>
   <string name="video_editor_not_support_tips">Dit videoformaat wordt niet ondersteund</string>
   <string name="video_editor_ok">OK</string>
+  <string name="video_editor_res_not_load_dialog_msg">Om dit te gebruiken moet je de bronpakketten downloaden</string>
+  <string name="video_editor_res_not_load_dialog_title">Moet gedownload worden</string>
+  <string name="video_editor_template_family">Familie</string>
   <string name="video_editor_template_forbidden_tips">Kan dit niet doen als je een template gebruikt</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
