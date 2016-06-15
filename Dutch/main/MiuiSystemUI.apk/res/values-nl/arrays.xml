@@ -2,31 +2,31 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Scannen…</item>
+        <item>Verbinden…</item>
+        <item>Verifiëren…</item>
+        <item>IP adres verkrijgen…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbinding vermijden</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Scannen…</item>
+        <item>Verbinden met %1$s…</item>
+        <item>Verifiëren met %1$s…</item>
+        <item>IP adres verkrijgen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken van %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbinding vermijden</item>
     </string-array>
     <integer-array name="vibration_torch_on">
         <item>0</item>
@@ -130,32 +130,32 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sunny</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
-        <item>Downpour</item>
-        <item>Rainstorm</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
-        <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
+        <item>Zonnig</item>
+        <item>Bewolkt</item>
+        <item>Bewolkt</item>
+        <item>Mistig</item>
+        <item>Zware regenstorm</item>
+        <item>Stortbui</item>
+        <item>Regenstorm</item>
+        <item>Onweersbui</item>
+        <item>Stortregen</item>
+        <item>Zware regenval</item>
+        <item>Matige regenval</item>
+        <item>Lichte regenval</item>
+        <item>Regen en sneeuw</item>
+        <item>Sneeuwstorm</item>
+        <item>Sneeuw</item>
+        <item>Hevige sneeuw</item>
+        <item>Matige sneeuw</item>
+        <item>Lichte sneeuw</item>
+        <item>Sterke zandstorm</item>
+        <item>Zandstorm</item>
+        <item>Zand</item>
+        <item>Winderig</item>
+        <item>Hagel</item>
+        <item>Stof</item>
+        <item>Mist</item>
+        <item>Ijskoude regen</item>
         <item></item>
     </string-array>
 </resources>

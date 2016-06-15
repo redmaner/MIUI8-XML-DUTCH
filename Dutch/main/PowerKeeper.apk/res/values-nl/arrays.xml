@@ -53,6 +53,14 @@
         <item>Aangepast</item>
         <item>Batterijbespaarder</item>
 	</string-array>	
+	   <string-array name="power_checker_abnormal_groups">
+        <item>actief</item>
+        <item>recent</item>
+    </string-array>
+    <string-array name="power_checker_rank_groups">
+        <item>hoog</item>
+        <item>normaal</item>
+    </string-array>
     <string-array name="power_checker_group_prefix">
         <item>Nu</item>
         <item>Achtergrond</item>
