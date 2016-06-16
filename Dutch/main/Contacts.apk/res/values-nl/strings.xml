@@ -329,7 +329,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_view_contact_detail">Contact weergeven</string>
   <string name="description_voicemail_button">Voicemail</string>
   <string name="deselect_all">Alles deselecteren</string>
-  <string name="details_list_group_header_more_action">Meer</string>
   <string name="details_list_group_header_other">ANDERE</string>
   <string name="device_bluetooth_title">Contacten overzetten</string>
   <string name="device_brand_title">Merk kiezen</string>
@@ -390,6 +389,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="display_warn_remove_ungrouped">"Als u '%s' verwijdert uit de synchronisatie worden ook contacten die niet bij een groep horen uit de synchronisatie verwijderd."</string>
   <string name="duplicate_group_name">Groepnaam bestaat al</string>
   <string name="editContactDescription">Contact bewerken</string>
+  <string name="editContactNameExpandCloseDescription">Naam inklappen</string>
+  <string name="editContactNameExpandOpenDescription">Naam uitklappen</string>
   <string name="editGroupDescription">Groep bewerken</string>
   <string name="edit_contact">Contact bewerken</string>
   <string name="edit_contact_card_title">Contactkaart bewerken</string>
@@ -408,6 +409,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="eventLabelsGroup">Speciale datums</string>
   <string name="eventTypeCustom">Aangepast</string>
   <string name="event_edit_field_hint_text">Datum</string>
+  <string name="expandCloseViewDescription">Inklappen</string>
+  <string name="expandOpenViewDescription">Uitklappen</string>
   <string name="export_sim_contact_finish">Contacten geëxporteerd</string>
   <string name="export_sim_contact_finish_msg">%1$d overgedragen | %2$d gedupliceerd | %3$d resterend%4$s</string>
   <string name="export_to_sdcard">Exporteren naar SD kaart</string>
@@ -607,7 +610,8 @@ die zal afspelen op de apparaten van andere MIUI gebruikers als u belt"</string>
   <string name="map_other">Adres weergeven</string>
   <string name="map_work">Werkadres weergeven</string>
   <string name="meid">MEID</string>
-  <string name="meid_invalid">Invalid MEID</string>
+  <string name="meid_invalid">Ongeldige MEID</string>
+  <string name="menuMoreDescription">Meer</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Toevoegen aan favorieten</string>
   <string name="menu_bar_group_add">Toevoegen</string>

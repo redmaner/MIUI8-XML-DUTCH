@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="__leak_canary_analysis_failed">Lekanalyse is mislukt</string>
   <string name="__leak_canary_class_has_leaked">%s is gelekt</string>
@@ -525,9 +525,10 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="picker_download">Downloaden</string>
   <string name="picker_download_progress_message">Downloaden, Voltooid: %1$d/%2$d</string>
   <string name="picker_full_format">je kan tot %d items selecteren</string>
-  <string name="picker_image_need_download">%d geselecteerde foto\'s niet op aparaat, downloaden met mobiele data?</string>
-  <string name="picker_image_will_download">%d geselecteerde foto\'s niet op aparaat, bezig met downloaden</string>
+  <string name="picker_image_need_download">%d geselecteerde foto\'s niet op apparaat, downloaden met mobiele data?</string>
+  <string name="picker_image_will_download">%d geselecteerde foto\'s niet op apparaat, bezig met downloaden</string>
   <string name="picker_mobile_data_video">Kan video\'s niet downloaden met mobiele data, %d overslaan.</string>
+  <string name="picker_origin_need_download">%1$d geselecteerde foto\'s niet op apparaat (%2$dMB), downloaden met mobiele data?</string>
   <string name="picker_title_format">Selecteer %d foto\'s</string>
   <string name="picker_title_selection_format">%d foto\'s geselecteerd</string>
   <string name="picker_title_unlimit">Selecteer foto\'s</string>

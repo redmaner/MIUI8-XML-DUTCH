@@ -44,7 +44,7 @@
   <string name="cant_remove_folder">Kan deze map niet verwijderen</string>
   <string name="cant_remove_retained_app">Kan deze app niet verwijderen</string>
   <string name="cant_remove_system_app">Kan systeemapp niet verwijderen</string>
-  <string name="change_wallpaper">Change</string>
+  <string name="change_wallpaper">Veranderen</string>
   <string name="children_folder_title">Kinderen</string>
   <string name="children_mode_exit">Verlaten</string>
   <string name="children_mode_tips">Keer terug naar Instellingen om de toegang tot apps te beheren.</string>
@@ -53,9 +53,9 @@
   <string name="cloud_app_restore_title">In afwachting</string>
   <string name="configure_wallpaper">Instellingen</string>
   <string name="confirm_btn_label">OK</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Cloned apps will be uninstalled together with these ones.</string>
-  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Cloned app will be uninstalled together with this one.</string>
-  <string name="confirm_uninstall_dialog_title">Corresponding cloned apps will be removed.</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Geclonede apps zullen worden verwijderen samen met deze.</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Geclonede apps zullen worden verwijderen samen met deze.</string>
+  <string name="confirm_uninstall_dialog_title">Bijhorende geclonede apps zullen worden verwijderd.</string>
   <string name="current_preview">Voorbeeld</string>
   <string name="current_wallpaper">Huidige</string>
   <string name="custom_wallpaper_picker">Bladeren</string>
@@ -146,7 +146,7 @@
   <string name="guide_install_app_msg">De app is niet geïnstalleerd. Zoeken en installeren?</string>
   <string name="guide_install_app_title">App installeren</string>
   <string name="guide_tips_editing_mode">Ingedrukt houden om een widget op te pakken</string>
-  <string name="home_screen">Home screen</string>
+  <string name="home_screen">Startscherm</string>
   <string name="image_too_small_message">Originele afbeelding is niet groot genoeg</string>
   <string name="install">Installeren</string>
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
@@ -157,10 +157,10 @@
   <string name="loading_desktop">Een momentje…</string>
   <string name="loading_wallpaper">Een momentje…</string>
   <string name="local_wallpaper">Lokaal</string>
-  <string name="lock_screen">Lock screen</string>
+  <string name="lock_screen">Vergrendelscherm</string>
   <string name="lock_screen_failed_message">Kan vergrendelschermachtergrond niet toepassen</string>
   <string name="lock_screen_success_message">Toegepast op vergrendelscherm</string>
-  <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
+  <string name="lock_screen_wallpaper">Vergrendelschermachtergrond</string>
   <string name="menu_add">Toevoegen</string>
   <string name="menu_back_desktop">Terug naar startscherm</string>
   <string name="menu_customize">Instellingen</string>
@@ -178,8 +178,8 @@
   <string name="mi_wallpaper">MIUI Theme Store</string>
   <string name="mtzgadget_missing_text">Widget is niet beschikbaar</string>
   <string name="multi_selecting_tips">Om een app op te pikken, tikt u op het icoon</string>
-  <string name="no_detail_page">No details page</string>
-  <string name="normal_wallpaper">Wallpaper</string>
+  <string name="no_detail_page">Geen detailpagina</string>
+  <string name="normal_wallpaper">Achtergrond</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Geen ruimte meer op dit startscherm</string>
   <string name="permdesc_install_shortcut">Een app toestaan snelkoppelingen toe te voegen zonder tussenkomst van de gebruiker.</string>
@@ -258,15 +258,15 @@
   <string name="uninstall_result_other_failed" formatted="false">Kan %s en %d andere apps niet deïnstalleren</string>
   <string name="uninstall_result_succeeded">App gedeïnstalleerd</string>
   <string name="uninstall_result_two_failed">Kan %s en 1 andere app niet deïnstalleren</string>
-  <string name="uninstall_with_xspace_dialog_message">Corresponding cloned apps will be removed together with app data.</string>
-  <string name="uninstall_xspace_dialog_message">Uninstalling cloned app will remove all app data.</string>
-  <string name="uninstall_xspace_dialog_title_format">Uninstall cloned \"%s\"</string>
+  <string name="uninstall_with_xspace_dialog_message">Bijbehorende geclonede apps zullen worden verwijderd samen met de appdata.</string>
+  <string name="uninstall_xspace_dialog_message">Geclonede app verwijderen zal alle appdata wissen.</string>
+  <string name="uninstall_xspace_dialog_title_format">Geclonede \"%s\" verwijderen</string>
   <string name="unknown_artist_name">Artiest onbekend</string>
   <string name="unnamed_folder_name">Naamloze map</string>
   <string name="wallpaper_auto_change_title">Vergrendelscherm</string>
   <string name="wallpaper_failed_message">Kan achtergrond niet toepassen</string>
   <string name="wallpaper_scaling_message">Aanpassen naar vaste grootte</string>
-  <string name="wallpaper_scroll_type_tips">Wallpaper scroll</string>
+  <string name="wallpaper_scroll_type_tips">Wallpaperscroll</string>
   <string name="wallpaper_settings">Achtergrond</string>
   <string name="wallpaper_success_message">Achtergrond toegepast</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
