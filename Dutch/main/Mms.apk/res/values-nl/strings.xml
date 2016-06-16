@@ -3,7 +3,7 @@
   <string name="action_firewall_setting">Zwarte lijst</string>
   <string name="activity_not_found">Geen app gevonden om deze handeling uit te voeren</string>
   <string name="activity_not_found_uri">Geen app gevonden om deze handeling uit te voeren</string>
-  <string name="addBlackList">Blokkeer</string>
+  <string name="addBlackList">Blokkeren</string>
   <string name="add_attachment">Bijlagen toevoegen</string>
   <string name="add_contact">vCard</string>
   <string name="add_festival">Aanbevolen SMS</string>
@@ -27,7 +27,7 @@
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="alert_dlg_cancel_button">Annuleren</string>
   <string name="alert_dlg_ok_button">OK</string>
-  <string name="already_followed">"You're already following this number"</string>
+  <string name="already_followed">U volgt dit nummer al</string>
   <string name="app_label">Berichten</string>
   <string name="app_name">Apparatenbeheer</string>
   <string name="attach_image">Foto\'s</string>
@@ -117,7 +117,7 @@
   <string name="copy_to_sdcard_fail">Bijlage opslaan mislukt</string>
   <string name="copy_to_sdcard_success">Bijlage opgeslagen %s</string>
   <string name="database_corruption">Database corrupt, herstellen database…</string>
-  <string name="del_private_contact">Remove all private contact</string>
+  <string name="del_private_contact">Alle privecontact wissen</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_bookmark">Verwijderen uit favorieten</string>
   <string name="delete_message">Verwijderen</string>
@@ -166,11 +166,11 @@
   <string name="exporting_progress_private_message">Berichten exporteren uit privé Berichtenbox…</string>
   <string name="failed_to_add_media">"U kunt deze %1$s niet toevoegen aan uw bericht."</string>
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
-  <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>
-  <string name="fake_cell_checking_hint">Safety checking…</string>
-  <string name="fake_cell_safe_hint">This message is safe</string>
+  <string name="fake_cell_alert_hint">Het lijkt erop dat dit bericht is verzonden vanaf een telefoonnummer die verschilt met het nummer die wordt getoond. Wees voorzichtig met SMS die financiele verzoeken bevatten.</string>
+  <string name="fake_cell_checking_hint">Veiligheid controleren…</string>
+  <string name="fake_cell_safe_hint">Dit bericht is veilig</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
-  <string name="festival">Snelle reaties</string>
+  <string name="festival">Snelle reacties</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Deze functie dient verbinding te maken met internet om normaal te functioneren.</string>
   <string name="festival_networking_title">Notice</string>
@@ -184,8 +184,8 @@
   <string name="file_title">Naam:</string>
   <string name="file_width_height">Grootte:</string>
   <string name="flatshow_page_no">%1$d</string>
-  <string name="follow_finished">Following number</string>
-  <string name="follow_forbidden">"Can't follow this number"</string>
+  <string name="follow_finished">Nummer gevolgd</string>
+  <string name="follow_forbidden">Kan dit nummer niet volgen</string>
   <string name="forward_from">Verzonden van:</string>
   <string name="forward_prefix">"Doorsturen: "</string>
   <string name="found_old_messages">Berichten uploaden van %1$s naar %2$s?</string>
@@ -339,7 +339,7 @@
   <string name="mx_recommend_msg">Druk hier om Mi Message in te schakelen.</string>
   <string name="mx_type_guide">Met Mi Message kan je berichten sturen naar andere MIUI gebruikers zonder kosten</string>
   <string name="need_download">Sync…</string>
-  <string name="network_error">Network error</string>
+  <string name="network_error">Netwerkfout</string>
   <string name="networking_allow_continue">Ok</string>
   <string name="networking_allow_desc">"Slimme berichten laten u gratis berichten en spraakberichten sturen, onbekende nummers herkennen, spam filteren, enz. Door gebruik te maken van deze service, gaat u akkoord met Xiaomi's %1$s en %2$s. U moet de Gouden Gids inschakelen en verbinding maken met internet om deze dienst te gebruiken."</string>
   <string name="networking_allow_title">Attentie</string>
@@ -458,7 +458,7 @@
   <string name="refresh_failed">Vernieuwen mislukt</string>
   <string name="refreshing">Vernieuwen…</string>
   <string name="release_cancel">Loslaten om te annuleren</string>
-  <string name="remind_follow">Follow this number?</string>
+  <string name="remind_follow">Dit nummer volgen?</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_music">Muziek verwijderen</string>
   <string name="remove_picture">Foto verwijderen</string>
@@ -494,8 +494,8 @@
   <string name="search_setting_description">Tekst in uw berichten</string>
   <string name="search_show_more_results">Meer weergeven</string>
   <string name="search_title_mms">Messaging</string>
-  <string name="second_mms_introduction">please go to second space</string>
-  <string name="second_mms_switch">switch user</string>
+  <string name="second_mms_introduction">ga naar tweede ruimte</string>
+  <string name="second_mms_switch">gebruiker wisselen</string>
   <string name="secs">Seconden</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"De afzender staat niet in je contacten.
 "&lt;/font&gt;</string>
@@ -530,7 +530,7 @@
   <string name="service_message_not_found">Bericht verlopen of niet beschikbaar</string>
   <string name="service_network_problem">Verzenden mislukt wegens een netwerkprobleem"</string>
   <string name="service_not_activated">Dienst is niet geactiveerd in het netwerk</string>
-  <string name="service_unavailiable">Service unavailable</string>
+  <string name="service_unavailiable">Service niet beschikbaar</string>
   <string name="set">Instellen</string>
   <string name="share_img">Delen</string>
   <string name="show_all_messages">Alle berichten weergeven</string>
@@ -565,7 +565,7 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
   <string name="sp_mark_as_read">Alle berichten markeren als gelezen?</string>
-  <string name="sp_mark_as_read_menu_title">Mark as read</string>
+  <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
   <string name="sp_mark_as_read_progress">Bezig…</string>
   <string name="sp_mark_as_read_title">Alle meldingsberichten markeren als gelezen?</string>
   <string name="status_failed">Mislukt</string>
@@ -630,15 +630,15 @@
   <string name="unstick_conversation">Vastprikken huidige conversatie ongedaan maken</string>
   <string name="unsticked_conversation">Conversatie is al ontprikt</string>
   <string name="unsupported_media_format">Niet ondersteund %1$s formaat.</string>
-  <string name="url_fraud_dangerous_alert">"The website you are trying to visit is a fraud link, can be harmful to your device and your property, are you sure to move on? 
+  <string name="url_fraud_dangerous_alert">De website die u probeert te bezoeken is een fraudelink, kan schadelijk zijn voor uw apparaat en eigendom, wilt u doorgaan? 
 %s"</string>
-  <string name="url_fraud_insurance">Fraud insurance</string>
-  <string name="url_fraud_risky_alert">"The website you are trying to visit may be a fraud link, are you sure to move on? 
+  <string name="url_fraud_insurance">Fraudeverzekering</string>
+  <string name="url_fraud_risky_alert">De website die u probeert te bezoeken zou een fraudelink kunnen zijn, wilt u doorgaan? 
 %s"</string>
-  <string name="url_fraud_title">Fraud suspicious</string>
-  <string name="url_fraud_visit">&lt;u&gt;Visit anyway&lt;/u&gt;</string>
-  <string name="url_result_safe">This url is safe</string>
-  <string name="url_scanning">Url scanning…</string>
+  <string name="url_fraud_title">Verdacht van fraude</string>
+  <string name="url_fraud_visit">&lt;u&gt;Toch bezoeken&lt;/u&gt;</string>
+  <string name="url_result_safe">Deze URL is veilig</string>
+  <string name="url_scanning">Url scannen…</string>
   <string name="user_agreement1">Lees de toepasselijke voorwaarden zorgvuldig door voordat u extra software installeert of het product gebruikt.</string>
   <string name="user_agreement2">Algemene Voorwaarden</string>
   <string name="user_agreement3">" en "</string>

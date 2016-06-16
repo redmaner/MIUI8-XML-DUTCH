@@ -133,14 +133,14 @@
   <string name="logout_failed">Kan niet uitloggen</string>
   <string name="mi_account_identity_title">Verifieer uw identiteit</string>
   <string name="mi_pass">Mi Pas</string>
-  <string name="mi_pay_identity">Identity</string>
+  <string name="mi_pay_identity">Identiteit</string>
   <string name="micloud_account_name">Mi account</string>
   <string name="micloud_space_info">%s beschikbaar</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your Default space Mi Account."</string>
-  <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space.To avoid this, don't turn on sync with Mi Cloud"</string>
-  <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
+  <string name="multi_user_not_show_sync_activity_message_1">Het ziet er naar uit dat je het Mi Account van je standaard ruimte gebruikt.</string>
+  <string name="multi_user_not_show_sync_activity_message_2">In zo\'n geval, zullen alle gegevens worden gesynchroniseerd met uw tweede ruimte. Om dit te voorkomen, schakel synchronisatie met Mi Cloud niet in</string>
+  <string name="multi_user_not_show_sync_activity_title">Schakel synchronisatie met Mi Cloud niet in</string>
   <string name="my_device_title">Huidig apparaat</string>
   <string name="no_network_btn">Vernieuwen</string>
   <string name="no_network_title">Kan geen verbinding maken met netwerk</string>
@@ -213,7 +213,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_get_back_pwd">Ophalen account wachtwoord</string>
   <string name="passport_get_verify_code">Code verkrijgen</string>
   <string name="passport_getting_verify_code">Verkrijgen</string>
-  <string name="passport_i_know">I know</string>
+  <string name="passport_i_know">Weet ik</string>
   <string name="passport_identitfication_expired">Verificatiecode verlopen, begin opnieuw</string>
   <string name="passport_imei_permission_denied_message">We vragen toestemming om de IMEI van je apparaat te krijgen. Mi account gebruikt IMEI om de identiteit van het apparaat waarop u zich aanmeldt/inschrijft te achterhalen, om  uw Mi account veilig te houden.</string>
   <string name="passport_imei_permission_denied_title">IMEI verzoek toestemming</string>
@@ -226,7 +226,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Aanmelden</string>
   <string name="passport_login_check_find_device">Apparaat zoekstatus controleren…</string>
-  <string name="passport_login_check_find_device_failed_title">"Couldn't check Find device status"</string>
+  <string name="passport_login_check_find_device_failed_title">Kon vind apparaat-status niet vinden</string>
   <string name="passport_login_failed">Kan niet aanmelden</string>
   <string name="passport_login_find_device_bind">Dit toestel is gekoppeld aan bestaande Mi account ID (%s).</string>
   <string name="passport_login_instead_reg">Gebruik dit nummer</string>
@@ -274,8 +274,8 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_register_by_email">Account aanmaken met e-mailadres</string>
   <string name="passport_register_restricted">Te veel accounts zijn geassocieerd met dit nummer, probeer een ander</string>
   <string name="passport_register_restricted_title">Kan dit telefoonnummer niet gebruiken</string>
-  <string name="passport_registered_phone_user_ID">user ID:%s</string>
-  <string name="passport_registered_phone_user_name">user Name:%s</string>
+  <string name="passport_registered_phone_user_ID">Gebruiker ID: %s</string>
+  <string name="passport_registered_phone_user_name">Gebruikersnaam: %s</string>
   <string name="passport_reject_recycle_account">Nee</string>
   <string name="passport_relogin">Opnieuw aanmelden</string>
   <string name="passport_relogin_notice">Je moet opnieuw aanmelden</string>
@@ -293,7 +293,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_send_too_many_code">Er zijn teveel verificatiecodes verzonden naar dit nummer. Wacht 24 uur en probeer opnieuw.</string>
   <string name="passport_setting">Bezig met instellen…</string>
   <string name="passport_sim_index_info">SIM kaart %1$d - %2$s</string>
-  <string name="passport_skip_login">Aanmelden overslaan</string>
+  <string name="passport_skip_login">Overslaan</string>
   <string name="passport_skip_register">Inschrijven overslaan</string>
   <string name="passport_skip_setup_account_msg">Je kan later een Mi account aanmaken in Instellingen.</string>
   <string name="passport_skip_setup_account_title">Installatie overslaan</string>
