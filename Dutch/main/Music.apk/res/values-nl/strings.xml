@@ -42,14 +42,12 @@
   <string name="all_tracks">Alle nummers</string>
   <string name="all_tracks_short">Alle nummers</string>
   <string name="already_download">Bezig met downloaden…</string>
-  <string name="already_download_btn">Downloaden…</string>
   <string name="already_favorited">Reeds bij favorieten</string>
+  <string name="android_sdk_too_low">Update Android om Muziek te kunnen updaten.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
   <string name="artist">Artiest</string>
-  <string name="artist_album">Album</string>
-  <string name="artist_favor">Aanbevolen</string>
   <string name="artist_is_empty">Artiestennaam kan niet leeg zijn.</string>
   <string name="artist_name">Artiest</string>
   <string name="artist_search_title">Artiest</string>
@@ -185,12 +183,10 @@
   <string name="download_cloud_error_retryable">Mi Cloud serverfout, probeer later opnieuw.</string>
   <string name="download_cloud_error_unknow">Kon niet verbinden met de Mi Cloud.</string>
   <string name="download_complete">Download voltooid</string>
-  <string name="download_complete_btn">Geinstalleerd…</string>
   <string name="download_complete_start_install">Bezig met installeren…</string>
   <string name="download_completed">Download voltooid</string>
   <string name="download_confirm_button_text">Installeren</string>
   <string name="download_confirm_text">Mi Music zal %s downloaden en installeren</string>
-  <string name="download_done_btn">Gedownload</string>
   <string name="download_error">Mislukt</string>
   <string name="download_error_insufficient_space">Niet genoeg ruimte</string>
   <string name="download_filesize_unknown">Onbekend</string>
@@ -219,7 +215,6 @@
   <string name="download_share_dialog">Delen via</string>
   <string name="download_speed_null"/>
   <string name="download_start">Download starten…</string>
-  <string name="download_start_btn">Gratis download…</string>
   <string name="download_success">Voltooid</string>
   <string name="download_title_sorted_by_date">Downloads - Gesorteerd op datum</string>
   <string name="download_title_sorted_by_size">Downloads - Gesorteerd op grootte</string>
@@ -304,8 +299,6 @@
   <string name="filter_by_size_prefix">"Verberg bestanden kleiner dan "</string>
   <string name="filter_by_size_summary">Verberg kleine audiobestanden</string>
   <string name="find_music">Nummers ontdekken</string>
-  <string name="follow">Volgen</string>
-  <string name="followed">Gevolgd</string>
   <string name="font_family">Miui</string>
   <string name="format_not_support">Deze indeling is niet ondersteund</string>
   <string name="format_unsupported_or_corrupted">Dit formaat wordt niet ondersteund of het bestand is beschadigd</string>
@@ -496,7 +489,7 @@
   <string name="order_pending">Bevestiging afwachten</string>
   <string name="order_process_fail">Kon je account niet verifiëren. Probeer het later opnieuw.</string>
   <string name="other_filter">Andere</string>
-  <string name="othor_song_in_album">Andere nummers van dit album.</string>
+  <string name="othor_song_in_album">Andere nummers van dit album</string>
   <string name="package_filter">Pakketten</string>
   <string name="pause_download">Pauze</string>
   <string name="paused_by_app">Gepauzeerd</string>
@@ -544,9 +537,6 @@
   <string name="privacy_tip_title">Xunlei versneller gebruiken?</string>
   <string name="project_device">Mi Telefoon</string>
   <string name="project_device_mobile">Mobiel apparaat</string>
-  <string name="pulluprefreshrecyclerview_loading_error">Mislukt om te laden</string>
-  <string name="pulluprefreshrecyclerview_loading_finished">Laden voltooid</string>
-  <string name="pulluprefreshrecyclerview_loading_running">Laden...</string>
   <string name="radar">ACRCloud</string>
   <string name="radar_click_to_retry">Tik om opnieuw te proberen</string>
   <string name="radar_fail">Geen resultaten</string>
@@ -644,8 +634,8 @@
   <string name="sleep_mode_canceled">Slaapmodus geannuleerd</string>
   <string name="sleep_mode_summary">Stop speler na een bepaalde tijd</string>
   <string name="sleep_mode_title">Slaaptimer</string>
-  <string name="song_exist_in_playlist">Dit nummer staat al in de afspeellijst.</string>
-  <string name="song_is_empty">Nummer naam kan niet leeg zijn.</string>
+  <string name="song_exist_in_playlist">Dit nummer staat al in de afspeellijst</string>
+  <string name="song_is_empty">Titel kan niet leeg zijn.</string>
   <string name="song_name">Nummer</string>
   <string name="song_not_find">Dit nummer is niet beschikbaar.</string>
   <string name="song_offline">Sorry dit nummer is niet langer beschikbaar.</string>
