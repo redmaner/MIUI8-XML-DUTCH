@@ -93,4 +93,12 @@
         <item quantity="other">"Je bent %1$d stappen verwijderd van bug rapporteren."</item>
         <item quantity="one">"Je bent %1$d stap verwijderd van bug rapporteren."</item>
     </plurals>
+	<plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Altijd uitschakelen voor %d apps</item>
+        <item quantity="one">Altijd uitschakelen voor 1 app</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nooit uitschakelen voor %d apps</item>
+        <item quantity="one">Nooit uitschakelen voor 1 app</item>
+    </plurals>
 </resources>

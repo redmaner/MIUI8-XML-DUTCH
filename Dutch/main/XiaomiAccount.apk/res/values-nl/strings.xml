@@ -55,8 +55,9 @@
   <string name="account_vip_level">Account</string>
   <string name="account_xiaomi_service">Diensten</string>
   <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
-  <string name="activity_not_found_notice">Kan app niet vinden</string>
+  <string name="activity_not_found_notice">Kan de app niet vinden</string>
   <string name="add_account">Account verbinden</string>
+  <string name="alert_title_remove_account">Account verwijderen?</string>
   <string name="app_name">Mi account</string>
   <string name="authorize_title">Authorization</string>
   <string name="barcode_add_account_prompt">Om een account te verbinden, scan na het aanmelden de QR code.</string>
@@ -87,6 +88,8 @@
   <string name="cta_declaration_message">Om aan te melden bij uw Mi account, moet u verbinding maken met internet. Locatieservices en sync. met Mi Cloud zal worden ingeschakeld. Om uw gegevens te back-uppen, heeft deze app toegang nodig tot uw contactpersonen, berichten, opnames en belgeschiedenis. We zullen uw gegevens niet gebruiken voor commerciële doeleinden of delen met derden. Na aanmelden op uw Mi account, zullen Mi VIP en Mi services verbinding maken met internet.</string>
   <string name="cta_declaration_title">Algemene voorwaarden</string>
   <string name="current_location_title">Huidige locatie</string>
+  <string name="data_keep_in_device">Behouden op dit apparaat</string>
+  <string name="data_wipe_from_device">Verwijderen van dit apparaat</string>
   <string name="delete_action">Verwijderen</string>
   <string name="delete_device_btn">Verwijderen</string>
   <string name="delete_device_failed">Kan apparaat niet verwijderen</string>
@@ -133,7 +136,6 @@
   <string name="logout_failed">Kan niet uitloggen</string>
   <string name="mi_account_identity_title">Verifieer uw identiteit</string>
   <string name="mi_pass">Mi Pas</string>
-  <string name="mi_pay_identity">Identiteit</string>
   <string name="micloud_account_name">Mi account</string>
   <string name="micloud_space_info">%s beschikbaar</string>
   <string name="mili_center">Mi Credits</string>
@@ -324,6 +326,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="phone_unknown">Onbekend</string>
   <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
   <string name="qq">QQ</string>
+  <string name="remove_account_notice">Wat wilt u doen met de berichten, contacten en andere gegevens die zijn gesycnhroniseerd van uw Mi Account?</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
   <string name="remove_trust_btn">Verwijderen uit betrouwbare apparaten</string>
   <string name="remove_trust_notice">Verwijderen uit betrouwbare apparaten en afmelden</string>
@@ -367,4 +370,7 @@ Zorg ervoor dat u de antwoorden op deze vragen nog weet."</string>
   <string name="updated_nothing">Geüpdatet</string>
   <string name="user_avatar_update_title">Verander profielfoto</string>
   <string name="user_avatar_uploading">Een momentje…</string>
+  <string name="wipe_data_dialog_msg">%s wordt verwijderd als u doorgaat.</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">Sommige items zijn niet gesynchroniseerd</string>
 </resources>
