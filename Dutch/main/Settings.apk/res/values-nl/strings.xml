@@ -658,6 +658,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
   <string name="button_disconnect_network">Verbreek de verbinding met het netwerk</string>
+  <string name="button_light_timeout">Tijdsduur knopverlichting</string>
   <string name="button_text_accept">Aanvaarden</string>
   <string name="button_text_accept_timer">Aanvaarden (%d)</string>
   <string name="button_text_login">Aanmelden</string>
@@ -1423,7 +1424,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="global_locale_change_title">Taal wijzigen</string>
   <string name="google_backup_section_title">Google back-up &amp; herstel</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
+  <string name="handy_mode">Eén-hand modus</string>
   <string name="handy_mode_enter_ask">Vragen voordat je één-hand modus betreedt</string>
+  <string name="handy_mode_size">Schermgrootte</string>
   <string name="handy_mode_tips">Veeg naar links of rechts vanaf de homeknop om het scherm dichter naar de ene kant te trekken.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
@@ -2415,10 +2418,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="profile_owner_add_title">Profielmanager activeren?</string>
   <string name="progress_scanning">Zoeken</string>
   <string name="provider_label">Abonnementen doorvoeren</string>
-  <string name="provision_back">Back</string>
+  <string name="provision_back">Terug</string>
   <string name="provision_next">Volgende</string>
   <string name="provision_page_layout_confirm_message">Uw apparaat moet opnieuw worden opgestart om deze wijzigingen toe te passen. Dit duurt ongeveer 1 minuut.</string>
-  <string name="provision_skip">Skip</string>
+  <string name="provision_skip">Overslaan</string>
   <string name="proxy_action_text">Voltooid</string>
   <string name="proxy_clear_text">Wissen</string>
   <string name="proxy_defaultView_text">Standaardwaarden herstellen</string>
@@ -2613,9 +2616,10 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="runningservices_settings_title">Actieve diensten</string>
   <string name="runtime_permissions_summary_no_permissions_granted">No permissions granted</string>
   <string name="runtime_permissions_summary_no_permissions_requested">No permissions requested</string>
-  <string name="save">Save</string>
-  <string name="saved_network">Saved by %1$s</string>
+  <string name="save">Opslaan</string>
+  <string name="saved_network">Opgeslagen door %1$s</string>
   <string name="scan_list_label">Scanresultaten:</string>
+  <string name="screen">Scherm</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">Kan kleurtemperatuur niet aanpassen in leesmodus</string>
   <string name="screen_color_temperature">Kleuren</string>
@@ -2623,8 +2627,13 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_compatibility_label">Schermcompatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
   <string name="screen_effect">Contrast &amp; kleuren</string>
+  <string name="screen_key_long_press">Ingedrukt houden</string>
+  <string name="screen_key_long_press_action">Trigger functie</string>
+  <string name="screen_key_long_press_timeout">Tijd dat knop ingedrukt moet worden</string>
+  <string name="screen_key_press">Eénmalig drukken</string>
+  <string name="screen_key_press_action">Trigger functie</string>
   <string name="screen_locking_sounds_title">Schermvergrendelingsgeluiden</string>
-  <string name="screen_never_timeout_title">Altijd aan</string>
+  <string name="screen_never_timeout_title">Nooit slapen</string>
   <string name="screen_on_proximity_sensor_summary">Telefoon kan niet worden ontgrendeld wanneer hij in je broekzak zit</string>
   <string name="screen_on_proximity_sensor_title">Voorkom broekzakgesprekken</string>
   <string name="screen_optimize">Contrast</string>
@@ -2668,7 +2677,8 @@ Om schermpinning te gebruiken:
   <string name="screen_resolution_summary">Het verlagen van de resolutie van het beeldscherm kan de levensduur van de batterij en de snelheid van het systeem verhogen, maar de beelden op het scherm kunnen dan minder duidelijk zijn. Uw apparaat moet opnieuw opgestart worden om deze wijziging door te voeren.</string>
   <string name="screen_resolution_switch">Resolutie wijzigen</string>
   <string name="screen_resolution_title">Schermresolutie</string>
-  <string name="screen_saturation">Kleurverzadiging</string>
+  <string name="screen_saturation">Verzadiging</string>
+  <string name="screen_timeout">Slapen</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Slaapmodus</string>
   <string name="screensaver_settings_button">Instellingen</string>
@@ -2709,7 +2719,8 @@ Om schermpinning te gebruiken:
   <string name="sdcard_unmount">USB opslag ontkoppelen</string>
   <string name="se_route_ese">Ingebed beveiligde element</string>
   <string name="se_route_uicc">Beveiligd element op SIM kaart</string>
-  <string name="second_space">Second space</string>
+  <string name="search_back_key">Terug</string>
+  <string name="second_space">Tweede ruimte</string>
   <string name="secure_keyguard_business_title">Vergrendelscherm instellen</string>
   <string name="secure_lock_encryption_warning">Omdat u een toegankelijkheidsservice hebt ingeschakeld, zal het toestel geen gebruik maken van uw schermvergrendeling om de data-encryptie te verbeteren.</string>
   <string name="security_enable_widgets_disabled_summary">Uitgeschakeld door beheerder</string>
@@ -3211,11 +3222,11 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="system">Systeem</string>
   <string name="system_alert_window_access_title">Draw over other apps</string>
   <string name="system_alert_window_apps_title">Apps</string>
-  <string name="system_alert_window_off">No</string>
-  <string name="system_alert_window_on">Yes</string>
+  <string name="system_alert_window_off">Nee</string>
+  <string name="system_alert_window_on">Ja</string>
   <string name="system_alert_window_settings">Draw over other apps</string>
   <string name="system_alert_window_summary" formatted="false">%d of %d apps allowed to draw on top of other apps</string>
-  <string name="system_and_device_section_title">System &amp; device</string>
+  <string name="system_and_device_section_title">Systeem &amp; apparaat</string>
   <string name="system_app_settings">Systeemapps</string>
   <string name="system_backup_section_title">Back-up</string>
   <string name="system_package">Systeemupdates kunnen niet worden geïnstalleerd op externe media.</string>
@@ -4033,7 +4044,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_tether_enabled_subtext">Draagbare hotspot %1$s actief</string>
   <string name="wifi_tether_failed_subtext">Fout met draagbare Wi-Fi hotspot</string>
   <string name="wifi_tether_setting_title">Instellingen</string>
-  <string name="wifi_tether_settings_title">Personal hotspot</string>
+  <string name="wifi_tether_settings_title">Persoonlijke hotspot</string>
   <string name="wifi_tether_starting">Hotspot inschakelen…</string>
   <string name="wifi_tether_stopping">Hotspot uitschakelen…</string>
   <string name="wifi_type_approval"/>
