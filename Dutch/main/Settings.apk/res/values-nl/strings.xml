@@ -2825,10 +2825,10 @@ Om schermpinning te gebruiken:
   <string name="settings_safetylegal_activity_unreachable">U heeft geen gegevensverbinding. Als u deze informatie nu wilt weergeven, gaat u op een computer met internetverbinding naar %s.</string>
   <string name="settings_safetylegal_title">Veiligheidsinformatie</string>
   <string name="settings_shortcut">Instellingen voor snelkoppeling</string>
-  <string name="settings_toggle_position_divider_list">Toggles placed above bar are active</string>
-  <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
-  <string name="setup_fingerprint_enroll_finish_message">Just touch the fingerprint sensor to wake and unlock your device.</string>
-  <string name="setup_fingerprint_enroll_finish_message_secondary">When you see this icon, you can use your fingerprint.</string>
+  <string name="settings_toggle_position_divider_list">Schakelaars geplaatst boven de balk zijn actief</string>
+  <string name="settings_toggle_position_divider_page">%1$d schakelaars geplaatst boven de balk zijn actief</string>
+  <string name="setup_fingerprint_enroll_finish_message">Raak de vingerafdruksensor aan om uw telefoon te vergrendelen en te ontgrendelen.</string>
+  <string name="setup_fingerprint_enroll_finish_message_secondary">Als u dit icoon zit kan u uw vingerafdruk gebruiken.</string>
   <string name="setup_wifi_nfc_tag">Wi-Fi NFC Tag instellen</string>
   <string name="setup_wizard_back_button_label">Terug</string>
   <string name="setup_wizard_next_button_label">Volgende</string>
@@ -2873,8 +2873,8 @@ Om schermpinning te gebruiken:
   <string name="sim_cards_changed_message_summary">Aanraken om activiteiten in te stellen</string>
   <string name="sim_cellular_data_unavailable">Mobiele data is niet beschikbaar</string>
   <string name="sim_cellular_data_unavailable_summary">Aanraken om een data SIM te selecteren</string>
-  <string name="sim_change_data_message">Use %1$s instead of %2$s for cellular data?</string>
-  <string name="sim_change_data_title">Change data SIM?</string>
+  <string name="sim_change_data_message">%1$s in plaats van %2$s gebruiken voor mobiele data?</string>
+  <string name="sim_change_data_title">Data SIM veranderen?</string>
   <string name="sim_change_failed">"Kan PIN niet wijzigen.
 PIN code mogelijk onjuist."</string>
   <string name="sim_change_failed_enable_sim_lock">Schakel SIM vergrendeling in om de PIN code aan te passen</string>
@@ -2903,18 +2903,18 @@ PIN code mogelijk onjuist.</string>
   <string name="sim_management_title">SIM kaarten &amp; mobiele netwerken</string>
   <string name="sim_multi_sims_summary">SIM kiezen die u voor mobiele data verkiest.</string>
   <string name="sim_multi_sims_title">Meerdere SIMs gevonden</string>
-  <string name="sim_name_hint">Enter SIM name</string>
+  <string name="sim_name_hint">SIM naam invoeren</string>
   <string name="sim_no_inserted_msg">SIM kaarten ingevoerd</string>
-  <string name="sim_notification_summary">Touch to set up</string>
-  <string name="sim_notification_title">SIM cards changed.</string>
+  <string name="sim_notification_summary">Aanraken om in te stellen</string>
+  <string name="sim_notification_title">SIM kaarten veranderd.</string>
   <string name="sim_other_call_settings">Andere belinstellingen</string>
   <string name="sim_outgoing_call_title">SIM voor uitgaande oproepen</string>
   <string name="sim_pin_change">SIM PIN code wijzigen</string>
   <string name="sim_pin_toggle">SIM kaart vergrendelen</string>
   <string name="sim_pins_dont_match">PINs komen niet overeen</string>
   <string name="sim_pref_divider">Voorkeuze SIM voor</string>
-  <string name="sim_preferred_message">%1$s is the only SIM in your device. Do you want to use this SIM for cellular data, calls, and SMS messages?</string>
-  <string name="sim_preferred_title">Update preferred SIM card?</string>
+  <string name="sim_preferred_message">%1$s is de enige SIM in uw apparaat. Wilt u deze SIM gebruiken voor mobiele data, oproepen en SMS berichten?</string>
+  <string name="sim_preferred_title">Voorkeurs SIM kaart updaten?</string>
   <string name="sim_radio_off">Uit</string>
   <string name="sim_reenter_new">Nieuwe PIN opnieuw invoeren</string>
   <string name="sim_select_card">Selecteer een SIM kaart</string>
@@ -2932,7 +2932,7 @@ PIN code mogelijk onjuist.</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
   <string name="smallwindow_smartcover_title">Doorzichtig hoesje</string>
-  <string name="smartcover_sensitive_title">Smartcover modus</string>
+  <string name="smartcover_sensitive_title">Smartcovermodus</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">%1$s gebruiken in plaats van %2$s als uw SMS app?</string>
   <string name="sms_change_default_dialog_title">SMS app wijzigen?</string>
@@ -2944,9 +2944,9 @@ PIN code mogelijk onjuist.</string>
   <string name="sms_over_ims_on">SMS via IMS inschakelen</string>
   <string name="sms_received_sound_dialog_title">Kies geluid voor ontvangen SMS</string>
   <string name="sms_received_sound_title">SMS ontvangen</string>
-  <string name="sometimes_running">Sometimes running (%s)</string>
-  <string name="sort_avg_use">Sort by avg use</string>
-  <string name="sort_max_use">Sort by max use</string>
+  <string name="sometimes_running">Soms actief (%s)</string>
+  <string name="sort_avg_use">Sorteren op gem. gebr.</string>
+  <string name="sort_max_use">Sorteren op max. gebr.</string>
   <string name="sort_order_alpha">Sorteren op naam</string>
   <string name="sort_order_size">Sorteren op grootte</string>
   <string name="sound_category_call_ringtone_vibrate_title">Beltoon &amp; meldingsgeluiden</string>
@@ -3015,7 +3015,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_notification_icon">Meldingsiconen weergeven</string>
   <string name="status_bar_settings_show_wifi_name">Toon Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Statusbalk</string>
-  <string name="status_bar_settings_style">Notificaties &amp; layout schakelaars</string>
+  <string name="status_bar_settings_style">Meldingen &amp; layout schakelaars</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Inklappen na aanraken</string>
   <string name="status_bar_settings_toggle_position">Positie schakelaars</string>
   <string name="status_bar_style_list">Gecombineerd</string>
@@ -3052,136 +3052,135 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_write_success">Success!</string>
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
-  <string name="storage_detail_cached">Cached data</string>
-  <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files, and so on. 
+  <string name="storage_detail_cached">Gecachete gegevens</string>
+  <string name="storage_detail_dialog_other">"Overig is inclusief gedeelde bestanden opgeslagen door apps, bestanden gedownload van het internet of Bluetooth, androidbestanden enzovoort. 
 
-To see the entire contents of this ^1, touch Explore."</string>
-  <string name="storage_detail_dialog_user">"^1 may have saved photos, music, movies, apps, or other data that is taking up ^2 of storage. 
+Om de volledige inhoud van deze ^1 te zien, Tik op Verkennen."</string>
+  <string name="storage_detail_dialog_user">"^1 kan foto\'s, muziek, films, apps of andere gegevens hebben opgeslagen dat ^2 opslag in beslag neemt. 
 
-To view details, switch to ^1."</string>
-  <string name="storage_detail_explore">Explore ^1</string>
-  <string name="storage_detail_images">Images</string>
-  <string name="storage_detail_other">Other</string>
-  <string name="storage_detail_videos">Videos</string>
-  <string name="storage_dialog_unmountable">"This ^1 is corrupted. 
+Om details te bekijken, wissel naar ^1."</string>
+  <string name="storage_detail_explore">^1 verkennen</string>
+  <string name="storage_detail_images">Afbeeldingen</string>
+  <string name="storage_detail_other">Overig</string>
+  <string name="storage_detail_videos">Video\'s</string>
+  <string name="storage_dialog_unmountable">"Deze ^1 is beschadigd. 
 
-To use this ^1, you have to set it up first."</string>
-  <string name="storage_dialog_unmounted">"This ^1 is safely ejected, but still available. 
+Om deze ^1 te gebruiken, moet je het eerst instellen."</string>
+  <string name="storage_dialog_unmounted">"Deze ^1 is veilig verwijderd, maar nog steeds beschikbaar. 
 
-To use this ^1, you have to mount it first."</string>
+Om deze ^1 te gebruiken, moet je het eerst koppelen."</string>
   <string name="storage_dialog_unsupported">"This device doesn’t support this ^1. 
 
-To use this ^1 with this device, you have to set it up first."</string>
-  <string name="storage_external_title">Portable storage</string>
+Om deze ^1 te gebruiken met dit apparaat, moet je het eerst instellen."</string>
+  <string name="storage_external_title">Draagbare opslag</string>
   <string name="storage_format">Formatteren</string>
-  <string name="storage_format_failure">Couldn’t format %1$s</string>
-  <string name="storage_format_success">%1$s is formatted</string>
-  <string name="storage_internal_forget_confirm">All the apps, photos, and data stored on this ^1 will be lost forever.</string>
-  <string name="storage_internal_forget_confirm_title">Forget ^1?</string>
-  <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
+  <string name="storage_format_failure">Kon %1$s niet formatteren</string>
+  <string name="storage_format_success">%1$s is geformatteerd</string>
+  <string name="storage_internal_forget_confirm">Alle apps, foto\'s en gegevens opgeslagen op deze ^1 zal verwijderd worden.</string>
+  <string name="storage_internal_forget_confirm_title">^1 vergeten?</string>
+  <string name="storage_internal_forget_details">"Om apps, foto\'s of gegevens te gebruiken die op ^1 staan moet u het opnieuw invoeren. 
 
-Alternatively, you can choose to forget this storage if the device isn’t available. 
+U kan er ook voor kiezen om deze opslag te vergeten als het apparaat niet beschikbaar is. 
 
-If you choose to forget, all the data the device contains will be lost forever. 
+Als u ervoor kiest om te vergeten, zullen alle gegevens op het apparaat verloren gaan. 
 
-You can reinstall the apps later, but their data stored on this device will be lost."</string>
-  <string name="storage_internal_format_details">"After formatting, you can use this ^1 in other devices. 
+U kan de apps later opnieuw installeren, maar hun gegevens op dit apparaat zullen verloren gaan."</string>
+  <string name="storage_internal_format_details">"Na formatteren, kan je deze ^1 gebruiken in andere apparaten. 
 
-All data on this ^1 will be erased. Consider backing up first. 
+Alle gegevens op deze ^1 zal worden gewist. Overweeg een back-up. 
 
-"&lt;b&gt;Back up photos &amp;amp; other media&lt;/b&gt;" 
-Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
+"&lt;b&gt;Back-up foto\'s &amp;amp; andere media&lt;/b&gt;" 
+Verplaats je mediabestanden naar alternatieve opslag op dit apparaat, of verplaats ze naar je computer met een USB kabel. 
 
-"&lt;b&gt;Back up apps&lt;/b&gt;" 
-All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
+"&lt;b&gt;Back-up apps&lt;/b&gt;" 
+Alle apps opgeslagen op ^1 zullen worden gewist en hun gegevens zullen verloren gaan. Om deze apps te behouden, verplaats ze naar alternatieve opslag op dit apparaat."</string>
   <string name="storage_internal_title">Apparaatopslag</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">&lt;b&gt;Als u deze ^1 uitwerpt, zullen apps die erop staan opgeslagen stoppen  met werken, en mediabestanden die erop staan opgeslagen zullen niet beschikbaar zijn totdat u het opnieuw invoert.&lt;/b&gt;" 
 
-This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any others."</string>
+Deze ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal niet werken op andere apparaten."</string>
   <string name="storage_label">Opslagruimte</string>
   <string name="storage_low_summary">Bepaalde systeemfuncties, zoals synchronisatie, werken mogelijk niet correct. Probeer ruimte vrij te maken door items zoals apps of media-inhoud te verwijderen of los te maken.</string>
   <string name="storage_low_title">Opslagruimte is bijna vol</string>
-  <string name="storage_menu_explore">Explore</string>
-  <string name="storage_menu_forget">Forget</string>
-  <string name="storage_menu_format">Format</string>
-  <string name="storage_menu_format_private">Format as internal</string>
-  <string name="storage_menu_format_public">Format as portable</string>
-  <string name="storage_menu_migrate">Migrate data</string>
-  <string name="storage_menu_mount">Mount</string>
-  <string name="storage_menu_rename">Rename</string>
-  <string name="storage_menu_set_up">Set up</string>
-  <string name="storage_menu_unmount">Eject</string>
-  <string name="storage_mount_failure">Couldn’t mount %1$s</string>
-  <string name="storage_mount_success">%1$s is mounted</string>
+  <string name="storage_menu_explore">Verkennen</string>
+  <string name="storage_menu_forget">Vergeten</string>
+  <string name="storage_menu_format">Formatteren</string>
+  <string name="storage_menu_format_private">Formatteren als intern</string>
+  <string name="storage_menu_format_public">Formatteren als draagbaar</string>
+  <string name="storage_menu_migrate">Gegevens migreren</string>
+  <string name="storage_menu_mount">Koppelen</string>
+  <string name="storage_menu_rename">Hernoemen</string>
+  <string name="storage_menu_set_up">Instellen</string>
+  <string name="storage_menu_unmount">Uitwerpen</string>
+  <string name="storage_mount_failure">Kon %1$s niet koppelen</string>
+  <string name="storage_mount_success">%1$s is gekoppeld</string>
   <string name="storage_other_users">Andere gebruikers</string>
-  <string name="storage_rename_title">Rename storage</string>
+  <string name="storage_rename_title">Opslag hernoemen</string>
   <string name="storage_settings">Opslagruimte</string>
   <string name="storage_settings_summary">USB opslag ontkoppelen, beschikbare opslag weergeven</string>
   <string name="storage_settings_title">Instellingen voor opslag</string>
-  <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_summary_format">%1$s gebruikt op %2$s</string>
-  <string name="storage_title_usb">USB computer verbinding</string>
-  <string name="storage_type_external">External storage</string>
-  <string name="storage_type_internal">Internal storage</string>
-  <string name="storage_unmount_failure">Couldn’t safely eject %1$s</string>
-  <string name="storage_unmount_success">%1$s is safely ejected</string>
+  <string name="storage_title_usb">USB computerverbinding</string>
+  <string name="storage_type_external">Externe opslag</string>
+  <string name="storage_type_internal">Interne opslag</string>
+  <string name="storage_unmount_failure">Kon %1$s niet veilig uitwerpen</string>
+  <string name="storage_unmount_success">%1$s is veilig uitgeworpen</string>
   <string name="storage_usb">USB opslag</string>
   <string name="storage_usb_settings">Geheugen &amp; USB</string>
   <string name="storage_used">Geheugen gebruikt</string>
   <string name="storage_volume_summary">%1$s van %2$s gebruikt</string>
   <string name="storage_volume_used">Gebruikt van %1$s</string>
   <string name="storage_volume_used_total">Totaal gebruikt van %1$s</string>
-  <string name="storage_wizard_format_confirm_body">"This requires the ^1 to be formatted to make it secure. 
+  <string name="storage_wizard_format_confirm_body">"Dit vereist de ^1 om te zijn geformatteerd om het veilig te maken. 
 
-After formatting, this ^1 will only work in this device. 
+Na formatteren, zal deze ^1 alleen werken in dit apparaat. 
 
-"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
-  <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
-  <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
+"&lt;b&gt;Formatteren wist alle gegevens momenteel opgeslagen op de ^1.&lt;/b&gt;" Om te voorkomen dat u gegevens verliest, overweeg een back-up. "</string>
+  <string name="storage_wizard_format_confirm_next">Wissen &amp; formatteren</string>
+  <string name="storage_wizard_format_confirm_public_body">"Hiervoor moet de ^1 geformatteerd zijn. 
 
-"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
-  <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
-  <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
-  <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
-  <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
-  <string name="storage_wizard_init_external_summary">For moving photos and other media between devices.</string>
-  <string name="storage_wizard_init_external_title">Use as portable storage</string>
-  <string name="storage_wizard_init_internal_summary">For storing anything on this device only, including apps and photos. Requires formatting that prevents it from working with other devices.</string>
-  <string name="storage_wizard_init_internal_title">Use as internal storage</string>
-  <string name="storage_wizard_init_title">Set up your ^1</string>
-  <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1. 
+"&lt;b&gt;Formatteren wist alle gegevens momenteel opgeslagen op de ^1.&lt;/b&gt;" Om te voorkomen dat u gegevens verliest, overweeg een back-up. "</string>
+  <string name="storage_wizard_format_confirm_public_title">Formatteren als draagbare opslag</string>
+  <string name="storage_wizard_format_confirm_title">Formatteren als interne opslag</string>
+  <string name="storage_wizard_format_progress_body">De ^1 tijdens formatteren niet verwijderen.</string>
+  <string name="storage_wizard_format_progress_title">^1 formatteren…</string>
+  <string name="storage_wizard_init_external_summary">Om foto\'s en andere media tussen apparaten te verplaatsen.</string>
+  <string name="storage_wizard_init_external_title">Gebruiken als draagbare opslag</string>
+  <string name="storage_wizard_init_internal_summary">Om iets op te slaan, alleen op dit apparaat. Inclusief apps en foto\'s. Vereist formatteren wat ervoor zorgt dat het niet meer werkt op andere apparaten.</string>
+  <string name="storage_wizard_init_internal_title">Gebruiken als interne opslag</string>
+  <string name="storage_wizard_init_title">Uw ^1 instellen</string>
+  <string name="storage_wizard_migrate_body">"U kan uw foto\'s, bestanden en sommige apps naar deze nieuwe ^1. 
 
-The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
-  <string name="storage_wizard_migrate_confirm_next">Move</string>
-  <string name="storage_wizard_migrate_confirm_title">Move data now</string>
-  <string name="storage_wizard_migrate_details">"During the move: 
-• Don’t remove the ^1. 
-• Some apps won’t work correctly. 
-• Keep the device charged."</string>
-  <string name="storage_wizard_migrate_later">Move later</string>
-  <string name="storage_wizard_migrate_now">Move now</string>
-  <string name="storage_wizard_migrate_progress_title">Moving data…</string>
-  <string name="storage_wizard_migrate_title">Move data to new storage</string>
-  <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete. 
+Het verplaatsen duurt ongeveer ^2 en zal ^3 vrijmaken op het interne geheugen. Sommige apps zullen niet werken tijdens de uitvoering."</string>
+  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Het verplaatsen duurt ongeveer ^1. Het zal ^2 vrijmaken op ^3.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_next">Verplaatsen</string>
+  <string name="storage_wizard_migrate_confirm_title">Gegevens nu verplaatsen</string>
+  <string name="storage_wizard_migrate_details">"Tijdens het verplaatsen: 
+• De ^1 niet verwijderen. 
+• Kunnen sommige apps wellicht niet goed werken. 
+• Het apparaat opgeladen houden."</string>
+  <string name="storage_wizard_migrate_later">Later verplaatsen</string>
+  <string name="storage_wizard_migrate_now">Nu verplaatsen</string>
+  <string name="storage_wizard_migrate_progress_title">Gegevens verplaatsen…</string>
+  <string name="storage_wizard_migrate_title">Gegevens verplaatsen naar nieuwe opslag</string>
+  <string name="storage_wizard_move_confirm_body">"^1 en zijn gegevens verplaatsen naar ^2 zal niet so lang duren. U zal niet in staat zijn om de app te gebruiken totdat de handeling is voltooid. 
 
-Don’t remove the ^2 during the move."</string>
-  <string name="storage_wizard_move_confirm_title">Move ^1</string>
-  <string name="storage_wizard_move_progress_body">"Don’t remove the ^1 during the move. 
+Verwijder de ^2 niet tijdens de handeling."</string>
+  <string name="storage_wizard_move_confirm_title">^1 verplaatsen</string>
+  <string name="storage_wizard_move_progress_body">"Verwijder de ^1 niet tijdens de handeling. 
 
-The ^2 app on this device won’t be available until the move is complete."</string>
-  <string name="storage_wizard_move_progress_cancel">Cancel move</string>
-  <string name="storage_wizard_move_progress_title">Moving ^1…</string>
-  <string name="storage_wizard_ready_external_body">Your ^1 is all set to use with photos and other media.</string>
-  <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
+De ^2 app op dit apparaat zal niet beschikbaar zijn totdat de handeling is voltooid."</string>
+  <string name="storage_wizard_move_progress_cancel">Verplaatsen annuleren</string>
+  <string name="storage_wizard_move_progress_title">^1 verplaatsen…</string>
+  <string name="storage_wizard_ready_external_body">Uw ^1 is klaar om te gebruiken voor foto\'s en andere media.</string>
+  <string name="storage_wizard_ready_internal_body">"Uw nieuwe ^1 werkt. 
 
-To move photos, files, and app data to this device, go to Settings &gt; Storage."</string>
-  <string name="storage_wizard_ready_title">^1 is ready</string>
-  <string name="storage_wizard_slow_body">"This ^1 appears to be slow. 
+Om foto\'s, bestanden en appgegevens te verplaatsen naar dit apparaat, ga naar instellingen &gt; opslag."</string>
+  <string name="storage_wizard_ready_title">^1 is klaar</string>
+  <string name="storage_wizard_slow_body">"Deze ^1 lijkt traag te zijn. 
 
-You can continue, but apps moved to this location may stutter and data transfers may take a long time. 
+U kan doorgaan, maar apps verplaatst naar deze locatie kunnen stotteren en gegevens verplaatsen kan lang duren. 
 
-Consider using a faster ^1 for better performance."</string>
+Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="storageuse_settings_summary">Gebruikte opslagruimte voor apps weergeven</string>
   <string name="storageuse_settings_title">Opslaggebruik</string>
   <string name="strict_mode">Strikte modus ingeschakeld</string>
@@ -3190,12 +3189,12 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_range_symbol_combination">%1$s - %2$s</string>
-  <string name="summary_range_verbal_combination">%1$s to %2$s</string>
+  <string name="summary_range_verbal_combination">%1$s tot %2$s</string>
   <string name="supl_not_set">&lt;Niet ingesteld&gt;</string>
   <string name="supplicant_state_label">Toestand aanvrager:</string>
-  <string name="suw_back_button_label">Back</string>
-  <string name="suw_more_button_label">More</string>
-  <string name="suw_next_button_label">Next</string>
+  <string name="suw_back_button_label">Terug</string>
+  <string name="suw_more_button_label">Meer</string>
+  <string name="suw_next_button_label">Volgende</string>
   <string name="switch_off_text">Uit</string>
   <string name="switch_on_text">Aan</string>
   <string name="symbols_not_allowed_for_password">Wachtwoord mag geen symbolen bevatten</string>
@@ -3222,12 +3221,12 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Alleen via Wi-Fi</string>
   <string name="system">Systeem</string>
-  <string name="system_alert_window_access_title">Draw over other apps</string>
+  <string name="system_alert_window_access_title">Tekenen over andere apps</string>
   <string name="system_alert_window_apps_title">Apps</string>
   <string name="system_alert_window_off">Nee</string>
   <string name="system_alert_window_on">Ja</string>
-  <string name="system_alert_window_settings">Draw over other apps</string>
-  <string name="system_alert_window_summary" formatted="false">%d of %d apps allowed to draw on top of other apps</string>
+  <string name="system_alert_window_settings">Tekenen over andere apps</string>
+  <string name="system_alert_window_summary" formatted="false">%d van %d apps toegestaan om te tekenen over andere apps</string>
   <string name="system_and_device_section_title">Systeem &amp; apparaat</string>
   <string name="system_app_settings">Systeemapps</string>
   <string name="system_backup_section_title">Back-up</string>
@@ -3236,8 +3235,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="system_ui_settings">Show SystemUI Tuner</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Systeemupdates</string>
-  <string name="tap_to_wake">Tap to wake</string>
-  <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+  <string name="tap_to_wake">Tikken om te ontwaken</string>
+  <string name="tap_to_wake_summary">Dubbeltikken op het scherm om apparaat te ontwaken</string>
   <string name="terms_title">Algemene voorwaarden</string>
   <string name="testing">Testen</string>
   <string name="testing_phone_info">Telefooninformatie</string>
@@ -3253,7 +3252,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tethering_settings_not_available">Tethering instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="theme_settings_title">Thema\'s</string>
   <string name="time_picker_title">Tijd</string>
-  <string name="time_zone_auto_stub">Selecteer tijdzone</string>
+  <string name="time_zone_auto_stub">Tijdzone selecteren</string>
   <string name="timezone_settings">Tijdzone</string>
   <string name="title_color_calibration">Kleurcorrectie voorkeuze</string>
   <string name="title_font">Lettertype</string>
@@ -3268,11 +3267,11 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="title_system_resource">Systeembronnen</string>
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
   <string name="toast_need_login">Aanmelden op uw Mi account</string>
-  <string name="total_memory">Total memory</string>
+  <string name="total_memory">Totaal geheugen</string>
   <string name="total_size">%s totaal</string>
   <string name="total_size_label">Totaal</string>
   <string name="touch_assistant">Snelkoppelingmenu</string>
-  <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
+  <string name="touch_filtered_warning">Omdat een app een toestemmingsaanvraaf verdoezelt, kan instellingen uw invoer niet controleren.</string>
   <string name="touch_sensitive_summary">Maakt het scherm extra gevoelig voor druk</string>
   <string name="touch_sensitive_title">Handschoenmodus</string>
   <string name="touch_sensitive_turn_off_cancel">Annuleren</string>
@@ -3282,11 +3281,11 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="touch_sounds_title">Aanraakgeluiden</string>
   <string name="touch_title">Handschoenmodus</string>
   <string name="trackball_settings">Trackball</string>
-  <string name="trackball_wake_title">Open via Trackball</string>
+  <string name="trackball_wake_title">Openen via trackball</string>
   <string name="transition_animation_scale_title">Overgangsanimatieschaal</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Medewerkers</string>
-  <string name="trust_agent_disabled_device_admin">Disabled by administrator</string>
+  <string name="trust_agent_disabled_device_admin">Uitgeschakeld door administrator</string>
   <string name="trusted_credentials">Vertrouwde ID gegevens</string>
   <string name="trusted_credentials_disable_confirmation">Het CA certificaat voor het systeem uitschakelen?</string>
   <string name="trusted_credentials_disable_label">Uitschakelen</string>
@@ -3345,35 +3344,35 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_on_security_lock">Kies schermvergrendeling</string>
   <string name="under_keyguard">Op vergrendelscherm</string>
   <string name="uninstall_all_users_text">Verwijderen voor alle gebruikers</string>
-  <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
-  <string name="uninstall_dlg_title">Uninstall now?</string>
+  <string name="uninstall_dlg_msg">Deinstalleren zal appe appgegevens wissen.</string>
+  <string name="uninstall_dlg_title">Nu deinstalleren?</string>
   <string name="uninstall_text">Verwijderen</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding cloned apps will be removed together with app data.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Uninstalling cloned app will remove all app data.</string>
-  <string name="uninstall_xspace_app_dlg_title">Uninstall cloned app?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Bijhorende geclonede apps zullen worden verwijderen, inclusief appgegevens.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Geclonede app deinstalleren zal alle appgegevens wissen.</string>
+  <string name="uninstall_xspace_app_dlg_title">Geclonede app deinstalleren?</string>
   <string name="unknown">Onbekend</string>
-  <string name="unknown_app">Unknown app</string>
+  <string name="unknown_app">Onbekende app</string>
   <string name="unlock_change_lock_password_title">Ontgrendelwachtwoord wijzigen</string>
   <string name="unlock_change_lock_pattern_title">Ontgrendelpatroon wijzigen</string>
   <string name="unlock_change_lock_pin_title">PIN code voor ontgrendelen wijzigen</string>
-  <string name="unlock_disable_frp_warning_content_password">Device protection features will not work without your password.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Device protection features will not work without your password.
+  <string name="unlock_disable_frp_warning_content_password">Apparaatveiligheidsfucnties zullen niet werken zonder uw wachtwoord.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw wachtwoord.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_pattern">Device protection features will not work without your pattern.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Device protection features will not work without your pattern.
+Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u zal uw telefoon niet kunnen ontgrendelen, betalingen kunnen uitvoeren of inloggen op apps met vingerafdrukken."</string>
+  <string name="unlock_disable_frp_warning_content_pattern">Apparaatveiligheidsfucnties zullen niet werken zonder uw patroon.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw patroon.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_pin">Device protection features will not work without your PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Device protection features will not work without your PIN.
+Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u zal uw telefoon niet kunnen ontgrendelen, betalingen kunnen uitvoeren of inloggen op apps met vingerafdrukken."</string>
+  <string name="unlock_disable_frp_warning_content_pin">Apparaatveiligheidsfucnties zullen niet werken zonder uw PIN.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw PIN.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_unknown">Device protection features will not work without your screen lock.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
+Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u zal uw telefoon niet kunnen ontgrendelen, betalingen kunnen uitvoeren of inloggen op apps met vingerafdrukken."</string>
+  <string name="unlock_disable_frp_warning_content_unknown">Apparaatveiligheidsfucnties zullen niet werken zonder uw schermvergrendeling.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw schermvergrendeling.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_ok">Yes, remove</string>
-  <string name="unlock_disable_frp_warning_title">Remove device protection?</string>
+Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u zal uw telefoon niet kunnen ontgrendelen, betalingen kunnen uitvoeren of inloggen op apps met vingerafdrukken."</string>
+  <string name="unlock_disable_frp_warning_ok">Ja, verwijderen</string>
+  <string name="unlock_disable_frp_warning_title">Apparaatbescherming verwijderen?</string>
   <string name="unlock_disable_lock_pin_summary">PIN uitschakelen</string>
   <string name="unlock_disable_lock_title">Schermvergrendeling uitschakelen</string>
   <string name="unlock_set_enter_system">Sla schermvergrendeling over</string>
@@ -3399,14 +3398,14 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="unlock_set_unlock_pin_summary">Voer vier nummers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Als u schermvergrendeling eenmaal hebt ingesteld, kunt u ook uw vingerafdruk instellen in instellingen &gt; Veiligheid.</string>
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
   <string name="upload_debug_log_summary">Help Xiaomi haar producten en diensten te verbeteren door anonieme gegevens te versturen</string>
   <string name="upload_debug_log_title">Gebruikerservaringprogramma</string>
-  <string name="usage_access">Usage access</string>
-  <string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
+  <string name="usage_access">Gebruikstoegang</string>
+  <string name="usage_access_description">Gebruikstoegang laat een app toe om bij te houden welke andere apps u gebruikt en hoe vaak, evenals uw provider, taalinstellingen en andere details.</string>
   <string name="usage_access_title">Apps met gebruikstoegang</string>
   <string name="usage_log">App gebruiksstatistieken</string>
   <string name="usage_stats_label">Gebruiksstatistieken</string>
@@ -3421,7 +3420,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="usage_type_data_send">Mobiele pakketten verzonden</string>
   <string name="usage_type_data_wifi_recv">Wi-Fi gegevens ontvangen</string>
   <string name="usage_type_data_wifi_send">Wi-Fi gegevens verzonden</string>
-  <string name="usage_type_flashlight">Flashlight</string>
+  <string name="usage_type_flashlight">Zaklamp</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Tijd zonder signaal</string>
   <string name="usage_type_on_time">Tijd actief</string>
@@ -3443,7 +3442,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="usb_host_mode_subtext">Bij gebruik van gamecontrollers en andere randapparatuur kan meer batterij verbruiken.</string>
   <string name="usb_host_mode_text">USB hostmodus</string>
   <string name="usb_insert_summary">USB opslag verbinden</string>
-  <string name="usb_midi_summary">Lets MIDI enabled applications work over USB with MIDI software on your computer.</string>
+  <string name="usb_midi_summary">Laat MIDI gemachtigde applicaties werken over USB met MIDI software op uw computer.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">USB opslag koppelen</string>
   <string name="usb_mount_summary"/>
@@ -3475,7 +3474,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="use_this_wlan">Verbonden blijven</string>
   <string name="user_account_title">Account voor inhoud</string>
-  <string name="user_add_max_count">You can add up to %1$d users</string>
+  <string name="user_add_max_count">Je kan tot %1$d gebruikers toevoegen</string>
   <string name="user_add_on_lockscreen_menu">Gebruikers toevoegen wanneer apparaat vergrendeld is</string>
   <string name="user_add_profile_item_summary">U kunt de toegang tot apps en content van uw account beperken</string>
   <string name="user_add_profile_item_title">Beperkt profiel</string>
@@ -3523,9 +3522,9 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Persoonlijk woordenboek</string>
   <string name="user_enable_calling">Telefoonoproepen inschakelen</string>
-  <string name="user_enable_calling_and_sms_confirm_message">Call and SMS history will be shared with this user.</string>
-  <string name="user_enable_calling_and_sms_confirm_title">Turn on phone calls &amp; SMS?</string>
-  <string name="user_enable_calling_confirm_message">Belgeschiedenis zal gedeeld worden met deze gebruiker.</string>
+  <string name="user_enable_calling_and_sms_confirm_message">Oproep- en SMS geschiedenis zullen gedeeld worden met deze gebruiker.</string>
+  <string name="user_enable_calling_and_sms_confirm_title">Oproepen &amp; SMS inschakelen?</string>
+  <string name="user_enable_calling_confirm_message">Oproepgeschiedenis zal gedeeld worden met deze gebruiker.</string>
   <string name="user_enable_calling_confirm_title">Telefoonoproepen inschakelen?</string>
   <string name="user_enable_calling_sms">Telefoonoproepen &amp; SMS inschakelen</string>
   <string name="user_exit_guest_confirm_message">Alle apps en data van de sessie zullen verwijderd worden.</string>
@@ -3622,8 +3621,8 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="voice_recognizer_preference_summary">Simpele spraak naar tekst</string>
   <string name="voice_search_settings_title">Spraakgestuurd zoeken</string>
   <string name="voice_service_preference_section_title">Spraakinvoerdiensten</string>
-  <string name="volte_provisioned_flag_off">Turn off VoLTE provisioned flag</string>
-  <string name="volte_provisioned_flag_on">Turn on VoLTE provisioned flag</string>
+  <string name="volte_provisioned_flag_off">VoLTE provisioned flag uitschakelen</string>
+  <string name="volte_provisioned_flag_on">VoLTE provisioned flag inschakelen</string>
   <string name="volume_alarm_description">Wekkers</string>
   <string name="volume_alarm_mute">Wekkers dempen</string>
   <string name="volume_bluetooth_description">Bluetoothvolume</string>
@@ -3644,14 +3643,14 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="vpn_connect">Verbinden</string>
   <string name="vpn_connect_to">Verbinding maken met %s</string>
   <string name="vpn_create">VPN profiel toevoegen</string>
-  <string name="vpn_disconnect">Disconnect</string>
-  <string name="vpn_disconnect_confirm">Disconnect this VPN.</string>
+  <string name="vpn_disconnect">Verbinding verbreken</string>
+  <string name="vpn_disconnect_confirm">Verbinding verbreken met deze VPN.</string>
   <string name="vpn_dns_servers">DNS servers (bijv. 8.8.8.8)</string>
   <string name="vpn_dns_servers_hint">bijv. 8.8.8.8</string>
-  <string name="vpn_done">Dismiss</string>
+  <string name="vpn_done">Weggooien</string>
   <string name="vpn_edit">VPN profiel bewerken</string>
   <string name="vpn_enable">VPN</string>
-  <string name="vpn_forget">Forget</string>
+  <string name="vpn_forget">Vergeten</string>
   <string name="vpn_ipsec_ca_cert">CA certificaat voor IPSec</string>
   <string name="vpn_ipsec_identifier">IPSec ID</string>
   <string name="vpn_ipsec_secret">Van tevoren gedeelde IPSec sleutel</string>
@@ -3729,7 +3728,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_advanced_titlebar">Geavanceerde Wi-Fi instellingen</string>
   <string name="wifi_aggressive_handover">Agressieve overdracht van Wi-Fi naar mobiel </string>
   <string name="wifi_aggressive_handover_summary">Wanneer ingeschakeld, zal Wi-Fi agressiever zijn in het schakelen van de Wi-Fi verbinding naar mobiel, wanneer Wi-Fi signaal laag is</string>
-  <string name="wifi_alert_lockdown_by_device_owner">%1$s manages your device and doesn’t allow modifying or deleting this WLAN network. For more information, contact your administrator.</string>
+  <string name="wifi_alert_lockdown_by_device_owner">%1$s beheert uw apparaat en staat niet toe dat u dit Wi-Fi netwerk aanpast of verwijderd. Voor meer informatie, neem contact op met uw administrator.</string>
   <string name="wifi_allow_scan_with_traffic">Altijd Wi-Fi roam scans toestaan</string>
   <string name="wifi_allow_scan_with_traffic_summary">Wi-Fi roam scans op basis van de hoeveelheid dataverkeer aanwezig op het grensvlak toestaan of niet toestaan</string>
   <string name="wifi_and_mobile_skipped_message">"Als u Wi-Fi overslaat:
@@ -3745,16 +3744,16 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_assistant_title">Wi-Fi Assistent</string>
   <string name="wifi_auto_connect">Automatisch verbinden</string>
-  <string name="wifi_automatically_connect_summary">Let a Wi‑Fi assistant automatically connect to open networks determined to be high quality</string>
-  <string name="wifi_automatically_connect_title">Use open Wi‑Fi automatically</string>
+  <string name="wifi_automatically_connect_summary">Laat een Wi-Fi assistent automatisch verbinden met open netwerken als ze van goede kwaliteit zijn</string>
+  <string name="wifi_automatically_connect_title">Open Wi-Fi automatisch gebruiken</string>
   <string name="wifi_available_title">Verbinden met Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Alleen netwerken gebruiken die een goede internetverbinding hebben</string>
   <string name="wifi_band_24ghz">2.4 GHz</string>
   <string name="wifi_band_5ghz">5 GHz</string>
-  <string name="wifi_calling_mode_dialog_title">WLAN calling mode</string>
-  <string name="wifi_calling_mode_title">Calling preference</string>
-  <string name="wifi_calling_off_explanation">When WLAN calling is on, your phone can route calls via WLAN networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.</string>
-  <string name="wifi_calling_settings_title">WLAN calling</string>
+  <string name="wifi_calling_mode_dialog_title">Wi-Fi oproepmodus</string>
+  <string name="wifi_calling_mode_title">oproepvoorkeuren</string>
+  <string name="wifi_calling_off_explanation">Wanneer Wi-Fi oproepen is ingesteld, kan uw telefoon oproepen via Wi-Fi netwerken of het netwerk van uw provider laten gaan, afhankelijk van uw voorkeur en welk signaal sterker is. Voordat u deze functie inschakelt, controleer uw provider wat betreft kosten en andere details.</string>
+  <string name="wifi_calling_settings_title">Wi-Fi oproepen</string>
   <string name="wifi_cancel">Annuleren</string>
   <string name="wifi_certificate">Certificaat</string>
   <string name="wifi_click_share_wlan">Tik om wachtwoord te delen</string>
@@ -3777,7 +3776,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_disabled_help">Wi-Fi verbinding is verbroken vanwege de slechte verbinding</string>
   <string name="wifi_disabled_network_failure">IP configuratie fout</string>
   <string name="wifi_disabled_password_failure">Authenticatieprobleem</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
+  <string name="wifi_disabled_wifi_failure">Wi-Fi verbindingsfout</string>
   <string name="wifi_disconnected_notification_summary">U bent niet verbonden met Wi-Fi.</string>
   <string name="wifi_disconnected_notification_title">WiFi verbroken</string>
   <string name="wifi_display_autonomous_go">Autonome GO inschakelen</string>
@@ -3855,7 +3854,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_menu_modify">Netwerk aanpassen</string>
   <string name="wifi_menu_more_options">Meer opties</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
-  <string name="wifi_menu_remember">Remember network</string>
+  <string name="wifi_menu_remember">Netwerk herinneren</string>
   <string name="wifi_menu_scan">Scannen</string>
   <string name="wifi_menu_wfd">Draadloos scherm</string>
   <string name="wifi_menu_wps_pbc">WPS knop</string>
@@ -3864,7 +3863,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_more">Meer</string>
   <string name="wifi_network_prefix_length">Lengte van netwerkprefix</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
+  <string name="wifi_no_internet">"Geen internettoegang gedetecteerd, zal niet automatisch opnieuw verbinden."</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_notify_cmcc_connected_summary">Melding wanneer verbonden met CMCC netwerk</string>
   <string name="wifi_notify_cmcc_connected_title">CMCC netwerkmelding</string>
@@ -3908,7 +3907,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Opgeslagen</string>
   <string name="wifi_required_info_text">Om de configuratie te voltooien, heeft uw apparaat toegang tot Wi-Fi nodig. Na de configuratie kunt u schakelen tussen mobiele gegevens en Wi-Fi.</string>
-  <string name="wifi_sap_no_channel_error">5 GHz band not available in this country</string>
+  <string name="wifi_sap_no_channel_error">5 GHz band is niet beschikbaar in dit land</string>
   <string name="wifi_save">Opslaan</string>
   <string name="wifi_saved_access_points_label">Opgeslagen netwerken</string>
   <string name="wifi_saved_access_points_titlebar">Opgeslagen netwerken</string>
@@ -3921,7 +3920,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
 
 Dit toestaan voor alle apps die willen scannen?"</string>
   <string name="wifi_scan_notify_remember_choice">Niet meer weergeven</string>
-  <string name="wifi_scan_notify_text">To improve location accuracy, system apps and services can still scan for Wi‑Fi networks. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="wifi_scan_notify_text">Om locatienauwkeurigheid te verbeteren, kunnen systeem- apps en services nog steeds scannen naar Wi-Fi netwerken. U kan dit veranderen in LINK_BEGINscaninstellingenLINK_END.</string>
   <string name="wifi_security">Beveiliging</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -4109,7 +4108,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wps_connect_summary">Controleer of de router WPS ondersteunt en dat deze is ingeschakeld</string>
   <string name="wps_connect_title">Verbinden met WPS</string>
   <string name="write_settings">Systeeminstellingen aanpassen</string>
-  <string name="write_settings_description">This permission allows an app to modify system settings.</string>
+  <string name="write_settings_description">Deze toestemming staat een app toe om systeeminstellingen aan te passen.</string>
   <string name="write_settings_off">Nee</string>
   <string name="write_settings_on">Ja</string>
   <string name="write_settings_preference">App past systeeminstellingen toestemming aan</string>
