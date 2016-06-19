@@ -124,6 +124,8 @@ Laatst geback-upt op %2$s"</string>
   <string name="micloud_all_sub_2_intl_sms">2 internationale SMS berichten zullen verzonden worden om uw SIM kaart te activeren. Die zullen in rekening worden gebracht door uw provider.</string>
   <string name="micloud_all_sub_2_sms">2 nationale SMS berichten zullen worden verzonden om uw SIM kaart te activeren.. Die zullen in rekening worden gebracht door uw provider..</string>
   <string name="micloud_all_sub_resend_sms">"Wanneer u 'Apparaat vinden' ingeschakeld hebt zal een activatie SMS verzonden worden nadat u uw SIM kaart hebt verwisseld.</string>
+  <string name="micloud_battery_low_notification_message">Verbind oplader om te synchroniseren</string>
+  <string name="micloud_battery_low_notification_title">Batterij bijna leeg</string>
   <string name="micloud_buy_member">Account</string>
   <string name="micloud_check_sim_notify_text">Je hebt SIM kaarten veranderd. Log in 
 op uw Mi account om je Mi Cloud te heractiveren</string>
@@ -205,7 +207,7 @@ om deze functie te reactiveren.</string>
 of apparaat te wissen."</string>
   <string name="micloud_find_device_open_fail">Kon apparaat vinden niet inschakelen</string>
   <string name="micloud_find_device_opened">Apparaat vinden ingeschakeld</string>
-  <string name="micloud_find_device_opened_content">Apparaat vinden op %s</string>
+  <string name="micloud_find_device_opened_content">Vind uw apparaat op %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_first_login_summary"/>
@@ -213,13 +215,14 @@ of apparaat te wissen."</string>
   <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. Wanneer uw cloud vol is, zullen de oude gegevens niet verwijderd worden. Maar alle nieuwe gegevens die u toevoegt(bijvoorbeeld foto's, video's, notities en apps) worden niet meer geback-upt. Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_battery_low">Batterij te laag om te sync.</string>
-  <string name="micloud_main_battery_message">"Apparaat opladen om te sync."</string>
+  <string name="micloud_main_battery_message">"Verbind apparaat met oplader om te sync."</string>
   <string name="micloud_main_clear_now">Wissen</string>
   <string name="micloud_main_data_unsynced">Wachten om %d te synchroniseren</string>
   <string name="micloud_main_detail">Detail bekijken</string>
   <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
-  <string name="micloud_main_memory_low_message">Om te sync, items te verwijderen die u hebt opgeslagen in de cloud.</string>
+  <string name="micloud_main_memory_low_message">Om te sync., items te verwijderen die u hebt opgeslagen in de cloud.</string>
   <string name="micloud_main_memory_low_title">Intern geheugen is bijna vol</string>
+  <string name="micloud_main_message_not_synced">%s data niet gesynchroniseerd</string>
   <string name="micloud_main_multi_user_error_message">Je logt in met hetzelfde account als de eerste ruimte en Mi Cloud stopt. Als je gegevens wil back-uppen:
 
 1. Gebruik een ander account
@@ -251,6 +254,7 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_main_synced_data_count">%d items gesynchroniseerd</string>
   <string name="micloud_main_syncing">Synchroniseren…</string>
   <string name="micloud_main_title_master_sync_off">Auto-sync. is uitgeschakeld</string>
+  <string name="micloud_main_title_not_synced">Niet gesynchroniseerd</string>
   <string name="micloud_main_title_sync_fail">Kan niet synchroniseren</string>
   <string name="micloud_main_title_sync_off">Synchronisatie uit</string>
   <string name="micloud_main_title_sync_on_wifi">Wachten op Wi-Fi</string>
@@ -342,10 +346,6 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_web_discription_02">Om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
   <string name="micloud_web_discription_international">Bezoek www.mi.com/micloud</string>
   <string name="micloud_website">Items in Mi Cloud bekijken</string>
-  <string name="micloud_wipe_data_confirm_label">Verwijder gegevens Mi Cloud</string>
-  <string name="micloud_wipe_data_confirm_title">Items gesynchroniseerd met Mi Cloud verwijderen van de telefoon nadat je uitlogt?</string>
-  <string name="micloud_wipe_data_remove">Verwijderen</string>
-  <string name="micloud_wipe_data_retain">Behouden</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Ongeveer RMB 80 per jaar</string>
@@ -458,11 +458,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="verify">Bevestigen</string>
   <string name="view_storage_title">Opslagruimte</string>
   <string name="voip_choose_sim">Kies telefoonnr. om Mi Voice te activeren</string>
-  <string name="wipe_data_dialog_button_check_sync">Controleer of gesynchroniseerd</string>
-  <string name="wipe_data_dialog_msg">%s waren niet gesynchroniseerd en zullen blijven staan op je telefoon.</string>
-  <string name="wipe_data_dialog_msg_and_on">, en wat andere items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Sommige items zijn niet gesynchroniseerd</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>

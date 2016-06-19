@@ -27,7 +27,6 @@
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="alert_dlg_cancel_button">Annuleren</string>
   <string name="alert_dlg_ok_button">OK</string>
-  <string name="already_followed">U volgt dit nummer al</string>
   <string name="app_label">Berichten</string>
   <string name="app_name">Apparatenbeheer</string>
   <string name="attach_image">Foto\'s</string>
@@ -116,8 +115,7 @@
   <string name="copy_to_sdcard">Bijlage opslaan</string>
   <string name="copy_to_sdcard_fail">Bijlage opslaan mislukt</string>
   <string name="copy_to_sdcard_success">Bijlage opgeslagen %s</string>
-  <string name="database_corruption">Database corrupt, herstellen database…</string>
-  <string name="del_private_contact">Alle privecontact wissen</string>
+  <string name="database_corruption">Repareren…</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_bookmark">Verwijderen uit favorieten</string>
   <string name="delete_message">Verwijderen</string>
@@ -174,7 +172,7 @@
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Deze functie dient verbinding te maken met internet om normaal te functioneren.</string>
   <string name="festival_networking_title">Notice</string>
-  <string name="festival_never_remind">Niet meer weergeven.</string>
+  <string name="festival_never_remind">Niet meer weergeven</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Laden…</string>
   <string name="fetion_prefix">[Openen]</string>
@@ -184,8 +182,6 @@
   <string name="file_title">Naam:</string>
   <string name="file_width_height">Grootte:</string>
   <string name="flatshow_page_no">%1$d</string>
-  <string name="follow_finished">Nummer gevolgd</string>
-  <string name="follow_forbidden">Kan dit nummer niet volgen</string>
   <string name="forward_from">Verzonden van:</string>
   <string name="forward_prefix">"Doorsturen: "</string>
   <string name="found_old_messages">Berichten uploaden van %1$s naar %2$s?</string>
@@ -270,7 +266,7 @@
   <string name="move_up">Naar boven</string>
   <string name="msg_type_hint_mms">Multimediabericht (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx">Mi bericht</string>
+  <string name="msg_type_hint_mx">Mi Message</string>
   <string name="msg_type_hint_mx_b2c">Netwerkmelding</string>
   <string name="msg_type_hint_mx_b2c_omit">Netwerkmelding</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
@@ -408,7 +404,7 @@
   <string name="pref_title_allow_si_sl_push">WAP pushberichten toestaan (SI/SL)</string>
   <string name="pref_title_card_format">Deel kaart indeling</string>
   <string name="pref_title_delivery_reports">Afleverrapporten</string>
-  <string name="pref_title_festival_networking">Verbindingsindicatie</string>
+  <string name="pref_title_festival_networking">Internetverbinding</string>
   <string name="pref_title_fwd_sender_info">Afzenderinfo doorsturen</string>
   <string name="pref_title_hide_festival">Chinese taalfuncties verbergen</string>
   <string name="pref_title_manage_sim_messages">SIM kaart opslag</string>
@@ -458,7 +454,6 @@
   <string name="refresh_failed">Vernieuwen mislukt</string>
   <string name="refreshing">Vernieuwen…</string>
   <string name="release_cancel">Loslaten om te annuleren</string>
-  <string name="remind_follow">Dit nummer volgen?</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_music">Muziek verwijderen</string>
   <string name="remove_picture">Foto verwijderen</string>
@@ -530,7 +525,6 @@
   <string name="service_message_not_found">Bericht verlopen of niet beschikbaar</string>
   <string name="service_network_problem">Verzenden mislukt wegens een netwerkprobleem"</string>
   <string name="service_not_activated">Dienst is niet geactiveerd in het netwerk</string>
-  <string name="service_unavailiable">Service niet beschikbaar</string>
   <string name="set">Instellen</string>
   <string name="share_img">Delen</string>
   <string name="show_all_messages">Alle berichten weergeven</string>
