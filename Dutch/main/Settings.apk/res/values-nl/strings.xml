@@ -1376,7 +1376,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="free_wifi_connect_dialog_title">Gratis Wi-Fi beschikbaar</string>
   <string name="free_wifi_connect_fail">"Kon niet verbinden met netwerk"</string>
   <string name="free_wifi_connect_fail2">Inloggen mislukt. Probeer het later opnieuw.</string>
-  <string name="free_wifi_connect_summary">Dit gratis Wi-Fi netwerk %1$s wordt verschaft door %2$s. Tik om te verbinden.</string>
+  <string name="free_wifi_connect_summary">Tik om te verbinden met %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi beschikbaar</string>
   <string name="free_wifi_connected">Verbonden met gratis Wi-Fi</string>
   <string name="free_wifi_connected_count">%1$s gebruikers verbonden</string>
@@ -2291,6 +2291,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_camera">Camera</string>
   <string name="power_cell">Mobiele standby</string>
   <string name="power_center">Energiebeheer</string>
+  <string name="power_charge_remaining">%1$s to charge</string>
   <string name="power_charge_remaining">%1$s om op te laden</string>
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig vol</string>
@@ -2299,7 +2300,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig vol op draadloos</string>
   <string name="power_checker">Power Checker</string>
   <string name="power_discharge_remaining">%1$s resterend</string>
-  <string name="power_discharging_duration">%1$s - ongeveer. %2$s resterend</string>
+  <string name="power_discharging_duration">%1$s - ongeveer %2$s resterend</string>
   <string name="power_flashlight">Flitser</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS gebruik</string>
   <string name="power_hide_mode_title">Batterijverbruik van apps beheren</string>
@@ -2410,7 +2411,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="process_stats_run_time">Uitvoeringstijd</string>
   <string name="process_stats_summary">Statistieken voor nerds over actieve processen</string>
   <string name="process_stats_summary_title">Processtatistieken</string>
-  <string name="process_stats_total_duration">Apps (%1$s) in de laatste %2$s</string>
+  <string name="process_stats_total_duration">%1$s van %2$s gebruikt over de laatste %3$s</string>
   <string name="process_stats_total_duration_percentage">%1$s RAM gebruikt in de laatste %2$s</string>
   <string name="process_stats_type_background">Achtergrond</string>
   <string name="process_stats_type_cached">In cache</string>

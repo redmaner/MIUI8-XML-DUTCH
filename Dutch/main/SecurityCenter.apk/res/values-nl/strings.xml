@@ -737,7 +737,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="pm_auto_start_proc_is_running">Bezig</string>
   <string name="pm_remember_choice">Mijn keuze herinneren</string>
   <string name="pm_root_success_notification_title">Roottoegang ingeschakeld</string>
-  <string name="power_20s_shutdown">Apparaat zal binnen 20 seconden uitgeschakeld worden</string>
+  <string name="power_20s_shutdown">Apparaat zal over %d seconden worden uitgeschakeld</string>
   <string name="power_analysis_consume_title">Batterijverbruik</string>
   <string name="power_analysis_suggestion_need_optimize">Problemen met het batterijverbruik gedetecteerd.</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -1251,15 +1251,20 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Maandelijks plan gewijzigd naar %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Dataplan geupdatet</string>
   <string name="traffic_alert_auto_modify_package_summary">Datapakket automatisch aanpassen op basis van informatie van de provider</string>
-  <string name="traffic_config_alert_auto_modify">Dataplan automatisch updaten</string>
-  <string name="traffic_config_alert_body">Uw provider laten zien wat je hebt verbruikt %s Dataverbruiksinfo bijwerken?</string>
+  <string name="traffic_config_alert_auto_modify">Dataplan automatisch bijwerken</string>
+  <string name="traffic_config_alert_body">"Uw provider's boekhouding laat zien :%s.
+
+Neemnt u dit aan?"</string>
   <string name="traffic_config_alert_body_extra">"
-U kocht %1$s extra data deze maand. Dit is anders dan de %2$s dat u handmatig hebt toegevoegd."</string>
+U heeft %1$s extra data gekocht deze maand. Dit verschilt van de %2$s die u handmatig heeft toegevoegd."</string>
   <string name="traffic_config_alert_body_extra_notset">"
-U kocht  %s extra data deze maand. Dit is niet terug te vinden in de maandelijkse databeperking die u handmatig hebt ingesteld."</string>
-  <string name="traffic_config_alert_body_leisure">Volgens uw provider heeft %1$s van uw daluren gebruikt deze maand, dit is verschillend van de  %2$s dat u handmatig hebt ingesteld.</string>
-  <string name="traffic_config_alert_body_leisure_notset">Uw provider toont %s overgebleven daluren data. U heeft geen limiet voor de daluren data.</string>
-  <string name="traffic_config_alert_body_normal" formatted="false">"Provider geeft aan dat u %1$s gebruikt hebt van de overgebleven daluren data. %1$s van daluren data overgebleven. %2$s  %s  U heeft geen limiet voor de daluren data ingesteld."</string>
+U heeft %1$s extra data gekocht deze maand. Dit wordt niet weergegeven in het maandelijkse datalimiet dat u handmatig heeft ingesteld."</string>
+  <string name="traffic_config_alert_body_leisure">"
+Uw maandelijkse daluren datalimiet is %1$s. Dit verschilt van de %2$s die u handmatig heeft toegevoegd."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Uw maandelijkse daluren datalimiet is %1$s. U heeft zelf geen daluren datalimiet ingesteld."</string>
+  <string name="traffic_config_alert_body_normal">"
+Uw maandelijkse overuren datalimiet is %1$s. U heeft zelf geen overuren datalimiet ingesteld."</string>
   <string name="traffic_config_alert_package">"
 Overgebrachte extra data"</string>
   <string name="traffic_config_alert_setted">Instellingen toegepast</string>
