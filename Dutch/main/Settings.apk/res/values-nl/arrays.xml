@@ -103,26 +103,6 @@
         <item>Este es un ejemplo de síntesis de voz en español.</item>
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
         <item>PIN code van peer apparaat</item>
@@ -171,12 +151,6 @@
         <item>Aantal keer gestart</item>
         <item>Appnaam</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Geen</item>
         <item>MSCHAPV2</item>
@@ -210,7 +184,7 @@
         <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
-	    <item>Ongespecifiëerd</item>
+	   <item>Ongespecifiëerd</item>
         <item>LTE</item>
         <item>HSPAP</item>
         <item>HSPA</item>
@@ -350,7 +324,7 @@
         <item>Bluetooth volume</item>
         <item>Ingeschakeld houden</item>
         <item>Wakker houden</item>
-		<item>Locatie</item>
+	<item>Locatie</item>
         <item>Locatie</item>
         <item>Gebruiksstatistieken verkrijgen</item>
         <item>Microfoon dempen</item>
@@ -370,7 +344,7 @@
         <item>Sans Serif versmald</item>
         <item>Serif</item>
         <item>Serif monospace</item>
-		<item>Normaal</item>
+	<item>Normaal</item>
         <item>Cursief</item>
         <item>Kleine hoofdletters</item>
     </string-array>
@@ -383,10 +357,10 @@
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Standaard</item>
-		<item>Geen</item>
+	<item>Geen</item>
         <item>Contour</item>
         <item>Slagschaduw</item>
-		<item>Verhoogd</item>
+	<item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
     <string-array name="captioning_opacity_selector_titles">
@@ -487,14 +461,14 @@
     <string-array name="track_frame_time_entries">
         <item>Uit</item>
         <item>Op het scherm als balken</item>
-		<item>Op het scherm als lijnen</item>
+	<item>Op het scherm als lijnen</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Uit</item>
         <item>Toon overdrawgebieden</item>
         <item>Toon gebieden voor deuteranomalie</item>
-		<item>Toon overdraw teller</item>
+	<item>Toon overdraw teller</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standaardlimiet</item>
@@ -672,13 +646,7 @@
         <item>20 seconden</item>
         <item>Altijd</item>
     </string-array>
-    <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-    </integer-array>
-	<string-array name="wfd_status">
+    <string-array name="wfd_status">
         <item>Sessie starten…</item>
         <item>Sessie gestart</item>
         <item>Afbreken…</item>
@@ -736,14 +704,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Toestaan</item>
         <item>Weigeren</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Native</item>
-    </string-array>
-    <string-array name="values_color_calibration">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Enkele micro geluidsonderdrukking</item>
         <item>Dubbele micro geluidsonderdrukking</item>
@@ -772,7 +732,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Galerij</item>
         <item>Muziek</item>
         <item>Email</item>
-		<item>Video</item>
+	<item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Netwerk is traag door het vele verkeer</item>
@@ -799,14 +759,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <string-array name="agps_network_entries">
         <item>Thuisnetwerk</item>
         <item>Alle netwerken</item>
-    </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>HEET</item>
@@ -842,55 +794,11 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Ultrahoog (2K)</item>
         <item>Normaal (720p)</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
-    </string-array>
-    <string-array name="broadcast_locales">
-        <item>AG</item>
-        <item>AR</item>
-        <item>BO</item>
-        <item>BS</item>
-        <item>BB</item>
-        <item>BZ</item>
-        <item>BR</item>
-        <item>CL</item>
-        <item>CO</item>
-        <item>EC</item>
-        <item>GF</item>
-        <item>GD</item>
-        <item>GY</item>
-        <item>IN</item>
-        <item>IL</item>
-        <item>PY</item>
-        <item>PE</item>
-        <item>SR</item>
-        <item>KN</item>
-        <item>LC</item>
-        <item>VC</item>
-        <item>TW</item>
-        <item>TT</item>
-        <item>UY</item>
-        <item>VE</item>
-    </string-array>
-    <string-array name="ncc_locales">
-        <item>TW</item>
-    </string-array>
-    <string-array name="common_password_business_keys">
-        <item>miui_keyguard</item>
-        <item>childrenmode</item>
-        <item>file_explorer</item>
-        <item>com_miui_applicatinlock_use_fingerprint_state</item>
-    </string-array>
     <string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>
         <item>Kindermodus</item>
         <item>File Explorer</item>
-		<item>Appvergrendeling</item>
+	<item>Appvergrendeling</item>
     </string-array>
     <string-array name="description_primary">
         <item>骁龙801</item>
