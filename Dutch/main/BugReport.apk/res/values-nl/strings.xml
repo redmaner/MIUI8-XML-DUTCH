@@ -106,6 +106,7 @@
   <string name="michat_attach_smiley">Emoticon</string>
   <string name="michat_attach_take_photo">Camera</string>
   <string name="michat_back_to_detail">Ga terug naar chat</string>
+  <string name="michat_cant_join_artifical">Kan niet verbinden door netwerkfout</string>
   <string name="michat_check_network">Controleer netwerkinstellingen</string>
   <string name="michat_close_text">Chat beeindigd</string>
   <string name="michat_comment_net_error">Kon niet verbinden met netwerk, probeer later opnieuw</string>
@@ -118,7 +119,7 @@
   <string name="michat_error_need_login_btn">Log in</string>
   <string name="michat_error_need_login_text">Log in om ondersteuning te kunnen krijgen</string>
   <string name="michat_failed_to_add_media">Sorry, kan %1$s niet versturen</string>
-  <string name="michat_failed_to_fetch_fql">无法获取“常见问题列表”，请检查网络设置</string>
+  <string name="michat_failed_to_fetch_fql">Kon geen FAQ info verkrijgen, controleer netwerkinstellingen</string>
   <string name="michat_feedback_title_name">Feedbackenquête</string>
   <string name="michat_finish_text">Klaar</string>
   <string name="michat_in_artifical_customer_state">Kan dit niet doen terwijl u wordt geholpen door een persoon</string>
@@ -126,11 +127,12 @@
   <string name="michat_invation_invite_fail">Sorry, onze medewerkers zijn op dit moment bezet. Probeer later opnieuw.</string>
   <string name="michat_invation_invite_full">Sorry, onze medewerkers zijn op dit moment allemaal bezet. Probeer later opnieuw.</string>
   <string name="michat_kefu_welcome">Welkom bij Xiaomi online ondersteuning!</string>
+  <string name="michat_lose_artifical">Er trad een netwerkfout op, u heeft de chat verlaten</string>
   <string name="michat_menu_copy_text">Kopiëren</string>
   <string name="michat_mesage_resend_error_network">Kon niet verbinden met het netwerk</string>
   <string name="michat_mesage_send_error_network">Kon niet verzenden, controleer netwerkinstellingen</string>
   <string name="michat_message_copy_info">Gekopieerd naar klembord</string>
-  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_join_again">Blij dat je terug bent!</string>
   <string name="michat_message_robot_welcome">Mijn naam is Mi Bunny. Ik ben een online ondersteuningsrobot."</string>
   <string name="michat_msg_image_upload_error">Kon afbeelding niet versturen, probeer later opnieuw</string>
   <string name="michat_msg_input_info">Omschrijf uw probleem kort</string>
@@ -145,6 +147,7 @@
   <string name="michat_pull_to_refresh_pull_label">Trek omlaag om geschiedenis te bekijken</string>
   <string name="michat_pull_to_refresh_refreshing_label">Geschiedenis laden…</string>
   <string name="michat_pull_to_refresh_release_label">Loslaten om geschiedenis te bekijken</string>
+  <string name="michat_queue_pos_update">Er zijn %1$d mensen voor u, wacht een moment…</string>
   <string name="michat_return_to_outside">Sluiten</string>
   <string name="michat_service_unavailiable">Kon info niet verkrijgen, probeer later opnieuw</string>
   <string name="michat_skillset_business_type_title">Selecteer service</string>
@@ -153,7 +156,7 @@
   <string name="michat_try_again">Probeer opnieuw</string>
   <string name="michat_type_list_null">Kon info niet verkrijgen, probeer later opnieuw</string>
   <string name="michat_type_picture">Afbeelding</string>
-  <string name="michat_user_quit">您已离开会话</string>
+  <string name="michat_user_quit">U heeft de chat verlaten</string>
   <string name="michat_wait_for_a_moment">Een momentje, hulp is onderweg!</string>
   <string name="michat_webview_title">Bekijk details</string>
   <string name="min_error">Uw %1$s zou langer moeten zijn.</string>
@@ -194,6 +197,7 @@
   <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen</string>
   <string name="refresh">Vernieuwen</string>
   <string name="reply">Beantwoorden</string>
+  <string name="reply_failed">Antwoorden mislukt</string>
   <string name="report_miui">Bug rapporteren</string>
   <string name="request_empty_data">Geen gegevens</string>
   <string name="save_pic">Opslaan</string>
