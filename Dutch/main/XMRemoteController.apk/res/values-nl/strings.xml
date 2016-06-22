@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">Naar thuisscherm</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+  <string name="abc_action_menu_overflow_description">Meer opties</string>
+  <string name="abc_action_mode_done">Klaar</string>
+  <string name="abc_activity_chooser_view_see_all">Alles bekijken</string>
+  <string name="abc_activitychooserview_choose_application">Kies een app</string>
+  <string name="abc_capital_off">UIT</string>
+  <string name="abc_capital_on">AAN</string>
+  <string name="abc_search_hint">Zoeken…</string>
+  <string name="abc_searchview_description_clear">Wissen</string>
+  <string name="abc_searchview_description_query">Zoeken</string>
+  <string name="abc_searchview_description_search">Zoeken</string>
+  <string name="abc_searchview_description_submit">Verzenden</string>
   <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_shareactionprovider_share_with">Delen met</string>
+  <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+  <string name="abc_toolbar_collapse_description">Uitklappen</string>
   <string name="ac_gree">Gree AC</string>
   <string name="ac_mode_auto">Auto</string>
   <string name="ac_mode_cold">Koelen</string>
@@ -410,9 +410,10 @@ Ga terug om door te gaan</string>
   <string name="match_guide_sub_frame">Gekoppelde %1$d knoppen</string>
   <string name="match_intro_power">Vrijgeven wanneer apparaat inschakelt</string>
   <string name="match_is_respond">Reageerd dit apparaat？</string>
-  <string name="match_main_tip_frame">Wijs naar %1$s en druk op de knop</string>
-  <string name="match_main_tip_frame_click">"Richt de afstandsbediening op %1$s en tik op de knop
-En beantwoord de vraag dan"</string>
+  <string name="match_main_tip_frame">"Richt de afstandbediening op %1$s en druk op de knop
+Laat los wanneer %1$s reageert"</string>
+  <string name="match_main_tip_frame_click">"Richt de afstandsbediening op %1$s en druk op de knop
+En beantwoord daarna de vraag"</string>
   <string name="match_mibox_first">    Mi TV gevonden</string>
   <string name="match_mibox_sencond">· Bedien uw Mi TV met dit apparaat.</string>
   <string name="match_mibox_third">· Automatisch andere Mi apparaten toevoegen</string>
@@ -699,7 +700,7 @@ Om je account te activeren, volg de
   <string name="power_on">Ingeschakeld</string>
   <string name="press_to_continue_match">Tik om door te gaan</string>
   <string name="press_to_match">Tik om te koppelen</string>
-  <string name="privacy_content">"Lees Xiaomi's &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacybeleid&lt;/a&gt; en &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Gebruikersovereenkomst&lt;/a&gt; voordat u Mi Remote gebruikt. Toegang tot het internet en locatiediensten is nodig voor de app om normaal te werken.</string>
+  <string name="privacy_content">"Lees Xiaomi's &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacybeleid&lt;/a&gt; en &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Gebruikersovereenkomst&lt;/a&gt; voordat u Mi Remote gebruikt. Toegang tot het internet en locatiediensten zijn nodig voor de app om normaal te werken.</string>
   <string name="privacy_nohit">Niet meer opnieuw tonen</string>
   <string name="privacy_title">Algemene voorwaarden</string>
   <string name="program_booking_book_filter_book_status">Status reserveren</string>
