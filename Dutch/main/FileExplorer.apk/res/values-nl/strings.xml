@@ -4,6 +4,7 @@
   <string name="account_login_title">Account</string>
   <string name="action_mode_deselect_all">Alle deselecteren</string>
   <string name="action_mode_select_all">Alle selecteren</string>
+  <string name="activity_parse_video_title">URL plakken</string>
   <string name="activity_rule">Regels</string>
   <string name="ad_download">Downloaden</string>
   <string name="ad_downloading">Laden…</string>
@@ -12,6 +13,8 @@
   <string name="add_private_files">Bestanden toevoegen</string>
   <string name="add_task">Taken toevoegen</string>
   <string name="adding_upload_tasks">Taken toevoegen#8230;</string>
+  <string name="album_creator">Gemaakt door %s</string>
+  <string name="album_name">Dagelijkse selectie: %s</string>
   <string name="all_topic">Alle topics</string>
   <string name="already_liked">U hebt dit item al toegevoegd aan favorieten</string>
   <string name="already_signin_description">Je bent al ingecheckt voor vandaag</string>
@@ -175,6 +178,7 @@
   <string name="downloading_in_3g">Downloaden op 3G…</string>
   <string name="drive_closed">Niet ingelogd</string>
   <string name="drive_opened">Ingelogd</string>
+  <string name="editor_commend">Bewerken</string>
   <string name="email_platform">E-mail</string>
   <string name="empty_comment">Reactie kan niet leeg zijn</string>
   <string name="empty_file_download">Kan geen leeg bestand downloaden.</string>
@@ -247,6 +251,7 @@
   <string name="hot_comments">Populaire reacties</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Video\'s</string>
+  <string name="hot_video_load_more">Meer &gt;</string>
   <string name="hottest_sticker_str">Populair</string>
   <string name="if_cancel">Deze operatie annuleren?</string>
   <string name="image_loading_error">Kon afbeelding niet laden</string>
@@ -254,6 +259,8 @@
   <string name="installing">Installeren…</string>
   <string name="instruction">Voer het volgende adres in op FTP client: </string>
   <string name="instruction_pre">Aanraken om de FTP server te starten</string>
+  <string name="interest_recommend">Aanbevolen video\'s</string>
+  <string name="join_activity">Meedoen</string>
   <string name="just_now">Zojuist</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Categorie</string>
@@ -578,7 +585,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="repair_error">Kon niet herstellen</string>
   <string name="repair_file">Herstel gecodeerde bestanden</string>
   <string name="repeat_upload_video">Deze video is reeds gedeeld, neem een andere.</string>
-  <string name="reply_success">Reactie zal zichtbaar worden na goedkeuring</string>
+  <string name="reply_success">Reactie toegevoegd</string>
   <string name="report_abuse">Misbruik</string>
   <string name="report_advertisement">Reclame</string>
   <string name="report_other">Andere</string>
@@ -684,7 +691,8 @@ en nooit de koele nieuwe missen!"</string>
   <string name="start_use_xiaomi_account">Gebruik KuaiPan</string>
   <string name="stay_awake_summary">Scherm zal nooit uit gaan tijdens het gebruik van FTP</string>
   <string name="stay_awake_title">Standby</string>
-  <string name="stop_server">Stop server</string>
+  <string name="stop_server">Server stoppen</string>
+  <string name="storage_cloned_app">Opslag voor geclonede apps</string>
   <string name="storage_info">%1$s beschikbaar</string>
   <string name="storage_info_detail">Beschikbaar:%1$s Totaal:%2$s</string>
   <string name="storage_internal">Interne opslag</string>
@@ -749,6 +757,10 @@ en nooit de koele nieuwe missen!"</string>
   <string name="ui_main_toast_operation_failed">Kan %1$s niet uit favorieten verwijderen</string>
   <string name="unmount_inform_text">USB opslag loskoppelen?</string>
   <string name="unreviewed_video_cannot_share">Video\'s moeten worden beoordeeld voordat deze gedeeld kunnen worden</string>
+  <string name="upload_external_action_hint">URL plakken</string>
+  <string name="upload_external_notification_failed">Kon niet publiceren</string>
+  <string name="upload_external_notification_success">Gepubliceerd</string>
+  <string name="upload_external_notification_title">Publiceren, een momentje026</string>
   <string name="upload_failed">Upload mislukt</string>
   <string name="upload_file_toolarge_message">%1$d mislukt om te uploaden: je kan geen bestanden uploaden die groter zijn dan.</string>
   <string name="upload_local_video">Videoclip delen</string>
@@ -764,6 +776,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="upload_video_dialog_message">Uw video wordt weergegeven onder de populaire video\'s na te zijn geverifieerd.</string>
   <string name="upload_video_dialog_title">Video met succes gedeeld</string>
   <string name="upload_video_failed">Kon video niet delen, probeer opnieuw</string>
+  <string name="upload_video_forbidden">Upload geen vergelijkbare video\'s</string>
   <string name="upload_video_success">Kon video niet delen, nu verifiëren…</string>
   <string name="upload_video_tip">Er kan slecht één video gelijktijdig gedeeld worden</string>
   <string name="uploading">Uploaden</string>
@@ -813,6 +826,13 @@ en nooit de koele nieuwe missen!"</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Uploaden zal %1$s aan mobiele data vereisen</string>
   <string name="video_data_consumption_dialog_title">Waarschuwing mobiele data</string>
+  <string name="video_parse_btn">Starten</string>
+  <string name="video_parse_error_repeated">Upload geen vergelijkbare video\'s</string>
+  <string name="video_parse_error_unknown">Deze video service is niet ondersteund, probeer een andere</string>
+  <string name="video_parse_hint">Ondersteunde apps: WeChat, Weibo, Youku.</string>
+  <string name="video_parse_success">Geparseerd</string>
+  <string name="video_parse_timeout">Er ging iets mis, probeer opnieuw</string>
+  <string name="video_parsing_btn">Parseren…</string>
   <string name="video_play_failed">Onbekende fout</string>
   <string name="video_publish_hint">Een goede beschrijving zal andere mensen helpen uw video te vinden</string>
   <string name="video_releasing">Uploaden…</string>
