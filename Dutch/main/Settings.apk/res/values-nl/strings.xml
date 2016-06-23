@@ -1264,9 +1264,9 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="enforce_read_external_title">USB opslag beveiligen</string>
   <string name="enhanced_4g_lte_mode_summary">Gebruik LTE data om spraak en communicatie te verbeteren (aanbevolen)</string>
   <string name="enhanced_4g_lte_mode_title">Verbeterde 4G LTE modus</string>
-  <string name="enter_password">Om Android te starten, voer uw wachtwoord in</string>
-  <string name="enter_pattern">Om Android te starten, voer uw patroon in</string>
-  <string name="enter_pin">Om Android te starten, voer uw PIN in</string>
+  <string name="enter_password">Voer huidige vergrendelschermwachtwoord in om apparaat te decoderen na opnieuw opstarten</string>
+  <string name="enter_pattern">Voer huidige vergrendelschermwachtwoord in om apparaat te decoderen na opnieuw opstarten</string>
+  <string name="enter_pin">Voer huidige vergrendelschermwachtwoord in om apparaat te decoderen na opnieuw opstarten</string>
   <string name="erase_application">Apps verwijderen</string>
   <string name="erase_application_description">De geïnstalleerde apps verwijderen</string>
   <string name="erase_data">Verwijderen</string>
@@ -2900,7 +2900,7 @@ PIN code mogelijk onjuist.</string>
   <string name="sim_lock_settings">Instellingen SIM kaart vergrendeling</string>
   <string name="sim_lock_settings_category">SIM vergrendeling instellen</string>
   <string name="sim_lock_settings_title">SIM kaart vergrendeling</string>
-  <string name="sim_management_title">SIM kaarten &amp; mobiele netwerken</string>
+  <string name="sim_management_title">Mobiele netwerken</string>
   <string name="sim_multi_sims_summary">SIM kiezen die u voor mobiele data verkiest.</string>
   <string name="sim_multi_sims_title">Meerdere SIMs gevonden</string>
   <string name="sim_name_hint">SIM naam invoeren</string>

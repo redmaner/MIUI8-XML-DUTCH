@@ -33,7 +33,7 @@
   <string name="callFailed_userBusy">Lijn bezet</string>
   <string name="callUnanswered_forwarded">Gesprek onbeantwoord en doorgestuurd</string>
   <string name="call_button_dialer_text">Toetsenbord</string>
-  <string name="call_button_tools_text">Functie</string>
+  <string name="call_button_tools_text">Functies</string>
   <string name="call_contacts_deny_permission_msg">U hebt toestemming tot contacten lezen geweigerd, kan contact info niet weergeven.</string>
   <string name="call_description_recording">Bezig met opnemen…</string>
   <string name="call_extension_conference_mode">Conferentiemodus</string>
@@ -77,7 +77,8 @@
   <string name="conference_call_number">%s deelnemers</string>
   <string name="conference_call_single_description" formatted="false">%s etc. totaal %s</string>
   <string name="conference_caller_info_name">"%1$s's groepsgesprek"</string>
-  <string name="conference_caller_name_me">IK</string>
+  <string name="conference_caller_name_me">Ik</string>
+  <string name="conference_callers_exceeded">Deelnemers in groepsgesprek overschreden</string>
   <string name="contactPhoto">"Contactfoto's"</string>
   <string name="contacts_icon_label">Contacten</string>
   <string name="default_area_code_setting">Standaard netnummer</string>
@@ -120,12 +121,12 @@
   <string name="incall_error_supp_service_unknown">Niet ondersteunde service.</string>
   <string name="incoming_answer_voice_text">Stem antwoordt</string>
   <string name="incoming_call_forwarded_title">Inkomende oproepen doorschakelen</string>
-  <string name="incoming_circle_text_answer">Opnemen losmaken</string>
-  <string name="incoming_circle_text_answer_p">Opnemen schuiven</string>
-  <string name="incoming_circle_text_message">SMS beantwoorden losmaken</string>
-  <string name="incoming_circle_text_message_p">SMS beantwoorden schuiven</string>
-  <string name="incoming_circle_text_reject">Afwijzen losmaken</string>
-  <string name="incoming_circle_text_reject_p">Afwijzen schuiven</string>
+  <string name="incoming_circle_text_answer">Loslaten</string>
+  <string name="incoming_circle_text_answer_p">Omhoog schuiven</string>
+  <string name="incoming_circle_text_message">Loslaten</string>
+  <string name="incoming_circle_text_message_p">Omhoog schuiven</string>
+  <string name="incoming_circle_text_reject">Loslaten</string>
+  <string name="incoming_circle_text_reject_p">Omhoog schuiven</string>
   <string name="ivr_menu_dialing_msg">Doorschakelen…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Ga naar de geselecteerde service… [automatische foutcorrectie is ingeschakeld]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Druk %s</string>
@@ -194,7 +195,6 @@
   <string name="onscreen_close_preview_camera">Camera sluiten</string>
   <string name="onscreen_hold_text">Vasthouden</string>
   <string name="onscreen_merge_calls_text">Gesprekken samenvoegen</string>
-  <string name="onscreen_mi_support_calls_text">MiSupport</string>
   <string name="onscreen_mute_text">Dempen</string>
   <string name="onscreen_note_calls_text">Notitie</string>
   <string name="onscreen_rcs_text">Berichten</string>
