@@ -12,92 +12,6 @@
         <item>Zondag</item>
         <item>Maandag</item>
     </string-array>
-    <string-array name="timezone_labels">
-        <item>Marshall eilanden</item>
-        <item>Midway eiland</item>
-        <item>Hawaii</item>
-        <item>Alaska</item>
-        <item>Pacific Time</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Mountain Time</item>
-        <item>Centraal Amerika</item>
-        <item>Central Time</item>
-        <item>Mexico-Stad</item>
-        <item>Saskatchewan</item>
-        <item>Bogota</item>
-        <item>Eastern Time</item>
-        <item>Venezuela</item>
-        <item>Atlantic Time(Barbados)</item>
-        <item>Atlantic Time(Canada)</item>
-        <item>Manaus</item>
-        <item>Santiago</item>
-        <item>Newfoundland</item>
-        <item>Brasilia</item>
-        <item>Buenos Aires</item>
-        <item>Groenland</item>
-        <item>Montevideo</item>
-        <item>Mid-Atlantic</item>
-        <item>Azoren</item>
-        <item>Kaapverdische Eilanden</item>
-        <item>Casablanca</item>
-        <item>Londen, Dublin</item>
-        <item>Amsterdam, Berlijn</item>
-        <item>Belgrado</item>
-        <item>Brussel</item>
-        <item>Sarajevo</item>
-        <item>Windhoek</item>
-        <item>W. Africa Time</item>
-        <item>Amman, Jordanië</item>
-        <item>Athene, Istanbul</item>
-        <item>Beirut, Libanon</item>
-        <item>Cairo</item>
-        <item>Helsinki</item>
-        <item>Jeruzalem</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Baghdad</item>
-        <item>Moskou</item>
-        <item>Kuwait</item>
-        <item>Nairobi</item>
-        <item>Tehran</item>
-        <item>Baku</item>
-        <item>Tbilisi</item>
-        <item>Yerevan</item>
-        <item>Dubai</item>
-        <item>Kabul</item>
-        <item>Islamabad, Karachi</item>
-        <item>"Ural'sk"</item>
-        <item>Yekaterinburg</item>
-        <item>Kolkata</item>
-        <item>Sri Lanka</item>
-        <item>Kathmandu</item>
-        <item>Astana</item>
-        <item>Yangon</item>
-        <item>Krasnoyarsk</item>
-        <item>Bangkok</item>
-        <item>Peking</item>
-        <item>Hong Kong</item>
-        <item>Irkutsk</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipei</item>
-        <item>Seoul</item>
-        <item>Tokyo, Osaka</item>
-        <item>Yakutsk</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sydney, Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fiji</item>
-        <item>Tonga</item>
-    </string-array>
     <string-array name="availability">
         <item>Bezet</item>
         <item>Beschikbaar</item>
@@ -224,7 +138,7 @@
         <item>Sep</item>
         <item>Okt</item>
         <item>Nov</item>
-		<item>Dec</item>
+	<item>Dec</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>eerste</item>
@@ -242,73 +156,5 @@
         <item>Nooit</item>
         <item>Na een bepaalde datum</item>
         <item>Na een bepaald aantal keer</item>
-    </string-array>
-    <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-    </array>
-    <array name="account_xiaomi">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-    </array>
-	    <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-	</array>
-    <array name="action_bar_colors">
-        <item>#ff7d97e1</item>
-        <item>#ff27bbd0</item>
-        <item>#ff8cc061</item>
-        <item>#ff3fbc7d</item>
-        <item>#ff11b599</item>
-        <item>#fff38f3a</item>
-        <item>#ffeb6e4a</item>
-        <item>#ffdd5a62</item>
-        <item>#ffe8774d</item>
-        <item>#ffe29255</item>
-        <item>#ff579ee0</item>
-        <item>#ff9b88d0</item>
-    </array>
-    <array name="month_today_colors">
-        <item>#ff809be8</item>
-        <item>#ff2ec2d7</item>
-        <item>#ff99ce6d</item>
-        <item>#ff46c987</item>
-        <item>#ff15bb9e</item>
-        <item>#fff49d52</item>
-        <item>#fff4734d</item>
-        <item>#ffea646b</item>
-        <item>#ffed7d54</item>
-        <item>#ffe8995d</item>
-        <item>#ff5ea4e6</item>
-        <item>#ffab99de</item>
-    </array>
-    <string-array name="fortune_gender">
-        <item>男</item>
-        <item>女</item>
     </string-array>
 </resources>
