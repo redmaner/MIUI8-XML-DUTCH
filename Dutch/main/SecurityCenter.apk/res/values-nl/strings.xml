@@ -196,6 +196,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="button_text_cleanup">Opruimen</string>
   <string name="button_text_clear">Opruimen</string>
   <string name="button_text_create_shortcut">Snelkoppeling maken op startscherm</string>
+  <string name="button_text_deny">Afwijzen</string>
   <string name="button_text_disconnect_now">Verbinding verbreken</string>
   <string name="button_text_fix">Herstellen</string>
   <string name="button_text_fix_now">Herstellen</string>
@@ -236,6 +237,8 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="connect_internet_by_usbshare">Deel internet via USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="continue_install">Installeren</string>
+  <string name="convenient_mode">Alle apps in één keer ontgrendelen</string>
+  <string name="convenient_summary">Wachtwoord niet vereisen nadat één app ontgrendeld is</string>
   <string name="correction_attention_dialog_message">Instellingen nu aanpassen. Wacht tot het proces is voltooid en probeer opnieuw.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Sluiten</string>
@@ -669,6 +672,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="notification_battery_consume_abnormal_title">Batterij loopt te snel leeg</string>
   <string name="notification_battery_over_heat_summary">Kom erachter wat het overhitten veroorzaakt en koel het apparaat af</string>
   <string name="notification_battery_over_heat_title">Huidige temperatuur is %d℃</string>
+  <string name="notification_charging_title">Opladen</string>
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
   <string name="notification_item">Bescherm geselecteerde apps met appvergrendeling</string>
@@ -745,9 +749,9 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="power_cell">Mobiel netwerk</string>
   <string name="power_center_auto_shutdown">Schema voor in-/uitschakelen</string>
   <string name="power_center_battery_full">Batterij volledig opgeladen</string>
-  <string name="power_center_charge_time">%1$stot opgeladen</string>
+  <string name="power_center_charge_time">%1$s tot opgeladen</string>
   <string name="power_center_consume_rank">Batterijverbruik</string>
-  <string name="power_center_consume_time">%1$sresterend</string>
+  <string name="power_center_consume_time">%1$s resterend</string>
   <string name="power_center_custom_title">Batterijprofielen</string>
   <string name="power_center_ontime_boot">Opstarten op een tijdstip</string>
   <string name="power_center_ontime_shutdown">Uitschakelen op een tijdstip</string>
@@ -1392,6 +1396,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usbsharenet_pc_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de internetverbinding van uw computer.</string>
   <string name="virus_list_header_title">%d virussen gedetecteerd</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
   <string name="warning_open_mi_sim">Mi SIM inschakelen</string>
   <string name="wifi_exception_summary">Beschikbare Wi-Fi netwerken testen</string>
   <string name="wifi_exception_title">Wi-Fi netwerk testen</string>
