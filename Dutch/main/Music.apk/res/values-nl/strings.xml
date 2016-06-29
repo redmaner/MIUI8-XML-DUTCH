@@ -58,7 +58,7 @@
   <string name="auto_download_in_wifi">Download favoriete nummers met Wi-Fi</string>
   <string name="auto_payment">Automatisch vernieuwen</string>
   <string name="auto_payment_date">Volgende betaling: %s</string>
-  <string name="auto_restart_under_wifi">Wi-Fi zal dit bestand automatisch downloaden</string>
+  <string name="auto_restart_under_wifi">Bestand zal worden gedownload wanneer apparaat is verbonden met Wi-Fi</string>
   <string name="avail_services">Beschikbaar</string>
   <string name="available_playlist_name_format">Nieuwe afspeellijst %d</string>
   <string name="avoid_to_use_traffic_summary">Gebruik nooit mobiele netwerken om muziek te streamen</string>
@@ -90,7 +90,7 @@
   <string name="choose_download_quality">Kies download kwaliteit</string>
   <string name="choose_stream_quality">Kies stream kwaliteit</string>
   <string name="click_modify">Tik om de songteksten bij te werken.</string>
-  <string name="click_to_shuffle">Klik om alles te shufflen</string>
+  <string name="click_to_shuffle">Tik om te shufflen</string>
   <string name="click_to_view_new_local_audios">Tik om de details te bekijken.</string>
   <string name="close_music_time">"Resterende tijd: "</string>
   <string name="cloud_enable">Sync. muziek met Mi Cloud</string>
@@ -137,10 +137,10 @@
   <string name="dialog_button_scan_tracks">Zoek naar muziek op dit apparaat</string>
   <string name="dialog_cannot_resume">Download onderbroken. Het kan niet worden hervat.</string>
   <string name="dialog_confirm_delete_checkbox_message">Ook lokale bestanden verwijderen</string>
-  <string name="dialog_confirm_delete_downloads_message">%d taken verwijderen?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Deze taken verwijderen</string>
+  <string name="dialog_confirm_delete_downloads_message">%d items verwijderen?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Deze items verwijderen?</string>
   <string name="dialog_failed_body">Wilt u later opnieuw proberen om het bestand te downloaden of verwijderen uit de wachtrij?</string>
-  <string name="dialog_file_already_exists">Kan niet downloaden. Het bestemmingsbestand bestaat al.</string>
+  <string name="dialog_file_already_exists">Kan niet downloaden. Het bestand bestaat al.</string>
   <string name="dialog_file_missing_body">Het gedownloade bestand kan niet gevonden worden.</string>
   <string name="dialog_file_missing_title">Kan bestand niet openen</string>
   <string name="dialog_hint_music_error">Geen nummers gevonden</string>
@@ -195,7 +195,7 @@
   <string name="download_info_start_deleted_tasks">Downloads verwijderen</string>
   <string name="download_list_get_free_vip">Xunlei trial</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei download versneller is ingeschakeld</string>
-  <string name="download_list_get_hightspeed_flow_pay_ok">Betaling voltooid.</string>
+  <string name="download_list_get_hightspeed_flow_pay_ok">Betaling voltooid</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei trial sessie aangemaakt</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Geniet van snellere downloadsnelheden powered by Xunlei</string>
   <string name="download_manage">Downloads</string>
@@ -224,7 +224,7 @@
   <string name="download_traffic_dialog_position_button">Nog steeds aan het downloaden</string>
   <string name="download_unknown_title">&lt;Naamloos&gt;</string>
   <string name="download_wait_connect">Wachten op verbinding</string>
-  <string name="download_when_network_connected">Downloaden met dataverbinding</string>
+  <string name="download_when_network_connected">Downloaden wanneer verbonden met internet</string>
   <string name="download_while_playing_no_vip_summary">Automatisch nummers downloaden die u online streamt (met uitzondering van betaalde content)</string>
   <string name="download_while_playing_summary">Automatisch muziek downloaden die u online beluistert.</string>
   <string name="download_while_playing_title">Luisteren tijdens het downloaden</string>
@@ -300,8 +300,8 @@
   <string name="filter_by_size_summary">Verberg kleine audiobestanden</string>
   <string name="find_music">Nummers ontdekken</string>
   <string name="font_family">miui</string>
-  <string name="force_touch_audio_picker">Audiokiezer</string>
-  <string name="force_touch_play_local_music_random">Lokale muziek willekeurig afspelen</string>
+  <string name="force_touch_audio_picker">Nummer herkennen</string>
+  <string name="force_touch_play_local_music_random">Lokale muziek shufflen</string>
   <string name="format_not_support">Deze indeling is niet ondersteund</string>
   <string name="format_unsupported_or_corrupted">Dit formaat wordt niet ondersteund of het bestand is beschadigd</string>
   <string name="fragment_more">Meer</string>
@@ -368,7 +368,7 @@
   <string name="menu_all_task_pause">Alle pauzeren</string>
   <string name="menu_all_task_start">Alle starten</string>
   <string name="menu_enter_edit_mode">Editor</string>
-  <string name="menu_preferences">Downloads instellingen</string>
+  <string name="menu_preferences">Downloadinstellingen</string>
   <string name="menu_title_pause_all">Alle pauzeren</string>
   <string name="menu_title_resume_all">Alle starten</string>
   <string name="menu_title_settings">Instellingen</string>
@@ -497,11 +497,11 @@
   <string name="package_filter">Pakketten</string>
   <string name="pause_download">Pauze</string>
   <string name="paused_by_app">Gepauzeerd</string>
-  <string name="paused_in_power_save_mode">Gepauzeerd in energiebesparende modus</string>
+  <string name="paused_in_power_save_mode">Gepauzeerd wanneer energiebesparende modus is ingeschakeld</string>
   <string name="paused_insufficient_space">Wachten</string>
-  <string name="paused_queued_for_wifi">Wachten op netwerk</string>
+  <string name="paused_queued_for_wifi">Wachten op verbinding</string>
   <string name="paused_unknown">Gepauzeerd</string>
-  <string name="paused_waiting_for_network">Wachten op netwerk</string>
+  <string name="paused_waiting_for_network">Wachten op verbinding</string>
   <string name="paused_waiting_to_retry">Wachten om opnieuw te proberen</string>
   <string name="pay">Betaal:</string>
   <string name="pay_now">Huidige dienst</string>
@@ -520,7 +520,7 @@
   <string name="please_download_first">Download eerst.</string>
   <string name="please_search_or_select">Zoek of selecteer een veld</string>
   <string name="please_select_song">Een nummer kiezen</string>
-  <string name="power_save_mode_dialog_msg">Het apparaat is in de energiebesparende modus. Het downloaden nu starten?</string>
+  <string name="power_save_mode_dialog_msg">Energiebesparende modus is ingeschakeld. Het downloaden nu starten?</string>
   <string name="pref_download_settings_title">Limiet downloadgrootte</string>
   <string name="pref_summary_any_bytes_popup">Altijd wachten op Wi-Fi verbinding om bestanden te downloaden</string>
   <string name="pref_summary_enable_max_bytes_popup">Toon popup melding bij het gebruik van mobiele dataverbinding om de inhoud te downloaden</string>
@@ -533,7 +533,7 @@
   <string name="price">"Prijs: "</string>
   <string name="priority_storage">Gebruik externe SD-kaart</string>
   <string name="priority_storage_summary">Automatisch downloaden naar externe SD-kaart, indien beschikbaar</string>
-  <string name="privacy_notif_content">Aanraken om details te bekijken.</string>
+  <string name="privacy_notif_content">Tik om details te bekijken.</string>
   <string name="privacy_notif_title">Xunlei Download versneller is ingeschakeld</string>
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">Xunlei Accelerator gebruiken om downloads te versnellen? De URL van de download host zal geupload worden naar de Xunlei servers. Uw Mi account details zullen ook worden geüpload om te controleren of u actieve abonnementen op deze dienst hebt.</string>
@@ -567,7 +567,7 @@
   <string name="restart_immediate">Herstarten</string>
   <string name="resume_download">Hervatten</string>
   <string name="retry">Opnieuw proberen</string>
-  <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer uw dataverbinding en probeer het opnieuw.</string>
+  <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer uw verbinding en probeer het opnieuw.</string>
   <string name="retry_download">Opnieuw proberen</string>
   <string name="ringtone_not_support">Het formaat wordt niet ondersteund.</string>
   <string name="root_downloads">Downloads</string>
