@@ -41,13 +41,14 @@
   <string name="confirm_restore_message">Standaardinstellingen van camera herstellen?</string>
   <string name="confirm_restore_title">Standaardinstellingen herstellen</string>
   <string name="dialog_ok">OK</string>
-  <string name="dual_camera_lens_covered_toast">Lens bedekt.</string>
-  <string name="dual_camera_low_constract_toast">Laag contract kan invloed hebben op Dual camera effecten.</string>
-  <string name="dual_camera_lowlight_toast">Weinig licht kan invloed hebben op may Dual camera effecten.</string>
-  <string name="dual_camera_too_close_toast">Object is te dichtbij voor Dual camera effecten.</string>
-  <string name="dual_camera_use_hint">Dual modus camera kan blur-effect schieten, de afstand tussen de camera en het object moet minder dan twee meter zijn</string>
+  <string name="dual_camera_lens_covered_toast">De lens is bedekt.</string>
+  <string name="dual_camera_low_constract_toast">Het lijkt erop dat het contrast te laag is.</string>
+  <string name="dual_camera_lowlight_toast">Het lijkt erop dat het te donker is.</string>
+  <string name="dual_camera_too_close_toast">De camera is te dichtbij het object.</string>
+  <string name="dual_camera_use_hint">"Stereomodus helpt om de achtergrond te blurren.
+Het object zou niet verder dan 2 meter moeten zijn."</string>
   <string name="empty">" "</string>
-  <string name="error_fail_to_start_audio_capture">Audio opname starten mislukt</string>
+  <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
   <string name="face_analyze_info">Leeftijd: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Vrouw</string>
   <string name="face_analyze_info_male">Man</string>
@@ -332,11 +333,11 @@
   <string name="pref_setting_title">Instellingen</string>
   <string name="pref_simple_hdr_entry_off">Uit</string>
   <string name="pref_simple_hdr_entry_on">Aan</string>
-  <string name="pref_skin_beautify_color_title">Kleur</string>
+  <string name="pref_skin_beautify_color_title">Kleurtoon</string>
   <string name="pref_skin_beautify_eye_title">Ogen</string>
-  <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
+  <string name="pref_skin_beautify_intelligent_title">Slim</string>
   <string name="pref_skin_beautify_slim_title">Slank</string>
-  <string name="pref_skin_beautify_smooth_title">Glad</string>
+  <string name="pref_skin_beautify_smooth_title">Huid</string>
   <string name="pref_video_captrue_ability_title">Afbeelding vastleggen tijdens het opnemen</string>
   <string name="pref_video_focusmode_entry_auto">Tik</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
@@ -390,7 +391,7 @@
   <string name="simple_mode_button_text_scene">Scenemodus sluiten</string>
   <string name="simple_mode_button_text_slow_video">Time-lapse sluiten</string>
   <string name="simple_mode_button_text_square">Vierkant uitschakelen</string>
-  <string name="simple_mode_button_text_stereo_mode">Stereo-modus uitschakelen</string>
+  <string name="simple_mode_button_text_stereo_mode">Stereomodus uitschakelen</string>
   <string name="simple_mode_button_text_tilt_shift">Tilt-shift uitschakelen</string>
   <string name="simple_mode_button_text_ubifocus">Herfocusmodus sluiten</string>
   <string name="spaceIsLow_content_external_storage_priority">SD kaart raakt vol</string>
