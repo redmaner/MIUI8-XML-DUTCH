@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="sleep_duration_values">
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>1 uur</item>
     <string-array name="search_category_rbds_entries">
-        <item>Alle Stations</item>
+        <item>Alle stations</item>
         <item>Volwassene Hits</item>
         <item>Klassiek</item>
-        <item>Klassieke Rock</item>
+        <item>Klassieke rock</item>
         <item>Universiteits</item>
         <item>Country</item>
         <item>Noodtoestand</item>
         <item>Noodtoestand Test</item>
-        <item>Vreemde Taal</item>
+        <item>Vreemde taal</item>
         <item>Informatie</item>
         <item>Jazz</item>
         <item>Nieuws</item>
@@ -17,12 +22,12 @@
         <item>Oldies</item>
         <item>Personaliteit</item>
         <item>Publieke</item>
-        <item>Godsdienstige Muziek</item>
+        <item>Godsdienstige muziek</item>
         <item>Godsdienstige praatjes</item>
         <item>Rhythm en Blues</item>
         <item>Rock</item>
         <item>Zachte</item>
-        <item>Zachte Rock</item>
+        <item>Zachte rock</item>
         <item>Zachte Rhythm en Blues</item>
         <item>Sport</item>
         <item>Praatjes</item>
@@ -30,34 +35,34 @@
         <item>Weer</item>
     </string-array>
     <string-array name="search_category_rds_entries">
-        <item>Alle Stations</item>
+        <item>Alle stations</item>
         <item>Cultuur</item>
-        <item>Lopende Zaken</item>
-        <item>"Kinder programma's"</item>
-        <item>Country Muziek</item>
+        <item>Lopende zaken</item>
+        <item>"Kinderprogramma's"</item>
+        <item>Countrymuziek</item>
         <item>Documentaire</item>
         <item>Drama</item>
-        <item>Luister Muziek</item>
+        <item>Luistermuziek</item>
         <item>Onderwijs</item>
         <item>Noodtoestand</item>
         <item>Noodtoestand Test</item>
         <item>Financiën</item>
-        <item>Folk Muziek</item>
+        <item>Folkmuziek</item>
         <item>Informatie</item>
-        <item>Jazz Muziek</item>
+        <item>Jazzmuziek</item>
         <item>Light classical</item>
-        <item>Vrije Tijd</item>
+        <item>Vrije tijd</item>
         <item>Nieuws</item>
-        <item>Nationale Muziek</item>
-        <item>Andere Muziek</item>
-        <item>Oldies Muziek</item>
+        <item>Nationale muziek</item>
+        <item>Andere muziek</item>
+        <item>Oldies muziek</item>
         <item>Phone In</item>
-        <item>Pop Muziek</item>
+        <item>Popmuziek</item>
         <item>Godsdienstig</item>
-        <item>Rock Muziek</item>
+        <item>Rockmuziek</item>
         <item>Wetenschappen</item>
-        <item>Ernstig Klassiek</item>
-        <item>Sociale Zaken</item>
+        <item>Ernstig klassiek</item>
+        <item>Sociale zaken</item>
         <item>Sport</item>
         <item>Reizen</item>
         <item>Gevarieerd</item>
@@ -72,7 +77,7 @@
         <item>Noord Amerika</item>
         <item>Europa</item>
         <item>Japan</item>
-        <item>Japan(Groot)</item>
+        <item>Japan (Groot)</item>
         <item>Australië</item>
         <item>Oostenrijk</item>
         <item>België</item>
@@ -98,7 +103,7 @@
         <item>Rusland</item>
         <item>Singapore</item>
         <item>Slowakije</item>
-	<item>Spanje</item>
+	    <item>Spanje</item>
         <item>Zwitserland</item>
         <item>Zeden</item>
         <item>Taiwan</item>
@@ -160,19 +165,5 @@
         <item>Extra opties</item>
         <item>Configureer FM zoekparameters</item>
         <item>RF statistieken</item>
-    </string-array>
-    <string-array name="freq_entries">
-        <item>" "</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>.</item>
     </string-array>
 </resources>
