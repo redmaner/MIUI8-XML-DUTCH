@@ -3,7 +3,7 @@
     <string-array name="reminder_methods_labels">
         <item>Melding</item>
         <item>E-mail</item>
-        <item>Sms</item>
+        <item>SMS</item>
         <item>Alarm</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
@@ -44,6 +44,12 @@
         <item>Alleen deze afspraak</item>
         <item>Alle afspraken in de reeks</item>
     </string-array>
+	<string-array name="quick_response_defaults">
+        <item>Ik ben een paar minuten later.</item>
+        <item>Ik ben er over 10 minuten.</item>
+        <item>Begin maar alvast zonder mij.</item>
+        <item>Sorry, ik kan er niet bij zijn. We moeten een nieuwe afspraak maken.</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Altijd</item>
         <item>Alleen indien stil</item>
@@ -65,6 +71,18 @@
         <item>2 dagen</item>
         <item>1 week</item>
     </string-array>
+	<string-array name="miui_preferences_default_reminder_labels">
+        <item>Geen herinnering</item>
+        <item>0 minuten</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>1 dag</item>
+        <item>2 dagen</item>
+        <item>1 week</item>
+    </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 uur</item>
         <item>4 uur</item>
@@ -73,10 +91,10 @@
         <item>1 dag</item>
     </string-array>	
     <string-array name="repeat_frequency_spinner">
-        <item>Dag</item>
-        <item>Week</item>
-        <item>Maand</item>
-        <item>Jaar</item>
+        <item>dag</item>
+        <item>week</item>
+        <item>maand</item>
+        <item>jaar</item>
     </string-array>
 	<string-array name="repeat_frequency_spinner_plural">
         <item>dagen</item>
@@ -138,7 +156,7 @@
         <item>Sep</item>
         <item>Okt</item>
         <item>Nov</item>
-	<item>Dec</item>
+	    <item>Dec</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>eerste</item>
