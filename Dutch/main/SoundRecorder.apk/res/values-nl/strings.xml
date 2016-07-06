@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Verwijder geselecteerde opname?</string>
+  <string name="alert_message_delete_record">Geselecteerde opname verwijderen?</string>
   <string name="alert_message_delete_record_title">Opname verwijderen?</string>
   <string name="app_name">Geluidsrecorder</string>
   <string name="back">Terug</string>
   <string name="button_queue_for_wifi">In wachtrij</string>
   <string name="button_start_now">Downloaden</string>
-  <string name="call_record">Oproepopname(%d)</string>
+  <string name="call_record">Oproepopname (%d)</string>
   <string name="cloud_record">(%d) gesync.</string>
   <string name="cloud_record_open">Sync. opnames</string>
   <string name="cloud_record_tip">Sync. opnames met Mi Cloud.</string>
@@ -21,11 +21,8 @@
   <string name="delete_dialog_message">Wilt u de huidige opname verwijderen?</string>
   <string name="deleting_message">Verwijderen…</string>
   <string name="details">Details</string>
-  <string name="dialog_content_storage_full">Door te weinig ruimte, was de opname gedwongen om te stoppen. Verwijder onnodige bestanden met bestandsbeheer, wilt u het nu openen?</string>
+  <string name="dialog_content_storage_full">Door te weinig ruimte was de opname gedwongen om te stoppen. Verwijder onnodige bestanden met bestandsbeheer, wilt u het nu openen?</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
-  <string name="duration_format_hour">%sh</string>
-  <string name="duration_format_minute">%sm</string>
-  <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
   <string name="error_file_access">Bestand bestaat niet of is corrupt</string>
@@ -47,7 +44,7 @@
   <string name="notification_recording_ticker">Telefoon gedempt. Opnemen…</string>
   <string name="notification_stopped">Opname is gestopt</string>
   <string name="notification_title_all_paused">Download gepauzeerd</string>
-  <string name="notification_warning">Weinig opslag(minder dan %d minuten)</string>
+  <string name="notification_warning">Weinig opslag (minder dan %d minuten)</string>
   <string name="pause">Pauzeren</string>
   <string name="playback_delete_records">Opname verwijderen</string>
   <string name="playback_share_records">Opname delen</string>
@@ -61,7 +58,7 @@
   <string name="preference_tip_rename">Opnames handmatig benoemen</string>
   <string name="recognition_error_cancel">Geannuleerd</string>
   <string name="recognition_error_download_cancel">Later</string>
-  <string name="recognition_error_download_fail">Download mislukt.Controleer netwerkinstellingen</string>
+  <string name="recognition_error_download_fail">Download mislukt. Controleer netwerkinstellingen</string>
   <string name="recognition_error_download_msg">Moet eerst herkenningsengine downloaden om service beschikbaar te maken.</string>
   <string name="recognition_error_download_ok">Download</string>
   <string name="recognition_error_download_title">Engine mislukt</string>
@@ -118,8 +115,8 @@
   <string name="status_bar_back">Raak deze balk aan om terug te gaan</string>
   <string name="status_bar_recording">Opnemen…</string>
   <string name="status_bar_recording_pause">Opname is gepauzeerd</string>
-  <string name="text_btn_complete">Compleet</string>
-  <string name="text_btn_list">Lijst</string>
+  <string name="text_btn_complete">Stoppen</string>
+  <string name="text_btn_list">Opnames</string>
   <string name="text_btn_mark">Markeren</string>
   <string name="text_btn_pause">Pauze</string>
   <string name="text_btn_play">Afspelen</string>
@@ -127,11 +124,8 @@
   <string name="text_btn_recording">Opnemen</string>
   <string name="text_btn_wave">Golven</string>
   <string name="text_finish">Bevestigen</string>
-  <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-  <string name="toast_max_record_time">%1$s maximale ondersteunde opname tijd %2$s</string>
+  <string name="toast_max_record_time">%1$s kan ongeveer %2$s opnemen</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
-  <string name="wifi_recommended_body" formatted="false">Klaar om te downloaden via provider\'s netwerk： %s  Het downloaden van dit bestand kan leiden tot hogere data kosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tikt %s.</string>
+  <string name="wifi_recommended_body" formatted="false">Het downloaden van dit bestand (%s) over mobiele data kan leiden tot hogere datakosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tik op %s.</string>
   <string name="wifi_recommended_title">Waarschuwing dataverbruik</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
