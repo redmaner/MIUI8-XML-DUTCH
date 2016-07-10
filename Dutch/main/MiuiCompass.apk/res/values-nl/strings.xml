@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="altitude">%.1f</string>
   <string name="altitude_title">Hoogte</string>
   <string name="altitude_uncalibrate_cancel">Annuleren</string>
   <string name="altitude_uncalibrate_msg">Kan hoogte niet nauwkeurig kalibreren zonder GPS of mobiele dataverbinding.</string>
   <string name="altitude_uncalibrate_refresh">Probeer opnieuw</string>
   <string name="altitude_uncalibrate_tip">Kan hoogte niet kalibreren</string>
-  <string name="altitude_unit">M</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_failed">Hoogtekalibratie mislukt</string>
   <string name="calibrate_failed_no_location">Kalibratie mislukt</string>
   <string name="calibrate_failed_timeout">Geen netwerk gevonden</string>
   <string name="calibrate_rotate_again">Probeer opnieuw</string>
   <string name="calibrate_success">Gekalibreerd</string>
-  <string name="calibrate_tip">Kantel het toestel om de bal rond te rollen in de cirkel</string>
-  <string name="calibrate_title">Kalibreer kompas</string>
+  <string name="calibrate_tip">Kantel uw apparaat om de bal rond de cirkel te rollen</string>
+  <string name="calibrate_title">Kompas kalibreren</string>
   <string name="cannot_get_location">Onbekende locatie</string>
   <string name="dialog_body_no_network">Kan niet verbinden met netwerk</string>
   <string name="dialog_calibrat_altitude">Bezig met kalibreren…</string>
@@ -27,13 +25,12 @@
   <string name="direction_south_east">ZO</string>
   <string name="direction_south_west">ZW</string>
   <string name="direction_west">W</string>
-  <string name="do_not_show_next_time">Niet meer tonen</string>
+  <string name="do_not_show_next_time">Niet opnieuw tonen</string>
   <string name="error_camera_unavailable">Controleer of een andere app de camera gebruikt.</string>
   <string name="error_camera_unavailable_title">Camera niet beschikbaar</string>
   <string name="first_using_dialog_message">Kompas moet de netwerkverbinding van het apparaat, locatieservices en de camera gebruiken om normaal te werken.</string>
   <string name="first_using_dialog_title">Toegangsrechten</string>
-  <string name="guide_toast">Kalibreer het kompas door gebruik te maken van het volgende gebaar.</string>
-  <string name="latitude">LAT</string>
+  <string name="guide_toast">Om te kalibreren, beweeg uw telefoon zoals aangegeven.</string>
   <string name="location_east">O</string>
   <string name="location_enable">Toestaan</string>
   <string name="location_enable_later">Later</string>
@@ -43,13 +40,10 @@
   <string name="location_not_enabled_title">Locatieservices</string>
   <string name="location_south">Z</string>
   <string name="location_west">W</string>
-  <string name="longitude">LON</string>
   <string name="mobiledata_alert_dialog_message">Verbind met netwerk om de hoogte te kalibreren</string>
   <string name="mobiledata_alert_dialog_title">Waarschuwing dataverbruik</string>
-  <string name="pressure">%.1f</string>
   <string name="pressure_title">Druk</string>
-  <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Schud om te kalibreren</string>
   <string name="using_camera_confirm_cancel">Afsluiten</string>
-  <string name="using_camera_confirm_ok">Ok</string>
+  <string name="using_camera_confirm_ok">Akkoord</string>
 </resources>
