@@ -2271,9 +2271,12 @@ Selecteer het OS van uw computer:"</string>
   <string name="password_entrance_title">Schermvergrendeling</string>
   <string name="password_guard">Wachtwoord</string>
   <string name="path_about_about_settings">Instellingen/Over telefoon</string>
+  <string name="path_accelerometer_settings">Instellingen/Weergave/Scherm automatisch draaien</string>
+  <string name="path_access_control_settings">Instellingen/Extra instellingen/Privacy/Privacy instellingen</string>
   <string name="path_accessibility_captioning_title">Instellingen/Extra instellingen/Toegankelijkheid/Bijschriften</string>
   <string name="path_accessibility_display_daltonizer_preference_title">Instellingen/Extra instellingen/Toegankelijkheid/Kleurcorrectie</string>
   <string name="path_accessibility_global_gesture_preference_title">Instellingen/Extra instellingen/Toegankelijkheid/Snelkoppeling toegankelijkheid</string>
+  <string name="path_accessibility_long_press_timeout_preference_title">Instellingen/Extra instellingen/Toegankelijkheid/Vertraging aanraken &amp; ingedrukt houden</string>
   <string name="path_accessibility_screen_magnification_title">Instellingen/Extra instellingen/Toegankelijkheid/Vergrotingsgebaren</string>
   <string name="path_accessibility_settings">Instellingen/Extra instellingen/Toegankelijkheid/Extra instellingen/Toegankelijkheid</string>
   <string name="path_account_list">Instellingen/Andere accounts</string>
@@ -2295,6 +2298,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_bluetooth_enable">Instellingen/Bluetooth/Bluetooth inschakelen</string>
   <string name="path_bluetooth_settings">Instellingen/Bluetooth</string>
   <string name="path_brightness_settings">Instellingen/Weergave/Helderheid</string>
+  <string name="path_button_light_timeout">Instellingen/Extra instellingen/Knopverlichting/Knopverlichting aan laten</string>
   <string name="path_calendar_sound_title">Instellingen/Geluid &amp; Trillen/Agenda geluid</string>
   <string name="path_children_mode_settings">Instellingen/Extra instellingen/Kindermodus</string>
   <string name="path_choose_timezone">Instellingen/Extra instellingen/Datum &amp; tijd/Tijdzone kiezen</string>
@@ -2320,6 +2324,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_edge_handgrip">Instellingen/Edge controles</string>
   <string name="path_equalizer">Instellingen/Geluid &amp; trillen/Audio instellingen/Equalizer</string>
   <string name="path_font_settings">Instellingen/Weergave/Systeem lettertype</string>
+  <string name="path_gesture_wakeup_title">Instellingen/Weergave/Dubbel tikken om het scherm te ontwaken</string>
+  <string name="path_gps_settings">Instellingen/Extra instellingen/Privacy/Locatie</string>
   <string name="path_handy_mode_settings">Instellingen/Extra instellingen/Eén-hand modus</string>
   <string name="path_home_key">Instellingen/Extra instellingen/Knoppen/Home</string>
   <string name="path_key_settings">Instellingen/Extra instellingen/Knoppen</string>
@@ -2332,6 +2338,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_local_auto_backup_section_title">Instellingen/Extra instellingen/Back-up &amp; herstel/Auto back-ups</string>
   <string name="path_local_backup_section_title">Instellingen/Extra instellingen/Back-up &amp; herstel/Lokale back-ups</string>
   <string name="path_location_settings_title">Instellingen/Extra instellingen/Beveiliging/Locatie</string>
+  <string name="path_lock_sounds_enable_title">Instellingen/Geluid &amp; trillen/Geluid voor schermvergrendeling</string>
   <string name="path_manage_device_admin">Instellingen/Extra instellingen/Beveiliging/Apparaatbeheerders</string>
   <string name="path_manage_notification_access_title">Instellingen/Extra instellingen/Beveiliging/Toegang tot meldingen</string>
   <string name="path_master_clear_title">Instellingen/Extra instellingen/Back-up &amp; herstel/Terug naar fabrieksinstellingen</string>
@@ -2354,9 +2361,12 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_page_layout_settings">Instellingen/Weergave/Tekstgrootte</string>
   <string name="path_pn_settings">Instellingen/Mobiele netwerken/Naam toegangspunten</string>
   <string name="path_pointer_speed">Instellingen/Extra instellingen/Taal &amp; invoer/Snelheid van aanwijzer</string>
+  <string name="path_power_checker">Instellingen/Extra/Beta functies/Power Checker</string>
   <string name="path_power_hide_mode_title">Instellingen/Batterij &amp; prestatie/Beheer batterijverbruik van apps</string>
   <string name="path_power_mode_settings">Instellingen/Batterij &amp; prestatie/Energiebeheer</string>
   <string name="path_power_optimize">Instellingen/Extra/Beta functies/Batterij bespaarder</string>
+  <string name="path_pref_volume_wake_title">Instellingen/Schermvergrendeling &amp; wactwoord/Ontwaken met volume knoppen</string>
+  <string name="path_preferred_network_type_settings">Instellingen/Mobiele netwerken/Voorkeur netwerktype</string>
   <string name="path_privacy_policy">Instellingen/Over telefoon/Juridische informatie/Privacybeleid</string>
   <string name="path_privacy_settings">Instellingen/Extra instellingen/Back-up &amp; herstel</string>
   <string name="path_ringer_volume_settings">Instellingen/Geluid &amp; trillen/Volumes/Beltoon &amp; meldingen</string>
@@ -2366,11 +2376,13 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_screen_key_long_press_timeout">Instellingen/Extra instellingen/Knoppen/Tijd voor lang drukken instellen</string>
   <string name="path_screen_on_proximity_sensor_title">Instellingen/Schermvergrendeling &amp; wachtwoord/Voorkom broekzakgesprekken</string>
   <string name="path_screen_optimize">Instellingen/Weergave/Kleuren &amp; contrast</string>
+  <string name="path_screen_paper_mode">Instellingen/Weergave/Leesmodus</string>
   <string name="path_screen_saver_settings">Instellingen/Weergave/Schermbeveiliging</string>
   <string name="path_screen_timeout_settings">Instellingen/Schermvergrendeling &amp; wachtwoord/Slaap</string>
   <string name="path_second_space">Instellingen/Tweede ruimte</string>
   <string name="path_security_encryption_title">Instellingen/Extra instellingen/Beveiliging/Apparaat coderen door gebruik van schermvergrendelingswachtwoord</string>
   <string name="path_security_passwords_title">Instellingen/Schermvergrendeling &amp; wachtwoord/Schermvergrendeling</string>
+  <string name="path_security_settings">Instellingen/Extra instellingen/Privacy</string>
   <string name="path_slot_status_title">Instellingen/Over telefoon/IMEI informatie</string>
   <string name="path_sms_delivered_sound_title">Instellingen/Geluid &amp; trillen/SMS ontvangen</string>
   <string name="path_sms_received_settings">Instellingen/Geluid &amp; trillen/SMS afgeleverd</string>
@@ -2427,6 +2439,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_wifi_tether_settings">Instellingen/Persoonlijke hotspot</string>
   <string name="path_wifi_wapi_cert_install">Instellingen/Wi-Fi/Geavanceerde instellingen/WAPI certificaat installeren</string>
   <string name="path_wifi_wapi_cert_uninstall">Instellingen/Wi-Fi/Geavanceerde instellingen/WAPI certificaat verwijderen</string>
+  <string name="path_wps_connect_title">Instellingen/Wi-Fi/Geavanceerde instellingen/WPS push knop</string>
   <string name="path_xiaomi_account">Instellingen/Mi Account</string>
   <string name="path_xiaomi_cloud_service">Apps</string>
   <string name="path_xiaomi_money_service">Apps</string>
