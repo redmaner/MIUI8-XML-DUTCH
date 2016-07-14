@@ -46,7 +46,7 @@
   <string name="converting_to_picture_message">Converteren naar MMS…</string>
   <string name="converting_to_text_message">Converteren naar SMS…</string>
   <string name="copy_message_text">Tekst kopiëren</string>
-  <string name="copy_message_text_success">Tekst kopiëren voltooid</string>
+  <string name="copy_message_text_success">Tekst met succes gekopieerd</string>
   <string name="copy_to_sdcard">Bijlage opslaan</string>
   <string name="copy_to_sdcard_fail">Kon bijlage niet opslaan</string>
   <string name="copy_to_sdcard_success">Bijlage opgeslagen als %s</string>
@@ -67,10 +67,10 @@
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Bericht grootte bereikt.</string>
   <string name="failed_to_add_media">Je kan dit %1$s niet toevoegen aan je bericht</string>
-  <string name="failed_to_resize_image">Foto niet herschaald.</string>
+  <string name="failed_to_resize_image">Kon foto niet herschalen.</string>
   <string name="feedback_description_hint">Schrijf hier een feedback</string>
   <string name="feedback_submit">Verzenden</string>
-  <string name="festival_networking_desc">Deze functie moet verbonden zijn met internet om normaal te functioneren.</string>
+  <string name="festival_networking_desc">Deze functie moet verbonden zijn met internet om normaal te werken.</string>
   <string name="festival_never_remind">Niet meer tonen</string>
   <string name="festival_sms_loading">Laden…</string>
   <string name="file_create_time">Gemaakt door:</string>
@@ -121,8 +121,8 @@
   <string name="mx_dspt">Berichten naar andere MIUI gebruikers verzenden zonder dat SMS kosten</string>
   <string name="mx_enable">Mi Bericht</string>
   <string name="mx_msg">Mi Bericht</string>
-  <string name="mx_on_sim_1">Mi Bericht SIM slot 1</string>
-  <string name="mx_on_sim_2">Mi Bericht SIM slot 2</string>
+  <string name="mx_on_sim_1">Mi Bericht SIM 1</string>
+  <string name="mx_on_sim_2">Mi Bericht SIM 2</string>
   <string name="mx_recommend_msg">Aanraken om Mi Berichten in te schakelen.</string>
   <string name="need_download">Sync…</string>
   <string name="network_error">Netwerk fout</string>
@@ -210,7 +210,7 @@
   <string name="sim_card2">SIM kaart 2</string>
   <string name="sim_copy_to_phone_memory">Kopiëren naar telefoon geheugen</string>
   <string name="sim_delete">Verwijderen</string>
-  <string name="sim_empty">Gen berichten op SIM kaart</string>
+  <string name="sim_empty">Geen berichten op SIM kaart</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[foto]</string>
   <string name="sp_mark_as_read_title">Alle markeren als gelezen</string>
@@ -228,8 +228,8 @@
   <string name="type_attachment">bijlage</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">foto</string>
-  <string name="type_to_compose_text_enter_to_send">Schrijf bericht</string>
-  <string name="type_to_compose_text_or_leave_blank">Schrijf bericht of laaat het blank</string>
+  <string name="type_to_compose_text_enter_to_send">Bericht invoeren</string>
+  <string name="type_to_compose_text_or_leave_blank">Bericht invoeren of blank laten</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_title">Onafgeleverd bericht</string>
