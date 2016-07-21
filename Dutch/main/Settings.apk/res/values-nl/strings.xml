@@ -111,7 +111,6 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_done_title">Klaar!</string>
   <string name="add_fingerprint_failed_retry_text">Kon vingerafdruk niet toevoegen, probeer opnieuw</string>
   <string name="add_fingerprint_finished_button_text">Ok</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Om uw vingerafdruk toe te voegen, plaatst u uw vinger op de sensor en verwijder hem nadat u een trilling voelde.</string>
   <string name="add_fingerprint_instruction_msg">Ontgrendel uw apparaat of verifieër uw betaling met uw vingerafdruk.</string>
   <string name="add_fingerprint_instruction_title">Voeg uw vingerafdruk toe</string>
   <string name="add_fingerprint_put_finger_edge_msg">Beweeg uw vinger iets en plaats het weer op de sensor om alle verschillende onderdelen toe te voegen van uw vingerafdruk.</string>
@@ -1429,6 +1428,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="global_change_warning">Deze instelling is van invloed op alle gebruikers van dit apparaat.</string>
   <string name="global_font_change_title">Lettergrootte wijzigen</string>
   <string name="global_locale_change_title">Taal wijzigen</string>
+  <string name="google_backup_enable">Back-ups inschakelen</string>
   <string name="google_backup_section_title">Google back-up &amp; herstel</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
   <string name="handy_mode">Eén-hand modus</string>
@@ -1771,11 +1771,11 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_sounds_enable_title">Geluid voor schermvergrendeling</string>
   <string name="lockpassword_cancel_label">Annuleren</string>
   <string name="lockpassword_choose_for_second_user">Wachtwoord tweede ruimte instellen</string>
-  <string name="lockpassword_choose_lock_generic_header">Ontgrendelmethode selecteren</string>
-  <string name="lockpassword_choose_your_password_header">Uw wachtwoord kiezen</string>
+  <string name="lockpassword_choose_lock_generic_header">Kies schermvergrendeling</string>
+  <string name="lockpassword_choose_your_password_header">Stel uw wachtwoord in</string>
   <string name="lockpassword_choose_your_password_second_space">"Wachtwoord instellen
  voor tweede ruimte"</string>
-  <string name="lockpassword_choose_your_pattern_header">Uw patroon kiezen</string>
+  <string name="lockpassword_choose_your_pattern_header">Stel uw patroon in</string>
   <string name="lockpassword_choose_your_pin_header">Uw PIN code instellen</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"PIN instellen
  voor tweede ruimte"</string>
@@ -1828,7 +1828,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockpattern_recording_intro_footer">"Druk op 'Menu' voor hulp."</string>
   <string name="lockpattern_recording_intro_header">Teken een ontgrendelpatroon</string>
   <string name="lockpattern_recording_intro_header_second_space">Teken een ontgrendelpatroon voor tweede ruimte:</string>
-  <string name="lockpattern_restart_button_text">Opnieuw tekenen</string>
+  <string name="lockpattern_restart_button_text">Teken opnieuw</string>
   <string name="lockpattern_retry_button_text">Wissen</string>
   <string name="lockpattern_settings_change_lock_pattern">Ontgrendelpatroon wijzigen</string>
   <string name="lockpattern_settings_choose_lock_pattern">Ontgrendelpatroon instellen</string>
@@ -2287,7 +2287,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_alarm_sound_title">Instellingen/Geluid &amp; trillen/Wekker geluid</string>
   <string name="path_android_beam_settings">Instellingen/Meer/Android Beam</string>
   <string name="path_apn_settings">Instellingen/SIM kaarten &amp; mobiele netwerken/Naam toegangspunten</string>
-  <string name="path_app_invisible">Instellingen/Extra/Beta functies/App onzichtbaar</string>
+  <string name="path_app_invisible">Instellingen/Extra instellingen/Beta functies/App onzichtbaar</string>
   <string name="path_app_permission">Instellingen/Toestemmingen</string>
   <string name="path_app_switch_key">Instellingen/Extra instellingen/Knoppen/Recente</string>
   <string name="path_application_lock">Instellingen/App vergrendeling</string>
@@ -2331,7 +2331,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_handy_mode_settings">Instellingen/Extra instellingen/Eén-hand modus</string>
   <string name="path_home_key">Instellingen/Extra instellingen/Knoppen/Home</string>
   <string name="path_key_settings">Instellingen/Extra instellingen/Knoppen</string>
-  <string name="path_lab_functions_title">Instellingen/Extra/Beta functies</string>
+  <string name="path_lab_functions_title">Instellingen/Extra instellingen/Beta functies</string>
   <string name="path_language_picker_title">Instellingen/Extra instellingen/Taal &amp; invoer/Taal</string>
   <string name="path_language_settings">Instellingen/Extra instellingen/Taal &amp; invoer</string>
   <string name="path_led_settings">Instellingen/Extra instellingen/Meldingslicht</string>
@@ -2363,10 +2363,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_page_layout_settings">Instellingen/Weergave/Tekstgrootte</string>
   <string name="path_pn_settings">Instellingen/Mobiele netwerken/Naam toegangspunten</string>
   <string name="path_pointer_speed">Instellingen/Extra instellingen/Taal &amp; invoer/Snelheid van aanwijzer</string>
-  <string name="path_power_checker">Instellingen/Extra/Beta functies/Power Checker</string>
+  <string name="path_power_checker">Instellingen/Extra instellingen/Beta functies/Power Checker</string>
   <string name="path_power_hide_mode_title">Instellingen/Batterij &amp; prestatie/Beheer batterijverbruik van apps</string>
   <string name="path_power_mode_settings">Instellingen/Batterij &amp; prestatie/Energiebeheer</string>
-  <string name="path_power_optimize">Instellingen/Extra/Beta functies/Batterij bespaarder</string>
+  <string name="path_power_optimize">Instellingen/Extra instellingen/Beta functies/Batterij bespaarder</string>
   <string name="path_pref_volume_wake_title">Instellingen/Schermvergrendeling &amp; wactwoord/Ontwaken met volume knoppen</string>
   <string name="path_preferred_network_type_settings">Instellingen/Mobiele netwerken/Voorkeur netwerktype</string>
   <string name="path_privacy_policy">Instellingen/Over telefoon/Juridische informatie/Privacybeleid</string>
@@ -2451,10 +2451,13 @@ Selecteer het OS van uw computer:"</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">%1$d beveiliging | %2$d privacy | %3$d overige</string>
   <string name="permission_manage">Toestemmingen beheren</string>
+  <string name="permission_manage_global_build_title">Andere toestemmingen</string>
   <string name="permission_manage_summary">Uw toestemming vragen voordat apps uw contacten kunnen lezen, uw oproepgeschiedenis kunnen lezen, systeeminstellingen wijzigen, of toegang willen tot de camera en andere apparaatbronnen</string>
   <string name="permission_manage_title">Toestemmingen voor %s</string>
   <string name="permission_manager">Toestemmingen</string>
   <string name="permission_mgr">Toestemmingen</string>
+  <string name="permission_settings_summary">Toestemmingen gerelateerd aan locatie, opslag, telefoon, berichten en contacten.</string>
+  <string name="permission_settings_title">Apptoestemmingen</string>
   <string name="permissions_label">Toestemmingen</string>
   <string name="permit_draw_overlay">Tekenen over andere apps toestaan</string>
   <string name="permit_usage_access">Gebruikstoegang toestaan</string>
