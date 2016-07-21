@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="DOWNLOAD_UNIT_BIT">B</string>
-  <string name="DOWNLOAD_UNIT_GB">GB</string>
-  <string name="DOWNLOAD_UNIT_KB">KB</string>
-  <string name="DOWNLOAD_UNIT_MB">MB</string>
-  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Enkel Wi-Fi gebruiken</string>
   <string name="about">Over</string>
   <string name="action_settings">Instellingen</string>
@@ -19,7 +14,6 @@
   <string name="apk_filter">Apk</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei account</string>
   <string name="auth_fail">Kon geen autorisatie krijgen</string>
   <string name="bind_xunlei_account">Xunlei account toevoegen</string>
@@ -34,6 +28,7 @@
   <string name="cancel_running_download">Annuleren</string>
   <string name="cancle">Annuleren</string>
   <string name="choose_open_time">Kies wanneer je wilt beginnen</string>
+  <string name="clear_data">Wissen</string>
   <string name="complete_time">Voltooid:</string>
   <string name="confirm">Ok</string>
   <string name="confirm_delete_downloads_message">%d downloads worden verwijderd!</string>
@@ -276,9 +271,9 @@ op al je apparaten met Xunlei</string>
   <string name="select_sub_file_download">Kies een bestand om te downloaden</string>
   <string name="select_subfile_all">Alles selecteren</string>
   <string name="selected_count">%1$d van %2$d geselecteerd</string>
-  <string name="setting_close_debug">Debug modus uitgeschakeld</string>
-  <string name="setting_debug_fail">Kon Debug modus niet openen</string>
-  <string name="setting_open_debug">Debug modus ingeschakeld. Tik hier 6 maal om Debug modus uit te schakelen.</string>
+  <string name="setting_close_debug">Debugmodus uitgeschakeld</string>
+  <string name="setting_debug_fail">Kon debugmodus niet openen</string>
+  <string name="setting_open_debug">Debugmodus ingeschakeld. Tik hier 6 maal om debugmodus uit te schakelen.</string>
   <string name="shortcut_dialog_content">Maak snelkoppeling op startscherm aan om direct te zoeken naar bronnen.</string>
   <string name="shortcut_dialog_create">Aanmaken</string>
   <string name="shortcut_dialog_title">Snelkoppeling op startscherm aanmaken?</string>
