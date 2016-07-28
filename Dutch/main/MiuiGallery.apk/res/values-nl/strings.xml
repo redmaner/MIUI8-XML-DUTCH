@@ -33,7 +33,7 @@
   <string name="adding">Toevoegen…</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="adding_to_album">Foto\'s toevoegen…</string>
-  <string name="adjust">Aanpassen</string>
+  <string name="adjust">Verbeteren</string>
   <string name="adjust_auto">Auto</string>
   <string name="adjust_blur">Blur</string>
   <string name="adjust_brightness">Helderheid</string>
@@ -68,6 +68,7 @@
   <string name="album_share_subtitle_quitting">Verlaten…</string>
   <string name="album_share_subtitle_requesting">Albuminformatie ophalen…</string>
   <string name="album_share_title_new_album">Nieuw album delen</string>
+  <string name="album_show_local_only">Alleen lokale albums weergeven</string>
   <string name="album_type_baby">Baby album</string>
   <string name="album_type_share">Gedeelde albums</string>
   <string name="album_type_system">Systeemalbums</string>
@@ -198,6 +199,7 @@
   <string name="create_quick_icon_on_desk">Snelkoppeling maken</string>
   <string name="creating_baby_album">Album aanmaken…</string>
   <string name="crop">Bijsnijden</string>
+  <string name="crop_and_rotate">Aanpassen</string>
   <string name="crop_label">Bijgesneden foto\'s</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">OK</string>
@@ -211,12 +213,13 @@
   <string name="default_album_name">Nieuw album</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_album_failed">Kon album niet verwijderen</string>
-  <string name="delete_album_msg_format">Album \"%2$s\" verwijderen %1$s%3$s?</string>
+  <string name="delete_album_msg_format">Album \"%2$s\" verwijderen %1$s %3$s?</string>
   <string name="delete_album_success">Album verwijderd</string>
   <string name="delete_finish_format">%d verwijderd</string>
   <string name="delete_from_album">van album \"%s\" (alle apparaten)</string>
   <string name="delete_from_album_no_account">van album \"%s\"</string>
   <string name="delete_from_all_devices">Van alle apparaten</string>
+  <string name="delete_from_cloud">Items van Cloud album verwijderen</string>
   <string name="delete_from_devices">Alle gesynchroniseerde apparaten</string>
   <string name="delete_from_devices_album">Alle apparaten waar dit album mee is gesynchroniseerd</string>
   <string name="delete_from_homepage_album">Albums weergegeven in galerij</string>
@@ -424,6 +427,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="micloud_introduce">Foto\'s en video\'s automatisch back-uppen (Mi account is vereist)</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face_album_name">Meer personen</string>
+  <string name="move_to_other_albums_tip">Mi Cloud sync van dit album zal uitgeschakeld worden, als u deze verplaatst naar de lijst van andere albums, album nu verplaatsen?</string>
   <string name="must_pick_file">Kies een foto</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">U hebt geen internetverbinding</string>
@@ -454,19 +458,19 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_add_secret">Verbergen</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_detail">Details</string>
-  <string name="operation_disable_auto_upload">Synchronisatie met Mi Cloud uitschakelen</string>
   <string name="operation_do_delete_local_thumnail">Verwijderen van apparaat</string>
   <string name="operation_download">Origineel downloaden (%s)</string>
   <string name="operation_edit">Bewerken</string>
-  <string name="operation_enable_auto_upload">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="operation_enter_delete_local">Geback-upte foto\'s en video\'s van apparaat verwijderen</string>
   <string name="operation_failed">Uitvoering mislukt</string>
   <string name="operation_force_top">Pinnen</string>
   <string name="operation_hide">Verbergen</string>
   <string name="operation_in_process">Bezig…</string>
+  <string name="operation_move_to_other_albums">Verplaatsen naar andere albums</string>
   <string name="operation_not_show_in_photos_tab">Niet weergeven in foto\'s</string>
   <string name="operation_projection">Casten</string>
   <string name="operation_remove_from_face_album">Uit album verwijderen</string>
+  <string name="operation_remove_from_other_albums">Verwijderen uit andere albums</string>
   <string name="operation_remove_secret">Zichtbaar maken</string>
   <string name="operation_save">Opslaan</string>
   <string name="operation_send">Verzenden</string>
@@ -526,6 +530,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="posterize">Postergrootte</string>
   <string name="preparing_data">Een momentje…</string>
   <string name="projection_checkbox_text">Herinner deze weergave</string>
+  <string name="projection_device_connection_failed">Kon niet verbinden met projector</string>
   <string name="projection_local_mobile">Deze telefoon</string>
   <string name="projection_multi_title">Apparaten</string>
   <string name="projection_single_title">Casten naar %s</string>
@@ -554,6 +559,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="relation_text_mother">Moeder</string>
   <string name="relation_with_you">Relatie kiezen</string>
   <string name="release_space_finish_format">%s lokale opslag vrijgemaakt</string>
+  <string name="remove_from_other_albums_tip">Het album zou moet ingeschakeld zijn om te sync. met Mi Cloud wanneer deze vewijderd is uit de lijst van andere albums, album nu verwijderen?</string>
   <string name="remove_from_secret_fail">Kon niet verwijderen uit verborgen album</string>
   <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderen uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items kunnen niet verwijderd worden uit verborgen album. %1$s."</string>
@@ -670,6 +676,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="trash_bin">Prullenbak</string>
   <string name="trash_bin_summary">Blader door de geback-upte foto\'s die onlangs werden verwijderd</string>
   <string name="try_to_send">Versturen</string>
+  <string name="turn_off_and_move">Uitschakelen en verplaatsen</string>
+  <string name="turn_on_and_remove">Inschakelen en verwijderen</string>
   <string name="turn_on_sync">Synchronisatie inschakelen</string>
   <string name="unpublish_failed">Publiceren ongedaan maken mislukt</string>
   <string name="unpublish_succeeded">Publicatie album ongedaan gemaakt</string>
