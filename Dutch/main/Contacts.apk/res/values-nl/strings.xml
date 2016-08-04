@@ -200,6 +200,7 @@
   <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
   <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
+  <string name="contact_detail_calllog_empty">Geen gespreksgeschiedenis</string>
   <string name="contact_detail_menu_delete_miprofile">Visitekaartje verwijderen</string>
   <string name="contact_detail_miprofile_accept">Visitekaartjes  uitwisselen</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Kon visitekaartje niet uitwisselen</string>
@@ -453,6 +454,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="frequentList">Vaak</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Naam</string>
+  <string name="gallery">Gallerij</string>
   <string name="generic_no_account_prompt">Zorg dat uw contacten veilig zijn, zelfs wanneer u uw telefoon verliest: synchroniseer met een online service.</string>
   <string name="generic_no_account_prompt_title">Account toevoegen</string>
   <string name="ghostData_company">Bedrijf</string>
@@ -813,8 +815,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_labels_group">Profielfoto</string>
   <string name="photo_load_failed">Kon foto niet laden</string>
-  <string name="pick_new_photo">Nieuwe foto selecteren in galerij</string>
-  <string name="pick_photo">Foto kiezen in galerij</string>
+  <string name="pick_new_photo">Selecteer een nieuwe foto uit %s</string>
+  <string name="pick_photo">Kies een foto uit %s</string>
   <string name="pickerNewContactHeader">Nieuw contact maken</string>
   <string name="pickerNewContactText">Nieuw contact maken</string>
   <string name="picker_all_list_empty">Geen contacten</string>
