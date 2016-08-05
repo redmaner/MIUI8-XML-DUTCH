@@ -40,7 +40,49 @@
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google</string>
   <string name="hot_search">Populair</string>
-  <string name="hot_words">[{\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"MIUI\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"MIUI\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"视频\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\...(line truncated)...</string>
+  <string name="hot_words">[{\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"MIUI\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"MIUI\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"styijl\":\"tekst\",\"tekst\":\"video\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"muziek\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"thema\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijm\":\"tekst\",\"tekst\":\"fictie\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"wedstrijd\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"forum\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"winkelcentrum\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"lezen\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"nieuws\",\"type\":\"onbekend\",\"url\":\"\"}, {\"min_version\":-1,\"pakket\":\"com.android.quicksearchbox\",\"stijl\":\"tekst\",\"tekst\":\"leuk\",\"type\":\"onbekend\",\"url\":\"\"}]</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="loading">Just a sec…</string>
+  <string name="menu_help">Help</string>
+  <string name="menu_settings">Search settings</string>
+  <string name="network_unavailable">"Couldn't connect to the network"</string>
+  <string name="recent_apps">Recent apps</string>
+  <string name="recently_shortcut_label">Recent shortcuts</string>
+  <string name="remove_from_history">Do you want to remove this item from the search history?</string>
+  <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
+  <string name="search_apps">Search apps</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
+  <string name="search_group_fold">Hide</string>
+  <string name="search_group_unfold">More</string>
+  <string name="search_history">History</string>
+  <string name="search_in_app_store">Search Mi App Store</string>
+  <string name="search_in_web">Search the web</string>
+  <string name="search_keyword_quicksearchbox">Search</string>
+  <string name="search_path_quicksearchbox">Settings/Installed apps/Search</string>
+  <string name="search_settings">Search settings</string>
+  <string name="search_sources">Searchable items</string>
+  <string name="search_sources_summary">Choose what to search on the phone</string>
+  <string name="search_suggestion">Tips</string>
+  <string name="search_title_quicksearchbox">@string/app_name</string>
+  <string name="search_videos">Search videos</string>
+  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
+  <string name="search_widget">Search</string>
+  <string name="send_secret_code">Send code</string>
+  <string name="show_more">Show more</string>
+  <string name="suggest_open_app_failed">"Couldn't open this app"</string>
+  <string name="system_search_category_title">Phone</string>
+  <string name="voice_search_hint_quotation_end">\"</string>
+  <string name="voice_search_hint_quotation_start">\"</string>
+  <string name="voice_search_hint_title">Try saying:</string>
+  <string name="web_search_results">Baidu</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
+  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
+  <string name="xiaomi_search_label">Results</string>
+  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
+</resources>
+
   <string name="loading">Een momentje…</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Zoekinstellingen</string>
