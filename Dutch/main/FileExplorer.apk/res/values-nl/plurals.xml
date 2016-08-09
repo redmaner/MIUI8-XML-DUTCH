@@ -264,6 +264,14 @@
         <item quantity="few">video\'s</item>
         <item quantity="many">video\'s</item>
     </plurals>
+	<plurals name="user_follow_me_items">
+        <item quantity="other">volgers</item>
+        <item quantity="zero">volgers</item>
+        <item quantity="one">volger</item>
+        <item quantity="two">volgers</item>
+        <item quantity="few">volgers</item>
+        <item quantity="many">volgers</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s opmerkingen</item>
         <item quantity="zero">%1$s opmerkingen</item>
@@ -279,5 +287,13 @@
         <item quantity="two">%1$s video\'s</item>
         <item quantity="few">%1$s video\'s</item>
         <item quantity="many">%1$s video\'s</item>
+    </plurals>
+	<plurals name="follow_count">
+        <item quantity="other">%1$s volgers</item>
+        <item quantity="zero">%1$s volgers</item>
+        <item quantity="one">%1$s volger</item>
+        <item quantity="two">%1$s volgers</item>
+        <item quantity="few">%1$s volgers</item>
+        <item quantity="many">%1$s volgers</item>
     </plurals>
 </resources>
