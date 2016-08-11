@@ -2,9 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
   <string name="aaid_info">"
-Reclame identificatie is een permanente ID die uniek is voor uw apparaat. Verkopers gebruiken het om reclame inhoud die meer nuttig is voor u te selecteren.
-
-Als u kiest voor gepersonaliseerde advertenties niet te gebruiken, zal de reclame niet worden verminderd, maar de hoeveelheid advertenties nuttig voor u zullen aanzienlijk afnemen."</string>
+Reclame identificatie is een permanente ID die uniek is voor uw apparaat. Verkopers gebruiken het om reclame inhoud die meer nuttig is voor u te selecteren."</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie</string>
   <string name="ac_enable_summary">Wachtwoord instellen voor individuele apps</string>
@@ -314,6 +312,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="average_memory_use">Gemiddeld geheugengebruik</string>
   <string name="average_used">Gemiddeld gebruikt (%)</string>
+  <string name="avoid_ui">UI vermijden</string>
   <string name="awake">Stand-bytijd apparaat</string>
   <string name="back_key">Terug</string>
   <string name="background_data">Achtergrondgegevens</string>
@@ -2084,7 +2083,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_hifi_volume">HiFi volume</string>
   <string name="music_mi_effect_summary">Gebruik Mi geluidsversterker bij gebruik van koptelefoon</string>
   <string name="music_mi_effect_title">Mi geluidsversterker</string>
-  <string name="music_title_dolby_control">Dolby Digital Plus</string>
+  <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Muziekeffecten</string>
   <string name="mvno_match_data">MVNO waarde</string>
   <string name="nearby_wifi">Beschikbare netwerken</string>
@@ -2326,6 +2325,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_dtmf_tone_enable_title">Instellingen/Geluid &amp; trillen/Kiestonen</string>
   <string name="path_edge_handgrip">Instellingen/Edge controles</string>
   <string name="path_equalizer">Instellingen/Geluid &amp; trillen/Audio instellingen/Equalizer</string>
+  <string name="path_fluency_mode">Instellingen/Batterij &amp; prestatie/Systeem animaties</string>
   <string name="path_font_settings">Instellingen/Weergave/Systeem lettertype</string>
   <string name="path_gesture_wakeup_title">Instellingen/Weergave/Dubbel tikken om het scherm te ontwaken</string>
   <string name="path_gps_settings">Instellingen/Extra instellingen/Privacy/Locatie</string>
@@ -2759,9 +2759,6 @@ U verliest geen app gegevens."</string>
   <string name="restore_default_apn">Standaard APN instellingen herstellen.</string>
   <string name="restore_default_apn_completed">Herstellen van standaard APN instellingen voltooid.</string>
   <string name="restr_pin_enter_admin_pin">Beheerders PIN invoeren</string>
-  <string name="restrict_background_data_dialog_summary">Apps die op de achtergrond draaien ontvangen geen berichten</string>
-  <string name="restrict_background_data_notification_summary">Apps kunnen geen verbinding maken met het netwerk als de achtergrond data is beperkt</string>
-  <string name="restrict_background_data_title">Beperk achtergrond data</string>
   <string name="restriction_bluetooth_config_summary">Aanpassing van Bluetooth koppelingen en -instellingen toestaan</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Apps uw locatiegegevens laten gebruiken</string>
@@ -2891,6 +2888,8 @@ Om schermpinning te gebruiken:
   <string name="screensaver_settings_summary_sleep">Tijdens het opladen</string>
   <string name="screensaver_settings_title">Dagdromen</string>
   <string name="screensaver_settings_when_to_dream">Wanneer dagdromen</string>
+  <string name="screenshot">Schermafdruk</string>
+  <string name="screenshot_three_gesture">Naar beneden schuiven met drie vingers zal een schermafdruk maken</string>
   <string name="sd_card_settings_label">USB opslag</string>
   <string name="sd_card_storage">USB opslag</string>
   <string name="sd_eject">Gedeelde opslag ontkoppelen</string>
@@ -2919,7 +2918,7 @@ Om schermpinning te gebruiken:
   <string name="sdcard_unmount">USB opslag ontkoppelen</string>
   <string name="se_route_ese">Ingebed beveiligde element</string>
   <string name="se_route_uicc">Beveiligd element op SIM kaart</string>
-  <string name="search_about">"Over telefoon;Apparaatnaam;Model nummer;Android versie;MIUI versie;CPU;RAM;Intern geheugen;Baseband versie;Kernel versie;Bouw nummer;Status;Legale informatie"</string>
+  <string name="search_about">"Over telefoon;Model nummer;Android versie;MIUI versie;CPU;RAM;Intern geheugen;Baseband versie;Kernel versie;Bouw nummer"</string>
   <string name="search_accelerometer">Scherm automatisch draaien;Scherm draaien;Orientatie;Portret;Landschap</string>
   <string name="search_access_control">Privacy instellingen;Beveiliging Privacy;Gast;Gast modus</string>
   <string name="search_accessibility">Toegankelijkheid</string>
@@ -2942,8 +2941,8 @@ Om schermpinning te gebruiken:
    <string name="search_back_key">Terug;Terug knop;Terug knop</string>
   <string name="search_battery">Batterij &amp; prestatie;Batterij en prestatie;Batterij;Prestatie;Batterij bespaarder;Batterij besparen</string>
   <string name="search_battery_indicator">Batterij indicatie</string>
-  <string name="search_bluetooth">Bluetooth;Apparaatnaam;Zichtbaar;Bluetooth naam;Telefoonnaam</string>
-  <string name="search_bluetooth_device_name">Apparaatnaam;Bluetooth naam</string>
+  <string name="search_bluetooth">Bluetooth;Zichtbaar</string>
+  <string name="search_bluetooth_device_name">Apparaatnaam;Bluetooth naam;telefoonnaam</string>
   <string name="search_bluetooth_device_searchable">Zichtbaar;Zichtbaar;;Bluetooth naam</string>
   <string name="search_bluetooth_enable">Bluetooth;Bluetooth inschakelen;Bluetooth ingeschakeld</string>
   <string name="search_brightness">Helderheid;Schermhelderheid;Helderheidsweergave</string>
@@ -2961,7 +2960,7 @@ Om schermpinning te gebruiken:
   <string name="search_development_settings">Ontwikkelaarsopties</string>
   <string name="search_device_name">Apparaatnaam</string>
   <string name="search_device_status">Status</string>
-  <string name="search_display">Weergave;Scherm;Helderheid;Schermhelderheid;Helderheidsweergave;Omgevingslicht;Kleuren;Broekzak;Broekzakgesprekken;Kleurverzadiging;Handschoenmodus;Schermbeveiliging;Scherm automatisch draaien;Scherm draaien</string>
+  <string name="search_display">Weergave;Scherm;Ambient licht;Broekzak;Broekzakgesprekken</string>
   <string name="search_dndm_alarm_content">Uitzonderingen</string>
   <string name="search_dndm_auto_button_title">Tijd instellen</string>
   <string name="search_dndm_auto_time_setting">Tijd instellen;DND</string>
@@ -2969,11 +2968,12 @@ Om schermpinning te gebruiken:
   <string name="search_dndm_repeated_call_setting_title">Herhaalde bellers;Herhaalde oproepen</string>
   <string name="search_dndm_vip_call_setting_title">ViP;Uitzonderingen;Witte lijst;Witte lijst</string>
   <string name="search_dndm_wristband">Activeren met Mi Band;Mi Band</string>
-  <string name="search_do_not_disturb">Niet storen;DND;Vip;Tijd instellen;Uitzonderingen;Herhaalde oproepen</string>
+  <string name="search_do_not_disturb">Niet storen</string>
   <string name="search_dtmf_tone_enable_title">Schakel de aanraak kiestonen in;Aanraak kiestonen;Aanraaktonen;Aanraakgeluiden;Kiesgeluiden</string>
   <string name="search_edge_handgrip">Rand bedieningselementen</string>
   <string name="search_empty">Geen zoekresultaten</string>
   <string name="search_equalizer">Equalizer</string>
+  <string name="search_fluency_mode">Systeem animaties</string>
   <string name="search_font">Systeemlettertype;Lettertype;Lettertypes;Lettergrootte</string>
   <string name="search_gesture_wakeup_title">Dubbeltikken om scherm te ontwaken;Dubbeltikken om te ontwaken;Scherm ontwaken;dubbel tikken op scherm;Dubbel tikken</string>
   <string name="search_gps">GPS;Locatietoegang;Locatiediensten</string>
@@ -3009,7 +3009,7 @@ Om schermpinning te gebruiken:
   <string name="search_ntts_settings_title">TTS;TTS instellingen</string>
   <string name="search_oldman_mode">Lite modus;Ouderen modus;Lite modus</string>
   <string name="search_onekey_migrate">Transferen;Migreren met een toets</string>
-  <string name="search_other_advanced_settings">Aanvullende instellingen;Meer instellingen;Privacy instellingen;Privacy;Datum&amp;tijdDatum en tijd;Datum;Tijd;Taal &amp; invoer;Taal;Taal en invoer;Invoer;Eén-hand modus;Batterij &amp; prestatie;Batterij en prestatie;Batterij;Prestatie;Opslag;Geheugen;Meldingslicht;LED licht;LED;Koptelefoon &amp; audio effecten;Koptelefoon en audio effecten;Koptelefonen;Oortjes;Audio effecten;Knoppen;Sleutels;Toegankelijkheid;Beta functies;Lab functies;Ontwikkelaarsopties;Back-up &amp; herstel;Back-up;Herstellen;Transfereren;Mi Mover;Met één knop migreren</string>
+  <string name="search_other_advanced_settings">Aanvullende instellingen;Meer instellingen</string>
   <string name="search_owner_info_settings">Eigenaarsinfo</string>
   <string name="search_page_layout_settings">Tekstgrootte;Lettergrootte;Keine letters;Grootte letters;Medium letters;XXL letters;Enorme letters;Lettergrootten</string>
   <string name="search_pointer_speed">Aanwijzersnelheid</string>
@@ -3028,7 +3028,7 @@ Om schermpinning te gebruiken:
   <string name="search_ring_volume">Volumes/Beltoon &amp; meldingen;Wekker;Muziek</string>
   <string name="search_ringtone">Beltoon telefoon;Beltonen;Beltonen</string>
   <string name="search_safe_result_header_title_system">Privacy;Veiligheid;Onbekende bronnen;wachtwoord weergeven;app handtekening;App handtekeningen;Credentials wissen;Credential wissen</string>
-  <string name="search_screen_effect">Kleuren &amp; verzadiging;Kleuren &amp; contrast;kleur;kleuren;verzadiging;contrast</string>
+  <string name="search_screen_effect">Kleuren &amp; verzadiging;Kleuren &amp; contrast;kleur;kleur verzadiging;contrast</string>
   <string name="search_screen_key_long_press_timeout">Lange indruktijd instellen;Lang indrukken;Drukken;Aanraken en ingedrukt houden</string>
   <string name="search_screen_on_proximity_sensor_title">Broekzakgesprekken voorkomen;broekzak;broekzakgesprek;broekzakgesprekken</string>
   <string name="search_screen_paper_mode">Leesmodus;leesmodus;lees;blauw licht;geel licht;nachtmodus</string>
@@ -3044,8 +3044,8 @@ Om schermpinning te gebruiken:
   <string name="search_sms_delivered_sound_title">Bericht afgeleverd;afgeleverd bericht;berichtgeluid;afleveringsrapport</string>
   <string name="search_sms_received">SMS ontvangen;berichtgeluid;ontvangen bericht;beltoon bericht</string>
   <string name="search_sound_effects_enable_title">Aanraakgeluiden;Aanraakgeluiden inschakelen</string>
-  <string name="search_sound_settings">Geluid;Volumes;volume;Stille modus;stil;Wekker;Muziek;Trillen;trillen;Beltoon telefoon;beltoon;Standaard meldingsgeluid;meldingsgeluid;Bericht ontvangen;ontvangen bericht;Bericht afgeleverd;afgeleverd bericht;Aanraken;Aanraaktonen;tonen;Schermvergrendelingsgeluid;Audio instellen;audio;Ruis onderdrukken;ruis;onderdrukken;ruis onderdrukken</string>
-  <string name="search_status_bar">Meldingen &amp; status bar;Meldingen;Status bar;status;App meldingen;Positie schakelaars;schakelaar;schakelaars;Verbindingssnelheid;Providernaam;provider;Schermafdrukmelding;Schermafdruk;Vergrendelscherm</string>
+  <string name="search_sound_settings">Geluid;Volumes;trillen;Ruis onderdrukken;ruis;onderdrukken</string>
+  <string name="search_status_bar">Meldingen &amp; status bar;Meldingen;Status bar</string>
   <string name="search_status_bar_settings_custom_carrier">Providernaam bewerken;Providernaam</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Weergeven op het vergrendelingscherm;weergeven op het vergrendelingscherm</string>
   <string name="search_status_bar_settings_show_carrier">Providernaam weergeven;Providernaam</string>
@@ -3059,9 +3059,9 @@ Om schermpinning te gebruiken:
   <string name="search_storage_settings">Opruimer;Cache wissen;Cache</string>
   <string name="search_sync_settings">Sync;Auto;Alleen Wi-Fi</string>
   <string name="search_system_app_settings">Systeemapps</string>
-  <string name="search_tether">Tethering &amp; draagbare hotspot;Hotspot;Persoonlijke Hotspot;Tether;tethering;internet delen;Wi-Fi hotspot;Wi-Fi hotspot;Wi-Fi hotspot</string>
-  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering;tether</string>
-  <string name="search_tether_settings_title_usb">USB tethering;Tethering;tether;USB</string>
+  <string name="search_tether">Tethering &amp; draagbare hotspot;Tether;internet delen;Wi-Fi hotspot;Wi-Fi hotspot;Wi-Fi hotspot</string>
+  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering</string>
+  <string name="search_tether_settings_title_usb">USB tethering;Tethering;USB</string>
   <string name="search_theme_settings">Thema\'s;Thema;Personalisatie; Personaliseren</string>
   <string name="search_toggle_position">Posties schakelaars;Schakelaars;schakelaar;schakelaars wijzigen</string>
   <string name="search_touch_assistant">Quick ball;Aanraak assistent</string>
@@ -3069,17 +3069,17 @@ Om schermpinning te gebruiken:
   <string name="search_trusted_credentials">Vertrouwde referenties;App handtekening;App handtekeningen;Referenties;Handtekening</string>
   <string name="search_tts_settings_title">Tekst naar spraak uitvooer;Texkst naar spraak</string>
   <string name="search_turn_on_security_lock">Schermvergrendeling wijzigen;Schermvergrendeling;Schermvergrendeling bewerken;schermvergrendeling bewerken;schermvergrendeling</string>
-  <string name="search_unlock_set">Automatische schermvergrendeling;Schermvergrendeling;Schermvergrendeling;Info eigenaar;Slaap;Schermvergrendeling ontwaken;Ontwaken;Telefoon ontwaken;Apparaat ontwaken;Wachtwoord;Broekzakgesprekken voorkomen;broekzakgesprekken;broekzak;Met Bluetooth ontgrendelen;ontgrendelen;passcode;schermvergrendeling;PIN;Ontgrendelen met Bluetooth apparaat;Vergrendelscherm &amp; wachtwoord</string>
+  <string name="search_unlock_set">Schermvergrendeling &amp;Wachtwoord;Ontgrendelen met Bluetooth;passcode;Ontgrendelen met Bluetooth apparaat</string>
   <string name="search_user_agreement">Servicevoorwaarden</string>
   <string name="search_user_dict_settings_title">Persoonlijk woordenboek;Woordenboek</string>
   <string name="search_vibrate_in_silent_title">Trillen indien stil;trillen;trillen</string>
   <string name="search_vibrate_on_touch_title">Trillen bij aanraken inschakelen;Trillen bij aanraken;trillen;trillen</string>
   <string name="search_vibrate_when_ringing_title">Ook trillen bij oproepen;trillen;trillen</string>
-  <string name="search_virtual_sim">Internationale mobiele data;Data roaming;Roaming;Mobiele data roaming;Lab functies</string>
+  <string name="search_virtual_sim">Internationale mobiele data;Data roaming;Mobiele data roaming</string>
   <string name="search_vpn">VPN;VPN toevoegen;VPN inschakelen</string>
   <string name="search_vpn_enable">VPN inschakelen;VPN</string>
   <string name="search_vpn_settings_password">VPN wachtwoord;VPN beschermen</string>
-  <string name="search_wakeup_for_keyguard_notification_title">Scherm ontwaken voor meldingen;scherm ontwaken;apparaat ontwaken</string>
+  <string name="search_wakeup_for_keyguard_notification_title">Scherm ontwaken voor meldingen;scherm ontwaken;apparaat ontwaken;telefoon ontwaken</string>
   <string name="search_wallpaper">Achtergrond;Startscherm;Vergrendelscherm</string>
   <string name="search_wifi">Wi-Fi;Wi-Fi;Geavanceerde instellingen;Wi-Fi;Draadloze netwerken;Draadloos</string>
   <string name="search_wifi_advanced_ip_address_title">IP adres;IP</string>
@@ -3090,7 +3090,7 @@ Om schermpinning te gebruiken:
   <string name="search_wifi_install_credentials">Certificaten installeren;Certificaten</string>
   <string name="search_wifi_menu_p2p">Wi-Fi Direct;Wi-Fi Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN invoer;WPS;WPS PIN</string>
-  <string name="search_wifi_more_settings">Meer;Vliegmodus;Vliegmodus;Vliegtuig;Vlucht;VPN;Tethering &amp;tethering;hotspot;Draadloos scherm;Internationale mobiele data;NFC;Android Beam;Beam;Veilige element positie</string>
+  <string name="search_wifi_more_settings">Meer;Draadloos</string>
   <string name="search_wifi_scan_always_available">Scannen is altijd beschikbaar;Netwerken scannen;Wi-Fi scannen;Wi-Fi scannen</string>
   <string name="search_wifi_setting_frequency_band_title">Wi-Fi frequentieband;Wi-Fi frequentie;Wi-Fi frequentie;Wi-Fi frequentie;Frequentie nband</string>
   <string name="search_wifi_setting_sleep_policy_title">Wi-Fi ingeschakeld houden tijdens slaap;Wi-Fi ingeschakeld houden tijdens slaap;Wi-Fi ingeschakeld houden tijdens slaap;Wi-Fi ingeschakeld houden tijdens slaap;Wi-Fi ingeschakeld houden tijdens slaap;Wi-Fi ingeschakeld houden tijdens slaap</string>
@@ -3629,6 +3629,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tether_settings_title_usb">USB tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
+  <string name="tether_share_qrcode_title">QR code delen</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="tethering_settings_not_available">Tethering instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="theme_settings_title">Thema\'s</string>
