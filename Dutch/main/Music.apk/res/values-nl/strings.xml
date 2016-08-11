@@ -21,8 +21,8 @@
   <string name="action_item_send">Verzenden</string>
   <string name="action_item_share">Delen</string>
   <string name="action_settings">Instellingen</string>
-  <string name="ad_close">sluiten</string>
-  <string name="ad_extension">promotie</string>
+  <string name="ad_close">Sluiten</string>
+  <string name="ad_extension">Promotie</string>
   <string name="add_music">Nummers toevoegen</string>
   <string name="add_to_last_of_playlist">Toevoegen aan het einde van de afspeellijst</string>
   <string name="alaka_required">Dit nummer is niet beschikbaar</string>
@@ -51,7 +51,7 @@
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
   <string name="artist">Artiesten</string>
-  <string name="artist_album">Ablum</string>
+  <string name="artist_album">Ablums</string>
   <string name="artist_favor">Aanbevolen</string>
   <string name="artist_is_empty">Artiestennaam kan niet leeg zijn.</string>
   <string name="artist_name">Artiest</string>
@@ -211,7 +211,7 @@
   <string name="download_method">Download</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
   <string name="download_paused">Download gepauzeerd</string>
-  <string name="download_paused_in_power_save_mode">Het apparaat is in Power Save Mode, download gepauzeerd</string>
+  <string name="download_paused_in_power_save_mode">Download worden gepauzeerd wanneer batterij bespaader ingeschakeld is</string>
   <string name="download_pending">Download in de wacht</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">Downloaden…</string>
@@ -365,9 +365,9 @@
   <string name="local_music_empty">Lokale afspeellijst is leeg</string>
   <string name="local_music_empty_goto_online">Geen nummers gevonden</string>
   <string name="local_music_is_not_available">Lokale muziek niet beschikbaar.</string>
-  <string name="local_page_artist">Artiesten volgen</string>
-  <string name="local_page_custom_subtitle">Dagelijkse nummers</string>
-  <string name="local_page_custom_title">Privé aangepast</string>
+  <string name="local_page_artist">Gevolgde artiesten</string>
+  <string name="local_page_custom_subtitle">Dagelijkse nieuwe nummers</string>
+  <string name="local_page_custom_title">Voor u</string>
   <string name="local_page_song_all">Alle nummers</string>
   <string name="local_page_song_download">Lokale nummers</string>
   <string name="local_page_song_favorite">Favoriete nummers</string>
@@ -501,7 +501,7 @@
   <string name="nowplaying_menu_item_delete">Verwijderen</string>
   <string name="ok">OK</string>
   <string name="one_month">1 maand</string>
-  <string name="online_bill">Rekening</string>
+  <string name="online_bill">Hitlijsten</string>
   <string name="online_favor">Aanbevolen</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">Alle gedownloade nummers van deze afspeellijst worden verwijderd van de interne opslag.</string>
@@ -509,7 +509,7 @@
   <string name="online_music_enabled_summary">Beluister en download je favoriete liedjes. Bekijk de top nummers en curator afspeellijsten waar je maar wilt!</string>
   <string name="online_music_enabled_title">Hier gratis streamen</string>
   <string name="online_playlist_is_empty">De online afspeellijst is leeg!</string>
-  <string name="online_recommend">Lijst</string>
+  <string name="online_recommend">Aanbevolen</string>
   <string name="online_special">Speciaal</string>
   <string name="open_download">Openen</string>
   <string name="order_pending">Bevestiging afwachten</string>
@@ -538,12 +538,12 @@
   <string name="playback_failed_no_title_by_bad_file">Nummer afspelen mislukt. Bestandsformaat niet ondersteund of het bestand bestaat niet.</string>
   <string name="playlist_deleted_message">Afspeellijst verwijderd.</string>
   <string name="playlist_renamed_message">Afspeellijst hernoemd.</string>
-  <string name="playlist_type_album">Album</string>
+  <string name="playlist_type_album">Albums</string>
   <string name="playlist_type_artist">Artiest</string>
-  <string name="playlist_type_billboard">Hitlijst</string>
+  <string name="playlist_type_billboard">Hitlijsten</string>
   <string name="playlist_type_fm">FM</string>
-  <string name="playlist_type_my">Mijn afspeellijst</string>
-  <string name="playlist_type_recommend">Aanbevolen afspeellijst</string>
+  <string name="playlist_type_my">Mijn afspeellijsten</string>
+  <string name="playlist_type_recommend">Aanbevolen afspeellijsten</string>
   <string name="playlist_unavailable">De afspeellijst is niet beschikbaar. Om hem te verwijderen, houd ingedrukt en kies vervolgens verwijderen.</string>
   <string name="please_download_first">Download eerst.</string>
   <string name="please_search_or_select">Zoek of selecteer een veld</string>
