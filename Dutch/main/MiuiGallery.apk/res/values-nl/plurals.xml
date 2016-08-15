@@ -50,15 +50,27 @@
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Kon %1$d foto\'s niet downloaden, opnieuw proberen?</item>
-        <item quantity="one">Kon één foto niet downloaden, opnieuw proberen?</item>
+        <item quantity="one">Kon foto niet downloaden, opnieuw proberen?</item>
+    </plurals>
+	<plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Kon %1$d foto\'s niet downloaden, maak verbinding met het netwerk en probeer opnieuw</item>
+        <item quantity="one">Kon foto niet downloaden, maak verbinding met het netwerk en probeer opnieuw</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">Kon %1$d foto\'s (%2$dMB) niet downloaden, opnieuw proberen?</item>
-        <item quantity="one">Kon één foto (%2$dMB) niet downloaden, opnieuw proberen?</item>
+        <item quantity="one">Kon foto (%2$dMB) niet downloaden, opnieuw proberen?</item>
+    </plurals>
+	<plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Kon %1$d foto\'s niet downloaden (%2$dMB), maak verbinding met het netwerk en probeer opnieuw</item>
+        <item quantity="one">Kon foto niet downloaden (%2$dMB), maak verbinding met het netwerk en probeer opnieuw</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Stoppen met %d resterende foto\'s downloaden?</item>
         <item quantity="one">Stoppen met de resterende foto downloaden?</item>
+    </plurals>
+	<plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d toegevoegde cloud foto\'s, uitschakelen \"Alleen lokale albums weergeven\" om weer te geven.</item>
+        <item quantity="one">%d toegevoegde cloud foto, uitschakelen \"Alleen lokale albums weergeven\" om weer te geven.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%1$d foto\'s verwijderen?</item>
