@@ -3,7 +3,7 @@
   <string name="SMTP_independent_verification_text">SMTP onafhankelijke verificatie</string>
   <string name="SMTP_password_text">Wachtwoord</string>
   <string name="SMTP_username_text">Gebruikersnaam</string>
-  <string name="account_duplicate_dlg_message_fmt">"        U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_name_toast">Kan geen account aanmaken. Een account met dezelfde naam al bestaat</string>
   <string name="account_options_sync_title">Synchronisatie</string>
@@ -74,7 +74,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_exchange_no_certificate">Geen</string>
   <string name="account_setup_failed_certificate_inaccessible">Het certificaat is ongeldig of niet toegankelijk.</string>
   <string name="account_setup_failed_certificate_required">Er is een clientcertificaat vereist. Wilt u verbinding maken met de server met een client certificaat?</string>
-  <string name="account_setup_failed_check_credentials_message">"         De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw."</string>
+  <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
   <string name="account_setup_failed_dlg_auth_message">Gebruikersnaam of wachtwoord is onjuist.</string>
   <string name="account_setup_failed_dlg_bar_title">Manieren om aan te melden bij %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Kan geen veilige verbinding met de server tot stand brengen.</string>
@@ -105,9 +105,9 @@ Nu bijwerken?"</string>
   <string name="account_setup_incoming_security_label">Beveiligingstype</string>
   <string name="account_setup_incoming_security_none_label">Geen</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"        SSL/TLS (alle certificaten accepteren)"</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (alle certificaten accepteren)</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">"        STARTTLS (alle certificaten accepteren)"</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (alle certificaten accepteren)</string>
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_username_label">Gebruikersnaam</string>
   <string name="account_setup_incoming_username_label_default_hint">Mag domeinnaam bevatten</string>
@@ -138,12 +138,13 @@ Nu bijwerken?"</string>
 		 voltooien?"</string>
   <string name="account_setup_security_required_title">Extern beveiligingsbeheer</string>
   <string name="account_setup_server_acc_manager_title">Accounts</string>
-  <string name="account_setup_username_password_toast">"        Voer een geldig e-mailadres en wachtwoord in."</string>
+  <string name="account_setup_username_password_toast">Voer een geldig e-mailadres en wachtwoord in.</string>
   <string name="account_sync_off">Accountsynchronisatie is uitgeschakeld.</string>
   <string name="account_waiting_for_folders_msg">Mappenlijst laden…</string>
   <string name="actionbar_large_unread_count">Meer dan %1$d ongelezen</string>
   <string name="activity_folder_selection">Map selecteren</string>
   <string name="activity_mailbox_selection">Account kiezen</string>
+  <string name="ad_merge">AD&amp;Opmerkingen orderen</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_account_keywords">Add account;add mail account</string>
   <string name="add_attachment">Bijlage toevoegen</string>
@@ -221,7 +222,6 @@ Nu bijwerken?"</string>
   <string name="changepw_dialog_tips">Wachtwoord opnieuw invoeren voor %s</string>
   <string name="chat_item_msg_people_unit">Personen</string>
   <string name="chat_item_msg_user_etc">etc.</string>
-  <string name="chat_view_description">Bekijk e-maildiscussies als conversatiebubbels</string>
   <string name="chat_view_title">Conversatieweergave</string>
   <string name="check_setup_data">"    Serverinstellingen valideren…"</string>
   <string name="choosertitle_sharevia">Delen via</string>
@@ -322,9 +322,7 @@ Nu bijwerken?"</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server fout.</string>
   <string name="dialog_insufficient_space_on_external">Kan bijlage niet downloaden. Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_insufficient_space_on_internal">Niet genoeg ruimte op interne opslag.</string>
-  <string name="disable_admin_warning">"WAARSCHUWING: als u de toestemming van de E-mailapp
-         voor het beheren van uw apparaat uitschakelt, worden alle e-mailaccounts verwijderd waarvoor deze rechten vereist zijn, samen met de bijbehorende 
-         berichten, contacten, agenda afspraken en andere gegevens."</string>
+  <string name="disable_admin_warning">"WAARSCHUWING: als u de toestemming van de E-mailapp voor het beheren van uw apparaat uitschakelt, worden alle e-mailaccounts verwijderd waarvoor deze rechten vereist zijn, samen met de bijbehorende  berichten, contacten, agenda afspraken en andere gegevens."</string>
   <string name="discard">Verwijderen</string>
   <string name="discard_drafts">Concepten verwijderen</string>
   <string name="dismiss_tip_hover_text">Tip negeren</string>
@@ -374,10 +372,7 @@ Nu bijwerken?"</string>
          Deze gebeurtenis is geannuleerd
          voor:
 %s "</string>
-  <string name="exception_updated">"
-         De details van deze gebeurtenis zijn veranderd
-         voor:
-%s "</string>
+  <string name="exception_updated">De details van deze gebeurtenis zijn veranderd voor: %s</string>
   <string name="exchange_name">Zakelijk</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Ontvangersdetails uitvouwen</string>
@@ -597,7 +592,7 @@ Nu bijwerken?"</string>
   <string name="message_invite_title">Agenda uitnodiging</string>
   <string name="message_saved">Bericht opgeslagen als concept.</string>
   <string name="message_view_attachment_background_load">"Bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden."</string>
-  <string name="mibill_privacy_policy_button1">Niet akkoord</string>
+  <string name="mibill_privacy_policy_button1">Later</string>
   <string name="mibill_privacy_policy_button2">Akkoord</string>
   <string name="mibill_privacy_policy_description">Laat Mi Wallet analyseren en uw facturen automatisch beheren. Deze functie wordt standaard uitgeschakeld voor werkgerelateerde e-mailadressen.</string>
   <string name="mibill_privacy_policy_link">"Door deze functie te gebruiken gaat u akkoord met onze "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Algemene voorwaarden&lt;/a&gt;</string>
@@ -669,8 +664,7 @@ Nu bijwerken?"</string>
   <string name="password_expire_warning_ticker_fmt">"Voor \"%s\" moet u uw pincode of wachtwoord 
             voor schermvergrendeling wijzigen."</string>
   <string name="password_expired_content_title">Wachtwoord schermvergrendeling verlopen</string>
-  <string name="password_expired_dialog_content_fmt">"         De gegevens voor %s worden gewist op uw apparaat. 
-         U kunt het account herstellen door uw PIN code of wachtwoord voor schermvergrendeling te wijzigen. Nu wijzigen?"</string>
+  <string name="password_expired_dialog_content_fmt">De gegevens voor %s worden gewist op uw apparaat. U kunt het account herstellen door uw PIN code of wachtwoord voor schermvergrendeling te wijzigen. Nu wijzigen?</string>
   <string name="password_expired_dialog_title">Wachtwoord schermvergrendeling verlopen</string>
   <string name="password_expired_ticker">Uw PIN code of wachtwoord voor schermvergrendeling is verlopen.</string>
   <string name="path_about_account_setting">Mail/Instellingen</string>
@@ -731,7 +725,7 @@ Nu bijwerken?"</string>
   <string name="preference_sender_image_description">Afbeelding van afzender weergeven in Postvak IN</string>
   <string name="preference_sender_image_title">Afbeelding van afzender weergeven in Postvak IN</string>
   <string name="preferences_signature_dialog_title">Handtekening</string>
-  <string name="preferences_signature_summary_not_set">Geen</string>
+  <string name="preferences_signature_summary_not_set">Niet ingesteld</string>
   <string name="preferences_signature_title">Handtekening</string>
   <string name="preview_attachment">Voorbeeld</string>
   <string name="previous_action">Vorige</string>
@@ -767,9 +761,10 @@ Nu bijwerken?"</string>
   <string name="quick_3">Ik zal dit later lezen en kom er dan op terug.</string>
   <string name="quick_4">Laten we een afspraak maken om dit te bespreken.</string>
   <string name="quick_reply_dialog_title">Kiezen</string>
-  <string name="quick_reply_hint">Allen %1$d beantwoorden</string>
+  <string name="quick_reply_hint">%1$d beantwoorden</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
+  <string name="quick_reply_hint_reply_only_from">Snel antwoord (alleen afzender)</string>
   <string name="quick_responses_empty_view">Geen snelle reacties.</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">--------  Origineel  --------</string>
@@ -832,16 +827,14 @@ Nu bijwerken?"</string>
   <string name="search_tabs_name_subject">Onderwerp</string>
   <string name="search_title">Uniforme e-mail</string>
   <string name="search_txt_size_limit_prompt">Zoekwoord moet groter zijn dan 3 tekens</string>
-  <string name="security_changed_ticker_fmt">"            De beveiligingsinstellingen van het account \"%s\" zijn gewijzigd, er is geen 
-            gebruikersactie vereist."</string>
-  <string name="security_needed_ticker_fmt">"            Account \"%s\" vereist een update van de beveiligingsinstellingen."</string>
+  <string name="security_changed_ticker_fmt">De beveiligingsinstellingen van het account \"%s\" zijn gewijzigd, er is geen gebruikersactie vereist.</string>
+  <string name="security_needed_ticker_fmt">Account \"%s\" vereist een update van de beveiligingsinstellingen.</string>
   <string name="security_notification_content_change_title">"Beveiligingsbeleid 
          gewijzigd"</string>
   <string name="security_notification_content_unsupported_title">"Kan niet voldoen aan
          beveiligingsvereisten"</string>
   <string name="security_notification_content_update_title">Beveiligingsupdate vereist</string>
-  <string name="security_unsupported_ticker_fmt">"            Account \"%s\" kan niet worden gesynchroniseerd wegens 
-    beveiligingsvereisten."</string>
+  <string name="security_unsupported_ticker_fmt">"Account \"%s\" kan niet worden gesynchroniseerd wegens beveiligingsvereisten."</string>
   <string name="select_attachment_type">Bijlagetype selecteren</string>
   <string name="select_no_file">Geen geselecteerde bijlagen om te delen</string>
   <string name="selected_lable">Geselecteerd</string>
@@ -857,6 +850,11 @@ Nu bijwerken?"</string>
   <string name="sent_folder_selection_title">"Map 'Verzonden items' van server selecteren voor %s"</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Kon niet valideren van servercertificaat
 \u0009 (maak er u zeker van dat 'Auto Sync tijd' ingeschakeld is)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Te veel foute aanmeldingspogingen</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Te veel aanmeldingspogingen</string>
+  <string name="ser_resp_err_map_mailbox_locked">E-mail account is beschermd met wachtwoord</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Geen e-mail accounts</string>
+  <string name="ser_resp_err_map_max_connections">Te veel verbindingspogingen</string>
   <string name="ser_resp_err_map_nouser">Gebruiker bestaat niet</string>
   <string name="ser_resp_err_map_or">%1$s of %2$s</string>
   <string name="ser_resp_err_map_pserr">Onjuiste gebruikersnaam of wachtwoord</string>
@@ -893,7 +891,7 @@ Nu bijwerken?"</string>
   <string name="special_text_sender_zh">Afzender</string>
   <string name="storage">Opslag</string>
   <string name="str_select_all">Alles selecteren</string>
-  <string name="str_select_none">Alles deselecteren</string>
+  <string name="str_select_none">Deselecteren</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Onderwerp</string>
   <string name="sync_error">Kon niet synchroniseren.</string>
@@ -909,7 +907,6 @@ Nu bijwerken?"</string>
   <string name="tablet">Tablet</string>
   <string name="tap_to_configure">Raak aan om in te stellen</string>
   <string name="tap_to_enable_sync">Raak aan om in te schakelen.</string>
-  <string name="tip_cannot_switchview_in_unread_folder">Niet in staat om het zicht te veranderen in ongelezen mail aggregatie modus</string>
   <string name="to">Aan</string>
   <string name="to_heading">"Aan: "</string>
   <string name="toast_bar_fail_synchronization">Kan niet verbinden met netwerk</string>
@@ -920,6 +917,7 @@ Nu bijwerken?"</string>
   <string name="too_large_to_attach_additional">Bestand niet bijgevoegd. Limiet van %1$s bereikt.</string>
   <string name="too_large_to_attach_multiple">Een of meer bestanden niet bijgevoegd. Limiet van %1$s.</string>
   <string name="too_large_to_attach_single">Kan bestand groter dan %1$s niet bijvoegen.</string>
+  <string name="topic_merge">Thema\'s samenvoegen</string>
   <string name="trash_folder_selection_title">Prullenbak van server selecteren voor %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
