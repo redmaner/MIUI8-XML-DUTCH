@@ -2,14 +2,14 @@
 <resources>
   <string name="app_name">Zoeken</string>
   <string name="apps_search_activity"/>
-  <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_input">https://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_launcher">https://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
-  <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="baidu_search_url_from_default">https://www.google.nl/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://www.google.nl/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.nl/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.nl/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="clear_history">Geschiedenis wissen</string>
-  <string name="clear_shortcuts">Verwijder snelkoppelingen</string>
-  <string name="clear_shortcuts_agree">Verwijder snelkoppelingen</string>
+  <string name="clear_shortcuts">Snelkoppelingen verwijderen</string>
+  <string name="clear_shortcuts_agree">Snelkoppelingen verwijderen</string>
   <string name="clear_shortcuts_disagree">Niet verwijderen</string>
   <string name="clear_shortcuts_prompt">Dit verwijdert alle snelkoppelingen naar recent gekozen suggesties. (Om browsergeschiedenis te wissen, gebruik de browserinstellingen)</string>
   <string name="clear_shortcuts_summary">Verwijder recente snelkoppelingen van zoeksuggesties</string>
@@ -17,7 +17,7 @@
   <string name="connect_and_retry">Verbind met internet en probeer opnieuw</string>
   <string name="corpus_description_apps">Namen van geïnstalleerde applicaties</string>
   <string name="corpus_description_web">Web, favorieten en browsergeschiedenis</string>
-  <string name="corpus_hint_apps">Zoek apps</string>
+  <string name="corpus_hint_apps">Apps doorzoeken</string>
   <string name="corpus_label_apps">Apps</string>
   <string name="corpus_label_global">Alles</string>
   <string name="corpus_label_web">Internet</string>
@@ -27,11 +27,9 @@
   <string name="cta_declaration_negative_text">Afsluiten</string>
   <string name="cta_declaration_positive_text">Toestaan</string>
   <string name="cta_declaration_title">Servicevoorwaarden</string>
-  <string name="default_hint">Zoek apps, muziek, video\'s, boeken…</string>
-  <string name="default_search_domain">.google.com</string>
-  <string name="device_settings_category_title">Verwijder snelkoppelingen</string>
-  <string name="distance_unit_kilometer">km</string>
-  <string name="distance_unit_meter">m</string>
+  <string name="default_hint">Zoek apps, muziek, video\'s en boeken…</string>
+  <string name="default_search_domain">.google.nl</string>
+  <string name="device_settings_category_title">Snelkoppelingen verwijderen</string>
   <string name="google_app_label">Google Search</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -42,34 +40,37 @@
   <string name="hot_search">Populair</string>
   <string name="loading">Een momentje…</string>
   <string name="menu_help">Help</string>
-  <string name="menu_settings">Zoekinstellingen</string>
-  <string name="network_unavailable">Kon niet verbinden met het netwerk</string>
-  <string name="recent_apps">Aanbevolen apps</string>
+  <string name="menu_settings">Instellingen doorzoeken</string>
+  <string name="network_unavailable">Kan niet verbinden met het netwerk</string>
+  <string name="recent_apps">Recente apps</string>
   <string name="recently_shortcut_label">Recente snelkoppelingen</string>
-  <string name="remove_from_history">Verwijderen uit zoekgeschiedenis?</string>
-  <string name="remove_from_history_failed">Verwijderen uit zoekgeschiedenis mislukt</string>
+  <string name="remove_from_history">Wilt u dit item verwijderen uit de zoekgeschiedenis?</string>
+  <string name="remove_from_history_failed">Kan dit item niet verwijderen uit geschiedenis</string>
+  <string name="search_apps">Apps doorzoeken</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
   <string name="search_group_fold">Verbergen</string>
   <string name="search_group_unfold">Meer</string>
   <string name="search_history">Geschiedenis</string>
-  <string name="search_in_app_store">Zoek in Mi app store</string>
-  <string name="search_in_web">Online zoeken</string>
+  <string name="search_in_app_store">Mi App Store doorzoeken</string>
+  <string name="search_in_web">Het web doorzoeken</string>
+  <string name="search_keyword_quicksearchbox">Zoeken</string>
+  <string name="search_path_quicksearchbox">Instellingen/Geinstalleerde apps/Zoeken</string>
   <string name="search_settings">Instellingen doorzoeken</string>
   <string name="search_sources">Te doorzoeken items</string>
-  <string name="search_sources_summary">Kies wat u wilt zoeken op telefoon</string>
+  <string name="search_sources_summary">Kies wat er moet worden doorzocht op de telefoon</string>
   <string name="search_suggestion">Tips</string>
+  <string name="search_videos">Video\'s doorzoeken</string>
+  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
   <string name="search_widget">Zoeken</string>
   <string name="send_secret_code">Code verzenden</string>
   <string name="show_more">Meer weergeven</string>
-  <string name="suggest_open_app_failed">Kon deze app niet openen</string>
+  <string name="suggest_open_app_failed">Kan deze app niet openen</string>
   <string name="system_search_category_title">Telefoon</string>
-  <string name="voice_search_hint_quotation_end">\"</string>
-  <string name="voice_search_hint_quotation_start">\"</string>
-  <string name="voice_search_hint_title">"Probeer te zeggen "</string>
-  <string name="web_search_results">Webresultaten</string>
-  <string name="xiaomi_hint"/>
+  <string name="voice_search_hint_title">Probeer te zeggen:</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
   <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
   <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
-  <string name="xiaomi_search_label">Online resultaten</string>
+  <string name="xiaomi_search_label">Resultaten</string>
   <string name="xiaomi_source_url">https://search.browser.miui.com</string>
-  <string name="xiaomi_suggest_base"/>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>

@@ -41,7 +41,7 @@
   <string name="check_update_when_wifi_available">Alleen met Wi-Fi</string>
   <string name="check_update_when_wifi_available_sum">Alleen updates downloaden met Wi-Fi</string>
   <string name="clean_up_button">Opruimen</string>
-  <string name="comment_invalid">Beoordeel de update (druk op de sterren)</string>
+  <string name="comment_invalid">Beoordeel de update (tik op de sterren)</string>
   <string name="comment_publish">Indienen</string>
   <string name="comment_sending">Reactie versturen…</string>
   <string name="comment_upload_failed">Kan reactie niet versturen</string>
@@ -92,7 +92,8 @@
   <string name="later">Later</string>
   <string name="loading">Aanvragen…</string>
   <string name="log_share">Delen</string>
-  <string name="menu_title_current_version_log">Update changelog</string>
+  <string name="menu_more_button">Menu</string>
+  <string name="menu_title_current_version_log">Wat is er nieuw</string>
   <string name="menu_title_download_current_rom">Updatepakket downloaden</string>
   <string name="menu_title_pick_rom_file">Updatepakket selecteren</string>
   <string name="menu_title_recovery">Herstarten in recoverymodus</string>
@@ -100,7 +101,6 @@
   <string name="miui_summary_has_new_version">"  Nieuwe update gevonden  "</string>
   <string name="miui_summary_no_new_version">Geen update beschikbaar</string>
   <string name="miui_summary_now_version">Kan niet verbinden met netwerk</string>
-  <string name="miui_summary_slogan">"  Yours by design  "</string>
   <string name="miui_summary_updating">"  Updaten…  "</string>
   <string name="monthly_build">Maandelijks</string>
   <string name="my_best_update">Beste update</string>
@@ -123,13 +123,16 @@
   <string name="notification_load_title_alpha">Inloggen op je Mi Account</string>
   <string name="notification_load_title_dev">Inloggen op je Mi Account</string>
   <string name="notification_reboot_btn">Herstart</string>
-  <string name="notification_reboot_seccess_des">Tik om de update info weer te geven.</string>
+  <string name="notification_reboot_seccess_des">Tik om de update-info weer te geven.</string>
   <string name="notification_reboot_seccess_title">Toestel geüpdatet!</string>
-  <string name="notification_reboot_summary_hm">Aanraken om uw apparaat opnieuw op te starten.</string>
+  <string name="notification_reboot_summary_hm">Tik om uw apparaat opnieuw op te starten.</string>
   <string name="notification_reboot_title">Herstarten om update te voltooien</string>
   <string name="notification_reboot_title_hm">Herstarten om update te voltooien</string>
   <string name="notification_restart">Opnieuw updaten</string>
   <string name="notification_share">Delen</string>
+  <string name="notification_uncrypt_summary_hm">Aanraken om uw apparaat te herstarten.</string>
+  <string name="notification_uncrypt_title_hm">Herstarten om udate toe te passen</string>
+  <string name="notification_uncrypting">Decoderen van update</string>
   <string name="notification_update_new_version">Update beschikbaar</string>
   <string name="notification_update_now">Nu updaten</string>
   <string name="notification_updating">Updaten…</string>
@@ -166,7 +169,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_auto">Automatisch controleren op updates</string>
   <string name="set_auto_msg">Updates automatisch downloaden bij verbinding met Wi-Fi en \'s nachts installeren?</string>
   <string name="set_auto_update_title">Automatisch updaten?</string>
-  <string name="set_installfail_full_msg">"Kan niet updaten op dit moment. Druk op \"OK\" om deze fout aan onze ontwikkelaars te melden."</string>
+  <string name="set_installfail_full_msg">Kan niet updaten op dit moment. Tik op OK om deze fout aan onze ontwikkelaars te melden.</string>
   <string name="set_installfail_msg">Downloaden van update met uw mobiele dataverbinding zal uw dataverbruik verhogen.</string>
   <string name="set_installfail_title">De update opnieuw downloaden?</string>
   <string name="set_installfail_title_full">Update mislukt</string>
@@ -201,6 +204,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="timer_title">Toestel zal herstarten binnen %d seconden.</string>
   <string name="title_toast_auto">Updates worden automatisch gedownload</string>
   <string name="top_secret_build">Top secret</string>
+  <string name="uncrypt_title">Decoderen (%s)</string>
   <string name="unkown_error_title">Kon niet downloaden</string>
   <string name="unstable_build">Onstabiel</string>
   <string name="update_comment_hint">(optioneel)</string>
@@ -259,6 +263,6 @@ Kon feedback niet indienen</string>
   <string name="weekly_build">Wekelijks</string>
   <string name="welcom_button">Ok</string>
   <string name="welcom_message">Je bent klaar om te beginnen</string>
-  <string name="welcom_title">Welkom bij MIUI 7</string>
+  <string name="welcom_title">Welkom bij MIUI 8</string>
   <string name="worst_update">Slechtste update tot nu toe</string>
 </resources>

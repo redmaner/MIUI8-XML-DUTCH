@@ -81,6 +81,10 @@
         <item quantity="other">%1$d apps gebruikten geheugen in de afgelopen %2$s</item>
         <item quantity="one">1 app gebruikte geheugen in de afgelopen %2$s</item>
     </plurals>
+	<plurals name="connected_devices_number">
+        <item quantity="other">%d apparaten</item>
+        <item quantity="one">%d apparaat</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van de telefooninfo."</item>
         <item quantity="one">"Je bent %1$d stap verwijderd van de telefooninfo.."</item>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Geselecteerde opname verwijderen?</string>
+  <string name="alert_message_delete_record">De opname verwijderen van uw apparaat zal hem ook verwijderen van Mi Cloud. Nu verwijderen?</string>
   <string name="alert_message_delete_record_title">Opname verwijderen?</string>
   <string name="app_name">Geluidsrecorder</string>
   <string name="back">Terug</string>
@@ -23,6 +23,7 @@
   <string name="details">Details</string>
   <string name="dialog_content_storage_full">Door te weinig ruimte was de opname gedwongen om te stoppen. Verwijder onnodige bestanden met bestandsbeheer, wilt u het nu openen?</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
+  <string name="empty_recognition_tip">Leeg</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
   <string name="error_file_access">Bestand bestaat niet of is corrupt</string>
@@ -45,13 +46,14 @@
   <string name="notification_stopped">Opname is gestopt</string>
   <string name="notification_title_all_paused">Download gepauzeerd</string>
   <string name="notification_warning">Weinig opslag (minder dan %d minuten)</string>
+  <string name="path_soundrecorder_setting">Systeemapps/Recorder</string>
   <string name="pause">Pauzeren</string>
   <string name="playback_delete_records">Opname verwijderen</string>
   <string name="playback_share_records">Opname delen</string>
   <string name="preference_enable_earpiece_summary">Gebruik ontvanger voor extern afspelen</string>
   <string name="preference_enable_earpiece_title">Gebruik ontvanger om audio af te spelen</string>
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
-  <string name="preference_led_indicator_prompt">Toon LED en statusbalkindicators bij opnemen als scherm vergrendeld is</string>
+  <string name="preference_led_indicator_prompt">Knipper LED en geef snelkoppeling op het vergrendelscherm weer bij opnemen</string>
   <string name="preference_record_scenes_dialog_title">Selecteer een opnametype</string>
   <string name="preference_scenes">Opnametype</string>
   <string name="preference_silent_mode">Stille modus bij opnemen</string>
@@ -101,7 +103,7 @@
   <string name="search_app">Recorder</string>
   <string name="search_enable_earpiece_title">Ontvanger gebruiken om audio af te spelen</string>
   <string name="search_led_indicator">Meldingen op vergrendelscherm</string>
-  <string name="search_led_indicator_prompt">Weergeven op statusbalk en notificatielicht laten knipperen bij opnemen</string>
+  <string name="search_led_indicator_prompt">Knipper LED en geef snelkoppeling op het vergrendelscherm weer bij opnemen</string>
   <string name="search_quliaty_title">Opnamekwaliteit</string>
   <string name="search_scenes">Opnametype</string>
   <string name="search_silent_mode">Stille modus tijdens opnemen</string>

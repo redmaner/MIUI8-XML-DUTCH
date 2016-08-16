@@ -106,6 +106,7 @@
   <string name="dialog_call_ordinary_telephone">Normale oproep</string>
   <string name="dialog_purchase">Herladen</string>
   <string name="do_not_ask">Niet meer tonen</string>
+  <string name="do_not_support_video_calls_by_remote">Video-oproepen worden niet ondersteund op het andere apparaat</string>
   <string name="emergency_call_dialog_number_for_display">Noodnummer</string>
   <string name="fraud_call_answer">Antwoorden</string>
   <string name="fraud_call_decline">Afwijzen</string>
@@ -119,7 +120,7 @@
   <string name="incall_error_supp_service_switch">Kan niet schakelen tussen gesprekken</string>
   <string name="incall_error_supp_service_transfer">Kan geen gesprek doorverbinden.</string>
   <string name="incall_error_supp_service_unknown">Niet ondersteunde service.</string>
-  <string name="incoming_answer_voice_text">Stem antwoordt</string>
+  <string name="incoming_answer_voice_text">Stemantwoord</string>
   <string name="incoming_call_forwarded_title">Inkomende oproepen doorschakelen</string>
   <string name="incoming_circle_text_answer">Loslaten</string>
   <string name="incoming_circle_text_answer_p">Omhoog schuiven</string>
@@ -173,7 +174,7 @@
   <string name="notification_dialing">Bellen</string>
   <string name="notification_incoming_call">Inkomende oproep</string>
   <string name="notification_incoming_video_call">Inkomende video-oproep</string>
-  <string name="notification_on_hold">In wacht</string>
+  <string name="notification_on_hold">In de wacht</string>
   <string name="notification_ongoing_call">Huidige gesprek</string>
   <string name="notification_requesting_video_call">Inkomend videoverzoek</string>
   <string name="ok">OK</string>
@@ -191,9 +192,9 @@
   <string name="onscreen_audio_switch_mode">Wissel audio</string>
   <string name="onscreen_call_record">Opnemen</string>
   <string name="onscreen_change_to_video">Video-oproep</string>
-  <string name="onscreen_change_to_voice">Stemoproep</string>
+  <string name="onscreen_change_to_voice">Spraakoproep</string>
   <string name="onscreen_close_preview_camera">Camera sluiten</string>
-  <string name="onscreen_hold_text">Vasthouden</string>
+  <string name="onscreen_hold_text">In de wacht zetten</string>
   <string name="onscreen_merge_calls_text">Gesprekken samenvoegen</string>
   <string name="onscreen_mute_text">Dempen</string>
   <string name="onscreen_note_calls_text">Notitie</string>
@@ -212,6 +213,7 @@
   <string name="select_sim_hint">"Kan SIM %2$d niet gebruiken terwijl SIM %1$d in gebruik is."</string>
   <string name="select_voice_call_sim">Kies SIM kaart</string>
   <string name="separate_from_conference">Apart gesprek</string>
+  <string name="sip_call_not_support_record">Kan SIP oproepen niet opnemen</string>
   <string name="suspect_info">Controleer altijd de identiteit van de persoon met wie je spreekt over de telefoon of video voordat je reageert op berichten met betrekking tot uw persoonlijke financiën.</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Onbekend</string>

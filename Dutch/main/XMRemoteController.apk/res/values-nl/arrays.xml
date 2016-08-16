@@ -28,7 +28,7 @@
 	<string-array name="assistant_tab">
         <item>Video</item>
         <item>Schermafdrukken</item>
-        <item>Apps</item>
+        <item>App</item>
     </string-array>
     <string-array name="epg_channel_tab">
         <item>Compleet</item>
@@ -40,10 +40,37 @@
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
         <item>Alle kanalen</item>
-        <item>Favoriete kanaal</item>
-        <item>CCTV kanaal</item>
-        <item>TV kanaal</item>
+        <item>Favoriete kanalen</item>
+        <item>CCTV kanalen</item>
+        <item>TV kanalen</item>
         <item>HD kanalen</item>
         <item>Onlangs bekeken</item>
+    </string-array>
+	<string-array name="epg_program_genre">
+        <item>Kunst</item>
+        <item>Sport</item>
+        <item>Kinderprogramma\'s</item>
+        <item>Nieuws</item>
+        <item>Wonen</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>Populair</item>
+        <item>Film</item>
+        <item>Kunst</item>
+        <item>TV Series</item>
+        <item>Sport</item>
+        <item>Kinderprogramma\'s</item>
+        <item>Nieuws</item>
+        <item>Wonen</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>Top Shows</item>
+        <item>Films</item>
+        <item>Variety Show</item>
+        <item>TV Series</item>
+        <item>Sport programma\'s</item>
+        <item>Kinderprogramma\'s</item>
+        <item>Nieuws programma\'s</item>
+        <item>Woon programma\'s</item>
     </string-array>
 </resources>

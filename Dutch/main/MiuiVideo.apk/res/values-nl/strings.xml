@@ -126,6 +126,7 @@
   <string name="download_file_fail">Lokale toegang tot bestanden is mislukt, misschien is er geen ruimte op de SD-kaart</string>
   <string name="download_finished">Voltooid</string>
   <string name="download_geturl_fail">Kan URL niet laden</string>
+  <string name="download_insufficient_space">Niet genoeg ruimte</string>
   <string name="download_is_in_tasklist">In wachtrij</string>
   <string name="download_paused">Gepauzeerd</string>
   <string name="download_percent_hint">Downloaden %d%%</string>
@@ -148,6 +149,7 @@
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_epg">Geen EPG informatie</string>
   <string name="error_empty_filter_title">Geen resultaten</string>
+  <string name="error_empty_live_favor">Geen collectie of TV kanalen</string>
   <string name="error_empty_title">Er liep iets mis</string>
   <string name="expire_time">Vervaltijd</string>
   <string name="favorite">Favoriet</string>
@@ -232,7 +234,7 @@
   <string name="notification_default_title">Offline video</string>
   <string name="notification_sub_title">Totaal %d download taak(en) voltooid</string>
   <string name="notification_ticker_text">Offline video download voltooiing</string>
-  <string name="notification_title">\"%s\" download voltooiing</string>
+  <string name="notification_title">\"%1$s\" download voltooiing</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Afsluiten</string>
   <string name="nowifi_alert_dialog_message">Dit kan uw mobiele dataverbruik aanzienlijk verhogen.</string>

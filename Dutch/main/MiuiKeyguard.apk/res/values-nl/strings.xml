@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enter_lock_wallpaper">Tik om achtergrond carrousel te openen</string>
   <string name="click_to_enter_text">Tik om weer te geven</string>
   <string name="confirm_pin_msg">PIN opnieuw invoeren</string>
   <string name="default_lockscreen_unlock_hint_text">Veeg omhoog om te ontgrendelen</string>
@@ -14,7 +15,9 @@
   <string name="experimental_validate_username">Gebruikersnaam</string>
   <string name="experimental_validate_warning">Dank u voor het helpen MIUI beter te maken!</string>
   <string name="find_device_turn_off_flight_mode">Schakel de vliegmodus uit</string>
-  <string name="fingerprint_lockout_msg">Wacht een minuut, probeer dan opnieuw te ontgrendelen met uw vingerafdruk</string>
+  <string name="fingerprint_enter_second_psw_msg">Na herstart wachtwoord tweede ruimte invoeren om vingerafdrukherkenning te kunnen gebruiken</string>
+  <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
+  <string name="fingerprint_lockout_msg">Wacht een minuut en probeer dan opnieuw te ontgrendelen met uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om uw apparaat te ontgrendelen, voer uw wachtwoord in.</string>
   <string name="fingerprint_not_identified_title">Voer wachtwoord in</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw</string>
@@ -25,6 +28,7 @@
   <string name="incorrect_pukcode_remaining_attempts">Foute PUK code, %d pogingen resterend</string>
   <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
+  <string name="input_pattern_hint_text">Teken uw ontgrendelpatroon</string>
   <string name="input_pin_code">Voer PIN code in</string>
   <string name="input_puk_code">Voer PUK code in</string>
   <string name="invalid_confirm_pin_hint">PINs komen niet overeen </string>
@@ -33,6 +37,8 @@
   <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="lock_wallpaper_enter">Enter</string>
+  <string name="lock_wallpaper_learn_more">Meer</string>
   <string name="lockscreen_access_pattern_cell_added">Mobiel netwerk toegevoegd</string>
   <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>

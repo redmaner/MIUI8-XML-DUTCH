@@ -140,6 +140,10 @@
   <string name="mark_agent_block">Gemeld als agentschap</string>
   <string name="mark_agent_block_large">Agentschappen</string>
   <string name="mark_agent_time_setting">Blokkeer nummers die een bepaald aantal keer gemeld zijn als agentschappen</string>
+  <string name="mark_courier">Gemelde koeriers blokkeren</string>
+  <string name="mark_courier_block">Melden als koerier</string>
+  <string name="mark_courier_block_large">Koeriers</string>
+  <string name="mark_courier_time_setting">Nummers blokkeren die voor een bepaald aantal keer gemeld zijn als koeriers</string>
   <string name="mark_fraud">Blokkeer gemelde scams</string>
   <string name="mark_fraud_block">Gemeld als scam</string>
   <string name="mark_fraud_block_large">Scams</string>
@@ -149,6 +153,7 @@
   <string name="mark_harass_block_large">Overlast</string>
   <string name="mark_harass_time_setting">Blokkeer nummers die een bepaald aantal keer gemeld zijn als overlast</string>
   <string name="mark_number_agent">Agent</string>
+  <string name="mark_number_courier">Koerier</string>
   <string name="mark_number_fraud">Frauduleus</string>
   <string name="mark_number_harass">Lastigvallen</string>
   <string name="mark_number_info">Soms kunnen deze nummers nuttig zijn(bijvoorbeeld wanneer u daadwerkelijk op zoek bent naar een appartement). Blokkeer alle nummers die u niet langer wilt aannemen.</string>
@@ -236,11 +241,15 @@
   <string name="st_antispam_des_smart_anti">Filter</string>
   <string name="st_antispam_des_uesless">Uitschakelen</string>
   <string name="st_antispam_mode_add_new">Regels toevoegen</string>
+  <string name="st_antispam_mode_blacklist">Geblokkeerde nummers</string>
   <string name="st_antispam_mode_blacklist_sum">Blokkeer berichten en gesprekken van nummers die u handmatig hebt toegevoegd aan de zwarte lijst</string>
   <string name="st_antispam_mode_customize_sum">Regels zwarte lijst maken</string>
   <string name="st_antispam_mode_denyownself_sum">Aangepaste regels</string>
+  <string name="st_antispam_mode_only_all_deny">Alles blokkeren</string>
   <string name="st_antispam_mode_only_all_deny_sum">Blokkeer alle gesprekken en berichten</string>
+  <string name="st_antispam_mode_only_contacts">Alleen contacten toestaan</string>
   <string name="st_antispam_mode_only_contacts_sum">Alleen gesprekken en berichten van contacten toestaan</string>
+  <string name="st_antispam_mode_only_whitelist">Alleen uitzonderingen toestaan</string>
   <string name="st_antispam_mode_only_whitelist_sum">Alleen gesprekken en berichten van nummers in de lijst van uitzonderingen toestaan</string>
   <string name="st_antispam_mode_smart_sum">Nummers blokkeren die u handmatig hebt toegevoegd en blokkeer nummers die zijn gemeld door andere gebruikers</string>
   <string name="st_antispam_notification_sum">Toon melding wanneer oproep of bericht is geblokkeerd</string>

@@ -29,6 +29,9 @@
   <string name="apk_status_install">Geïnstalleerd</string>
   <string name="apk_status_installed_old">Oude versie</string>
   <string name="apk_status_uninstalled">Niet geïnstalleerd</string>
+  <string name="app_install_tips_go_to">Openen</string>
+  <string name="app_install_tips_install_success">%1$s met succes geïnstalleerd</string>
+  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Grootte</string>
   <string name="apps_sort_type_item_time">Frequent gebruikt</string>
   <string name="apps_sort_type_title">Sorteren op</string>
@@ -37,6 +40,8 @@
   <string name="auto_clean_switch_on">Aan</string>
   <string name="auto_cleaner_open">Inschakelen</string>
   <string name="back">Terug</string>
+  <string name="browser_scan_history_desc">Browsergeschiedenis</string>
+  <string name="browser_search_history_desc">Opgezochte items</string>
   <string name="btn_text_done">Voltooien</string>
   <string name="btn_text_quick_cleanup">Opruimen</string>
   <string name="btn_text_quick_scan">Scannen</string>
@@ -75,6 +80,7 @@
   <string name="cache_title_empty_folder2">Lege map</string>
   <string name="cache_title_system_cache">Systeemcache</string>
   <string name="cached_garbage">Cache</string>
+  <string name="call_log">Oproepgeschiedenis</string>
   <string name="cancel">Annuleren</string>
   <string name="clean_content_all">Alle</string>
   <string name="clean_content_one">1 item</string>
@@ -84,10 +90,15 @@
   <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere nutteloze items</string>
   <string name="clear_immediately">Nu opruimen</string>
   <string name="clear_safe_notify">Beveiliging meldingsbalk</string>
+  <string name="clip_board_history_desc">Gekopieerde/geknipte inhoud</string>
+  <string name="clipboard">Klembord</string>
   <string name="close">Sluiten</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Netwerkverbinding voor beveiliging</string>
   <string name="connecting">Verbinden…</string>
+  <string name="deep_clean_data_path_clean_title">Cache wissen</string>
+  <string name="deep_clean_normal_clean_progress_desc">%1$s bestanden opgeruimd</string>
+  <string name="deepclean_1_k_clean">Snel opruimen</string>
   <string name="deepclean_apk_content">APK\'s of onnodige apps verwijderen</string>
   <string name="deepclean_apk_summary_empty">Alles ziet er goed uit, geen APK\'s om te verwijderen​</string>
   <string name="deepclean_apk_version_error">Onbekend</string>
@@ -105,11 +116,16 @@
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Muziek</string>
   <string name="deepclean_list_item_from_sdcard">SD kaart</string>
+  <string name="deepclean_normal_item_desc1">Afvalbestanden</string>
+  <string name="deepclean_normal_item_desc2">Het opruimen zal geen invloed hebben op de systeemprestaties</string>
+  <string name="deepclean_normal_item_summary_empty">Alles ziet er goed, niks om op te ruimen</string>
+  <string name="deepclean_normal_title">Automatisch opruimen</string>
   <string name="deepclean_similar_ignore">Negeren</string>
   <string name="deepclean_similar_summary_empty">Alles ziet er goed uit, geen foto\'s om te verwijderen</string>
-  <string name="deepclean_size_summary_less">Niet genoeg ruimte</string>
-  <string name="deepclean_size_summary_more">Genoeg opslagruimte beschikbaar</string>
+  <string name="deepclean_size_summary_less">Weinig ruimte over</string>
+  <string name="deepclean_size_summary_more">Opslagruimte op apparaat bijna vol</string>
   <string name="deepclean_size_summary_normal">Opslagruimte beschikbaar</string>
+  <string name="deepclean_size_summary_not_enough">Niet genoeg ruimte</string>
   <string name="deepclean_title_large_file">Verwijder grote bestanden</string>
   <string name="deepclean_title_uninstall_apps">Weinig gebruikte apps</string>
   <string name="deepclean_video_content">Reeds bekeken of onnodige video\'s verwijderen</string>
@@ -159,7 +175,6 @@
   <string name="grabage_rank_title">Vandaag opgeruimd</string>
   <string name="harass_detail">%1$d SMS en %2$d gesprekken geblokkeerd</string>
   <string name="header_optimizer">Door gebruik te maken van deze functie gaat u akkoord met %s</string>
-  <string name="hint_bar_select_image">%d geselecteerd</string>
   <string name="hint_clean_select_similar_image">Duplicaten verwijderen…</string>
   <string name="hints_ad_header_left">Bestanden toevoegen</string>
   <string name="hints_apk_header_left">Pakketten</string>
@@ -211,6 +226,7 @@
   <string name="hints_quick_prepare">Voorbereiden…</string>
   <string name="hints_quick_scanning">Scannen…</string>
   <string name="hints_residual_header_left">Restanten</string>
+  <string name="hints_scan_has_finish">Schoonmaken voltooid</string>
   <string name="hints_scanfinish">Geen afval</string>
   <string name="hints_storage_clean_size">%s intern geheugen beschikbaar gemaakt</string>
   <string name="hints_storage_free">Beschikbaar</string>
@@ -226,6 +242,8 @@
   <string name="installed">Geïnstalleerd</string>
   <string name="installing">Bezig met installeren</string>
   <string name="item_title_process_mode">Kies een actie</string>
+  <string name="junk_tag_RF_EmptyFolders">Lege mappen</string>
+  <string name="junk_tag_RF_ImageThumbnails">Galerij-thumbnails</string>
   <string name="just_now">Zojuist</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Geen</string>
@@ -235,6 +253,13 @@
   <string name="login_immediately">Aanmelden</string>
   <string name="long_click_dialog_summary">Lang drukken om toe te voegen aan uitzonderingen.</string>
   <string name="long_click_dialog_title">Melding</string>
+  <string name="low_memory_clean_dialog_msg">Tenminste %1$s aan bestanden opruimen</string>
+  <string name="low_memory_clean_dialog_ok_button">Ok</string>
+  <string name="low_memory_clean_dialog_title">Niet genoeg opslagruimte meer</string>
+  <string name="low_memory_warning_dialog_cancel_button">Annuleren</string>
+  <string name="low_memory_warning_dialog_msg">Ruimte vrijmaken op uw apparaat voordat u doorgaat</string>
+  <string name="low_memory_warning_dialog_ok_button">Wissen</string>
+  <string name="low_memory_warning_dialog_title">Niet genoeg opslagruimte</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
   <string name="megabyteShort">MB</string>
@@ -304,6 +329,7 @@
   <string name="privacy_app_desc_message">Account, wachtwoorden en berichten</string>
   <string name="privacy_app_desc_search">Account, wachtwoorden en zoekgeschiedenis</string>
   <string name="privacy_app_desc_setting">Account, wachtwoorden en instellingen</string>
+  <string name="privacy_appdata_chrome_history_des">Bezochte websites</string>
   <string name="privacy_browser_desc">Gezochte items</string>
   <string name="privacy_cache_desc">Account, wachtwoord, geschiedenis, instellingen en meer</string>
   <string name="privacy_cache_empty">Geen persoonlijke info</string>
@@ -321,6 +347,7 @@
   <string name="safety_rank">Vooruitlopend op %d%% MIUI gebruikers in termen van veiligheid</string>
   <string name="sc_allow_network_dialog_button">Toestaan</string>
   <string name="sc_allow_network_dialog_message">Deze app toelaten om verbinding te maken met internet om updates te ontvangen?</string>
+  <string name="search_history">Zoekgeschiedenis</string>
   <string name="see_more">Meer</string>
   <string name="set_immediately">Instellen</string>
   <string name="seton_immediately">Inschakelen</string>
@@ -330,6 +357,7 @@
   <string name="similar_image_scaning">Controleren…</string>
   <string name="similar_image_title">Foto\'s</string>
   <string name="sponsored">Gesponsord</string>
+  <string name="start_downloading_app">Start download van: %1$s</string>
   <string name="start_install">Nu installeren</string>
   <string name="summary_auto_cleaner">Om de 3 dagen systeem automatisch opruimen?</string>
   <string name="summary_delete_apk">De geselecteerde APK\'s permanent verwijderen?</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Vliegmodus.</string>
+  <string name="accessibility_assistant">Quick ball</string>
   <string name="accessibility_back">Vorige</string>
   <string name="accessibility_battery_level">Batterij: %d procent.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth verbinding ingesteld.</string>
@@ -137,7 +138,7 @@
   <string name="description_direction_up">Veeg omhoog voor %s.</string>
   <string name="description_target_search">Zoeken</string>
   <string name="disable_notification_summary">Nooit meldingen weergeven van geselecteerde apps</string>
-  <string name="disable_notification_title">Verberg meldingen</string>
+  <string name="disable_notification_title">Meldingen verbergen</string>
   <string name="dismount_storage">Nee</string>
   <string name="dlg_confirm_kill_storage_users_text">Als u de USB opslag inschakelt, zullen sommige apps stoppen en niet beschikbaar zijn tot u de USB opslag uitschakelt.</string>
   <string name="dlg_confirm_kill_storage_users_title">Schakel USB opslag uit</string>
@@ -192,7 +193,7 @@
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Ja</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_notification_tips">Geen meldingen.</string>
+  <string name="no_notification_tips">Geen meldingen</string>
   <string name="no_weather_description">Weerinformatie verkrijgen &gt;</string>
   <string name="notification_header_title">Meldingen</string>
   <string name="notification_hidden_text">Inhoud verborgen</string>
@@ -242,6 +243,11 @@
   <string name="screen_pinning_negative">Nee bedankt</string>
   <string name="screen_pinning_positive">Begrepen</string>
   <string name="screen_pinning_title">Scherm is gepint</string>
+  <string name="screenshot_delete">Verwijderen</string>
+  <string name="screenshot_delete_dlg_msg">Bent u er zeker van dat u deze schermafdruk wenst te verwijderen?</string>
+  <string name="screenshot_delete_dlg_title">Verwijderen</string>
+  <string name="screenshot_dlg_cancel">Annuleren</string>
+  <string name="screenshot_dlg_delete_button">Verwijderen</string>
   <string name="screenshot_edit">Bewerken</string>
   <string name="screenshot_failed_text">Kan geen schermafdruk maken vanwege de beperkte opslagruimte of het is niet toegestaan door de app of uw organisatie</string>
   <string name="screenshot_long_screenshot">Scrollen</string>
@@ -288,6 +294,7 @@ d MMMM"</string>
   <string name="status_bar_settings_signal_meter_disconnected">Geen internetverbinding</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Verbonden via Wi-Fi</string>
   <string name="status_bar_style_settings">Meldingen</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">Appvergrendeling inschakelen</string>
   <string name="title_usb_accessory">USB accessoire</string>
   <string name="torch_activity_hint">Houd de HOME toets ingedrukt op het vergrendelscherm om de zaklamp in te schakelen</string>
@@ -331,8 +338,7 @@ d MMMM"</string>
   <string name="vpn_text_long">Verbonden met %s. Tik om details weer te geven.</string>
   <string name="vpn_title">VPN geactiveerd</string>
   <string name="vpn_title_long">Verbinden met VPN door gebruik van %s</string>
-  <string name="weather_description">%1$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">%1$s bijgewerkt</string>
   <string name="wifi_connected_no_internet">Verbonden, geen internet</string>
   <string name="wifi_disabled_generic">Uitgeschakeld</string>

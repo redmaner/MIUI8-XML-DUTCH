@@ -6,8 +6,10 @@
 Berichten zullen enkel in de tweede ruimte worden weergegeven."</string>
   <string name="PrivacyContactDes2">"Indien u privé berichten in de eerste ruimte gebruikt,
 zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
+  <string name="add_finger_print">Vingerafdruk toevoegen</string>
   <string name="appData">Geïnstalleerde apps</string>
   <string name="app_name">Security Core Component</string>
+  <string name="back">Terug</string>
   <string name="cancelClosePassword">Niet uitschakelen</string>
   <string name="cancel_button">Annuleren</string>
   <string name="changePassword">Wachtwoord wijzigen</string>
@@ -48,6 +50,9 @@ kan op elk moment bekeken worden"</string>
   <string name="deleteAll">Alle verwijderen</string>
   <string name="deleteDataConfirm">Alle items zullen verwijderd worden</string>
   <string name="deleteDataDes">U hebt geen items om te verplaatsen. U zal niet in staat zijn om items te herstellen nadat deze zijn verwijderd.</string>
+  <string name="delete_fingerprint">Vingerafdruk verwijderen</string>
+  <string name="delete_fingerprint_desc">Tweede ruimte vingerafdruk zal samen met wachtwoord verwijderd worden</string>
+  <string name="delete_phone_fingerprint">Tweede ruimte vingerafdruk verwijderen</string>
   <string name="delete_src_file">Bestanden verwijderen</string>
   <string name="delete_src_photo">Foto\'s verwijderen</string>
   <string name="dir_switch_out_all_photos">Tweede ruimte galerij</string>
@@ -67,6 +72,9 @@ kan op elk moment bekeken worden"</string>
   <string name="err_unknown">Onbekende fout</string>
   <string name="err_volume_not_enough">Niet genoeg opslagruimte</string>
   <string name="exit_private_space">Overschakelen</string>
+  <string name="finger_print_num">Vingerafdruk %d</string>
+  <string name="finger_print_of_use">Vingerafdruk gebruiken</string>
+  <string name="fingerprint_removal_failed">Kon vingerafdruk niet verwijderen</string>
   <string name="goToSecondSpacce">Ga naar de tweede ruimte</string>
   <string name="go_on_import">Doorgaan met importeren</string>
   <string name="guide_contact_sub_title_desc">"Toegevoegde contacten aan de tweede ruimte zullen privé zijn.
@@ -94,19 +102,24 @@ U kan ze ook apart downloaden."</string>
   <string name="loading_apps">Apps laden…</string>
   <string name="loading_space">Een momentje…</string>
   <string name="loading_success">Met succes geladen</string>
+  <string name="lock_screen_open_second_space">Naar tweede ruimte gaan vanuit vergrendelscherm</string>
   <string name="messageData">Berichten</string>
   <string name="msg_switch_file">Deze bestanden verwijderen op de eerste ruimte na verplaatsen?</string>
   <string name="msg_switch_photo">Deze foto\'s verwijderen op de eerste ruimte na verplaatsen?</string>
   <string name="needSetKeyguardFirst">Wachtwoord voor eerste ruimte instellen</string>
   <string name="needSetKeyguardFirstDes">Eerst het eerste ruimte wachtwoord instellen voordat u een wachtwoord insteld voor de tweede ruimte</string>
+  <string name="need_set_second_space_desc">Eerst tweede ruimte wachtwoord instellen voordat u de vingerafdruk voor de tweede ruimte insteld</string>
+  <string name="need_set_second_space_pwd_first">Eerst tweede wachtwoord ruimte instellen</string>
   <string name="newSecondSpace">Tweede ruimte inschakelen</string>
   <string name="next_setp">Volgende</string>
+  <string name="no_match_repate_scanner">Kon geen overeenkomsten vinden, opnieuw scannen</string>
   <string name="normal_app">Eerste ruimte</string>
   <string name="not_support_multiple_users">Meerdere ruimten worden niet ondersteund</string>
   <string name="notificationSetPassword">Wachtwoord instellen</string>
   <string name="notificationSetPasswordDes">Tweede ruimte data beschermen</string>
   <string name="notificationSummary">Wisselen tussen ruimten in de meldingschaduw</string>
   <string name="notificationTitle">Snelkoppeling meldingschaduw</string>
+  <string name="notification_recommend_title">Top 12 apps voor de tweede ruimte</string>
   <string name="notification_setting_second_space">Tweede ruimte instellen</string>
   <string name="notification_setting_second_space_desc">Tweede ruimte wachtwoord instellen en verplaats data</string>
   <string name="ok_button">Ok</string>
@@ -116,6 +129,7 @@ U kan ze ook apart downloaden."</string>
   <string name="otherSettings">Andere instellingen</string>
   <string name="passWordGuardSummary">Naar tweede ruimte gaan vanaf schermvergrendeling met wachtwoord</string>
   <string name="passwordProtect">Wachtwoord</string>
+  <string name="please_diff_finger_print">Maak u er van bewust dat er verschillende vingerafdrukken gebruikt worden voor de eerste en tweede ruimte./Anders is de toegang tot de tweede ruimte vanuit het vergrendelscherm niet mogelijk.</string>
   <string name="privacyContactsSummary">Privé items weergeven in de tweede ruimte</string>
   <string name="privacyContactsTitle">Privéberichten en contacten</string>
   <string name="private_sms_show_sub_title">Berichtdata zal gedeeld worden tussen de twee ruimten​</string>
@@ -125,12 +139,25 @@ U kan ze ook apart downloaden."</string>
   <string name="removeSuccess">Met succes verwijderd</string>
   <string name="remove_second_space_msg">Alle appgegevens van de tweede ruimte zal verloren gaan nadat je de tweede ruimte wist. Tweede ruimte nu wissen?</string>
   <string name="removingSpace">Verwijderen…</string>
+  <string name="repeat_scanner_fingerprint">Opnieuw toevoegen</string>
   <string name="restore_normal_show">Geen privéberichten weergeven</string>
   <string name="restore_show_desc">Geen privéberichten in de tweede ruimte weergeven. Ze zullen nog beschikbaar zijn in de eerste ruimte.</string>
   <string name="restore_show_toast">Geen privéberichten weergeven</string>
   <string name="retain_src_file">Bestanden behouden</string>
   <string name="retain_src_photo">Foto\'s behouden</string>
+  <string name="scanner_fingerprint">Vingerafdruk scannen…</string>
+  <string name="scanner_fingerprint_enter_second">"Vingerafdruk tweede ruimte scannen
+om tweede ruimte vanaf vergrendelscherm te openen"</string>
+  <string name="scanner_fingerprint_error_tips_desc">Kan geen overeenkomsten vinden. Vingerafdruk voor tweede ruimte toevoegen?</string>
+  <string name="scanner_fingerprint_error_tips_title">Kan geen overeenkomsten vinden</string>
+  <string name="scanner_fingerprint_tips_desc">Een bestande vingerafdruk selecteren om naar de tweede ruimte te gaan. Het zal niet meer mogelijk zijn om deze te gebruiken in de eerste ruimte.</string>
+  <string name="scanner_fingerprint_tips_title">Naar tweede ruimte gaan door gebruik van een bestande vingerafdruk</string>
+  <string name="scanner_second_space_fingerprint">Scan de vingerafdruk voor de tweede ruimte</string>
   <string name="secondSpace">Tweede ruimte</string>
+  <string name="second_owner_finger_print">Vingerafdruk tweede ruimte</string>
+  <string name="second_space_finger_printf_desc">Vingerafdruk toevoegen om naar de tweede ruimte te gaan</string>
+  <string name="second_space_finger_printf_title">Tweede ruimte vingerafdruk</string>
+  <string name="select_existed_fingerprint">Vingerafdruk selecteren</string>
   <string name="serNameSummary">Tweede ruimte</string>
   <string name="setSecondSpacePassword">Wachtwoord tweede ruimte instellen</string>
   <string name="setSecondSpacePasswordGuide">Wachtwoord tweede ruimte instellen</string>
@@ -139,6 +166,9 @@ U kan ze ook apart downloaden."</string>
   <string name="setSuccess">Wachtwoord met succes ingesteld</string>
   <string name="set_space_pwd_detail">U kan naar de tweede ruimte gaan door het wachtwoord te gebruiken</string>
   <string name="set_space_pwd_suc">Wachtwoord tweede ruimte toegevoegd</string>
+  <string name="setting_finger_print_sub_title">Maak u er van bewust dat deze verschillend is dan deze voor de eerste ruimte</string>
+  <string name="setting_finger_print_title">Tweede ruimte vingerafdruk toevoegen</string>
+  <string name="setting_fingerprint_title">Tweede ruimte wachtwoord toevoegen</string>
   <string name="setting_is_show_text_contacts">Privécontacten en berichten instellen</string>
   <string name="settings_cross_notification_summary">Meldingen ontvangen van de andere ruimte</string>
   <string name="settings_cross_notification_title">Meldingen</string>
@@ -157,6 +187,10 @@ U kan ze ook apart downloaden."</string>
   <string name="spaceSetting">Instellingen</string>
   <string name="startSet">Instellen</string>
   <string name="startTransfer">Verplaatsen</string>
+  <string name="start_input_finger_print">Vingerafdruk toevoegen</string>
+  <string name="start_new_fingerprint">Nieuwe vingerafdruk toevoegen</string>
+  <string name="start_new_fingerprint_tips">"Tweede ruimte vingerafdruk gebruiken
+om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="start_setting_guide_desc_title">Er zijn een paar dingen om in te stellen</string>
   <string name="summary_switch_apps_settings">Apps selecteren die gebruikt worden in de tweede ruimte</string>
   <string name="switchDataSummary">Items verplaatsen tussen ruimten</string>
@@ -197,11 +231,12 @@ U kan ze ook apart downloaden."</string>
   <string name="transferMessage">Berichten uit de tweede ruimte zullen verplaatst worden naar de eerste ruimte</string>
   <string name="tryNow">Nu proberen</string>
   <string name="wating">Een momentje…</string>
-  <string name="xspace_chocie">Andere apps</string>
-  <string name="xspace_creating">App klonen…</string>
+  <string name="xspace_chocie">Dual app ondersteuning</string>
+  <string name="xspace_creating">Dual app aanmaken…</string>
   <string name="xspace_description">Dupliceer apps om ze apart te gebruiken. Gedupliceerde apps zullen een specifiek icoon op de startpagina hebben.</string>
   <string name="xspace_header">Gedupliceerde apps</string>
   <string name="xspace_install_completed">Icoon toegevoegd aan startpagina</string>
+  <string name="xspace_install_failed">Kon het niet aanmaken</string>
   <string name="xspace_installing">Installeren…</string>
   <string name="xspace_introduce">Aanbevolen</string>
   <string name="xspace_label">Gedupliceerde apps</string>

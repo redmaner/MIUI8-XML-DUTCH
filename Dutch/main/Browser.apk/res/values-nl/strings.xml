@@ -60,7 +60,7 @@
   <string name="add_new_bookmark">Bladwijzer toevoegen</string>
   <string name="add_new_quicklink">Toevoegen aan startpagina</string>
   <string name="add_shortcut">Snelkoppeling toevoegen</string>
-  <string name="add_shortcut_success">Snelkoppeling toegevoegd</string>
+  <string name="add_shortcut_success">Snelkoppeling met succes toegevoegd</string>
   <string name="add_ql_bm_title">Opslaan</string>
   <string name="add_quicklink_to_popular">Toevoegen aan startpagina</string>
   <string name="add_quicklinks">Toevoegen aan startpagina</string>
@@ -221,8 +221,8 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="dialog_title_not_available">Kon niet downloaden</string>
   <string name="dialog_title_queued_body">Bestand is momenteel niet beschikbaar</string>
   <string name="dont_remind_again">Keuze herinneren</string>
-  <string name="download_btn_select_all">Alle selecteren</string>
-  <string name="download_btn_select_none">Alle deselecteren</string>
+  <string name="download_btn_select_all">Alles selecteren</string>
+  <string name="download_btn_select_none">Alles deselecteren</string>
   <string name="download_complete">Download voltooid</string>
   <string name="download_completed">Gedownload</string>
   <string name="download_default_path_txt">Deze keuze onthouden</string>
@@ -286,6 +286,9 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="find_on_page_next">Volgende</string>
   <string name="find_on_page_prev">Vorige</string>
   <string name="find_previous">Vorige zoeken</string>
+  <string name="force_quick_search_title">Zoeken</string>
+  <string name="force_touch_bookmark_history_title">Bladwijzer &amp;geschiedenis</string>
+  <string name="force_touch_infoflow_title">Nieuws</string>
   <string name="geolocation_permissions_prompt_dont_share">Weigeren</string>
   <string name="geolocation_permissions_prompt_message">%s wilt weten wat uw locatie is</string>
   <string name="geolocation_permissions_prompt_remember">Voorkeuren onthouden</string>
@@ -300,6 +303,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="geolocation_settings_page_title">Locatietoegang blokkeren</string>
   <string name="go_supermarket_button">Ga</string>
   <string name="go_supermarket_title">Meer apps, grotere snelheid en minder dataverbruik in App Store</string>
+  <string name="gold_medals">Gouden medailles</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Op startscherm geplaatst</string>
   <string name="history_saved_webpage">Pagina opslaan</string>
@@ -340,10 +344,10 @@ Deze pagina verlaten?"</string>
   <string name="media_error_action_refresh">Vernieuwen</string>
   <string name="media_error_action_replace_video_source">Kon bron niet veranderen</string>
   <string name="media_error_failure">Kan video niet afspelen</string>
-  <string name="media_error_format">Video indeling wordt niet ondersteund</string>
+  <string name="media_error_format">Videoformaat wordt niet ondersteund</string>
   <string name="media_error_nomemory">Niet genoeg geheugen</string>
   <string name="media_error_source">Kon bron niet vinden</string>
-  <string name="media_error_timeout">Netwerkverbinding time out</string>
+  <string name="media_error_timeout">Netwerkverbinding time-out</string>
   <string name="media_error_video_not_exist">Video bestaat niet</string>
   <string name="media_player_error_button">OK</string>
   <string name="media_player_error_text_invalid_progressive_playback">Deze video is niet geldig om te streamen op dit apparaat</string>
@@ -352,8 +356,8 @@ Deze pagina verlaten?"</string>
   <string name="media_player_loading_video">Video laden</string>
   <string name="menu_addtodesk">Toevoegen aan startscherm</string>
   <string name="menu_exit_nightmode">Afsluiten</string>
-  <string name="menu_hv_swap">V/H Scherm</string>
-  <string name="menu_nightmode">Nachtmodus aan/uit</string>
+  <string name="menu_hv_swap">V/H scherm</string>
+  <string name="menu_nightmode">Nachtmodus</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_theme_setting">Thema instellingen</string>
   <string name="menu_title_clear_all">Alles wissen</string>
@@ -501,7 +505,7 @@ Deze pagina verlaten?"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Standaardlocatie herstellen</string>
   <string name="pref_file_download_default_path_prefix">Standaardlocatie: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadlocatie</string>
-  <string name="pref_file_download_save_title">Bestand downloaden en opslaan</string>
+  <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border_enabled">Vegen vanaf de schermrand om van tabblad te wisselen</string>
   <string name="pref_fling_on_border_enabled_title_summary">Veeg vanaf de schermrand naar links of rechts om tussen tabbladen te wisselen</string>
   <string name="pref_font_size_category">Webpagina tekstgrootte</string>
@@ -681,6 +685,7 @@ Deze pagina verlaten?"</string>
   <string name="suggest_access_item_singer_albums">%d albums</string>
   <string name="suggest_access_item_singer_pop">%d populaire nummers</string>
   <string name="suggest_access_music">Mi Music</string>
+  <string name="suggest_item_delete_text">Verwijderen</string>
   <string name="suggest_open_app_failed">Kon deze app niet openen</string>
   <string name="switch_proxy_dialog_msg">Netwerk kaping gedetecteerd. Gebruik MIUI\'s ingebouwde beveiliging app of meld dit bij uw mobiele provider.</string>
   <string name="switch_proxy_dialog_title">Netwerk kaping</string>
@@ -719,9 +724,9 @@ Deze pagina verlaten?"</string>
   <string name="user_defined_webpage">URL toevoegen</string>
   <string name="user_defined_webpage_title">URL toevoegen aan startpagina</string>
   <string name="username">Naam</string>
-  <string name="v5_deselect_all">Alle deselecteren</string>
+  <string name="v5_deselect_all">Alles deselecteren</string>
   <string name="v5_edit_mode_title_empty">0 geselecteerd</string>
-  <string name="v5_select_all">Alle geselecteerd</string>
+  <string name="v5_select_all">Alles geselecteerd</string>
   <string name="version_check_button_checking">Controleren…</string>
   <string name="version_check_button_default">Controleer op updates</string>
   <string name="version_check_button_download_failed">Hervat download</string>
