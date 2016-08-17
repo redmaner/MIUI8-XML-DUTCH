@@ -171,9 +171,11 @@
   <string name="disk_total">"Totaal: "</string>
   <string name="dislike_toast">Video\'s zoals deze worden niet aanbevolen voor jou</string>
   <string name="dislike_video">Ik ben niet geïntereseerd</string>
-  <string name="dlg_error_unmount_text">Loskoppelen USB opslag mislukt.</string>
+  <string name="dlg_error_unmount_text">Kon USB opslag niet loskoppelen.</string>
+  <string name="download">Download</string>
   <string name="download_current_progress">%1$d%%</string>
-  <string name="download_failed">Download mislukt</string>
+  <string name="download_fail">Kon niet downloaden</string>
+  <string name="download_failed">Kon niet downloaden</string>
   <string name="download_link_completed">%1$s gedeeld via KuaiPan. Tik op de onderstaande link om weer te geven: </string>
   <string name="downloaded_sticker_str">Gedownload</string>
   <string name="downloading">Downloaden</string>
@@ -220,6 +222,7 @@
   <string name="file_too_large">Bestand te groot om te uploaden</string>
   <string name="files">Bestanden</string>
   <string name="finished">Voltooid</string>
+  <string name="flow_setting">Instellingen</string>
   <string name="folder_exist">De map bestaat al.</string>
   <string name="folder_name_empty">Mapnaam mag niet leeg zijn</string>
   <string name="folder_name_illegal">Ongeldige mapnaam</string>
@@ -252,6 +255,7 @@
   <string name="homepage_tab_category">Categorieën</string>
   <string name="homepage_tab_file_view">Telefoon</string>
   <string name="homepage_tab_recent">Recent</string>
+  <string name="hot_app">Populaire apps</string>
   <string name="hot_comments">Populaire reacties</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Video\'s</string>
@@ -260,6 +264,7 @@
   <string name="if_cancel">Deze operatie annuleren?</string>
   <string name="image_loading_error">Kon afbeelding niet laden</string>
   <string name="input_memo_hint">Voer extra redenen in (optioneel)</string>
+  <string name="install_fail">Kon niet installeren</string>
   <string name="installing">Installeren…</string>
   <string name="instruction">Voer het volgende adres in op FTP client: </string>
   <string name="instruction_pre">Aanraken om de FTP server te starten</string>
@@ -475,6 +480,8 @@ en nooit de koele nieuwe missen!"</string>
   <string name="oauth_failed_tip">Kon autorisatie niet voltooien</string>
   <string name="oauth_success_tip">Autorisatie gelukt</string>
   <string name="online_not_support">Kan dit bestand op dit moment niet online bekijken</string>
+  <string name="only_wifi">Downloaden wanneer verbonden met Wi-Fi</string>
+  <string name="open_app">Openen</string>
   <string name="open_changed_file_message">Het bestand dat u probeert te openen is gewijzigd. 1. Download het bestand opnieuw om het bij te werken. 2. Upload het naar uw KuaiPan account.</string>
   <string name="open_changed_file_title">Verandering toegepast.</string>
   <string name="open_file_failed">Kan niet worden geopend</string>
@@ -584,6 +591,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">Mi Drive: %1$s beschikbaar, %2$s totaal</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Recente</string>
   <string name="recommend">Aanbevolen</string>
   <string name="recommend_topic">Aanbevolen topics</string>
   <string name="recommend_user">Aanbevolen profielen</string>
