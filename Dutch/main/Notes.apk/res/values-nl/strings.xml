@@ -10,6 +10,7 @@
   <string name="alert_message_edit_anyway">Als u deze notitie bewerkt, kan dat resulteren in gegevensverlies.</string>
   <string name="alert_title_delete">Notitie verwijderen?</string>
   <string name="alert_title_edit_anyway">Bevestig aanpassen notitie, dit kan dataverlies veroorzaken, weet u het zeker?</string>
+  <string name="alert_title_hidden_note">Herinnering van een verborgen notitie gekregen</string>
   <string name="all_folder_name">Alle notities</string>
   <string name="all_terms">%1$s en %2$s</string>
   <string name="app_name">Notities</string>
@@ -41,6 +42,8 @@ Druk op het plusteken om een folder te maken"</string>
   <string name="error_note_empty_for_clock">Instellen van de klok mislukt op een lege notitie</string>
   <string name="error_note_empty_for_send_to_desktop">Kan geen lege notitie verzenden naar startscherm</string>
   <string name="error_note_not_exist">De notitie bestaat niet</string>
+  <string name="error_send_empty_note">Kan een lege notitie niet verzenden</string>
+  <string name="error_send_empty_note_to_weibo">Kan een lege notitie niet naar Weibo verzenden</string>
   <string name="error_unsupport_content">Deze notitie bevat inhoud die niet wordt ondersteund, tik hier om bij te werken</string>
   <string name="error_widget_exist_for_send_to_desktop">Deze notitie bestaat al op de desktop</string>
   <string name="folder_exist">Een map met dezelfde naam bestaat al</string>
@@ -59,6 +62,7 @@ Druk op het plusteken om een folder te maken"</string>
   <string name="menu_hide">Verbergen</string>
   <string name="menu_move_parent_folder">Bovenliggende map</string>
   <string name="menu_move_to">Verplaatsen naar</string>
+  <string name="menu_new_folder">Nieuwe map</string>
   <string name="menu_restore">Herstellen</string>
   <string name="menu_send_as_image">Verzenden als afbeelding</string>
   <string name="menu_send_as_text">Verzenden als tekst</string>
