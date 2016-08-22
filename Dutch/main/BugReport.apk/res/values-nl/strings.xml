@@ -7,6 +7,8 @@
   <string name="app_label">Feedback</string>
   <string name="app_name">Feedback</string>
   <string name="btn_send">Verzenden</string>
+  <string name="bugreport_dialog_not_show_again">Niet meer tonen</string>
+  <string name="bugreport_dialog_submit_content">Uw feedback kan personlijke info bevatten.</string>
   <string name="bugreport_dump_complete_notification_summary">Tik om te bekijken.</string>
   <string name="bugreport_dump_complete_notification_title">Bugreport gemaakt</string>
   <string name="bugreport_dump_start_notification_summary">Dit kan enkele minuten duren.</string>
@@ -84,6 +86,7 @@
   <string name="feedback_submit_hint2">Ga naar \"Mijn rapporten\" om details te bekijken</string>
   <string name="feedback_submit_succ">Verzonden</string>
   <string name="feedback_submit_succ_button">Klaar</string>
+  <string name="feedback_submitting">Indienen…</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestie \"%2$s\"</string>
   <string name="feedback_title">Titel</string>
   <string name="feedback_title_hint">Beschrijf het probleem kort</string>
@@ -130,12 +133,12 @@
   <string name="michat_invation_invite_full">Sorry, onze medewerkers zijn op dit moment allemaal bezet. Probeer later opnieuw.</string>
   <string name="michat_kefu_welcome">Welkom bij Xiaomi online ondersteuning!</string>
   <string name="michat_lose_artificial">Er trad een netwerkfout op, u heeft de chat verlaten</string>
-  <string name="michat_menu_copy_text">Kopiëren</string>
-  <string name="michat_mesage_resend_error_network">Kon niet verbinden met het netwerk</string>
   <string name="michat_mesage_send_error_network">Kon niet verzenden, controleer netwerkinstellingen</string>
   <string name="michat_message_copy_info">Gekopieerd naar klembord</string>
+  <string name="michat_message_error_network">Kon niet verbinden met netwerk</string>
   <string name="michat_message_join_again">Blij dat je terug bent!</string>
   <string name="michat_message_robot_welcome">Mijn naam is Mi Bunny. Ik ben een online ondersteuningsrobot."</string>
+  <string name="michat_message_send_error_network">Kon niet verzenden, controleer de netwerkverbinding</string>
   <string name="michat_motto">Mi Support is klaar om te helpen</string>
   <string name="michat_msg_image_upload_error">Kon afbeelding niet versturen, probeer later opnieuw</string>
   <string name="michat_msg_input_info">Omschrijf uw probleem kort</string>
@@ -213,7 +216,7 @@
   <string name="section_screenshot">Schermafdruk</string>
   <string name="submit_dialog_cancel">Annuleren</string>
   <string name="submit_dialog_confirm">Indienen</string>
-  <string name="submit_dialog_content">"Uw feedback samen met error logs en de bijgevoegde foto's zullen worden verzonden naar de Mi servers waneer je apparaat verbonden is met Wi-Fi."</string>
+  <string name="submit_dialog_content">Uw feedback zullen samen verzonden worden met bijlagen en logs naar MIUI\’s servers. Het kan personlijke info bevatten.</string>
   <string name="submit_dialog_title">Bugrapport versturen</string>
   <string name="submit_feedback_info_failed">Kon rapport niet verzenden</string>
   <string name="suggestion_description">Voeg beschrijving hier toe</string>

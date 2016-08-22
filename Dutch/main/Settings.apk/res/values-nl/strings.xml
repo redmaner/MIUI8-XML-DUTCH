@@ -1362,6 +1362,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="font_size_summary">Verander de lettergrootte voor de tekst op het beginscherm, meldingspaneel, kiezer en systeemmenu\'s</string>
   <string name="font_size_summary1">"Als de tekst van uw systeem nog te klein is, probeer"</string>
   <string name="font_size_summary2">Lite mode</string>
+  <string name="forbidden_switch_apn_string">De geselecteerde APN instellingen komen niet overeen met het netwerktype</string>
   <string name="force_hw_ui">GPU rendering afdwingen</string>
   <string name="force_hw_ui_summary">Gebruik van GPU voor 2D tekening forceren</string>
   <string name="force_msaa">4x MSAA forceren</string>
@@ -1916,6 +1917,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="master_clear_summary">Alle gegevens op het apparaat wissen</string>
   <string name="master_clear_title">Terug naar fabrieksinstellingen</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">"Quad core Max "</string>
   <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa core Max "</string>
@@ -2142,6 +2144,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_application">Niets</string>
   <string name="no_applications">Geen apps.</string>
   <string name="no_battery_summary">Geen batterijverbruik sinds laatste volledige oplading</string>
+  <string name="no_connected_devices">Geen verbonden apparaten</string>
   <string name="no_data_usage">Geen data gebruikt</string>
   <string name="no_default_apps">Geen standaardapps.</string>
   <string name="no_device_admins">Geen apparaatbeheerders beschikbaar</string>
@@ -3224,6 +3227,8 @@ Om schermpinning te gebruiken:
   <string name="show_all_anrs">Alle ANR\'s weergeven</string>
   <string name="show_all_anrs_summary">"'App reageert niet' weergeven voor apps op achtergrond"</string>
   <string name="show_background_processes">Gecachte processen weergeven</string>
+  <string name="show_connected_devices_summary">Bekijk de verbonden apparaten</string>
+  <string name="show_connected_devices_title">Verbonden apparaten</string>
   <string name="show_cpu_usage">CPU-gebruik weergeven</string>
   <string name="show_cpu_usage_summary">Schermoverlay met huidig CPU-gebruik</string>
   <string name="show_dev_already">Niet nodig, u bent al ontwikkelaar.</string>
@@ -3632,6 +3637,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Gebruiksstatistieken</string>
   <string name="testing_wifi_info">Wi-Fi informatie</string>
+  <string name="tether_devices_management_title">Apparaten beheren</string>
+  <string name="tether_settings_disabled">Persoonlijke hotspot is uitgeschakeld</string>
   <string name="tether_settings_title_all">Tethering en draagbare hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
