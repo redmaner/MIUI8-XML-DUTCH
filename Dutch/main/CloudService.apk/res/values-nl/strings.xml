@@ -221,7 +221,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_battery_low">Batterij te laag om te sync.</string>
   <string name="micloud_main_battery_message">"Verbind apparaat met oplader om te sync."</string>
   <string name="micloud_main_clear_now">Wissen</string>
-  <string name="micloud_main_data_unsynced">Wachten om %d te synchroniseren</string>
+  <string name="micloud_main_data_unsynced">Items wachten om te synchroniseren: %d</string>
   <string name="micloud_main_detail">Detail bekijken</string>
   <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
   <string name="micloud_main_memory_low_message">Om te sync., items te verwijderen die u hebt opgeslagen in de cloud.</string>
@@ -240,7 +240,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_set_internet">Netwerk</string>
   <string name="micloud_main_space_full">Cloudopslag is vol</string>
   <string name="micloud_main_space_full_title">Cloudopslag is vol</string>
-  <string name="micloud_main_space_low">Bijna geen ruimte meer…</string>
+  <string name="micloud_main_space_low">Bijna geen ruimte meer</string>
   <string name="micloud_main_stop_sync">Sync. gestopt</string>
   <string name="micloud_main_suggest_master_sync">Kon niet alles sync.</string>
   <string name="micloud_main_suggest_setting">"Wachten op Wi-Fi verbinding om te sync.
@@ -291,7 +291,7 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_notif_content_sync_with_off">Tik om uw apparaat nu te sync.</string>
   <string name="micloud_notif_title_battery_low">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_clipboard_push">Inhoud gekopiëerd naar klembord</string>
-  <string name="micloud_notif_title_depend_wifi">%d wacht om te sync.</string>
+  <string name="micloud_notif_title_depend_wifi">Items wachten om te synchroniseren: %d </string>
   <string name="micloud_notif_title_master_depend_wifi">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_memory_low">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_multi_user_error">Kan niet synchroniseren met Mi Cloud</string>
@@ -332,7 +332,7 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_sync_alert_dialog_negative">Annuleren</string>
   <string name="micloud_sync_alert_dialog_positive">Ok</string>
   <string name="micloud_sync_alert_dialog_title">Gebruik Mi Cloud</string>
-  <string name="micloud_title_dspt" formatted="false">"%s totaal %s gebruikte | %s resterend"</string>
+  <string name="micloud_title_dspt" formatted="false">"%s totaal %s gebruikt | %s resterend"</string>
   <string name="micloud_title_dspt_remain">%s resterend</string>
   <string name="micloud_title_full_dspt">Je opslagruimte limiet is bereikt</string>
   <string name="micloud_unlogin_for_time_summary"/>
@@ -344,7 +344,7 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_warn_full_sum">Nieuwe items worden niet meer op Mi Cloud gesynchroniseerd.</string>
   <string name="micloud_warn_full_title">Geen ruimte meer</string>
   <string name="micloud_warn_low_sum">Uw Mi Cloud is 90% vol.</string>
-  <string name="micloud_warn_low_title">Bijna geen ruimte meer…</string>
+  <string name="micloud_warn_low_title">Bijna geen ruimte meer</string>
   <string name="micloud_web_discription">Bezoek i.mi.com</string>
   <string name="micloud_web_discription_01">Aanmelden op i.mi.com</string>
   <string name="micloud_web_discription_02">Om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
