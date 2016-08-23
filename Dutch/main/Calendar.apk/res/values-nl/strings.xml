@@ -30,7 +30,6 @@
   <string name="ad_card_installing">Installeren</string>
   <string name="ad_card_network_error">Geen netwerkverbinding, probeer het later opnieuw!</string>
   <string name="ad_card_spread">Verspreiding</string>
-  <string name="add_account">Account toevoegen</string>
   <string name="add_calendar">Kalender toevoegen</string>
   <string name="add_card">Kaart toevoegen</string>
   <string name="add_topic_success">Abonneren\"%s\"gelukt</string>
@@ -262,12 +261,13 @@
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="new_event_dialog_label">Nieuwe afspraak</string>
   <string name="new_event_dialog_option">Nieuwe afspraak</string>
-  <string name="no_calendars_found">"Voordat u een afspraak kunt toevoegen, moet u ten minste een Agenda account aan uw apparaat toevoegen en de agenda zichtbaar maken. Raak 'Account toevoegen' aan om een account toe te voegen(als u net een account heeft toegevoegd, wacht tot het synchroniseren voltooid is en probeert u het opnieuw). Of raak 'Annuleren' aan en zorg ervoor dat er ten minste één agenda zichtbaar is."</string>
   <string name="no_local_calendar">Geen abonnement op kalender :)</string>
   <string name="no_network">Geen netwerk. Netwerk vernieuwen :)</string>
   <string name="no_network_btn">Probeer opnieuw</string>
-  <string name="no_syncable_calendars">"Geen agenda's"</string>
   <string name="no_title_label">(Geen titel)</string>
+  <string name="no_visiable_calendar_message">U moet een kalender account selecteren, klik Selecteer Account in de volgende stap.</string>
+  <string name="no_visiable_calendar_select_account">Account selecteren</string>
+  <string name="no_visiable_calendar_title">Kalender Account selecteren</string>
   <string name="not_synced">Niet gesynchroniseerd</string>
   <string name="olympic_rank">Ranking</string>
   <string name="olympic_total">Totaal</string>
@@ -300,6 +300,7 @@
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Eigen tijdzone</string>
   <string name="preferences_import_credit_repayment">Creditkaartbetalingen</string>
+  <string name="preferences_import_travel">Treintickets</string>
   <string name="preferences_notification_ringtone_title">Geluid</string>
   <string name="preferences_reminder_title">Meldingen en herinneringen</string>
   <string name="preferences_show_week_num_title">Weeknummer weergeven</string>
@@ -401,6 +402,7 @@
   <string name="taishen">band van God</string>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Afspraak %1$s van %2$s.</string>
+  <string name="template_week_num">Week %1$s</string>
   <string name="text_year">Jaarlijks</string>
   <string name="ticket_card_date">%1$s maand %2$sJapan</string>
   <string name="ticket_card_description">Vandaag de dag kunnen worden geboekt</string>
