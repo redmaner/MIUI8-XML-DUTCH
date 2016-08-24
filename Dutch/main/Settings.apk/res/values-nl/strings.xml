@@ -55,10 +55,10 @@ Als het apparaat meerdere gebruikers heeft, wordt toegankelijkheid tijdelijk ing
   <string name="accessibility_screen_magnification_summary">"Wanneer deze functie is ingeschakeld, kunt u in- en uitzoomen door drie keer op het scherm te tikken.
 
 Wanneer u bent ingezoomd, kunt u:
-"&lt;li&gt;&lt;ul&gt;"Pannen: sleep twee of meer vingers over het scherm.
-"&lt;li&gt;Zoomniveau aanpassen: knijp twee of meer vingers samen of spreid deze.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+Pannen: sleep twee of meer vingers over het scherm.
+Zoomniveau aanpassen: knijp twee of meer vingers samen of spreid deze.
 
-U kunt ook de inhoud onder uw vinger tijdelijk vergroten &amp;#8217; door drie keer te tikken en vast te houden. In deze vergrote staat kunt u slepen met uw vinger om verschillende gedeelten van het scherm te verkennen. Til uw vinger op om terug te keren naar de vorige staat.
+U kunt ook de inhoud onder uw vinger tijdelijk vergroten door drie keer te tikken en vast te houden. In deze vergrote staat kunt u slepen met uw vinger om verschillende gedeelten van het scherm te verkennen. Til uw vinger op om terug te keren naar de vorige staat.
 
 Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toetsenbord en de navigatiebalk."</string>
   <string name="accessibility_screen_magnification_title">Vergrotingsgebaren</string>
@@ -715,6 +715,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="captioning_foreground_color">Tekstkleur</string>
   <string name="captioning_foreground_opacity">Tekstdekking</string>
   <string name="captioning_locale">Taal</string>
+  <string name="captioning_preset">Stijl ondertiteling</string>
   <string name="captioning_preview_characters">Aa</string>
   <string name="captioning_preview_text">Ondertiteling ziet er zo uit</string>
   <string name="captioning_preview_title">Voorbeeld</string>
@@ -834,7 +835,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="credentials_unlock_hint">Typ het wachtwoord voor referentieopslag.</string>
   <string name="credentials_wrong_password">Onjuist wachtwoord.</string>
   <string name="crypt_keeper_button_text">Apparaat versleutelen</string>
-  <string name="crypt_keeper_conditions">Versleutelen duurt een uur of meer. Je moet beginnen met het opgeladen van de batterij en houd uw telefoon aangesloten gedurende het gehele proces. Als je het wilt onderbreken, zal sommige of alle data verloren gaan.</string>
+  <string name="crypt_keeper_conditions">Versleutelen duurt een uur of langer. Je moet beginnen met het opladen van de batterij en de telefoon aangesloten houden gedurende het gehele proces. Als je het proces onderbreekt, zal sommige of alle data verloren gaan.</string>
   <string name="crypt_keeper_conditions_title">Over het versleutelen van uw apparaat</string>
   <string name="crypt_keeper_confirm_title">Versleutelen?</string>
   <string name="crypt_keeper_content">U kunt uw accounts, instellingen, gedownloade apps en bijbehorende gegevens, media en andere bestanden versleutelen.</string>
@@ -843,7 +844,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
 
 Om verder te gaan met uw telefoon, moet u de fabrieksinstellingen terugzetten. Wanneer u uw telefoon instelt na de reset, zult u de mogelijkheid hebben om alle data die werd geback-upt naar uw Google account te herstellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Decodering mislukt</string>
-  <string name="crypt_keeper_decrypt_methods">Nadat u uw telefoon hebt versleuteld, ervan uitgaande dat u  een vergrendelscherm wilt instellen (dat wil zeggen een patroon of numerieke pincode of wachtwoord), moet u het scherm ontgrendelen om de telefoon te ontsleutelen telkens als u die inschakelt. De enige andere manier om te ontsleutelen is om een fabrieks reset uit te voeren, waarbij al uw gegevens gewist worden.</string>
+  <string name="crypt_keeper_decrypt_methods">Nadat u uw telefoon hebt versleuteld, ervan uitgaande dat u  een vergrendelscherm wilt instellen (dat wil zeggen een patroon of numerieke pincode of wachtwoord), moet u het scherm ontgrendelen om de telefoon te ontsleutelen telkens als u die inschakelt. De enige andere manier om te ontsleutelen is om een fabrieksreset uit te voeren, waarbij al uw gegevens gewist worden.</string>
   <string name="crypt_keeper_decrypt_methods_title">Uw apparaat ontsleutelen</string>
   <string name="crypt_keeper_desc">"U kunt uw instellingen, gedownloade apps en de bijbehorende gegevens, media en andere bestanden van uw accounts versleutelen. Nadat u uw telefoon versleuteld hebt, ervan uitgaande dat je een vergrendelscherm hebt ingestelt (dat is, een patroon of een numerieke pincode of wachtwoord), moet u het scherm ontgrendelen om de telefoon te decoderen telkens wanneer u het inschakelt. De enige andere manier om te decoderen is om een fabrieksreset uit te voeren, daarmee wist u al uw gegevens.
 
@@ -882,6 +883,7 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="daltonizer_mode_monochromacy">Monochromasie</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
+  <string name="daltonizer_type">Correctiemodus</string>
   <string name="daltonizer_type_overridden">Verworpen door %1$s</string>
   <string name="dashboard_title">Instellingen</string>
   <string name="data_size_label">Gegevens</string>
@@ -3674,7 +3676,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="total_memory">Totaal geheugen</string>
   <string name="total_size">%s totaal</string>
   <string name="total_size_label">Totaal</string>
-  <string name="touch_assistant">Zwevende bal</string>
+  <string name="touch_assistant">Quick ball</string>
   <string name="touch_filtered_warning">Omdat een app een toestemmingsaanvraaf verdoezelt, kan instellingen uw invoer niet controleren.</string>
   <string name="touch_sensitive_summary">Maakt het scherm extra gevoelig voor druk</string>
   <string name="touch_sensitive_title">Handschoenmodus</string>
