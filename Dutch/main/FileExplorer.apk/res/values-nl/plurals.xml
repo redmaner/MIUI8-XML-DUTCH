@@ -296,4 +296,12 @@
         <item quantity="few">%1$s volgers</item>
         <item quantity="many">%1$s volgers</item>
     </plurals>
+	<plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s opmerkingen</item>
+        <item quantity="one">%1$s opmerking</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">U kan %d karakters invoeren</item>
+        <item quantity="one">U kan %d karakter invoeren</item>
+    </plurals>
 </resources>
