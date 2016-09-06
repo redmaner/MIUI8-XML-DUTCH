@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Zoeken</string>
+  <string name="application_desc">Applicatie</string>
+  <string name="applications_search_label">Apps</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.nl/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.nl/search?q=%s&amp;tn=ins</string>
@@ -60,17 +62,12 @@
   <string name="search_sources_summary">Kies wat er moet worden doorzocht op de telefoon</string>
   <string name="search_suggestion">Tips</string>
   <string name="search_videos">Video\'s doorzoeken</string>
-  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
   <string name="search_widget">Zoeken</string>
   <string name="send_secret_code">Code verzenden</string>
+  <string name="settings_description">Namen van geïnstalleerde apps</string>
   <string name="show_more">Meer weergeven</string>
   <string name="suggest_open_app_failed">Kan deze app niet openen</string>
   <string name="system_search_category_title">Telefoon</string>
   <string name="voice_search_hint_title">Probeer te zeggen:</string>
-  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
-  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
   <string name="xiaomi_search_label">Resultaten</string>
-  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>

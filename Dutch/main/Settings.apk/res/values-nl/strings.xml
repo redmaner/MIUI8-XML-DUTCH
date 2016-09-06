@@ -316,6 +316,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="auto_restore_title">Automatisch terugzetten</string>
   <string name="auto_startup_application_manage">Automatisch starten</string>
   <string name="auto_startup_count">%d apps hebben toestemming om automatisch te starten</string>
+  <string name="auto_upload_debug_log_summary">Diagnostische data kan de informatie over uw gebruik van de hardware, het besturingssysteem en de apps bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van problemen in het systeem en zal nooit worden gebruikt om u persoonlijk te identificeren.</string>
+  <string name="auto_upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="automatic_brightness">Automatische helderheid</string>
   <string name="available_size">%s beschikbaar</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
@@ -1007,7 +1009,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Indelingsgrenzen weergeven</string>
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
-  <string name="debug_log">Gebruikerservaringprogramma</string>
   <string name="debug_monitoring_category">Controleren</string>
   <string name="debug_networking_category">Verbindingen</string>
   <string name="debug_view_attributes">Attribuut inspectie bekijken inschakelen</string>
@@ -1448,6 +1449,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
   <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
+  <string name="has_screenshot_sound">Schermafdrukgeluid</string>
   <string name="hdcp_checking_dialog_title">HDCP controlegedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
   <string name="hdmi_3d_display_enable_summary">Ondersteuning 3D games</string>
@@ -1857,6 +1859,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockscreen_glogin_checking_password">Controleren…</string>
   <string name="lockscreen_glogin_password_hint">Wachtwoord</string>
   <string name="lockscreen_glogin_submit_button">Inloggen</string>
+  <string name="long_press_volume_down">Lang drukken volume omlaag</string>
   <string name="lte_ram_dump_off">LTE RAM dump uitschakelen</string>
   <string name="lte_ram_dump_on">LTE RAM dump inschakelen</string>
   <string name="macaddr_label">MAC adres:</string>
@@ -2544,6 +2547,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="preference_change_password_title">Wachtwoord wijzigen</string>
   <string name="preferred_app_settings">Standaardapps</string>
   <string name="preferred_app_settings_default">Standaard</string>
+  <string name="preferred_app_settings_not_selected">Niet geselecteerd</string>
   <string name="preferred_app_settings_reset">Resetten naar standaardinstellingen</string>
   <string name="preferred_app_settings_reset_button">Resetten</string>
   <string name="preferred_app_settings_reset_message">Standaardapp voorkeuren worden teruggezet naar fabrieksinstellingen.</string>
@@ -2906,7 +2910,8 @@ Om schermpinning te gebruiken:
   <string name="screensaver_settings_title">Dagdromen</string>
   <string name="screensaver_settings_when_to_dream">Wanneer dagdromen</string>
   <string name="screenshot">Schermafdruk</string>
-  <string name="screenshot_three_gesture">Naar beneden schuiven met drie vingers zal een schermafdruk maken</string>
+  <string name="screenshot_three_gesture">Met drie vingers tegelijk over het scherm vegen zal een schermafdruk maken</string>
+  <string name="screenshot_three_gesture_summary">Andere gebaren met drie vingers zullen uitgeschakeld worden</string>
   <string name="sd_card_settings_label">USB opslag</string>
   <string name="sd_card_storage">USB opslag</string>
   <string name="sd_eject">Gedeelde opslag ontkoppelen</string>
@@ -3646,6 +3651,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Gebruiksstatistieken</string>
   <string name="testing_wifi_info">Wi-Fi informatie</string>
+  <string name="tether_and_hotspot_title">Tethering en hotspot</string>
   <string name="tether_devices_management_title">Apparaten beheren</string>
   <string name="tether_settings_disabled">Persoonlijke hotspot is uitgeschakeld</string>
   <string name="tether_settings_title_all">Tethering en draagbare hotspot</string>
@@ -3808,8 +3814,6 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
-  <string name="upload_debug_log_summary">Help Xiaomi haar producten en diensten te verbeteren door anonieme gegevens te versturen</string>
-  <string name="upload_debug_log_title">Gebruikerservaringprogramma</string>
   <string name="usage_access">Gebruikstoegang</string>
   <string name="usage_access_description">Gebruikstoegang laat een app toe om bij te houden welke andere apps u gebruikt en hoe vaak, evenals uw provider, taalinstellingen en andere details.</string>
   <string name="usage_access_title">Apps met gebruikstoegang</string>
@@ -3937,6 +3941,9 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="user_exit_guest_confirm_title">Gast verwijderen?</string>
   <string name="user_exit_guest_dialog_remove">Verwijderen</string>
   <string name="user_exit_guest_title">Gast verwijderen</string>
+  <string name="user_experience_program">Gebruikerservaring programma</string>
+  <string name="user_experience_program_summary">Help MIUI verbeteren door het sturen van anonieme gebruiksgegevens</string>
+  <string name="user_experience_program_title">User Experience Program</string>
   <string name="user_guest">Gast</string>
   <string name="user_image_choose_photo">Foto kiezen in galerij</string>
   <string name="user_image_photo_selector">Foto selecteren</string>

@@ -95,14 +95,6 @@
         <item>Hoog</item>
         <item>Zeer hoog</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
         <item>PIN code van peer apparaat</item>
@@ -177,11 +169,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
 	   <item>Ongespecifiëerd</item>
@@ -265,21 +252,11 @@
         <item>high power locatie waarnemen</item>
         <item>verbruikstatistieken krijgen</item>
         <item>microfoon dempen of inschakelen</item>
-        <item>toast window</item>
         <item>media projecteren</item>
         <item>VPN activeren</item>
-        <item>Wi-Fi wjzigen</item>
-        <item>bluetooth wijzigen</item>
-        <item>MMS verzenden</item>
-        <item>MMS lezen</item>
-        <item>MMS schrijven</item>
-        <item>autostarten</item>
-        <item>NFC wijzigen</item>
-        <item>SMS verwijderen</item>
-        <item>MMS verwijderen</item>
-        <item>contacten verwijderen</item>
-        <item>belgeschiedenis verwijderen</item>
-        <item>data wijzigen</item>
+        <item>Achtergrond schrijven</item>
+        <item>Hulp structuur</item>
+        <item>Hulp schermafdruk</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Locatie</item>
@@ -323,12 +300,12 @@
         <item>Meldingsvolume</item>
         <item>Bluetooth volume</item>
         <item>Ingeschakeld houden</item>
-        <item>Wakker houden</item>
-	<item>Locatie</item>
+	    <item>Locatie</item>
         <item>Locatie</item>
         <item>Gebruiksstatistieken verkrijgen</item>
-        <item>Microfoon dempen</item>
+        <item>Microfoon inschakelen of dempen</item>
         <item>Media projecteren</item>
+		<item>VPN activeren</item>
         <item>Schrijf achtergrond</item>
         <item>Hulp structuur</item>
         <item>Hulp schermafdruk</item>
@@ -363,12 +340,6 @@
 	<item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -377,25 +348,6 @@
         <item>Geel op blauw</item>
         <item>Aangepast</item>
 	</string-array>	
-    <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
-    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nooit controleren</item>
         <item>Alleen op DRM inhoud controleren</item>
@@ -461,14 +413,12 @@
     <string-array name="track_frame_time_entries">
         <item>Uit</item>
         <item>Op het scherm als balken</item>
-	<item>Op het scherm als lijnen</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Uit</item>
         <item>Toon overdrawgebieden</item>
         <item>Toon gebieden voor deuteranomalie</item>
-	<item>Toon overdraw teller</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standaardlimiet</item>
@@ -477,14 +427,6 @@
         <item>Maximaal 2 processen</item>
         <item>Maximaal 3 processen</item>
         <item>Maximaal 4 processen</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -508,6 +450,11 @@
         <item>Neanderthaler</item>
         <item>Chimpansee</item>
         <item>Aap</item>
+    </string-array>
+	    <string-array name="security_settings_premium_sms_values">
+        <item>Vragen</item>
+        <item>Nooit toestaan</item>
+        <item>Altijd toestaan</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normaal</item>
@@ -544,6 +491,13 @@
         <item>Paars</item>
         <item>Roze</item>
         <item>Rood</item>
+    </string-array>
+	    <string-array name="usb_configuration_titles">
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio bron</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Bij voorkeur Wi-Fi</item>
@@ -597,24 +551,9 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim_for_cmcc">
-        <item>PEAP</item>
-        <item>SIM</item>
+        <item>WAPI hexadecimaal</item>
     </string-array>
     <string-array name="screen_key_position_action">
         <item>Menuknop links, terugknop rechts</item>
@@ -624,20 +563,16 @@
         <item>Recente apps tonen</item>
         <item>Menu tonen</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Geen</item>
-        <item>Recente apps tonen</item>
-        <item>Assistent openen</item>
-        <item>Google now openen</item>
-        <item>Huidige app sluiten</item>
-		<item>Quick Search openen</item>
-        <item>Menu tonen</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 seconden</item>
         <item>1 seconde</item>
         <item>1.5 seconden</item>
         <item>2 seconden</item>
+    </string-array>
+	<string-array name="long_press_volume_down_action">
+        <item>Geen</item>
+        <item>Street-snap(deze modus moet geselecteerd worden in camera)</item>
+        <item>Snelkoppelingen openbaar vervoer</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 seconde</item>
@@ -668,9 +603,12 @@
 	    <string-array name="msd_pc_system_install_summary">
         <item>2.Volg de instucties op het scherm</item>
     </string-array>
+	    <string-array name="msd_pc_system_retry_xp">
+        <item>MiPhoneManager opnieuw installeren.</item>
+    </string-array>
 	<string-array name="msd_pc_system_retry_linux">
         <item>Installatie tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Directory aanmaken: mkdir /media/mtp</item>
+        <item>Map aanmaken: mkdir /media/mtp</item>
         <item>Bevestig gebruikersrechten van de groep in de huidige samengevoegde gebruikersgroep</item>
         <item>Opnieuw aanmelden</item>
         <item>Toegang geplaatst apparaat: mtpfs /media/mtp via file explorer; zelfde lakatie als directory</item>
@@ -733,7 +671,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Galerij</item>
         <item>Muziek</item>
         <item>Email</item>
-	<item>Video</item>
+	    <item>Video afspelen</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Netwerk is traag door het vele verkeer</item>
@@ -766,18 +704,12 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>KOUD</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inch</item>
-        <item>4.0 inch</item>
-        <item>3.5 inch</item>
-    </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Direct</item>
         <item>1 minuut</item>
+		<item>30 seconden</item>
         <item>2 minuten</item>
         <item>5 minuten</item>
-        <item>15 minuten</item>
-        <item>30 minuten</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Systeemanimaties verbergen</item>
@@ -800,23 +732,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Kindermodus</item>
         <item>File Explorer</item>
 	    <item>Appvergrendeling</item>
-		<item>Tweede ruimte</item>
-    </string-array>
-    <string-array name="description_primary">
-        <item>骁龙801</item>
-        <item>GB</item>
-        <item>GB</item>
-        <item>5 inches</item>
-        <item>4G</item>
-        <item>13MP</item>
-    </string-array>
-    <string-array name="description_secondary">
-        <item>Quad-core 2.5GHz</item>
-        <item>Telefoon opslag</item>
-        <item>LPDDR3 geheugen</item>
-        <item>Full HD-scherm</item>
-        <item>High-speed netwerk</item>
-        <item>High-definition camera</item>
     </string-array>
 	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>

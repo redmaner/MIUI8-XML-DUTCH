@@ -42,9 +42,11 @@
   <string name="backup_title">WeChat video backups</string>
   <string name="big5_summary">Traditionele Chinese Windows standaard codering</string>
   <string name="big5_title">BIG5</string>
+  <string name="bind">Toevoegen</string>
   <string name="bind_account">Bestaand account synchroniseren</string>
   <string name="bind_account_summary">Synchroniseer je bestaande KuaiPan account met uw Mi Account</string>
   <string name="bind_failed_tip">Kon niet toevoegen</string>
+  <string name="bind_need_to_login">Aanmelden</string>
   <string name="bind_phone_dialog_bind">Nu toevoegen</string>
   <string name="bind_phone_dialog_cancle">Niet toevoegen</string>
   <string name="bind_phone_dialog_tip">Uw video kan meedoen in rankings en prijzen winnen. In het geval u iets wint, kunnen we geen contact met u opnemen tenzij u uw telefoonnummer opgeeft.</string>
@@ -94,6 +96,7 @@
   <string name="clean_title">Bestanden die ouder zijn dan 30 dagen verwijderen.</string>
   <string name="clean_trash_box">Prullenbak legen</string>
   <string name="click_to_switch_volume">Tik hier om te schakelen tussen intern geheugen en SD kaart</string>
+  <string name="click_to_switch_volume_pad">Tik om overschakelen tussen interne opslag en SD kaart</string>
   <string name="close">Sluiten</string>
   <string name="comment_delete_message">De reactie zal permanent verwijderd worden.</string>
   <string name="comment_delete_title">Reactie verwijderen</string>
@@ -159,6 +162,8 @@
   <string name="delete_video_dialog_title">Video verwijderen</string>
   <string name="delete_video_success">Verwijderen gelukt</string>
   <string name="des_running_trans">%1$d bestanden zijn niet verplaatst.</string>
+  <string name="dialog_logout_message">Nu afmelden?</string>
+  <string name="dialog_logout_title">Afmelden</string>
   <string name="dialog_select_type">Type selecteren</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Foto\'s</string>
@@ -208,6 +213,7 @@
   <string name="favorite_photo">Foto\'s</string>
   <string name="favorite_ringtone">Beltonen</string>
   <string name="favorite_screen_cap">Schermafdrukken</string>
+  <string name="female">Vrouw</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Bestand opgeslagen naar\"%1$s\"</string>
   <string name="file_info_canread">Leesbaar: </string>
@@ -323,6 +329,7 @@
   <string name="make_private_msg_1">Dit bestand verbergen?</string>
   <string name="make_private_msg_2">Deze bestanden verbergen?</string>
   <string name="make_private_msg_3">Alle bestanden in deze map zullen worden verborgen.</string>
+  <string name="male">Man</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Opruimen</string>
   <string name="menu_item_ftp">FTP</string>
@@ -386,6 +393,7 @@
   <string name="move_icon_to_desktop_hint">Maak een startschermsnelkoppeling aan voor Explorer om bestanden efficiënter te beheren.</string>
   <string name="move_icon_to_desktop_success">Nu kunt u de Explorer snelkoppeling vinden op het startscherm.</string>
   <string name="move_to">Verplaatsen naar…</string>
+  <string name="msg_notify_setting">Meldingsinstellingen</string>
   <string name="msg_set_password">Eerst wachtwoord instellen</string>
   <string name="multi_select_title">%1$s geselecteerd</string>
   <string name="my_app">Appdata</string>
@@ -449,8 +457,6 @@ en nooit de koele nieuwe missen!"</string>
   <string name="no_message">Geen berichten</string>
   <string name="no_more_space">Niet genoeg ruimte.</string>
   <string name="no_network_retry">Kan niet verbinden met netwerk. Controleer de verbinding en probeer opnieuw</string>
-  <string name="no_network_str">Kon niet verbinden met netwerk. Controleer uw netwerkverbinding en probeer opnieuw.</string>
-  <string name="no_network_tip">Kan niet verbinden met netwerk. Controleer verbinding en probeer opnieuw.</string>
   <string name="no_new_content_tip">Alle items zijn up to date</string>
   <string name="no_recent_files">Geen recente bestanden</string>
   <string name="no_tasks">Geen taken.</string>
@@ -479,6 +485,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="notify_private_folder_title">Verborgen mappen aanmaken</string>
   <string name="oauth_failed_tip">Kon autorisatie niet voltooien</string>
   <string name="oauth_success_tip">Autorisatie gelukt</string>
+  <string name="one_account_bind_needed">Voeg tenminste één account toe</string>
   <string name="online_not_support">Kan dit bestand op dit moment niet online bekijken</string>
   <string name="only_wifi">Downloaden wanneer verbonden met Wi-Fi</string>
   <string name="open_app">Openen</string>
@@ -531,13 +538,14 @@ en nooit de koele nieuwe missen!"</string>
   <string name="operation_unfavorite">Uit favorieten verwijderen</string>
   <string name="operation_unlike">Vind ik niet leuk</string>
   <string name="origin_name">%1$s: </string>
-  <string name="other_user_follow_title">Personen die ik volg</string>
+  <string name="other_user_fans_tab">Fans</string>
+  <string name="other_user_follow_tab">Volgen</string>
   <string name="other_user_liked_topic_tip">Geen onderwerpen</string>
   <string name="other_user_liked_video_title">Video\'s die ik leuk vond</string>
   <string name="other_user_no_follow_tip">"U hebt nog niemand gevolgd.</string>
   <string name="other_user_no_liked_video_tip">Geen video\'s die u leuk vond.</string>
   <string name="other_user_topic_tab">Topics</string>
-  <string name="other_user_video_tab">Video\'s</string>
+  <string name="other_user_video_tab">Uploads</string>
   <string name="pan_settting">Instellingen KuaiPan</string>
   <string name="partial_cancel_successful">"Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaatst naar %s"</string>
   <string name="partial_delete_failure">Kon sommige bestanden niet verwijderen, probeer opnieuw</string>
@@ -555,6 +563,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="phone_get_code_tip">Teveel pogingen om code te krijgen vandaag</string>
   <string name="phone_has_used_tip">Deze telefoon is verbonden aan een bestaand account, probeer een andere.</string>
   <string name="phone_login_title">Telefoon</string>
+  <string name="phone_num">Telefoonnummer</string>
   <string name="phone_num_et_hint">Voer telefoonnummer in</string>
   <string name="phone_num_format_tip">Ongeldig telefoonnummer</string>
   <string name="phone_send_code">Code verkrijgen</string>
@@ -616,11 +625,14 @@ en nooit de koele nieuwe missen!"</string>
   <string name="request_timeout">Netwerkverzoek time-out</string>
   <string name="reset_password">Wachtwoord veranderen</string>
   <string name="restoring">Herstellen…</string>
+  <string name="rlv_closing">Afsluiten…</string>
   <string name="rlv_last_loading_time">Laatst vernieuwd: %1$s</string>
   <string name="rlv_last_refreshing_time">%1$s geüpdatet</string>
   <string name="rlv_loading_more">Een momentje…</string>
+  <string name="rlv_pull_to_close">Naar beneden trekken om af te sluiten</string>
   <string name="rlv_pull_to_refresh">Trekken om te vernieuwen</string>
-  <string name="rlv_refreshing">Scannen van bestanden…</string>
+  <string name="rlv_refreshing">Vernieuwen…</string>
+  <string name="rlv_release_to_close">Loslaten om af te sluiten</string>
   <string name="rlv_release_to_refresh">Loslaten om te vernieuwen</string>
   <string name="save_to_local">Downloaden</string>
   <string name="sd_card_available">Beschikbaar: %1$s</string>
@@ -684,6 +696,8 @@ en nooit de koele nieuwe missen!"</string>
   <string name="server_control_settings">Instellingen</string>
   <string name="server_error">Serverfout, probeer later opnieuw. (Fout %s)</string>
   <string name="setting">Instellingen</string>
+  <string name="setting_account_bind">Account toevoegen</string>
+  <string name="setting_message_notify">Meldingen</string>
   <string name="share_box">Gedeeld</string>
   <string name="share_box_receive">Ontvangen</string>
   <string name="share_box_send">Verzonden</string>
@@ -748,6 +762,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="tab_storage">OPSLAG</string>
   <string name="tag_weixin_video">Kleine video\'s</string>
   <string name="terabyteShort">TB</string>
+  <string name="tip">Attentie</string>
   <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">DocumentsUI inschakelen</string>
   <string name="title_expire_video">Staat op het punt te vervallen</string>
@@ -779,8 +794,19 @@ en nooit de koele nieuwe missen!"</string>
   <string name="ui_main_toast_favorite_added">Toegevoegd aan favorieten</string>
   <string name="ui_main_toast_favorite_removed">Uit favorieten verwijderd</string>
   <string name="ui_main_toast_operation_failed">Kan %1$s niet uit favorieten verwijderen</string>
+  <string name="unbind">Verwijderen</string>
+  <string name="unbind_account">%s verwijderen?</string>
+  <string name="unbind_fail">Kon niet verwijderen</string>
+  <string name="unbind_success">Met succes verwijderd</string>
+  <string name="unlogin">Eerst aanmelden</string>
   <string name="unmount_inform_text">USB opslag loskoppelen?</string>
   <string name="unreviewed_video_cannot_share">Video\'s moeten worden beoordeeld voordat deze gedeeld kunnen worden</string>
+  <string name="update_failed">Kon niet opslaan, probeer opnieuw</string>
+  <string name="update_loading">Opslaan…</string>
+  <string name="upload_avatar_camera">Camera</string>
+  <string name="upload_avatar_failed">Kon niet uploaden, probeer opnieuw</string>
+  <string name="upload_avatar_loading">Uploaden…</string>
+  <string name="upload_avatar_local">Galerij</string>
   <string name="upload_external_action_hint">Video link plakken</string>
   <string name="upload_external_notification_failed">Kon niet publiceren</string>
   <string name="upload_external_notification_success">Met succes gepubliceerd</string>
@@ -796,6 +822,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="upload_notification_success">Uploaden gelukt</string>
   <string name="upload_notification_success_content">Uw video zou moeten worden beoordeeld voordat deze wordt gedeeld met andere mensen</string>
   <string name="upload_notification_title">Video aan het uploaden</string>
+  <string name="upload_user_photo">Uploaden</string>
   <string name="upload_video">Video delen</string>
   <string name="upload_video_dialog_message">Uw video wordt weergegeven onder de populaire video\'s na te zijn geverifieerd.</string>
   <string name="upload_video_dialog_title">Video met succes gedeeld</string>
@@ -808,6 +835,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="usb_label">USB</string>
   <string name="used">In gebruik</string>
   <string name="user_agreement">Gebruikersovereenkomst</string>
+  <string name="user_cancel">Geannuleerd</string>
   <string name="user_center_title">Thuis</string>
   <string name="user_follow_me_title">Mijn volgers</string>
   <string name="user_follow_title">Personen die ik volg</string>
@@ -820,6 +848,8 @@ en nooit de koele nieuwe missen!"</string>
   <string name="user_guide_save_file">Sla uw bestanden en foto\'s op in KuaiPan.</string>
   <string name="user_guide_summary">Een kort overzicht</string>
   <string name="user_guide_upload_to_kuaipan">Sla items op in KuaiPan vanaf je telefoon</string>
+  <string name="user_icon">Profielfoto</string>
+  <string name="user_info_setting">Info bewerken</string>
   <string name="user_like_text">Leuk gevonden</string>
   <string name="user_liked_video_title">Video\'s die ik leuk vond</string>
   <string name="user_login_dialog_cancle">Annuleren</string>
@@ -827,6 +857,8 @@ en nooit de koele nieuwe missen!"</string>
   <string name="user_login_dialog_title">Inloggen</string>
   <string name="user_message_text">Berichten</string>
   <string name="user_msg_text">Berichten</string>
+  <string name="user_nickname">Roepnaam</string>
+  <string name="user_nickname_limit">De roepnaam moet 4–20 karakters bevatten</string>
   <string name="user_no_fans_tip">Geen volgers</string>
   <string name="user_no_follow_topic">U hebt nog geen topic gevolgd</string>
   <string name="user_no_follow_user">U hebt nog niemand gevolgd</string>
@@ -841,12 +873,15 @@ en nooit de koele nieuwe missen!"</string>
   <string name="user_setting_follow_new_msg_tip">Meldingen ontvangen over nieuwe video\'s</string>
   <string name="user_setting_followed_msg">Meldingen over volgers</string>
   <string name="user_setting_followed_msg_tip">Je zal een melding krijgen wanneer personen u starten te volgen</string>
+  <string name="user_setting_logout">Afmelden</string>
   <string name="user_setting_new_comment">Meldingen over nieuwe opmerkingen</string>
   <string name="user_setting_new_comment_tip">U wordt verwittigd over uw opmerkingen en video\'s</string>
   <string name="user_setting_new_liked">Meldingen over die u leuk vond</string>
   <string name="user_setting_new_liked_tip">U wordt verwittigd wanneer personen uw opmerkingen en video\'s leuk vonden</string>
   <string name="user_setting_topic_new_msg">Meldingen over onderwerpen</string>
   <string name="user_setting_topic_new_msg_tip">U zal verwittigd worden over nieuwe video\'s en opmerkingen die u volgt</string>
+  <string name="user_sex">Geslacht</string>
+  <string name="user_sign">Handtekening</string>
   <string name="user_topic_btn_text">Bekijk meer topics</string>
   <string name="user_topic_text">Mijn topics</string>
   <string name="user_upload_text">Uploads</string>
@@ -899,6 +934,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="wait_wifi">Wachten op Wi-Fi</string>
   <string name="waiting">Wachten</string>
   <string name="wangpan_root_path">Mijn harde schijf</string>
+  <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">Wechat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video op %s</string>
@@ -910,6 +946,7 @@ en nooit de koele nieuwe missen!"</string>
   <string name="wx_title3">Bekijk virale video\'s uit de hele wereld!</string>
   <string name="wxcircle_platform">Momenten</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="xiaomi_btn_bind">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="year_month_day_format">d MMM, yyyy</string>
   <string name="yes">Ja</string>
