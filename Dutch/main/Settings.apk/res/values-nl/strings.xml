@@ -316,8 +316,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="auto_restore_title">Automatisch terugzetten</string>
   <string name="auto_startup_application_manage">Automatisch starten</string>
   <string name="auto_startup_count">%d apps hebben toestemming om automatisch te starten</string>
-  <string name="auto_upload_debug_log_summary">Diagnostische data kan de informatie over uw gebruik van de hardware, het besturingssysteem en de apps bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van problemen in het systeem en zal nooit worden gebruikt om u persoonlijk te identificeren.</string>
-  <string name="auto_upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="automatic_brightness">Automatische helderheid</string>
   <string name="available_size">%s beschikbaar</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
@@ -347,6 +345,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="band_mode_succeeded">Geslaagd</string>
   <string name="band_mode_title">GSM/UMTS band instellen</string>
   <string name="baseband_version">Smalbandversie</string>
+  <string name="batch_delete_saved_network">Opgeslagen netwerk verwijderen: %s?</string>
   <string name="battery_action_app_details">Appinfo</string>
   <string name="battery_action_app_settings">Appinstellingen</string>
   <string name="battery_action_bluetooth">Bluetooth-instellingen</string>
@@ -750,7 +749,6 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="children_mode_title">Kindermodus</string>
   <string name="choose_assist_title">Kies hulpapp</string>
   <string name="choose_profile">Kies profiel</string>
-  <string name="choose_smartcover_type">Type hoesje kiezen</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="choose_voice_input_title">Kies spraakinvoer</string>
   <string name="cleaner">Opruimer</string>
@@ -1030,6 +1028,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="delete_fingerprint_text">Verwijder vingerafdruk</string>
   <string name="delete_legacy_fingerprint">Verwijderen</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Deze vingerafdruk verwijderen?</string>
+  <string name="delete_saved_network">Opgeslagen netwerk verwijderen</string>
   <string name="deny">Weigeren</string>
   <string name="deny_sms_message">Geïnstalleerde apps niet toestaan om SMS te verzenden</string>
   <string name="deny_sms_title">SMS vergrendelen</string>
@@ -1652,7 +1651,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="large_font">Groot</string>
   <string name="last_synced">Laatst gesync.: %1$s</string>
   <string name="last_time_used_label">Laatste keer gebruikt</string>
-  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launch_by_default">Gebruiken als standaardapp</string>
   <string name="launch_defaults_none">Geen standaardapps ingesteld</string>
   <string name="launch_defaults_some">Sommige standaardapps ingesteld</string>
@@ -2172,7 +2170,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_updates_warning">Uw systeem is up to date.</string>
   <string name="no_updates_warning2">We laten je het weten als er een update is.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
-  <string name="normal_smartcover_title">Ondoorzichtig hoesje</string>
   <string name="not_installed">Niet geïnstalleerd voor deze gebruiker</string>
   <string name="notification_app_settings_button">Meldingsinstellingen</string>
   <string name="notification_breathing_light_color_title">Kleur bij meldingen</string>
@@ -2288,6 +2285,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_page2_small_title">Klein</string>
   <string name="page_layout_page2_title">Voorbeeld</string>
   <string name="page_layout_small_title">Klein</string>
+  <string name="paper_mode_end_time_title">Eindtijd</string>
+  <string name="paper_mode_start_time_title">Starttijd</string>
   <string name="passpoint_content">%1$s referenties</string>
   <string name="passpoint_label">Opgeslagen via</string>
   <string name="passwordIncorrect">Het ingevoerde wachtwoord is niet juist</string>
@@ -2839,6 +2838,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Geen toestemmingen aangevraagd</string>
   <string name="save">Opslaan</string>
   <string name="saved_network">Opgeslagen door %1$s</string>
+  <string name="saved_wifi">Opgeslagen netwerk</string>
+  <string name="saved_wifi_delete">Verwijderen</string>
   <string name="scan_list_label">Scanresultaten:</string>
   <string name="screen">Scherm</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
@@ -2869,6 +2870,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_paper_mode_range_title">Instellingen</string>
   <string name="screen_paper_mode_set_apps_title">Leesmodus apps</string>
   <string name="screen_paper_mode_summary">Verminder felheid van het scherm</string>
+  <string name="screen_paper_mode_time_title">Gepland</string>
   <string name="screen_paper_mode_title">Leesmodus</string>
   <string name="screen_paper_mode_turn_off">Uit</string>
   <string name="screen_paper_mode_turn_on">Aan</string>
@@ -3147,6 +3149,8 @@ Om schermpinning te gebruiken:
   <string name="security_encryption_close_dialog_title">Terugzetten naar standaard wachtwoordbeveiliging</string>
   <string name="security_encryption_diaglog_continue">Volgende</string>
   <string name="security_encryption_is_used">Aan</string>
+  <string name="security_encryption_progress_dialog_close">Decoderen…</string>
+  <string name="security_encryption_progress_dialog_open">Coderen…</string>
   <string name="security_encryption_title">Apparaat versleutelen met vergrendelschermwachtwoord</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
   <string name="security_password_category_name">Schermvergrendeling</string>
@@ -3343,8 +3347,7 @@ PIN code mogelijk onjuist.</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
-  <string name="smallwindow_smartcover_title">Doorzichtig hoesje</string>
-  <string name="smartcover_sensitive_title">Smartcovermodus</string>
+  <string name="smartcover_sensitive_title">Slimme Cover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">%1$s gebruiken in plaats van %2$s als uw SMS app?</string>
   <string name="sms_change_default_dialog_title">SMS app wijzigen?</string>
@@ -3819,6 +3822,8 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
+  <string name="upload_debug_log_summary">Diagnostische data kan informatie over uw gebruik van de hardware, het besturingssysteem en de apps bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van de problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
+  <string name="upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="usage_access">Gebruikstoegang</string>
   <string name="usage_access_description">Gebruikstoegang laat een app toe om bij te houden welke andere apps u gebruikt en hoe vaak, evenals uw provider, taalinstellingen en andere details.</string>
   <string name="usage_access_title">Apps met gebruikstoegang</string>
