@@ -118,7 +118,7 @@
   <string name="baby_nick_name">Roepnaam</string>
   <string name="baby_suffix">baby</string>
   <string name="backup_automatically_summary">Foto\'s en video\'s op alle apparaten back-uppen naar Mi Cloud. U kunt gemakkelijk foto\'s en video\'s bladeren, sorteren, bewerken en delen op alle apparaten.</string>
-  <string name="backup_automatically_title">Automatisch sync. en back-uppen</string>
+  <string name="backup_automatically_title">Automatisch back-uppen</string>
   <string name="backup_detail_page_title">Mi Cloud back-ups</string>
   <string name="backup_only_in_wifi">Alleen Wi-Fi gebruiken om foto\'s en video\'s te back-uppen</string>
   <string name="backup_only_in_wifi_summary">Nooit mobiele data gebruiken om foto\'s en video\'s te back-uppen</string>
@@ -159,7 +159,7 @@
   <string name="cloud_guide_slim_title">Lokale opslag optimaliseren om %1$s te besparen</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
-  <string name="cloud_settings">Mi Cloud</string>
+  <string name="cloud_settings">Galerij backups</string>
   <string name="cloud_space_full_button_text">Meer Mi Cloud opslag verkrijgen</string>
   <string name="cloudfolder_cannot_start_with">"De naam van een album kan niet beginnen met '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"De naam van een album kan geen '%s' bevatten"</string>
@@ -206,7 +206,7 @@
   <string name="delete_from_album">van album \"%s\" (alle apparaten)</string>
   <string name="delete_from_album_no_account">van album \"%s\"</string>
   <string name="delete_from_all_devices">Van alle apparaten</string>
-  <string name="delete_from_cloud">Items van Cloud album verwijderen</string>
+  <string name="delete_from_cloud">Items van Mi Cloud verwijderen</string>
   <string name="delete_from_devices">Alle gesynchroniseerde apparaten</string>
   <string name="delete_from_devices_album">Alle apparaten waar dit album mee is gesynchroniseerd</string>
   <string name="delete_from_homepage_album">Albums weergegeven in galerij</string>
@@ -333,7 +333,10 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="ignore_album">Dit album niet meer weergeven?</string>
   <string name="ignore_alert_title">Wanneer genegeerd zal deze niet meer worden weergegeven, doorgaan?</string>
   <string name="ignore_face">Negeer deze persoon</string>
+  <string name="image_decode_failed">Kon deze afbeelding niet decoderen</string>
   <string name="image_download_item_title">Foto downloaden (%s)</string>
+  <string name="image_invalid_path">Ongeldig pad</string>
+  <string name="image_not_found">Kon afbeelding niet vinden</string>
   <string name="image_quota_fulfiled">Kan bestand niet aanmaken: bestandslimiet overschreden.</string>
   <string name="impunity_declaration_settings">Internetverbindingsmelding weergeven</string>
   <string name="impunity_declaration_summary">Internetverbindingsmelding weergeven iedere keer dat u de galerij opent</string>
@@ -480,7 +483,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="picker_no_network_message">Verbind met het netwerk om te downloaden</string>
   <string name="picker_origin_need_download">%1$d geselecteerde foto\'s niet op apparaat (%2$dMB), downloaden met mobiele data?</string>
   <string name="picker_title_format">Geselecteerde  foto\'s: %d</string>
-  <string name="picker_title_selection_format">Geselecteerde  foto\'s: %d</string>
+  <string name="picker_title_selection_format">U kan %d foto\'s selecteren</string>
   <string name="picker_title_unlimit">Selecteer foto\'s</string>
   <string name="preparing_data">Een momentje…</string>
   <string name="projection_checkbox_text">Herinner deze weergave</string>
@@ -655,6 +658,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_filter_sunny">Zonnig</string>
   <string name="video_editor_invalid_trim_arguments">Moet langer zijn dan 1 seconde</string>
   <string name="video_editor_loading_plugin">Laden…</string>
+  <string name="video_editor_loading_warning_msg">Door een codeer fout zijn sommige functies en voorbeelden mogelijk niet beschikbaar tijdens het bewerkingsproces. Dit heeft geen invloed op de uiteindelijke videobestand.</string>
+  <string name="video_editor_loading_warning_title">Codeer fout</string>
   <string name="video_editor_more">Geavanceerd</string>
   <string name="video_editor_not_support_tips">Dit videoformaat wordt niet ondersteund</string>
   <string name="video_editor_ok">OK</string>
