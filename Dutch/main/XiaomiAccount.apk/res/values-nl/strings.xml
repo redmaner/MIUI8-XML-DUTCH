@@ -56,7 +56,7 @@
   <string name="add_account">Account verbinden</string>
   <string name="alert_title_remove_account">Account verwijderen?</string>
   <string name="app_name">Mi Account</string>
-  <string name="auth_fail_warning">Aanmelden op account is verlopen, probeer later opnieuw</string>
+  <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
   <string name="barcode_add_account_prompt">Om een account te verbinden, scan na het aanmelden de QR code.</string>
   <string name="bind_facebook">Facebook account verbinden</string>
@@ -92,6 +92,9 @@
   <string name="data_keep_in_device">Behouden op dit apparaat</string>
   <string name="data_wipe_from_device">Verwijderen van dit apparaat</string>
   <string name="delete_action">Verwijderen</string>
+  <string name="delete_app">App verwijderen</string>
+  <string name="delete_browser">Browser verwijderen</string>
+  <string name="delete_device">Apparaat verwijderen</string>
   <string name="delete_device_btn">Verwijderen</string>
   <string name="delete_device_failed">Kan apparaat niet verwijderen</string>
   <string name="delete_device_notice">Nadat het apparaat wordt verwijderd, wordt deze automatisch uitgeschreven van uw Mi Account. Je zult niet meer in staat zijn om met dit apparaat toegang tot krijgen tot foto\'s, berichten, of andere inhoud die is opgeslagen zijn in uw account.</string>
@@ -159,7 +162,7 @@
   <string name="no_network_btn">Vernieuwen</string>
   <string name="no_network_title">Kan geen verbinding maken met netwerk</string>
   <string name="no_response_retry">Geen antwoord, probeer opnieuw.</string>
-  <string name="no_sim_card_or_unactivated">Geen SIM kaart of niet geactiveerd</string>
+  <string name="no_sim_card_or_unactivated">SIM kaart is niet geïnstalleerd of niet geactiveerd</string>
   <string name="nobind">Niet verbonden</string>
   <string name="notify_network_restricted_content_bg_network">Internettoegang van Mi Account is beperkt. Tik om toe te staan.</string>
   <string name="notify_network_restricted_content_hidden_state">Achtergrondactiviteit van Mi Account is beperkt. Tik om toe te staan.</string>
@@ -180,19 +183,15 @@
   <string name="passport_auto_generate_pwd">Maak een veilig wachtwoord aan</string>
   <string name="passport_back">Terug</string>
   <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
-  <string name="passport_btn_return">Vorige</string>
-  <string name="passport_button_cancel">Annuleren</string>
   <string name="passport_change_account">Account wijzigen</string>
   <string name="passport_change_phone_number">Wissel van nummer</string>
   <string name="passport_checking_account">Wachtwoord controleren…</string>
   <string name="passport_checking_input">Invoer controleren…</string>
-  <string name="passport_choose_which_one_sim">Kies telefoonnummer</string>
   <string name="passport_click_email_to_valid">"
 
 Om je account te activeren, volg de link
 die verzonden is naar je Postvak In."</string>
   <string name="passport_completed">Voltooid</string>
-  <string name="passport_confirm">Ok</string>
   <string name="passport_confirm_recycle_account">Ja</string>
   <string name="passport_copy_message_text_success">Tekst kopiëren voltooid</string>
   <string name="passport_copy_message_vcode">Verificatiecode kopiëren</string>
@@ -203,7 +202,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_email_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
   <string name="passport_error_device_id">Kan apparaat ID niet verkrijgen</string>
   <string name="passport_error_dup_email">Ingevoerde e-mail is al gekoppeld aan een ander account</string>
-  <string name="passport_error_dup_phone">Dit telefoonnummer is al gekoppeld aan een ander account</string>
   <string name="passport_error_email">Het e-mailadres dat je hebt ingevoerd is ongeldig</string>
   <string name="passport_error_empty_captcha_code">Voer passport_captcha code in</string>
   <string name="passport_error_empty_email">Voer e-mailadres in</string>
@@ -216,14 +214,12 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_error_invalid_phone_num">Ongeldig telefoonnummer</string>
   <string name="passport_error_login">Kon niet aanmelden</string>
   <string name="passport_error_network">"Kan niet verbinden met netwerk</string>
-  <string name="passport_error_no_sms_service">Kan SMS niet verzenden. Mobiel netwerk niet beschikbaar.</string>
   <string name="passport_error_phone_error">Ongeldig telefoonnummer</string>
   <string name="passport_error_server">Serverfout</string>
   <string name="passport_error_sim_not_ready">Kan SIM kaart niet vinden</string>
   <string name="passport_error_ssl_hand_shake">Kon niet verbinden met server.</string>
   <string name="passport_error_unknown">Kan niet aanmelden</string>
   <string name="passport_error_user_name">Ingevoerde gebruikersnaam is ongeldig</string>
-  <string name="passport_error_verify_code">De ingevoerde code is fout.</string>
   <string name="passport_failed_to_send_activate_email">Kon activatie e-mail niet verzenden</string>
   <string name="passport_find_password_on_web_msg">Bezoek account.mi.com om uw wachtwoord te resetten.</string>
   <string name="passport_forget_password">Wachtwoord vergeten</string>
@@ -246,11 +242,9 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_login_failed">Kan niet aanmelden</string>
   <string name="passport_login_instead_reg">Gebruik dit nummer</string>
   <string name="passport_login_instead_reg_with_email">Gebruik deze e-mail</string>
-  <string name="passport_login_notice">Aanmelden…</string>
   <string name="passport_login_prompt">Eén Mi account. Alle Mi diensten.</string>
   <string name="passport_login_title">Aanmelden op je Mi account</string>
   <string name="passport_login_using_other_ways">Andere manieren om aan te melden</string>
-  <string name="passport_login_with_email_or_id">Aanmelden met e-mailadres of Mi account ID</string>
   <string name="passport_message_dialog_title">Verificatiecode bericht</string>
   <string name="passport_next">Volgende</string>
   <string name="passport_notification_title">Aanmeldfout voor %1$s</string>
@@ -269,13 +263,10 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_recycle_account_prompt">Is dit je Mi account?</string>
   <string name="passport_reg_btn_using_other_phone">Alternatief telefoonnummer gebruiken</string>
   <string name="passport_reg_failed">Kan geen account aanmaken</string>
-  <string name="passport_reg_new">Mi account aanmaken</string>
   <string name="passport_reg_prompt">Geen Mi Account? Maak er gratis één aan.</string>
   <string name="passport_reg_success">Account aangemaakt</string>
   <string name="passport_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
   <string name="passport_reg_type_email">Gebruik e-mailadres</string>
-  <string name="passport_reg_type_other_ways">Gebruik je e-mail of alternatief telefoonnummer</string>
-  <string name="passport_reg_type_other_ways_title">Maak een Mi account aan</string>
   <string name="passport_reg_using_other_phone">Alternatief telefoonnummer gebruiken</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Een nieuw accont aanmaken met gebruik van "</string>
   <string name="passport_reg_using_phone_number_prompt">Account aanmaken door middel van telefoonnummer</string>
@@ -305,7 +296,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_select_reg_ways_title">Andere manieren om aan te melden</string>
   <string name="passport_send_too_many_code">Er zijn teveel verificatiecodes verzonden naar dit nummer. Wacht 24 uur en probeer opnieuw.</string>
   <string name="passport_setting">Bezig met instellen…</string>
-  <string name="passport_sim_index_info">SIM kaart %1$d - %2$s</string>
   <string name="passport_skip_login">Overslaan</string>
   <string name="passport_skip_register">Inschrijven overslaan</string>
   <string name="passport_skip_setup_account_msg">Je kan later een Mi account aanmaken in Instellingen.</string>
@@ -330,7 +320,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_verify">Bevestigen</string>
   <string name="passport_wait_for_sms_prompt">Nu opnieuw beginnen? Het kan tot 10 minuten duren om bevestigingsberichten af te leveren wanneer uw telefoon zich binnen het bereik bevindt van het netwerk van uw provider.</string>
   <string name="passport_wrong_captcha">De ingevoerde code is fout</string>
-  <string name="passport_wrong_password">Wachtwoord niet juist</string>
   <string name="passport_wrong_phone_number_format">De opmaak van het telefoonnummer dat u hebt ingevoerd is ongeldig</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
   <string name="phone_activated">%s geactiveerd</string>
