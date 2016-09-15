@@ -762,6 +762,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="clear_failed_dlg_text">Kan gegevens voor de app niet wissen.</string>
   <string name="clear_failed_dlg_title">Gegevens wissen</string>
   <string name="clear_user_data_text">Gegevens wissen</string>
+  <string name="close_gesture">Gebaar sluiten</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
   <string name="close_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
   <string name="color_black">Zwart</string>
@@ -845,6 +846,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
 Om verder te gaan met uw telefoon, moet u de fabrieksinstellingen terugzetten. Wanneer u uw telefoon instelt na de reset, zult u de mogelijkheid hebben om alle data die werd geback-upt naar uw Google account te herstellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Decodering mislukt</string>
   <string name="crypt_keeper_decrypt_methods">Nadat u uw telefoon hebt versleuteld, ervan uitgaande dat u  een vergrendelscherm wilt instellen (dat wil zeggen een patroon of numerieke pincode of wachtwoord), moet u het scherm ontgrendelen om de telefoon te ontsleutelen telkens als u die inschakelt. De enige andere manier om te ontsleutelen is om een fabrieksreset uit te voeren, waarbij al uw gegevens gewist worden.</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Uw hebt uw telefoon versleuteld, u moet uw wachtwoord, PIN of patroon telkens terug na boot invoeren om uw apparaat te ontsleutelen."</string>
   <string name="crypt_keeper_decrypt_methods_title">Uw apparaat ontsleutelen</string>
   <string name="crypt_keeper_desc">"U kunt uw instellingen, gedownloade apps en de bijbehorende gegevens, media en andere bestanden van uw accounts versleutelen. Nadat u uw telefoon versleuteld hebt, ervan uitgaande dat je een vergrendelscherm hebt ingestelt (dat is, een patroon of een numerieke pincode of wachtwoord), moet u het scherm ontgrendelen om de telefoon te decoderen telkens wanneer u het inschakelt. De enige andere manier om te decoderen is om een fabrieksreset uit te voeren, daarmee wist u al uw gegevens.
 
@@ -877,7 +879,7 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="current_input_method">Huidig toetsenbord</string>
   <string name="current_screen_lock">Huidige schermvergrendeling</string>
   <string name="current_use_ese">Met behulp van geïntegreerd veilig element</string>
-  <string name="current_use_ese_wallet">U gebruikt Mi Wallet. Het laat u toe om Mi Pay en uw telefoon als transport kaart te gebruiken.</string>
+  <string name="current_use_ese_wallet">U gebruikt Mi Wallet. Het laat u toe om Mi Pay en NFC als transport kaart te gebruiken.</string>
   <string name="current_use_hce_wallet">U gebruikt HCE Wallet</string>
   <string name="current_use_uicc_se">Met behulp van veilig element op de SIM kaart</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (rood-groen)</string>
@@ -1442,6 +1444,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="global_locale_change_title">Taal wijzigen</string>
   <string name="google_backup_enable">Back-ups inschakelen</string>
   <string name="google_backup_section_title">Google back-up &amp; herstel</string>
+  <string name="got_it">Begrepen</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
   <string name="handy_mode">Eén-hand modus</string>
   <string name="handy_mode_enter_ask">Vragen voordat je één-hand modus betreedt</string>
@@ -1508,6 +1511,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Verborgen SSID:</string>
+  <string name="hide">Verbergen</string>
+  <string name="hide_screen_button">Schermknop verbergen</string>
   <string name="high_performance_notif_summary">Apparaat kan opwarmen bij zwaar gebruik.</string>
   <string name="high_performance_notif_title">Prestatiemodus is ingeschakeld</string>
   <string name="high_performance_title">"Het lijkt erop dat u gebruik maakt van een benchmark test. Stel energiebeheer in op\ 'Prestatie'\ "voor het beste resultaat."</string>
@@ -1567,6 +1572,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="install_unknown_applications">Toestaan dat apps uit andere bronnen dan de Play Store worden geïnstalleerd</string>
   <string name="install_unknown_applications_title">Hiermee kunt u apps van andere bronnen dan Google Play installeren</string>
   <string name="install_whole_rom">ROM downloaden</string>
+  <string name="instruction_title">Instructies</string>
   <string name="insufficient_storage">Niet voldoende opslagruimte.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Actie:</string>
@@ -2057,6 +2063,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_settings">Audio effect instellingen</string>
   <string name="music_dirac_control">Optimaliseer audio kwaliteit</string>
+  <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi oordopjes</string>
   <string name="music_dirac_mode_general">Algemene</string>
   <string name="music_dirac_mode_general_earbuds">Algemene oordopjes</string>
@@ -2544,6 +2551,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="pref_button_light_summary">Menu, Home en Terug knop verlichten</string>
   <string name="pref_edge_handgrip">Edge besturing</string>
   <string name="pref_operational_key">Navigatieknoppen</string>
+  <string name="pref_volume_launch_camera_summary">Druk tweemaal op volume omlaag om camera te openen</string>
+  <string name="pref_volume_launch_camera_title">Rapid camera</string>
   <string name="pref_volume_wake_summary">Volumeknoppen ontwaken het apparaat</string>
   <string name="pref_volume_wake_title">Ontwaken door middel van volumeknoppen</string>
   <string name="preference_change_password_title">Wachtwoord wijzigen</string>
@@ -2842,6 +2851,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="saved_wifi_delete">Verwijderen</string>
   <string name="scan_list_label">Scanresultaten:</string>
   <string name="screen">Scherm</string>
+  <string name="screen_button">Schermknop</string>
+  <string name="screen_button_tips">Verborgen sleutel afwijzen</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">Kan kleurtemperatuur niet aanpassen in leesmodus</string>
   <string name="screen_color_temperature">Kleuren</string>
@@ -2945,7 +2956,7 @@ Om schermpinning te gebruiken:
   <string name="sdcard_unmount">USB opslag ontkoppelen</string>
   <string name="se_route_ese">Ingebed beveiligde element</string>
   <string name="se_route_uicc">Beveiligd element op SIM kaart</string>
-  <string name="se_wallet_ese">Mi Wallet laat u toe om  Mi Pay en uw telefoon als transport kaart te gebruiken.</string>
+  <string name="se_wallet_ese">Mi Wallet laat u toe om  Mi Pay en NFC als transport kaart te gebruiken.</string>
   <string name="se_wallet_hce">HCE Wallet gebruiken</string>
   <string name="search_about">"Over telefoon;Model nummer;Android versie;MIUI versie;CPU;RAM;Intern geheugen;Baseband versie;Kernel versie;Bouw nummer"</string>
   <string name="search_accelerometer">Scherm automatisch draaien;Scherm draaien;Orientatie;Portret;Landschap</string>
@@ -3347,7 +3358,7 @@ PIN code mogelijk onjuist.</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
-  <string name="smartcover_sensitive_title">Slimme Cover</string>
+  <string name="smartcover_sensitive_title">Slimme cover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">%1$s gebruiken in plaats van %2$s als uw SMS app?</string>
   <string name="sms_change_default_dialog_title">SMS app wijzigen?</string>
@@ -3396,8 +3407,10 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_app_enable_floating">Zwevende meldingen</string>
   <string name="status_bar_app_enable_keyguard">Vergrendelscherm</string>
   <string name="status_bar_app_enable_message">Badges</string>
-  <string name="status_bar_key_position_custom">Aangepaste knoppositie</string>
+  <string name="status_bar_key_position_custom">Knoppositie wijzigen</string>
+  <string name="status_bar_screen_button_desc">Veeg gebaren om schermknop te verbergen</string>
   <string name="status_bar_screen_button_key">Schermknoppen</string>
+  <string name="status_bar_screen_button_key_can_hide">Schermknoppen kunnen verborgen worden</string>
   <string name="status_bar_screen_key_back">Terug knop</string>
   <string name="status_bar_screen_key_home">Home knop</string>
   <string name="status_bar_screen_key_menu">Menu knop</string>
@@ -3608,11 +3621,15 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="summary_range_verbal_combination">%1$s tot %2$s</string>
   <string name="supl_not_set">&lt;Niet ingesteld&gt;</string>
   <string name="supplicant_state_label">Toestand aanvrager:</string>
+  <string name="suspension_ball_enable">Overschakelen naar opschorting bal</string>
+  <string name="suspension_ball_enable_desc">Na het uitschakelen, kan u bal opschorten snel openen op de schermknop</string>
   <string name="suw_back_button_label">Terug</string>
   <string name="suw_more_button_label">Meer</string>
   <string name="suw_next_button_label">Volgende</string>
   <string name="switch_off_text">Uit</string>
   <string name="switch_on_text">Aan</string>
+  <string name="switch_screen_button_order">Volgorde schermknop</string>
+  <string name="switch_screen_button_order_desc">Na het openen, gebaar naar beneden om schermknop te verbergen</string>
   <string name="symbols_not_allowed_for_password">Wachtwoord mag geen symbolen bevatten</string>
   <string name="sync_active">Synchronisatie actief</string>
   <string name="sync_automatically">Appgegevens automatisch sync.</string>
@@ -3762,7 +3779,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
   <string name="turn_on_radio">Radio inschakelen</string>
   <string name="turn_on_security_lock">Kies schermvergrendeling</string>
-  <string name="under_keyguard">Op vergrendelscherm</string>
+  <string name="under_keyguard">Scherm uit</string>
   <string name="uninstall_all_users_text">Verwijderen voor alle gebruikers</string>
   <string name="uninstall_dlg_msg">Verwijderen zal alle appgegevens wissen.</string>
   <string name="uninstall_dlg_title">Nu verwijderen?</string>
