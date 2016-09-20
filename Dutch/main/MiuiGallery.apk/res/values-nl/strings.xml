@@ -69,6 +69,7 @@
   <string name="album_share_subtitle_requesting">Albuminformatie ophalen…</string>
   <string name="album_share_title_new_album">Nieuw album delen</string>
   <string name="album_show_local_only">Alleen lokale albums weergeven</string>
+  <string name="album_show_local_only_summary">Inschakelen om foto\'s te bekijken of te verwijderen op uw apparaat</string>
   <string name="album_type_baby">Baby album</string>
   <string name="album_type_share">Gedeelde albums</string>
   <string name="album_type_system">Systeemalbums</string>
@@ -76,7 +77,7 @@
   <string name="alert_secret_album_enter">Begrepen</string>
   <string name="alert_secret_album_message">Veeg omlaag vanaf de bodem van uw albums om het verborgen album te bekijken. Om het te beschermen moet u een patroon instellen.</string>
   <string name="alert_secret_album_title">Toegevoegd aan verborgen album</string>
-  <string name="all_video_album_display_name">"Alle video's"</string>
+  <string name="all_video_album_display_name">Alle video\'s</string>
   <string name="already_create_baby_album">Babyalbum bestaat reeds in Mi Cloud.</string>
   <string name="app_name">Galerij</string>
   <string name="app_name_view_picture">Foto\'s bekijken</string>
@@ -203,9 +204,10 @@
   <string name="delete_album_msg_format">Album \"%2$s\" verwijderen %1$s %3$s?</string>
   <string name="delete_album_success">Album verwijderd</string>
   <string name="delete_finish_format">Met succes verwijderd</string>
-  <string name="delete_from_album">van album \"%s\" (alle apparaten)</string>
+  <string name="delete_from_album">van album en Mi Cloud \"%s\"</string>
   <string name="delete_from_album_no_account">van album \"%s\"</string>
   <string name="delete_from_all_devices">Van alle apparaten</string>
+  <string name="delete_from_all_devices_and_cloud">Van alle apparaten en Mi Cloud</string>
   <string name="delete_from_cloud">Items van Mi Cloud verwijderen</string>
   <string name="delete_from_devices">Alle gesynchroniseerde apparaten</string>
   <string name="delete_from_devices_album">Alle apparaten waar dit album mee is gesynchroniseerd</string>
@@ -349,14 +351,10 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="input_or_select_a_name">Kies of voer een naam in</string>
   <string name="invalid_invition_url">Foutieve uitnodiging URL</string>
   <string name="invalid_recipient_message">De namen van de ontvangers zijn ongeldig</string>
-  <string name="invite_send_sms_tip">Uw provider kan kosten aanrekenen voor een SMS bericht die gebruikt is om deze uitnodiging te sturen.</string>
-  <string name="invite_sharer_again_confirm_button_text">Opnieuw uitnodigen</string>
   <string name="invite_sharer_confirm_button_text">Uitnodigen</string>
-  <string name="invite_sharer_phone_number_tip">Telefoonnr. invoeren</string>
   <string name="invite_sharer_relation_tip">"%1$s's kennis"</string>
   <string name="invite_sharer_title">"%1$s's %2$s uitnodigen"</string>
   <string name="invite_tip">Deel je babyfoto\'s</string>
-  <string name="invited_tip">Uitnodigen</string>
   <string name="is">Ja</string>
   <string name="kick_owner_user_positive_button_text">Verwijderen</string>
   <string name="kick_owner_user_title">Deze persoon verwijderen?</string>
@@ -463,7 +461,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone_number_empty_alert">Telefoonnummer toevoegen</string>
   <string name="photo">Foto\'s</string>
   <string name="photo_edit_file_not_exits_tip">Download de foto voor het bewerken</string>
   <string name="photo_editor_saving">Opslaan…</string>
@@ -542,7 +539,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="secret_reason_unknow_reasons">Onbekende fout</string>
   <string name="select_item_face">"Is dit '%s'?"</string>
   <string name="select_origin_tip">Origineel bestand (%s)</string>
-  <string name="send_invitation_fail">Kon uitnodiging niet verzenden</string>
   <string name="send_multiple_files_hint_format">Verzend (%s)</string>
   <string name="send_public_url">Verzend album URL</string>
   <string name="send_too_many_files_error">Kan %d items per keer versturen</string>
