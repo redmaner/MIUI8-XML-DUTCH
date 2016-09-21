@@ -21,7 +21,8 @@
   <string name="autosetmode">Update instellingen</string>
   <string name="best_update">Beste update tot nu toe</string>
   <string name="boot_recovery">Herstart in recovery modus</string>
-  <string name="button_text_check">Controleren</string>
+  <string name="button_delay_update_reboot">Herstarten &amp; updaten</string>
+  <string name="button_text_check">Controleren op updates</string>
   <string name="button_text_later_reboot">Later herstarten</string>
   <string name="button_text_reboot">Herstarten</string>
   <string name="button_text_reboot_hm">Na herstart</string>
@@ -54,7 +55,12 @@
   <string name="continue_update_negative_btn">Doorgaan</string>
   <string name="continue_update_positive_btn">Stoppen</string>
   <string name="daily_build">Nightly</string>
-  <string name="dialog_reboot_message">"MIUI staat op het punt om te updaten. Dit kan 5-20 minuten duren. Houd uw apparaat ingeschakeld, en schakel het niet uit tijdens het updaten."</string>
+  <string name="delay_update_text">Later updaten</string>
+  <string name="dialog_delay_update_cancel">Annuleren</string>
+  <string name="dialog_delay_update_msg">Uw apparaat zal opnieuw opstarten om de updates toe te passen wanneer deze aan ligt en de batterij ten minste 30% gelaaden is</string>
+  <string name="dialog_delay_update_title">Er is een update beschikbaar</string>
+  <string name="dialog_delay_update_tonight">Vanavond updaten</string>
+  <string name="dialog_reboot_message">MIUI staat op het punt om te updaten. Dit kan 5-20 minuten duren. Houd uw apparaat ingeschakeld en schakel het niet uit tijdens het updaten.</string>
   <string name="dialog_reboot_title">Systeemupdate</string>
   <string name="dialog_reboot_yes">Updaten</string>
   <string name="download_again">Probeer opnieuw</string>
@@ -116,6 +122,12 @@
   <string name="no_wifi_title">Waarschuwing dataverbruik</string>
   <string name="not_open">Nee</string>
   <string name="notification_auto_reboot_seccess_title">Apparaat automatisch geüpdatet</string>
+  <string name="notification_delay_update_button">Updaten in 2 uur</string>
+  <string name="notification_delay_update_cancel">Vanavond niet updaten</string>
+  <string name="notification_delay_update_low_power">Het leek erop dat de batterij te laag was vannacht</string>
+  <string name="notification_delay_update_msg">Apparaat zal herstarten &amp; updaten in​ %ss</string>
+  <string name="notification_delay_update_no_update">Er zijn geen updates toegepast</string>
+  <string name="notification_delay_update_shutdown">Het leek erop dat uw apparaat niet ingeschakeld was vannacht</string>
   <string name="notification_downloading">Update downloaden…</string>
   <string name="notification_fail_msg">Probeer de volledige ROM te downloaden</string>
   <string name="notification_load_body_alpha">Haal de nieuwste updates voor uw apparaat op.</string>
@@ -203,6 +215,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="test">Test</string>
   <string name="timer_title">Toestel zal herstarten binnen %d seconden.</string>
   <string name="title_toast_auto">Updates worden automatisch gedownload</string>
+  <string name="toast_delay_update_tonight">Uw apparaat zal geüpdate worden tussen 2:00AM en 5:00AM</string>
   <string name="top_secret_build">Top secret</string>
   <string name="uncrypt_title">Decoderen (%s)</string>
   <string name="unkown_error_title">Kon niet downloaden</string>

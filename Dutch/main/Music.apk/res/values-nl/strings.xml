@@ -23,6 +23,7 @@
   <string name="action_settings">Instellingen</string>
   <string name="ad_close">Sluiten</string>
   <string name="ad_extension">Promotie</string>
+  <string name="ad_mark">AD</string>
   <string name="add_music">Nummers toevoegen</string>
   <string name="add_to_last_of_playlist">Toevoegen aan het einde van de afspeellijst</string>
   <string name="alaka_required">Dit nummer is niet beschikbaar</string>
@@ -197,6 +198,7 @@
   <string name="download_done_btn">Downloaden</string>
   <string name="download_error">Mislukt</string>
   <string name="download_error_insufficient_space">Niet genoeg ruimte</string>
+  <string name="download_fail_to_fetch_info">Kon niet downloaden. Probeer opnieuw.</string>
   <string name="download_filesize_unknown">Onbekend</string>
   <string name="download_in_process">DOWNLOADEN</string>
   <string name="download_info_count_deleted_tasks">%s downloads verwijderd</string>
@@ -360,6 +362,7 @@
   <string name="list_item_play_FM_radio">Raak aan om de FM radio af te spelen</string>
   <string name="list_item_play_all_tracks">Alles afspelen</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="loadercontainer_loading">Een momentje…</string>
   <string name="loading_hint">Een momentje…</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Lokale afspeellijst is leeg</string>
@@ -452,6 +455,7 @@
   <string name="nav_online_billboard">Muzieklijsten</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Afspeellijsten</string>
+  <string name="network_error_and_retry">Kon niet verbinden, tik om opnieuw te proberen</string>
   <string name="network_failure">Controleer uw verbinding en probeer opnieuw.</string>
   <string name="network_request_error">Kan niet verbinden met netwerk</string>
   <string name="network_settings_error">Kan niet verbinden met netwerk</string>
@@ -509,7 +513,7 @@
   <string name="online_music_enabled_summary">Beluister en download je favoriete liedjes. Bekijk de top nummers en curator afspeellijsten waar je maar wilt!</string>
   <string name="online_music_enabled_title">Hier gratis streamen</string>
   <string name="online_playlist_is_empty">De online afspeellijst is leeg!</string>
-  <string name="online_recommend">Aanbevolen</string>
+  <string name="online_recommend">Afspeellijst</string>
   <string name="online_special">Speciaal</string>
   <string name="open_download">Openen</string>
   <string name="order_pending">Bevestiging afwachten</string>
@@ -662,6 +666,7 @@
   <string name="share_chooser_title">Delen via</string>
   <string name="share_description">Van Mi Muziek</string>
   <string name="share_end_note">Van Mi Muziek</string>
+  <string name="share_image_error">Mislukt om te delen vanwege een download fout</string>
   <string name="share_text_list">"Afspeelijst uit Mi Music:"</string>
   <string name="share_text_song">"Nummer uit Mi Music:"</string>
   <string name="show_more">Toon %s meer</string>
@@ -712,6 +717,19 @@
   <string name="tab_track">Nummers</string>
   <string name="tab_track_list">Nummers</string>
   <string name="take_effect_afater_restart">U moet de Muziek app opnieuw opstarten om deze instelling van kracht te laten zijn.</string>
+  <string name="talkback_back">Terug</string>
+  <string name="talkback_device">Afspelen op andere apparaten</string>
+  <string name="talkback_download">Download</string>
+  <string name="talkback_favorite">Dit nummer leuk vinden</string>
+  <string name="talkback_mode">Afspeellijst herhalen</string>
+  <string name="talkback_more">Meer menu\'s</string>
+  <string name="talkback_next">Volgend nummer</string>
+  <string name="talkback_play">Afspelen / Pauze</string>
+  <string name="talkback_pre">Vorig nummer</string>
+  <string name="talkback_progress">Voortuitgangsbalk</string>
+  <string name="talkback_radar">Muziek herkenning</string>
+  <string name="talkback_search">Zoeken</string>
+  <string name="talkback_share">Delen</string>
   <string name="task_already_exist">Taak bestaat reeds</string>
   <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
   <string name="ticket_title">Tickets weergeven</string>
@@ -729,6 +747,7 @@
   <string name="toast_cancel_download">Download geannuleerd</string>
   <string name="toast_cancel_play">Afspelen geannuleerd</string>
   <string name="toast_download_error_by_count_limit">U hebt uw download quota voor deze maand bereikt.</string>
+  <string name="toast_download_error_by_not_login">Aanmelden op uw Mi Account en probeer opnieuw.</string>
   <string name="toast_download_error_by_vip_required">Premium muziek pakket verkrijgen om dit nummer te downloaden.</string>
   <string name="toast_download_in_process">Bezig met downloaden</string>
   <string name="toast_normal_songs_for_download">Downloadkwaliteit is ingesteld op standaard</string>
