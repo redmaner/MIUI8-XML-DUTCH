@@ -62,6 +62,7 @@
   <string name="call_assistant">%s bellen</string>
   <string name="call_callback">Nummer terugbellen</string>
   <string name="call_car">Auto bellen</string>
+  <string name="call_charge">Herladen</string>
   <string name="call_company_main">Hoofdnummer bedrijf bellen</string>
   <string name="call_custom">%s bellen</string>
   <string name="call_disambig_title">Nummer kiezen</string>
@@ -69,6 +70,7 @@
   <string name="call_fax_work">Fax werk bellen</string>
   <string name="call_home">Privé bellen</string>
   <string name="call_isdn">ISDN bellen</string>
+  <string name="call_left">Telefoon saldo</string>
   <string name="call_log_empty_gecode">-</string>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Nieuw</string>
@@ -76,9 +78,12 @@
   <string name="call_main">Hoofdnummer bellen</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
+  <string name="call_not_found"> --</string>
+  <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
   <string name="call_pager">Pager bellen</string>
+  <string name="call_problem_report">Een probleem melden</string>
   <string name="call_radio">Radio bellen</string>
   <string name="call_record_setting_miui">Opname instellingen</string>
   <string name="call_settings">Instellingen</string>
@@ -267,7 +272,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="data_already_used">Data gebruikt</string>
   <string name="data_charge">Mobiele data opladen</string>
   <string name="data_left">Resterende data</string>
-  <string name="data_unit">MB</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Herinner mij drie dagen vooraf en op de dag zelf</string>
   <string name="date_time_set">Instellen</string>
   <string name="date_year_toggle">Jaar toevoegen</string>
@@ -497,7 +503,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="ic_menu_back">Terug</string>
   <string name="ic_menu_done">Klaar</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI: "</string>
+  <string name="imei_invalid">Ongeldige IMEI</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
   <string name="import_contact_card_aggregate_suggestion_button">Kaarten samenvoegen</string>
@@ -583,7 +590,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="map_home">Thuisadres weergeven</string>
   <string name="map_other">Adres weergeven</string>
   <string name="map_work">Werkadres weergeven</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID: "</string>
+  <string name="meid_invalid">Ongeldige MEID</string>
   <string name="menuMoreDescription">Meer</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Toevoegen aan favorieten</string>
@@ -1178,6 +1186,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="wipe_data">Data verwijderen</string>
   <string name="yellowPageNavigationIconLabel">Gele Gids</string>
   <string name="yellowPageNavigationLabel">Gele Gids</string>
+  <string name="yellowpage_navigation_ad_hint">Ad</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">Saldo en data kon niet geverifeerd worden, probeer later opnieuw.</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Saldo en data zijn geverifeerd</string>
   <string name="yellowpage_navigation_clear_search_history">Geschiedenis verwijderen</string>
   <string name="yellowpage_navigation_more_items">Meer</string>
   <string name="yellowpage_navigation_more_items_title">Meer diensten</string>
@@ -1186,7 +1197,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="yellowpage_navigation_search_history">Geschiedenis</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_average_price">Gemiddelde RMB %d </string>
-  <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het netwerk maken.</string>
+  <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het 
+netwerk maken.</string>
   <string name="yellowpage_navigation_search_result_no_more">Geen nieuwe resultaten</string>
   <string name="yellowpage_navigation_search_result_service_error">Dienst niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Onbekende fout</string>

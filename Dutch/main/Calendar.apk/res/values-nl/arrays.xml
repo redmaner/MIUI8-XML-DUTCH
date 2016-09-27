@@ -50,11 +50,6 @@
         <item>Begin maar alvast zonder mij.</item>
         <item>Sorry, ik kan er niet bij zijn. We moeten een nieuwe afspraak maken.</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Altijd</item>
-        <item>Alleen indien stil</item>
-        <item>Nooit</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>Transparant</item>
         <item>Witte achtergrond</item>
@@ -174,5 +169,10 @@
         <item>Nooit</item>
         <item>Na een bepaalde datum</item>
         <item>Na een bepaald aantal keer</item>
+    </string-array>
+	    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen indien stil</item>
+        <item>Nooit</item>
     </string-array>
 </resources>
