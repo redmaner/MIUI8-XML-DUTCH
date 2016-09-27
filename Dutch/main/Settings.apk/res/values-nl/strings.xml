@@ -1723,7 +1723,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="local_backup_section_summary">Back-up systeeminstellingen, accountgegevens en apps</string>
   <string name="local_backup_section_title">Lokale back-ups</string>
   <string name="locale_default">Standaard</string>
-  <string name="locale_settings">Lokaal</string>
+  <string name="locale_settings">Regio</string>
   <string name="location_access_summary">Apps die uw toestemming hebben gevraagd, toestaan uw locatiegegevens te gebruiken</string>
   <string name="location_access_title">Toegang tot mijn locatie</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
@@ -1847,7 +1847,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockpassword_pin_no_sequential_digits">Een oplopende, aflopende of herhaalde cijferreeks is verboden</string>
   <string name="lockpassword_pin_recently_used">Apparaatbeheerder staat geen PIN ontgrendeling toe.</string>
   <string name="lockpassword_pin_set_toast">PIN code is ingesteld</string>
-  <string name="lockpassword_pin_too_long">PIN code moet korter zijn dan %d cijfers.</string>
+  <string name="lockpassword_pin_too_long">PIN code kan tot %d cijfers bevatten.</string>
   <string name="lockpassword_pin_too_short">PIN code moet ten minste %d cijfers zijn</string>
   <string name="lockpassword_press_continue">"Tik op 'Doorgaan' als u klaar bent"</string>
   <string name="lockpattern_change_lock_pattern_label">Ontgrendelpatroon wijzigen</string>
@@ -1879,7 +1879,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockpattern_settings_title">Ontgrendelpatroon</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Teveel incorrecte pogingen. Probeer opnieuw over %d seconden.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wacht %d seconden en probeer opnieuw.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Teveel incorrecte pogingen!</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Teveel incorrecte pogingen</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
   <string name="lockscreen_glogin_checking_password">Controleren…</string>
@@ -3883,7 +3883,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
-  <string name="upload_debug_log_summary">Diagnostische data kan informatie over uw gebruik van de hardware, het besturingssysteem en de apps bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van de problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
+  <string name="upload_debug_log_summary">De verzamelde informatie kan uw persoonlijke data bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van de problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
   <string name="upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="usage_access">Gebruikstoegang</string>
   <string name="usage_access_description">Gebruikstoegang laat een app toe om bij te houden welke andere apps u gebruikt en hoe vaak, evenals uw provider, taalinstellingen en andere details.</string>
