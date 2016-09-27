@@ -121,7 +121,6 @@
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
   <string name="find_device_activate_account">Account activeren</string>
   <string name="find_device_bad_response_error">"Kan status niet verkrijgen door serverfout, probeer later opnieuw"</string>
-  <string name="find_device_display_id">Ontgrendelnummer: %s</string>
   <string name="find_device_error_password_not_confirmed">"Kan apparaat vinden niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in."</string>
   <string name="find_device_error_password_recently_changed">"U heeft uw wachtwoord de afgelopen 3 dagen veranderd. Kan nu apparaat vinden niet uitschakelen om veiligheidsredenen."</string>
   <string name="find_device_interrupted">Actie is onderbroken, probeer later opnieuw</string>
@@ -146,7 +145,7 @@
   <string name="location_service_not_working">Locatiedienst werkt niet</string>
   <string name="login_check_find_device">Beveilingsinfo van apparaat verkrijgen…</string>
   <string name="login_check_find_device_failed_title">Kon apparaat vind status niet controleren</string>
-  <string name="login_find_device_bind">Dit toestel is gekoppeld aan de bestaande Mi Account ID (%s).</string>
+  <string name="login_find_device_bind">Dit apparaat is gekoppeld met een bestaand Mi Account ID (%s), voer uw wachtwoord in om het apparaat te verifiëren.</string>
   <string name="login_guard_prompt">Telefoonnummer verificatie vereeist wanneer u zich voor de eerste keer aanmeldt bij uw Mi account op een onbekend apparaat of in een onbekende app .</string>
   <string name="logout_failed">Kan niet uitloggen</string>
   <string name="mi_account_identity_title">Verifieer uw identiteit</string>
@@ -155,8 +154,6 @@
   <string name="micloud_space_info">%s beschikbaar</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">"Dit toestel is gekoppeld aan de bestaande Mi Account (%1$s), wachtwoord invoeren om uw apparaat te verifiëren.
-(Ontgrendelnummer: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Het ziet er naar uit dat je het Mi Account van je standaard ruimte gebruikt.</string>
   <string name="multi_user_not_show_sync_activity_message_2">In zo\'n geval, zullen alle gegevens worden gesynchroniseerd met uw tweede ruimte. Om dit te voorkomen, schakel synchronisatie met Mi Cloud niet in</string>
   <string name="multi_user_not_show_sync_activity_title">Schakel synchronisatie met Mi Cloud niet in</string>
@@ -209,7 +206,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_error_empty_email">Voer e-mailadres in</string>
   <string name="passport_error_empty_phone_num">Voer telefoonnummer in</string>
   <string name="passport_error_empty_pwd">Voer wachtwoord in</string>
-  <string name="passport_error_empty_username">Voer gebruikersnaam in</string>
+  <string name="passport_error_empty_username">Voer account ID in</string>
   <string name="passport_error_empty_vcode">Voer verificatiecode in</string>
   <string name="passport_error_illegal_pwd">Ongeldig wachtwoord</string>
   <string name="passport_error_invalid_dev_id">Uw apparaat ID is ongeldig</string>
@@ -364,6 +361,10 @@ Zorg ervoor dat u de antwoorden op deze vragen nog weet."</string>
   <string name="turn_off_find_device_failed_title">"Kan apparaat vinden niet uitschakelen"</string>
   <string name="turning_off_find_device">Apparaat vinden uitschakelen…</string>
   <string name="unbind_sns_description">Na verbreking, kan je niet aanmelden op je Mi account met behulp van  %s</string>
+  <string name="unlock_help_notice">"Help:
+· Als u uw wachy-twoord vergeten bent, ga naar id.mi.com om het te resetten.
+· Als u wu apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te scahkelen
+· Geef dit ontgrendelnummer bij de klantenservice: %s"</string>
   <string name="update_contacts">Adresboek bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>
   <string name="update_email_address_dialog_title">E-mail updaten</string>

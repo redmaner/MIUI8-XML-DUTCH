@@ -53,6 +53,12 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Virusdetail</string>
   <string name="activity_title_virus_settings">Instellingen</string>
+  <string name="adb_install_no_network">Verbinden met netwerk en probeer opnieuw</string>
+  <string name="adb_install_open">Toestaan…</string>
+  <string name="adb_install_open_error">Kon niet toestaan, controleer uw netwerkverbinding</string>
+  <string name="adb_install_reject_notiy">"%s niet toegestaan om te installeren via USB</string>
+  <string name="adb_install_reject_notiy_desc">U kan installeren via USB niet toestaan in options voor ontwikkelaars</string>
+  <string name="adb_login_xiaomi_account">Eerst aanmelden op uw Mi Account</string>
   <string name="add_miservice_dialog_content">"%s vereist dat je MIUI Service framework toevoegt aan de lijst met uitzonderingen. U kunt meldingen ontvangen van ingebouwde MIUI apps en apps van derden."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Uitzonderingen beheren</string>
@@ -708,6 +714,8 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="notification_item">Bescherm geselecteerde apps met appvergrendeling</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
+  <string name="notification_sysapp_cracked_text">De huidige versie van MIUI is aangepast</string>
+  <string name="notification_sysapp_cracked_title">Veiligheidsrisico gedetecteerd</string>
   <string name="notification_title_cmcc_app_check">%d dagen sinds laatste controle</string>
   <string name="notification_title_firewall_blocked">Geblokkeerd</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
@@ -1170,6 +1178,15 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="summary_virus_cloudscan">Upload appnamen en details en scan met behulp van online virusdefinities</string>
   <string name="summary_virus_update">Update virusdefinities automatisch bij Wi-Fi verbinding</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB voor mobiele data roaming</string>
+  <string name="sys_app_prot_cracked_confirm">Begrepen</string>
+  <string name="sys_app_prot_cracked_login">Aanmelden met uw Mi Account</string>
+  <string name="sys_app_prot_cracked_text_login">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt.
+
+Zorg ervoor dat je weet waar dit apparaat wordt vandaan komt en neem contact op geautoriseerd Xiaomi service center in uw buurt om hulp te krijgen."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt. Aanmelden met uw MI Account om deze waarschuwing uit te scahkelen.
+
+Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaan komt en neem contact op met een erkende Xiaomi service center in uw omgeving."</string>
+  <string name="sys_app_prot_cracked_title">Veiligheidsrisico</string>
   <string name="system_app">Systeemapps</string>
   <string name="system_application">Systeemapps</string>
   <string name="system_check_content_none">Veilig</string>
@@ -1407,6 +1424,9 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aan blijven</string>
   <string name="usage_type_wifi_running">Wi-Fi actief</string>
+  <string name="usb_adb_input_apply_step_1">Uw computer zal in staat zijn om de instellingen en subsidie rechten te wijzigen zonder dat je het weet wanneer het apparaat is aangesloten via USB</string>
+  <string name="usb_adb_input_apply_step_2">Dit kan leiden tot lekken van privé informatie, zoals accounts of berichten</string>
+  <string name="usb_adb_input_apply_step_3">Zorg ervoor dat u de risico's begrijpen voordat u het toestaand. Nu toestaan?</string>
   <string name="usb_install_desc">Deze app installeren via USB?</string>
   <string name="usbsharenet_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de USB aansluiting van het apparaat en start Mi PC Suite terug op.</string>
   <string name="usbsharenet_exception_title">Test gedeelt netwerk via USB</string>
