@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-        <item quantity="other">%1$d verwijderde bestanden</item>
-        <item quantity="zero">%1$d verwijderde bestanden</item>
-        <item quantity="one">%1$d verwijderd bestand</item>
-        <item quantity="two">%1$d verwijderde bestanden</item>
-        <item quantity="few">%1$d verwijderde bestanden</item>
-        <item quantity="many">%1$d verwijderde bestanden</item>
+        <item quantity="other">%1$d bestanden</item>
+        <item quantity="zero">%1$d bestanden</item>
+        <item quantity="one">%1$d bestand</item>
+        <item quantity="two">%1$d bestanden</item>
+        <item quantity="few">%1$d bestanden</item>
+        <item quantity="many">%1$d bestanden</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" en %1$d mappen?"</item>
-        <item quantity="zero">" en %1$d mappen?"</item>
-        <item quantity="one">" en %1$d map?"</item>
-        <item quantity="two">" en %1$d mappen?"</item>
-        <item quantity="few">" en %1$d mappen?"</item>
-        <item quantity="many">" en %1$d mappen?"</item>
+        <item quantity="other">" en %1$d mappen verwijderen?"</item>
+        <item quantity="zero">" en %1$d mappen verwijderen?"</item>
+        <item quantity="one">" en %1$d map verwijderen?"</item>
+        <item quantity="two">" en %1$d mappen verwijderen?"</item>
+        <item quantity="few">" en %1$d mappen verwijderen?"</item>
+        <item quantity="many">" en %1$d mappen verwijderen?"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d items</item>
@@ -137,7 +137,7 @@
         <item quantity="many">%1$d dagen</item>
     </plurals>
     <plurals name="des_running_trans">
-        <item quantity="other">%1$d bestanden niet zijn getranfereerd.</item>
-        <item quantity="one">%1$d bestand niet zijn getranfereerd.</item>
+        <item quantity="other">%1$d bestanden zijn niet verzonden.</item>
+        <item quantity="one">%1$d bestand is niet verzonden.</item>
     </plurals>
 </resources>

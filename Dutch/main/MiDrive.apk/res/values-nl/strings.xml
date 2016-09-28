@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_logout">Account verlaten “%1$s”</string>
-  <string name="action_mode_deselect_all">Alle deselecteren</string>
-  <string name="action_mode_select_all">Alle selecteren</string>
-  <string name="adding_download_tasks">Downloadtaak#8230; toevoegen</string>
-  <string name="adding_upload_tasks">Uploadtaak#8230; toevoegen</string>
+  <string name="account_logout">Account “%1$s” verlaten</string>
+  <string name="action_mode_deselect_all">Alles deselecteren</string>
+  <string name="action_mode_select_all">Alles selecteren</string>
+  <string name="adding_download_tasks">Downloadtaken#8230; toevoegen</string>
+  <string name="adding_upload_tasks">Uploadtaken#8230; toevoegen</string>
   <string name="agree">Toestaan</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">Verbergen</string>
@@ -12,7 +12,7 @@
   <string name="cancel">Annuleren</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">Overdrachten bekjken</string>
-  <string name="change_mobile_network_message">Overschakelen naar mobiele data. Bij gebruik van mobiele data om bestanden te transfereren kan extra kosten meebrengen. Toch transefereren?</string>
+  <string name="change_mobile_network_message">Overschakelen naar mobiele data. Mobiele data gebruiken om bestanden te transfereren kan extra kosten meebrengen. Toch transfereren?</string>
   <string name="confirm">Ok</string>
   <string name="consumption_alert">Internetverbinding</string>
   <string name="consumption_message">Mi Drive heeft internetverbinding nodig om normaal te kunnen werken.</string>
@@ -31,8 +31,8 @@
   <string name="downloading">Bezig met downloaden</string>
   <string name="downloading_in_3g">Bezig met downloaden op 3G…</string>
   <string name="downloading_in_wifi">Bezig met downloaden…</string>
-  <string name="empty_file_download">Lege bestanden worden niet ondersteund</string>
-  <string name="empty_file_upload">Lege bestanden worden niet ondersteund</string>
+  <string name="empty_file_download">Lege bestanden worden niet ondersteunt</string>
+  <string name="empty_file_upload">Lege bestanden worden niet ondersteunt</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Bestand opslaan naar \"%1$s\"</string>
   <string name="file_change_btn_download">Bestand downloaden</string>
@@ -90,14 +90,14 @@
   <string name="operation_moving_detail">Verplaatsen (%1$d/%2$d)</string>
   <string name="operation_paste">Plakken</string>
   <string name="operation_pasting">Plakken…</string>
-  <string name="operation_pause">Pauze</string>
-  <string name="operation_pause_all">Alle pauzeren</string>
+  <string name="operation_pause">Pauzeren</string>
+  <string name="operation_pause_all">Alles pauzeren</string>
   <string name="operation_refresh">Vernieuwen</string>
   <string name="operation_rename">Naam wijzigen</string>
   <string name="operation_rename_message">Naam map wijzigen</string>
   <string name="operation_renaming">Naam wijzigen…</string>
   <string name="operation_resume">Starten</string>
-  <string name="operation_resume_all">Doorgaan met alle</string>
+  <string name="operation_resume_all">Alles hervatten</string>
   <string name="operation_save">Verzenden</string>
   <string name="operation_send">Opslaan</string>
   <string name="operation_task_manage">Overdrachten bekijken</string>
@@ -106,7 +106,7 @@
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Eerst explorer updaten.</string>
   <string name="quota_info">Mi Drive: %1$s beschikbaar, %2$s totaal</string>
-  <string name="rename_alert">Als u de extentie van het bestand wijzigd, is het mogelijk dat u deze niet meer kan openen.</string>
+  <string name="rename_alert">Als u de extentie van het bestand wijzigt, is het mogelijk dat u deze niet meer kan openen.</string>
   <string name="rename_failed">Een bestand met dezelfde naam bestaat reeds.</string>
   <string name="sd_full">Uw SD kaart is vol.</string>
   <string name="sd_invalid">Uw SD kaart is beschadigd.</string>
@@ -117,7 +117,7 @@
   <string name="system_alert">Internetverbinding</string>
   <string name="terabyteShort">TB</string>
   <string name="tools">Tools</string>
-  <string name="trans_mobile_network_message">Bij gebruik van mobiele data om bestanden te transfereren kan extra kosten meebrengen. Toch transefereren?</string>
+  <string name="trans_mobile_network_message">Het gebruik van mobiele data om bestanden te transfereren kan extra kosten meebrengen. Toch transfereren?</string>
   <string name="trans_task">Netwerk overdracht</string>
   <string name="transing">Verzenden</string>
   <string name="upload_failed">Kon niet uploaden</string>
