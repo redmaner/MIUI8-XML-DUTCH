@@ -5,7 +5,7 @@
   <string name="action_settings">Instellingen</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">Andere personen hebben deze ook gedownload met %1$s </string>
-  <string name="ad_title_other">Samen met deze afbeelding hebben personen ook dit gedownload</string>
+  <string name="ad_title_other">Personen die deze afbeelding hebben gedownload hebben ook dit gedownload</string>
   <string name="add_flow_fail_haveget_msg">Trial periode is vervallen</string>
   <string name="add_flow_fail_vip_msg">Xunlei download accelerator is ingeschakeld</string>
   <string name="add_flow_success_msg">%s deze maand toegevoegd</string>
@@ -18,19 +18,17 @@
   <string name="app_label">Downloads</string>
   <string name="auth_activity_title">Xunlei account</string>
   <string name="auth_fail">Kon geen autorisatie krijgen</string>
-  <string name="bind_xunlei_account">Xunlei account %1$s toegevoegd</string>
+  <string name="bind_xunlei_account">Xunlei account toevoegen</string>
   <string name="bt_download">Download</string>
   <string name="bt_path_not_exit">Dit pad bestaat niet</string>
   <string name="bt_restart_dialog_message">Alle downloads herstarten in de map BT?</string>
   <string name="bt_restart_dialog_title">Alle downloads herstarten</string>
   <string name="bt_xunlei_open_info">Xunlei zoekmachine gebruiken om dit type link te openen?</string>
-  <string name="btn_change">Wijzigen</string>
   <string name="button_sort_by_date">Sorteren op datum</string>
   <string name="button_sort_by_size">Sorteren op grootte</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_running_download">Annuleren</string>
   <string name="cancle">Annuleren</string>
-  <string name="choose_open_picture">Opties</string>
   <string name="choose_open_time">Kies wanneer je wilt beginnen</string>
   <string name="clear_data">Wissen</string>
   <string name="complete_time">Voltooid:</string>
@@ -49,8 +47,6 @@
   <string name="deselect_all">Alles deselecteren</string>
   <string name="deselect_subfile_all">Alles deselecteren</string>
   <string name="determine">Ok</string>
-  <string name="dialog_btn_cancel">Annuleren</string>
-  <string name="dialog_btn_ok">Ok</string>
   <string name="dialog_btn_ok_disabled_net">Netwerkinstellingen</string>
   <string name="dialog_cannot_resume">Download is onderbroken en kan niet worden hervat.</string>
   <string name="dialog_confirm_delete_checkbox_message">Ook lokale bestanden verwijderen</string>
@@ -63,13 +59,12 @@
   <string name="dialog_insufficient_space_on_cache">Kan download niet voltooien. Er is onvoldoende interne opslagruimte beschikbaar.</string>
   <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Er is onvoldoende externe opslagruimte beschikbaar.</string>
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
-  <string name="dialog_msg_disabled_net">%1$s beperkte downloads voor het huidig netwerk. Tik op netwerkinstellingen om naar de beveiligings app te gaan.</string>
+  <string name="dialog_msg_disabled_net">%1$s beperkte downloads in het huidig netwerk. Tik op netwerkinstellingen om naar de beveiligings app te gaan.</string>
   <string name="dialog_msg_recommend">Nadat u aanbevolen bronnen hebt uitgeschakeld zal u deze niet kunnen bekijken. U kan \"Laden wanneer verbonden met Wi-Fi\" kiezen om mobiele data te besparen</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij om later te downloaden, dus het bestand is nog niet beschikbaar.</string>
   <string name="dialog_title_disabled_net">Internet toegang</string>
   <string name="dialog_title_not_available">Downloaden mislukt</string>
   <string name="dialog_title_queued_body">Bestand nog niet beschikbaar</string>
-  <string name="dialog_title_recommend">Aanbevolen bronnen uitschakelen</string>
   <string name="disable">Uit</string>
   <string name="display_expire_netiv1">Deze maand</string>
   <string name="do_not_support_url">Dit type URL is niet ondersteund</string>
@@ -108,9 +103,6 @@
   <string name="download_share_dialog">Delen via</string>
   <string name="download_speed">Downloadsnelheid:</string>
   <string name="download_spend_time">Tijd</string>
-  <string name="download_status_continue">Doorgaan</string>
-  <string name="download_status_fail">Probeer opnieuw</string>
-  <string name="download_status_paused">Pauze</string>
   <string name="download_success">Voltooid</string>
   <string name="download_title">Downloads</string>
   <string name="download_title_sorted_by_date">Downloads: gesorteerd op datum</string>
@@ -148,9 +140,6 @@
   <string name="file_exist_hint">Dit bestand bestaat reeds</string>
   <string name="file_picker">Kies een locatie</string>
   <string name="file_size">Grootte:</string>
-  <string name="force_touch_newdownload">Nieuwe download</string>
-  <string name="force_touch_rank">Rankings</string>
-  <string name="force_touch_search">Op het web zoeken</string>
   <string name="free_high_speed_channel">Xunlei accelerator (gratis)</string>
   <string name="free_speedup_exp">Probeer de Xunlei download accelerator gratis</string>
   <string name="get_account_dialog_msg">Accountinfo verkrijgen…</string>
@@ -166,9 +155,8 @@
   <string name="high_speed_tryout_speedup_confirm">Voorbereiden om de snelheid te verhogen…</string>
   <string name="high_speed_tryout_time">Trial tijd voorbij: %1$s. word Xunlei lid</string>
   <string name="hint">Waarschuwing</string>
-  <string name="home_page_new_download_guide">Nieuwe downloads worden hier opgeslagen</string>
   <string name="immediately_a_renewal">Nu vernieuwen</string>
-  <string name="info_flow_only_load_wifi">Laden bij verbinding met Wi-Fi</string>
+  <string name="info_flow_only_load_wifi">Aanbevolen bronnen laden bij verbinding met Wi-Fi</string>
   <string name="info_flow_setting">Instellingen</string>
   <string name="info_flow_show">Aanbevolen bronnen</string>
   <string name="input_valid_address">Voer bestandspad in</string>
@@ -209,9 +197,6 @@
   <string name="no_vip_show_info">Versnel downloads
 op al je apparaten met Xunlei</string>
   <string name="notify_disabled_net_by_app">Beperkte internet toegang</string>
-  <string name="notify_install_guide_forward_text">Openen</string>
-  <string name="notify_install_guide_msg">Met succes geïnstalleerd</string>
-  <string name="notify_install_guide_title">%s met succes geïnstalleerd</string>
   <string name="notify_not_support">Zulke meldingen worden niet ondersteund, nu updaten</string>
   <string name="notify_only_wifi_download">Wachten op Wi-Fi</string>
   <string name="one_month">1 maand</string>
@@ -234,7 +219,6 @@ op al je apparaten met Xunlei</string>
   <string name="paused_unknown">Gepauzeerd</string>
   <string name="paused_waiting_for_network">Wachten op netwerk</string>
   <string name="paused_waiting_to_retry">Wachten op nieuwe poging</string>
-  <string name="percent_title">%1$s personen hebben dit gedownload</string>
   <string name="period_of_validity">Geldigheid:</string>
   <string name="pref_download_revert_default">Standaard</string>
   <string name="pref_download_settings_title">Downloadlimiet</string>
@@ -324,10 +308,10 @@ op al je apparaten met Xunlei</string>
   <string name="sniff_cannot_use">Kan link niet oppikken, typ URL om te downloaden.</string>
   <string name="sniff_connect_error_page_tips">Kon URL niet openen</string>
   <string name="sniff_connect_error_refresh">Herladen</string>
-   <string name="sniff_copyright_text">Kan het niet weergeven als gevolg van de auteursrechtelijke rechten</string>
+  <string name="sniff_copyright_text">Kan het niet weergeven als gevolg van de auteursrechtelijke rechten</string>
   <string name="sniff_download_task_already_exist">Deze download bestaat reeds</string>
   <string name="sniff_download_task_create_success">Download toegevoegd</string>
-    <string name="sniff_finding_resource_prompt">Zoeken op het web…</string>
+  <string name="sniff_finding_resource_prompt">Zoeken op het web…</string>
   <string name="sniff_hot_text">Verwant</string>
   <string name="sniff_no_network_tip">Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="sniff_no_result_text">Geen resultaten gevonden</string>
@@ -353,7 +337,7 @@ op al je apparaten met Xunlei</string>
   <string name="sniff_terms_check_text">Gebruiksvoorwaarden aanvaarden</string>
   <string name="sniff_terms_msg">Je moet \"Gebruiksvoorwaarden\" aanvaarden om de zoekmachine van derden te gebruiken.</string>
   <string name="sniff_terms_msg_a">Deze zoekfunctie wordt aangeboden door een derde partij ontwikkelaar. U moet akkoord gaan met de Algemene Voorwaarden voordat u deze kan gebruiken.</string>
-  <string name="sniff_terms_msg_b">Deze zoekfunctie wordt aangeboden door een derde partij ontwikkelaar. U moet akkoord gaan met de Algemene Voorwaarden voordat u deze kan gebruiken. Als u akkoord gaat met de voorwaarden, Tik om het onderstaande vakje aan te vinken.</string>
+  <string name="sniff_terms_msg_b">Deze zoekfunctie wordt aangeboden door een derde partij ontwikkelaar. U moet akkoord gaan met de Algemene Voorwaarden voordat u deze kan gebruiken. Als u akkoord gaat met de voorwaarden, Vink het onderstaande vakje aan.</string>
   <string name="sniff_terms_msg_bold">Gebruiksvoorwaarden</string>
   <string name="sniff_terms_msg_bold_new">Gebruiksvoorwaarden</string>
   <string name="sniff_terms_reject">Afwijzen</string>
@@ -375,7 +359,7 @@ op al je apparaten met Xunlei</string>
   <string name="subfile_list">Bestanden</string>
   <string name="task_detail">Taken</string>
   <string name="task_detail_notfound_confirm">Ok</string>
-  <string name="task_fail">Kon bewerking niet voltooien</string>
+  <string name="task_fail">Mislukt</string>
   <string name="text_showmore_infoflow">Geef meer bronnen weer</string>
   <string name="third_web_cancel">Annuleren</string>
   <string name="third_web_confirm">Ok</string>

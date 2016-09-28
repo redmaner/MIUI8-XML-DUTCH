@@ -222,6 +222,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_link_open_never">Niet openen in deze app</string>
   <string name="app_list_memory_use">Appgebruik</string>
   <string name="app_list_preference_none">Geen</string>
+  <string name="app_lock_role_instruction">Bescherm uw privé apps</string>
   <string name="app_memory_use">Geheugengebruik</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
@@ -439,6 +440,11 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="battery_sugg_radio">Schakel over naar de vliegmodus om energie te besparen in gebieden zonder mobiel bereik</string>
   <string name="battery_sugg_wifi">Schakel Wi-Fi uit wanneer u dit niet gebruikt of wanneer dit niet beschikbaar is</string>
   <string name="battery_summary">%1$d%% gebruik sinds laatste volledige oplading</string>
+  <string name="bind_xiaomi_account_cancel">Annuleren</string>
+  <string name="bind_xiaomi_account_confirm">Toevoegen</string>
+  <string name="bind_xiaomi_account_dialog_summery">"U staat op punt om Mi Account %s toe te voegen. Als u uw wachtwoord vergeet, kan u dit account gebruiken om het te resetten."</string>
+  <string name="bind_xiaomi_account_success">Mi Account met succes toegevoegd</string>
+  <string name="binded_xiaomi_summary">Huidig account: %s</string>
   <string name="ble_scan_notify_text">Om locatienauwkeurigheid te verbeteren kunnen systeem- apps en services nog steeds Bluetooth apparaten detecteren. U kan dit veranderen in LINK_BEGINscaninstellingenLINK_END.</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Verbonden met audio van medium</string>
@@ -742,6 +748,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="checking_decryption">Controleren…</string>
   <string name="checking_find_device_status">Controleren van apparaat zoekstatus…</string>
   <string name="checking_for_updates">Controleren op updates…</string>
+  <string name="childmod_privacy_password_role_instruction">Kindermodus inschakelen om ongewenste acties te voorkomen wanner deze gebruikt wordt door een kind</string>
   <string name="children_mode_enable_title">Kindermodus</string>
   <string name="children_mode_set_apps_title">Toegankelijke apps</string>
   <string name="children_mode_tips_off">Na het inschakelen van kindermodus, tikt u op de Homeknop om terug te keren naar het startscherm.</string>
@@ -793,6 +800,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="configure_apps">Apps configureren</string>
   <string name="configure_input_method">Invoermethoden instellen</string>
   <string name="confirm_action">Ok</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Toevoegen</string>
   <string name="confirm_download_cancelation_dialog_message">Download annuleren?</string>
   <string name="confirm_enable_multi_window_text">WAARSCHUWING: Dit is een experimentele functie die verschillende activiteiten op het scherm toestaat tegelijkertijd. Sommige apps kunnen crashen of niet correct functioneren wanneer je ze gebruikt met deze functie.</string>
   <string name="confirm_enable_multi_window_title">Multi-window modus inschakelen?</string>
@@ -802,6 +810,9 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="confirm_fingerprint_icon_content_description">Gebruik uw vingerafdruk om verder te gaan.</string>
   <string name="confirm_fingerprint_msg">Plaats uw vinger op de sensor</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
+   <string name="confirm_privacy_password">Voer privacy wachtwoordbeveiliging in</string>
+  <string name="confirm_privacy_password_fingerprint">Scan vingerafdruk of voer privacy wachtwoordbeveiliging in</string>
+  <string name="confirm_privacy_password_instruction">Dit wachtwoord beveiligd apps, berichten, foto\'s, en contacten.</string>
   <string name="confirm_reset_aaid">Ok</string>
   <string name="connect_to_internet">Maak verbinding met het internet</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
@@ -1311,6 +1322,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="failed_to_shut_down_find_device_content">Kon apparaat zoeken niet uitschakelen. Wacht een minuutje of twee en probeer opnieuw.</string>
   <string name="failed_to_shut_down_find_device_title">Kon niet uitschakelen</string>
   <string name="fcc_equipment_id">Apparatuur ID</string>
+  <string name="file_privacy_password_role_instruction">Uw privé bestanden zullen hier opgeslaan worden.</string>
   <string name="filter">Filter</string>
   <string name="filter_all_apps">Alle apps</string>
   <string name="filter_apps_all">Alles</string>
@@ -1347,6 +1359,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="fingerprint_lock_first">Eerste ruimte ontgrendelen</string>
   <string name="fingerprint_lock_second">Tweede ruimte ontgrendelen</string>
   <string name="fingerprint_manage_category_title">Vingerafdrukken beheren</string>
+  <string name="fingerprint_not_identified_msg">Kon vingerafdruk niet lezen. Voer uw wachtwoord in"</string>
   <string name="fingerprint_not_recognized">Niet herkend</string>
   <string name="fingerprint_removal_failed">Kon vingerafdruk niet verwijderen, probeer later opnieuw</string>
   <string name="fingerprint_usage_category_title">Vingerafdruk gebruiken voor</string>
@@ -1385,6 +1398,9 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="force_touch_enable_tips">"Appicoon ingedrukt houden in launcher zal het snelkoppelingmenu van de app tonen, wanneer 3D Touch is ingeschakeld."</string>
   <string name="forget">Vergeten</string>
   <string name="forget_password_button_text">Wachtwoord vergeten</string>
+  <string name="forget_pattern">&lt;u&gt;Patroon vergeten?&lt;/u&gt;</string>
+  <string name="forget_privacy_password_setting">Mi Account toevoegen</string>
+  <string name="forget_privacy_password_summary">Gebruik Mi Account om wachtwoord te resetten</string>
   <string name="forget_wifi_message">Uw telefoon zal de verbinding met dit netwerk automatisch stoppen</string>
   <string name="found_new_version">Update beschikbaar</string>
   <string name="fp_nav_center_back_to_home_title">Tik op Home knop om terug te gaan naar het beginscherm</string>
@@ -1435,6 +1451,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="gadget_toggle_bluetooth">Bluetooth instelling bijwerken</string>
   <string name="gadget_toggle_wifi">Wi-Fi instelling bijwerken</string>
   <string name="gadget_wifi">Wi-Fi</string>
+  <string name="gallery_privacy_password_role_instruction">Uw privé foto\'s zullen hier opgeslaan worden.</string>
   <string name="game_controller_settings_category">Game controller</string>
   <string name="gesture_wakeup_title">Dubbeltikken om scherm te ontwaken</string>
   <string name="getConfiguredNetworks">Geconfigureerde netwerken ophalen</string>
@@ -1561,7 +1578,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="input_methods_and_subtype_enabler_title">Actieve invoermethode selecteren</string>
   <string name="input_methods_settings_label_format">Instellingen voor %1$s</string>
   <string name="input_methods_settings_title">Tekstinvoer</string>
-  <string name="input_password_hint_text">Wachtwoord invoeren</string>
   <string name="input_settings">Invoer instellingen</string>
   <string name="install_all_warning">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen door apps van onbekende bronnen. U gaat ermee akkoord dat alleen u verantwoordelijk bent voor enige schade aan uw apparaat of verlies van gegevens die voortkomen uit het gebruik van deze apps.</string>
   <string name="install_applications">Onbekende bronnen</string>
@@ -1573,6 +1589,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="install_unknown_applications">Toestaan dat apps uit andere bronnen dan de Play Store worden geïnstalleerd</string>
   <string name="install_unknown_applications_title">Hiermee kunt u apps van andere bronnen dan Google Play installeren</string>
   <string name="install_whole_rom">ROM downloaden</string>
+  <string name="instruction_privacy_password">Dit wachtwoor beschermd volgende items</string>
   <string name="instruction_title">Instructies</string>
   <string name="insufficient_storage">Niet voldoende opslagruimte.</string>
   <string name="intent_sender_account_label">Account:</string>
@@ -1706,7 +1723,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="local_backup_section_summary">Back-up systeeminstellingen, accountgegevens en apps</string>
   <string name="local_backup_section_title">Lokale back-ups</string>
   <string name="locale_default">Standaard</string>
-  <string name="locale_settings">Lokaal</string>
+  <string name="locale_settings">Regio</string>
   <string name="location_access_summary">Apps die uw toestemming hebben gevraagd, toestaan uw locatiegegevens te gebruiken</string>
   <string name="location_access_title">Toegang tot mijn locatie</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
@@ -1830,7 +1847,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockpassword_pin_no_sequential_digits">Een oplopende, aflopende of herhaalde cijferreeks is verboden</string>
   <string name="lockpassword_pin_recently_used">Apparaatbeheerder staat geen PIN ontgrendeling toe.</string>
   <string name="lockpassword_pin_set_toast">PIN code is ingesteld</string>
-  <string name="lockpassword_pin_too_long">PIN code moet korter zijn dan %d cijfers.</string>
+  <string name="lockpassword_pin_too_long">PIN code kan tot %d cijfers bevatten.</string>
   <string name="lockpassword_pin_too_short">PIN code moet ten minste %d cijfers zijn</string>
   <string name="lockpassword_press_continue">"Tik op 'Doorgaan' als u klaar bent"</string>
   <string name="lockpattern_change_lock_pattern_label">Ontgrendelpatroon wijzigen</string>
@@ -1861,6 +1878,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Tenzij wakker gehouden door %1$s</string>
   <string name="lockpattern_settings_title">Ontgrendelpatroon</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Teveel incorrecte pogingen. Probeer opnieuw over %d seconden.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wacht %d seconden en probeer opnieuw.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Teveel incorrecte pogingen</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
   <string name="lockscreen_glogin_checking_password">Controleren…</string>
@@ -2015,6 +2034,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_experience_optimization">MIUI optimalisaties inschakelen</string>
   <string name="mms_breathing_light_color_title">Kleur bij berichten</string>
   <string name="mms_breathing_light_freq_title">Knipperfrequentie berichten</string>
+  <string name="mms_privacy_password_role_instruction">Uw conversaties met privé contacten zullen hier opgeslaan worden.</string>
   <string name="mobile_connect_to_internet">Maak verbinding met internet</string>
   <string name="mobile_data_always_on">Gegevensverbinding altijd actief</string>
   <string name="mobile_data_always_on_summary">Mobiele data altijd actief houden, zelfs wanneer Wi-Fi actief is (om snel tussen netwerken te kunnen wisselen).</string>
@@ -2025,6 +2045,8 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="mock_location_app_not_set">Geen neplocatie-app ingesteld</string>
   <string name="mock_location_app_set">Neplocatie-app: %1$s</string>
   <string name="model_number">Modelnummer</string>
+  <string name="modify_instruction_password_settings">Wachtwoord instellen</string>
+  <string name="modify_privacy_password">Wachtwoord wijzigen</string>
   <string name="move_app">Verplaatsen</string>
   <string name="move_app_failed_dlg_text">Kon app niet verplaatsen. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2179,6 +2201,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_updates_warning2">We laten je het weten als er een update is.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
   <string name="not_installed">Niet geïnstalleerd voor deze gebruiker</string>
+  <string name="notes_privacy_password_role_instruction">Uw privé notities zullen hier opgeslaan worden.</string>
   <string name="notification_app_settings_button">Meldingsinstellingen</string>
   <string name="notification_breathing_light_color_title">Kleur bij meldingen</string>
   <string name="notification_breathing_light_freq_title">Knipperfrequentie meldingen</string>
@@ -2610,10 +2633,29 @@ Selecteer het OS van uw computer:"</string>
   <string name="priority_storage_settings_summary">Als er geen SD kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag.</string>
   <string name="priority_storage_summary">Kies standaardlocatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslaginstellingen</string>
+  <string name="privacy_applock">App vergrendeling</string>
+  <string name="privacy_childmode">Kindermodus</string>
+  <string name="privacy_file">Bestanden</string>
+  <string name="privacy_gallery">Foto\'s</string>
+  <string name="privacy_mms">Berichten</string>
   <string name="privacy_mode_dialog_message">Berichten, notities, foto\'s en inkomende oproepen verbergen?</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_mode_enable_sum">Berichten, notities, foto\'s en inkomende oproepen verbergen</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
+  <string name="privacy_notes">Notities</string>
+  <string name="privacy_password">Privacy wachtwoordbeveiliging</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Bevestig tweede ruimte wachtwoord</string>
+  <string name="privacy_password_confirm_use_finger">Ontgrendelen met vingerafdruk</string>
+  <string name="privacy_password_fingerprint_confirm_failed">Kon vingerafdruk niet verifieër</string>
+  <string name="privacy_password_fingerprint_confirm_succes">Vingeradruk geverifieerd</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">Kon vingerafdruk niet scannen, probeer opnieuw</string>
+  <string name="privacy_password_fingerprint_dialog_message">Plaats uw vinger op de sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Scan uw vingerafdruk</string>
+  <string name="privacy_password_settings">Gebruik privacy wachtwoordbeveiliging</string>
+  <string name="privacy_password_settings_titles">Privacy protection wachtwoordbeveiliging bescherm uw berichten, foto\'s, bestanden, notities en apps.</string>
+  <string name="privacy_password_title">Privacy wachtwoordbeveiliging</string>
+  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_visible_pattern">Patroon weergeven</string>
   <string name="privacy_protect_title">Privacybescherming</string>
   <string name="privacy_relative">Privacy-gerelateerd</string>
   <string name="privacy_settings">Backup &amp; herstel</string>
@@ -3234,6 +3276,7 @@ Om schermpinning te gebruiken:
   <string name="set_password_action">Wachtwoord instellen</string>
   <string name="set_password_message">Wachtwoord instellen om kindermodus uit te schakelen en om apparaat te ontgrendelen.</string>
   <string name="set_password_title">Wachtwoord instellen</string>
+  <string name="setting_privacy_password">Privacy wachtwoordbeveiliging instellen</string>
   <string name="settings_backup">Back-up van instellingen maken</string>
   <string name="settings_backup_summary">Back-up maken van mijn instellingen</string>
   <string name="settings_button">Instellingen</string>
@@ -3840,7 +3883,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_progress_for_updates">Updaten（%s）</string>
-  <string name="upload_debug_log_summary">Diagnostische data kan informatie over uw gebruik van de hardware, het besturingssysteem en de apps bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van de problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
+  <string name="upload_debug_log_summary">De verzamelde informatie kan uw persoonlijke data bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van de problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
   <string name="upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="usage_access">Gebruikstoegang</string>
   <string name="usage_access_description">Gebruikstoegang laat een app toe om bij te houden welke andere apps u gebruikt en hoe vaak, evenals uw provider, taalinstellingen en andere details.</string>
@@ -3868,6 +3911,8 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ingeschakeld houden</string>
   <string name="usage_type_wifi_running">Wi-Fi actief</string>
+  <string name="usb_adb_input">USB debugging (Security settings)</string>
+  <string name="usb_adb_input_desc">Laat het verlenen van toestemmingen en het simuleren van input via USB foutopsporing toe</string>
   <string name="usb_audio_disable_routing">USB audio routing uitschakelen</string>
   <string name="usb_audio_disable_routing_summary">Automatische routing uitschakelen naar USB audio randapparatuur</string>
   <string name="usb_charging_summary">Schakel alle andere USB functies uit om het opladen te versnellen.</string>
@@ -3880,6 +3925,8 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="usb_host_mode_subtext">Bij gebruik van gamecontrollers en andere randapparatuur kan meer batterij verbruiken.</string>
   <string name="usb_host_mode_text">USB hostmodus</string>
   <string name="usb_insert_summary">USB opslag verbinden</string>
+  <string name="usb_install_app">Installeren via USB</string>
+  <string name="usb_install_app_desc">Apps installeren via USB toestaan</string>
   <string name="usb_midi_summary">Laat MIDI gemachtigde applicaties werken over USB met MIDI software op uw computer.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">USB opslag koppelen</string>
@@ -3909,6 +3956,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="use_location_summary">Google toestaan uw locatie te gebruiken om zoekresultaten en andere services te verbeteren</string>
   <string name="use_location_title">Locatie en Google Zoeken</string>
   <string name="use_personalized_ad_service">Gepersonaliseerde adv</string>
+  <string name="use_privacy_password_immediate">Gebruiken</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="use_this_wlan">Verbonden blijven</string>
   <string name="user_account_title">Account voor inhoud</string>
@@ -4568,7 +4616,6 @@ als u uw publieke netwerk deelt."</string>
   <string name="xiaomi_router_notif_title">Mi Router melding</string>
   <string name="xspace">Gedupliceerde apps</string>
   <string name="yes">Ja</string>
-  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">Geen geinstalleerde apps hebben toegang tot niet storen aangevraagd</string>
   <string name="zen_access_warning_dialog_summary">De app zal in staat zijn om niet storen in- en uit te schakelen en wijzigingen maken aan de instellingen daarvan.</string>
   <string name="zen_access_warning_dialog_title">Toegang tot niet storen toestaan voor %1$s?</string>
