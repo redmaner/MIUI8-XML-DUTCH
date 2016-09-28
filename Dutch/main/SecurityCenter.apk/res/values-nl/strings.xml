@@ -57,7 +57,7 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="adb_install_open">Toestaan…</string>
   <string name="adb_install_open_error">Kon niet toestaan, controleer uw netwerkverbinding</string>
   <string name="adb_install_reject_notiy">"%s niet toegestaan om te installeren via USB</string>
-  <string name="adb_install_reject_notiy_desc">U kan installeren via USB niet toestaan in options voor ontwikkelaars</string>
+  <string name="adb_install_reject_notiy_desc">U kan installeren via USB niet toestaan in opties voor ontwikkelaars</string>
   <string name="adb_login_xiaomi_account">Eerst aanmelden op uw Mi Account</string>
   <string name="add_miservice_dialog_content">"%s vereist dat je MIUI Service framework toevoegt aan de lijst met uitzonderingen. U kunt meldingen ontvangen van ingebouwde MIUI apps en apps van derden."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
@@ -170,7 +170,7 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="begin_date">Resetdatum</string>
   <string name="bind_xiaomi_account_cancel">Annuleren</string>
   <string name="bind_xiaomi_account_confirm">Toevoegen</string>
-  <string name="bind_xiaomi_account_dialog_summery">"U staat op punt om Mi Account %s toe te voegen. Als u uw wachtwoord vergeet, kan u dit account gebruiken om het te resetten. Het account zal automatisch verwijderd worden wanneer u afmeld."</string>
+  <string name="bind_xiaomi_account_dialog_summery">"U staat op het punt om Mi Account %s toe te voegen. Als u uw wachtwoord vergeet, kan u dit account gebruiken om het te resetten. Het account zal automatisch verwijderd worden wanneer u afmeld."</string>
   <string name="bind_xiaomi_account_success">Mi Account met succes toegevoegd</string>
   <string name="bind_xiaomi_account_summary">Gebrui Mi Account om uw wachtwoord te resetten</string>
   <string name="bind_xiaomi_account_title">Mi Account toevoegen</string>
@@ -777,8 +777,8 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="packages_subtitle">Inbegrepen pakketten</string>
   <string name="passwordIncorrect">Gebruikersnaam of wachtwoord onjuist</string>
   <string name="password_promotion_button_text">Begrepen</string>
-  <string name="password_promotion_message">App vergrendeling wordt geüpgrade naar privacy wachtwoordbeveiliging. U kan uw huidige Mi Account gebruiken om het te resetten.</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">App vergrendeling wordt geüpgrade naar privacy wachtwoordbeveiliging. U kan uw huidige Mi Account gebruiken om het te resetten. Voeg uw Mi Account toe om dit te kunnen doen.</string>
+  <string name="password_promotion_message">Appvergrendeling wordt geüpgrade naar privacy wachtwoordbeveiliging. U kan uw huidige Mi Account gebruiken om het te resetten.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Appvergrendeling wordt geüpgrade naar privacy wachtwoordbeveiliging. U kan uw huidige Mi Account gebruiken om het te resetten. Voeg uw Mi Account toe om dit te kunnen doen.</string>
   <string name="password_promotion_postbutton_text">Ga naar instellingen</string>
   <string name="password_promotion_title">Privacy wachtwoordbeveiliging</string>
   <string name="path_antispam">Systeemapps/Veiligheid/Zwarte lijst</string>
@@ -1182,7 +1182,7 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="sys_app_prot_cracked_login">Aanmelden met uw Mi Account</string>
   <string name="sys_app_prot_cracked_text_login">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt.
 
-Zorg ervoor dat je weet waar dit apparaat wordt vandaan komt en neem contact op geautoriseerd Xiaomi service center in uw buurt om hulp te krijgen."</string>
+Zorg ervoor dat je weet waar dit apparaat vandaan komt en neem contact op met een geautoriseerd Xiaomi service center in uw buurt om hulp te krijgen."</string>
   <string name="sys_app_prot_cracked_text_unlogin">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt. Aanmelden met uw MI Account om deze waarschuwing uit te scahkelen.
 
 Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaan komt en neem contact op met een erkende Xiaomi service center in uw omgeving."</string>
@@ -1424,9 +1424,9 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aan blijven</string>
   <string name="usage_type_wifi_running">Wi-Fi actief</string>
-  <string name="usb_adb_input_apply_step_1">Uw computer zal in staat zijn om de instellingen en subsidie rechten te wijzigen zonder dat je het weet wanneer het apparaat is aangesloten via USB</string>
-  <string name="usb_adb_input_apply_step_2">Dit kan leiden tot lekken van privé informatie, zoals accounts of berichten</string>
-  <string name="usb_adb_input_apply_step_3">Zorg ervoor dat u de risico\'s begrijpen voordat u het toestaand. Nu toestaan?</string>
+  <string name="usb_adb_input_apply_step_1">Uw computer zal in staat zijn om de instellingen en subsidierechten te wijzigen zonder dat je het weet wanneer het apparaat is aangesloten via USB</string>
+  <string name="usb_adb_input_apply_step_2">Dit kan leiden tot lekken van privé-informatie, zoals accounts of berichten</string>
+  <string name="usb_adb_input_apply_step_3">Zorg ervoor dat u de risico\'s begrijpt voordat u het toestaat. Nu toestaan?</string>
   <string name="usb_install_desc">Deze app installeren via USB?</string>
   <string name="usbsharenet_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de USB aansluiting van het apparaat en start Mi PC Suite terug op.</string>
   <string name="usbsharenet_exception_title">Test gedeelt netwerk via USB</string>
