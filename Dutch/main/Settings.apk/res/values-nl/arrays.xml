@@ -315,16 +315,6 @@
         <item>Normaal</item>
         <item>Lang</item>
     </string-array>
-    <string-array name="captioning_typeface_selector_titles">
-        <item>Standaard</item>
-        <item>Sans Serif</item>
-        <item>Sans Serif versmald</item>
-        <item>Serif</item>
-        <item>Serif monospace</item>
-	<item>Normaal</item>
-        <item>Cursief</item>
-        <item>Kleine hoofdletters</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Zeer klein</item>
         <item>Klein</item>
@@ -456,12 +446,13 @@
         <item>Nooit toestaan</item>
         <item>Altijd toestaan</item>
     </string-array>
-    <string-array name="ram_states">
-        <item>Normaal</item>
-        <item>Gemiddeld</item>
-        <item>Laag</item>
-        <item>Kritiek</item>
-    </string-array>
+     <string-array name="ram_states">
+        <item>Normal</item>
+        <item>Moderate</item>
+        <item>Low</item>
+        <item>Critical</item>
+        <item>\?</item>
+     </string-array>
 	<string-array name="proc_stats_memory_states">
         <item>Normaal</item>
         <item>Matig</item>
@@ -492,13 +483,14 @@
         <item>Roze</item>
         <item>Rood</item>
     </string-array>
-	    <string-array name="usb_configuration_titles">
+     <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio bron</item>
+        <item>Audio Source</item>
         <item>MIDI</item>
-    </string-array>
+     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Bij voorkeur Wi-Fi</item>
         <item>Bij voorkeur mobiel</item>
@@ -612,12 +604,6 @@
         <item>Windows Vista en nieuwer</item>
         <item>OSX</item>
         <item>Linux</item>
-    </string-array>
-	    <string-array name="msd_pc_system_install_summary">
-        <item>2.Volg de instucties op het scherm</item>
-    </string-array>
-	    <string-array name="msd_pc_system_retry_xp">
-        <item>MiPhoneManager opnieuw installeren.</item>
     </string-array>
 	<string-array name="msd_pc_system_retry_linux">
         <item>Installatie tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -740,12 +726,13 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Ultrahoog (2K)</item>
         <item>Normaal (720p)</item>
     </string-array>
-    <string-array name="common_password_business_names">
-        <item>Vergrendelscherm</item>
-        <item>Kindermodus</item>
+     <string-array name="common_password_business_names">
+        <item>Lock screen</item>
+        <item>Child mode</item>
         <item>File Explorer</item>
-	    <item>Appvergrendeling</item>
-    </string-array>
+        <item>App lock</item>
+        <item>Second space</item>
+     </string-array>
 	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>
         <item>Weekdagen</item>
