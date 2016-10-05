@@ -7,6 +7,10 @@
   <string name="activate_finddevice">Verbinden met netwerk om apparaat te activeren</string>
   <string name="activate_number_change_dialog_message">Kies telefoonnr. die zichtbaar zal zijn voor anderen wanneer je met VoIP belt</string>
   <string name="activating">Activeren…</string>
+  <string name="add_cloud_storage">Opslag toevoegen</string>
+  <string name="add_short_cut">Toevoegen</string>
+  <string name="added_successfully">Toegevoegd</string>
+  <string name="all_sync_item_open">Alle items staan aan</string>
   <string name="antispam_sync">Instellingen Niet Storen</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
@@ -46,6 +50,8 @@ Laatst geback-upt op %2$s"</string>
   <string name="cloud_space_upgrade_message">Tik om %sGB toe te voegen aan cloud</string>
   <string name="cloud_space_upgrade_no_quota_info">Kon opslaginfo niet verkrijgen</string>
   <string name="cloud_space_upgrade_title">Meer ruimte voor Mi Cloud</string>
+  <string name="cloud_storage_full">Cloudopslag</string>
+  <string name="cloud_storage_is_full">Vol</string>
   <string name="cloudservice_new_sync">Sync. %s met Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren, je apparaat zoeken en dingen te delen met je vrienden.</string>
   <string name="connect_network">Verbind met Wi-Fi of voer SIM kaart in</string>
@@ -55,7 +61,8 @@ Laatst geback-upt op %2$s"</string>
   <string name="detect_sim_card">Naar SIM kaart zoeken</string>
   <string name="disable_find_device_error">"Kan apparaat vinden niet uitschakelen. %1$s"</string>
   <string name="disable_find_device_success">Apparaat vinden uitgeschakeld.</string>
-  <string name="enableAll">Sync. alle</string>
+  <string name="due_date_format">dd/MM/yyyy</string>
+  <string name="enableAll">Alles synchroniseren</string>
   <string name="enable_cloud_service_notification">Mi Cloud is niet ingeschakeld </string>
   <string name="enable_find_device_error">Kan apparaat vinden niet inschakelen. %1$s</string>
   <string name="enable_find_device_success">Apparaat vinden ingeschakeld.</string>
@@ -92,6 +99,9 @@ Laatst geback-upt op %2$s"</string>
   <string name="find_device_reading_status">Status laden…</string>
   <string name="find_device_reading_status_failure">Kon status niet laden</string>
   <string name="find_device_send_sms_alert">Als u van SIM kaart verwisselt zal er automatisch een SMS verstuurd worden om de functie te heractiveren.</string>
+  <string name="find_device_service_summary">"Lokaliseer uw apparaat en vergrendel het op afstand als deze gestolen is."</string>
+  <string name="find_device_service_summary_international">"Lokaliseer uw apparaat en vergrendel het op afstand als deze gestolen is."</string>
+  <string name="find_device_service_title">Apparaat vinden</string>
   <string name="find_device_status_ok">Apparaat van overal vinden op i.mi.com</string>
   <string name="find_device_status_ok_international">Je apparaat zoeken van overal op www.mi.com/micloud</string>
   <string name="find_device_success_title">Apparaat gevonden</string>
@@ -118,6 +128,7 @@ Laatst geback-upt op %2$s"</string>
   <string name="master_alert_notif_dspt_add">Items wachten om te sync.: %s</string>
   <string name="master_alert_notif_dspt_no">Gesynchroniseerd</string>
   <string name="master_alert_notif_title">Synchronisatie met Mi Cloud inschakelen</string>
+  <string name="member_due_date">Geldig tot %s</string>
   <string name="micloud_all_sub_1_intl_sms">Een internationale SMS zal verzonden worden om uw SIM kaart te activeren. Die zal in rekening worden gebracht door uw provider.</string>
   <string name="micloud_all_sub_1_sms">Een nationale SMS zal worden verzonden om uw SIM kaart te activeren. Die zal in rekening worden gebracht door uw provider.</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">2 SMS berichten (nationale en internationale) zullen verzonden worden om uw SIM kaart te activeren. Die zullen in rekening worden gebracht door uw provider.</string>
@@ -126,7 +137,7 @@ Laatst geback-upt op %2$s"</string>
   <string name="micloud_all_sub_resend_sms">"Wanneer u 'Apparaat vinden' ingeschakeld hebt zal een activatie SMS verzonden worden nadat u uw SIM kaart hebt verwisseld.</string>
   <string name="micloud_battery_low_notification_message">Verbind oplader om te synchroniseren</string>
   <string name="micloud_battery_low_notification_title">Batterij bijna leeg</string>
-  <string name="micloud_buy_member">Account</string>
+  <string name="micloud_buy_member">Mi Cloud lidmaatschap kopen</string>
   <string name="micloud_check_sim_notify_text">Je hebt SIM kaarten veranderd. Log in 
 op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_check_sim_notify_title">Heractiveer Mi Cloud</string>
@@ -173,7 +184,7 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_lastest">Gesync.</string>
   <string name="micloud_detail_lastest_with_off">Gesync.</string>
   <string name="micloud_detail_not_sync">%d wacht om te synchroniseren</string>
-  <string name="micloud_detail_not_synced">Niet gesynchroniseerd</string>
+  <string name="micloud_detail_not_synced">niet gesynchroniseerd</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pending">In afwachting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
@@ -239,12 +250,11 @@ of apparaat te wissen."</string>
   <string name="micloud_main_query_error_title">"Kon geen info verkrijgen over synchronisatievoortgang"</string>
   <string name="micloud_main_set_internet">Netwerk</string>
   <string name="micloud_main_space_full">Cloudopslag is vol</string>
-  <string name="micloud_main_space_full_title">Cloudopslag is vol</string>
+  <string name="micloud_main_space_full_title">Niet genoeg opslagruimte, synchronisatie is gepauzeerd</string>
   <string name="micloud_main_space_low">Bijna geen ruimte meer</string>
   <string name="micloud_main_stop_sync">Sync. gestopt</string>
   <string name="micloud_main_suggest_master_sync">Kon niet alles sync.</string>
-  <string name="micloud_main_suggest_setting">"Wachten op Wi-Fi verbinding om te sync.
-Klik op de sync. instellingsknop om meer opties weer te geven"</string>
+  <string name="micloud_main_suggest_setting">Wijzig instellingen of verbind met Wi-Fi</string>
   <string name="micloud_main_suggest_sync">Sommige items zijn niet gesynchroniseerd met Mi Cloud</string>
   <string name="micloud_main_sync_exception">Synchronisatiefout</string>
   <string name="micloud_main_sync_init">Info verkrijgen</string>
@@ -332,6 +342,7 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_sync_alert_dialog_negative">Annuleren</string>
   <string name="micloud_sync_alert_dialog_positive">Ok</string>
   <string name="micloud_sync_alert_dialog_title">Gebruik Mi Cloud</string>
+  <string name="micloud_sync_off">Synchronisatie met Mi Cloud is uit</string>
   <string name="micloud_title_dspt" formatted="false">"%s totaal %s gebruikt | %s resterend"</string>
   <string name="micloud_title_dspt_remain">%s resterend</string>
   <string name="micloud_title_full_dspt">Je opslagruimte limiet is bereikt</string>
@@ -349,7 +360,6 @@ Klik op de sync. instellingsknop om meer opties weer te geven"</string>
   <string name="micloud_web_discription_01">Aanmelden op i.mi.com</string>
   <string name="micloud_web_discription_02">Om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
   <string name="micloud_web_discription_international">Bezoek www.mi.com/micloud</string>
-  <string name="micloud_website">Items in Mi Cloud bekijken</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Ongeveer RMB 80 per jaar</string>
@@ -369,10 +379,18 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetbellen</string>
   <string name="mx_voip_dspt">Mi Stem</string>
+  <string name="network_unconnected">Niet verbonden met het netwerk</string>
   <string name="next">Volgende</string>
-  <string name="noRemind">Me niet meer herinneren</string>
+  <string name="noRemind">Mij niet meer herinneren</string>
   <string name="no_sim">Geen SIM kaart gedetecteerd</string>
+  <string name="one_sync_item_close">%d staat uit</string>
+  <string name="open_micloud_sync">Schakel synchronisatie met Mi Cloud in</string>
   <string name="other_settings">Overige instellingen</string>
+  <string name="other_sync_item">Overige gesynchroniseerde items</string>
+  <string name="passed_synced_time_day">%dd geleden gesynchroniseerd</string>
+  <string name="passed_synced_time_hour">%1$du %2$dm geleden gesynchroniseerd</string>
+  <string name="passed_synced_time_min">%d min. geleden gesynchroniseerd</string>
+  <string name="passed_synced_time_sec">%d sec. geleden gesynchroniseerd</string>
   <string name="password">Voer uw wachtwoord in</string>
   <string name="phone_number_may_required_dspt_provision">Deze service kan uw telefoonnummer nodig hebben. "</string>
   <string name="phone_number_required_dspt_provision">"Deze service kan uw telefoonnummer nodig hebben. "</string>
@@ -381,7 +399,8 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="pref_title_sync_contacts_title">Contacten synchroniseren</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">"Foto's alleen over Wi-Fi synchroniseren"</string>
   <string name="privacy_policy">Privacy Beleid</string>
-  <string name="remind_later">Nu niet</string>
+  <string name="recommend_open_all_sync">Alle items synchroniseren</string>
+  <string name="remind_later">Niet nu</string>
   <string name="restoreSync">Nu synchroniseren</string>
   <string name="setting">Instellingen</string>
   <string name="settings_backup_title">Backup systeem instellingen</string>
@@ -391,6 +410,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="share_success">Gedeeld</string>
   <string name="share_weibo_not_installed">Weibo is niet geïnstaleerd.</string>
   <string name="share_weixin_not_installed">Wechat is niet geïnstaleerd.</string>
+  <string name="short_cut_desc">Mi Cloud icoon toevoegen aan thuisscherm?</string>
   <string name="sina_share_fail">Verzenden milukt</string>
   <string name="sina_share_fail_content_repeat">Kon niet delen, inhoud bestaat reeds…</string>
   <string name="sina_share_pendding">Verzenden…</string>
@@ -398,6 +418,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sina_token_expired_warning">Weibo account is verlopen: Opnieuw koppelen</string>
   <string name="sina_token_invalid_warning">Weibo account is niet geldig: Opnieuw koppelen</string>
   <string name="sms">Berichten</string>
+  <string name="some_sync_item_close">%d staan uit</string>
   <string name="soundrecorder_sync_only_in_wifi">Enkel Wi-Fi gebruiken om te sync.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder zal geen mobiele data gebruiken om opnames te downloaden of uploaden</string>
   <string name="soundrecorder_sync_records">Sync. met Mi Cloud</string>
@@ -428,6 +449,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sync_item_calllog_title">Gespreksgeschiedenis sync.</string>
   <string name="sync_item_sms_summary">Alle SMSen synchroniseren van de telefoon</string>
   <string name="sync_item_sms_title">Berichten synchroniseren</string>
+  <string name="sync_item_title">Gesynchroniseerde items</string>
   <string name="sync_off">Uit</string>
   <string name="sync_on">Aan</string>
   <string name="sync_resend_sms_dspt_provision">. Als u van SIM kaart verwisseld, kan uw provider kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
@@ -459,6 +481,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="vcode">Code bevestigen</string>
   <string name="verify">Bevestigen</string>
   <string name="view_storage_title">Opslagruimte</string>
+  <string name="virtual_sim_desc">Schakel Mi SIM in om apparaat te lokaliseren zonder SIM kaart</string>
   <string name="voip_choose_sim">Kies telefoonnr. om Mi Voice te activeren</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
