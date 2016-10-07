@@ -1501,6 +1501,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
+  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
@@ -1566,8 +1567,12 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="incoming_call_volume_title">Beltoon</string>
   <string name="information_dialog_button_text">Verstaan</string>
   <string name="input_method_selector_always_hide_title">Altijd verbergen</string>
+  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Altijd weergeven</string>
+  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatisch</string>
+  <string name="input_method_selector_show_automatically_value">0</string>
+  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Instellingen</string>
   <string name="input_method_settings_button">Instellingen</string>
   <string name="input_methods_and_subtype_enabler_title">Actieve invoermethode selecteren</string>
@@ -4178,6 +4183,8 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wait_for_debugger_summary">Gedebugde app wacht op koppelen van debugger voor uitvoering</string>
   <string name="wakeup_for_keyguard_notification_title">Scherm ontwaken voor meldingen</string>
   <string name="wallpaper_attributions">Achtergronden</string>
+  <string name="wallpaper_attributions_values">"Satellietbeelden providers:
+©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Startscherm</string>
   <string name="wallpaper_live">Live achtergrond</string>
   <string name="wallpaper_lockscreen">Vergrendelscherm</string>
