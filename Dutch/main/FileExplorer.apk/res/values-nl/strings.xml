@@ -406,12 +406,13 @@
   <string name="phone_valid_code_tip">De code is te vaak ingevoerd, probeer een nieuwe te verkrijgen</string>
   <string name="pick_file">Selecteer bestanden</string>
   <string name="pick_folder">Map kiezen</string>
+  <string name="popup_msg_qq">Deel deze video met uw QQ vrienden.</string>
+  <string name="popup_msg_wx">Deel deze video met uw WeChat vrienden.</string>
   <string name="port_range">Poort moet tussen 1024–65535 zijn</string>
   <string name="private_files">Verborgen</string>
   <string name="private_folder">Verborgen map</string>
   <string name="private_folder_no_file_hints">Geen verborgen bestanden.</string>
   <string name="private_folder_update">Bezig met updaten van verborgen mappen…</string>
-  <string name="private_toast_hint1">Tik om bestanden toe te voegen aan verborgen mappen</string>
   <string name="private_toast_hint2">Om een bestand te verbergen, houd het ingedrukt en voeg het toe aan een verborgen map.</string>
   <string name="private_toast_hint3">Trek naar beneden om verborgen mappen te openen</string>
   <string name="promot_enctypt_password">Voer het wachtwoord in dat wordt gebruikt om uw apparaat te ontgrendelen of om kindermodus uit te schakelen</string>
@@ -490,6 +491,10 @@
   <string name="setting_message_notify">Meldingen</string>
   <string name="share_title_1">Een koele sticker bundel gevonden!</string>
   <string name="share_to">Delen naar…</string>
+  <string name="share_youliao1">Upgraden om meer afleveringen te bekijken.</string>
+  <string name="share_youliao2">Upgraden om meer afleveringen te bekijken.</string>
+  <string name="share_youliao3">Upgraden om meer afleveringen te bekijken.</string>
+  <string name="share_youliao4">Upgraden om meer afleveringen te bekijken.</string>
   <string name="shared_sticker_network_permission_tip">Kon niet verbinden met netwerk. Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="shared_sticker_page_no_file">Kon niet verbinden met netwerk. Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="shared_sticker_str">Recente</string>
@@ -548,6 +553,7 @@
   <string name="unlogin">Eerst aanmelden</string>
   <string name="unmount_inform_text">USB opslag loskoppelen?</string>
   <string name="unreviewed_video_cannot_share">Video\'s moeten worden beoordeeld voordat deze gedeeld kunnen worden</string>
+  <string name="update">Updaten</string>
   <string name="update_failed">Kon niet opslaan, probeer opnieuw</string>
   <string name="update_loading">Opslaan…</string>
   <string name="upload_avatar_camera">Camera</string>
@@ -567,7 +573,12 @@
   <string name="upload_notification_success_content">Uw video zou moeten worden beoordeeld voordat deze wordt gedeeld met andere mensen</string>
   <string name="upload_notification_title">Video aan het uploaden</string>
   <string name="upload_user_photo">Uploaden</string>
+  <string name="upload_video_failed">Kon niet uploaden</string>
+  <string name="upload_video_failed_external_progress">Kon niet uploaden, probeer een andere</string>
+  <string name="upload_video_failed_progress">Kon niet uploaden, probeer opnieuw</string>
   <string name="upload_video_forbidden">Zelfde video niet uploaden</string>
+  <string name="upload_video_success">Met succes geüpload</string>
+  <string name="upload_video_success_progress">Met succes geüpload</string>
   <string name="uploading_video">Video uploaden…</string>
   <string name="usb_label">USB</string>
   <string name="used">In gebruik</string>
@@ -618,7 +629,6 @@
   <string name="video_comment_hint">Selecteer onderwerp</string>
   <string name="video_comment_limit">%1$s karakters resterend</string>
   <string name="video_comment_publish">Versturen</string>
-  <string name="video_comment_title">Beschrijving</string>
   <string name="video_comment_topic">\#Onderwerp toevoegen#</string>
   <string name="video_data_consumption_cancel">Annuleren</string>
   <string name="video_data_consumption_confirm">OK</string>
@@ -629,9 +639,12 @@
   <string name="video_parse_hint">Ondersteunde diensten: WeChat, Weibo, Youku.</string>
   <string name="video_parse_success">Met succes geparseerd</string>
   <string name="video_parse_timeout">Er is een fout opgetreden, probeer opnieuw</string>
+  <string name="video_description">Video beschrijving</string>
   <string name="video_parsing_btn">Parseren</string>
   <string name="video_play_failed">Onbekende fout</string>
   <string name="video_publish_hint">Een goede beschrijving zal andere mensen helpen uw video te vinden</string>
+  <string name="video_publish_hint2">Beschrijving</string>
+  <string name="video_recommend_upload">Aanbevolen</string>
   <string name="video_status_reject">Afgewezen</string>
   <string name="video_status_review">Wordt beoordeeld</string>
   <string name="video_tag">\#%s#</string>
@@ -641,12 +654,16 @@
   <string name="video_topic_hint">Zoek topic</string>
   <string name="video_upload_btn">Volgende</string>
   <string name="video_upload_btn_hint">MP4 video\'s zouden 3s~10min lang moeten zijn</string>
+  <string name="video_upload_hint">Aanbevolen video\'s uploaden om meer punten te verdienen.</string>
   <string name="video_upload_item_more">Meer (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
+  <string name="video_upload_kuaishou_hint">KuaiShou video\'s uploaden om meer fans te krijgen.</string>
   <string name="video_upload_retry_confirm">Probeer opnieuw</string>
   <string name="video_upload_retry_message">Kon niet uploaden, opnieuw proberen?</string>
   <string name="video_upload_retry_title">Probeer opnieuw</string>
   <string name="video_upload_title">Selecteer video</string>
+  <string name="video_upload_wechat_hint">WeChat video\'s uploaden om meer fans te krijgen.</string>
+  <string name="video_uploaded">Geüpload</string>
   <string name="view_more_sticker">Meer stickers bekijken</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">Wechat</string>
@@ -664,5 +681,12 @@
   <string name="year_month_day_format">d MMM, yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gisteren</string>
+  <string name="youliao_ad_msg">"Is nu geüpgrade naar de volledige versie van APP, heb meer plezier!
+Bekijken met 170 miljoen Mi fans."</string>
+  <string name="youliao_ad_title">Hot video is geüpgrade naar de volledige versie!</string>
+  <string name="youliao_ad_update">Updaten</string>
+  <string name="youliao_dialog_msg">"Hot is geüpgrade naar \"Youliao\", 
+is nu geüpgrade naar de volledige versie van APP, meer bekijken."</string>
+  <string name="youliao_dialog_title">Niet geïntereseerd in video\'s?</string>
   <string name="zero_comment">Geen reacties</string>
 </resources>

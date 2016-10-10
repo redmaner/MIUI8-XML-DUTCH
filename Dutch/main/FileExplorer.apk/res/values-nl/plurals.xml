@@ -224,14 +224,6 @@
         <item quantity="few">%1$s video\'s</item>
         <item quantity="many">%1$s video\'s</item>
     </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">volgers</item>
-        <item quantity="zero">volgers</item>
-        <item quantity="one">volger</item>
-        <item quantity="two">volgers</item>
-        <item quantity="few">volgers</item>
-        <item quantity="many">volgers</item>
-    </plurals>
     <plurals name="user_upload_items">
         <item quantity="other">video\'s</item>
         <item quantity="zero">video\'s</item>
@@ -239,14 +231,6 @@
         <item quantity="two">video\'s</item>
         <item quantity="few">video\'s</item>
         <item quantity="many">video\'s</item>
-    </plurals>
-	<plurals name="user_follow_me_items">
-        <item quantity="other">volgers</item>
-        <item quantity="zero">volgers</item>
-        <item quantity="one">volger</item>
-        <item quantity="two">volgers</item>
-        <item quantity="few">volgers</item>
-        <item quantity="many">volgers</item>
     </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s opmerkingen</item>
@@ -279,5 +263,13 @@
     <plurals name="user_sign_limt">
         <item quantity="other">U kan %d karakters invoeren</item>
         <item quantity="one">U kan %d karakter invoeren</item>
+    </plurals>
+	<plurals name="video_items">
+        <item quantity="other"> %1$d items</item>
+        <item quantity="zero"> %1$d items</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d items</item>
+        <item quantity="few"> %1$d items</item>
+        <item quantity="many"> %1$d items</item>
     </plurals>
 </resources>
