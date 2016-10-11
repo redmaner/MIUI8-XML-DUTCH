@@ -16,8 +16,8 @@
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
   <string name="access_control_need_to_unlock">"Scan met vingerafdruk
-of voer privacy wachtwoordbeveiliging in"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Voer privacy wachtwoordbeveiliging in</string>
+of voer app vergrendelingswachtwoord in"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Voer app vergrendelingswachtwoord in</string>
   <string name="access_control_recording_intro_header">Teken een patroon om appvergrendeling toe te voegen</string>
   <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om wachtwoord voor appvergrendeling te resetten</string>
   <string name="action_button_text_100">Optimaliseren</string>
@@ -123,7 +123,59 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Controleer berichtenapp</string>
   <string name="apps_list_header_title_sms_access">Toegang tot verificatiecodes beperken</string>
+  <string name="auto_atsk_condition_battery_level_text_down">Wanneer de batterij %s bereikt</string>
+  <string name="auto_atsk_condition_battery_level_text_up">Wanneer de batterij opgeladen wordt tot %s</string>
   <string name="auto_handle_title">ALGEMEEN</string>
+  <string name="auto_task_condition_choose_battery_level_down">Wanneer de batterij een bepaald niveau bereikt</string>
+  <string name="auto_task_condition_choose_battery_level_up">Wanneer de batterij opgeladen wordt tot een bepaald niveau</string>
+  <string name="auto_task_condition_choose_end_time">Eindtijd</string>
+  <string name="auto_task_condition_choose_ontime">Timer</string>
+  <string name="auto_task_condition_choose_start_time">Begintijd</string>
+  <string name="auto_task_condition_choose_time_duration">Tijd instellen</string>
+  <string name="auto_task_condition_number_pick_title">Batterij conditie instellen</string>
+  <string name="auto_task_condition_restore_task_when_charged">Overschakelen naar de vorige modus wanneer de batterij opgeladen is</string>
+  <string name="auto_task_condition_time_duration_text">Van %1$s tot %2$s</string>
+  <string name="auto_task_condition_time_pick_title">Timer instellen</string>
+  <string name="auto_task_condition_time_text">Op %s</string>
+  <string name="auto_task_dialog_button_close">Voltooid</string>
+  <string name="auto_task_edit_abandon_change">Wijzigen ongedaan maken?</string>
+  <string name="auto_task_edit_activity_title">Mijn automatische taken</string>
+  <string name="auto_task_edit_adandon_button_text">Afwijzen</string>
+  <string name="auto_task_edit_choose_condition_title">Conditie selecteren</string>
+  <string name="auto_task_edit_choose_new_operation">Actie toevoegen</string>
+  <string name="auto_task_edit_choose_operation_title">Actie selecteren</string>
+  <string name="auto_task_edit_condition_summary">Voorbeeld, \"Om 23:00\"</string>
+  <string name="auto_task_edit_condition_title">Conditie toevoegen</string>
+  <string name="auto_task_edit_my_custom_task">Naam</string>
+  <string name="auto_task_edit_operation_summary">Voorbeeld, \"Schakel vliegmodus in\"</string>
+  <string name="auto_task_edit_task_name">Naam</string>
+  <string name="auto_task_main_summary">Wijzig systeeminstellingen voor bepaalde periodes of tijd of volgens het batterij niveau</string>
+  <string name="auto_task_main_title">Automatische taken</string>
+  <string name="auto_task_mamange_activity_title">Instellingen</string>
+  <string name="auto_task_manage_delete_prompt">Geselecteerde taken verwijderen?</string>
+  <string name="auto_task_manager_group_title">Mijn automatische taken</string>
+  <string name="auto_task_notify_do_task_title">Gestarte automatische taken</string>
+  <string name="auto_task_notify_exit_task_title">Beëindigde automatische taken</string>
+  <string name="auto_task_operation_airplane_mode">Vliegmodus</string>
+  <string name="auto_task_operation_auto_brightness">Automatische helderheid</string>
+  <string name="auto_task_operation_bluetooth">Bluetooth</string>
+  <string name="auto_task_operation_brightness">Scherm helderheid</string>
+  <string name="auto_task_operation_close">Uit</string>
+  <string name="auto_task_operation_close_string">%s uitschakelen</string>
+  <string name="auto_task_operation_gps">GPS</string>
+  <string name="auto_task_operation_lockscreen_time">Scherm vergrendelen</string>
+  <string name="auto_task_operation_memory_clean_lockscreen">Geheugen wissen</string>
+  <string name="auto_task_operation_mobile_data">Mobiele data</string>
+  <string name="auto_task_operation_modify_string">%s bewerken</string>
+  <string name="auto_task_operation_mute">Stille modus</string>
+  <string name="auto_task_operation_no_op">Deze actie niet selecteren</string>
+  <string name="auto_task_operation_open">Aan</string>
+  <string name="auto_task_operation_open_string">%s inschakelen</string>
+  <string name="auto_task_operation_string_etc">, enz.</string>
+  <string name="auto_task_operation_string_modify">Bewerken</string>
+  <string name="auto_task_operation_sync">Sync.</string>
+  <string name="auto_task_operation_vibration">Trillen</string>
+  <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back">Terug</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="battery_capacity_title">Batterijcapaciteit</string>
@@ -246,6 +298,8 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="card_main_deepclean_action">Wissen</string>
   <string name="card_main_deepclean_summary">Onnodige bestanden verwijderen</string>
   <string name="card_main_deepclean_title">Diepe schoonmaak</string>
+  <string name="card_main_gamebooster_summary">Snelheidsboost &amp; bevorder gaming ervaring</string>
+  <string name="card_main_gamebooster_title">Gaming snelheidsboost</string>
   <string name="card_main_monthreport_action">Bekijken</string>
   <string name="card_main_monthreport_summary">Maandelijkse rapporten bekijken</string>
   <string name="card_main_monthreport_title">Veiligsheidsstatistieken</string>
@@ -1075,7 +1129,7 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="scanning_bar_system_title">Systeem scannen…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="section_clear_acc_item_title">%s vrijgemaakt. Er is nog steeds niet genoeg ruimte, probeer opruimer te gebruiken</string>
+  <string name="section_clear_acc_item_title">%s. Er is nog steeds niet genoeg ruimte, probeer opruimer te gebruiken</string>
   <string name="section_security_defend_item_title">Bescherm uw data met appvergrendeling</string>
   <string name="section_system_item_fixed">Gerepareerd</string>
   <string name="section_title_clear_acc">Cache wissen</string>
@@ -1087,7 +1141,7 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Patroon selecteren</string>
   <string name="set_applock_password">Wachtwoord instellen</string>
-  <string name="setting_privacy_password">Privacy wachtwoordbeveiliging instellen</string>
+  <string name="setting_privacy_password">App vergrendelwachtwoord instellen</string>
   <string name="settings">Instellingen dataverbruik</string>
   <string name="settings_battery_consume_abnormal_summary">Meldingen ontvangen wanneer batterij snel leegloopt</string>
   <string name="settings_battery_consume_abnormal_title">Meldingen wanneer batterij snel leegloopt</string>
@@ -1143,6 +1197,7 @@ of voer privacy wachtwoordbeveiliging in"</string>
   <string name="suffix_virus_count_top">"Risico's"</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="summary_app_lock_disable">Bescherm uw data met appvergrendeling</string>
+  <string name="summary_auto_update">MIUI zal de meest geschikte tijd om te downloaden en installeren van updates selecteren.</string>
   <string name="summary_cleaner_cloudscan">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_cloud_account">Haal het meeste uit uw Mi apparaat</string>
   <string name="summary_cloud_service">"Sync. uw foto's, contactpersonen en meer op al uw apparaten"</string>
@@ -1279,6 +1334,7 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="tips_message">"Om je dataplan te bekijken, bel %2$s (%1$s)."</string>
   <string name="title_app_lock_disable">Blokkeer apps</string>
   <string name="title_app_update">Updates beschikbaar</string>
+  <string name="title_auto_update">Automatisch updaten</string>
   <string name="title_cleaner_cloudscan">Cloudafval scannen</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
