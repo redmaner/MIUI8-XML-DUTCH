@@ -18,8 +18,8 @@
   <string name="acct_not_synced">"Dit account wordt niet gesynchroniseerd, dus uw agenda's zijn mogelijk niet bijgewerkt."</string>
   <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
   <string name="action_label">Terug</string>
+  <string name="action_text_card_manager">Abonnementen</string>
   <string name="action_text_new_event">Nieuwe afspraak</string>
-  <string name="action_text_online">Abonneren</string>
   <string name="action_text_today">Vandaag</string>
   <string name="ad_card_connecting">Verbinding</string>
   <string name="ad_card_download_count">%1$s personen downloaden</string>
@@ -78,8 +78,8 @@
   <string name="card_detail_dialog_title">Neem nu een abonnement</string>
   <string name="card_detail_hint">Na de inschrijving, zal de te weergeven inhoud naar de homepage dagelijks bijgewerkt worden</string>
   <string name="card_detail_title">Inschrijving details</string>
-  <string name="card_manager">Abonnementen</string>
-  <string name="card_manager_subtitle">Klik op het abonnement, om het abonnement te voltooien</string>
+  <string name="card_manager">Abonnementenbeheer</string>
+  <string name="card_manager_no_data">Geen abonnement kaart :)</string>
   <string name="card_title_change">Wijzigen</string>
   <string name="change_response_title">Antwoord wijzigen</string>
   <string name="check_reminded_text">Herinneringen bekijken</string>
@@ -324,7 +324,7 @@
   <string name="quick_response_settings_summary">Standaardreacties bewerken voor het emailen van gasten</string>
   <string name="quick_response_settings_title">Snelle reacties bewerken</string>
   <string name="recommend_card_add">Abonneer je nu</string>
-  <string name="recommend_card_adding">Toevoegen</string>
+  <string name="recommend_card_adding">Abonnementen</string>
   <string name="recommend_card_close_hint">Verlaag uw abonnement naar soortgelijke wordt aangeraden</string>
   <string name="recommend_card_from">Abonnementen:</string>
   <string name="refresh">Vernieuwen</string>
@@ -390,7 +390,19 @@
   <string name="str_hour_of_everyday">%s per dag</string>
   <string name="str_hour_of_next">%s per uur</string>
   <string name="subscribe_card">Abonneer je nu</string>
-  <string name="subscribe_card_success">“%1$s”met succes geabonneerd</string>
+  <string name="subscribe_card_success">Abonnementen succes, kan thuis worden bekeken </string>
+  <string name="subscribe_card_success_for_homepage">Abonnementen"%1$s”succes</string>
+  <string name="subscribe_channel_click_hint">Abonneer je om te lezen</string>
+  <string name="subscribe_channel_footer_button">Abonnementenbeheer</string>
+  <string name="subscribe_channel_footer_desc">Bekijk abonnementen of meld je aan omhet management in te voeren</string>
+  <string name="subscribe_channel_footer_title">Bestaande abonnementen</string>
+  <string name="subscribe_channel_footer_view">Bekijken</string>
+  <string name="subscribe_channel_hint">"Abonnementen functie aanpassen of dienst abonnement op de startpagina weergeven,
+U kunt ook herinneringen aan abonnement toevoegen"</string>
+  <string name="subscribe_channel_subscribe">Abonnementen</string>
+  <string name="subscribe_channel_subscribing">Abonnementen</string>
+  <string name="subscribe_channel_title">Abonnementen</string>
+  <string name="subscribe_description_card_default_title">Statusupdates</string>
   <string name="subscribe_description_card_more_cut">Uiteenvallen</string>
   <string name="subscribe_description_card_more_launch">Uitbreiding</string>
   <string name="subscribe_detail_title">Abonnement details</string>
