@@ -1021,6 +1021,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="date_time_auto">Automatische tijd en datum</string>
   <string name="date_time_auto_summaryOff">Netwerktijd gebruiken</string>
   <string name="date_time_auto_summaryOn">Netwerktijd gebruiken</string>
+  <string name="date_time_date_format">Kies datum notatie</string>
   <string name="date_time_set_date">Datum instellen</string>
   <string name="date_time_set_date_title">Datum</string>
   <string name="date_time_set_time">Tijd instellen</string>
@@ -1259,7 +1260,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="enable_service_password_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw wachtwoord bevestigen.</string>
   <string name="enable_service_pattern_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw patroon bevestigen.</string>
   <string name="enable_service_pin_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw PIN bevestigen.</string>
-  <string name="enable_service_title">%1$s gebruiken?</string>
+  <string name="enable_service_title">De service zal deze acties uitvoeren:</string>
   <string name="enable_snapshot_screenlock">Lang drukken op Terug om een foto te nemen</string>
   <string name="enable_terminal_summary">Terminal app inschakelen die lokale shelltoegang biedt</string>
   <string name="enable_terminal_title">Lokale terminal</string>
@@ -1432,7 +1433,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="free_wifi_connect_summary">Tik om te verbinden met %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi beschikbaar</string>
   <string name="free_wifi_connected">Verbonden met gratis Wi-Fi</string>
-  <string name="free_wifi_connected_count">%1$s gebruikers verbonden</string>
+  <string name="free_wifi_connected_count">%1$s personen verbonden</string>
   <string name="free_wifi_connected_time">Duur: %1$s</string>
   <string name="free_wifi_connecting">Verbinden…</string>
   <string name="free_wifi_login_again">Log opnieuw in</string>
@@ -3011,7 +3012,7 @@ Om schermpinning te gebruiken:
   <string name="sdcard_unmount">USB opslag ontkoppelen</string>
   <string name="se_route_ese">Ingebed beveiligde element</string>
   <string name="se_route_uicc">Beveiligd element op SIM kaart</string>
-  <string name="se_wallet_ese">Mi Wallet laat u toe om  Mi Pay en NFC als transport kaart te gebruiken.</string>
+  <string name="se_wallet_ese">Mi Pay en NFC transport kaart</string>
   <string name="se_wallet_hce">HCE Wallet gebruiken</string>
   <string name="search_about">"Over telefoon;Model nummer;Android versie;MIUI versie;CPU;RAM;Intern geheugen;Baseband versie;Kernel versie;Bouw nummer"</string>
   <string name="search_accelerometer">Scherm automatisch draaien;Scherm draaien;Orientatie;Portret;Landschap</string>
@@ -3033,7 +3034,7 @@ Om schermpinning te gebruiken:
   <string name="search_app_switch_key">Recente;Recent;Menu;Knopmenu;Taakbeheerder</string>
   <string name="search_application_lock">App vergrendeling</string>
   <string name="search_application_settings">Geïnstalleerde apps</string>
-   <string name="search_back_key">Terug;Terug knop;Terug knop</string>
+  <string name="search_back_key">Terug;Terug knop;Terug knop</string>
   <string name="search_battery">Batterij &amp; prestatie;Batterij en prestatie;Batterij;Prestatie;Batterij bespaarder;Batterij besparen</string>
   <string name="search_battery_indicator">Batterij indicatie</string>
   <string name="search_bluetooth">Bluetooth;Zichtbaar</string>
