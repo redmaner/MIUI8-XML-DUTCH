@@ -47,7 +47,6 @@
   <string name="already_download">Bezig met downloaden…</string>
   <string name="already_download_btn">Downloaden…</string>
   <string name="already_favorited">Reeds bij favorieten</string>
-  <string name="android_sdk_too_low">Update Android om Muziek te kunnen updaten.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
@@ -75,6 +74,7 @@
   <string name="being_disable_auto_payment">Uitschakelen…</string>
   <string name="being_enable_auto_payment">Inschakelen…</string>
   <string name="bill_list_fragment_title">Hitlijsten</string>
+  <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Bluetooth audio apparaat</string>
   <string name="buffering">In buffer opslaan…</string>
   <string name="button_add">Toevoegen</string>
@@ -104,12 +104,14 @@
   <string name="cloud_settings">Sync. instellingen</string>
   <string name="cloud_space_full">Geen opslagruimte meer</string>
   <string name="cloud_space_full_message">Niet genoeg ruimte in uw Mi Cloud om meer nummers toe te voegen. Om meer ruimte te krijgen, upgrade uw Mi Account.</string>
+  <string name="comment_format" formatted="false">%s: %s</string>
   <string name="confirm_delete_downloads_message">%d downloads zullen verwijderd worden.</string>
   <string name="confirm_delete_the_download_item_message">Deze downloads verwijderen?</string>
   <string name="confirm_download">Download</string>
   <string name="confirm_to_renew">Vernieuwen</string>
   <string name="cp_info_first">Online muziekstreamingdienst wordt voornamelijk 
 verzorgd door Ultimate Inc.</string>
+  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">Kon bestellingen niet maken, probeer opnieuw</string>
   <string name="create_playlist">Afspeellijst maken</string>
   <string name="create_playlist_failure">Kon geen afspeellijst maken</string>
@@ -656,9 +658,9 @@ verzorgd door Ultimate Inc.</string>
   <string name="settings_search_key_main">Muziek;Nummers</string>
   <string name="settings_search_key_notification">Muziek meldingen;Muziek;Meldingen;nummers</string>
   <string name="settings_search_key_vip_service">Premium nummers;VIP;Nummer pakket;Premium nummer pakket;Lid;Abonnement;Muziek;Nummers</string>
-  <string name="settings_search_path_advance">>Systeem apps/Muziek/Service en instellingen/Geavanceerde instellingen</string>
+  <string name="settings_search_path_advance">&gt;Systeem apps/Muziek/Service en instellingen/Geavanceerde instellingen</string>
   <string name="settings_search_path_main">Systeem apps/Muziek</string>
-  <string name="settings_search_path_normal">>Systeem apps/Muziek/Service en instellingen</string>
+  <string name="settings_search_path_normal">&gt;Systeem apps/Muziek/Service en instellingen</string>
   <string name="settings_search_title_desktop_lyric">Startscherm lyrics</string>
   <string name="settings_search_title_download_quality">Download kwaliteit</string>
   <string name="settings_search_title_download_when_favorite">Download favorieten</string>

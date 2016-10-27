@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">Belgeschiedenis details</string>
   <string name="account_container_title">Geïmporteerd van</string>
-  <string name="account_default">Telefoon</string>
   <string name="account_phone">Alleen voor telefoon, niet gesynchroniseerd</string>
   <string name="account_sim">SIM kaart</string>
   <string name="account_sim2">SIM kaart %d</string>
@@ -92,6 +91,7 @@
   <string name="call_telex">Telex bellen</string>
   <string name="call_tty_tdd">TTY/TDD bellen</string>
   <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">USD</string>
   <string name="call_work">Werk bellen</string>
   <string name="call_work_mobile">Mobiel nummer werk bellen</string>
   <string name="call_work_pager">Pager werk bellen</string>
@@ -129,6 +129,7 @@
   <string name="callrecordview_menu_recharge">Herladen</string>
   <string name="callrecordview_menu_save_to_group">Oproepgeschiedenis opslaan naar groep</string>
   <string name="callrecordview_menu_settings">Instellingen</string>
+  <string name="callrecordview_menu_show">Filter</string>
   <string name="callrecordview_menu_show_accepted">Beantwoorde gesprekken</string>
   <string name="callrecordview_menu_show_all">Alle gesprekken</string>
   <string name="callrecordview_menu_show_called">Uitgaande gesprekken</string>
@@ -163,7 +164,6 @@
   <string name="clearFrequentsConfirmation_title">Lijst regelmatige contactpersonen wissen?</string>
   <string name="clearFrequentsProgress_title">Regelmatige contactpersonen verwijderen...</string>
   <string name="clear_copy_number_description">Gekopieerd nummer wissen</string>
-  <string name="clear_default">Standaardwaarden verwijderen</string>
   <string name="clear_digits">Telefoonnummer verwijderen</string>
   <string name="click_close">Tik om te sluiten</string>
   <string name="clip_dialog_title">Gekopiëerd nummer bellen?</string>
@@ -277,7 +277,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="date_picker_label">Herinner mij drie dagen vooraf en op de dag zelf</string>
   <string name="date_time_set">Instellen</string>
   <string name="date_year_toggle">Jaar toevoegen</string>
-  <string name="default_ringtone">Standaard beltoon</string>
   <string name="deleteConfirmation">Dit contact wordt verwijderd.</string>
   <string name="deleteConfirmationDetail">\"%s\" verwijderen?</string>
   <string name="deleteConfirmation_title">Dit contact verwijderen?</string>
@@ -453,7 +452,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="favoritesFrequentContacted">Regelmatig contact mee opgenomen</string>
   <string name="favorites_list_empty">Geen favorieten</string>
   <string name="firewall_setting">Zwarte lijst</string>
-  <string name="followed_yellowpage">Geverifieerde accounts</string>
   <string name="force_touch_miprofile">Contactkaart</string>
   <string name="force_touch_new_contact">Nieuw contact</string>
   <string name="foundTooManyContacts">Meer dan %d gevonden.</string>
@@ -675,7 +673,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_find_profile_batch_request_failed">Kon profiel niet toevoegen</string>
   <string name="miprofile_find_profile_loading">Laden…</string>
   <string name="miprofile_find_profile_no_recommend">Geen aanbevolen profiel</string>
-  <string name="miprofile_find_profile_subtitle">Toevoegen om foto te bekijken en meer info te verkrijgen</string>
   <string name="miprofile_finding_label">Visitekaartjes vinden</string>
   <string name="miprofile_name">Mijn profiel</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -867,7 +864,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="preference_contacts_display">Weergavevoorkeuren</string>
   <string name="preference_contacts_filter">Contactlijsten configureren</string>
   <string name="preference_contacts_more">Contacten organiseren</string>
-  <string name="preference_dial_pad_touch_tone_default">Standaard</string>
   <string name="preference_dial_pad_touch_tone_human">Stem</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianotoetsen</string>
   <string name="preference_dial_pad_touch_tone_switch">Toetsenblok aanraakgeluiden</string>
@@ -1014,7 +1010,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="service_provider">Adresboek</string>
   <string name="service_provider_detail">Adresboek details</string>
   <string name="set_data_package">Stel eerst dataplan in</string>
-  <string name="set_default">Standaard instellen</string>
   <string name="set_photo_failed_msg">Kon foto niet toewijzen.</string>
   <string name="share_error">Dit contact kan niet worden gedeeld.</string>
   <string name="share_over_limit">Meer dan 1000, kan niet gedeeld worden</string>
@@ -1103,9 +1098,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="success_message_import_from_account">Contact geimporteerd</string>
   <string name="summary_kind_title">Samenvatting</string>
   <string name="t9_search_guide_pinyin_title1">Nummers invoeren om contacten te vinden</string>
-  <string name="t9_search_guide_pinyin_title2">Voer 9 en 4 in om te zoeken naar <font fgcolor="">W</font>ashington <font fgcolor="">I</font>rving</string>
+  <string name="t9_search_guide_pinyin_title2">Voer 9 en 4 in om te zoeken naar &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
   <string name="t9_search_guide_zhuyin_title1">Nummers invoeren om contacten te vinden</string>
-  <string name="t9_search_guide_zhuyin_title2">Voer 5 en 6 in om te zoeken naar <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
+  <string name="t9_search_guide_zhuyin_title2">Voer 5 en 6 in om te zoeken naar &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">Nieuwe foto nemen</string>
   <string name="take_photo">Foto maken</string>
   <string name="telecom_fraud_insurance">Telecom fraude verzekering</string>
@@ -1149,7 +1144,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="vcard_import_failed">Kan vCard niet importeren %s.</string>
   <string name="vcard_import_request_rejected_message">Verzoek voor vCard import is geweigerd. Probeer het later opnieuw.</string>
   <string name="vcard_import_will_start_message">%s wordt binnenkort geïmporteerd.</string>
-  <string name="vcard_import_will_start_message_with_default_name">Bestand wordt binnenkort geïmporteerd.</string>
   <string name="vcard_info_send_error">Kan niet versturen door vCard fout</string>
   <string name="vcard_unknown_filename">Contact</string>
   <string name="video_call">Video oproep</string>

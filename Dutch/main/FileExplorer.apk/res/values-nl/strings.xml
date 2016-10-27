@@ -332,7 +332,6 @@
   <string name="open_app">Openen</string>
   <string name="open_private_folder">Loslaten om verborgen mappen te tonen</string>
   <string name="operation_add_fav">Toevoegen aan favorieten…</string>
-  <string name="operation_agree">Toestaan</string>
   <string name="operation_cancel">Annuleren</string>
   <string name="operation_compress">Comprimeren</string>
   <string name="operation_compressing">Comprimeren…</string>
@@ -366,7 +365,7 @@
   <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Volgen</string>
   <string name="other_user_liked_topic_tip">Geen onderwerpen</string>
-  <string name="other_user_liked_video_title">Video\'s die ik leuk vond</string>
+  <string name="other_user_liked_video_tab">Favorites</string>
   <string name="other_user_no_follow_tip">"U hebt nog niemand gevolgd.</string>
   <string name="other_user_no_liked_video_tip">Geen video\'s die u leuk vond.</string>
   <string name="other_user_topic_tab">Topics</string>
@@ -530,11 +529,13 @@
   <string name="tab_hottest_video">Populair</string>
   <string name="tab_local">LOKAAL</string>
   <string name="tab_more">Meer</string>
+  <string name="tab_newest_video">New</string>
   <string name="tab_profile">Profiel</string>
   <string name="tab_ranking_list">Rankinglijst</string>
   <string name="tab_source">Apps</string>
   <string name="terabyteShort">TB</string>
   <string name="tip">Attentie</string>
+  <string name="title_album">Albums</string>
   <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">DocumentsUI inschakelen</string>
   <string name="title_expire_video">Staat op het punt te vervallen</string>
@@ -649,12 +650,12 @@
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Uploaden zal %1$s aan mobiele data vereisen</string>
   <string name="video_data_consumption_dialog_title">Waarschuwing mobiele data</string>
+  <string name="video_description">Video beschrijving</string>
   <string name="video_parse_btn">Starten</string>
   <string name="video_parse_error_unknown">Deze link wordt niet ondersteund, probeer een andere</string>
   <string name="video_parse_hint">Ondersteunde diensten: WeChat, Weibo, Youku.</string>
   <string name="video_parse_success">Met succes geparseerd</string>
   <string name="video_parse_timeout">Er is een fout opgetreden, probeer opnieuw</string>
-  <string name="video_description">Video beschrijving</string>
   <string name="video_parsing_btn">Parseren</string>
   <string name="video_play_failed">Onbekende fout</string>
   <string name="video_publish_hint">Een goede beschrijving zal andere mensen helpen uw video te vinden</string>
@@ -706,5 +707,6 @@ Sluit je aan bij 170 miljoen Mi Fans!"</string>
   <string name="youliao_dialog_msg">"Populaire video\'s zullen vervangen worden met \"Youliao\" 
 die app is gewijd aan het brengen van meer plezier!"</string>
   <string name="youliao_dialog_title">Geen interessante in video\'s?</string>
+  <string name="zero">0</string>
   <string name="zero_comment">Geen reacties</string>
 </resources>

@@ -19,6 +19,7 @@
   <string name="AD_Unistall">Deinstalleren</string>
   <string name="Call_ADRESS">Lokale zwarte lijst</string>
   <string name="Call_BLACKLIST">Gespreksblokkeer lijst</string>
+  <string name="Call_DEFAULT">Smart blocklist</string>
   <string name="Call_PREFIX">Voorvoegsel zwarte lijst</string>
   <string name="Call_PRIVATE_CALL">Privégesprekken</string>
   <string name="MALICIOUS_URL">Kwaadaardige URL</string>
@@ -56,6 +57,7 @@
   <string name="antispam_xpace_text">Wissel naar eerste ruimte om zwarte lijst in te stellen</string>
   <string name="app_name">Zwarte lijst</string>
   <string name="backsound_set_hint">Uw verzend geluid instellen naar %s?</string>
+  <string name="baidu_thanks">Powered by Baidu</string>
   <string name="birthday">Verjaardag</string>
   <string name="bl_block_info" formatted="false">Oproepen: %d | SMS: %d</string>
   <string name="bl_no_blacklist">Geen geblokkeerde nummers.</string>
@@ -190,6 +192,7 @@
   <string name="menu_mark">Nummer rapporteren</string>
   <string name="menu_no_block">Deblokkeren</string>
   <string name="menu_remove">Verwijderen</string>
+  <string name="menu_report_block">Spam</string>
   <string name="menu_restore">Herstellen naar Postvak IN</string>
   <string name="menu_sms">Verstuur bericht</string>
   <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
@@ -242,15 +245,11 @@
   <string name="st_antispam_des_smart_anti">Filter</string>
   <string name="st_antispam_des_uesless">Uitschakelen</string>
   <string name="st_antispam_mode_add_new">Regels toevoegen</string>
-  <string name="st_antispam_mode_blacklist">Geblokkeerde nummers</string>
   <string name="st_antispam_mode_blacklist_sum">Blokkeer berichten en gesprekken van nummers die u handmatig hebt toegevoegd aan de zwarte lijst</string>
   <string name="st_antispam_mode_customize_sum">Regels zwarte lijst maken</string>
   <string name="st_antispam_mode_denyownself_sum">Aangepaste regels</string>
-  <string name="st_antispam_mode_only_all_deny">Alles blokkeren</string>
   <string name="st_antispam_mode_only_all_deny_sum">Blokkeer alle gesprekken en berichten</string>
-  <string name="st_antispam_mode_only_contacts">Alleen contacten toestaan</string>
   <string name="st_antispam_mode_only_contacts_sum">Alleen gesprekken en berichten van contacten toestaan</string>
-  <string name="st_antispam_mode_only_whitelist">Alleen uitzonderingen toestaan</string>
   <string name="st_antispam_mode_only_whitelist_sum">Alleen gesprekken en berichten van nummers in de lijst van uitzonderingen toestaan</string>
   <string name="st_antispam_mode_smart_sum">Nummers blokkeren die u handmatig hebt toegevoegd en blokkeer nummers die zijn gemeld door andere gebruikers</string>
   <string name="st_antispam_notification_sum">Toon melding wanneer oproep of bericht is geblokkeerd</string>
@@ -267,7 +266,6 @@
   <string name="st_block_private_call_button">Blokkeer privénummers</string>
   <string name="st_block_setting_group">Instellingen zwarte lijst </string>
   <string name="st_block_setting_title">Gesprekken en berichten</string>
-  <string name="st_filter_keywords_title">Trefwoordfilter</string>
   <string name="st_block_title">Doorschakelen naar geblokkeerde logbestand</string>
   <string name="st_block_unknown_call">Blokkeer onbekende gesprekken</string>
   <string name="st_block_unknown_sms">Blokkeer onbekende berichten</string>
@@ -277,6 +275,7 @@
   <string name="st_filter_keywords_setting_summary2">"
 (Gebruik een komma om meerdere trefwoorden te scheiden)"</string>
   <string name="st_filter_keywords_setting_title">Configureren trefwoord filter</string>
+  <string name="st_filter_keywords_title">Trefwoordfilter</string>
   <string name="st_filter_sms_button">Berichten filteren</string>
   <string name="st_hint_add_head_number">Voeg prefix toe(\"*\" wordt automatisch toegevoegd)</string>
   <string name="st_hint_add_phonenumber">Voeg nummer in</string>
