@@ -108,6 +108,7 @@
   <string name="bedroom">Slaapkamer</string>
   <string name="bind_stb">Doorgaan met koppelen van settopbox</string>
   <string name="bind_stb_dlg">Koppel settopbox om van kanaal te veranderen</string>
+  <string name="bind_stb_dlg_2">需要绑定机顶盒</string>
   <string name="bind_stb_dlg_agree">Nu koppelen</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Selecteer fabrikant</string>
@@ -218,11 +219,16 @@
   <string name="epg_bottom_title_textview_str">Klik om settopbox te koppelen</string>
   <string name="epg_cancel_book_program">%1$s [%2$s] annuleren</string>
   <string name="epg_change_channel">Wisselen van kanaal</string>
+  <string name="epg_change_channel_casting">换台 （正在播出）</string>
+  <string name="epg_change_channel_not_casting">换台 （还有%1$s播出）</string>
   <string name="epg_channel_group_open">Alles weergeven</string>
   <string name="epg_channel_operation_tip">Druk op het kanaal om te bewerken of toe te voegen aan favorieten</string>
   <string name="epg_channel_search_hint">Voer het kanaalnummer in/kanaal zoeken op naam</string>
   <string name="epg_comment_action_bar_title">Opmerking: %1$s</string>
+  <string name="epg_comment_agree_user">赞了我</string>
   <string name="epg_comment_list_title">Opmerkingen （%1$d）</string>
+  <string name="epg_comment_no_reply">太低调了，还没有收到友人的评论</string>
+  <string name="epg_comment_reply">回复</string>
   <string name="epg_detail_title_text">Uitleg</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_edit_channel_name">Kanaalnaam</string>
@@ -235,14 +241,27 @@
   <string name="epg_home_sliding_down">Inklappen</string>
   <string name="epg_home_sliding_up">Uitklappen</string>
   <string name="epg_hot_channels">Kanalen</string>
+  <string name="epg_hot_comment_list_title">精彩评论</string>
   <string name="epg_hot_programs">Programma\'s</string>
+  <string name="epg_latest_comment_list_title">最新评论（%1$d）</string>
+  <string name="epg_load_comment">正在获取最新评论</string>
+  <string name="epg_load_more_latest_comment">正在获取更多评论</string>
   <string name="epg_loading_hint">Verander van kanaal op uw set-top box met uw telefoon</string>
+  <string name="epg_more_comment_list_title">更多热门评论（%1$d）</string>
   <string name="epg_name">TV programma\'s</string>
   <string name="epg_no_booking_data">Geen programma gereserveerd </string>
+  <string name="epg_no_more_latest_comment">没有更多评论了</string>
   <string name="epg_no_program_data">Geen programma\'s gevonden</string>
   <string name="epg_no_search_result">Geen zoekresultaten</string>
+  <string name="epg_no_sys_notification">暂时没有系统通知</string>
+  <string name="epg_not_booked_program_time_left">预约 （还有%1$s播出）</string>
+  <string name="epg_program_comment">写评论</string>
   <string name="epg_program_detail_more_time_events">Meer zendtijd</string>
+  <string name="epg_program_share">分享 %1$s 给朋友</string>
+  <string name="epg_program_share_drama">快来跟我一起看%3$s频道的%1$s,播出时间:%2$s. 评论喜欢的明星,预测剧情发展,就在小米万能遥控</string>
+  <string name="epg_program_share_game">快来跟我一起看%3$s频道的%1$s,播出时间:%2$s. 啤酒,串串,大家一起来吐槽,就在小米万能遥控</string>
   <string name="epg_program_updated_to">Afspelen ingesteld op %1$d</string>
+  <string name="epg_reply_comment_prefix">\@</string>
   <string name="epg_search_box_hint">Zoek de tv programma\'s die u wilt zien</string>
   <string name="epg_search_history">Zoekgeschiedenis</string>
   <string name="epg_search_hot_channel">热门频道搜索</string>
@@ -399,7 +418,6 @@
   <string name="match_data_error_tips">Kon geen info verkrijgen
 Ga terug om door te gaan</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
-  <string name="match_direction_default">Werken de richtingsknoppen?</string>
   <string name="match_dvd_intro_pause">Vrijgeven wanneer DVD pauzeert</string>
   <string name="match_dvd_intro_play">Vrijgeven wanneer DVD start met spelen</string>
   <string name="match_dvd_intro_stop">Vrijgeven wanneer DVD stopt</string>
@@ -423,7 +441,6 @@ Maak zeker dat %1$s reageert"</string>
   <string name="match_mibox_sencond">   · Bedien uw Mi TV met dit apparaat.</string>
   <string name="match_mibox_third">   · Automatisch andere Mi apparaten toevoegen</string>
   <string name="match_name_power">Voeding</string>
-  <string name="match_number_default">Werken de cijferknoppen?</string>
   <string name="match_power_confirm_tip_frame">Is %1$s ingeschakeld?</string>
   <string name="match_power_main_tip_frame">Is %1$s ingeschakeld？</string>
   <string name="match_stb_intro_left">Vrijgeven wanneer cursor naar links beweegt</string>
@@ -434,7 +451,6 @@ Maak zeker dat %1$s reageert"</string>
   <string name="match_stb_name_up">Omhoog</string>
   <string name="match_stb_seletion_des">Kies je locatie</string>
   <string name="match_succuss">Je bent helemaal klaar</string>
-  <string name="match_tip_default">Reageert het apparaat?</string>
   <string name="match_tip_eject">Werkt de ejectknop?</string>
   <string name="match_tip_exit">Werkt de afsluitknop?</string>
   <string name="match_tip_ff">Werkt de vooruitspoelknop?</string>
@@ -773,7 +789,6 @@ direct vanop uw schermvergrendeling"</string>
   <string name="save_share_title">Afstandsbediening bewaren op dit apparaat?</string>
   <string name="scaning">Zoeken…</string>
   <string name="scanning_milink">Apparaten zoeken…</string>
-  <string name="scene_default">Standaard</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">Onderscheppen van het TV  scherm</string>
@@ -987,7 +1002,8 @@ Om te wijzigen, lang drukken op de TV power knop"</string>
   <string name="video_comment_latest_list_title">Laatste opmerking</string>
   <string name="video_comment_no_reply">Geen opmerkingen, tik om te publiseren</string>
   <string name="video_comment_refresh_failed">Mislukt om opmerkingen te vernieuwen</string>
-   <string name="video_comment_reply_empty">Opmerkingen mogen niet leeg zijn</string>
+  <string name="video_comment_reply">\@%s:</string>
+  <string name="video_comment_reply_empty">Opmerkingen mogen niet leeg zijn</string>
   <string name="video_comment_reply_failed">Antwoorden mislukt</string>
   <string name="video_count_info">Totaal video tellen: %d</string>
   <string name="video_detial_unfold">Details</string>

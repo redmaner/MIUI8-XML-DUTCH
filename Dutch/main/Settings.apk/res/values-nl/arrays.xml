@@ -95,6 +95,37 @@
         <item>Hoog</item>
         <item>Zeer hoog</item>
     </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
         <item>PIN code van peer apparaat</item>
@@ -143,6 +174,12 @@
         <item>Aantal keer gestart</item>
         <item>Appnaam</item>
     </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Geen</item>
         <item>MSCHAPV2</item>
@@ -169,6 +206,11 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
 	   <item>Ongespecifiëerd</item>
@@ -315,6 +357,17 @@
         <item>Normaal</item>
         <item>Lang</item>
     </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Default</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
+    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Zeer klein</item>
         <item>Klein</item>
@@ -330,6 +383,12 @@
 	<item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -338,6 +397,25 @@
         <item>Geel op blauw</item>
         <item>Aangepast</item>
 	</string-array>	
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nooit controleren</item>
         <item>Alleen op DRM inhoud controleren</item>
@@ -418,6 +496,14 @@
         <item>Maximaal 3 processen</item>
         <item>Maximaal 4 processen</item>
     </string-array>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN met van tevoren gedeelde sleutels</item>
@@ -440,11 +526,6 @@
         <item>Neanderthaler</item>
         <item>Chimpansee</item>
         <item>Aap</item>
-    </string-array>
-	    <string-array name="security_settings_premium_sms_values">
-        <item>Vragen</item>
-        <item>Nooit toestaan</item>
-        <item>Altijd toestaan</item>
     </string-array>
      <string-array name="ram_states">
         <item>Normaal</item>
@@ -535,9 +616,24 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimaal</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
     </string-array>
     <string-array name="screen_key_position_action">
         <item>Menuknop links, terugknop rechts</item>
@@ -567,10 +663,6 @@
         <item>Quick-snap modus (selecteren in camera)</item>
         <item>Snelkoppeling openbaar vervoer</item>
     </string-array>
-	<string-array name="screen_button_style">
-        <item>Linkshandige stijl</item>
-        <item>Rechtshandige stijl</item>
-    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 seconde</item>
         <item>2 seconden</item>
@@ -579,6 +671,12 @@
         <item>20 seconden</item>
         <item>Altijd</item>
     </string-array>
+    <integer-array name="font_size_preference_preview_size">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>27</item>
+    </integer-array>
     <string-array name="wfd_status">
         <item>Sessie starten…</item>
         <item>Sessie gestart</item>
@@ -596,6 +694,12 @@
         <item>Windows Vista en nieuwer</item>
         <item>OSX</item>
         <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2.Follow the onscreen instructions</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 	<string-array name="msd_pc_system_retry_linux">
         <item>Installatie tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -633,6 +737,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>Toestaan</item>
         <item>Weigeren</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Native</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Enkele micro geluidsonderdrukking</item>
@@ -690,10 +798,23 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Thuisnetwerk</item>
         <item>Alle netwerken</item>
     </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+    </string-array>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
     <string-array name="agps_reset_type_entries">
         <item>HEET</item>
         <item>WARM</item>
         <item>KOUD</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inches</item>
+        <item>4.0 inches</item>
+        <item>3.5 inches</item>
     </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Direct</item>
@@ -726,6 +847,16 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Appvergrendeling</item>
         <item>Tweede ruimte</item>
      </string-array>
+    <string-array name="anr_record_interval_entries">
+        <item>10 sec</item>
+        <item>20 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
+    </string-array>
+	<string-array name="screen_button_style">
+        <item>Linkshandige stijl</item>
+        <item>Rechtshandige stijl</item>
+    </string-array>
 	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>
         <item>Weekdagen</item>
