@@ -335,8 +335,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="band_mode_succeeded">Geslaagd</string>
   <string name="band_mode_title">GSM/UMTS band instellen</string>
   <string name="baseband_version">Smalbandversie</string>
-  <string name="batch_delete_saved_network">Opgeslagen netwerk verwijderen: %s?</string>
-  <string name="batch_delete_saved_networks">Delete all the selected networks</string>
+  <string name="batch_delete_saved_network">Geselecteerde netwerk verwijderen: %s?</string>
+  <string name="batch_delete_saved_networks">Alle geselecteerde netwerken verwijderen</string>
   <string name="battery_action_app_details">Appinfo</string>
   <string name="battery_action_app_settings">Appinstellingen</string>
   <string name="battery_action_bluetooth">Bluetooth-instellingen</string>
@@ -2081,7 +2081,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="multi_touch_points_preference">Herstart is nodig</string>
   <string name="music_audio_effect_optimize">Audio instellingen</string>
   <string name="music_audio_effect_optimize_summary">Dirac, koptelefoon en andere audio instellingen</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, headphones and other audio settings</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD geluid, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_settings">Audio effect instellingen</string>
   <string name="music_dirac_control">Optimaliseer audio kwaliteit</string>
@@ -2106,7 +2106,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dolby_mode_off">Uit</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_equalizer_summary">Pas individueel niveau aan voor verschillende soorten muziek</string>
-  <string name="music_hd_title">HD Sound audio</string>
+  <string name="music_hd_title">HD audio geluid</string>
   <string name="music_headphone_settings">Kies type koptelefoon</string>
   <string name="music_headset_button_settings">Knoppen toewijzen</string>
   <string name="music_headset_calibrate">Knoppen toewijzen</string>
@@ -2889,8 +2889,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_key_position">Navigation buttons</string>
   <string name="screen_locking_sounds_title">Schermvergrendelingsgeluiden</string>
   <string name="screen_never_timeout_title">Nooit slapen</string>
-  <string name="screen_on_proximity_sensor_summary">Telefoon kan niet worden ontgrendeld wanneer hij in je broekzak zit</string>
-  <string name="screen_on_proximity_sensor_title">Voorkom broekzakgesprekken</string>
+  <string name="screen_on_proximity_sensor_summary">Aanraak gebaren vergrendelen wanneer de telefoon in de broekzak wordt geplaats</string>
+  <string name="screen_on_proximity_sensor_title">Broekzak modus</string>
   <string name="screen_optimize">Contrast</string>
   <string name="screen_paper_mode_adjust_level">Sterkte</string>
   <string name="screen_paper_mode_apps_loading">Een momentje…</string>
@@ -3741,7 +3741,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="touch_sensitive_title">Handschoenmodus</string>
   <string name="touch_sensitive_turn_off_cancel">Annuleren</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Wilt u de broekzakgesprekken modus uitschakelen?</string>
+  <string name="touch_sensitive_turn_off_summary">Broekzak modus uitschakelen?</string>
   <string name="touch_sensitive_turn_off_title">Handschoenmodus is uitgeschakeld</string>
   <string name="touch_sounds_title">Aanraakgeluiden</string>
   <string name="touch_title">Handschoenmodus</string>
