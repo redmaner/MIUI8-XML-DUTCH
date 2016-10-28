@@ -5,8 +5,6 @@
   <string name="app_name">Apparaat vinden</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Kon niet ontgrendelen. %s."</string>
-  <string name="default_lock_msg_words">Dit apparaat is gekoppeld aan een bestaand Mi account. Om veiligheidsredenen moet u het wachtwoord invoeren om het apparaat te controleren</string>
-  <string name="default_lock_msg_words_with_phone">Hallo! Ik ben mijn telefoon verloren. Kan je contact met mij opnemen? Bedankt!</string>
   <string name="device_locked">Dit apparaat is geblokkeerd</string>
   <string name="device_lost">Dit apparaat is verloren</string>
   <string name="disable_find_device_error">"Kan apparaat niet uitschakelen. %1$s"</string>
@@ -30,6 +28,7 @@ Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze fu
   <string name="find_device_stop_noise">Tik op Ok om te dempen</string>
   <string name="find_device_storage_corrupted">Vind Apparaat opslag is beschadigd. Uw apparaat is nu onveilig.</string>
   <string name="find_device_success_title">Apparaat vinden</string>
+  <string name="find_device_telephony_fault">Apparaat vinden: Telefonische fout (%s).</string>
   <string name="i_know">Ok</string>
   <string name="lock_msg_phone">Contactinformatie: %s</string>
   <string name="login_extra_steps">Aanmeld verificatie</string>

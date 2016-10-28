@@ -38,7 +38,10 @@
   <string name="attach_take_photo">Foto maken</string>
   <string name="attach_video">Videos</string>
   <string name="audio_download_failed">Kon audio niet downloaden</string>
+  <string name="audio_message_expired">Dit spraakbericht is verlopen.</string>
+  <string name="audio_message_mx_offline">Kon audio niet downloaden. Mi Message is offline of niet beschikbaar</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">Geen netwerkverbinding of verkeerde SIM kaart geïnstalleerd. Installeer de SIM kaart vanwaar het bericht verzonden is en verbind met het netwerk.</string>
   <string name="back_to_message_list">Terug naar berichtenlijst</string>
   <string name="batch_adding_progress_message">Toevoegen…</string>
   <string name="batch_delete_confirm_dialog_message">%1$s berichten verwijderen?</string>
@@ -148,8 +151,6 @@
   <string name="edit_phrase">Snelle reacties bewerken</string>
   <string name="edit_slide_activity">Dia bewerken</string>
   <string name="edit_slideshow_activity">Diavoorstelling bewerken</string>
-  <string name="enable_password_protect">Schakel wachtwoord beveiliging in</string>
-  <string name="enable_visible_pattern_title">Maak patroon zichtbaar</string>
   <string name="english_subject_limit">Maximum 40 tekens</string>
   <string name="enter_edit_mode">Bericht bewerken</string>
   <string name="error_code_label">"Foutcode: "</string>
@@ -167,6 +168,7 @@
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
   <string name="fake_cell_alert_hint">Het lijkt erop dat dit bericht is verzonden vanaf een telefoonnummer die verschilt met het nummer die wordt getoond. Wees voorzichtig met SMS die financiele verzoeken bevatten.</string>
   <string name="fake_cell_checking_hint">Veiligheid controleren…</string>
+  <string name="fake_cell_detection_entry">Fake base station detection</string>
   <string name="fake_cell_safe_hint">Dit bericht is veilig</string>
   <string name="fake_cell_timeout_hint">Kon veiligheid niet controleren</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
@@ -206,6 +208,7 @@
   <string name="hms_add_image_progress_message">Verwerken…</string>
   <string name="hms_first_use_tips">Om berichten te onvangen, moet je verbonden zijn met een Wi-Fi netwerk</string>
   <string name="hms_uri_param_err">URL kan niet leeg zijn</string>
+  <string name="hold_to_talk">Ingedrukt houden om te spreken</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Berichten importeren naar privé Berichtenbox…</string>
   <string name="in_sms">Bericht</string>
@@ -216,7 +219,6 @@
   <string name="invalid_recipient_message">Corrigeer de ontvangers, anders ontvangen ze het bericht niet</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">Layout van diavoorstelling</string>
-  <string name="left_cancel">Veeg naar links om te annuleren</string>
   <string name="loading_all_messages">Een momentje…</string>
   <string name="loading_conversations">Een momentje…</string>
   <string name="loading_mms">Een momentje…</string>
@@ -338,7 +340,6 @@
   <string name="mx_recommend_msg">Druk hier om Mi Message in te schakelen.</string>
   <string name="mx_type_guide">Met Mi Message kan je berichten sturen naar andere MIUI gebruikers zonder kosten</string>
   <string name="need_download">Sync…</string>
-  <string name="network_error">Netwerkfout</string>
   <string name="networking_allow_continue">Ok</string>
   <string name="networking_allow_desc">"Slimme berichten laten u gratis berichten en spraakberichten sturen, onbekende nummers herkennen, spam filteren, enz. Door gebruik te maken van deze service, gaat u akkoord met Xiaomi's %1$s en %2$s. U moet de Gouden Gids inschakelen en verbinding maken met internet om deze dienst te gebruiken."</string>
   <string name="networking_allow_desc_without_mx">"Slimme berichten laten u onbekende nummers herkennen, spam filteren, enz. Door gebruik te maken van deze service, gaat u akkoord met Xiaomi's %1$s en %2$s. U moet de Gouden Gids inschakelen en verbinding maken met internet om deze dienst te gebruiken."</string>
@@ -351,6 +352,7 @@
   <string name="no">Annuleren</string>
   <string name="no_block_button_msg">Berichten van dit nummer niet blokkeren</string>
   <string name="no_conversations">Geen gesprekken</string>
+  <string name="no_delivery_report">Geen afleveringsrapport</string>
   <string name="no_subject">(Geen onderwerp)</string>
   <string name="no_subject_view">(Geen onderwerp)</string>
   <string name="non_english_subject_limit">Maximaal 13 tekens</string>
@@ -360,6 +362,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privécontact</string>
+  <string name="open_audio_record_panel">Audio record paneel openen</string>
   <string name="open_url_with_web">Deze URL openen in browser?</string>
   <string name="over_max_mms_size">MMS is te groot.</string>
   <string name="overwrite_edited_content">"Aangepaste inhoud wordt overschreven, wilt u doorgaan?"</string>
@@ -385,12 +388,13 @@
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
-  <string name="pref_show_sms_template_summary">Automatisch verificatiecodes kopiëren en invullen</string>
+  <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
+  <string name="pref_smart_messages_settings">Slimme berichten</string>
   <string name="pref_sms_theme_title">Thema-instellingen</string>
   <string name="pref_summary_allow_si_sl_push">Berichten toestaan om inhoud van websites te laden (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s berichten per conversatie</string>
   <string name="pref_summary_delivery_reports">Afleverrapporten voor elk verzonden bericht</string>
-  <string name="pref_summary_delivery_ringtone">Meldingsgeluid ontvangen voor verzonden bericht.</string>
+  <string name="pref_summary_delivery_ringtone">Meldingsgeluid ontvangen voor verzonden bericht</string>
   <string name="pref_summary_hide_festival">Verberg aanbevelingstab voor niet Chinese talen</string>
   <string name="pref_summary_manage_sim_messages">Berichten op uw SIM kaart beheren</string>
   <string name="pref_summary_mms_auto_retrieval">Foto\'s en video\'s in berichten automatisch downloaden</string>
@@ -405,8 +409,8 @@
   <string name="pref_summary_wake_up_screen">Scherm ontwaken bij inkomende berichten</string>
   <string name="pref_system_title">Systeem</string>
   <string name="pref_time_auto_group_disabled_summary">Is niet ondersteunt in huidige lettergrootte</string>
-  <string name="pref_time_auto_group_summary">Berichten samen groeperen die worden ontvangen binnen een minuut van elkaar</string>
-  <string name="pref_time_auto_group_title">Groepeer op tijd</string>
+  <string name="pref_time_auto_group_summary">Berichten die binnen een minuut van elkaar worden ontvangen samen groeperen</string>
+  <string name="pref_time_auto_group_title">Groeperen op tijd</string>
   <string name="pref_title_allow_si_sl_push">WAP pushberichten toestaan (SI/SL)</string>
   <string name="pref_title_card_format">Deel kaart indeling</string>
   <string name="pref_title_delivery_reports">Afleverrapporten</string>
@@ -424,7 +428,7 @@
   <string name="pref_title_ringtone_repeat">Meldingsgeluiden</string>
   <string name="pref_title_ringtone_repeat_summary">Speel een meldingsgeluid af wanneer een bericht wordt ontvangen terwijl het scherm is uitgeschakeld</string>
   <string name="pref_title_send_delivery_reports">Verstuur afleverberichten</string>
-  <string name="pref_title_show_recent_contacts">Toon recente contacten</string>
+  <string name="pref_title_show_recent_contacts">Recente contacten tonen</string>
   <string name="pref_title_sms_delete">Tekstbericht limiet</string>
   <string name="pref_title_sms_validity_period">SMS vervaltijd</string>
   <string name="pref_title_storage_status">Berichtopslag status</string>
@@ -433,7 +437,6 @@
   <string name="pref_title_wake_up_screen">Schakel scherm in</string>
   <string name="preferences_title">Instellingen</string>
   <string name="prepare_send">Voorbereiden om te sturen…</string>
-  <string name="press_recording">Druk &amp; Mic icoon ingedrukt houden om op te nemen</string>
   <string name="preview">Voorbeeld</string>
   <string name="preview_slideshow">Voorbeeld</string>
   <string name="priority_high">Hoog</string>
@@ -441,6 +444,14 @@
   <string name="priority_low">Laag</string>
   <string name="priority_normal">Normaal</string>
   <string name="privacy_mode_hint">Kan geen bericht verzenden in Gastmodus</string>
+  <string name="privacy_password_message1">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen.</string>
+  <string name="privacy_password_message2">Gebruik privacy wachtwoordbeveiliging. Het werkt voor foto\'s, notities, verborgen mappen.</string>
+  <string name="privacy_password_message3">Wachtwoord voor berichten zal vervangen worden door privacy wachtwoordbeveiliging die werkt voor foto\'s, notities, verborgen mappen.</string>
+  <string name="privacy_password_set_password">Instellen</string>
+  <string name="privacy_password_title1">Wachtwoord instellen</string>
+  <string name="privacy_password_title2">Gebruik privacy wachtwoordbeveiliging</string>
+  <string name="privacy_password_title3">Uw wachtwoord upgraden</string>
+  <string name="privacy_password_title4">Wachtwoord geüpgrade</string>
   <string name="private_message">Privébericht</string>
   <string name="private_new_notification">Nieuw melding privébericht</string>
   <string name="private_protect">Bescherm privéberichten</string>
@@ -489,7 +500,7 @@
   <string name="search">Berichten</string>
   <string name="search_empty">Geen resultaten</string>
   <string name="search_hint">Zoeken in berichten</string>
-  <string name="search_keyword_mms">Messaging</string>
+  <string name="search_keyword_mms">Berichten;SMS;MMS;Tekst;Teksten;Bericht;Berichten</string>
   <string name="search_label">Berichten</string>
   <string name="search_path_mms">Settings/System apps/Messaging</string>
   <string name="search_setting_description">Tekst in uw berichten</string>
@@ -534,6 +545,7 @@
   <string name="set">Instellen</string>
   <string name="share_img">Delen</string>
   <string name="show_all_messages">Alle berichten weergeven</string>
+  <string name="show_delivery_status">Afleverstatus weergevn</string>
   <string name="show_sender">Info over afzender weergeven</string>
   <string name="sim_card1">SIM kaart 1</string>
   <string name="sim_card2">SIM kaart 2</string>
@@ -547,6 +559,7 @@
   <string name="sim_view">Weergeven</string>
   <string name="slide_number">Dia %s</string>
   <string name="slide_show_part">Deel %1$s/%2$s</string>
+  <string name="slide_up_to_cancel">Omhoog vegen om te annuleren</string>
   <string name="slideshow_activity">Diavoorstelling</string>
   <string name="sms_card_partner_label">"SMS kaartpartner: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -602,9 +615,9 @@
   <string name="title_recv_red_package">Rood pakket verkrijgen</string>
   <string name="title_red_package">Rijk worden en veel geluk</string>
   <string name="title_send_red_package">Rood pakket controleren</string>
-  <string name="title_show_blocked_messages">Geef geblokkeerde SMS weer</string>
+  <string name="title_show_blocked_messages">Geblokkeerde SMS weergeven</string>
   <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
-  <string name="title_show_sms_template_in">Controleer SMS op OTP</string>
+  <string name="title_show_sms_template_in">SMS controleren op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
   <string name="to_address_label">"Aan: "</string>
   <string name="to_count">%d onvangers</string>
@@ -643,7 +656,7 @@
   <string name="user_agreement2">Algemene Voorwaarden</string>
   <string name="user_agreement3">" en "</string>
   <string name="user_agreement4">Privacybeleid</string>
-  <string name="user_agreement5">Door op OK te drukken, gaat u akkoord met de Algemene Voorwaarden en het Privacybeleid.</string>
+  <string name="user_agreement5">Door op OK te tikken, gaat u akkoord met de Algemene Voorwaarden en het Privacybeleid.</string>
   <string name="view">Weergeven</string>
   <string name="view_bookmark">Origineel bericht weergeven</string>
   <string name="view_hms_attachment_fail">Kan afbeelding niet downloaden</string>

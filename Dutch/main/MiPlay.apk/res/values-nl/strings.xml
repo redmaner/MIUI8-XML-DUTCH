@@ -1,13 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiPlay</string>
+  <string name="app_name">Media Server</string>
   <string name="cancel">Annuleren</string>
+  <string name="enable_wifi_btn">Inschakelen</string>
+  <string name="enable_wifi_message">Wi-Fi inschakelen om apparaten in buurt te zoeken of mee te verbinden.</string>
+  <string name="enable_wifi_title">Wi-Fi inschakelen</string>
   <string name="media_feature_projection">Scherm projecteren</string>
   <string name="media_status_error">Foutmelding</string>
   <string name="media_status_started">Verbonden</string>
   <string name="media_status_starting">Verbinden…</string>
   <string name="media_status_stopped">Gestopt</string>
   <string name="media_status_stopping">Stoppen…</string>
+  <string name="noti_projection_status_desc_on">Scherm spiegelen is ingeschakeld</string>
+  <string name="noti_projection_status_title">MiPlay draadloos scherm</string>
   <string name="prjection_title">Draadloos scherm</string>
   <string name="search_for_devices">Vernieuwen</string>
   <string name="wifi_display_autonomous_go">Autonome GO inschakelen</string>
@@ -16,7 +21,7 @@
   <string name="wifi_display_enable_menu_item">Draadloos scherm inschakelen</string>
   <string name="wifi_display_listen_channel">Luisterkanaal</string>
   <string name="wifi_display_listen_mode">Luistermodus inschakelen</string>
-  <string name="wifi_display_no_devices_found">Geen apparaten in de buurt gevonden.</string>
+  <string name="wifi_display_no_devices_found">Kon geen apparaten in de buurt vinden.</string>
   <string name="wifi_display_operating_channel">Operatiekanaal</string>
   <string name="wifi_display_options_done">Klaar</string>
   <string name="wifi_display_options_forget">Vergeten</string>

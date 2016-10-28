@@ -8,6 +8,10 @@
         <item>Camera</item>
         <item>Galerij</item>
     </string-array>
+	<string-array name="note_sort_way">
+        <item>Sorteren op aangemaakte datum</item>
+        <item>Sorteren op aangepaste datum</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Naam</item>
         <item>Roepnaam</item>
@@ -62,5 +66,21 @@ Herinneringen instellen
 Stel herinneringen in direct vanuit notities.
 Druk op de \"Meer\" knop in de rechter bovenhoek van een notitie, kies voor \"Herinneringen\" en stel de tijd in.
 "</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 </resources>

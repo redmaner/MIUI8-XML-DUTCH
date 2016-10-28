@@ -76,12 +76,23 @@
         <item>Vergrendelen na het afsluiten van de app</item>
         <item>Vergrendelen 1 minuut na het afsluiten van de app</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
+	<string-array name="long_add_menu">
+        <item>Toevoegen aan uitzonderingen</item>
+    </string-array>
+    <integer-array name="pc_time_choice_items">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
+     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Na 1 minuut</item>
         <item>Na 5 minuten</item>
         <item>Na 10 minuten</item>
+        <item>Na 30 minuten</item>
         <item>Nooit</item>
-    </string-array>
+     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>

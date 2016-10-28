@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">Belgeschiedenis details</string>
   <string name="account_container_title">Geïmporteerd van</string>
-  <string name="account_default">Telefoon</string>
   <string name="account_phone">Alleen voor telefoon, niet gesynchroniseerd</string>
   <string name="account_sim">SIM kaart</string>
   <string name="account_sim2">SIM kaart %d</string>
@@ -42,7 +41,7 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="back_view_description">Tik om terug te keren</string>
-  <string name="batch_delete">Meerdere verwijderen</string>
+  <string name="batch_delete">Meerdere contacten verwijderen</string>
   <string name="blacklist">Blokkeren</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth verbinding verbroken</string>
   <string name="blurbJoinContactDataWith">Selecteer het contactpersoon dat u met %s wilt samenvoegen:</string>
@@ -62,6 +61,7 @@
   <string name="call_assistant">%s bellen</string>
   <string name="call_callback">Nummer terugbellen</string>
   <string name="call_car">Auto bellen</string>
+  <string name="call_charge">Herladen</string>
   <string name="call_company_main">Hoofdnummer bedrijf bellen</string>
   <string name="call_custom">%s bellen</string>
   <string name="call_disambig_title">Nummer kiezen</string>
@@ -69,6 +69,7 @@
   <string name="call_fax_work">Fax werk bellen</string>
   <string name="call_home">Privé bellen</string>
   <string name="call_isdn">ISDN bellen</string>
+  <string name="call_left">Telefoon saldo</string>
   <string name="call_log_empty_gecode">-</string>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Nieuw</string>
@@ -76,9 +77,12 @@
   <string name="call_main">Hoofdnummer bellen</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
+  <string name="call_not_found"> --</string>
+  <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
   <string name="call_pager">Pager bellen</string>
+  <string name="call_problem_report">Een probleem melden</string>
   <string name="call_radio">Radio bellen</string>
   <string name="call_record_setting_miui">Opname instellingen</string>
   <string name="call_settings">Instellingen</string>
@@ -87,6 +91,7 @@
   <string name="call_telex">Telex bellen</string>
   <string name="call_tty_tdd">TTY/TDD bellen</string>
   <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">USD</string>
   <string name="call_work">Werk bellen</string>
   <string name="call_work_mobile">Mobiel nummer werk bellen</string>
   <string name="call_work_pager">Pager werk bellen</string>
@@ -124,6 +129,7 @@
   <string name="callrecordview_menu_recharge">Herladen</string>
   <string name="callrecordview_menu_save_to_group">Oproepgeschiedenis opslaan naar groep</string>
   <string name="callrecordview_menu_settings">Instellingen</string>
+  <string name="callrecordview_menu_show">Filter</string>
   <string name="callrecordview_menu_show_accepted">Beantwoorde gesprekken</string>
   <string name="callrecordview_menu_show_all">Alle gesprekken</string>
   <string name="callrecordview_menu_show_called">Uitgaande gesprekken</string>
@@ -132,7 +138,7 @@
   <string name="callrecordview_menu_show_sim">%s gesprekken</string>
   <string name="callrecordview_menu_show_stranger">Gesprekken van onbekende nummers</string>
   <string name="callrecordview_menu_show_title">Belgeschiedenis weergave</string>
-  <string name="callrecordview_menu_voip">VoIP</string>
+  <string name="callrecordview_menu_voip">Mi Voice</string>
   <string name="calls_voip_prompt">Voip</string>
   <string name="cancel_confirmation_dialog_message">Uw wijzigingen annuleren?</string>
   <string name="cancel_confirmation_dialog_title">Annuleren</string>
@@ -158,12 +164,12 @@
   <string name="clearFrequentsConfirmation_title">Lijst regelmatige contactpersonen wissen?</string>
   <string name="clearFrequentsProgress_title">Regelmatige contactpersonen verwijderen...</string>
   <string name="clear_copy_number_description">Gekopieerd nummer wissen</string>
-  <string name="clear_default">Standaardwaarden verwijderen</string>
   <string name="clear_digits">Telefoonnummer verwijderen</string>
   <string name="click_close">Tik om te sluiten</string>
   <string name="clip_dialog_title">Gekopiëerd nummer bellen?</string>
   <string name="close_dial_pad_description">Toetsenblok sluiten</string>
   <string name="cloud_antispam_mark">Aangeven</string>
+  <string name="cloud_antispam_marked">Aangegeven</string>
   <string name="cloud_antispam_title">Beller ID</string>
   <string name="cloud_recommend_msg">Tik om contacten te sync. met Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync. met Mi Cloud is uitgeschakeld</string>
@@ -200,7 +206,7 @@
   <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
   <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
-  <string name="contact_detail_calllog_empty">Geen gespreksgeschiedenis</string>
+  <string name="contact_detail_calllog_empty">Geen geschiedenis</string>
   <string name="contact_detail_menu_delete_miprofile">Visitekaartje verwijderen</string>
   <string name="contact_detail_miprofile_accept">Visitekaartjes  uitwisselen</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Kon visitekaartje niet uitwisselen</string>
@@ -266,11 +272,11 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="data_already_used">Data gebruikt</string>
   <string name="data_charge">Mobiele data opladen</string>
   <string name="data_left">Resterende data</string>
-  <string name="data_unit">MB</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Herinner mij drie dagen vooraf en op de dag zelf</string>
   <string name="date_time_set">Instellen</string>
   <string name="date_year_toggle">Jaar toevoegen</string>
-  <string name="default_ringtone">Standaard beltoon</string>
   <string name="deleteConfirmation">Dit contact wordt verwijderd.</string>
   <string name="deleteConfirmationDetail">\"%s\" verwijderen?</string>
   <string name="deleteConfirmation_title">Dit contact verwijderen?</string>
@@ -446,7 +452,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="favoritesFrequentContacted">Regelmatig contact mee opgenomen</string>
   <string name="favorites_list_empty">Geen favorieten</string>
   <string name="firewall_setting">Zwarte lijst</string>
-  <string name="followed_yellowpage">Geverifieerde accounts</string>
   <string name="force_touch_miprofile">Contactkaart</string>
   <string name="force_touch_new_contact">Nieuw contact</string>
   <string name="foundTooManyContacts">Meer dan %d gevonden.</string>
@@ -454,7 +459,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="frequentList">Vaak</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Naam</string>
-  <string name="gallery">Gallerij</string>
+  <string name="gallery">Galerij</string>
   <string name="generic_no_account_prompt">Zorg dat uw contacten veilig zijn, zelfs wanneer u uw telefoon verliest: synchroniseer met een online service.</string>
   <string name="generic_no_account_prompt_title">Account toevoegen</string>
   <string name="ghostData_company">Bedrijf</string>
@@ -496,7 +501,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="ic_menu_back">Terug</string>
   <string name="ic_menu_done">Klaar</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI: "</string>
   <string name="imei_invalid">Ongeldige IMEI</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
@@ -583,7 +588,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="map_home">Thuisadres weergeven</string>
   <string name="map_other">Adres weergeven</string>
   <string name="map_work">Werkadres weergeven</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID: "</string>
   <string name="meid_invalid">Ongeldige MEID</string>
   <string name="menuMoreDescription">Meer</string>
   <string name="menu_accounts">Accounts</string>
@@ -594,10 +599,10 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="menu_bar_group_batch_move">Verplaatsen naar groep</string>
   <string name="menu_bar_group_batch_remove">Groep verwijderen</string>
   <string name="menu_bar_group_delete">Verwijderen</string>
-  <string name="menu_bar_group_rename">Hernoemen</string>
-  <string name="menu_bar_group_ringtone">Groepsbeltoon</string>
+  <string name="menu_bar_group_rename">Naam wijzigen</string>
+  <string name="menu_bar_group_ringtone">Beltoon</string>
   <string name="menu_bar_group_ringtone_largeui">Beltoon</string>
-  <string name="menu_bar_group_sms">Groep SMS</string>
+  <string name="menu_bar_group_sms">SMS</string>
   <string name="menu_call">Contact bellen</string>
   <string name="menu_callNumber">Bel %s</string>
   <string name="menu_call_ip_number">IP Gesprek(bel %s)</string>
@@ -668,7 +673,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_find_profile_batch_request_failed">Kon profiel niet toevoegen</string>
   <string name="miprofile_find_profile_loading">Laden…</string>
   <string name="miprofile_find_profile_no_recommend">Geen aanbevolen profiel</string>
-  <string name="miprofile_find_profile_subtitle">Toevoegen om foto te bekijken en meer info te verkrijgen</string>
   <string name="miprofile_finding_label">Visitekaartjes vinden</string>
   <string name="miprofile_name">Mijn profiel</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -753,7 +757,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="no_contacts_selected">Er zijn geen contacten geselecteerd.</string>
   <string name="no_sdcard_message">Geen opslag gevonden.</string>
   <string name="no_voip_contacts">Geen Mi Voice contacten</string>
-  <string name="non_phone_add_to_contacts">Toevoegen aan contacten</string>
+  <string name="non_phone_add_to_contacts">Toevoegen aan bestaand contact</string>
   <string name="non_phone_caption">Telefoonnummer</string>
   <string name="non_phone_close">Sluiten</string>
   <string name="none_paired">Er zijn momenteel geen apparaten gekoppeld</string>
@@ -806,7 +810,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefoon</string>
-  <string name="phone_call_type_livetalk">LiveTalk</string>
+  <string name="phone_call_type_livetalk">Pakket herladen</string>
   <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Nummer is te lang</string>
@@ -815,7 +819,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_labels_group">Profielfoto</string>
   <string name="photo_load_failed">Kon foto niet laden</string>
-  <string name="pick_new_photo">Selecteer een nieuwe foto uit %s</string>
+  <string name="pick_new_photo">Kies een nieuwe foto uit %s</string>
   <string name="pick_photo">Kies een foto uit %s</string>
   <string name="pickerNewContactHeader">Nieuw contact maken</string>
   <string name="pickerNewContactText">Nieuw contact maken</string>
@@ -860,7 +864,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="preference_contacts_display">Weergavevoorkeuren</string>
   <string name="preference_contacts_filter">Contactlijsten configureren</string>
   <string name="preference_contacts_more">Contacten organiseren</string>
-  <string name="preference_dial_pad_touch_tone_default">Standaard</string>
   <string name="preference_dial_pad_touch_tone_human">Stem</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianotoetsen</string>
   <string name="preference_dial_pad_touch_tone_switch">Toetsenblok aanraakgeluiden</string>
@@ -979,6 +982,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="search_import_from_other_phone">Contacten;Importeren;andere telefoon</string>
   <string name="search_import_from_sdcard">Contacten;Importeren;SD kaart</string>
   <string name="search_import_from_sim">Contacten;Importeren;SIM kaart</string>
+  <string name="search_input_hint">Je kan telefoonnummers of services zoeken</string>
   <string name="search_key_photo_word">Toewijzen;contacten;foto\'s;Contacten</string>
   <string name="search_key_rebuild_t9_index_title">Organiseren;Contacten;t9</string>
   <string name="search_key_sim_manage">Organiseren;Contacten</string>
@@ -1006,7 +1010,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="service_provider">Adresboek</string>
   <string name="service_provider_detail">Adresboek details</string>
   <string name="set_data_package">Stel eerst dataplan in</string>
-  <string name="set_default">Standaard instellen</string>
   <string name="set_photo_failed_msg">Kon foto niet toewijzen.</string>
   <string name="share_error">Dit contact kan niet worden gedeeld.</string>
   <string name="share_over_limit">Meer dan 1000, kan niet gedeeld worden</string>
@@ -1050,8 +1053,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="smart_group_company_label">Per bedrijf</string>
   <string name="smart_group_company_unavailable">Geen bedrijf</string>
   <string name="smart_group_frequency_1">Afgelopen maand</string>
-  <string name="smart_group_frequency_2">Afgelopen 3 maanden</string>
-  <string name="smart_group_frequency_3">Afgelopen 6 maanden</string>
+  <string name="smart_group_frequency_2">1 tot 3 maanden</string>
+  <string name="smart_group_frequency_3">3 tot 6 maanden</string>
   <string name="smart_group_frequency_4">Meer dan 6 maanden geleden</string>
   <string name="smart_group_frequency_label">Meest recente eerst</string>
   <string name="smart_group_label">Slimme groepen</string>
@@ -1097,7 +1100,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="t9_search_guide_pinyin_title1">Nummers invoeren om contacten te vinden</string>
   <string name="t9_search_guide_pinyin_title2">Voer 9 en 4 in om te zoeken naar &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
   <string name="t9_search_guide_zhuyin_title1">Nummers invoeren om contacten te vinden</string>
-  <string name="t9_search_guide_zhuyin_title2">Voer 5 en 6 in om te zoeken naar &lt;font fgcolor=""&gt;J&lt;/font&gt;&amp;gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
+  <string name="t9_search_guide_zhuyin_title2">Voer 5 en 6 in om te zoeken naar &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">Nieuwe foto nemen</string>
   <string name="take_photo">Foto maken</string>
   <string name="telecom_fraud_insurance">Telecom fraude verzekering</string>
@@ -1141,7 +1144,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="vcard_import_failed">Kan vCard niet importeren %s.</string>
   <string name="vcard_import_request_rejected_message">Verzoek voor vCard import is geweigerd. Probeer het later opnieuw.</string>
   <string name="vcard_import_will_start_message">%s wordt binnenkort geïmporteerd.</string>
-  <string name="vcard_import_will_start_message_with_default_name">Bestand wordt binnenkort geïmporteerd.</string>
   <string name="vcard_info_send_error">Kan niet versturen door vCard fout</string>
   <string name="vcard_unknown_filename">Contact</string>
   <string name="video_call">Video oproep</string>
@@ -1178,6 +1180,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="wipe_data">Data verwijderen</string>
   <string name="yellowPageNavigationIconLabel">Gele Gids</string>
   <string name="yellowPageNavigationLabel">Gele Gids</string>
+  <string name="yellowpage_navigation_ad_hint">Ad</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">Saldo en data kon niet geverifeerd worden, probeer later opnieuw.</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Saldo en data zijn geverifeerd</string>
   <string name="yellowpage_navigation_clear_search_history">Geschiedenis verwijderen</string>
   <string name="yellowpage_navigation_more_items">Meer</string>
   <string name="yellowpage_navigation_more_items_title">Meer diensten</string>
@@ -1186,7 +1191,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="yellowpage_navigation_search_history">Geschiedenis</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_average_price">Gemiddelde RMB %d </string>
-  <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het netwerk maken.</string>
+  <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het 
+netwerk maken.</string>
   <string name="yellowpage_navigation_search_result_no_more">Geen nieuwe resultaten</string>
   <string name="yellowpage_navigation_search_result_service_error">Dienst niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Onbekende fout</string>

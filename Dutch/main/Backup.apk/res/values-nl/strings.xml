@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">Back-up is nog niet afgerond. Toch stoppen?</string>
+  <string name="abort_restore_confirm">Herstel is nog niet afgerond. Toch stoppen?</string>
   <string name="account_contact_backup_info">Gegevens (back-up Xiaomi en Gmail info)</string>
   <string name="account_login">Inloggen</string>
   <string name="account_summary">Back-up Xiaomi accounts, Google accounts en andere gebruikersgegevens</string>
@@ -85,6 +86,7 @@
   <string name="delete_failed_backup_confirm">De back-up bevat een fout, kan niet herstellen vanaf deze back-up</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="digit_percent">%</string>
+  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Encryptie uitschakelen</string>
   <string name="enable_encrypt">Nu inschakelen</string>
   <string name="enable_encrypt_fail">Encryptie inschakelen mislukt</string>
@@ -155,7 +157,9 @@
   <string name="notif_restore_content">Gebruikersdata herstellen</string>
   <string name="notif_restore_title">Data herstellen</string>
   <string name="notif_trans_receiving_completed">Data met succes ontvangen</string>
+  <string name="notif_trans_receiving_failed">Data ontvangen mislukt</string>
   <string name="notif_trans_sending_completed">Data met succes verzonden</string>
+  <string name="notif_trans_sending_failed">Data verzenden mislukt</string>
   <string name="page_loading">Een momentje…</string>
   <string name="progress_backup_hint">Back-uppen…</string>
   <string name="progress_restore_hint">Herstellen…</string>

@@ -24,30 +24,6 @@
         <item quantity="few">%d items</item>
         <item quantity="many">%d items</item>
     </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">nog %1$d bestanden te downloaden</item>
-        <item quantity="zero">nog %1$d bestanden te downloaden</item>
-        <item quantity="one">nog %1$d bestanden te downloaden</item>
-        <item quantity="two">nog %1$d bestanden te downloaden</item>
-        <item quantity="few">nog %1$d bestanden te downloaden</item>
-        <item quantity="many">nog %1$d bestanden te downloaden</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">nog %1$d bestanden te uploaden</item>
-        <item quantity="zero">nog %1$d bestanden te uploaden</item>
-        <item quantity="one">nog %1$d bestanden te uploaden</item>
-        <item quantity="two">nog %1$d bestanden te uploaden</item>
-        <item quantity="few">nog %1$d bestanden te uploaden</item>
-        <item quantity="many">nog %1$d bestanden te uploaden</item>
-    </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d bestanden resterend om te verzenden</item>
-        <item quantity="zero">%1$d bestanden resterend om te verzenden</item>
-        <item quantity="one">%1$d bestand resterend om te verzenden</item>
-        <item quantity="two">%1$d bestanden resterend om te verzenden</item>
-        <item quantity="few">%1$d bestanden resterend om te verzenden</item>
-        <item quantity="many">%1$d bestanden resterend om te verzenden</item>
-    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d geselecteerd</item>
         <item quantity="zero">%1$d geselecteerd</item>
@@ -169,12 +145,12 @@
         <item quantity="many">%1$d nieuwe bestanden gevonden</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">%1$d bestanden ontvangen van app %2$s</item>
-        <item quantity="zero">%1$d bestanden ontvangen van app %2$s</item>
-        <item quantity="one">%1$d bestand ontvangen van app %2$s</item>
-        <item quantity="two">%1$d bestanden ontvangen van app %2$s</item>
-        <item quantity="few">%1$d bestanden ontvangen van app %2$s</item>
-        <item quantity="many">%1$d bestanden ontvangen van app %2$s</item>
+        <item quantity="other">%1$d bestanden ontvangen van %2$s</item>
+        <item quantity="zero">%1$d bestanden ontvangen van %2$s</item>
+        <item quantity="one">%1$d bestand ontvangen van %2$s</item>
+        <item quantity="two">%1$d bestanden ontvangen van %2$s</item>
+        <item quantity="few">%1$d bestanden ontvangen van %2$s</item>
+        <item quantity="many">%1$d bestanden ontvangen van %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
         <item quantity="other">%1$d bestanden van WeChat</item>
@@ -249,12 +225,12 @@
         <item quantity="many">%1$s video\'s</item>
     </plurals>
     <plurals name="follower_num">
-        <item quantity="other">volgers</item>
-        <item quantity="zero">volgers</item>
-        <item quantity="one">volger</item>
-        <item quantity="two">volgers</item>
-        <item quantity="few">volgers</item>
-        <item quantity="many">volgers</item>
+        <item quantity="other">followers</item>
+        <item quantity="zero">followers</item>
+        <item quantity="one">follower</item>
+        <item quantity="two">followers</item>
+        <item quantity="few">followers</item>
+        <item quantity="many">followers</item>
     </plurals>
     <plurals name="user_upload_items">
         <item quantity="other">video\'s</item>
@@ -279,5 +255,21 @@
         <item quantity="two">%1$s video\'s</item>
         <item quantity="few">%1$s video\'s</item>
         <item quantity="many">%1$s video\'s</item>
+    </plurals>
+	<plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s opmerkingen</item>
+        <item quantity="one">%1$s opmerking</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">U kan %d karakters invoeren</item>
+        <item quantity="one">U kan %d karakter invoeren</item>
+    </plurals>
+	<plurals name="video_items">
+        <item quantity="other"> %1$d items</item>
+        <item quantity="zero"> %1$d items</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d items</item>
+        <item quantity="few"> %1$d items</item>
+        <item quantity="many"> %1$d items</item>
     </plurals>
 </resources>

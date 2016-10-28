@@ -21,7 +21,8 @@
   <string name="autosetmode">Update instellingen</string>
   <string name="best_update">Beste update tot nu toe</string>
   <string name="boot_recovery">Herstart in recovery modus</string>
-  <string name="button_text_check">Controleren</string>
+  <string name="button_delay_update_reboot">Herstarten &amp; updaten</string>
+  <string name="button_text_check">Controleren op updates</string>
   <string name="button_text_later_reboot">Later herstarten</string>
   <string name="button_text_reboot">Herstarten</string>
   <string name="button_text_reboot_hm">Na herstart</string>
@@ -34,7 +35,7 @@
   <string name="check_local_package_validate_error_button">Ok</string>
   <string name="check_local_package_validate_error_msg">Kon updatepakket niet verifiëren</string>
   <string name="check_local_package_wipe_btn">Wissen en updaten</string>
-  <string name="check_local_package_wipe_msg">"U gaat terugkeren naar MIUI versie %s die ouder is dan de huidige versie. Uw persoonlijke gegevens worden gewist. Zorg ervoor dat u een back-up maakt van alles wat u wilt behouden voordat u het proces start."</string>
+  <string name="check_local_package_wipe_msg">"U gaat terugkeren naar MIUI versie %s. Uw persoonlijke gegevens worden gewist. Zorg ervoor dat u een back-up maakt van alles wat u wilt behouden voordat u het proces start."</string>
   <string name="check_local_package_wipe_title">Data wissen</string>
   <string name="check_new_version">Controleren</string>
   <string name="check_update_policy">Instellingen</string>
@@ -54,7 +55,12 @@
   <string name="continue_update_negative_btn">Doorgaan</string>
   <string name="continue_update_positive_btn">Stoppen</string>
   <string name="daily_build">Nightly</string>
-  <string name="dialog_reboot_message">"MIUI staat op het punt om te updaten. Dit kan 5-20 minuten duren. Houd uw apparaat ingeschakeld, en schakel het niet uit tijdens het updaten."</string>
+  <string name="delay_update_text">Later updaten</string>
+  <string name="dialog_delay_update_cancel">Annuleren</string>
+  <string name="dialog_delay_update_msg">Uw apparaat zal opnieuw opstarten om de updates toe te passen wanneer deze aan staat en de batterij ten minste 30% is opgeladen</string>
+  <string name="dialog_delay_update_title">Er is een update beschikbaar</string>
+  <string name="dialog_delay_update_tonight">Vanavond updaten</string>
+  <string name="dialog_reboot_message">MIUI staat op het punt om te updaten. Dit kan 5-20 minuten duren. Houd uw apparaat ingeschakeld en schakel het niet uit tijdens het updaten.</string>
   <string name="dialog_reboot_title">Systeemupdate</string>
   <string name="dialog_reboot_yes">Updaten</string>
   <string name="download_again">Probeer opnieuw</string>
@@ -70,7 +76,6 @@
   <string name="download_title_full_download">Info verkrijgen…</string>
   <string name="edit_comment">Reactie toevoegen</string>
   <string name="edit_comment_title">Reactie aanpassen</string>
-  <string name="edit_text_default">Reactie schrijven</string>
   <string name="emegency_build">Versie:</string>
   <string name="expect">Verwachtingen</string>
   <string name="experimental_build">Experimentele versie</string>
@@ -101,6 +106,7 @@
   <string name="miui_summary_has_new_version">"  Nieuwe update gevonden  "</string>
   <string name="miui_summary_no_new_version">Geen update beschikbaar</string>
   <string name="miui_summary_now_version">Kan niet verbinden met netwerk</string>
+  <string name="miui_summary_slogan">"  Simplify your life  "</string>
   <string name="miui_summary_updating">"  Updaten…  "</string>
   <string name="monthly_build">Maandelijks</string>
   <string name="my_best_update">Beste update</string>
@@ -116,6 +122,12 @@
   <string name="no_wifi_title">Waarschuwing dataverbruik</string>
   <string name="not_open">Nee</string>
   <string name="notification_auto_reboot_seccess_title">Apparaat automatisch geüpdatet</string>
+  <string name="notification_delay_update_button">Updaten in 2 uur</string>
+  <string name="notification_delay_update_cancel">Vanavond niet updaten</string>
+  <string name="notification_delay_update_low_power">Het leek erop dat de batterij te laag was vannacht</string>
+  <string name="notification_delay_update_msg">Apparaat zal herstarten &amp; updaten in​ %ss</string>
+  <string name="notification_delay_update_no_update">Er zijn geen updates toegepast</string>
+  <string name="notification_delay_update_shutdown">Het leek erop dat uw apparaat niet ingeschakeld was vannacht</string>
   <string name="notification_downloading">Update downloaden…</string>
   <string name="notification_fail_msg">Probeer de volledige ROM te downloaden</string>
   <string name="notification_load_body_alpha">Haal de nieuwste updates voor uw apparaat op.</string>
@@ -130,6 +142,9 @@
   <string name="notification_reboot_title_hm">Herstarten om update te voltooien</string>
   <string name="notification_restart">Opnieuw updaten</string>
   <string name="notification_share">Delen</string>
+  <string name="notification_uncrypt_summary_hm">Tik om uw apparaat te herstarten.</string>
+  <string name="notification_uncrypt_title_hm">Herstarten om udate toe te passen</string>
+  <string name="notification_uncrypting">Update decoderen…</string>
   <string name="notification_update_new_version">Update beschikbaar</string>
   <string name="notification_update_now">Nu updaten</string>
   <string name="notification_updating">Updaten…</string>
@@ -200,7 +215,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="test">Test</string>
   <string name="timer_title">Toestel zal herstarten binnen %d seconden.</string>
   <string name="title_toast_auto">Updates worden automatisch gedownload</string>
+  <string name="toast_delay_update_tonight">Uw apparaat zal worden geüpdatet tussen 02:00 en 05:00</string>
   <string name="top_secret_build">Top secret</string>
+  <string name="uncrypt_title">Decoderen (%s)</string>
   <string name="unkown_error_title">Kon niet downloaden</string>
   <string name="unstable_build">Onstabiel</string>
   <string name="update_comment_hint">(optioneel)</string>

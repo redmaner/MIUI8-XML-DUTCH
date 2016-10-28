@@ -55,8 +55,8 @@
   <string name="data_error">Er is een fout opgetreden</string>
   <string name="data_error_show">Er is een fout opgetreden</string>
   <string name="delete">Verwijderen</string>
-  <string name="didi_back">terug</string>
-  <string name="didi_close">sluiten</string>
+  <string name="didi_back">Terug</string>
+  <string name="didi_close">Sluiten</string>
   <string name="do_not_remind_me">Niet meer weergeven</string>
   <string name="dont_enable">Uitschakelen</string>
   <string name="download_completed">Download opgeslagen naar %s</string>
@@ -84,7 +84,7 @@
   <string name="express_address_warning_no_phone">Apparaat vereist</string>
   <string name="express_addressee_info">Info geadresseerde</string>
   <string name="express_addressee_name">Naam geadresseerde</string>
-  <string name="express_addressee_region">Lokaal geadresseerde</string>
+  <string name="express_addressee_region">"Regio geadresseerde"</string>
   <string name="express_banner_header">%1$s / Volgnummer</string>
   <string name="express_cancel_order">Annuleren</string>
   <string name="express_company_list_empty">"Geen firma's"</string>
@@ -183,7 +183,7 @@ Controleer het volg nummer.</string>
   <string name="express_send_notice">Verboden voorwerpen</string>
   <string name="express_sender_info">Info verzender</string>
   <string name="express_sender_name">Naam verzender</string>
-  <string name="express_sender_region">Lokale verzender</string>
+  <string name="express_sender_region">Regio verzender</string>
   <string name="express_shortcut_name">Vragen of verstuur express</string>
   <string name="express_show_all_inquiry_history">Bekijk alle onderzoekhistorie</string>
   <string name="express_submit_order">Indienen</string>
@@ -237,6 +237,8 @@ Controleer het volg nummer.</string>
   <string name="mark_number_check_dialog_title">Nummer markeren</string>
   <string name="mark_number_check_most_choice">(Keuze van meeste gebruikers)</string>
   <string name="mark_number_custom_mark_deleted">Label verwijderd</string>
+  <string name="mark_number_delete_confirm_message">%s labelinfo verwijderen?</string>
+  <string name="mark_number_delete_confirm_title">Labelinfo verwijderen</string>
   <string name="mark_number_dialog_maintitle">Rapporteer dit nummer</string>
   <string name="mark_number_dialog_subtitle">Gerapporteerd door %2$d personen als %1$s.</string>
   <string name="mark_number_feedback">Rappoteren</string>
@@ -271,18 +273,19 @@ Controleer het volg nummer.</string>
   <string name="miuishare_account_login_ok">Aanmelden</string>
   <string name="miuishare_account_need_activate">Weibo delen vereist dat uw Weibo account gekoppeld is aan uw Xiaomi account, die is momenteel niet actief. Uw account activeren?</string>
   <string name="miuishare_account_need_login">Weibo delen vereist dat uw Weibo account gekoppeld is aan uw Xiaomi account, die momenteel is aangemeld. Aanmelden om nu te delen?</string>
+  <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">Kon niet verbinden met netwerk</string>
   <string name="miuishare_publish">Verzenden</string>
   <string name="miuishare_share_done">Verzenden gelukt.</string>
   <string name="miuishare_share_editor_title">Delen</string>
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Alle kortingsbonnen</string>
   <string name="more_express_numbers">Meer expressnummers</string>
   <string name="navigation_search_all_cities">Alle Steden</string>
   <string name="navigation_search_automatically_positioned_city">Huidige stad</string>
-  <string name="navigation_search_default_hint">Locaties zoeken</string>
   <string name="navigation_search_hot_cities">Populair</string>
   <string name="navigation_search_no_city_list">Geen stadsgegevens gevonden!</string>
   <string name="navigation_search_positioning">Locatie zoeken…</string>
@@ -337,7 +340,6 @@ Controleer het volg nummer.</string>
   <string name="quick_yellow_page_tab_phones">Telefoon</string>
   <string name="recharge_actual_price">Prijs:</string>
   <string name="recharge_charge_range">Prijs: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">Prijs: RMB %s</string>
   <string name="recharge_follow_name">Opwaarderen</string>
   <string name="recharge_history">Opwaardeergeschiedenis</string>
   <string name="recharge_history_empty">Leeg</string>

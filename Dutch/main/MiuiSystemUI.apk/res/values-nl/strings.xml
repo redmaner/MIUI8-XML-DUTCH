@@ -21,6 +21,7 @@
   <string name="accessibility_data_three_bars">Gegevens: drie streepjes.</string>
   <string name="accessibility_data_two_bars">Gegevens: twee streepjes.</string>
   <string name="accessibility_home">Startpagina</string>
+  <string name="accessibility_ime_switch_button">Switch input method button.</string>
   <string name="accessibility_managed_profile">Werkprofiel</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">Geen gegevens.</string>
@@ -171,8 +172,8 @@
   <string name="invalid_charger">Opladen via USB niet ondersteund.Gebruik alleen de bijgeleverde oplader.</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Weergeven</string>
+  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
-  <string name="lockscreen_carrier_default">Geen bereik</string>
   <string name="long_screenshot_not_support_msg">Huidige app ondersteunt geen scrollende schermafdrukken.</string>
   <string name="long_screenshot_out_of_memory_error">Afbeelding is te groot</string>
   <string name="long_screenshot_processing">Verwerken…</string>
@@ -192,6 +193,10 @@
   <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Ja</string>
+  <string name="nav_guide_cancel">Afwijzen</string>
+  <string name="nav_guide_message">U kunt na het instellen gebaren gebruiken om de schermknop te verbergen/weer te geven.</string>
+  <string name="nav_guide_ok">Instellingen</string>
+  <string name="nav_guide_title">Schermknoppen verbergen</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Geen meldingen</string>
   <string name="no_weather_description">Weerinformatie verkrijgen &gt;</string>
@@ -224,7 +229,7 @@
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Verbonden</string>
   <string name="quick_settings_connecting">Verbinden</string>
-  <string name="quick_settings_done">Klaar</string>
+  <string name="quick_settings_done">Gereed</string>
   <string name="quick_settings_more_settings">Meer instellingen</string>
   <string name="quick_settings_wifi_detail_empty_text">Geen Wi-Fi netwerken beschikbaar</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
@@ -294,6 +299,7 @@ d MMMM"</string>
   <string name="status_bar_settings_signal_meter_disconnected">Geen internetverbinding</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Verbonden via Wi-Fi</string>
   <string name="status_bar_style_settings">Meldingen</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">Appvergrendeling inschakelen</string>
   <string name="title_usb_accessory">USB accessoire</string>
   <string name="torch_activity_hint">Houd de HOME toets ingedrukt op het vergrendelscherm om de zaklamp in te schakelen</string>

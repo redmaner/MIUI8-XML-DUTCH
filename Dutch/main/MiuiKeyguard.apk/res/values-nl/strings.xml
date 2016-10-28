@@ -3,7 +3,7 @@
   <string name="accessibility_enter_lock_wallpaper">Tik om achtergrond carrousel te openen</string>
   <string name="click_to_enter_text">Tik om weer te geven</string>
   <string name="confirm_pin_msg">PIN opnieuw invoeren</string>
-  <string name="default_lockscreen_unlock_hint_text">Veeg omhoog om te ontgrendelen</string>
+  <string name="custom_lock_wallpaper_enter">Invoeren</string>
   <string name="delete">Verwijderen</string>
   <string name="emergency_call_string">Noodoproep</string>
   <string name="experimental_try_string">Probeer</string>
@@ -15,9 +15,9 @@
   <string name="experimental_validate_username">Gebruikersnaam</string>
   <string name="experimental_validate_warning">Dank u voor het helpen MIUI beter te maken!</string>
   <string name="find_device_turn_off_flight_mode">Schakel de vliegmodus uit</string>
-  <string name="fingerprint_enter_second_psw_msg">Na herstart tweede ruimte wachtwoord invoeren om vingerafdruk herkenning te kunnen gebruiken</string>
-  <string name="fingerprint_enter_second_psw_title">Tweede ruimte wachtwoord invoeren</string>
-  <string name="fingerprint_lockout_msg">Wacht een minuut, probeer dan opnieuw te ontgrendelen met uw vingerafdruk</string>
+  <string name="fingerprint_enter_second_psw_msg">Na herstart wachtwoord tweede ruimte invoeren om vingerafdrukherkenning te kunnen gebruiken</string>
+  <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
+  <string name="fingerprint_lockout_msg">Wacht een minuut en probeer dan opnieuw te ontgrendelen met uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om uw apparaat te ontgrendelen, voer uw wachtwoord in.</string>
   <string name="fingerprint_not_identified_title">Voer wachtwoord in</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw</string>
@@ -37,8 +37,8 @@
   <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
-  <string name="lock_wallpaper_learn_more">Meer leren &gt;</string>
-  <string name="lock_wallpaper_see_more">Meer weergeven &gt;</string>
+  <string name="lock_wallpaper_enter">Enter</string>
+  <string name="lock_wallpaper_learn_more">Meer</string>
   <string name="lockscreen_access_pattern_cell_added">Mobiel netwerk toegevoegd</string>
   <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
@@ -62,6 +62,7 @@ Probeer het opnieuw over %d seconden.</string>
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
   <string name="phone_locked_timeout_minutes_string">Probeer opnieuw binnen %s minuten</string>
   <string name="phone_locked_timeout_seconds_string">Probeer opnieuw binnen %s seconden</string>
+  <string name="symbol_colon">:</string>
   <string name="unlock_sim_string">OK</string>
   <string name="unlock_string">Ontgrendelen</string>
   <string name="unlocking_sim_card">SIM kaart ontgrendelen</string>

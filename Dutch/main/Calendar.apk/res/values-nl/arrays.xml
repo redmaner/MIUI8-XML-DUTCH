@@ -44,34 +44,17 @@
         <item>Alleen deze afspraak</item>
         <item>Alle afspraken in de reeks</item>
     </string-array>
-	<string-array name="quick_response_defaults">
-        <item>Ik ben een paar minuten later.</item>
-        <item>Ik ben er over 10 minuten.</item>
-        <item>Begin maar alvast zonder mij.</item>
-        <item>Sorry, ik kan er niet bij zijn. We moeten een nieuwe afspraak maken.</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Altijd</item>
-        <item>Alleen indien stil</item>
-        <item>Nooit</item>
+	<string-array name="summary_card_text_chain">
+        <item>[Abonneer] Abonneren op uw agenda functies of diensten</item>
+        <item>[Abonneer] Om uw eigen exclusieve Mi kalender aan te passen</item>
+        <item>[Inschrijven] Voor uw aangepaste kalender functies en diensten</item>
+        <item>[Inschrijven] Vond andere kalender functies en diensten</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparant</item>
         <item>Witte achtergrond</item>
     </string-array>
 	<string-array name="miui_reminder_minutes_labels">
-        <item>Geen herinnering</item>
-        <item>0 minuten</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>30 minuten</item>
-        <item>1 uur</item>
-        <item>1 dag</item>
-        <item>2 dagen</item>
-        <item>1 week</item>
-    </string-array>
-	<string-array name="miui_preferences_default_reminder_labels">
         <item>Geen herinnering</item>
         <item>0 minuten</item>
         <item>5 minuten</item>
@@ -174,5 +157,10 @@
         <item>Nooit</item>
         <item>Na een bepaalde datum</item>
         <item>Na een bepaald aantal keer</item>
+    </string-array>
+	    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen indien stil</item>
+        <item>Nooit</item>
     </string-array>
 </resources>

@@ -33,6 +33,7 @@
   <string name="all">Alle</string>
   <string name="all_ep">Alle ep</string>
   <string name="all_episode">Alle episodes</string>
+  <string name="already_buy_vip">vip reeds aangekocht</string>
   <string name="app_charging_wifi_mode">Opladen om app te updaten</string>
   <string name="app_charging_wifi_mode_summary">App automatisch updaten wanneer u verbonden bent met Wi-Fi en tijdens opladen</string>
   <string name="app_latest_version">Geen updates beschikbaar</string>
@@ -100,8 +101,11 @@
   <string name="debug_mode_desc">App uitvoeren in debug mode en toon video id in de linkerbovenhoek</string>
   <string name="declaration">Servicevoorwaarden</string>
   <string name="declaration_allow">Akkoord</string>
+  <string name="declaration_content">"1. By using this application including Sohu Video, iQiyi and other content providers' service，you are agreeing to "&lt;a href="http://www.miui.com/res/doc/eula.html"&gt;User Agreement&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html"&gt;Privacy Policy&lt;/a&gt;".
+2. To improve your user experience, we'll collect some data about your device and the content you watch. Sohu and iQiyi will also collect your device's IMEI.&amp;#8203;
+3. Our HD Vvideo plug-in will be installed automatically.
+4. This application needs to connect to the internet to work normally."</string>
   <string name="declaration_content_td_custom">Deze app heeft een internetverbinding nodig om goed te kunnen werken</string>
-  <string name="defaults">Standaard</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_action_text">Verwijder (%d)</string>
   <string name="delete_addon">Verwijderen</string>
@@ -118,6 +122,7 @@
   <string name="disk_volume">Verwijderbare opslag</string>
   <string name="dlna_list_name">DLNA toestel</string>
   <string name="dlna_name">Gedeeld toestel</string>
+  <string name="do_not_buy_vip">vip niet aankopen</string>
   <string name="douban_score">Score</string>
   <string name="download">Downloaden</string>
   <string name="download_add_success">Toegevoegd aan downloadwachtrij</string>
@@ -126,6 +131,7 @@
   <string name="download_file_fail">Lokale toegang tot bestanden is mislukt, misschien is er geen ruimte op de SD-kaart</string>
   <string name="download_finished">Voltooid</string>
   <string name="download_geturl_fail">Kan URL niet laden</string>
+  <string name="download_insufficient_space">Niet genoeg ruimte</string>
   <string name="download_is_in_tasklist">In wachtrij</string>
   <string name="download_paused">Gepauzeerd</string>
   <string name="download_percent_hint">Downloaden %d%%</string>
@@ -151,17 +157,20 @@
   <string name="error_empty_live_favor">Geen collectie of TV kanalen</string>
   <string name="error_empty_title">Er liep iets mis</string>
   <string name="expire_time">Vervaltijd</string>
+  <string name="expired_buy_vip">vip is verlopen</string>
   <string name="favorite">Favoriet</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Bestandsfout</string>
   <string name="file_not_exist">Dit bestand bestaat niet</string>
   <string name="filter">Filter</string>
   <string name="finish_install">Installeren gelukt</string>
+  <string name="font_family">miui</string>
   <string name="forecast">Voorspelling</string>
   <string name="forecast_empty_hint">Leeg</string>
   <string name="forecasts">EPG</string>
   <string name="fullscreen">Volledig scherm</string>
   <string name="funshion">Funshion</string>
+  <string name="go_to_cinema">ga naar cinema</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">%d totaal</string>
   <string name="gong_count_ji">%d Ep. totaal</string>
@@ -227,13 +236,13 @@
   <string name="no_longer_tips">Niet meer weergeven</string>
   <string name="no_pay_record">Geen betalingsverslag</string>
   <string name="no_sdcard_no_download">Niet genoeg opslagruimte.</string>
+  <string name="no_vip_product">Ondersteun de vip diensten niet</string>
   <string name="not_buy_vip">Geen vip</string>
   <string name="not_exist_openid">Account info verkrijgen, wachten…</string>
   <string name="not_login">Niet aangemeld</string>
-  <string name="notification_default_title">Offline video</string>
   <string name="notification_sub_title">Totaal %d download taak(en) voltooid</string>
   <string name="notification_ticker_text">Offline video download voltooiing</string>
-  <string name="notification_title">\"%s\" download voltooiing</string>
+  <string name="notification_title">\"%1$s\" download voltooiing</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Afsluiten</string>
   <string name="nowifi_alert_dialog_message">Dit kan uw mobiele dataverbruik aanzienlijk verhogen.</string>
@@ -336,6 +345,7 @@
   <string name="share_device">Gedeeld apparaat</string>
   <string name="similar">Gelijkaardig</string>
   <string name="sina">Sina</string>
+  <string name="single_pay">eenmalige betaling</string>
   <string name="sniff">Bron</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">Bron fout</string>
@@ -400,7 +410,9 @@
   <string name="video_plugin">Video plug in</string>
   <string name="video_plugin_downloading">Downloaden…</string>
   <string name="video_plugin_prepare">Een momentje…</string>
+  <string name="video_vip">vip</string>
   <string name="vip_package">Vip pakket</string>
+  <string name="vip_rights">Vip rechten en interesses</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Kan geen netwerkverbinding maken</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Uw apparaat ondersteunt dit type bestand niet.</string>
@@ -464,7 +476,7 @@
   <string name="vp_mplayer_error_timed_out">Operatie timed out</string>
   <string name="vp_newest_ep">Nieuw</string>
   <string name="vp_next_ci">Volgende</string>
-  <string name="vp_notify_apk_installed">%1$s app met succes geïnstalleerd</string>
+  <string name="vp_notify_apk_installed">App met succes geïnstalleerd</string>
   <string name="vp_offline">Offline</string>
   <string name="vp_offline_status_done">Gedaan</string>
   <string name="vp_offline_status_dowloading">Downloaden</string>

@@ -5,7 +5,6 @@
   <string name="account_unactivated">Account niet geactiveerd</string>
   <string name="all_resources">Alle</string>
   <string name="app_name">Thema</string>
-  <string name="apply_default_font_tip">Huidige systeemlettertype behouden?</string>
   <string name="apply_font_btn_exclude">Toepassen zonder lettertype</string>
   <string name="apply_font_btn_reboot">Herstarten</string>
   <string name="apply_font_tip">Herstart uw apparaat om het lettertype toe te passen.</string>
@@ -21,13 +20,12 @@
   <string name="browser_local_resource">Lokale bronnen</string>
   <string name="change_host_hint">Host veranderen</string>
   <string name="change_wallpaper">Achtergrond wijzigen</string>
-  <string name="choose_new_themes">"Thema's"</string>
   <string name="close">Sluiten</string>
   <string name="component_backup_preference_title">Thema back-uppen</string>
   <string name="component_category_finest_title">Uitgelicht</string>
   <string name="component_category_more_title">Meer</string>
-  <string name="component_title_ringtone">Beltoon</string>
-  <string name="component_title_wallpaper">Achtergrond</string>
+  <string name="component_title_ringtone">Beltonen</string>
+  <string name="component_title_wallpaper">Achtergronden</string>
   <string name="current_using_desktop_wallpaper_text">Startscherm</string>
   <string name="current_using_lockscreen_wallpaper_text">Vergrendelscherm</string>
   <string name="deleting">Verwijderen…</string>
@@ -40,8 +38,8 @@
   <string name="description_version">Versie</string>
   <string name="description_version_szie">Versie: %1$s Grootte: %2$s</string>
   <string name="desktop_wallpaper">Achtergrond</string>
-  <string name="dev_options">DEV OPTIES</string>
-  <string name="dev_options_summary">Web Resource</string>
+  <string name="dev_options">Ontwikkelaarsopties</string>
+  <string name="dev_options_summary">Web resources</string>
   <string name="download_failed">Download mislukt</string>
   <string name="download_preview_failed">Voorbeelden laden mislukt</string>
   <string name="download_success">Download voltooid</string>
@@ -97,6 +95,10 @@
   <string name="lockscreen_wallpaper">Achtergrond vergrendelscherm</string>
   <string name="lockstyle_personal_settings">Aanpassen</string>
   <string name="mi_wallpaper">MIUI achtergrond</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">De beltoon is terzelfde tijd toegepast op SIM kaart 1 en SIM kaart 2.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Begrepen</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">Niet meer weergeven</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Compatibiliteitsproblemen</string>
   <string name="my_gifts">Geschenken</string>
   <string name="my_gifts_purchased">Gekocht</string>
   <string name="my_gifts_received">Ontvangen</string>
@@ -105,12 +107,12 @@
   <string name="online_search_hint">Zoeken naar online bronnen</string>
   <string name="present_local_themes">Gedownload</string>
   <string name="present_online_themes">Verkrijg meer gratis thema\'s</string>
-  <string name="provision_default_theme_title">Standaard</string>
   <string name="provision_loading_tips">Een momentje…</string>
   <string name="provision_second_title">Selecteer een van de vijf standaard thema\'s</string>
   <string name="provision_title">Kies een thema</string>
   <string name="purchased_list">Aangekocht</string>
-  <string name="purchased_list_format">$1$s gekocht</string>
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Legacy themes</string>
   <string name="reload">Probeer opnieuw</string>
   <string name="resource_account_abnormal_state">Accountfout, probeer het later opnieuw.</string>
   <string name="resource_account_fail_to_add">Kan account niet toevoegen</string>
@@ -118,7 +120,6 @@
   <string name="resource_account_login_before_action">Log in met uw Xiaomi Account</string>
   <string name="resource_account_login_title">Inloggen</string>
   <string name="resource_account_switch">Account wisselen</string>
-  <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Bronnen Browser</string>
   <string name="resource_apply">Toepassen</string>
   <string name="resource_apply_trial">Uitproberen</string>
@@ -140,7 +141,6 @@
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Reactie toevoegen</string>
   <string name="resource_comment_edit_comment_waiting">Geschiedenis controleren…</string>
-  <string name="resource_comment_edit_text_default">Schrijf een reactie</string>
   <string name="resource_comment_edit_title">Bewerk reactie: %1$s</string>
   <string name="resource_comment_entry_tips">Reacties (%1$s)</string>
   <string name="resource_comment_expand_full_text">Alle tekst weergeven▼</string>
@@ -148,7 +148,6 @@
   <string name="resource_comment_good_comments">Positief</string>
   <string name="resource_comment_invalid">Tik op sterren om te beoordelen</string>
   <string name="resource_comment_loading_list">Een momentje…</string>
-  <string name="resource_comment_name_default">Gebruiker %1$s</string>
   <string name="resource_comment_no_average_score">Geen score</string>
   <string name="resource_comment_no_comment">Geen reacties</string>
   <string name="resource_comment_publish">Verzenden</string>
@@ -164,8 +163,7 @@
   <string name="resource_comment_upload_not_logined">Eerst inloggen</string>
   <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string>
   <string name="resource_continue">Volgende</string>
-  <string name="resource_default">Standaard beltoon</string>
-  <string name="resource_default_name">Bron</string>
+  <string name="resource_data_empty">Deze inhoud is leeg.</string>
   <string name="resource_delete">Verwijderen</string>
   <string name="resource_delete_all">%1$d geselecteerde bronnen verwijderen?</string>
   <string name="resource_delete_confirm">Weet u zeker dat u deze bronnen wilt verwijderen?</string>
@@ -179,7 +177,6 @@
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Dezelfde auteur</string>
   <string name="resource_detail_recommend_desiner_other_themes">Andere thema\'s ontworpen door %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">"%1$s thema\'s"</string>
   <string name="resource_detail_recommend_other_themes">Gebruikers vonden dit ook leuk</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_vertical_divider">|</string>
@@ -229,7 +226,6 @@
   <string name="resource_no_match_app">Geen app gevonden om deze actie te hanteren.</string>
   <string name="resource_no_network_text">Kan geen verbinding maken met netwerk.</string>
   <string name="resource_no_result">Kan niets vinden</string>
-  <string name="resource_notification_default">Meldingen</string>
   <string name="resource_on_trial">Uitproberen: %1$s</string>
   <string name="resource_online">Online</string>
   <string name="resource_pack_confirm">"Ondanks dat u al %1$d items heeft aangeschaft in dit thema, is het goedkoper om de hele bundel aan te schaffen."</string>
@@ -241,13 +237,15 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit">Mi Credits</string>
+  <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer opnieuw</string>
+  <string name="resource_purchase_continue_to_pay">Doorgaan met betalen van %s</string>
   <string name="resource_purchase_getting_order">Bestellingsinfo verkrijgen…</string>
   <string name="resource_purchase_verifying_payment">Betalingsinfo verifiëren…</string>
+  <string name="resource_purchase_vip_pay_failed">Kon VIP niet betalen</string>
   <string name="resource_purchase_waiting_payment">Wachten op betalingsinfo…</string>
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betaald</string>
-  <string name="resource_ringtone_default">Beltonen</string>
   <string name="resource_ringtone_playing_error">Fout</string>
   <string name="resource_ringtone_volume_mute">Beltoonvolume gedempt</string>
   <string name="resource_save_to_note">Opslaan naar notities</string>
@@ -330,7 +328,7 @@
   <string name="theme_component_title_boot_audio">Opstartmuziek</string>
   <string name="theme_component_title_clock">Klok</string>
   <string name="theme_component_title_contact">Kiezerthema</string>
-  <string name="theme_component_title_font">Lettertype</string>
+  <string name="theme_component_title_font">Lettertypes</string>
   <string name="theme_component_title_framework">Randen</string>
   <string name="theme_component_title_icon">Iconen</string>
   <string name="theme_component_title_launcher">Launcher</string>
@@ -346,7 +344,6 @@
   <string name="theme_component_title_wallpaper">Achtergronden</string>
   <string name="theme_current_using_has_update">Er is een update voor het thema dat u momenteel gebruikt</string>
   <string name="theme_description_title_customized">Aangepast</string>
-  <string name="theme_description_title_default">Standaard</string>
   <string name="theme_empty_redirect">Terug naar Thema Winkel</string>
   <string name="theme_favorite_add_fail">Kon niet toevoegen aan favorieten</string>
   <string name="theme_favorite_add_success">Toegevoegd aan favorieten</string>
