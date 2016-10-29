@@ -16,8 +16,8 @@
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
   <string name="access_control_need_to_unlock">"Scan met vingerafdruk
-of voer app vergrendelingswachtwoord in"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Voer app vergrendelingswachtwoord in</string>
+of voer wachtwoord voor appvergrendeling in"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Voer wachtwoord voor appvergrendeling in</string>
   <string name="access_control_recording_intro_header">Teken een patroon om appvergrendeling toe te voegen</string>
   <string name="access_control_reset_by_account">Meld u aan bij uw Mi account om wachtwoord voor appvergrendeling te resetten</string>
   <string name="action_button_text_100">Optimaliseren</string>
@@ -114,7 +114,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="apps_item_sign_dialog_content">"%s's handtekening is verschillend van de versie in de App Store. Deze app verwijderen en de officiele versie installeren? Let op: een app met een conflicterende handtekening kan leiden tot gegevensverlies."</string>
   <string name="apps_item_sign_dialog_title">Installeer officiele app</string>
   <string name="apps_item_sign_install_button_text">Vervangen</string>
-  <string name="apps_item_sms_default_set_success">Met sucees ingesteld</string>
+  <string name="apps_item_sms_default_set_success">Met sucess ingesteld</string>
   <string name="apps_item_sms_reset_button_text">Standaardwaarden herstellen</string>
   <string name="apps_item_sms_title">Standaard berichteninstellingen</string>
   <string name="apps_item_summary_sms">%s heeft toegang tot uw berichten, het zou veiligheidsproblemen kunnen veroorzaken</string>
@@ -142,7 +142,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="auto_task_condition_time_pick_title">Timer instellen</string>
   <string name="auto_task_condition_time_text">Op %s</string>
   <string name="auto_task_dialog_button_close">Voltooid</string>
-  <string name="auto_task_edit_abandon_change">Wijzigen ongedaan maken?</string>
+  <string name="auto_task_edit_abandon_change">Wijzigingen ongedaan maken?</string>
   <string name="auto_task_edit_activity_title">Mijn automatische taken</string>
   <string name="auto_task_edit_adandon_button_text">Afwijzen</string>
   <string name="auto_task_edit_choose_condition_title">Conditie selecteren</string>
@@ -153,7 +153,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="auto_task_edit_my_custom_task">Naam</string>
   <string name="auto_task_edit_operation_summary">Voorbeeld, \"Schakel vliegmodus in\"</string>
   <string name="auto_task_edit_task_name">Naam</string>
-  <string name="auto_task_main_summary">Wijzig systeeminstellingen voor bepaalde periodes of tijd of volgens het batterij niveau</string>
+  <string name="auto_task_main_summary">Wijzig systeeminstellingen voor bepaalde tijdsperiodes of op basis van het batterijniveau</string>
   <string name="auto_task_main_title">Automatische taken</string>
   <string name="auto_task_mamange_activity_title">Instellingen</string>
   <string name="auto_task_manage_delete_prompt">Geselecteerde taken verwijderen?</string>
@@ -169,7 +169,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="auto_task_operation_airplane_mode">Vliegmodus</string>
   <string name="auto_task_operation_auto_brightness">Automatische helderheid</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
-  <string name="auto_task_operation_brightness">Scherm helderheid</string>
+  <string name="auto_task_operation_brightness">Schermhelderheid</string>
   <string name="auto_task_operation_close">Uit</string>
   <string name="auto_task_operation_close_string">%s uitschakelen</string>
   <string name="auto_task_operation_gps">GPS</string>
@@ -276,7 +276,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="button_text_cleanup">Opruimen</string>
   <string name="button_text_clear">Opruimen</string>
   <string name="button_text_create_shortcut">Snelkoppeling maken op startscherm</string>
-  <string name="button_text_delete_from_virus_white_list">Verwijdern</string>
+  <string name="button_text_delete_from_virus_white_list">Verwijderen</string>
   <string name="button_text_deny">Afwijzen</string>
   <string name="button_text_disconnect_now">Verbinding verbreken</string>
   <string name="button_text_fix">Herstellen</string>
@@ -342,8 +342,8 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="choose">Kies</string>
   <string name="clean_immediately">Wissen</string>
   <string name="cleaned">Gewist</string>
-  <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'sen andere nutteloze items</string>
-  <string name="clear_garbage">Vuilnisbak opruimen om ruimte vrij te maken</string>
+  <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere nutteloze items</string>
+  <string name="clear_garbage">Prullenbak opruimen om ruimte vrij te maken</string>
   <string name="clear_immediately">Nu opruimen</string>
   <string name="close">Sluiten</string>
   <string name="cmcc_app_check_dialog_message">Herstart je apparaat om herstel te voltooien.</string>
@@ -792,7 +792,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="never">1 maal</string>
   <string name="news_change">Wijzigen</string>
   <string name="next_step_button">Volgende</string>
-  <string name="no_network">Kon niet verbinden mer netwerk, probeer later opnieuw</string>
+  <string name="no_network">Kon niet verbinden met netwerk, probeer later opnieuw</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="none_mi_service_app_detail">Leeg</string>
   <string name="notification_battery_consume_abnormal_summary">%2$s van de batterij gebruikt in de afgelopen %1$d minuten</string>
@@ -1038,7 +1038,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="pref_specified_adjust">Aangepast datalimiet instellen</string>
   <string name="pref_specified_traffic_settings">Instellingen datalimiet</string>
   <string name="pref_summary_lock_screen_memory_clean">Automatisch opruimen nadat apparaat is vergrendeld</string>
-  <string name="pref_summary_virus_white_list">Voorkomt dat geselecteerde apps opgeruimd worden</string>
+  <string name="pref_summary_virus_white_list">Voorkomen dat geselecteerde apps opgeruimd worden</string>
   <string name="pref_title_declaration">Belangrijke voorwaarden</string>
   <string name="pref_title_diagnostics_show_float_notification">Zwevende meldingen</string>
   <string name="pref_title_lock_screen_memory_clean">Opruimen op vergrendelscherm</string>
@@ -1048,7 +1048,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="pref_title_traffic_limit_number">Aantal MB</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Meldingen dataverbruik</string>
-  <string name="pref_title_virus_white_list">Uitzondereingen</string>
+  <string name="pref_title_virus_white_list">Uitzonderingen</string>
   <string name="pref_version">Versie %s</string>
   <string name="pref_warning_values">Waarschuwing bij</string>
   <string name="pref_whitelist_setting">Uitzonderingen beheren</string>
@@ -1187,7 +1187,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="set_applock_password">Wachtwoord instellen</string>
   <string name="set_immediately">Instellen</string>
   <string name="seton_immediately">Inschakelen</string>
-  <string name="setting_privacy_password">App vergrendelwachtwoord instellen</string>
+  <string name="setting_privacy_password">Wachtwoord voor appvergrendeling instellen</string>
   <string name="settings">Instellingen dataverbruik</string>
   <string name="settings_battery_consume_abnormal_summary">Meldingen ontvangen wanneer batterij snel leegloopt</string>
   <string name="settings_battery_consume_abnormal_title">Meldingen wanneer batterij snel leegloopt</string>
@@ -1222,7 +1222,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="sp_empty_title_sign_exception">Lang drukken op de app in de resultaten pagina om aan uitzonderingen toe te voegen</string>
   <string name="sp_monitored_apps_count_zero">Geen enkele betalingsapp is beveiligd</string>
   <string name="sp_monitored_apps_list_title">Monitorinstellingen</string>
-  <string name="sp_network_privacy_dialog_message">Beveiligings app kan de betalingen niet controleren omdat u een beperkte internetverbinding hebt. Beveiliging toelaten om te verbinden met internet?</string>
+  <string name="sp_network_privacy_dialog_message">Beveiligingsapp kan de betalingen niet controleren omdat u een beperkte internetverbinding hebt. Beveiliging toelaten om te verbinden met internet?</string>
   <string name="sp_network_privacy_dialog_title">Kan betalingen niet controleren</string>
   <string name="sp_safe_score_text">Betaling is veilig</string>
   <string name="sp_scan_item_monitor">Betalingen controleren</string>
@@ -1257,7 +1257,7 @@ of voer app vergrendelingswachtwoord in"</string>
   <string name="suffix_virus_count_top">"Risico's"</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="summary_app_lock_disable">Bescherm uw data met appvergrendeling</string>
-  <string name="summary_auto_update">MIUI zal de meest geschikte tijd om te downloaden en installeren van updates selecteren.</string>
+  <string name="summary_auto_update">MIUI zal de meest geschikte tijd kiezen om updates te downloaden en te installeren.</string>
   <string name="summary_cleaner_cloudscan">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_cloud_account">Haal het meeste uit uw Mi apparaat</string>
   <string name="summary_cloud_service">"Sync. uw foto's, contactpersonen en meer op al uw apparaten"</string>
