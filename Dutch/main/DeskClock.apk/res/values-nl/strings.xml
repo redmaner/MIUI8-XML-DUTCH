@@ -30,11 +30,9 @@
   <string name="common_settings">Instellingen</string>
   <string name="confirm_abort">Weggooien</string>
   <string name="control_set_alarm">Wekker instellen</string>
+  <string name="control_set_alarm_with_existing">Alarm instellen: %s</string>
   <string name="day">1 dag</string>
   <string name="days">%s dagen</string>
-  <string name="default_alarm_alert">Standaardbeltoon instellen</string>
-  <string name="default_alarm_title">Standaardbeltoon</string>
-  <string name="default_label">Wekker</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_alarm">Wekker verwijderen</string>
   <string name="delete_alarm_confirm">Geselecteerde wekker(s) verwijderen?</string>
@@ -46,8 +44,11 @@
   <string name="edit_systemtime">Systeemtijd bewerken</string>
   <string name="every_day">Elke dag</string>
   <string name="force_touch_add_alarm">Alarm toevoegen</string>
+  <string name="force_touch_enter_stopwatch">Stopwatch</string>
+  <string name="force_touch_enter_timer">Timer</string>
   <string name="full_wday_month_day_no_year">EEEE d MMMM</string>
   <string name="hour">1 uur</string>
+  <string name="hour_unit">Hr +</string>
   <string name="hours">%s uur</string>
   <string name="keep_screen_on">Scherm aanlaten</string>
   <string name="label">Label instellen</string>
@@ -99,6 +100,7 @@
   <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
   <string name="stopwatch_title">Stopwatch</string>
   <string name="system_time_setting">Tijdsinstellingen</string>
+  <string name="time">Tijd</string>
   <string name="timer_alarm_cancel_pad">Tik op het scherm om het alarm te stoppen</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer gestopt na %d minuten.</string>
@@ -119,6 +121,8 @@
   <string name="tomorrow">morgen</string>
   <string name="turn_off_a_repeat_alarm">Een herhaald alarm uitschakelen</string>
   <string name="turn_off_this_repeat_alarm">Dit herhaald alarm uitschakelen</string>
+  <string name="upcoming_alarm"> Volgende wekker</string>
+  <string name="upcoming_alarm_hint">U kan deze wekker op voorhand afsluiten</string>
   <string name="vibrate_pref_summary">Trillen bij alarm</string>
   <string name="vibrate_when_ringing">Trillen bij beltoon</string>
   <string name="volume_button_setting_summary">"Stel functionaliteit van volumeknoppen tijdens alarm in</string>

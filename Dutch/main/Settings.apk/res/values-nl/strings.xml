@@ -222,7 +222,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_link_open_never">Niet openen in deze app</string>
   <string name="app_list_memory_use">Appgebruik</string>
   <string name="app_list_preference_none">Geen</string>
-  <string name="app_lock_role_instruction">Bescherm uw privé apps</string>
   <string name="app_memory_use">Geheugengebruik</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
@@ -346,7 +345,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="band_mode_succeeded">Geslaagd</string>
   <string name="band_mode_title">GSM/UMTS band instellen</string>
   <string name="baseband_version">Smalbandversie</string>
-  <string name="batch_delete_saved_network">Opgeslagen netwerk verwijderen: %s?</string>
+  <string name="batch_delete_saved_network">Geselecteerde netwerk verwijderen: %s?</string>
+  <string name="batch_delete_saved_networks">Alle geselecteerde netwerken verwijderen</string>
   <string name="battery_action_app_details">Appinfo</string>
   <string name="battery_action_app_settings">Appinstellingen</string>
   <string name="battery_action_bluetooth">Bluetooth-instellingen</string>
@@ -652,6 +652,24 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bootloader_apply_step_4">Het kan leiden tot de bekendmaking of verlies van data of zelfs onherstelbare schade aan de hardware.</string>
   <string name="bootloader_apply_step_5">Zorg ervoor dat je weet hoe je fastbootmodus moet gebruiken voordat u deze inschakelt.</string>
   <string name="bootloader_apply_title">Belangrijke waarschuwing</string>
+  <string name="bootloader_device_bind_already">Met succes toegevoegd. Mi Account is nu gekoppeld met dit apparaat.</string>
+  <string name="bootloader_device_bind_fail">Kon niet verifiëren, wacht en minuutje of twee en probeer opnieuw</string>
+  <string name="bootloader_device_bind_msg">Voorbereiden om account en apparaat toe te voegen…</string>
+  <string name="bootloader_device_bind_no_account">Eerst op uw Mi Account aanmelden</string>
+  <string name="bootloader_device_bind_no_network">Verbind met het netwerk en probeer opnieuw</string>
+  <string name="bootloader_locked_answer_1">We vergrendelen apparaten om ervoor te zorgen dat ze veilig zijn en uw persoonlijke informatie niet aan derden bekendgemaakt wordt. Als u in Fastboot modus gaat en uw apparaat flashed, kunt u het ontgrendelen.</string>
+  <string name="bootloader_locked_answer_1_warning">"Vergeet niet: U zult niet in staat \ "Apparaat vinden \" te gebruiken. Nadat de telefoon ontgrendeld is".</string>
+  <string name="bootloader_locked_answer_2">"Tik op de onderstaande knop om uw Mi Account te koppelen aan dit apparaat Ga dan naar MIUI website om de ontgrendel tool te downloaden en te installeren op uw computer Hier is het adres:"</string>
+  <string name="bootloader_locked_check_status">Account en apparaat toevoegen</string>
+  <string name="bootloader_locked_question_1">Waarom zouden apparaten vergrendeld moeten worden?</string>
+  <string name="bootloader_locked_question_2">Ik versta de risico\'s, maar wil nog steeds mijn apparaat ontgrendelen.</string>
+  <string name="bootloader_status">Mi ontgrendel status</string>
+  <string name="bootloader_status_locked">Locked</string>
+  <string name="bootloader_status_locked_info">Dit apparaat is vergrendeld</string>
+  <string name="bootloader_status_locked_summary">De telefoon is beveiligd</string>
+  <string name="bootloader_status_summary">Controleer of uw apparaat vergrendeld is</string>
+  <string name="bootloader_status_unlocked">Ontgrendeld</string>
+  <string name="bootloader_status_unlocked_info">Dit apparaat is ontgrendel</string>
   <string name="bootloader_summary">Flash uw apparaat via USB</string>
   <string name="breathing_light_color_menu_title">Kleur licht</string>
   <string name="breathing_light_color_summary">Kleur licht bij een nieuwe melding</string>
@@ -812,7 +830,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
    <string name="confirm_privacy_password">Voer privacy wachtwoordbeveiliging in</string>
   <string name="confirm_privacy_password_fingerprint">Scan vingerafdruk of voer privacy wachtwoordbeveiliging in</string>
-  <string name="confirm_privacy_password_instruction">Dit wachtwoord beveiligt apps, berichten, foto\'s, en contacten.</string>
+  <string name="confirm_privacy_password_instruction">Dit wachtwoord beveiligt berichten, foto\'s en contacten.</string>
   <string name="confirm_reset_aaid">Ok</string>
   <string name="connect_to_internet">Maak verbinding met het internet</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
@@ -1004,6 +1022,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="date_time_auto">Automatische tijd en datum</string>
   <string name="date_time_auto_summaryOff">Netwerktijd gebruiken</string>
   <string name="date_time_auto_summaryOn">Netwerktijd gebruiken</string>
+  <string name="date_time_date_format">Kies datum notatie</string>
   <string name="date_time_set_date">Datum instellen</string>
   <string name="date_time_set_date_title">Datum</string>
   <string name="date_time_set_time">Tijd instellen</string>
@@ -1242,7 +1261,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="enable_service_password_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw wachtwoord bevestigen.</string>
   <string name="enable_service_pattern_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw patroon bevestigen.</string>
   <string name="enable_service_pin_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw PIN bevestigen.</string>
-  <string name="enable_service_title">%1$s gebruiken?</string>
+  <string name="enable_service_title">De service zal deze acties uitvoeren:</string>
   <string name="enable_snapshot_screenlock">Lang drukken op Terug om een foto te nemen</string>
   <string name="enable_terminal_summary">Terminal app inschakelen die lokale shelltoegang biedt</string>
   <string name="enable_terminal_title">Lokale terminal</string>
@@ -1415,7 +1434,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="free_wifi_connect_summary">Tik om te verbinden met %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi beschikbaar</string>
   <string name="free_wifi_connected">Verbonden met gratis Wi-Fi</string>
-  <string name="free_wifi_connected_count">%1$s gebruikers verbonden</string>
+  <string name="free_wifi_connected_count">%1$s personen verbonden</string>
   <string name="free_wifi_connected_time">Duur: %1$s</string>
   <string name="free_wifi_connecting">Verbinden…</string>
   <string name="free_wifi_login_again">Log opnieuw in</string>
@@ -1501,7 +1520,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
@@ -1567,12 +1585,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="incoming_call_volume_title">Beltoon</string>
   <string name="information_dialog_button_text">Verstaan</string>
   <string name="input_method_selector_always_hide_title">Altijd verbergen</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Altijd weergeven</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatisch</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Instellingen</string>
   <string name="input_method_settings_button">Instellingen</string>
   <string name="input_methods_and_subtype_enabler_title">Actieve invoermethode selecteren</string>
@@ -2083,6 +2097,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="multi_touch_points_preference">Herstart is nodig</string>
   <string name="music_audio_effect_optimize">Audio instellingen</string>
   <string name="music_audio_effect_optimize_summary">Dirac, koptelefoon en andere audio instellingen</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD geluid, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_settings">Audio effect instellingen</string>
   <string name="music_dirac_control">Optimaliseer audio kwaliteit</string>
@@ -2107,6 +2122,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dolby_mode_off">Uit</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_equalizer_summary">Pas individueel niveau aan voor verschillende soorten muziek</string>
+  <string name="music_hd_title">HD audio geluid</string>
   <string name="music_headphone_settings">Kies type koptelefoon</string>
   <string name="music_headset_button_settings">Knoppen toewijzen</string>
   <string name="music_headset_calibrate">Knoppen toewijzen</string>
@@ -2126,7 +2142,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_headset_settings">Koptelefoon &amp; geluidseffecten</string>
   <string name="music_hifi_summary">Verminder ruis en vervorming en verhoog audiokwaliteit.</string>
   <string name="music_hifi_title">HiFi audio</string>
-  <string name="music_hifi_volume">HiFi volume</string>
   <string name="music_mi_effect_summary">Gebruik Mi geluidsversterker bij gebruik van koptelefoon</string>
   <string name="music_mi_effect_title">Mi geluidsversterker</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
@@ -2600,7 +2615,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="preferred_network_type_title">Voorkeursnetwerktype</string>
   <string name="preferred_sms_settings">Deze app zal worden ingesteld als de standaard app voor het lezen van en maken van SMS berichten.</string>
   <string name="preferred_sms_title">Standaard berichtenapp</string>
-  <string name="preferred_sms_warning_message">Gebruikt \"%1$s\" als standaard berichten app kan het mobiele dataverbruik verhogen of gevaar opleveren voor de veiligheid van uw privé gegevens.</string>
+  <string name="preferred_sms_warning_message">Gebruikt \"%1$s\" als standaard berichten app kan het mobiele dataverbruik verhogen of gevaar opleveren voor de veiligheid van uw privé gegevens en u kan RCS niet gebruiken</string>
   <string name="preferred_sms_warning_use_system">Niet gebruiken</string>
   <string name="print_blocked_state_title_template">%1$s geblokkeerd door printer</string>
   <string name="print_cancel">Annuleren</string>
@@ -2652,7 +2667,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_password_fingerprint_dialog_message">Plaats uw vinger op de sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan uw vingerafdruk</string>
   <string name="privacy_password_settings">Gebruik privacy wachtwoordbeveiliging</string>
-  <string name="privacy_password_settings_titles">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden, notities en apps.</string>
+  <string name="privacy_password_settings_titles">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden en notities.</string>
   <string name="privacy_password_title">Privacy wachtwoordbeveiliging</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Patroon weergeven</string>
@@ -2910,8 +2925,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_key_press_action">Trigger functie</string>
   <string name="screen_locking_sounds_title">Schermvergrendelingsgeluiden</string>
   <string name="screen_never_timeout_title">Nooit slapen</string>
-  <string name="screen_on_proximity_sensor_summary">Telefoon kan niet worden ontgrendeld wanneer hij in je broekzak zit</string>
-  <string name="screen_on_proximity_sensor_title">Voorkom broekzakgesprekken</string>
+  <string name="screen_on_proximity_sensor_summary">Aanraak gebaren vergrendelen wanneer de telefoon in de broekzak wordt geplaats</string>
+  <string name="screen_on_proximity_sensor_title">Broekzak modus</string>
   <string name="screen_optimize">Contrast</string>
   <string name="screen_paper_mode_adjust_level">Sterkte</string>
   <string name="screen_paper_mode_apps_loading">Een momentje…</string>
@@ -2999,7 +3014,7 @@ Om schermpinning te gebruiken:
   <string name="sdcard_unmount">USB opslag ontkoppelen</string>
   <string name="se_route_ese">Ingebed beveiligde element</string>
   <string name="se_route_uicc">Beveiligd element op SIM kaart</string>
-  <string name="se_wallet_ese">Mi Wallet laat u toe om  Mi Pay en NFC als transport kaart te gebruiken.</string>
+  <string name="se_wallet_ese">Mi Pay en NFC transport kaart</string>
   <string name="se_wallet_hce">HCE Wallet gebruiken</string>
   <string name="search_about">"Over telefoon;Model nummer;Android versie;MIUI versie;CPU;RAM;Intern geheugen;Baseband versie;Kernel versie;Bouw nummer"</string>
   <string name="search_accelerometer">Scherm automatisch draaien;Scherm draaien;Orientatie;Portret;Landschap</string>
@@ -3021,7 +3036,7 @@ Om schermpinning te gebruiken:
   <string name="search_app_switch_key">Recente;Recent;Menu;Knopmenu;Taakbeheerder</string>
   <string name="search_application_lock">App vergrendeling</string>
   <string name="search_application_settings">Geïnstalleerde apps</string>
-   <string name="search_back_key">Terug;Terug knop;Terug knop</string>
+  <string name="search_back_key">Terug;Terug knop;Terug knop</string>
   <string name="search_battery">Batterij &amp; prestatie;Batterij en prestatie;Batterij;Prestatie;Batterij bespaarder;Batterij besparen</string>
   <string name="search_battery_indicator">Batterij indicatie</string>
   <string name="search_bluetooth">Bluetooth;Zichtbaar</string>
@@ -3757,7 +3772,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="touch_sensitive_title">Handschoenmodus</string>
   <string name="touch_sensitive_turn_off_cancel">Annuleren</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Wilt u de broekzakgesprekken modus uitschakelen?</string>
+  <string name="touch_sensitive_turn_off_summary">Broekzak modus uitschakelen?</string>
   <string name="touch_sensitive_turn_off_title">Handschoenmodus is uitgeschakeld</string>
   <string name="touch_sounds_title">Aanraakgeluiden</string>
   <string name="touch_title">Handschoenmodus</string>
@@ -4183,8 +4198,6 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wait_for_debugger_summary">Gedebugde app wacht op koppelen van debugger voor uitvoering</string>
   <string name="wakeup_for_keyguard_notification_title">Scherm ontwaken voor meldingen</string>
   <string name="wallpaper_attributions">Achtergronden</string>
-  <string name="wallpaper_attributions_values">"Satellietbeelden providers:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Startscherm</string>
   <string name="wallpaper_live">Live achtergrond</string>
   <string name="wallpaper_lockscreen">Vergrendelscherm</string>

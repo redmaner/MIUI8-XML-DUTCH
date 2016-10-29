@@ -25,14 +25,20 @@
   <string name="currency_update_time_format">Wisselkoersen worden geleverd door hexun.com (%s)</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">dag</string>
+  <string name="del">DEL</string>
   <string name="divDesc">delen</string>
+  <string name="dot">.</string>
   <string name="dotDesc">punt</string>
+  <string name="e">e</string>
   <string name="eDesc">constante van Neper</string>
   <string name="equalDesc">is gelijk aan</string>
   <string name="error">Fout</string>
   <string name="error_fomrat">Formaatfout</string>
   <string name="factorialDesc">faculteit</string>
+  <string name="from_num">100</string>
+  <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometer per uur</string>
+  <string name="from_unit_short">km/h</string>
   <string name="item_title_aa_payment">De rekening delen</string>
   <string name="item_title_area_conversion">Gebied</string>
   <string name="item_title_calculator">Calculator</string>
@@ -48,8 +54,11 @@
   <string name="item_title_vel_conversion">Snelheid</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Massa</string>
+  <string name="leftParen">(</string>
   <string name="leftParenDesc">linkerhaakje</string>
+  <string name="lg">lg</string>
   <string name="lgDesc">logaritme</string>
+  <string name="ln">ln</string>
   <string name="lnDesc">natuurlijk logaritme</string>
   <string name="loan_edittext_hint_commercial">Bedrag invoeren</string>
   <string name="loan_edittext_hint_commercial_combined">Commercieel</string>
@@ -59,6 +68,7 @@
   <string name="loan_interest_rate">Rente</string>
   <string name="loan_pay_years">Loonperiode</string>
   <string name="loan_payback_way">Terugbetaling</string>
+  <string name="loan_unit">×10K</string>
   <string name="minusDesc">min</string>
   <string name="mortgage_amount">Totaal</string>
   <string name="mortgage_average_repayment_first_month">Terugbetaling eerste maand</string>
@@ -94,11 +104,14 @@
   <string name="mulDesc">vermenigvuldigen</string>
   <string name="network_confirm_content">"Valuta, belastingen en hypotheek berekenen heeft een werkende netwerkverbinding en toegang tot locatieservices nodig om normaal te werken."</string>
   <string name="network_confirm_title">Toestemmingen vereist</string>
+  <string name="plusDesc">plus</string>
   <string name="powerDesc">macht</string>
   <string name="rate_data_provider">Rentetarieven worden geleverd door hexun.com</string>
   <string name="rightParenDesc">rechterhaakje</string>
+  <string name="sin">sin</string>
   <string name="sinDesc">sinus</string>
   <string name="sqrtDesc">vierkantswortel</string>
+  <string name="tan">tan</string>
   <string name="tanDesc">tangens</string>
   <string name="tax_accumulation_fund">Accumulatiefonds</string>
   <string name="tax_annual_bonus_hint">Voer uw bonus in voor belasting</string>
@@ -235,7 +248,10 @@
   <string name="unit_data_display_weight_uk.cwt">UK hundredweight</string>
   <string name="unit_data_display_weight_uk.st">Stone</string>
   <string name="unit_data_display_weight_us.cwt">US hundredweight</string>
+  <string name="unit_myriads">×10K</string>
+  <string name="unit_percentage">%</string>
   <string name="unit_year">J</string>
   <string name="unit_year_format">Jaar %s</string>
+  <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Financiële karakters</string>
 </resources>

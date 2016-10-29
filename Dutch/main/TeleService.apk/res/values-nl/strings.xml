@@ -47,7 +47,6 @@
   <string name="apn_settings">Namen toegangspunten</string>
   <string name="area_code_preference_be_set_summary">Huidige locatie: %s</string>
   <string name="area_code_preference_summary">Automatisch regiocode kiezen</string>
-  <string name="areacode_set_default">Standaard</string>
   <string name="atr_disable">Verkeersberichten uitgeschakeld</string>
   <string name="atr_enable">Verkeersberichten ingeschakeld</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -102,6 +101,7 @@
   <string name="bad_puk">De ingevoerde PUK code is fout.</string>
   <string name="bad_puk2">De ingevoerde PUK2 code is fout.</string>
   <string name="bf_news_settings">Zakelijk en financieel nieuws</string>
+  <string name="callFailed_call_rejected"/>
   <string name="callFailed_cb_enabled">Kan geen uitgaande gesprekken maken terwijl het blokkeren van oproepen is ingeschakeld.</string>
   <string name="callFailed_cdma_activation">"Een SIM kaart heeft uw service geactiveerd en de roamingmogelijkheden van uw telefoon geupdatet.</string>
   <string name="callFailed_congestion">Netwerk is bezet</string>
@@ -130,9 +130,11 @@
   <string name="callFailed_userBusy">Lijn bezet</string>
   <string name="callUnanswered_forwarded">Oproep onbeantwoord en doorgeschakeld</string>
   <string name="call_advanced_setting_title">Geavanceerde instellingen</string>
-  <string name="call_background_default">Standaard</string>
   <string name="call_background_lock_wallpaper">Vergrendelscherm achtergrond</string>
   <string name="call_background_setting">Oproep achtergrond</string>
+  <string name="call_barring">Oproepen blokkeren</string>
+  <string name="call_barring_incoming">Inkomende oproepen blokkeren</string>
+  <string name="call_barring_outgoing">Uitgaande gesprekken geblokkeerd</string>
   <string name="call_barring_sum">Gespreksblokkering instellingen</string>
   <string name="call_description_recording">Oproep opnemen…</string>
   <string name="call_forwarding_number_hint">Oproepen doorschakelen naar</string>
@@ -235,8 +237,7 @@
   <string name="cfnrc_title_cta">Doorschakelen bij onbereikbaar</string>
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
   <string name="cfu_title">Gesprekken altijd doorschakelen</string>
-  <string name="change_default_data_card">Standaard mobiele data SIM</string>
-  <string name="change_default_data_card_summary">Het lijkt erop dat je van SIM kaarten gewisseld hebt. Deze kaart instellen als uw standaard SIM kaart voor uw mobiele dataverbinding?</string>
+  <string name="change_data_preference_4g_only_prompt">Het lijkt er op dat u enkel een 4G SIM kaart hebt. Instellen als standaard voor mobiele data?</string>
   <string name="change_num">Bijwerken</string>
   <string name="change_password">Verander wachtwoord voor afbuigen</string>
   <string name="change_pin">SIM PIN code wijzigen</string>
@@ -244,7 +245,6 @@
   <string name="chose_product_summary">Bel goedkoper</string>
   <string name="chose_product_title">Pakket herladen</string>
   <string name="clir_choices_hide_number">Verberg nummer</string>
-  <string name="clir_choices_network_default">Netwerkstandaard</string>
   <string name="clir_choices_show_number">Toon nummer</string>
   <string name="close_dialog">Ok</string>
   <string name="close_profile">Sluiten</string>
@@ -253,7 +253,6 @@
   <string name="command_error_fdn_failure">U dient eerst de PDN uit te schakelen</string>
   <string name="common_problem_message">Leer meer in %1$s, of bel onze klantenservice op 400-100-5678</string>
   <string name="common_setting">Algemene instellingen</string>
-  <string name="config_default_data_sim">Instellingen</string>
   <string name="confirmPin2Label">Nieuwe PIN2 bevestigen</string>
   <string name="confirmPinLabel">Nieuwe PIN bevestigen</string>
   <string name="confirm_password_label">Nieuwe wachtwoord bevestigen</string>
@@ -265,7 +264,6 @@
   <string name="connect_disconnect_vibrate_title">Trillen bij een beantwoord gesprek</string>
   <string name="connect_disconnect_vibrate_weak">Licht</string>
   <string name="connect_later">Kan nu geen verbinding maken met dit netwerk. Probeer het later opnieuw.</string>
-  <string name="connection_service_default_label">Ingebouwde verbindingsdienst</string>
   <string name="contactAddFailed">Kan contactpersoon niet toevoegen aan SIM kaart.</string>
   <string name="contactAddSuccess">Contactpersoon toegevoegd aan SIM kaart.</string>
   <string name="contactPhoto">contactfoto</string>
@@ -282,10 +280,6 @@
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
   <string name="deactivate_all">Alles annuleren</string>
-  <string name="default_area_code_setting">Standaard regiocode</string>
-  <string name="default_areacode">Standaard regiocode</string>
-  <string name="default_notification_description">Standaard geluid (%1$s)</string>
-  <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteAllSimEntries">Alle SIM contacten verwijderen</string>
   <string name="deleteSimContacts">SIM contacten verwijderen</string>
@@ -353,6 +347,7 @@
   <string name="emergency_enable_radio_dialog_title">Noodoproep</string>
   <string name="empty_alert">%s is verplicht en kan niet leeg zijn</string>
   <string name="empty_networks_list">Geen netwerken gevonden.</string>
+  <string name="enable">Inschakelen</string>
   <string name="enable_antispam_strange_summary">Hiermee dempt u het eerste belsignaal voor oproepen van onbekende nummers</string>
   <string name="enable_antispam_strange_title">Demp eerste belsignaal</string>
   <string name="enable_disable_administrative">Beheer</string>
@@ -514,6 +509,7 @@
   <string name="ivr_type_cu_1">China Unicom 3G</string>
   <string name="ivr_type_cu_2">China Unicom 4G</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
+  <string name="ivr_type_settings">Data plan instellingen</string>
   <string name="ivr_type_settings_hint">Voer dataplancode in</string>
   <string name="labelCDMAMore">CDMA oproepinstellingen</string>
   <string name="labelCF">Oproep doorschakelen</string>
@@ -587,7 +583,7 @@ om herlaadpakket te beginnen te gebruiken"</string>
   <string name="livetalk_next_step">Volgende</string>
   <string name="livetalk_package_introduction_text">"Goedkope gesprekken naar iedere telefoon
 Herlaad en start met bellen"</string>
-<string name="livetalk_package_name">Balans herladen</string>
+  <string name="livetalk_package_name">Balans herladen</string>
   <string name="livetalk_provider">Aangeboden door %1$s</string>
   <string name="livetalk_provision">Algemene Voorwaarden</string>
   <string name="livetalk_provision_content">Je moet akkoord gaan met %1$s om het herlaadpakket beginnen te gebruiken . Om deze dienst te gebruiken, moet u aangesloten zijn op internet. Een normale SMS kan van uw telefoon worden gestuurd worden om de dienst te activeren. Akkoord?</string>
@@ -612,6 +608,7 @@ Herlaad en start met bellen"</string>
   <string name="local_weather_enable">Lokaal weerbericht ingeschakeld</string>
   <string name="lodgings_disable">Overnachtingen uitgeschakeld</string>
   <string name="lodgings_enable">Overnachtingen ingeschakeld</string>
+  <string name="login_account_button_text">Aanmelden</string>
   <string name="maintenance_disable">Onderhoud uitgeschakeld</string>
   <string name="maintenance_enable">Onderhoud ingeschakeld</string>
   <string name="manageConferenceLabel">Groepsgesprekken beheren</string>
@@ -649,10 +646,8 @@ Herlaad en start met bellen"</string>
   <string name="mobile_network_settings_not_available">Mobiele netwerkinstellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="mobile_networks">Mobiele netwerkinstellingen</string>
   <string name="msim_apn_not_set">Niet ingesteld</string>
-  <string name="msim_default_setting">Standaard instellingen</string>
   <string name="msim_disable_sim_card_btn_text">Ok</string>
-  <string name="msim_disable_sim_card_summary_default_card">"Deze kaart is momenteel ingesteld als uw standaard SIM kaart. Als u stopt met het gebruik ervan, zal je niet in staat om te bellen of gebruik maken van uw mobiele dataverbinding. U kunt deze SIM kaart stoppen nadat u een andere SIM kaart als standaard hebt ingesteld."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Het kan zijn dat je niet in staat bent om te bellen of gebruik maken van uw mobiele dataverbinding. Stoppen met  %s SIM-kaart te gebruiken?</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Uw secundaire SIM in noodoproepmodus niet beperken.</string>
   <string name="msim_disable_sim_card_title">Stoppen met SIM kaart te gebruiken</string>
   <string name="msim_enable_sim">Inschakelen</string>
   <string name="msim_general_setting">Instellingen</string>
@@ -665,7 +660,6 @@ Herlaad en start met bellen"</string>
   <string name="msim_not_set_summary">Niet ingeschakeld</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Kiezen</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC kaart fout</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Kan niet tijdens een gesprek ingesteld worden</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kaartfout</string>
@@ -720,11 +714,11 @@ Voorkeursnetwerk wordt gebruikt."</string>
   <string name="networks_title">Mobiele netwerken</string>
   <string name="newPin2Label">Nieuwe PIN2</string>
   <string name="newPinLabel">Nieuwe PIN</string>
-  <string name="no_balance_message">Niet genoeg saldo op uw herlaadpakket om te gebruiken. U kan proberen om een normale oproep te maken.</string>
-  <string name="no_balance_title">Saldo ontoereikend</string>
   <string name="new_password_label">Nieuw wachtwoord (4 cijfers)</string>
   <string name="new_pin2_label">Nieuwe PIN 2</string>
   <string name="new_pin_label">Nieuwe PIN</string>
+  <string name="no_balance_message">Niet genoeg saldo op uw herlaadpakket om te gebruiken. U kan proberen om een normale oproep te maken.</string>
+  <string name="no_balance_title">Saldo ontoereikend</string>
   <string name="no_call_barring">Oproepen blokkeren is uitgeschakeld</string>
   <string name="no_change">Er zijn geen wijzigingen aangebracht.</string>
   <string name="no_data">Geen data</string>
@@ -789,7 +783,6 @@ Voorkeursnetwerk wordt gebruikt."</string>
   <string name="operator_mins_first">Voorrang geven aan provider abbonement</string>
   <string name="operator_mins_first_close">Uitschakelen</string>
   <string name="operator_remain_mins">Provider pakket minuten</string>
-  <string name="operator_remain_mins_value">%1$s minuten</string>
   <string name="optional_summary">&lt;Optioneel&gt;</string>
   <string name="order_by_recent">Frequentie</string>
   <string name="order_id">Bestellings ID: %1$s</string>
@@ -902,7 +895,6 @@ U hebt nog %d pogingen over."</string>
   <string name="preference_category_ringtone">Beltoon en trillen</string>
   <string name="preference_data_usage_summary">Stel uw dataplan in om het verbruik aan mobiele data te controleren</string>
   <string name="preference_data_usage_title">Dataplan instellen</string>
-  <string name="preference_dial_pad_touch_tone_default">Standaard</string>
   <string name="preference_dial_pad_touch_tone_off">Uit</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianotoetsen</string>
   <string name="preference_dial_pad_touch_tone_title">Kiestoetsen geluiden</string>
@@ -1038,7 +1030,6 @@ U hebt nog %d pogingen over."</string>
   <string name="respond_via_sms_cannot_empty">Weiger berichten kunnen niet leeg zijn</string>
   <string name="respond_via_sms_confirmation_format">Bericht verzonden naar %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Snelle reactie</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Standaardwaarden herstellen</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Snelle reacties</string>
   <string name="response_error">Onverwachte reactie van netwerk.</string>
@@ -1102,7 +1093,6 @@ U hebt nog %d pogingen over."</string>
   <string name="sim_card_summary_no_sim_card">Voer AUB de SIM kaart in</string>
   <string name="sim_contact_name">Naam</string>
   <string name="sim_contact_number">Nummer</string>
-  <string name="sim_description_default">SIM kaart, slot: %s</string>
   <string name="sim_description_emergency_calls">Alleen noodoproepen</string>
   <string name="sim_label_emergency_calls">Noodoproepen</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
@@ -1158,7 +1148,6 @@ U hebt nog %d pogingen over."</string>
   <string name="sum_cfu_enabled_no_number">Het telefoonnummer is niet beschikbaar</string>
   <string name="sum_cw_disabled">Inkomende oproepen melden als ik aan het bellen ben</string>
   <string name="sum_cw_enabled">Inkomende oproepen melden als ik aan het bellen ben</string>
-  <string name="sum_default_caller_id">Gebruik de standaard operatorinstellingen om mijn nummer bij uitgaande oproepen weer te geven</string>
   <string name="sum_fdn">Vas nummers beheren</string>
   <string name="sum_fdn_change_pin">PIN code voor FDN toegang wijzigen</string>
   <string name="sum_fdn_manage_list">Telefoonnr. lijst beheren</string>
@@ -1234,7 +1223,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="title_purchase">Herladen</string>
   <string name="title_rates">Tarieven</string>
   <string name="title_user_config">SIM kaart activeren</string>
-  <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="top_up_first">Eerst herladen</string>
   <string name="transport_title">Transporttype</string>
   <string name="tty_mode_not_allowed_video_call">TTY modus veranderen is niet toegestaan tijdens een video-oproep</string>
@@ -1258,6 +1246,7 @@ Het herlaadpakket gebruiken?"</string>
   <string name="use_current_account_creat_livetalk_button">Gebruiken</string>
   <string name="use_history">Activiteit</string>
   <string name="use_history_duration_min">%1$s minuten</string>
+  <string name="use_range">Bereik</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD code uitvoeren…</string>
   <string name="ussd_dialog_sep">----------</string>
@@ -1273,10 +1262,10 @@ Het herlaadpakket gebruiken?"</string>
   <string name="voice_report_incoming_call">Bellen</string>
   <string name="voice_report_unknown_num">Onbekend nummer</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">Uw provider</string>
+  <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
   <string name="voicemail_notification_ringtone_title">Geluid</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Trillen</string>
-  <string name="voicemail_notification_vibrate_when_default">nooit</string>
+  <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
   <string name="voicemail_notification_vibrate_when_title">Trillen</string>
   <string name="voicemail_number_not_set">Niet ingesteld</string>
   <string name="voicemail_provider">Dienst</string>

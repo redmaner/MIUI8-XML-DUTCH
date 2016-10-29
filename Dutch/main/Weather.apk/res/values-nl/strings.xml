@@ -36,6 +36,7 @@
   <string name="button_exit">Afsluiten</string>
   <string name="button_not_allow">Annuleren</string>
   <string name="button_sure_abandon">Wijzigingen ongedaan maken?</string>
+  <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="close">Sluiten</string>
   <string name="commercial">Reclame</string>
   <string name="common_loading_text">Een momentje…</string>
@@ -43,17 +44,18 @@
   <string name="daily_forcast_drawer_on_top">Weersverwachting voor %1$s dagen</string>
   <string name="daily_forcast_no_stable_direction">Geen wind</string>
   <string name="daily_forcast_whirl_wind">Wervelwind</string>
-  <string name="daily_forecast_detail_date">d/M</string>
   <string name="edit_alert_city_title">Alarmen beheren</string>
   <string name="edit_city">Bewerken</string>
   <string name="first_start_network_msg">Deze app moet verbonden zijn met internet en toegang hebben tot uw locatie om normaal te werken.</string>
   <string name="first_start_network_title">Internetverbinding en locatietoegang</string>
   <string name="gps_hint">Huidige locatie</string>
   <string name="hide_topic">Verbergen</string>
+  <string name="hour_minute_time_format">mm:HH</string>
   <string name="hourly_forcast_now">Nu</string>
   <string name="hourly_forecast_title">Weersverwachting per uur</string>
   <string name="index_item_install_now">Nu installeren</string>
   <string name="indices_desc_feel">Gevoelstemperatuur %1$s°C</string>
+  <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Vochtigheid %1$s%%</string>
   <string name="indices_no_restriction">Geen</string>
   <string name="indices_title">Aanbevolen activiteiten</string>
@@ -64,14 +66,18 @@
   <string name="indices_title_pressure">Luchtdruk</string>
   <string name="indices_title_restriction">Wegruimte</string>
   <string name="indices_title_sport">Sport</string>
+  <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Zichtbaarheid</string>
   <string name="information_manager_information">Weerinfo</string>
   <string name="information_manager_wlan">Laden wanner verbonden met Wi-Fi</string>
   <string name="information_set">Starten met paginainstellingen</string>
+  <string name="information_time_source">%1$s | %2$s</string>
   <string name="install">Installeren</string>
   <string name="international_detail_menu_title">Details</string>
   <string name="international_details_pressure_title">DRUK</string>
   <string name="international_details_real_feel_title">GEVOELSTEMPERATUUR</string>
+  <string name="international_details_title">Details</string>
+  <string name="international_details_uv_index_title">UV INDEX</string>
   <string name="international_details_wind_title">WIND</string>
   <string name="locate_fail_detail_err">"Kan apparaat niet lokaliseren
 Tik op het scherm om handmatig een stad toe te voegen"</string>
@@ -87,7 +93,6 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="open_browser">Openen in browser</string>
   <string name="realtime_aqi_title">Luchtkwaliteitindex</string>
   <string name="realtime_humidity_title">Relatieve vochtigheid</string>
-  <string name="realtime_wind_default_title">Wind</string>
   <string name="refresh_fail">Kon niet verbinden met netwerk</string>
   <string name="retry">Opieuw proberen</string>
   <string name="set">Instellingen</string>

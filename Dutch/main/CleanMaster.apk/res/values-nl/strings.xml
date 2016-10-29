@@ -31,9 +31,10 @@
   <string name="apk_status_install">Geïnstalleerd</string>
   <string name="apk_status_installed_old">Oude versie</string>
   <string name="apk_status_uninstalled">Niet geïnstalleerd</string>
+  <string name="apk_title_alipay_plugin">Alipay plugin</string>
   <string name="app_install_tips_go_to">Openen</string>
   <string name="app_install_tips_install_success">%1$s met succes geïnstalleerd</string>
-  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+  <string name="app_name">JunkEngine</string>
   <string name="apps_sort_type_item_size">Grootte</string>
   <string name="apps_sort_type_item_time">Frequent gebruikt</string>
   <string name="apps_sort_type_title">Sorteren op</string>
@@ -79,6 +80,7 @@
   <string name="button_text_unselect_pic">Deselecteren</string>
   <string name="button_text_view_detail">Details</string>
   <string name="button_text_view_file">Bestand</string>
+  <string name="buy_a_new_phone">Opslag upgrade</string>
   <string name="buy_immediately">Koop</string>
   <string name="buy_traffic_pack">Koop meer data</string>
   <string name="byteShort">B</string>
@@ -150,6 +152,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Opruimer is beschadigd.</string>
   <string name="dialog_msg_stop_scan">Stoppen met afval scannen voordat het klaar is?</string>
   <string name="dialog_msg_uninstall_apps">Deze apps verwijderen?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Deze apps verwijderen?（inclusief gekloonde apps）?</string>
   <string name="dialog_ok_add_white_list_error">Begrepen</string>
   <string name="dialog_title_add_white_list_error">Attentie</string>
   <string name="dialog_title_backup_and_uninstall_apps">Back-uppen en verwijderen</string>
@@ -251,8 +254,6 @@
   <string name="installed">Geïnstalleerd</string>
   <string name="installing">Bezig met installeren</string>
   <string name="item_title_process_mode">Kies een actie</string>
-  <string name="junk_tag_RF_EmptyFolders">Lege mappen</string>
-  <string name="junk_tag_RF_ImageThumbnails">Galerij-thumbnails</string>
   <string name="just_now">Zojuist</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Geen</string>
@@ -309,7 +310,6 @@
   <string name="pref_category_title_garbage_cleanup_check">Meldingen</string>
   <string name="pref_category_title_other_clean_settings">Extra instellingen</string>
   <string name="pref_content_cleanup_white_list_none">Geen</string>
-  <string name="pref_section_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_summary_auto_clean_and_alert">Opruimerschema automatisch laten uitvoeren</string>
   <string name="pref_summary_auto_update_cleanup_db">Laatst bijgewerkt: %s</string>
   <string name="pref_summary_cleanup_white_list">Afval in witte lijst wordt genegeerd</string>
@@ -320,17 +320,15 @@
   <string name="pref_summary_garbage_process_mode">Stel meldingen in wanneer er wordt opgeruimd</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Uploaden en vergelijken van onbekende bestandsnamen met online definities</string>
   <string name="pref_title_apps_cleanup_size">​Wanneer cachegrootte is bereikt</string>
-  <string name="pref_title_auto_clean_and_alert">Automatisch opruimen</string>
   <string name="pref_title_auto_clean_content_choose">Kies items om op te ruimen</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch updaten</string>
   <string name="pref_title_choose_engine">Definities</string>
+  <string name="pref_title_clean_alert">Automatisch opruimen</string>
   <string name="pref_title_cleanup_white_list">Uitzonderingen</string>
   <string name="pref_title_expand_cache_group">Gecachte items weergeven</string>
-  <string name="pref_title_garbage_auto_clean_content">Items om op te ruimen</string>
   <string name="pref_title_garbage_cleanup_check_size">Limiet afvalgrootte</string>
   <string name="pref_title_garbage_cleanup_check_time">Plannen</string>
   <string name="pref_title_garbage_cleanup_size">Limiet afvalgrootte</string>
-  <string name="pref_title_garbage_process_mode">Meldingen</string>
   <string name="pref_title_manual_check_cleanup_db_update">Controleer op updates</string>
   <string name="pref_title_open_optimizer_cloud_scan">Bestandsnamen uploaden</string>
   <string name="pref_title_open_optimizer_memory_scan">Appgeheugen scannen</string>
@@ -375,6 +373,7 @@
   <string name="summary_delete_large_file">Geselecteerde bestanden permanent verwijderen?</string>
   <string name="summary_delete_video">Geselecteerde video\'s permanent verwijderen?</string>
   <string name="summary_optimizer">Deze functie uploadt onbekend mapnamen naar de online database van Cheetah Mobile om die bij te werken en vereist het toestel ID.</string>
+  <string name="sys_cache_on_sdcard_item_name">Caching</string>
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Mapnamen uploaden</string>
   <string name="there_is_no">Ziet er goed uit, kom later terug</string>
@@ -428,9 +427,9 @@
   <string name="total_clean">Totaal opgeruimd: %s</string>
   <string name="total_clean_text">Opruimen</string>
   <string name="traffic_top">TOP 5 dataverbruikende apps</string>
-  <string name="unlike">Nee bedankt</string>
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virusscan</string>
+  <string name="vungle_ad_name">Vungle advertentie</string>
   <string name="white_list_ad_header">Advertentiebestanden: %d</string>
   <string name="white_list_apk_header">Installatiepakketten: %d</string>
   <string name="white_list_cache_header">Gecachete bestanden: %d</string>

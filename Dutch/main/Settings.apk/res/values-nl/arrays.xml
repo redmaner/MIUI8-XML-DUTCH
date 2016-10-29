@@ -483,14 +483,6 @@
         <item>Roze</item>
         <item>Rood</item>
     </string-array>
-     <string-array name="usb_configuration_titles">
-        <item>@string/usb_use_charging_only</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
-        <item>MIDI</item>
-     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Bij voorkeur Wi-Fi</item>
         <item>Bij voorkeur mobiel</item>
@@ -728,6 +720,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
      <string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>
+		<item>Privacy wachtwoord</item>
         <item>Kindermodus</item>
         <item>File Explorer</item>
         <item>Appvergrendeling</item>
@@ -748,7 +741,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Foto\'s</item>
         <item>Bestanden</item>
         <item>Notities</item>
-        <item>Appvergrendeling</item>
         <item>Kindermodus</item>
     </string-array>
 </resources>

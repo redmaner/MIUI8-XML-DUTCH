@@ -38,7 +38,10 @@
   <string name="attach_take_photo">Foto maken</string>
   <string name="attach_video">Videos</string>
   <string name="audio_download_failed">Kon audio niet downloaden</string>
+  <string name="audio_message_expired">Dit spraakbericht is verlopen.</string>
+  <string name="audio_message_mx_offline">Kon audio niet downloaden. Mi Message is offline of niet beschikbaar</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">Geen netwerkverbinding of verkeerde SIM kaart geïnstalleerd. Installeer de SIM kaart vanwaar het bericht verzonden is en verbind met het netwerk.</string>
   <string name="back_to_message_list">Terug naar berichtenlijst</string>
   <string name="batch_adding_progress_message">Toevoegen…</string>
   <string name="batch_delete_confirm_dialog_message">%1$s berichten verwijderen?</string>
@@ -165,6 +168,7 @@
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
   <string name="fake_cell_alert_hint">Het lijkt erop dat dit bericht is verzonden vanaf een telefoonnummer die verschilt met het nummer die wordt getoond. Wees voorzichtig met SMS die financiele verzoeken bevatten.</string>
   <string name="fake_cell_checking_hint">Veiligheid controleren…</string>
+  <string name="fake_cell_detection_entry">Valse basisstation detectie</string>
   <string name="fake_cell_safe_hint">Dit bericht is veilig</string>
   <string name="fake_cell_timeout_hint">Kon veiligheid niet controleren</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
@@ -336,7 +340,6 @@
   <string name="mx_recommend_msg">Druk hier om Mi Message in te schakelen.</string>
   <string name="mx_type_guide">Met Mi Message kan je berichten sturen naar andere MIUI gebruikers zonder kosten</string>
   <string name="need_download">Sync…</string>
-  <string name="network_error">Netwerkfout</string>
   <string name="networking_allow_continue">Ok</string>
   <string name="networking_allow_desc">"Slimme berichten laten u gratis berichten en spraakberichten sturen, onbekende nummers herkennen, spam filteren, enz. Door gebruik te maken van deze service, gaat u akkoord met Xiaomi's %1$s en %2$s. U moet de Gouden Gids inschakelen en verbinding maken met internet om deze dienst te gebruiken."</string>
   <string name="networking_allow_desc_without_mx">"Slimme berichten laten u onbekende nummers herkennen, spam filteren, enz. Door gebruik te maken van deze service, gaat u akkoord met Xiaomi's %1$s en %2$s. U moet de Gouden Gids inschakelen en verbinding maken met internet om deze dienst te gebruiken."</string>
@@ -385,7 +388,7 @@
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
-  <string name="pref_show_sms_template_summary">Automatisch verificatiecodes kopiëren en invullen</string>
+  <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
   <string name="pref_smart_messages_settings">Slimme berichten</string>
   <string name="pref_sms_theme_title">Thema-instellingen</string>
   <string name="pref_summary_allow_si_sl_push">Berichten toestaan om inhoud van websites te laden (SI/SL)</string>
@@ -441,9 +444,9 @@
   <string name="priority_low">Laag</string>
   <string name="priority_normal">Normaal</string>
   <string name="privacy_mode_hint">Kan geen bericht verzenden in Gastmodus</string>
-  <string name="privacy_password_message1">Privacy wachtwoordbeveiliging werkt voor apps, foto\'s, notities, verborgen mappen.</string>
-  <string name="privacy_password_message2">Gebruik privacy wachtwoordbeveiliging. Het werkt voor apps, foto\'s, notities, verborgen mappen.</string>
-  <string name="privacy_password_message3">"Privé berichten wachtwoord zal vervangen worden ddor Privacy wachtwoordbeveiliging die werkt voor apps, foto\'s, notities, verborgen mappen."</string>
+  <string name="privacy_password_message1">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen.</string>
+  <string name="privacy_password_message2">Gebruik privacy wachtwoordbeveiliging. Het werkt voor foto\'s, notities, verborgen mappen.</string>
+  <string name="privacy_password_message3">Wachtwoord voor berichten zal vervangen worden door privacy wachtwoordbeveiliging die werkt voor foto\'s, notities, verborgen mappen.</string>
   <string name="privacy_password_set_password">Instellen</string>
   <string name="privacy_password_title1">Wachtwoord instellen</string>
   <string name="privacy_password_title2">Gebruik privacy wachtwoordbeveiliging</string>

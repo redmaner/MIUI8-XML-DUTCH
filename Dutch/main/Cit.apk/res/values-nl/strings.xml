@@ -46,9 +46,9 @@ Draai het apparaat zodat de hoofdtelefooningang naar beneden is gericht. Spreek 
   <string name="cit_audio_loopback_dualmic_earpiece_title">Omgevingsgeluidreductie test</string>
   <string name="cit_audio_loopback_next">Volgende</string>
   <string name="cit_audio_loopback_previous">Vorige</string>
-  <string name="cit_audio_loopback_summary_dualmic">Omgevingsgeluidreductie test 
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Omgevingsgeluidreductie test
 
-Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw stem horen met minder ruis op de achtergrond afgespeeld door de koptelefoon.</string>
+Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw stem horen met minder ruis op de achtergrond afgespeeld door de koptelefoon"</string>
   <string name="cit_battery_temp_fail">Temperatuur van de batterij is niet normaal (temp=%d)</string>
   <string name="cit_battery_temp_pass">Temperatuur van de batterij is normaal</string>
   <string name="cit_batterylight_blue">Blauw</string>
@@ -195,10 +195,10 @@ Bij het kalibreren, zorg ervoor dat er niets tussen de sensor en je hand zit (bi
   <string name="cit_sd_mount_sucess">SD kaart gekoppeld</string>
   <string name="cit_sd_mp3_not_existed">"Er is geen bestand op de SD kaart met de naam \" MUSIC.mp3 \ "
 Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u op het scherm om te spelen."</string>
-  <string name="cit_sd_plug_check_summary">Deze test zal de SD kaart status detecteren, aansluiten en verwijder de SD kaart één keer</string>
-  <string name="cit_sd_plug_check_title">SD kaart (detectie)</string>
   <string name="cit_sd_plugged_in">SD kaart gedetecteerd, verwijder SD kaart nu</string>
   <string name="cit_sd_plugged_out">SD kaart is verwijderd, plaats de SD kaart nu</string>
+  <string name="cit_sd_plugin_check_summary">De tekst \"SD kaart gedetecteerd, Sd kaart nu verwijderen\" zou onderaan moeten worden weergegeven.</string>
+  <string name="cit_sd_plugin_check_title">SD kaart (detectie)</string>
   <string name="cit_sd_plugout_check_summary">Wanneer u de SD kaart verwijdert, zou de tekst \ "de SD kaart is verwijderd, plaatst de SD kaart nu \" hieronder moet worden weergegeven.</string>
   <string name="cit_sd_plugout_check_title">SD kaart (verwijdering)</string>
   <string name="cit_sd_unmount">Koppel SD kaart los</string>

@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="__leak_canary_analysis_failed">Lekanalyse is mislukt</string>
   <string name="__leak_canary_class_has_leaked">%s is gelekt</string>
@@ -117,6 +117,7 @@
   <string name="baby_name_contain_invalidate_char">"Naam kan '%s' niet bevatten"</string>
   <string name="baby_name_reserved">Deze naam is gereserveerd voor een ander album</string>
   <string name="baby_nick_name">Roepnaam</string>
+  <string name="baby_sexy">Geslacht</string>
   <string name="baby_suffix">baby</string>
   <string name="backup_automatically_summary">Foto\'s en video\'s op alle apparaten back-uppen naar Mi Cloud. U kunt gemakkelijk foto\'s en video\'s bladeren, sorteren, bewerken en delen op alle apparaten.</string>
   <string name="backup_automatically_title">Automatisch back-uppen</string>
@@ -165,6 +166,7 @@
   <string name="cloudfolder_name_cannot_empty">Geef de album een naam</string>
   <string name="cloudfolder_name_reserved">Deze albumnaam is voorbehouden</string>
   <string name="collaps_people">Verbergen</string>
+  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Momenten</string>
   <string name="confirm">Ok</string>
   <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -196,7 +198,6 @@
   <string name="custom_select_title_select_all">Alles selecteren</string>
   <string name="custom_select_title_select_item">Selecteer items</string>
   <string name="debugging_tip">Debuggegevens genereren</string>
-  <string name="default_album_name">Nieuw album</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_album_failed">Kon album niet verwijderen</string>
   <string name="delete_album_msg_format">Album \"%2$s\" verwijderen %1$s %3$s?</string>
@@ -287,6 +288,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="fail_to_pick_email">Ongeldig e-mailadres</string>
   <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerkverbinding.</string>
   <string name="family_member_invitation_text">Ander familielid</string>
+  <string name="fast_share_auto_render">Verfraaien</string>
+  <string name="fast_share_auto_render_finish">Verfraaid</string>
   <string name="filter">Filter</string>
   <string name="filter_a4_aesthetic">Verfijnd</string>
   <string name="filter_clarendon_fresh">Fris</string>
@@ -516,6 +519,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="rename_face_album">Naam wijzigen</string>
   <string name="rename_fail_msg">Kon naam niet wijzigen</string>
   <string name="rename_from_contact">Hernoemen van contacten</string>
+  <string name="renren_description">Provided by RenRen</string>
   <string name="request_qr_code_failed">QR code verzoek mislukt</string>
   <string name="request_sms_url_failed">Informatieverzoek mislukt</string>
   <string name="request_sms_url_msg">Informatie wordt opgevraagd…</string>
@@ -531,15 +535,17 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="scan_barcode_to_join">Scan QR code om een album toe te voegen</string>
   <string name="scan_qr_code_buttom_text">Scan QR code om dit album te bekijken</string>
   <string name="secret_album_display_name">Verborgen album</string>
+  <string name="secret_album_password_first_use_msg">Privacy wachtwoordbeveiliging zal gebruikt worden. Het werkt voor foto\'s, notities, verborgen mappen, enz.</string>
+  <string name="secret_album_password_first_use_title">Privacy wachtwoordbeveiliging</string>
   <string name="secret_album_password_update_dialog_cancel">Annuleren</string>
   <string name="secret_album_password_update_dialog_msg">Galerij zal privacy wachtwoordbeveiliging vanaf nu gebruiken.</string>
   <string name="secret_album_password_update_dialog_ok">Ok</string>
   <string name="secret_album_password_update_dialog_title">Wachtwoord upgraden</string>
-  <string name="secret_album_set_pc_password_dialog_msg">Privacy wachtwoordbeveiliging werkt voor apps, foto\'s, notities, verborgen mappen, enz.</string>
-  <string name="secret_album_set_pc_password_dialog_ok">Wachtwoord instellen</string>
-  <string name="secret_album_set_pc_password_dialog_title">Nieuw wachtwoord instellen</string>
-  <string name="secret_album_set_pc_password_first_use_msg">Privacy wachtwoordbeveiliging zal gebruikt worden. Het werkt voor apps, foto\'s, notities, verborgen mappen, enz.</string>
-  <string name="secret_album_set_pc_password_first_use_title">Privacy wachtwoordbeveiliging</string>
+  <string name="secret_album_password_update_first_user_dialog_msg">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen, enz.</string>
+  <string name="secret_album_password_update_first_user_dialog_title">Wachtwoord upgraden</string>
+  <string name="secret_album_set_pc_password_dialog_msg">Privacy wachtwoordbeveiliging zal gebruikt worden. Het werkt voor foto\'s, notities, verborgen mappen, enz.</string>
+  <string name="secret_album_set_pc_password_dialog_ok">Nieuw wachtwoord instellen</string>
+  <string name="secret_album_set_pc_password_dialog_title">Wachtwoord instellen</string>
   <string name="secret_reason_space_full">Cloud albums zijn vol</string>
   <string name="secret_reason_too_large">Bestand is te groot</string>
   <string name="secret_reason_type_not_support">Dit bestandstype wordt niet ondersteund</string>
@@ -561,6 +567,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="share">Delen</string>
   <string name="share_album">Album delen</string>
   <string name="share_album_needs_auto_upload_tip">Kan back-ups voor gedeelde albums niet uitschakelen</string>
+  <string name="share_app_is_launching">{0,keuze,0#App starten…|1#%s is gestart…}</string>
   <string name="share_by_email_start">Deel %1$s in de achtergrond</string>
   <string name="share_by_email_successfully">%1$s gedeeld</string>
   <string name="share_public_url_text">"Ik heb het album %1$s met u gedeeld. Bekijk het op %2$s"</string>
@@ -570,7 +577,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="slideshow_interval_dialog_title">Interval invoeren</string>
   <string name="slideshow_interval_invalid">Interval moet tussen de 1 en 3600 seconden zijn</string>
   <string name="slideshow_interval_title">Iedere dia weergeven voor</string>
-  <string name="slideshow_interval_value">%1$d seconden</string>
   <string name="slim_after_backuped_summary">Vervang volle-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Volle-resolutie foto\'s zijn nog steeds beschikbaar in Mi Cloud. Dit kan heel wat lokale opslag besparen.</string>
   <string name="slim_after_backuped_title">Lokale opslag optimaliseren na back-ups</string>
   <string name="slim_introduce">Vervang volle-resolutie foto\'s met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Volle-resolutie items zullen nog steeds beschikbaar zijn in Mi Cloud.</string>
@@ -638,11 +644,14 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_audio_none">Geen</string>
   <string name="video_editor_audio_rock">Rock</string>
   <string name="video_editor_audio_sad">Ballad</string>
+  <string name="video_editor_audio_young">Ukulele</string>
   <string name="video_editor_auto_trim">Automatisch trimmen</string>
   <string name="video_editor_auto_trim_tip">Automatisch trimmen…</string>
   <string name="video_editor_cancel">Annuleren</string>
   <string name="video_editor_done">Klaar</string>
+  <string name="video_editor_down_load_later">Later</string>
   <string name="video_editor_down_load_no_wifi_tips">Verbind met Wi-Fi om te downloaden</string>
+  <string name="video_editor_down_load_now">Download</string>
   <string name="video_editor_encode_video">Video coderen…</string>
   <string name="video_editor_encode_video_error">Kon video niet coderen</string>
   <string name="video_editor_fatal_error">Onbekende fout</string>
