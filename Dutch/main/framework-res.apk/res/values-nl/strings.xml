@@ -62,9 +62,7 @@
   <string name="add_account_label">Een account toevoegen</string>
   <string name="aerr_application">%1$s is gestopt.</string>
   <string name="aerr_process">Het proces %1$s is gestopt.</string>
-  <string name="aerr_title"/>
   <string name="allow">Toestaan</string>
-  <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">Standaard gebruiken voor deze actie.</string>
   <string name="anr_activity_application">"%2$s reageert niet.
 
@@ -80,14 +78,10 @@ Wilt u het sluiten?"</string>
   <string name="app_not_found">Er is geen app gevonden om deze actie uit te voeren</string>
   <string name="app_running_notification_text">Raak aan voor meer informatie of om de app te stoppen.</string>
   <string name="app_running_notification_title">%1$s wordt uitgevoerd</string>
-  <string name="autofill_address_name_separator">" "</string>
-  <string name="autofill_address_summary_format">$1$2$3</string>
-  <string name="autofill_address_summary_name_format">$1$2$3</string>
-  <string name="autofill_address_summary_separator">", "</string>
   <string name="autofill_address_type_same_as_re">zelfde als</string>
   <string name="autofill_address_type_use_my_re">gebruik mijn</string>
   <string name="autofill_area">Gebied</string>
-  <string name="autofill_country_re">country|location|国|国家</string>
+  <string name="autofill_country_re">land|locatie|land|locatie</string>
   <string name="autofill_county">Provincie</string>
   <string name="autofill_department">Departement</string>
   <string name="autofill_district">Arrondissement</string>
@@ -95,7 +89,6 @@ Wilt u het sluiten?"</string>
   <string name="autofill_island">Eiland</string>
   <string name="autofill_parish">Gemeente</string>
   <string name="autofill_phone_suffix_re">achtervoegsel</string>
-  <string name="autofill_phone_suffix_separator_re">^-$</string>
   <string name="autofill_postal_code">Postcode</string>
   <string name="autofill_prefecture">Prefectuur</string>
   <string name="autofill_province">Provincie</string>
@@ -129,7 +122,6 @@ Batterij bespaarder wordt automatisch uitgeschakeld wanneer het toestel wordt op
   <string name="capital_on">AAN</string>
   <string name="car_mode_disable_notification_message">Raak aan om de automodus te sluiten.</string>
   <string name="car_mode_disable_notification_title">Automodus ingeschakeld</string>
-  <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} na {2} seconden</string>
   <string name="cfTemplateNotForwarded">{0}: niet doorgeschakeld</string>
   <string name="cfTemplateRegistered">{0}: niet doorgeschakeld</string>
@@ -139,7 +131,6 @@ Batterij bespaarder wordt automatisch uitgeschakeld wanneer het toestel wordt op
   <string name="choose_account_label">Een account selecteren</string>
   <string name="chooser_wallpaper">Achtergrond wijzigen</string>
   <string name="clearDefaultHintMsg">Standaardinstelling wissen via Systeeminstellingen &gt; Apps &gt; Gedownload.</string>
-  <string name="common_last_name_prefixes"/>
   <string name="common_name">Algemene naam:</string>
   <string name="condition_provider_service_binding_label">Conditieprovider</string>
   <string name="configure_input_methods">Kies toetsenbord</string>
@@ -168,8 +159,6 @@ met %s"</string>
   <string name="data_usage_wifi_limit_snoozed_title">Wi-Fi datalimiet overschreden</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi datalimiet bereik</string>
   <string name="date_and_time" formatted="false">%H:%M:%S %-e %b %Y</string>
-  <string name="date_picker_day_of_week_typeface">sans-serif-medium</string>
-  <string name="date_picker_day_typeface">sans-serif-medium</string>
   <string name="date_picker_decrement_day_button">Lagere waarde voor dag</string>
   <string name="date_picker_decrement_month_button">Lagere waarde voor maand</string>
   <string name="date_picker_decrement_year_button">Lagere waarde voor jaar</string>
@@ -177,17 +166,13 @@ met %s"</string>
   <string name="date_picker_increment_day_button">Hogere waarde voor dag</string>
   <string name="date_picker_increment_month_button">Hogere waarde voor maand</string>
   <string name="date_picker_increment_year_button">Hogere waarde voor jaar</string>
-  <string name="date_picker_month_typeface">sans-serif-medium</string>
   <string name="date_picker_next_month_button">Volgende maand</string>
   <string name="date_picker_prev_month_button">Vorige maand</string>
-  <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Klaar</string>
   <string name="date_time_set">Instellen</string>
   <string name="day">dag</string>
   <string name="days">dagen</string>
   <string name="decline">Weigeren</string>
-  <string name="def_wifi_direct_name"/>
-  <string name="def_wifi_wifihotspot_pass"/>
   <string name="delete">Verwijderen</string>
   <string name="deleteText">Verwijderen</string>
   <string name="deleted_key">%1$s verwijderd</string>
@@ -224,8 +209,6 @@ met %s"</string>
   <string name="durationSecond">%1$d sec</string>
   <string name="durationSeconds">%1$d sec</string>
   <string name="editTextMenuTitle">Tekstacties</string>
-  <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-  <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="emailTypeCustom">Aangepast</string>
   <string name="emailTypeHome">Thuis</string>
   <string name="emailTypeMobile">Mobiel</string>
@@ -288,11 +271,8 @@ met %s"</string>
   <string name="factorytest_no_action">Er is geen pakket gevonden dat de actie FACTORY_TEST levert.</string>
   <string name="factorytest_not_system">De actie FACTORY_TEST wordt alleen ondersteund voor pakketten die zijn geïnstalleerd in /system/app.</string>
   <string name="factorytest_reboot">Opnieuw opstarten</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Functiecode voltooid.</string>
   <string name="fcError">Verbindingsprobleem of ongeldige functiecode.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Vinden</string>
   <string name="find_next">Volgende zoeken</string>
   <string name="find_on_page">Zoeken op pagina</string>
@@ -350,10 +330,7 @@ met %s"</string>
   <string name="heavy_weight_notification_detail">Raak aan om naar app te schakelen</string>
   <string name="heavy_weight_switcher_text">Er wordt al een andere app uitgevoerd die moet worden gestopt voordat u een nieuwe app kunt starten.</string>
   <string name="heavy_weight_switcher_title">Schakelen tussen apps?</string>
-  <string name="high_definition_tag">%s</string>
   <string name="hour">uur</string>
-  <string name="hour_ampm" formatted="false">%-l%P</string>
-  <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hour_picker_description">Uur circulaire schuifknop</string>
   <string name="hours">uren</string>
   <string name="httpError">Er is een netwerkfout opgetreden.</string>
@@ -393,7 +370,6 @@ met %s"</string>
   <string name="ime_action_previous">Vorige</string>
   <string name="ime_action_search">Zoeken</string>
   <string name="ime_action_send">Verzenden</string>
-  <string name="imei">IMEI</string>
   <string name="immersive_cling_description">Om af te sluiten, veeg naar beneden vanaf de bovenkant.</string>
   <string name="immersive_cling_positive">Begrepen</string>
   <string name="immersive_cling_title">Vol scherm aan het bekijken</string>
@@ -499,10 +475,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="launch_warning_original">%1$s was het eerst gestart.</string>
   <string name="launch_warning_replace">%1$s is nu actief.</string>
   <string name="launch_warning_title">App verplaatst</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading">Laden…</string>
-  <string name="locale_codes"/>
-  <string name="locale_replacement"/>
   <string name="lock_pattern_view_aspect">vierkantig</string>
   <string name="lock_to_app_description">"Schermpinning vergrendelt het scherm in één weergave. 
 
@@ -658,8 +631,6 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="older">Ouder</string>
   <string name="oneMonthDurationPast">1 maand geleden</string>
   <string name="open_permission_deny">U heeft geen toestemming om deze pagina te openen.</string>
-  <string name="operator_config_url"/>
-  <string name="operator_ping_url"/>
   <string name="orgTypeCustom">Aangepast</string>
   <string name="orgTypeOther">Overig</string>
   <string name="orgTypeWork">Werk</string>
@@ -670,9 +641,6 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="package_installed_device_owner">Geinstalleerd door uw administrator</string>
   <string name="package_updated_device_owner">Geupdatet door uw administrator</string>
   <string name="passwordIncorrect">Onjuist wachtwoord.</string>
-  <string name="password_keyboard_label_alpha_key">ABC</string>
-  <string name="password_keyboard_label_alt_key">ALT</string>
-  <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Plakken</string>
   <string name="peerTtyModeFull">Peer verzocht TTY modus VOL</string>
   <string name="peerTtyModeHco">Peer verzocht TTY modus HCO</string>
@@ -1143,9 +1111,6 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="sync_undo_deletes">Verwijderingen ongedaan maken</string>
   <string name="system_error_manufacturer">Er is een intern probleem met uw apparaat. Neem contact op met uw fabrikant voor meer informatie.</string>
   <string name="system_error_wipe_data">Er is een intern probleem met uw apparaat en kan instabiel zijn totdat u fabrieksinstellingen hebt gereset.</string>
-  <string name="telephony_plugin_class_name">com.qti.internal.telephony.QtiTelephonyPlugin</string>
-  <string name="telephony_plugin_lib_path">/system/framework/qti-telephony-common.jar</string>
-  <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Aanraken voor instellen.</string>
   <string name="tethered_notification_multi_device_message">%1$s verbonden apparaten</string>
   <string name="tethered_notification_no_device_message">Geen apparaat verbonden</string>
@@ -1161,7 +1126,6 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="time_picker_increment_hour_button">Hogere waarde voor uren</string>
   <string name="time_picker_increment_minute_button">Hogere waarde voor minuten</string>
   <string name="time_picker_increment_set_pm_button">PM instellen</string>
-  <string name="time_placeholder">--</string>
   <string name="toolbar_collapse_description">Inklappen</string>
   <string name="turn_off_radio">Draadloos uitschakelen</string>
   <string name="turn_on_radio">Draadloos inschakelen</string>
