@@ -45,10 +45,10 @@
         <item>Alle afspraken in de reeks</item>
     </string-array>
 	<string-array name="summary_card_text_chain">
-        <item>[Abonneer] Abonneren op uw agenda functies of diensten</item>
+        <item>[Abonneer] Abonneren op uw agendafuncties of diensten</item>
         <item>[Abonneer] Om uw eigen exclusieve Mi kalender aan te passen</item>
-        <item>[Inschrijven] Voor uw aangepaste kalender functies en diensten</item>
-        <item>[Inschrijven] Vond andere kalender functies en diensten</item>
+        <item>[Inschrijven] Voor uw aangepaste kalenderfuncties en diensten</item>
+        <item>[Inschrijven] Voor andere kalenderfuncties en diensten</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparant</item>
@@ -65,6 +65,18 @@
         <item>1 dag</item>
         <item>2 dagen</item>
         <item>1 week</item>
+    </string-array>
+	<string-array name="miui_preferences_default_reminder_labels">
+        <item>Geen herinnering</item>
+        <item>Op dezelfde tijd als gebeurtenis</item>
+        <item>5 minuten van tevoren</item>
+        <item>10 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>30 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 uur</item>
