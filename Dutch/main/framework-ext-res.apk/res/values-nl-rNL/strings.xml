@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string name="activity_package_delete_confirm_title">Belangrijke waarschuwing</string>
   <string name="add_frequent_phrases">Vaak gebruikte zinnen toevoegen</string>
   <string name="all_call_livetalk_enable">Herlaadpakketten gebruiken voor nationale en internationale gesprekken</string>
   <string name="all_call_livetalk_remain_mins">Overblijvende minuten: %1$s nationaal of %2$s internationaal</string>
@@ -18,6 +19,11 @@
   <string name="auto_start_warning_allow">Toestaan</string>
   <string name="auto_start_warning_deny">Weigeren</string>
   <string name="auto_start_warning_title">%s toestaan om automatisch op te starten?</string>
+  <string name="button_text_cancel">Annuleren</string>
+  <string name="button_text_delete">Verwijderen</string>
+  <string name="button_text_delete_timer">Verwijderen (%d)</string>
+  <string name="button_text_next_step">Volgende</string>
+  <string name="button_text_next_step_timer">Volgende (%d)</string>
   <string name="call_record_or">" of "</string>
   <string name="call_record_sample_prefix_miui">Bellen</string>
   <string name="caller_info_name_delimiter">" of "</string>
@@ -68,6 +74,9 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="memory_clear_nothing_result">Niets om te wissen in cache</string>
   <string name="memory_clear_result">%1$sB vrijgemaakt | %2$sB beschikbaar</string>
   <string name="miui">Miui</string>
+  <string name="package_delete_confirm_step_1">Verwijderen %s?</string>
+  <string name="package_delete_confirm_step_2">Deze app verwijderen, kan ertoe leiden dat uw systeem instabiel wordt.</string>
+  <string name="package_delete_confirm_step_3">U zal niet in staat zijn om deze app te openen nadat u deze hebt verwijdert.</string>
   <string name="paste">Plakken</string>
   <string name="perm_send_push_dspt">Mi pushberichten toestaan</string>
   <string name="perm_send_push_lab">Pushberichten verzenden</string>

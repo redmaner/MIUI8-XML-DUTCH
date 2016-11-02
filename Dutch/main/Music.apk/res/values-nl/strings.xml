@@ -29,15 +29,6 @@
   <string name="alaka_required">Dit nummer is niet beschikbaar</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
-  <string name="alert_msg_vip_song_for_download">Premium muziek pakket verkrijgen om dit nummer te downloaden.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">U hebt uw download quota voor deze maand bereikt. Upgrade uw Premium muziek pakket om meer te downloaden.</string>
-  <string name="alert_msg_vip_song_for_stream">Premium muziek pakket verkrijgen om naar dit nummer te luisteren.</string>
-  <string name="alert_msg_vip_songs_for_download">Premium muziek pakket verkrijgen om alle nummers te downloaden.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">U hebt uw download quota voor deze maand bereikt. Upgrade uw Premium muziek pakket om meer te downloaden.</string>
-  <string name="alert_msg_vip_songs_for_stream">Sommige nummers kunnen enkel gestreamd worden met een Premium muziek pakket.</string>
-  <string name="alert_title_vip_song">Premium nummers</string>
-  <string name="alert_title_vip_songs">Premium muziek pakket</string>
-  <string name="alert_title_vip_songs_upgrade">Update uw Premium muziek pakket</string>
   <string name="all_artist">Alle artiesten</string>
   <string name="all_downloads">Alle downloads</string>
   <string name="all_fileter">Alle</string>
@@ -85,7 +76,6 @@
   <string name="button_wait_for_wifi">Wachten</string>
   <string name="buy_other_flow">Normale data</string>
   <string name="buy_traffic">China Unicom</string>
-  <string name="buy_vip">Premium muziek pakket verkrijgen</string>
   <string name="can_not_find_resource">Kan bron niet vinden</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_running_download">Annuleren</string>
@@ -375,7 +365,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="local_page_song_download">Lokale nummers</string>
   <string name="local_page_song_favorite">Favoriete nummers</string>
   <string name="local_tracks_short">Offline</string>
-  <string name="login_first">Eerst inloggen op je Mi Account</string>
   <string name="lrc_search_failed">Geen songteksten gevonden</string>
   <string name="lrc_searching">Zoeken naar songtekst…</string>
   <string name="lyric">Songteksten</string>
@@ -462,6 +451,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="network_request_error">Kan niet verbinden met netwerk</string>
   <string name="network_settings_error">Kan niet verbinden met netwerk</string>
   <string name="network_traffic">Datagebruik</string>
+  <string name="news_mark">NIEUWS</string>
   <string name="next_time">Niet nu</string>
   <string name="no_album_info">Geen albuminfo</string>
   <string name="no_artist_info">Geen artiestinfo</string>
@@ -521,7 +511,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="order_pending">Bevestiging afwachten</string>
   <string name="order_process_fail">Kon je account niet verifiëren. Probeer het later opnieuw.</string>
   <string name="other_filter">Andere</string>
-  <string name="othor_song_in_album">Andere nummers van dit album</string>
+  <string name="other_song_in_album">Andere nummers van dit album</string>
   <string name="package_filter">Pakketten</string>
   <string name="pause_download">Pauze</string>
   <string name="paused_by_app">Gepauzeerd</string>
@@ -697,7 +687,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="storage_internal">Interne opslag</string>
   <string name="storage_sd_card">SD kaart</string>
   <string name="storage_usb">USB opslag</string>
-  <string name="stream_normal">Afspelen in standaardkwaliteit</string>
   <string name="stream_quality">Streamingkwaliteit</string>
   <string name="streamloadingtext">Verbinding maken met %s…</string>
   <string name="sub_explanation">Mi Muziek dataplan</string>
@@ -746,8 +735,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="title_search_history">Zoekgeschiedenis</string>
   <string name="title_search_hot">Populair</string>
   <string name="to_mi_pay">Mi Credits</string>
-  <string name="toast_cancel_download">Download geannuleerd</string>
-  <string name="toast_cancel_play">Afspelen geannuleerd</string>
   <string name="toast_download_error_by_count_limit">U hebt uw download quota voor deze maand bereikt.</string>
   <string name="toast_download_error_by_not_login">Aanmelden op uw Mi Account en probeer opnieuw.</string>
   <string name="toast_download_error_by_vip_required">Premium muziek pakket verkrijgen om dit nummer te downloaden.</string>
@@ -757,8 +744,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="toast_stream_normal">Speelt nu in standaardkwaliteit. Premium abonnement verkrijgen om van hogere kwaliteitsstreaming te genieten.</string>
   <string name="toast_uhd_songs_for_download">Downloadkwaliteit is ingesteld op hoog</string>
   <string name="toast_uhd_songs_for_stream">Streamingkwaliteit is ingesteld op hoog</string>
-  <string name="toast_vip_download_one_limit">" U hebt uw download quota voor deze maand bereikt. U kan meer nummers downloaden bij het Premium abonnement van volgende maand."</string>
-  <string name="toast_vip_download_some_limit">" U hebt uw download quota voor deze maand bereikt. U kan meer nummers downloaden bij het Premium abonnement van volgende maand. "</string>
   <string name="too_freq">Te veel verzoeken van dit apparaat.</string>
   <string name="tos">Algemene Voorwaarden</string>
   <string name="track_list_control_download">Download</string>
@@ -792,7 +777,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="upgrade_services">Upgrade diensten</string>
   <string name="upgrade_suggest">We zullen onze huidige streamingservice stopzetten vanwege auteursrechtelijke kwesties. Update naar de nieuwste versie van de Muziek app om naar hoge kwaliteitsmuziek te luisteren.</string>
   <string name="upgrade_to">Upgraden naar</string>
-  <string name="upgrade_vip">Premium muziek pakket upgraden</string>
   <string name="upgrade_waringing">Je zult alleen in staat zijn om opgeslagen muziek offline te beluisteren.</string>
   <string name="valid_period">Geldig: %s</string>
   <string name="version_info">Versie</string>
