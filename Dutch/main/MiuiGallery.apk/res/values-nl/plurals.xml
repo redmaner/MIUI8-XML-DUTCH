@@ -120,6 +120,14 @@
         <item quantity="other">Niet genoeg lokale opslag. %1$d items wachten om te worden geback-upt</item>
         <item quantity="one">Niet genoeg lokale opslag. %1$d item wacht om te worden geback-upt</item>
     </plurals>
+	<plurals name="number_of_images_synced">
+        <item quantity="other">%1$d foto\'s</item>
+        <item quantity="one">1 foto</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video\'s</item>
+        <item quantity="one">1 video</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d foto\'s wachten om te synchroniseren</item>
         <item quantity="one">1 foto wacht om te synchroniseren</item>

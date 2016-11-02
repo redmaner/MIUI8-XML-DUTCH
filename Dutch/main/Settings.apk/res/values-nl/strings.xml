@@ -3,6 +3,7 @@
   <string name="Accounts_settings_title">Accounts</string>
   <string name="aaid_info">"
 Reclame-identificeerder is een permanente ID die uniek is voor uw apparaat. Verkopers gebruiken het om reclame-inhoud te selecteren die beter bij u past."</string>
+  <string name="about_phone_enter_xiaomi_net">Meer leren</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie</string>
   <string name="ac_enable_summary">Wachtwoord instellen voor individuele apps</string>
@@ -302,6 +303,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="auto_disable_screenbuttons_auto">Altijd uitschakelen</string>
   <string name="auto_disable_screenbuttons_cancel">Annuleren</string>
   <string name="auto_disable_screenbuttons_no">Nooit uitschakelen</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Wanneer uw apparaat ins landschap modus is, zullen de navigatieknoppen geblokkeerd zijn</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Navigatieknoppen in landschap modus blokkeren</string>
   <string name="auto_disable_screenbuttons_summary">Navigatieknoppen automatisch uitschakelen wanneer je bepaalde apps gebruikt. Dubbeltik op een willekeurige knop om weer in te schakelen.</string>
   <string name="auto_disable_screenbuttons_title">Navigatieknoppen automatisch uitschakelen</string>
   <string name="auto_launch_disable_text">Geen standaardwaarden ingesteld.</string>
@@ -790,6 +793,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="close_gesture">Gebaar gebruiken sluiten</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
   <string name="close_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
+  <string name="cmcc_hardware_version">Hardware versie</string>
   <string name="color_black">Zwart</string>
   <string name="color_blue">Blauw</string>
   <string name="color_calibration_none">Origineel</string>
@@ -808,6 +812,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="color_white">Wit</string>
   <string name="color_yellow">Geel</string>
   <string name="common_settings">Snelle instellingen</string>
+  <string name="complete_parameters">Alle specs</string>
   <string name="complete_settings">Algemene instellingen</string>
   <string name="computing_size">Berekenen…</string>
   <string name="config_charging_function_name">Aan het laden</string>
@@ -1073,17 +1078,20 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="development_settings_not_available">Ontwikkelaarsopties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="development_settings_summary">Opties instellen voor appontwikkeling</string>
   <string name="development_settings_title">Opties voor ontwikkelaars</string>
+  <string name="device_actionbar_title">Alle specs</string>
   <string name="device_admin_add_title">Apparaatbeheerder</string>
   <string name="device_admin_settings_title">Instellingen voor apparaatbeheer</string>
   <string name="device_admin_status">Deze beheerder is actief en staat de app %1$s toe de volgende bewerkingen uit te voeren:</string>
   <string name="device_admin_title">Apparaatbeheer</string>
   <string name="device_admin_warning">Als u deze beheerder activeert, staat u de app %1$s toe de volgende bewerkingen uit te voeren:</string>
+  <string name="device_complete_parameters">Voltooid</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual core</string>
   <string name="device_cpu4_info">Quad core</string>
   <string name="device_cpu6_info">Hexa core</string>
   <string name="device_cpu8_info">Octa core</string>
+  <string name="device_display_layout_title">Kenmerken</string>
   <string name="device_edit_title">Apparaatnaam wijzigen</string>
   <string name="device_feedback">Feedback versturen over dit apparaat</string>
   <string name="device_info_default">Onbekend</string>
@@ -1092,7 +1100,9 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_info_settings">Apparaatstatus</string>
   <string name="device_internal_memory">Intern geheugen</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Meer bekijken</string>
   <string name="device_miui_version">MIUI versie</string>
+  <string name="device_miui_version_update">MIUI update is beschikbaar</string>
   <string name="device_name">Apparaatnaam</string>
   <string name="device_name_input_error">Het opslaan van de naam van het apparaat is mislukt.</string>
   <string name="device_name_input_hint">Verander apparaatnaam</string>
@@ -1100,6 +1110,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_picker">Bluetooth apparaat kiezen</string>
   <string name="device_reset_title">Apparaat resetten</string>
   <string name="device_sd_memory">SD kaart</string>
+  <string name="device_share_loading">Afbeelding maken</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Status van de batterij, het netwerk en andere gegevens</string>
@@ -1592,6 +1603,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="input_methods_and_subtype_enabler_title">Actieve invoermethode selecteren</string>
   <string name="input_methods_settings_label_format">Instellingen voor %1$s</string>
   <string name="input_methods_settings_title">Tekstinvoer</string>
+  <string name="input_password_hint_text">Wachtwoord invoeren</string>
   <string name="input_settings">Invoer instellingen</string>
   <string name="install_all_warning">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen door apps van onbekende bronnen. U gaat ermee akkoord dat alleen u verantwoordelijk bent voor enige schade aan uw apparaat of verlies van gegevens die voortkomen uit het gebruik van deze apps.</string>
   <string name="install_applications">Onbekende bronnen</string>
@@ -2014,6 +2026,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Gemiddeld %1$s geheugen gebruikt in laatste 3 uur</string>
   <string name="menu_cancel">Negeren</string>
+  <string name="menu_check">Ervaring</string>
   <string name="menu_delete">APN verwijderen</string>
   <string name="menu_duration_12h">12 uur</string>
   <string name="menu_duration_1d">1 dag</string>
@@ -2030,6 +2043,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="menu_proc_stats_type_foreground">Voorgrond</string>
   <string name="menu_restore">Reset</string>
   <string name="menu_save">Opslaan</string>
+  <string name="menu_share">Delen</string>
   <string name="menu_show_percentage">Percentages weergeven</string>
   <string name="menu_show_system">Systeem weergeven</string>
   <string name="menu_stats_last_unplugged">Laatst losgekoppeld voor %1$s</string>
@@ -2147,6 +2161,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Muziekeffecten</string>
   <string name="mvno_match_data">MVNO waarde</string>
+  <string name="my_device">Mijn apparaat</string>
   <string name="nearby_wifi">Beschikbare netwerken</string>
   <string name="need_reboot_now">Herstarten om update te installeren</string>
   <string name="network_assistant">Datagebruik</string>
@@ -2271,6 +2286,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="optimization_close">Uitschakelen &amp; herstarten</string>
   <string name="optimization_open">Aanzetten</string>
   <string name="other_advanced_settings">Extra instellingen</string>
+  <string name="other_device_info">Andere</string>
   <string name="other_personal_settings">Extra instellingen</string>
   <string name="other_relative">Andere</string>
   <string name="other_sound_settings">Andere geluiden</string>
@@ -2796,6 +2812,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="radio_info_smsc_refresh_label">Vernieuwen</string>
   <string name="radio_info_smsc_update_label">Bijwerken</string>
   <string name="radio_info_toggle_dns_check_label">DNS controle in-/uitschakelen</string>
+  <string name="rank_title">Rankings</string>
   <string name="rarely_running">Zelden actief (%s)</string>
   <string name="really_remove_account_message">Als u dit account verwijdert, worden ook alle accountberichten, contacten en andere gegevens van het apparaat verwijderd.</string>
   <string name="really_remove_account_title">Account verwijderen?</string>
@@ -2803,10 +2820,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="receiver_clean">Ruimte vrijmaken</string>
   <string name="recent_location_requests_summary">Apps weergeven die toegang tot je locatie vragen</string>
   <string name="recent_location_requests_title">Locatietoegang</string>
-  <string name="recommend_item_1">保护套</string>
-  <string name="recommend_item_2">手环</string>
-  <string name="recommend_item_3">移动电源</string>
-  <string name="recommend_item_4">耳机</string>
+  <string name="recommend_item_1">Telefoonhoesje</string>
+  <string name="recommend_item_2">Mi band</string>
+  <string name="recommend_item_3">Power bank</string>
+  <string name="recommend_item_4">Koptelefoons</string>
   <string name="recommend_item_title">Aanbevolen</string>
   <string name="recompute_size">Grootte opnieuw berekenen…</string>
   <string name="record_anr_in_background">ANR achtergrond gevallen opnemen</string>
@@ -3619,7 +3636,6 @@ Deze ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal niet werke
   <string name="storage_volume_used">Gebruikt van %1$s</string>
   <string name="storage_volume_used_total">Totaal gebruikt van %1$s</string>
   <string name="storage_wizard_format_confirm_body">"Dit vereist de ^1 om te zijn geformatteerd om het veilig te maken. 
-
 Na formatteren, zal deze ^1 alleen werken in dit apparaat. 
 
 "&lt;b&gt;Formatteren wist alle gegevens momenteel opgeslagen op de ^1.&lt;/b&gt;" Om te voorkomen dat u gegevens verliest, overweeg een back-up. "</string>
@@ -3628,6 +3644,7 @@ Na formatteren, zal deze ^1 alleen werken in dit apparaat.
 
 "&lt;b&gt;Formatteren wist alle gegevens momenteel opgeslagen op de ^1.&lt;/b&gt;" Om te voorkomen dat u gegevens verliest, overweeg een back-up. "</string>
   <string name="storage_wizard_format_confirm_public_title">Formatteren als draagbare opslag</string>
+  <string name="storage_wizard_format_confirm_third_body">De ^1 is wordt geformatteerd</string>
   <string name="storage_wizard_format_confirm_title">Formatteren als interne opslag</string>
   <string name="storage_wizard_format_progress_body">De ^1 tijdens formatteren niet verwijderen.</string>
   <string name="storage_wizard_format_progress_title">^1 formatteren…</string>
@@ -3637,7 +3654,6 @@ Na formatteren, zal deze ^1 alleen werken in dit apparaat.
   <string name="storage_wizard_init_internal_title">Gebruiken als interne opslag</string>
   <string name="storage_wizard_init_title">Uw ^1 instellen</string>
   <string name="storage_wizard_migrate_body">"U kan uw foto\'s, bestanden en sommige apps naar deze nieuwe ^1. 
-
 Het verplaatsen duurt ongeveer ^2 en zal ^3 vrijmaken op het interne geheugen. Sommige apps zullen niet werken tijdens de uitvoering."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Het verplaatsen duurt ongeveer ^1. Het zal ^2 vrijmaken op ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Verplaatsen</string>
