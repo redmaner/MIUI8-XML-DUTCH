@@ -84,11 +84,11 @@
   <string name="claim_operation_too_frequently">Te veel pogingen! Probeer later opnieuw.</string>
   <string name="claim_remind_dialog_cancel">Bekijk andere video\'s</string>
   <string name="claim_remind_dialog_confirm">Blijven</string>
-  <string name="claim_remind_dialog_message">U zal geen aanspraak kunnen maken op deze video als u terug keert</string>
-  <string name="claim_remind_dialog_title">Aandacht</string>
+  <string name="claim_remind_dialog_message">U zal geen aanspraak kunnen maken op deze video als u terugkeert</string>
+  <string name="claim_remind_dialog_title">Waarschuwing</string>
   <string name="claim_video">Aanspraak maken</string>
   <string name="claim_video_already_claimed">Er is reeds een aanspraak gemaakt op deze video, wees sneller de volgende keer!</string>
-  <string name="claim_video_already_locked">Anspraak opgemaakt</string>
+  <string name="claim_video_already_locked">Aanspraak opgemaakt</string>
   <string name="claim_video_failure">Kon geen aanspraak op maken, probeer opnieuw</string>
   <string name="claim_video_locking">Aanspraak op maken…</string>
   <string name="claim_video_over">Te veel aanspraken voor vandaag, kom morgen terug!</string>
@@ -381,7 +381,7 @@
   <string name="operation_unfavorite">Uit favorieten verwijderen</string>
   <string name="origin_name">%1$s: </string>
   <string name="original_user_qq_group">Voeg u bij het Talent team QQ groep</string>
-  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; toegetreden tot de community</string>
+  <string name="original_user_register">• %1$s toegetreden tot de community</string>
   <string name="original_user_signal">Talent team</string>
   <string name="original_user_title">Gefeliciteerd met het lidmaatschap van de Talent team!</string>
   <string name="original_user_verify">• Dank u om te blijven rondhangen!</string>
@@ -452,7 +452,7 @@
   <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
   <string name="repair_done">Hersteld</string>
   <string name="repair_error">Kon niet herstellen</string>
-  <string name="repair_error_no_media">Kon niet herstellen, selecteer ten minste één media bestand</string>
+  <string name="repair_error_no_media">Kon niet herstellen, selecteer ten minste één mediabestand</string>
   <string name="repair_error_no_order">Kon niet herstellen, verwijder of decodeer %s en probeer opnieuw</string>
   <string name="repair_file">Herstel gecodeerde bestanden</string>
   <string name="reply_success">Reactie toegevoegd</string>
@@ -678,13 +678,13 @@
   <string name="video_data_consumption_dialog_message">Uploaden zal %1$s aan mobiele data vereisen</string>
   <string name="video_data_consumption_dialog_title">Waarschuwing mobiele data</string>
   <string name="video_description">Video beschrijving</string>
-  <string name="video_encrypt_fans_btn">Wordt een fan</string>
+  <string name="video_encrypt_fans_btn">Word een fan</string>
   <string name="video_encrypt_fans_text">Enkel fans kunnen deze video bekijken</string>
-  <string name="video_encrypt_follow_fail">Kon niet volh-gen</string>
+  <string name="video_encrypt_follow_fail">Kon niet volgen</string>
   <string name="video_encrypt_follow_success">%s gevolgd</string>
   <string name="video_encrypt_login_btn">Aanmelden</string>
   <string name="video_encrypt_login_text">Aanmelden om deze video af te spelen</string>
-  <string name="video_operation_need_fans">Depersoon volgen die deze video heeft gemaakt</string>
+  <string name="video_operation_need_fans">De persoon volgen die deze video heeft gemaakt</string>
   <string name="video_operation_need_login">Aanmelden om dit te doen</string>
   <string name="video_parse_btn">Starten</string>
   <string name="video_parse_error_unknown">Deze link wordt niet ondersteund, probeer een andere</string>

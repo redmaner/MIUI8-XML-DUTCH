@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="admin_receiver_status_disable_warning">TDe Secure Spaces apparaat admin zal opnieuw ingeschakeld worden wanneer of later nodig is.</string>
+  <string name="admin_receiver_status_disable_warning">De Secure Spaces apparaat admin zal opnieuw ingeschakeld worden wanneer of later nodig is.</string>
   <string name="app_name">Secure Spaces Agent</string>
   <string name="choice_no">Nee</string>
   <string name="choice_yes">Ja</string>
@@ -15,21 +15,21 @@
   <string name="mobile">mobiel</string>
   <string name="notification_message">Klik om beleid update te starten</string>
   <string name="notification_title">Beleid update</string>
-  <string name="or">or</string>
+  <string name="or">of</string>
   <string name="policy_search_field_hint">Beleid naam</string>
   <string name="policy_update_disclaimer">Ruimte beleid update kan de gebruikskosten doen oplopen. Gebruikers moeten hun lokale provuder raadplegen voor de kosten . Als u akkoord  gaat met deze voorwaarden kunt u kiezen \"Ja\" om het beleid update te starten.</string>
   <string name="policy_update_never_remind">Mij nooit meer vragen</string>
   <string name="pref_cat_policy_data">Beleid informatie</string>
   <string name="pref_cat_sscm_data">SSCM informatie</string>
   <string name="pref_cat_sss_data">SSMS informatie</string>
-  <string name="pref_desc_in_progress_policy">Details van het beleid worden momenteel teogepast.</string>
-  <string name="pref_desc_last_applied_policy">De laatste toegepaste beleid op uw apparaat.</string>
+  <string name="pref_desc_in_progress_policy">Details van het beleid worden momenteel toegepast.</string>
+  <string name="pref_desc_last_applied_policy">Het laatst toegepaste beleid op uw apparaat.</string>
   <string name="pref_desc_policy_delay">Vertraging toegepast op elk beleidselement.</string>
   <string name="pref_desc_sscm_address">Adres van de SSCM Server</string>
   <string name="pref_desc_sscm_mailbox">Mailbox ID op SSCM</string>
-  <string name="pref_desc_sss_address">Adr van de SSM Server</string>
+  <string name="pref_desc_sss_address">Adres van de SSM Server</string>
   <string name="pref_title_in_progress_policy">Beleid in behandeling</string>
-  <string name="pref_title_last_applied_policy">Laatst teogepaste Policy</string>
+  <string name="pref_title_last_applied_policy">Laatst teogepaste policy</string>
   <string name="pref_title_policy_delay">Beleid vertraging</string>
   <string name="pref_title_sscm_address">SSCM adres</string>
   <string name="pref_title_sscm_mailbox">SSCM Mailbox Id</string>
@@ -46,8 +46,8 @@
   <string name="space_status_registration_error">Fout bij het registreren van de ruimte.</string>
   <string name="space_status_registration_error_qr_code_reused">Uitnodiging is niet langer geldig</string>
   <string name="space_status_unregistering">Registratie ongedaan maken…</string>
-  <string name="sscm_registration_disclaimer">Secure Spaces zorgt voor integriteit en updates aan uw ruimte. Secure Spaces heeft een kleine hoeveelheid netwerkgebruik nodig. Please consult your local service provider for charge amounts. Als u akkoord met deze voorwaarden kunt u \"Yes\"  selecteren om uw Secure Space te abonneren .</string>
-  <string name="sscm_registration_summary">Trek de meldingen naar beneden om de details te bekijken</string>
+  <string name="sscm_registration_disclaimer">Secure Spaces zorgt voor integriteit en updates aan uw ruimte. Secure Spaces heeft een kleine hoeveelheid netwerkgebruik nodig. Neem contact op met uw lokale serviceprovider voor de kosten. Als u akkoord gaat met deze voorwaarden kunt u \"Ja\"  selecteren om u op Secure Space te abonneren.</string>
+  <string name="sscm_registration_summary">Trek de meldingen naar beneden om details te bekijken</string>
   <string name="title_sscm_registration">Secure Spaces Service herinnering</string>
   <string name="wifi">Wi-Fi</string>
 </resources>
