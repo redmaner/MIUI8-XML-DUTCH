@@ -73,11 +73,15 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Gisteren bijgewerkt om %s</string>
   <string name="adjust_traffic_data">Dataverbruik instellen</string>
   <string name="after_the_lock_screen">App is vergrendeld samen met het scherm. U kan dit wijzigen in de instellingen voor appvergrendeling.</string>
-  <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Definities kiezen</string>
   <string name="antivirus_choose_engine_disable_toast">Kan niet wisselen van definities tijdens het scannen</string>
   <string name="antivirus_choose_engine_settings">Instellingen virusdefinitie</string>
   <string name="antivirus_choose_engine_title">Definities</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Delete risky apps</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Delete viruses</string>
+  <string name="antivirus_monitor_clean_tips">Deleted %s item</string>
+  <string name="antivirus_monitor_risk_advice">Deze app is niet veilig, verwijderen</string>
+  <string name="antivirus_monitor_virus_advice">Deze app kan een virus bevatten, verwijderen</string>
   <string name="antivirus_more_engine_dialog_summary">Meerdere definitiesets voor scannen kan mogelijk meer tijd in beslag nemen.</string>
   <string name="antivirus_more_engine_dialog_title">Attentie</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
@@ -654,6 +658,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="main_alert_message_month_limit_error">Het datalimiet dat u hebt ingesteld is fout</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_no_mobile_package">Datalimiet instellen</string>
+  <string name="main_alert_message_open_traffic_ctrl">Wij raden beperkte datagebruik aan</string>
   <string name="main_button_idel_traffic">Daluren</string>
   <string name="main_button_normal_traffic">Piekuren</string>
   <string name="main_button_usage_adjust">Sync. mobiel dataverbruik</string>
@@ -661,6 +666,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="main_button_usage_adjusting">Veranderen…</string>
   <string name="main_button_usage_package_setting">Mobiele dataverbruik instellen</string>
   <string name="main_message_no_package_by_dual">Datalimiet instellen voor %s</string>
+  <string name="main_open_traffic_ctrl_button">Datagebruik beperken</string>
   <string name="main_primary_message_traffic_cur_leisure">Daaluur dataverbruik</string>
   <string name="main_primary_message_traffic_cur_normal">Onder piek datalimiet</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Datalimiet overschreden</string>
@@ -1049,6 +1055,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Meldingen dataverbruik</string>
   <string name="pref_title_virus_white_list">Uitzonderingen</string>
+  <string name="pref_traffic_manage_title">Datagebruik</string>
   <string name="pref_version">Versie %s</string>
   <string name="pref_warning_values">Waarschuwing bij</string>
   <string name="pref_whitelist_setting">Uitzonderingen beheren</string>

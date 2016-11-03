@@ -240,14 +240,6 @@
         <item quantity="few">video\'s</item>
         <item quantity="many">video\'s</item>
     </plurals>
-    <plurals name="number_of_comment">
-        <item quantity="other">%1$s opmerkingen</item>
-        <item quantity="zero">%1$s opmerkingen</item>
-        <item quantity="one">%1$s opmerking</item>
-        <item quantity="two">%1$s opmerkingen</item>
-        <item quantity="few">%1$s opmerkingen</item>
-        <item quantity="many">%1$s opmerkingen</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">%1$s video\'s</item>
         <item quantity="zero">%1$s video\'s</item>
@@ -271,5 +263,21 @@
         <item quantity="two"> %1$d items</item>
         <item quantity="few"> %1$d items</item>
         <item quantity="many"> %1$d items</item>
+    </plurals>
+	<plurals name="original_user_days">
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> days</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> day</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video\'s geüpload,</item>
+        <item quantity="one">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video geüpload,</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">U hebt &lt;font color=#fc7050>%1$s&lt;/font> personen gelukkig gemaakt!</item>
+        <item quantity="one">U hebt &lt;font color=#fc7050>%1$s&lt;/font> persoon gelukkig gemaakt!</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> volgers!</item>
+        <item quantity="one">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> volger!</item>
     </plurals>
 </resources>

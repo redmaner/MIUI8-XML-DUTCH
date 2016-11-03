@@ -121,6 +121,7 @@
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
   <string name="find_device_activate_account">Account activeren</string>
   <string name="find_device_bad_response_error">"Kan status niet verkrijgen door serverfout, probeer later opnieuw"</string>
+  <string name="find_device_display_id">Nummer deblokkeren: %s</string>
   <string name="find_device_error_password_not_confirmed">"Kan apparaat vinden niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in."</string>
   <string name="find_device_error_password_recently_changed">"U heeft uw wachtwoord de afgelopen 3 dagen veranderd. Kan nu apparaat vinden niet uitschakelen om veiligheidsredenen."</string>
   <string name="find_device_interrupted">Actie is onderbroken, probeer later opnieuw</string>
@@ -145,8 +146,8 @@
   <string name="locating_current_location">Lokaliseren</string>
   <string name="location_service_not_working">Locatiedienst werkt niet</string>
   <string name="login_check_find_device">Beveilingsinfo van apparaat verkrijgen…</string>
-  <string name="login_check_find_device_failed_title">Kon apparaat vind status niet controleren</string>
-  <string name="login_find_device_bind">Dit apparaat is gekoppeld met een bestaand Mi Account ID (%s), voer uw wachtwoord in om het apparaat te verifiëren.</string>
+  <string name="login_check_find_device_failed_title">Kon apparaat veligheidsinfo niet controleren</string>
+  <string name="login_find_device_bind">Dit apparaat is gekoppeld met een bestaand Mi Account ID (%s).</string>
   <string name="login_guard_prompt">Telefoonnummer verificatie vereeist wanneer u zich voor de eerste keer aanmeldt bij uw Mi account op een onbekend apparaat of in een onbekende app .</string>
   <string name="logout_failed">Kan niet uitloggen</string>
   <string name="mi_account_identity_title">Verifieer uw identiteit</string>
@@ -156,6 +157,8 @@
   <string name="micloud_space_info">%s beschikbaar</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
+  <string name="miui_provision_find_status_text">"Dit apparaat is gekoppeld met een bestaand Mi Account (%1$s), voer uw wachtwoord in om uw apparaat te verfiëren.
+(Nummer deblokkeren: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Het ziet er naar uit dat je het Mi Account van je standaard ruimte gebruikt.</string>
   <string name="multi_user_not_show_sync_activity_message_2">In zo\'n geval, zullen alle gegevens worden gesynchroniseerd met uw tweede ruimte. Om dit te voorkomen, schakel synchronisatie met Mi Cloud niet in</string>
   <string name="multi_user_not_show_sync_activity_title">Schakel synchronisatie met Mi Cloud niet in</string>
