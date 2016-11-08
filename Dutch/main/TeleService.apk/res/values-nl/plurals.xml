@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<plurals name="remove_numbers_confirm">
+        <item quantity="other">%d nummers zullen verwijderd worden.</item>
+        <item quantity="one">%d nummer zal verwijderd worden.</item>
+    </plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Er is al %s minuten geen dataverbinding</item>
         <item quantity="one">Er is al %s minuut geen dataverbinding</item>
