@@ -595,6 +595,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="keywords_networkassistant_4">Verbinding;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Toestemmingen;ROOT;Locatie;Toegang tot contacten</string>
   <string name="keywords_powercenter">Batterij besparen;Opwarming;Inschakelen;Uitschakelen;Batterij;Leeglopen</string>
+  <string name="keywords_powercenter_powerrank">Batterij gebruik</string>
   <string name="keywords_securitycenter">Veiligheid;Controleren;Scan</string>
   <string name="keywords_securitycenter_settings">Batterij bespaarder;Toestemmingen;Zwarte lijst;Data verbruik;Data plan kalibreren;Netwerk testen;App blokkering;Batterij besparen;Opwarming;Inschakelen;Uitschakelen;Batterij;Leeglopen;Autostart;ROOT;Locatie;Toegang tot contacten;Blokkeren;Zwarte lijst;Slimme blokkeerlijst;Fraude;Verkoop;Agenten;Data;Verkeer;Kalibreren;Verbinding;Internet;Test;Wachtwoord;Privacy;Toegang;Beveiliging</string>
   <string name="kilobyteShort">KB</string>
@@ -827,6 +828,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s heeft %2$s verbruikt deze week</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
+  <string name="old_sdk_deny_warning">De app is niet compatibel met de nieuwste Android toestemming eisen. Geweigerd toestemmingen kan de manier waarop deze app werkt beïnvloeden.</string>
   <string name="open">Openen</string>
   <string name="open_app">Openen</string>
   <string name="open_browser">Openen in browser</string>
@@ -890,6 +892,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="path_networkassistant_4">Systeemapps/Veiligheid/Datagebruik/Netwerk testen</string>
   <string name="path_permcenter">Systeemapps/Veiligheid/Toestemmingen</string>
   <string name="path_powercenter">Systeemapps/Veiligheid/Batterij</string>
+  <string name="path_powercenter_powerrank">Batterij &amp; performance/Batterij gebruik</string>
   <string name="path_securitycenter">Systeemapps/Veiligheid</string>
   <string name="path_securitycenter_settings">Systeemapps/Veiligheid</string>
   <string name="pay_charge">Koop extra data</string>
@@ -1113,6 +1116,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="resource_networkassistant_4">Netwerk testen</string>
   <string name="resource_permcenter">Toestemmingen</string>
   <string name="resource_powercenter">Batterijverbruik</string>
+  <string name="resource_powercenter_powerrank">Batterij &amp; prestaties</string>
   <string name="resource_securitycenter">Veiligheid</string>
   <string name="resource_securitycenter_settings">Veiligheid</string>
   <string name="result_autoscan_header">Betalingen controleren</string>
@@ -1225,6 +1229,13 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="sorted_button">Sorteren op</string>
   <string name="sorted_dialog_title">Sorteren op</string>
   <string name="sp_back_title_text_zero">Veilig</string>
+  <string name="sp_background_risk_dialog_summary">, neem een gedetailleerde controle en herstel betalingsrisico\'s</string>
+  <string name="sp_background_risk_dialog_title">Gevaarlijk</string>
+  <string name="sp_background_risk_type_messaging">Systeem bericht app is vervangen</string>
+  <string name="sp_background_risk_type_root">Systeem is geroot</string>
+  <string name="sp_background_risk_type_sign">Onofficiële app wordt uitgevoerd</string>
+  <string name="sp_background_risk_type_virus">Virus app wordt uitgevoerd</string>
+  <string name="sp_background_risk_type_wifi">Wi-Fi verbinding is gevaarlijk</string>
   <string name="sp_button_text_ignore_alert_title">Dit item controleren negeren?</string>
   <string name="sp_empty_title_sign_exception">Lang drukken op de app in de resultaten pagina om aan uitzonderingen toe te voegen</string>
   <string name="sp_monitored_apps_count_zero">Geen enkele betalingsapp is beveiligd</string>
@@ -1564,9 +1575,9 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aan blijven</string>
   <string name="usage_type_wifi_running">Wi-Fi actief</string>
-  <string name="usb_adb_input_apply_step_1">Uw computer zal in staat zijn om de instellingen en subsidierechten te wijzigen zonder dat je het weet wanneer het apparaat is aangesloten via USB</string>
-  <string name="usb_adb_input_apply_step_2">Dit kan leiden tot lekken van privé-informatie, zoals accounts of berichten</string>
-  <string name="usb_adb_input_apply_step_3">Zorg ervoor dat u de risico\'s begrijpt voordat u het toestaat. Nu toestaan?</string>
+  <string name="usb_adb_input_apply_step_1">Dit kan leiden tot lekken en verlies van prive informatie. We raden niet aan om dit te doen, tenzij je een ontwikkelaar bent.</string>
+  <string name="usb_adb_input_apply_step_2">Ontwikkelaars kunnen speciale software gebruiken om gebarente imiteren, instellingen wijzigen en machtigingen verlenen via USB.</string>
+  <string name="usb_adb_input_apply_step_3">Nu toestaan?</string>
   <string name="usb_install_desc">Deze app installeren via USB?</string>
   <string name="usbsharenet_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de USB aansluiting van het apparaat en start Mi PC Suite terug op.</string>
   <string name="usbsharenet_exception_title">Test gedeelt netwerk via USB</string>
