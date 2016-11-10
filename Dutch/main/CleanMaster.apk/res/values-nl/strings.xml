@@ -95,7 +95,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">Geen</string>
-  <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere nutteloze items</string>
+  <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere verouderde items</string>
   <string name="clear_immediately">Nu opruimen</string>
   <string name="clear_safe_notify">Beveiliging meldingsbalk</string>
   <string name="clip_board_history_desc">Gekopieerde/geknipte inhoud</string>
@@ -168,12 +168,13 @@
   <string name="empty_content_no_ignore_image">Leeg</string>
   <string name="empty_content_no_privacy">Leeg</string>
   <string name="empty_content_no_similar_image">Geen foto\'s</string>
-  <string name="empty_title_ad">Geen adv. bestanden gevonden</string>
+  <string name="empty_title_ad">Geen verouderde bestanden gevonden</string>
   <string name="empty_title_apk">Geen installatiepakketten gevonden</string>
   <string name="empty_title_garbage_cache">Niets om op te ruimen</string>
   <string name="empty_title_garbage_white_list">Ingedrukt houden om uitzonderingen toe te voegen.</string>
   <string name="empty_title_installed_apps">Leeg</string>
   <string name="empty_title_large_files">Leeg</string>
+  <string name="empty_title_photos">Geen foto\'s gevonden</string>
   <string name="empty_title_residual">Geen restanten gevonden</string>
   <string name="empty_title_video">Geen video\'s om te verwijderen​</string>
   <string name="flow_rank_title">Datagebruik</string>
@@ -188,7 +189,7 @@
   <string name="harass_detail">%1$d SMS en %2$d gesprekken geblokkeerd</string>
   <string name="header_optimizer">Door gebruik te maken van deze functie gaat u akkoord met %s</string>
   <string name="hint_clean_select_items">Duplicaten verwijderen…</string>
-  <string name="hints_ad_header_left">Bestanden toevoegen</string>
+  <string name="hints_ad_header_left">Verouderde bestanden</string>
   <string name="hints_apk_header_left">Pakketten</string>
   <string name="hints_apk_version">Versie %s</string>
   <string name="hints_app_uninstall_residual">Restanten van verwijderde apps opruimen?</string>
@@ -430,7 +431,7 @@
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virusscan</string>
   <string name="vungle_ad_name">Vungle advertentie</string>
-  <string name="white_list_ad_header">Advertentiebestanden: %d</string>
+  <string name="white_list_ad_header">Verouderde bestanden: %d</string>
   <string name="white_list_apk_header">Installatiepakketten: %d</string>
   <string name="white_list_cache_header">Gecachete bestanden: %d</string>
   <string name="white_list_large_file_header">Grote bestanden en video\'s: %d</string>
