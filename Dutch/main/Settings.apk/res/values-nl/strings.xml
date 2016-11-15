@@ -632,6 +632,8 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Huidig apparaat vervangt het oude.</string>
   <string name="bluetooth_unlock_change_matched_device">Ander apparaat kiezen</string>
   <string name="bluetooth_unlock_confirm_device_text">Leg apparaten samen om te ontgrendelen.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Tik op de knop op het uurwerk om te ontgrendelen.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tik op de knop op het apparaat om te ontgrendelen</string>
   <string name="bluetooth_unlock_delete_device">Verwijder dit apparaat</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Dit apparaat verwijderen?</string>
   <string name="bluetooth_unlock_device_matched_text">Tik op Bluetooth apparaat om te bevestigen.</string>
@@ -778,6 +780,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="children_mode_title">Kindermodus</string>
   <string name="choose_assist_title">Kies hulpapp</string>
   <string name="choose_profile">Kies profiel</string>
+  <string name="choose_smartcover_type">Kies het type hoesje</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="choose_voice_input_title">Kies spraakinvoer</string>
   <string name="cleaner">Opruimer</string>
@@ -1458,6 +1461,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="free_xiaomi_wifi_connect_summary">Tik om te verbinden met %1$s.</string>
   <string name="frequently_fragment_delete">Verwijderen</string>
   <string name="frequently_fragment_tempty">Regelmatig gebruikte items staan hier</string>
+  <string name="full_transparent_smarrcover_title">Doorzichtige voorklep</string>
   <string name="fullbackup_data_summary">"Automatisch apparaatgegevens (zoals Wi-Fi wachtwoorden en oproepgeschiedenis) en appgegevens (zoals instellingen en bestanden opgeslagen door apps) back-uppen.
 
 Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op afstand bewaard. Appgegevens kan van alles zijn wat een app heeft opgeslagen (gebaseerd op ontwikkelaarinstellingen), inclusief mogelijk gevoelige gegevens zoals contacten, berichten en foto\'s."</string>
@@ -1700,6 +1704,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="large_font">Groot</string>
   <string name="last_synced">Laatst gesync.: %1$s</string>
   <string name="last_time_used_label">Laatste keer gebruikt</string>
+  <string name="lattice_smartcover_title">Rooster voorklep</string>
   <string name="launch_by_default">Gebruiken als standaardapp</string>
   <string name="launch_defaults_none">Geen standaardapps ingesteld</string>
   <string name="launch_defaults_some">Sommige standaardapps ingesteld</string>
@@ -2229,6 +2234,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_updates_warning">Uw systeem is up to date.</string>
   <string name="no_updates_warning2">We laten je het weten als er een update is.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
+  <string name="normal_smartcover_title">Ondoorzichtige voorklep</string>
   <string name="not_installed">Niet geïnstalleerd voor deze gebruiker</string>
   <string name="notes_privacy_password_role_instruction">Uw privénotities zullen hier opgeslagen worden.</string>
   <string name="notification_app_settings_button">Meldingsinstellingen</string>
@@ -3439,7 +3445,10 @@ PIN code mogelijk onjuist.</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
-  <string name="smartcover_sensitive_title">Smartcover modus</string>
+  <string name="smallwindow_smartcover_title">Doorzichtige voorklep</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">smartcover vergrendeld of ontgrendeld het scherm</string>
+  <string name="smartcover_sensitive_summary">vergrendel of ontgrendel de telefoon met smartcover</string>
+  <string name="smartcover_sensitive_title">Smartcover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">%1$s gebruiken in plaats van %2$s als uw SMS app?</string>
   <string name="sms_change_default_dialog_title">SMS app wijzigen?</string>
