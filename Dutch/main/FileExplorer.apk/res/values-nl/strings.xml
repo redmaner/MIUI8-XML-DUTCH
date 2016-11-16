@@ -29,6 +29,8 @@
   <string name="auto_play">Automatisch afspelen wanneer verbonden met Wi-Fi</string>
   <string name="auto_play_later">Later</string>
   <string name="auto_play_now">Inschakelen</string>
+  <string name="auto_play_recommend">Automatisch afspelen</string>
+  <string name="auto_play_recommend_tips">Starten met video\'s automatisch af te spelen</string>
   <string name="auto_play_toast">Video\'s zullen automatisch afgespeeld worden. U kan dit wijzigen in instellingen.</string>
   <string name="backup_cancel">Niet backuppen</string>
   <string name="backup_checkbox_msg">Altijd backuppen en melding weergeven</string>
@@ -65,6 +67,7 @@
   <string name="category_favorite">Favorieten</string>
   <string name="category_file">Bestanden</string>
   <string name="category_files">Bestanden</string>
+  <string name="category_installed_app">Geïnstalleerde apps</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_music">Muziek</string>
   <string name="category_other">Overige</string>
@@ -114,6 +117,7 @@
   <string name="copy_failed">Kon niet kopiëren.</string>
   <string name="copy_text">Tekst kopiëren</string>
   <string name="copy_to">Kopiëren naar…</string>
+  <string name="create_shortcut_success">Snelkoppeling met succes toegevoegd</string>
   <string name="data_consumption_cancel">Afsluiten</string>
   <string name="data_consumption_checkbox_hint">Niet meer tonen</string>
   <string name="data_consumption_confirm">Ok</string>
@@ -146,6 +150,7 @@
   <string name="delete_video_dialog_tip">U kan de video niet meer herstellen nadat deze is verwijderd.</string>
   <string name="delete_video_dialog_title">Video verwijderen</string>
   <string name="delete_video_success">Verwijderen gelukt</string>
+  <string name="deleted_video_msg">U bent te laat. Deze video is verwijderd</string>
   <string name="dialog_logout_message">Nu afmelden?</string>
   <string name="dialog_logout_title">Afmelden</string>
   <string name="dialog_select_type">Type selecteren</string>
@@ -242,7 +247,8 @@
   <string name="instruction">Voer het volgende adres in op FTP client: </string>
   <string name="instruction_pre">Aanraken om de FTP server te starten</string>
   <string name="interest_recommend">Video\'s aanbevelen</string>
-  <string name="just_now">Zojuist</string>
+  <string name="is_playing">Speelt af…</string>
+  <string name="just_now">Zopas</string>
   <string name="kilobyteShort">KB</string>
   <string name="like_toast_1">Video\'s zolas deze zullen meer aanbevolen worden.</string>
   <string name="like_toast_2">Bekijk de video\'s die je leuk vond in je profiel.</string>
@@ -281,7 +287,8 @@
   <string name="menu_item_sort_name">Naam</string>
   <string name="menu_item_sort_type">Type</string>
   <string name="menu_item_usb">USB</string>
-  <string name="message_comment_prefix">"Reactie: "</string>
+  <string name="message_comment_prefix">"Opmerking: "</string>
+  <string name="message_my_received_notification">Nieuw bericht</string>
   <string name="message_my_received_praise">Mijn vind ik leuks</string>
   <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" vind deze reactie leuk"</string>
@@ -409,6 +416,7 @@
   <string name="phone_code_et_hint">Voer verificatiecode in</string>
   <string name="phone_get_code_tip">Teveel pogingen om code te krijgen vandaag</string>
   <string name="phone_has_used_tip">Deze telefoon is verbonden aan een bestaand account, probeer een andere.</string>
+  <string name="phone_login_btn_str">Telefoonnummer</string>
   <string name="phone_login_title">Telefoon</string>
   <string name="phone_num">Telefoonnummer</string>
   <string name="phone_num_et_hint">Voer telefoonnummer in</string>
@@ -433,6 +441,7 @@
   <string name="pick_file">Selecteer bestanden</string>
   <string name="pick_folder">Map kiezen</string>
   <string name="popup_msg_qq">Deel deze video met uw QQ vrienden.</string>
+  <string name="popup_msg_wb">Coole video? Deel het met uw Weibo vrienden!</string>
   <string name="popup_msg_wx">Deel deze video met uw WeChat vrienden.</string>
   <string name="port_range">Poort moet tussen 1024–65535 zijn</string>
   <string name="private_files">Verborgen</string>
@@ -517,9 +526,20 @@
   <string name="setting">Instellingen</string>
   <string name="setting_account_bind">Account toevoegen</string>
   <string name="setting_message_notify">Meldingen</string>
+  <string name="setting_shortcut">Startscherm snelkoppeling toevoegen</string>
+  <string name="share_from_youliao">Van #Betalen# @BetalenVideo）丨</string>
   <string name="share_success">Met succes gedeeld</string>
   <string name="share_tip_1">Bedankt om te delen, volg me om meer video\'s te bekijken</string>
   <string name="share_tip_2">Bedankt om te delen, volg me om meer video\'s te bekijken</string>
+  <string name="share_title_01">"%1$s Hier is een coole video! %2$s"</string>
+  <string name="share_title_02">"%1$s Hier is een coole video!"</string>
+  <string name="share_title_03">"%1$s Hier is een coole video! %2$s"</string>
+  <string name="share_title_04">%1$s Ik heb een video gedeeld, bekijk het eens! %2$s</string>
+  <string name="share_title_05">%1$s Ik heb een video gedeeld, bekijk het eens! %2$s</string>
+  <string name="share_title_06">%1$s Ik heb een video gedeeld, bekijk het eens! %2$s</string>
+  <string name="share_title_07">%s Ik heb een video gedeeld, bekijk het eens!</string>
+  <string name="share_title_08">%s Ik heb een video gedeeld, bekijk het eens!</string>
+  <string name="share_title_09">%s Ik heb een video gedeeld, bekijk het eens!</string>
   <string name="share_title_1">Een koele sticker bundel gevonden!</string>
   <string name="share_to">Delen naar…</string>
   <string name="share_youliao1">Upgraden om meer afleveringen te bekijken.</string>
@@ -534,6 +554,9 @@
 (GIFs kunnen worden toegevoegd aan aangepaste in WeChat Stickers)."</string>
   <string name="shared_sticker_use_tip_title">Hoe stickers gebruiken</string>
   <string name="shared_str">Gedeeld door %s</string>
+  <string name="shortcut_exists">Snelkoppeling bestaat reeds</string>
+  <string name="shortcut_hotvideos">Populaire video\'s</string>
+  <string name="shortcut_msg">Startscherm snelkoppeling voor populaire video\'s toevoegen</string>
   <string name="smb_loading">Een momentje…</string>
   <string name="sort_size_asc">Van klein naar groot</string>
   <string name="sort_size_desc">Van groot naar klein</string>
@@ -626,6 +649,7 @@
   <string name="user_follow_me_title">Mijn volgers</string>
   <string name="user_follow_title">Personen die ik volg</string>
   <string name="user_guide_continue_use">Ok</string>
+  <string name="user_guide_more_login">Andere manieren om aan te melden</string>
   <string name="user_icon">Profielfoto</string>
   <string name="user_info_setting">Info bewerken</string>
   <string name="user_like_text">Leuk gevonden</string>
@@ -697,6 +721,8 @@
   <string name="video_play_failed">Onbekende fout</string>
   <string name="video_publish_hint">Een goede beschrijving zal andere mensen helpen uw video te vinden</string>
   <string name="video_publish_hint2">Beschrijving</string>
+  <string name="video_publish_origin_tag">Originele tag</string>
+  <string name="video_publish_watchable_tag">Volg mij om deze video te bekijken</string>
   <string name="video_recommend_upload">Aanbevolen</string>
   <string name="video_status_reject">Afgewezen</string>
   <string name="video_status_review">Wordt beoordeeld</string>
@@ -720,15 +746,13 @@
   <string name="wechat_btn_str">Wechat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video op %s</string>
+  <string name="weibo_share_success">Met succes gedeeld</string>
   <string name="weixin_not_installed">WeChat is niet geïnstalleerd</string>
   <string name="weixin_sticker_tag_str">Stickers</string>
   <string name="welcome_to_my_page">Welkom op mijn startpagina</string>
   <string name="welcome_to_my_page_1">Volg me!</string>
   <string name="welcome_to_my_page_2">Volg me!</string>
   <string name="wifi_state">Wi-Fi netwerk</string>
-  <string name="wx_title1">Hier is een coole video!</string>
-  <string name="wx_title2">Ik heb een video gedeeld, bekijk die eens!</string>
-  <string name="wx_title3">Bekijk virale video\'s uit de hele wereld!</string>
   <string name="wxcircle_platform">Momenten</string>
   <string name="xiaomi_btn_bind">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>
