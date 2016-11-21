@@ -79,7 +79,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="antivirus_choose_engine_title">Definities</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Risicovolle apps verwijderen</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Virussen verwijderen</string>
-  <string name="antivirus_monitor_clean_tips">%s item verwijderen</string>
+  <string name="antivirus_monitor_clean_tips">Verwijderde items: %s</string>
   <string name="antivirus_monitor_risk_advice">Deze app is niet veilig, verwijder het</string>
   <string name="antivirus_monitor_virus_advice">Deze app kan een virus bevatten, verwijder het</string>
   <string name="antivirus_more_engine_dialog_summary">Meerdere definitiesets voor scannen kan mogelijk meer tijd in beslag nemen.</string>
@@ -543,8 +543,8 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="hints_need_regular_scan">Scan uw apparaat regelmatig</string>
   <string name="hints_power_percent_title">Batterij</string>
   <string name="hints_remember_choice">Voorkeur herinneren</string>
-  <string name="hints_risk_apk_list_item_summary">Risico (apk)</string>
-  <string name="hints_risk_app_list_item_summary">Risico (app)</string>
+  <string name="hints_risk_apk_list_item_summary">ap)</string>
+  <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Beschrijving:</string>
   <string name="hints_risk_name_title">Risico:</string>
   <string name="hints_scan_progress">Voltooid: %d</string>
@@ -555,9 +555,9 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="hints_scanning_text">Scannen…</string>
   <string name="hints_scanning_virus_by_cloud">Cloud scannen bezig…</string>
   <string name="hints_unknown_virus_name">Onbekend</string>
-  <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
+  <string name="hints_virus_apk_list_item_summary">apk</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
-  <string name="hints_virus_app_list_item_summary">Virus (app)</string>
+  <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Beschrijving:</string>
   <string name="hints_virus_lib_update_default_summary">Laatste: onbekend</string>
@@ -600,6 +600,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="keywords_securitycenter_settings">Batterijbespaarder;Toestemmingen;Zwarte lijst;Data verbruik;Data plan kalibreren;Netwerk testen;App blokkering;Batterij besparen;Opwarming;Inschakelen;Uitschakelen;Batterij;Leeglopen;Autostart;ROOT;Locatie;Toegang tot contacten;Blokkeren;Zwarte lijst;Slimme blokkeerlijst;Fraude;Verkoop;Agenten;Data;Verkeer;Kalibreren;Verbinding;Internet;Test;Wachtwoord;Privacy;Toegang;Beveiliging</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
+  <string name="label_mi_stats">Mi analyse</string>
   <string name="last_check_canceled">Vorige scan is geannuleerd</string>
   <string name="last_check_date_today">Meest recente scan: vandaag</string>
   <string name="last_check_date_yesterday">Meest recente scan: gisteren</string>
@@ -1229,13 +1230,13 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="sorted_button">Sorteren op</string>
   <string name="sorted_dialog_title">Sorteren op</string>
   <string name="sp_back_title_text_zero">Veilig</string>
-  <string name="sp_background_risk_dialog_summary">, neem een gedetailleerde controle en herstel betalingsrisico\'s</string>
-  <string name="sp_background_risk_dialog_title">Gevaarlijk</string>
+  <string name="sp_background_risk_dialog_summary">, controleer en herstel betalingsproblemen.</string>
+  <string name="sp_background_risk_dialog_title">Aandacht</string>
   <string name="sp_background_risk_type_messaging">Systeem berichtapp is vervangen</string>
   <string name="sp_background_risk_type_root">Systeem is geroot</string>
   <string name="sp_background_risk_type_sign">Onofficiële app wordt uitgevoerd</string>
-  <string name="sp_background_risk_type_virus">Virusapp wordt uitgevoerd</string>
-  <string name="sp_background_risk_type_wifi">Wi-Fi verbinding is gevaarlijk</string>
+  <string name="sp_background_risk_type_virus">Virusapp wordt uitgevoerd in de achtergrond</string>
+  <string name="sp_background_risk_type_wifi">Deze Wi-Fi verbinding is gevaarlijk</string>
   <string name="sp_button_text_ignore_alert_title">Dit item negeren?</string>
   <string name="sp_empty_title_sign_exception">De app ingedrukt houden om aan uitzonderingen toe te voegen</string>
   <string name="sp_monitored_apps_count_zero">Geen enkele betalingsapp is beveiligd</string>
@@ -1555,7 +1556,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="unable_connect_internet">Geen internet verbinding</string>
   <string name="uninstall_app_dialog_msg">Verwijderen zal alle app data verwijderen.</string>
   <string name="uninstall_app_dialog_title">Nu verwijderen?</string>
-  <string name="uninstall_app_done">Verwijderen voltooid</string>
+  <string name="uninstall_app_done">Met succes verwijderd</string>
   <string name="unlike">Nee bedankt</string>
   <string name="updating_diagnostic_botton">Data analyseren …</string>
   <string name="usage_sorted_activity_lable">Dataverbruik</string>

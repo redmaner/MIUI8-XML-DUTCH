@@ -147,4 +147,30 @@
         <item quantity="other">"%d contacten of foto\'s zijn niet gesync."</item>
         <item quantity="one">"1 contact of foto is niet gesync."</item>	
     </plurals>
+	<plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Zopas</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min geleden</item>
+        <item quantity="one">1 min geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Binnen een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d min</item>
+        <item quantity="one">in 1 min</item>
+    </plurals>
 </resources>
