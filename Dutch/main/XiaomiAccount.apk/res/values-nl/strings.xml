@@ -57,7 +57,6 @@
   <string name="app_name">Mi Account</string>
   <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
-  <string name="barcode_add_account_prompt">Om een account te verbinden, scan na het aanmelden de QR code.</string>
   <string name="bind_facebook">Facebook account verbinden</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Accounts</string>
@@ -133,6 +132,7 @@
   <string name="forward_to_bind">Toevoegen</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
   <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
+  <string name="guest_account_label">Mi Gast Account</string>
   <string name="ignore">Niet nu</string>
   <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
   <string name="io_error_title">Bevestig uw netwerk</string>
@@ -168,6 +168,10 @@
   <string name="notify_network_restricted_content_hidden_state">Achtergrondactiviteit van Mi Account is beperkt. Tik om toe te staan.</string>
   <string name="notify_network_restricted_content_mobile_network">Internettoegang van Mi Account is beperkt. Tik om toe te staan.</string>
   <string name="notify_network_restricted_title">Mi Account kon niet verbinden met netwerk</string>
+  <string name="oauth_get_scopes_failed">Kon account info niet verkrijgen</string>
+  <string name="oauth_getting_scopes">Account verifiëren…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; zal volgende toestemming krijgen:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Aanmelden met Mi Account</string>
   <string name="other_devices_title">Andere apparaten</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
   <string name="passport_account_hint_text">E-mailadres of Mi Account ID</string>
@@ -183,6 +187,7 @@
   <string name="passport_auto_generate_pwd">Maak een veilig wachtwoord aan</string>
   <string name="passport_back">Terug</string>
   <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
+  <string name="passport_barcode_add_account_prompt">Om een account te verbinden, scan na het aanmelden de QR code.</string>
   <string name="passport_change_account">Account wijzigen</string>
   <string name="passport_change_phone_number">Wissel van nummer</string>
   <string name="passport_checking_account">Wachtwoord controleren…</string>
@@ -362,7 +367,7 @@ Zorg ervoor dat u de antwoorden op deze vragen nog weet."</string>
   <string name="unbind_sns_description">Na verbreking, kan je niet aanmelden op je Mi account met behulp van  %s</string>
   <string name="unlock_help_notice">"Help:
 · Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
-· Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen
+· Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen.
 · Geef dit ontgrendelnummer bij de klantenservice: %s"</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>

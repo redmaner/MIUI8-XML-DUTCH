@@ -4,9 +4,14 @@
   <string name="app_name">Secure Spaces Agent</string>
   <string name="choice_no">Nee</string>
   <string name="choice_yes">Ja</string>
+  <string name="dialog_download_space_cancel">Annuleren</string>
+  <string name="dialog_download_space_create">Ok</string>
+  <string name="dialog_download_space_title">Download ruimte?</string>
   <string name="dialog_password_expired_button">Wachtwoord updaten</string>
   <string name="dialog_password_expired_message">Uw wachtwoord is verlopen of is niet langer geldig op grond van het huidige beleid. Update uw wachtwoord.</string>
   <string name="dialog_password_expired_title">Wachtwoord verlopen</string>
+  <string name="dialog_space_creating_text">Wachten</string>
+  <string name="dialog_space_creating_title">Nieuwe ruimte aanmaken</string>
   <string name="expiration_status_future">Wachtwoord zal verlopen %1$s voor het moment</string>
   <string name="expiration_status_past">Wachtwoord is %1$s geleden verlopen</string>
   <string name="label_activity_debug">Policy Debug</string>
@@ -49,5 +54,9 @@
   <string name="sscm_registration_disclaimer">Secure Spaces zorgt voor integriteit en updates aan uw ruimte. Secure Spaces heeft een kleine hoeveelheid netwerkgebruik nodig. Neem contact op met uw lokale serviceprovider voor de kosten. Als u akkoord gaat met deze voorwaarden kunt u \"Ja\"  selecteren om u op Secure Space te abonneren.</string>
   <string name="sscm_registration_summary">Trek de meldingen naar beneden om details te bekijken</string>
   <string name="title_sscm_registration">Secure Spaces Service herinnering</string>
+  <string name="toast_space_creation_failed">Mislukt om ruimte aan te maken</string>
+  <string name="uri_invalid">URI of QR code beschrijft geen veilige ruimte</string>
+  <string name="uri_invalid_server_url">Ongeldige server URL in registratie URI</string>
+  <string name="uri_missing_registration_token">Lege of ontbrekende registratie token in de registratie URI</string>
   <string name="wifi">Wi-Fi</string>
 </resources>

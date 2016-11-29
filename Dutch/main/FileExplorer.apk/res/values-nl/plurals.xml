@@ -241,12 +241,8 @@
         <item quantity="many">video\'s</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s video\'s</item>
-        <item quantity="zero">%1$s video\'s</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s video\'s</item>
-        <item quantity="few">%1$s video\'s</item>
-        <item quantity="many">%1$s video\'s</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> video\'s</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>
     </plurals>
 	<plurals name="number_of_comment_flow">
         <item quantity="other">%1$s opmerkingen</item>
@@ -269,8 +265,8 @@
         <item quantity="one">• %1$d dag</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• U hebt %1$s video\'s geüpload,</item>
-        <item quantity="one">• U hebt %1$s video geüpload,</item>
+        <item quantity="other">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video\'s geüpload.</item>
+        <item quantity="one">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video geüpload.</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">U hebt %1$s personen gelukkig gemaakt!</item>
@@ -279,5 +275,13 @@
     <plurals name="original_user_fans">
         <item quantity="other">• U hebt %1$s volgers!</item>
         <item quantity="one">• U hebt %1$s volger!</item>
+    </plurals>
+	<plurals name="video_publish_watchable_hint">
+        <item quantity="other">Verkrijg %1$d meer volgers om uw status​ te upgraden</item>
+        <item quantity="one">Verkrijg %1$d volger meer om uw status​ te upgraden</item>
+    </plurals>
+	<plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> volgers</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> volger</item>
     </plurals>
 </resources>

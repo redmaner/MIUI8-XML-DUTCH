@@ -3,8 +3,6 @@
   <string name="add_account_desc">Uw notities synchroniseren met uw Mi Account?</string>
   <string name="alarm_bar_title">Herinnering</string>
   <string name="alert_action_edit_anyway">Blijven bewerken</string>
-  <string name="alert_edit_action_delete">Verwijderen</string>
-  <string name="alert_edit_action_update">Veranderen</string>
   <string name="alert_message_delete">%1$s verwijderen?</string>
   <string name="alert_message_delete_note">Deze notitie verwijderen?</string>
   <string name="alert_message_edit_anyway">Als u deze notitie bewerkt, kan dat resulteren in gegevensverlies.</string>
@@ -17,16 +15,11 @@
   <string name="all_terms">%1$s en %2$s</string>
   <string name="app_name">Notities</string>
   <string name="app_widget">Notities</string>
-  <string name="attachment_camera">Foto nemen</string>
-  <string name="attachment_contact">Contacten</string>
-  <string name="attachment_gallery">Kiezen uit galerij</string>
-  <string name="button_new_note">Nieuw</string>
   <string name="call_folder_name">Gespreksgegevens</string>
   <string name="delete_folder_dialog_tile">Map verwijderen</string>
   <string name="dlg_btn_set_password">Wachtwoord instellen</string>
   <string name="dlg_check_reminder">Niet meer tonen</string>
   <string name="dlg_delete_message">Bezig met verwijderen…</string>
-  <string name="dlg_desc_confirm_alarm_silent">Alarm en notities dempen in stille modus.</string>
   <string name="dlg_hide_message">Verbergen…</string>
   <string name="dlg_info_creating_message">Bericht aanmaken…</string>
   <string name="dlg_message_password_reset">Wachtwoord van verborgen notitie zal worden vervangen door privacy wachtwoordbeveiliging die werkt voor berichten, foto\'s en verborgen mappen</string>
@@ -36,13 +29,10 @@
   <string name="dlg_quick_delete_title">Snel verwijderen</string>
   <string name="dlg_restore_message">Herstellen…</string>
   <string name="dlg_stick_message">Pinnen…</string>
-  <string name="dlg_title_confirm_alarm_silent">Wilt u de alarmen dempen in stille modus?</string>
   <string name="dlg_title_password_reset">Upgrade uw wachtwoord</string>
   <string name="dlg_title_set_password">Wachtwoord instellen</string>
   <string name="dlg_title_use_privacy_password">Gebruik privacy wachtwoordbeveiliging</string>
   <string name="dlg_unhide_message">Zichtbaar maken…</string>
-  <string name="empty_folder_hint">"Geen folders
-Druk op het plusteken om een folder te maken"</string>
   <string name="enable_sync">Sync.</string>
   <string name="enable_sync_desc">Uw notities sync. met uw Mi Account (%1$s)?</string>
   <string name="error_contact_not_exist">Het contact bestaat niet</string>
@@ -76,7 +66,6 @@ Druk op het plusteken om een folder te maken"</string>
   <string name="menu_send_as_image">Verzenden als afbeelding</string>
   <string name="menu_send_as_text">Verzenden als tekst</string>
   <string name="menu_send_to_desktop">Snelkoppeling maken op startscherm</string>
-  <string name="menu_send_wechat">Verzenden naar WeChat</string>
   <string name="menu_send_weibo">Verzenden naar Weibo</string>
   <string name="menu_source">Van %1$s</string>
   <string name="menu_stick">Vastzetten</string>
@@ -94,14 +83,11 @@ Druk op het plusteken om een folder te maken"</string>
   <string name="note_sort_way">Selecteer hoe u uw notities wenst te sorteren</string>
   <string name="notealert_enter">Notitie openen</string>
   <string name="notealert_ok">Weggooien</string>
-  <string name="notelist_menu_new">Notitie toevoegen</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Alarm herinnering</string>
   <string name="permdesc_accessNote">Schadelijke apps zouden dit kunnen gebruiken om toegang te krijgen tot uw persoonlijke gegevens.</string>
   <string name="permlab_accessNote">Toegang tot notities</string>
-  <string name="pref_desc_alarm_when_silent">Alarmen voor herinneringen zullen afgaan in stille modus</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Geen bevestiging meer vragen wanneer de notitie verwijderd is door een gebaar</string>
-  <string name="pref_title_alarm_when_silent">Herinneringen niet dempen</string>
   <string name="pref_title_common">Extra instellingen</string>
   <string name="pref_title_font_size">Lettergrootte</string>
   <string name="pref_title_note_style">Stijl</string>
@@ -132,7 +118,6 @@ Druk op het plusteken om een folder te maken"</string>
   <string name="sns_choose_quality_low">Laag</string>
   <string name="sns_choose_quality_title">Kies afbeeldingskwaliteit</string>
   <string name="sns_desc_image_preview">Voorbeeld bericht</string>
-  <string name="sns_desc_preview_wechat">WeChat bericht voorbeeld</string>
   <string name="sns_desc_preview_weibo">Weibo bericht voorbeeld</string>
   <string name="sns_footer_text">Gemaakt met Mi Notes</string>
   <string name="sns_hint_content">Bericht invoeren</string>
@@ -154,7 +139,6 @@ Druk op het plusteken om een folder te maken"</string>
   <string name="theme_title_star">Sterren</string>
   <string name="theme_title_yellow">Geel</string>
   <string name="toast_message_add_image_fail">Afbeelding invoegen mislukt!</string>
-  <string name="toast_message_add_text_warn">Dit type bestand is niet ondersteund</string>
   <string name="toast_notes_delete_success">Met succes verwijderd</string>
   <string name="toast_notes_hidden">Met succes verborgen</string>
   <string name="toast_notes_hidden_count">%1$s met succes verborgen</string>

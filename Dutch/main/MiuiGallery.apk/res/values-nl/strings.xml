@@ -77,6 +77,7 @@
   <string name="alert_secret_album_enter">Begrepen</string>
   <string name="alert_secret_album_message">Veeg omlaag vanaf de bodem van uw albums om het verborgen album te bekijken. Om het te beschermen moet u een patroon instellen.</string>
   <string name="alert_secret_album_title">Toegevoegd aan verborgen album</string>
+  <string name="all_faces">Alle foto\'s met personen op</string>
   <string name="all_items_synced">Alle albums zijn geback-upt naar Mi Cloud</string>
   <string name="all_video_album_display_name">Alle video\'s</string>
   <string name="already_create_baby_album">Babyalbum bestaat reeds in Mi Cloud.</string>
@@ -161,7 +162,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
   <string name="cloud_settings">Galerij backups</string>
-  <string name="cloud_space_full_button_text">Meer Mi Cloud opslag verkrijgen</string>
+  <string name="cloud_space_full_button_text">Meer opslag verkrijgen</string>
   <string name="cloudfolder_cannot_start_with">"De naam van een album kan niet beginnen met '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"De naam van een album kan geen '%s' bevatten"</string>
   <string name="cloudfolder_name_cannot_empty">Geef de album een naam</string>
@@ -172,6 +173,9 @@
   <string name="confirm_download_video_message">U moet de download van de video voltooien alvorens u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Passen</string>
+  <string name="confirm_hidden_recommend_group">Ok</string>
+  <string name="confirm_hidden_recommend_group_message">Wanneer aanbevelingen uitgeschakeld zijn, kan je nog steeds \"Meer mensen die op elkaar lijken\" optie gebruiken</string>
+  <string name="confirm_hidden_recommend_group_title">Aanbevelingen niet weergeven</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Dit album samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Deze albums samenvoegen met %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Geen gelijkenissen</string>
@@ -244,6 +248,8 @@
   <string name="download_without_wifi_title">Waarschuwing dataverbruik</string>
   <string name="edit_baby_info">Babyinfo weergeven</string>
   <string name="email_picker_title">Gedeelde e-mail toevoegen</string>
+  <string name="empty_recommend_button_view">Terug</string>
+  <string name="empty_recommend_face_page_view">Geen aanbevelingen meer</string>
   <string name="enable_auto_upload_tip">Deze album zal verwijderd worden uit andere albums nadat u deze hebt ingeschakeld.</string>
   <string name="enable_auto_upload_title">Sync. met Mi Cloud inschakelen</string>
   <string name="enable_cloud_for_sharing">Schakel Mi Cloud albums in om gedeelde foto\'s te bekijken.</string>
@@ -285,7 +291,11 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="face_album_use_tip">Foto\'s automatisch sorteren op mensen die erop staan.</string>
   <string name="face_albumset_loading_data">Gegevens laden…</string>
   <string name="face_choose_tip">Kies uit bestaand album</string>
+  <string name="face_confirm">Dit is dezelfde persoon</string>
   <string name="face_move_dialog_title">Kies een album</string>
+  <string name="face_name_edit">Bewerken</string>
+  <string name="face_name_input">Naam invoeren</string>
+  <string name="face_recommend">Aanbevelingen</string>
   <string name="fail_hint">Kon handeling niet voltooien</string>
   <string name="fail_to_pick_email">Ongeldig e-mailadres</string>
   <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerkverbinding.</string>
@@ -394,7 +404,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="merge_album_title">Albums samenvoegen</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="micloud_introduce">Foto\'s en video\'s automatisch back-uppen (Mi account is vereist)</string>
-  <string name="more_album_hint">, etc.</string>
+  <string name="more_album_hint">, enz.</string>
+  <string name="more_face">eer personen die op elkaar lijken</string>
   <string name="more_face_album_name">Meer personen</string>
   <string name="move_to_other_albums_tip">Sync. met Mi Cloud zal uitgeschakeld worden als u deze verplaatst naar andere albums. Nu verplaatsen?</string>
   <string name="must_pick_file">Kies een foto</string>
@@ -511,6 +522,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="relation_text_mother">Moeder</string>
   <string name="relation_with_you">Relatie kiezen</string>
   <string name="release_space_finish_format">%s lokale opslag vrijgemaakt</string>
+  <string name="remind_face_recommend_confirm">Bevestigen</string>
   <string name="remove_from_other_albums_tip">Sync. met Mi Cloud inschakelen om items te verplaatsen naar andere albums. Nu verplaatsen?</string>
   <string name="remove_from_secret_fail">Kon niet verwijderen uit verborgen album</string>
   <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderen uit verborgen album. %1$s."</string>
@@ -695,7 +707,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_unsupport_audio_file">Niet ondersteund audiobestand</string>
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>
-  <string name="view_baby_album">Babyalbum weergeven</string>
   <string name="view_by_gallery_tip">MIUI Galerij</string>
   <string name="view_face_album">Album weergeven</string>
   <string name="view_queuing_status">Status controleren</string>
