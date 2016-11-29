@@ -116,7 +116,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_put_finger_edge_msg">Beweeg uw vinger iets en plaats het weer op de sensor om alle verschillende onderdelen toe te voegen van uw vingerafdruk.</string>
   <string name="add_fingerprint_put_finger_msg">Plaatst u uw vinger op de sensor en verwijder hem nadat u een trilling voelde.</string>
   <string name="add_fingerprint_put_finger_title">Vingerafdruk toevoegen</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Uw licht vinger bewegen</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Beweeg uw vinger een beetje</string>
   <string name="add_fingerprint_success_msg">Met succes toegevoegd</string>
   <string name="add_fingerprint_text">Vingerafdruk toevoegen</string>
   <string name="add_fingerprint_toast_text">Plaats uw vinger nu op de sensor</string>
@@ -707,7 +707,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="button_text_next_step">Volgende</string>
   <string name="button_text_next_step_timer">Volgende stap (%d)</string>
   <string name="button_text_ok">Ok</string>
-  <string name="button_text_ok_timer">Ok(%d)</string>
+  <string name="button_text_ok_timer">Ok (%d)</string>
   <string name="button_text_reboot_now">Herstart nu</string>
   <string name="button_text_reject">Afwijzen</string>
   <string name="cache_header_label">Cachegeheugen</string>
@@ -1056,7 +1056,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="debug_monitoring_category">Controleren</string>
   <string name="debug_networking_category">Verbindingen</string>
   <string name="debug_view_attributes">Attribuut inspectie bekijken inschakelen</string>
-  <string name="defalut_launcher_title">Standaard Launcher</string>
+  <string name="defalut_launcher_title">Standaard launcher</string>
   <string name="default_app">(Standaard)</string>
   <string name="default_apps_title">Standaardpps</string>
   <string name="default_assist_none">Geen</string>
@@ -1388,8 +1388,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="fingerprint_enable_keyguard_toggle_title">schermvergrendeling</string>
   <string name="fingerprint_enroll_button_add">Andere toevoegen</string>
   <string name="fingerprint_enroll_button_next">Volgende</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Vingeradruk 
-  (eerst vergrendelscherm wachtwoord ingestellen voordat uw het gebruikt)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Vingerafdruk 
+  (eerst vergrendelschermwachtwoord instellen voordat u het kan gebruiken)</string>
   <string name="fingerprint_for_keyguard_disabled">Vingerafdruk is uitgeschakeld door beveiligingsinstellingen.</string>
   <string name="fingerprint_identify_input_password_msg">Voer wachtwoord in</string>
   <string name="fingerprint_identify_msg">Vingerafdruk lezen…</string>
@@ -1400,7 +1400,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="fingerprint_list_title">Vingerafdruk</string>
   <string name="fingerprint_lock_first">Eerste ruimte ontgrendelen</string>
   <string name="fingerprint_lock_second">Tweede ruimte ontgrendelen</string>
-  <string name="fingerprint_manage">Vingeradrukken beheren</string>
+  <string name="fingerprint_manage">Vingerafdrukken beheren</string>
   <string name="fingerprint_manage_category_title">Vingerafdrukken beheren</string>
   <string name="fingerprint_not_identified_msg">Kon vingerafdruk niet lezen. Voer uw wachtwoord in"</string>
   <string name="fingerprint_not_recognized">Niet herkend</string>
@@ -1828,7 +1828,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s na slaapstand, tenzij wakker gehouden door %2$s</string>
   <string name="lock_immediately_summary_with_exception">Direct na slaapstand, tenzij wakker gehouden door %1$s</string>
-  <string name="lock_screen_cells_title">Vergrendel het startscherm layout</string>
+  <string name="lock_screen_cells_title">Startschermlayout vergrendelen</string>
   <string name="lock_screen_notifications_interstitial_message">Wanneer uw toestel vergrendeld is, hoe wilt u meldingen weergeven?</string>
   <string name="lock_screen_notifications_interstitial_title">Meldingen</string>
   <string name="lock_screen_notifications_summary_disable">Geen enkele melding weergeven</string>
@@ -1839,7 +1839,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig na %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
   <string name="lock_screen_signature_summary">De handtekening zal worden weergegeven op het vergrendelscherm</string>
-  <string name="lock_screen_signature_title">Vergrendelscherm handtekening</string>
+  <string name="lock_screen_signature_title">Handtekening vergrendelscherm</string>
   <string name="lock_screen_unlock_show">Scherm vegen overslaan</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord invoeren na het ontwaken</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tik om te wijzigen</string>
@@ -1967,7 +1967,7 @@ U bent momenteel aangemeld bij de volgende accounts:
 </string>
   <string name="master_clear_all">"Wilt u alle data van uw apparaat wissen? Dit kan niet ongedaan gemaakt worden!"</string>
   <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Herstel fabrieksinstellingen&amp;#8221; zal alle data op uw telefoon wissen&lt;/b&gt;, inclusief foto\'s, nummers, notities en andere persoonlijke data. Maak een back-up van alle belangerijke items op uw computer.</string>
-  <string name="master_clear_apply_step_2">Maak een back-up van alle belangerijke items op uw computer. Alle data zal gewist worden tijdens het hertsel. &lt;b&gt;Het zal niet mogelijk zijn om data die niet geback-upt te herstellen.&lt;/b&gt;</string>
+  <string name="master_clear_apply_step_2">Maak een back-up van alle belangrijke items op uw computer. Alle data zal gewist worden tijdens het herstel. &lt;b&gt;Het zal niet mogelijk zijn om data die niet geback-upt is te herstellen.&lt;/b&gt;</string>
   <string name="master_clear_apply_title">Aandacht</string>
   <string name="master_clear_button_text">Apparaat opnieuw instellen</string>
   <string name="master_clear_confirm_title">Opnieuw instellen?</string>
@@ -2204,7 +2204,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="networks_title">Mobiele netwerken</string>
   <string name="never">Nooit</string>
   <string name="new_backup_pw_prompt">Geef hier een nieuw wachtwoord voor volledige back-ups op</string>
-  <string name="new_password_to_new_fingerprint_dialog_msg">Nadat u de vingerafdruk heb toegevoegd kan deze gebrikt worden om het scherm te ontgrendelen</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Nadat u de vingerafdruk hebt toegevoegd kan deze gebrikt worden om het scherm te ontgrendelen</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">Annuleren</string>
   <string name="new_password_to_new_fingerprint_dialog_positive_msg">Toevoegen</string>
   <string name="new_password_to_new_fingerprint_dialog_tittle">Vingerafruk  toevoegen</string>
@@ -2899,8 +2899,8 @@ U verliest geen app gegevens."</string>
   <string name="reset_second_space_passwd">Wachtwoord tweede ruimte resetten</string>
   <string name="reset_second_space_passwd_cancel">Annuleren</string>
   <string name="reset_second_space_passwd_confirm">Doorgaan</string>
-  <string name="reset_second_space_passwd_detail">Voor het Mi Account wachtwoord in die gebruikt is in de eerste ruimte</string>
-  <string name="resetting_second_space_passwd">Tweede ruimte wachtwoord aan her resetten</string>
+  <string name="reset_second_space_passwd_detail">Voer het Mi Account wachtwoord in die gebruikt is in de eerste ruimte</string>
+  <string name="resetting_second_space_passwd">Tweede ruimte wachtwoord aan het resetten</string>
   <string name="resolver_settings_label">Sorteren</string>
   <string name="resource_ringtone_volume_mute">Het geluid is uitgeschakeld</string>
   <string name="restore_default_apn">Standaard APN instellingen herstellen.</string>
@@ -2968,7 +2968,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen">Scherm</string>
   <string name="screen_button">Schermknoppen</string>
   <string name="screen_button_tips">Naar beneden vegen om de schermknoppen te verbergen</string>
-  <string name="screen_cells_config_title">Startscherm layout</string>
+  <string name="screen_cells_config_title">Startschermlayout</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">Kan kleurtemperatuur niet aanpassen in leesmodus</string>
   <string name="screen_color_temperature">Kleuren</string>
@@ -3479,7 +3479,7 @@ PIN code mogelijk onjuist.</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
   <string name="smallwindow_smartcover_title">Doorzichtige voorklep</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">Smartcover modus</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Smartcovermodus</string>
   <string name="smartcover_sensitive_summary">Vergrendel of ontgrendel de telefoon automatisch met smartcover</string>
   <string name="smartcover_sensitive_title">Smartcover</string>
   <string name="sms_application_title">SMS app</string>
@@ -3898,11 +3898,11 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tts_status_title">Status van standaardtaal</string>
   <string name="turn_off_common_password_confirm_msg">Schermvergrendeling zal ook uitgeschakeld worden.</string>
   <string name="turn_off_keyguard_password_alert_title">Uitschakelen</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Vergrendelscherm wachtwoord uitschakelen?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">U zal de vingerafdruk functie niet meer kunnen gebruiken nadat het vergrendelscherm wachtwoord uitgeschakeld is</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Wachtwoord op vergrendelscherm uitschakelen?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">U zal de vingerafdrukfunctie niet meer kunnen gebruiken nadat het vergrendelschermwachtwoord uitgeschakeld is</string>
   <string name="turn_off_radio">Radio uitschakelen</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
-  <string name="turn_on_keyguard_password">Vergrendelscherm wachtwoord inschakelen</string>
+  <string name="turn_on_keyguard_password">Wachtwoord op vergrendelscherm inschakelen</string>
   <string name="turn_on_radio">Radio inschakelen</string>
   <string name="turn_on_security_lock">Kies schermvergrendeling</string>
   <string name="under_keyguard">Scherm uit</string>
