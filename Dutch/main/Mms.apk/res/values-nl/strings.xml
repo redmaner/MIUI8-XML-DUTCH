@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string name="about_smart_sms_title">Slimme berichten partner</string>
   <string name="action_firewall_setting">Zwarte lijst</string>
   <string name="activity_not_found">Geen app gevonden om deze handeling uit te voeren</string>
   <string name="activity_not_found_uri">Geen app gevonden om deze handeling uit te voeren</string>
@@ -210,6 +211,16 @@
   <string name="hms_first_use_tips">Om berichten te onvangen, moet je verbonden zijn met een Wi-Fi netwerk</string>
   <string name="hms_uri_param_err">URL kan niet leeg zijn</string>
   <string name="hold_to_talk">Ingedrukt houden om te spreken</string>
+  <string name="hybrid_check_network">Netwerk instellingen</string>
+  <string name="hybrid_data_error">Er is een fout opgetreden</string>
+  <string name="hybrid_locating_fail">Kon uw locatie niet vinden</string>
+  <string name="hybrid_network_access_denied">Toegang tot het netwerk geweigerd</string>
+  <string name="hybrid_network_unavaliable">Kan niet verbinden met netwerk</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Trekken om te vernieuwen…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Een momentje…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Loslaten om te vernieuwen…</string>
+  <string name="hybrid_service_unavailiable">Dienst is niet beschikbaar</string>
+  <string name="hybrid_try_again">Probeer opnieuw</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Berichten importeren naar privé Berichtenbox…</string>
   <string name="in_sms">Bericht</string>
@@ -382,9 +393,9 @@
   <string name="pref_delivery_ringtone">Aflever geluid</string>
   <string name="pref_edit_smsc_address">SMS berichtencentrum telefoonnr.</string>
   <string name="pref_forward_title">Vooruit</string>
-  <string name="pref_message_recovery_introduction_title">Berichten herstellen</string>
   <string name="pref_messages_to_save">Stel het aantal berichten om op te slaan</string>
   <string name="pref_mms_settings_title">Multimediaberichten (MMS)</string>
+  <string name="pref_msg_trash_bin_title">Recent verwijderde berichten</string>
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
@@ -412,6 +423,7 @@
   <string name="pref_time_auto_group_disabled_summary">Is niet ondersteunt in huidige lettergrootte</string>
   <string name="pref_time_auto_group_summary">Berichten die binnen een minuut van elkaar worden ontvangen samen groeperen</string>
   <string name="pref_time_auto_group_title">Groeperen op tijd</string>
+  <string name="pref_title_about_smart_sms">Over slimme berichten partner</string>
   <string name="pref_title_allow_si_sl_push">WAP pushberichten toestaan (SI/SL)</string>
   <string name="pref_title_card_format">Deel kaart indeling</string>
   <string name="pref_title_delivery_reports">Afleverrapporten</string>

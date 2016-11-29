@@ -1389,7 +1389,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="fingerprint_enroll_button_add">Andere toevoegen</string>
   <string name="fingerprint_enroll_button_next">Volgende</string>
   <string name="fingerprint_first_open_screen_password_tittle">Vingeradruk 
-  (vingerafdruk kan gebruikt worden nadat het vergrendelscherm wachtwoord ingesteld is)</string>
+  (eerst vergrendelscherm wachtwoord ingestellen voordat uw het gebruikt)</string>
   <string name="fingerprint_for_keyguard_disabled">Vingerafdruk is uitgeschakeld door beveiligingsinstellingen.</string>
   <string name="fingerprint_identify_input_password_msg">Voer wachtwoord in</string>
   <string name="fingerprint_identify_msg">Vingerafdruk lezen…</string>
@@ -1400,7 +1400,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="fingerprint_list_title">Vingerafdruk</string>
   <string name="fingerprint_lock_first">Eerste ruimte ontgrendelen</string>
   <string name="fingerprint_lock_second">Tweede ruimte ontgrendelen</string>
-  <string name="fingerprint_manage">Vingeradruk beheer</string>
+  <string name="fingerprint_manage">Vingeradrukken beheren</string>
   <string name="fingerprint_manage_category_title">Vingerafdrukken beheren</string>
   <string name="fingerprint_not_identified_msg">Kon vingerafdruk niet lezen. Voer uw wachtwoord in"</string>
   <string name="fingerprint_not_recognized">Niet herkend</string>
@@ -1668,7 +1668,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_layout_picker_title">Toetsenbordindelingen</string>
   <string name="keyboard_settings_category">Toetsenbord en invoermethoden</string>
   <string name="keyboard_settings_title">Android toetsenbord</string>
-  <string name="keyguard_advance_setting_title">Keyguard geavanceerde instellingen</string>
+  <string name="keyguard_advance_setting_title">Geavanceerde instellingen</string>
   <string name="keyguard_left_function_chooser_hint_text">Linker snelkoppeling veranderd naar %s</string>
   <string name="keyguard_left_function_chooser_title">App</string>
   <string name="keyguard_left_function_title">Links</string>
@@ -1720,8 +1720,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="launch_by_default">Gebruiken als standaardapp</string>
   <string name="launch_defaults_none">Geen standaardapps ingesteld</string>
   <string name="launch_defaults_some">Sommige standaardapps ingesteld</string>
-  <string name="launcher_auto_fill_empty_title">Automatisch lege cellen vullen</string>
-  <string name="launcher_title">Launcher</string>
+  <string name="launcher_auto_fill_empty_title">Lege cellen vullen</string>
+  <string name="launcher_title">Startscherm</string>
   <string name="launching_cit">CIT starten</string>
   <string name="launching_pho">Telefooninformatie starten, geduld alstublieft.</string>
   <string name="launching_rep">Bugreporting, geduld alstublieft.</string>
@@ -1828,7 +1828,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s na slaapstand, tenzij wakker gehouden door %2$s</string>
   <string name="lock_immediately_summary_with_exception">Direct na slaapstand, tenzij wakker gehouden door %1$s</string>
-  <string name="lock_screen_cells_title">Vergrendelscherm cellen</string>
+  <string name="lock_screen_cells_title">Vergrendel het startscherm layout</string>
   <string name="lock_screen_notifications_interstitial_message">Wanneer uw toestel vergrendeld is, hoe wilt u meldingen weergeven?</string>
   <string name="lock_screen_notifications_interstitial_title">Meldingen</string>
   <string name="lock_screen_notifications_summary_disable">Geen enkele melding weergeven</string>
@@ -2084,7 +2084,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_allow_vibrate">Trillingen</string>
   <string name="miui_data_usage_menu_metered">Mobiele hotspots</string>
   <string name="miui_experience_optimization">MIUI optimalisaties inschakelen</string>
-  <string name="miui_screen_config_title">Miui Launcher scherm configuratie</string>
+  <string name="miui_screen_config_title">Startscherm instellingen</string>
   <string name="mms_breathing_light_color_title">Kleur bij berichten</string>
   <string name="mms_breathing_light_freq_title">Knipperfrequentie berichten</string>
   <string name="mms_privacy_password_role_instruction">Uw conversaties met privécontacten zullen hier opgeslagen worden.</string>
@@ -2896,6 +2896,11 @@ U verliest geen app gegevens."</string>
   <string name="reset_network_final_button_text">Instellingen herstellen</string>
   <string name="reset_network_final_desc">Alle netwerkinstellingen herstellen? Je kan deze actie niet terugdraaien!</string>
   <string name="reset_network_title">Netwerkinstellingen herstellen</string>
+  <string name="reset_second_space_passwd">Wachtwoord tweede ruimte resetten</string>
+  <string name="reset_second_space_passwd_cancel">Annuleren</string>
+  <string name="reset_second_space_passwd_confirm">Doorgaan</string>
+  <string name="reset_second_space_passwd_detail">Voor het Mi Account wachtwoord in die gebruikt is in de eerste ruimte</string>
+  <string name="resetting_second_space_passwd">Tweede ruimte wachtwoord aan her resetten</string>
   <string name="resolver_settings_label">Sorteren</string>
   <string name="resource_ringtone_volume_mute">Het geluid is uitgeschakeld</string>
   <string name="restore_default_apn">Standaard APN instellingen herstellen.</string>
@@ -2963,7 +2968,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen">Scherm</string>
   <string name="screen_button">Schermknoppen</string>
   <string name="screen_button_tips">Naar beneden vegen om de schermknoppen te verbergen</string>
-  <string name="screen_cells_config_title">Sherm cellen configuratie</string>
+  <string name="screen_cells_config_title">Startscherm layout</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">Kan kleurtemperatuur niet aanpassen in leesmodus</string>
   <string name="screen_color_temperature">Kleuren</string>
@@ -3893,11 +3898,11 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tts_status_title">Status van standaardtaal</string>
   <string name="turn_off_common_password_confirm_msg">Schermvergrendeling zal ook uitgeschakeld worden.</string>
   <string name="turn_off_keyguard_password_alert_title">Uitschakelen</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Bevestigen om het vergrendelscherm wachtwoord uit schakelen?</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Vergrendelscherm wachtwoord uitschakelen?</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">U zal de vingerafdruk functie niet meer kunnen gebruiken nadat het vergrendelscherm wachtwoord uitgeschakeld is</string>
   <string name="turn_off_radio">Radio uitschakelen</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
-  <string name="turn_on_keyguard_password">Keyguard wachtwoord inschakelen</string>
+  <string name="turn_on_keyguard_password">Vergrendelscherm wachtwoord inschakelen</string>
   <string name="turn_on_radio">Radio inschakelen</string>
   <string name="turn_on_security_lock">Kies schermvergrendeling</string>
   <string name="under_keyguard">Scherm uit</string>
