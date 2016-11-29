@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_login_title">Account</string>
+  <string name="a_week_share_rank">Weekelijkse rankings</string>
   <string name="action_mode_deselect_all">Alles deselecteren</string>
   <string name="action_mode_select_all">Alles selecteren</string>
   <string name="activity_parse_video_title">Video link plakken</string>
@@ -98,6 +98,7 @@
   <string name="claim_video_success">Met succes aanspraak op gemaakt</string>
   <string name="claim_video_unlogin">Aanmelden om aanspraak te maken op video\'s</string>
   <string name="clean_hint">Tik om ruimte vrij te maken</string>
+  <string name="click_to_refresh">Tik om te vernieuwen</string>
   <string name="click_to_switch_volume">Tik hier om te schakelen tussen intern geheugen en SD kaart</string>
   <string name="click_to_switch_volume_pad">Tik om te schakelen tussen interne opslag en SD kaart</string>
   <string name="comment_delete_message">De reactie zal permanent verwijderd worden.</string>
@@ -201,7 +202,6 @@
   <string name="file_loading">Laden…</string>
   <string name="file_name_invalid">"Bestandsnamen mogen de volgende karakters niet bevatten: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">Bestand bestaat niet</string>
-  <string name="flow_setting">Instellingen</string>
   <string name="folder_name_empty">Mapnaam mag niet leeg zijn</string>
   <string name="folder_name_illegal">Ongeldige mapnaam</string>
   <string name="follow_fail">Kon niet volgen, probeer later opnieuw</string>
@@ -233,11 +233,12 @@
   <string name="homepage_tab_category">Categorieën</string>
   <string name="homepage_tab_file_view">Telefoon</string>
   <string name="homepage_tab_recent">Recent</string>
-  <string name="hot_app">Populaire apps</string>
   <string name="hot_comments">Populaire reacties</string>
   <string name="hot_sticker">Stickers</string>
+  <string name="hot_topic_str">Populaire onderwerpen</string>
   <string name="hot_video">Video\'s</string>
   <string name="hot_video_load_more">Meer &gt;</string>
+  <string name="hot_video_title">Populaire video\'s</string>
   <string name="hottest_sticker_str">Populair</string>
   <string name="if_cancel">Deze operatie annuleren?</string>
   <string name="image_loading_error">Kon afbeelding niet laden</string>
@@ -268,7 +269,6 @@
   <string name="login_expired">Sessie verlopen, log opnieuw in</string>
   <string name="login_failed_tip">Kon niet aanmelden, probeer later opnieuw</string>
   <string name="login_success_tip">Aanmelden gelukt</string>
-  <string name="login_tip">Deel video\'s met populaire onderwerpen om prijzen te winnen</string>
   <string name="make_private">Verbergen</string>
   <string name="make_private_msg_1">Dit bestand verbergen?</string>
   <string name="make_private_msg_2">Deze bestanden verbergen?</string>
@@ -323,6 +323,8 @@
   <string name="no_apk">Tik om de meest populaire apps te bekijken.</string>
   <string name="no_app_tags">Leeg</string>
   <string name="no_comment">Geen reacties</string>
+  <string name="no_content">Open Explorer opnieuw om populaire video\'s te bekijken</string>
+  <string name="no_daren_tip">Nog niets hier</string>
   <string name="no_downloaded_sticker_tip">Kon gedownloade stickers niet vinden. Bekijk de gedeelde stickers van de Mi fans.</string>
   <string name="no_enough_storage_indication">Opslagruimte apparaat is vol.</string>
   <string name="no_enough_storage_title">Niet genoeg ruimte</string>
@@ -355,7 +357,6 @@
   <string name="oauth_failed_tip">Kon autorisatie niet voltooien</string>
   <string name="one_account_bind_needed">Voeg tenminste één account toe</string>
   <string name="online_not_support">Kan dit bestand op dit moment niet online bekijken</string>
-  <string name="only_wifi">Downloaden wanneer verbonden met Wi-Fi</string>
   <string name="open_app">Openen</string>
   <string name="open_private_folder">Loslaten om verborgen mappen te tonen</string>
   <string name="operation_add_fav">Toevoegen aan favorieten…</string>
@@ -405,13 +406,11 @@
   <string name="partial_cancel_successful">"Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaatst naar %s"</string>
   <string name="partial_delete_failure">Kon sommige bestanden niet verwijderen, probeer opnieuw</string>
   <string name="partial_encrypt_success">Kon sommige bestanden niet verbergen, probeer opnieuw</string>
-  <string name="partial_repair_done">Een paar bestanden zijn met succes hersteld</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Intern geheugen</string>
   <string name="phone_bind_skip">Overslaan</string>
   <string name="phone_bind_tip">Voeg telefoonnummer toe om mee te doen in rankings en prijzen te winnen</string>
   <string name="phone_bind_title">Telefoonnummer toevoegen</string>
-  <string name="phone_btn_str">Telefoon</string>
   <string name="phone_code_err">Telefoonnummer of verificatiecode is incorrect</string>
   <string name="phone_code_et_hint">Voer verificatiecode in</string>
   <string name="phone_get_code_tip">Teveel pogingen om code te krijgen vandaag</string>
@@ -463,8 +462,6 @@
   <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
   <string name="repair_done">Hersteld</string>
   <string name="repair_error">Kon niet herstellen</string>
-  <string name="repair_error_no_media">Kon niet herstellen, selecteer ten minste één mediabestand</string>
-  <string name="repair_error_no_order">Kon niet herstellen, verwijder of decodeer %s en probeer opnieuw</string>
   <string name="repair_file">Herstel gecodeerde bestanden</string>
   <string name="reply_success">Reactie toegevoegd</string>
   <string name="report_abuse">Misbruik</string>
@@ -527,7 +524,8 @@
   <string name="setting_account_bind">Account toevoegen</string>
   <string name="setting_message_notify">Meldingen</string>
   <string name="setting_shortcut">Startscherm snelkoppeling toevoegen</string>
-  <string name="share_from_youliao">Van #Betalen# @BetalenVideo）丨</string>
+  <string name="share_from_youliao">Van #Betalen# @BetalenVideo)|</string>
+  <string name="share_rank_card_tip">Deel rankings</string>
   <string name="share_success">Met succes gedeeld</string>
   <string name="share_tip_1">Bedankt om te delen, volg me om meer video\'s te bekijken</string>
   <string name="share_tip_2">Bedankt om te delen, volg me om meer video\'s te bekijken</string>
@@ -563,6 +561,7 @@
   <string name="start_server">Start server</string>
   <string name="stay_awake_summary">Scherm zal nooit uit gaan tijdens het gebruik van FTP</string>
   <string name="stay_awake_title">Standby</string>
+  <string name="sticker_btn_str_explore_tab">Ontdek tal van leuke dingen!</string>
   <string name="stop_server">Server stoppen</string>
   <string name="storage_cloned_app">Opslag voor gedupliceerde apps</string>
   <string name="storage_info_detail">Beschikbaar: %1$s Totaal: %2$s</string>
@@ -577,6 +576,7 @@
   <string name="tab_claim">Aanspraak op maken</string>
   <string name="tab_common_app">Apps &amp; folders</string>
   <string name="tab_discover">Ontdekken</string>
+  <string name="tab_explore">Ontdekken</string>
   <string name="tab_follow">Volgend</string>
   <string name="tab_homepage">Start</string>
   <string name="tab_hottest_video">Populair</string>
@@ -597,6 +597,8 @@
   <string name="title_select_volume">Volume selecteren</string>
   <string name="toast_file_not_can_read">Geen app gevonden om deze actie uit te voeren.</string>
   <string name="tools">TOOLS</string>
+  <string name="top_mark">TOP</string>
+  <string name="top_videos">Deel rankings</string>
   <string name="topic_follow">Volgen</string>
   <string name="topic_followed">Gevolgd</string>
   <string name="topic_winners">Vorige winnaars</string>
@@ -634,6 +636,7 @@
   <string name="upload_notification_success">Uploaden gelukt</string>
   <string name="upload_notification_success_content">Uw video zou moeten worden beoordeeld voordat deze wordt gedeeld met andere mensen</string>
   <string name="upload_notification_title">Video aan het uploaden</string>
+  <string name="upload_popup">Video\'s uploaden ompprijzen te winnen</string>
   <string name="upload_user_photo">Uploaden</string>
   <string name="upload_video_failed">Kon niet uploaden</string>
   <string name="upload_video_failed_external_progress">Kon niet uploaden, probeer een andere</string>
@@ -741,7 +744,9 @@
   <string name="video_upload_title">Selecteer video</string>
   <string name="video_upload_wechat_hint">WeChat video\'s uploaden om meer fans te krijgen.</string>
   <string name="video_uploaded">Geüpload</string>
+  <string name="view_master_rank">Youliao top bekijken</string>
   <string name="view_more_sticker">Meer stickers bekijken</string>
+  <string name="view_top_rank">Rankings <string name="view_top_rank">View rankings</string></string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">Wechat</string>
   <string name="wechat_platform">WeChat</string>
@@ -766,4 +771,5 @@ Sluit je aan bij 170 miljoen Mi Fans!"</string>
   <string name="youliao_dialog_msg">"Populaire video\'s zullen vervangen worden met \"Youliao\" 
 die app is gewijd aan het brengen van meer plezier!"</string>
   <string name="youliao_dialog_title">Geen interessante in video\'s?</string>
+  <string name="youliao_master_rank">Youliao top</string>
 </resources>

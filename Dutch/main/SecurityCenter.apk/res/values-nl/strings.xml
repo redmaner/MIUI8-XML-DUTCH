@@ -291,7 +291,8 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="button_text_let_me_select">Begrepen</string>
   <string name="button_text_next_step">Volgende</string>
   <string name="button_text_next_step_timer">Volgende stap (%d)</string>
-  <string name="button_text_open_now">Openen</string>
+  <string name="button_text_open_now">Inschakelen</string>
+  <string name="btn_text_optimize_extend_battery_time">%s toevoegen</string>
   <string name="button_text_quick_clean">Optimaliseren</string>
   <string name="button_text_reject">Weigeren</string>
   <string name="button_text_reject_timer">Weigeren (%d)</string>
@@ -363,7 +364,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="connecting">Verbinden…</string>
   <string name="continue_install">Installeren</string>
   <string name="convenient_mode">Alle apps in één keer ontgrendelen</string>
-  <string name="convenient_summary">Wachtwoord niet vereisen nadat één app ontgrendeld is</string>
+  <string name="convenient_summary">Wachtwoord eenmaal invoeren om alle apps te ontgrendelen</string>
   <string name="correction_attention_dialog_message">Instellingen nu aanpassen. Wacht tot het proces is voltooid en probeer opnieuw.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Sluiten</string>
@@ -716,7 +717,6 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="menu_item_notification_antispam_text_avail">Zwarte lijst</string>
   <string name="menu_item_notification_antispam_text_normal">Zwarte lijst</string>
   <string name="menu_item_notification_garbage_text">%s</string>
-  <string name="menu_item_notification_garbage_text_error">Fout</string>
   <string name="menu_item_notification_power_text">Uitschakelen</string>
   <string name="menu_item_notification_title">Weergeven op notificatiebalk</string>
   <string name="menu_item_settings_title">Instellingen</string>
@@ -1094,6 +1094,8 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="quick_optimize_no_issue_subtitle">Alles ziet er goed uit</string>
   <string name="quick_optimize_no_issue_title">Kon geen batterijproblemen vinden</string>
   <string name="quick_optimize_sub_summary_text">%s toegevoegd aan batterijleven</string>
+  <string name="quick_optimize_suggest_battery_consume_too_fast">De telefoon laat de batterij leeglopen, herstel het</string>
+  <string name="quick_optimize_suggest_battery_over_heat">De telefoon is aan het oververhitten, herstel het</string>
   <string name="reach_daily_limit_value_body">Verminder het mobiele dataverbruik.</string>
   <string name="reach_daily_limit_value_title">Dagelijks datalimiet bereikt</string>
   <string name="recently_reject_message">Installatie van %1$s en %2$d andere apps geweigerd</string>

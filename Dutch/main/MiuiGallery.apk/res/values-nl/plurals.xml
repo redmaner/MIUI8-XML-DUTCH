@@ -5,8 +5,12 @@
         <item quantity="one">Deze persoon niet weergeven?</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s foto\'s van %2$s</item>
-        <item quantity="one">%1$s foto van %2$s</item>
+        <item quantity="other">%d foto\'s in totaal</item>
+        <item quantity="one">%d foto in totaal</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d foto\'s in totaal</item>
+        <item quantity="one">%d foto in totaa</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d jaar</item>

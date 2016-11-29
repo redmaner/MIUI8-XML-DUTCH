@@ -92,6 +92,7 @@
   <string name="feedback_submit_failed_notification_desc">Bekijk details</string>
   <string name="feedback_submit_failed_notification_retry">Verstuur opnieuw</string>
   <string name="feedback_submit_failed_notification_title">Kon rapport niet verzenden</string>
+  <string name="feedback_submit_hint">Bugs elke keer melden als je problemen hebt om ons die sneller te helpen oplossen.</string>
   <string name="feedback_submit_hint1">We houden je op de hoogte over de voortgang van je rapport</string>
   <string name="feedback_submit_hint2">Ga naar \"Mijn rapporten\" om details te bekijken</string>
   <string name="feedback_submit_succ">Verzonden</string>
@@ -244,7 +245,7 @@
   <string name="section_screenshot">Schermafdruk</string>
   <string name="submit_dialog_cancel">Annuleren</string>
   <string name="submit_dialog_confirm">Indienen</string>
-  <string name="submit_dialog_content">Uw feedback zullen samen verzonden worden met bijlagen en logs naar MIUI\’s servers. Het kan personlijke info bevatten.</string>
+  <string name="submit_dialog_content">Uw feedback zal samen verzonden worden met bijlagen en logs naar MIUI\’s servers. Het kan personlijke info bevatten.</string>
   <string name="submit_dialog_title">Bugrapport versturen</string>
   <string name="submit_feedback_info_failed">Kon rapport niet verzenden</string>
   <string name="suggestion_description">Voeg beschrijving hier toe</string>
@@ -270,6 +271,7 @@
   <string name="toast_module_required">Selecteer item</string>
   <string name="toast_network_unavailable">Kon niet verzenden. Kan niet verbinden met netwerk</string>
   <string name="toast_pending_log_collection">Er komen nog steeds logs binnen…</string>
+  <string name="toast_post_deleted">Dit onderwerp bestaat niet, is verwijderd of bewerkt</string>
   <string name="toast_problem_class_required">Selecteer categorie</string>
   <string name="toast_report_copied_to_clipboard">Rapport gekopieerd naar het klembord</string>
   <string name="toast_report_sent_failed">Kan geen rapport verzenden</string>
