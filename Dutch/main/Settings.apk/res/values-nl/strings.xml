@@ -1280,7 +1280,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="enable_service_password_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw wachtwoord bevestigen.</string>
   <string name="enable_service_pattern_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw patroon bevestigen.</string>
   <string name="enable_service_pin_reason">Omdat het inschakelen van %1$s invloed heeft op de data-encryptie, moet u uw PIN bevestigen.</string>
-  <string name="enable_service_title">De service zal deze acties uitvoeren:</string>
+  <string name="enable_service_title">%1$s gebruiken?</string>
   <string name="enable_snapshot_screenlock">Lang drukken op Terug om een foto te nemen</string>
   <string name="enable_terminal_summary">Terminal app inschakelen die lokale shelltoegang biedt</string>
   <string name="enable_terminal_title">Lokale terminal</string>
@@ -2083,6 +2083,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_allow_music">Media</string>
   <string name="miui_allow_vibrate">Trillingen</string>
   <string name="miui_data_usage_menu_metered">Mobiele hotspots</string>
+  <string name="miui_enable_service_title">De service zal deze acties uitvoeren::</string>
   <string name="miui_experience_optimization">MIUI optimalisaties inschakelen</string>
   <string name="miui_screen_config_title">Startscherm instellingen</string>
   <string name="mms_breathing_light_color_title">Kleur bij berichten</string>
@@ -2710,13 +2711,20 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
   <string name="privacy_notes">Notities</string>
   <string name="privacy_password">Privacy wachtwoordbeveiliging</string>
+  <string name="privacy_password_bind_account">Mi Account toevoegen</string>
+  <string name="privacy_password_bind_account_immediate">Toevoegen</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Bevestig tweede ruimte wachtwoord</string>
   <string name="privacy_password_confirm_use_finger">Ontgrendelen met vingerafdruk</string>
+  <string name="privacy_password_enter_privacy">Privacy wachtwoordbeveiliging invoeren</string>
   <string name="privacy_password_fingerprint_confirm_failed">Kon vingerafdruk niet verifiëren</string>
   <string name="privacy_password_fingerprint_confirm_succes">Vingeradruk geverifieerd</string>
   <string name="privacy_password_fingerprint_dialog_error_title">Kon vingerafdruk niet scannen, probeer opnieuw</string>
   <string name="privacy_password_fingerprint_dialog_message">Plaats uw vinger op de sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan uw vingerafdruk</string>
+  <string name="privacy_password_never_remind">Niet meer vragen</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Voeg uw Mi-account toe om mogelijk uw wachtwoord opnieuw in te stellen voor het geval u het vergeet.</string>
+  <string name="privacy_password_remind_bindaccont_message">Voeg uw Mi-account toe (%s) toe om mogelijk uw wachtwoord opnieuw in te stellen voor het geval u het vergeet.</string>
+  <string name="privacy_password_remind_bindaccount_title">Mi Account toevoegen</string>
   <string name="privacy_password_settings">Gebruik privacy wachtwoordbeveiliging</string>
   <string name="privacy_password_settings_titles">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden en notities.</string>
   <string name="privacy_password_title">Privacy wachtwoordbeveiliging</string>
