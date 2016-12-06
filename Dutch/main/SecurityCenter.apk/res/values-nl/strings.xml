@@ -77,6 +77,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="antivirus_choose_engine_disable_toast">Kan niet wisselen van definities tijdens het scannen</string>
   <string name="antivirus_choose_engine_settings">Instellingen virusdefinitie</string>
   <string name="antivirus_choose_engine_title">Definities</string>
+  <string name="antivirus_choose_engine_update_disable_toast">Kan definities niet wisselen wanneer er een update bezig is</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Risicovolle apps verwijderen</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Virussen verwijderen</string>
   <string name="antivirus_monitor_clean_tips">Verwijderde items: %s</string>
@@ -746,6 +747,8 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="modifypassword">Wachtwoord wijzigen</string>
   <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="month_report_month_report_switch">Geef maandelijks rapport weer</string>
+  <string name="msg_update_error_code_success">Voltooid</string>
+  <string name="msg_update_up">Verbergen</string>
   <string name="network_assistant_upgraded_body">Tik om details weer te geven</string>
   <string name="network_assistant_upgraded_title">Geupdate</string>
   <string name="network_blocked_connected_open_wifi">Verbinden met openbaar netwerk</string>
@@ -1052,6 +1055,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="pref_title_declaration">Belangrijke voorwaarden</string>
   <string name="pref_title_diagnostics_show_float_notification">Zwevende meldingen</string>
   <string name="pref_title_lock_screen_memory_clean">Opruimen op vergrendelscherm</string>
+  <string name="pref_title_manual_check_virus_db_update">Controleren op updates</string>
   <string name="pref_title_mobile_traffic">Dataverbruik weergeven wanneer vergrendeld</string>
   <string name="pref_title_network_diagnostics">Netwerk testen</string>
   <string name="pref_title_over_traffic_limit_warning">Wanneer overschreden</string>
@@ -1268,6 +1272,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="sp_toast_removed_from_sign_white_list">Verwijderen uit uitzonderingen. Item zal de volgende keer gescand worden.</string>
   <string name="spinner_title">%1$s - Mobiele data: %2$s</string>
   <string name="sponsored">Gesponsord</string>
+  <string name="sponsored_sec_fb">Gesponsord</string>
   <string name="st_title_mode_choose_group">Profiel kiezen</string>
   <string name="start_diagnostic_botton">Start</string>
   <string name="start_install">Nu installeren</string>
@@ -1586,8 +1591,14 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usbsharenet_exception_title">Test gedeelt netwerk via USB</string>
   <string name="usbsharenet_pc_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de internetverbinding van uw computer.</string>
   <string name="use_immediately">Gebruiken</string>
+  <string name="virus_already_update">Definities zijn up to date</string>
+  <string name="virus_dp_update_title">Definitie updates</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_process_pre">%</string>
+  <string name="virus_update_fail">Kon niet updaten</string>
+  <string name="virus_update_success">Met succes geupdate</string>
+  <string name="virus_update_tips_title">Verbinden met Wi-Fi</string>
+  <string name="virus_wait_network_dialog_message">Updates zijn te groot. Met Wi-Fi verbinden om te downloaden</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
   <string name="warning_open_mi_sim">Mi SIM inschakelen</string>
