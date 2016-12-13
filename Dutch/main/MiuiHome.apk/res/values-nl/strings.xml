@@ -43,10 +43,10 @@
   <string name="cant_remove_retained_app">Kan deze app niet verwijderen</string>
   <string name="cant_remove_system_app">Kan systeemapp niet verwijderen</string>
   <string name="change_wallpaper">Veranderen</string>
-  <string name="children_folder_title">Kinderen</string>
+  <string name="children_folder_title">Kind modus</string>
   <string name="children_mode_exit">Verlaten</string>
-  <string name="children_mode_tips_message">Er zijn geen apps in kindermodus. Selecteer een app.</string>
-  <string name="children_mode_tips_title">Selecteer een app</string>
+  <string name="children_mode_tips_message">Geen apps in kindermodus. Selecteer de apps die u wenst toe te voegen.</string>
+  <string name="children_mode_tips_title">Selecteer apps</string>
   <string name="choose_wallpaper">Kies achtergrond</string>
   <string name="chooser_wallpaper">Achtergrond kiezen</string>
   <string name="cloud_app_restore_title">In afwachting</string>
@@ -142,7 +142,7 @@
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
   <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
   <string name="is_system_wallpaper_message">Kan systeembronnen niet verwijderen</string>
-  <string name="launcher_not_exist">Startpagina is gestopt, ga terug naar startpagina en probeer opnieuw.</string>
+  <string name="launcher_not_exist">Er is een fout opgetreden, ga terug naar startpagina en probeer opnieuw.</string>
   <string name="like">Favoriet</string>
   <string name="liked">Toegevoegd als favoriet</string>
   <string name="loading_desktop">Een momentje…</string>
@@ -208,6 +208,7 @@
   <string name="recommend_apps_switch_title">Aanbevolen apps</string>
   <string name="recommend_apps_tips">Deze functie moet verbonden zijn met internet om normaal te werken. Om deze functie uit te schakelen, raakt u de naam van deze map aan.</string>
   <string name="reset_scene_prompt">Dit scherm wordt hersteld naar de standaard layout.</string>
+  <string name="screen_locked_toast">Starpagina layout is vergrendeld</string>
   <string name="screen_number">Het %d scherm</string>
   <string name="scroll_tip_format_when_announce_accessibility">pagina %1$d, %2$d apps</string>
   <string name="select_all">Alle selecteren</string>

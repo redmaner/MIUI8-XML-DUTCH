@@ -284,4 +284,16 @@
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> volgers</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> volger</item>
     </plurals>
+	<plurals name="video_like_num">
+        <item quantity="other">%1$s vind ik leuk</item>
+        <item quantity="one">%1$s vind ik leuk</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s edelstenen</item>
+        <item quantity="one">%1$s edelsteen</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> meer edelstenen om deel te nemen aan de trekking</item>
+        <item quantity="one">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> een edelsteeen meer om deel te nemen aan de trekking</item>
+    </plurals>
 </resources>
