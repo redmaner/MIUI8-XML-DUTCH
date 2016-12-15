@@ -455,9 +455,10 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="block_list_connected_devices">Gekoppelde apparaten</string>
   <string name="block_list_diaglog_cancle">Annuleren</string>
   <string name="block_list_diaglog_ok">Ok</string>
-  <string name="block_list_dialog_content">Deze actie zal “%s” verbinding mer apparaat verbreken en toevoegen aan de blokkeerlijst</string>
-  <string name="block_list_dialog_title">Nu verbreken?</string>
+  <string name="block_list_dialog_title">Nu verbinding verbreken?</string>
+  <string name="block_list_mtk_dialog_content">Deze actie zal “%s” verbinding met dit apparaat verbreken</string>
   <string name="block_list_no_device">Geen verbonden apparaten in de blokkeerlijst</string>
+  <string name="block_list_qcom_dialog_content">Deze actie zal “%s” verbinding met dit apparaat verbreken en toevoegen aan de blokkeerlijst</string>
   <string name="block_list_remove_dialog_content">Dit apparaat “%s” zal verbinding kunnen maken met deze hotspot</string>
   <string name="block_list_remove_dialog_title">Verwijder “%s” van blokkeerlijst</string>
   <string name="block_list_summary">Bekijk de apparaten die niet toegestaan zijn om verbinding te maken met deze hotspot</string>
@@ -3559,6 +3560,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings">Meldingen en statusbalk</string>
   <string name="status_bar_settings_advanced">Extra instellingen</string>
   <string name="status_bar_settings_all_app_display_loading">Een momentje…</string>
+  <string name="status_bar_settings_app_notification_preferences">App instellingen</string>
   <string name="status_bar_settings_basic_settings">Basisinstellingen</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Providernaam aanpassen</string>
