@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
-  <string name="aaid_info">"
-Reclame-identificeerder is een permanente ID die uniek is voor uw apparaat. Verkopers gebruiken het om reclame-inhoud te selecteren die beter bij u past."</string>
+  <string name="about_ad_service_instructions">Over adv diensten en privacy​</string>
   <string name="about_phone_enter_xiaomi_net">Meer leren</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie</string>
@@ -1849,8 +1848,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig.</string>
   <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig na %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
-  <string name="lock_screen_signature_summary">De handtekening zal worden weergegeven op het vergrendelscherm</string>
-  <string name="lock_screen_signature_title">Handtekening vergrendelscherm</string>
+  <string name="lock_screen_signature_summary">Dit bericht zal weergegeven worden op het vergrendelingscherm</string>
+  <string name="lock_screen_signature_title">Vergrendelscherm eigenaarsinfo</string>
   <string name="lock_screen_unlock_show">Scherm vegen overslaan</string>
   <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord invoeren na het ontwaken</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tik om te wijzigen</string>
@@ -2342,7 +2341,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="owner_info_settings_edit_text_hint">Bijv. Joe’s Android.</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary"/>
-  <string name="owner_info_settings_title">Handtekening vergrendelscherm</string>
+  <string name="owner_info_settings_title">Vergrendelscherm eigenaarsinfo</string>
   <string name="packages_subtitle">Bijgeleverde pakketten</string>
   <string name="page_layout_1">Zon, 16 Augustus</string>
   <string name="page_layout_10">Instellingen</string>
@@ -2494,9 +2493,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="path_oldman_mode">Instellingen/Lite Mode</string>
   <string name="path_onekey_migrate">Instellingen/Extra instellingen/Transferen</string>
   <string name="path_other_advanced_settings">Instellingen/Extra instellingen</string>
-  <string name="path_owner_info_settings">Instellingen/Schermvergrendeling &amp; wachtwoord/Eigenaarsgegevens</string>
+  <string name="path_owner_info_settings">Instellingen/Schermvergrendeling &amp; wachtwoord/Vergrendelscherm eigenaarsinfo</string>
   <string name="path_page_layout_settings">Instellingen/Weergave/Tekstgrootte</string>
-  <string name="path_permission_settings_title">Instellingen/Toestemmingen/App toestemmingen</string>
+  <string name="path_permission_settings_title">Instellingen/Toestemmingen/Toestemmingen</string>
   <string name="path_pn_settings">Instellingen/Mobiele netwerken/Naam toegangspunten</string>
   <string name="path_pointer_speed">Instellingen/Extra instellingen/Taal &amp; invoer/Snelheid van aanwijzer</string>
   <string name="path_power_checker">Instellingen/Extra instellingen/Beta functies/Power Checker</string>
@@ -3192,7 +3191,7 @@ Om schermpinning te gebruiken:
   <string name="search_oldman_mode">Lite modus;Ouderen modus;Lite modus</string>
   <string name="search_onekey_migrate">Transferen;Migreren met een toets</string>
   <string name="search_other_advanced_settings">Aanvullende instellingen;Meer instellingen</string>
-  <string name="search_owner_info_settings">Eigenaarsinfo</string>
+  <string name="search_owner_info_settings">Vergrendelscherm eigenaarsinfo;Eigenaarsinfo;Handtekening;Vergrendelscherm handtekening;Eigenaar</string>
   <string name="search_page_layout_settings">Tekstgrootte;Lettergrootte;Keine letters;Grootte letters;Medium letters;XXL letters;Enorme letters;Lettergrootten</string>
   <string name="search_permission_settings_title">App toestemmingen</string>
   <string name="search_pointer_speed">Aanwijzersnelheid</string>
@@ -3377,6 +3376,8 @@ Om schermpinning te gebruiken:
   <string name="set_password_message">Wachtwoord instellen om kindermodus uit te schakelen en om apparaat te ontgrendelen.</string>
   <string name="set_password_title">Wachtwoord instellen</string>
   <string name="setting_privacy_password">Privacy wachtwoordbeveiliging instellen</string>
+  <string name="settings_ad_loading">Laden…</string>
+  <string name="settings_ad_loading_unavailable">Er is een probleem tijdens het laden.</string>
   <string name="settings_backup">Back-up van instellingen maken</string>
   <string name="settings_backup_summary">Back-up maken van mijn instellingen</string>
   <string name="settings_button">Instellingen</string>
@@ -3416,7 +3417,7 @@ Om schermpinning te gebruiken:
   <string name="show_hw_screen_updates">GPU-weergave updates weergeven</string>
   <string name="show_hw_screen_updates_summary">Flash weergaven in vensters indien getekend met de GPU</string>
   <string name="show_magnifier_when_input">Vergrootglas op tekst</string>
-  <string name="show_owner_info_on_lockscreen_label">Handtekening weergeven op vergrendelscherm</string>
+  <string name="show_owner_info_on_lockscreen_label">Eigenaarsinfo weergeven op vergrendelscherm</string>
   <string name="show_password">Wachtwoorden zichtbaar maken</string>
   <string name="show_profile_info_on_lockscreen_label">Profielinfo weergeven op vergrendelscherm</string>
   <string name="show_rounded_corners">Toon afgeronde hoeken</string>
@@ -4063,7 +4064,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="use_default_tts_settings_title">Mijn instellingen gebruiken</string>
   <string name="use_location_summary">Google toestaan uw locatie te gebruiken om zoekresultaten en andere services te verbeteren</string>
   <string name="use_location_title">Locatie en Google Zoeken</string>
-  <string name="use_personalized_ad_service">Gepersonaliseerde advertenties</string>
+  <string name="use_personalized_ad_service">Gebruik reclame identifier</string>
   <string name="use_privacy_password_immediate">Gebruiken</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="use_this_wlan">Verbonden blijven</string>
