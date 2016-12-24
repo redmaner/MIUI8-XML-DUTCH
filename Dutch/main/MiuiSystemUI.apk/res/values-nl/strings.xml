@@ -34,6 +34,12 @@
   <string name="accessibility_phone_three_bars">Telefoon: drie streepjes.</string>
   <string name="accessibility_phone_two_bars">Telefoon: twee streepjes.</string>
   <string name="accessibility_recent">Recente apps</string>
+  <string name="accessibility_recent_task_enter">Recent geopend, beschikbare apps: %d.</string>
+  <string name="accessibility_recent_task_exit">Recent gesloten</string>
+  <string name="accessibility_recent_task_first_enter_tips">Recent geopend, beschikbare apps: %d. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</string>
+  <string name="accessibility_recent_task_locked">Vergrendeld, omlaag vegen om te ontgrendelen.</string>
+  <string name="accessibility_recent_task_memory_info">Totaal RAM: %2$s | Beschikbare RAM: %1$s. Dubbel tikken om te wissen.</string>
+  <string name="accessibility_recent_task_unlocked">Ontgrendeld</string>
   <string name="accessibility_remove_notification">Melding verwijderen</string>
   <string name="accessibility_ringer_silent">Stil.</string>
   <string name="accessibility_ringer_vibrate">Trillen.</string>
@@ -141,6 +147,9 @@
   <string name="disable_notification_summary">Nooit meldingen weergeven van geselecteerde apps</string>
   <string name="disable_notification_title">Meldingen verbergen</string>
   <string name="dismount_storage">Nee</string>
+  <string name="divider_menu_close">Sluiten</string>
+  <string name="divider_menu_select_apps">Selecteren</string>
+  <string name="divider_menu_swap_task">Wisselen</string>
   <string name="dlg_confirm_kill_storage_users_text">Als u de USB opslag inschakelt, zullen sommige apps stoppen en niet beschikbaar zijn tot u de USB opslag uitschakelt.</string>
   <string name="dlg_confirm_kill_storage_users_title">Schakel USB opslag uit</string>
   <string name="dlg_error_title">USB operatie gefaald</string>
@@ -178,6 +187,7 @@
   <string name="long_screenshot_processing">Verwerken…</string>
   <string name="long_screenshot_stop">Klaar</string>
   <string name="long_screenshot_top_msg">Schermafdruk maken…</string>
+  <string name="long_screenshot_top_msg_manual">Schermafdruk bijsnijden en tik op de knop om te beëindigen</string>
   <string name="managed_profile_foreground_toast">U gebruikt uw werkprofiel</string>
   <string name="mdb_entering">Opstarten…</string>
   <string name="mdb_restore_cancel">Annuleren</string>
@@ -196,9 +206,10 @@
   <string name="nav_guide_message">Gebaren gebruiken om de schermknop te verbergen/weer te geven.</string>
   <string name="nav_guide_ok">Instellingen</string>
   <string name="nav_guide_title">Schermknoppen verbergen</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">Geen enkele app die werkt in split-screen modus</string>
   <string name="no_notification_tips">Geen meldingen</string>
   <string name="no_weather_description">Weerinformatie verkrijgen &gt;</string>
+  <string name="not_support_multi_window">Huidige app ondersteund split-screen modus niet</string>
   <string name="notification_header_title">Meldingen</string>
   <string name="notification_hidden_text">Inhoud verborgen</string>
   <string name="notification_manager">Meldingen beheren</string>

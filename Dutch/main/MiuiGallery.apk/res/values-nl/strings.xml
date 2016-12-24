@@ -145,8 +145,8 @@
   <string name="cannot_remove_creator">Kan de maker niet verwijderen</string>
   <string name="cannot_send_message">"Het bericht kan niet worden verzonden"</string>
   <string name="cannot_send_message_reason">Geen geldige ontvangers</string>
-  <string name="change_to_face_mode">Sorteren op personen</string>
-  <string name="change_to_photo_mode">Sorteren op albums</string>
+  <string name="change_to_face_mode">Allen gezicht weergeven</string>
+  <string name="change_to_photo_mode">Volledige voorbeelden weergeven</string>
   <string name="choose_baby_sexy">Geslacht</string>
   <string name="choose_owner_relation">Relatie</string>
   <string name="choose_people">Album van persoon kiezen</string>
@@ -248,7 +248,7 @@
   <string name="download_without_wifi_title">Waarschuwing dataverbruik</string>
   <string name="edit_baby_info">Babyinfo weergeven</string>
   <string name="email_picker_title">Gedeelde e-mail toevoegen</string>
-  <string name="empty_recommend_button_view">Terug</string>
+  <string name="empty_recommend_back">Terug</string>
   <string name="empty_recommend_face_page_view">Geen aanbevelingen meer</string>
   <string name="enable_auto_upload_tip">Deze album zal verwijderd worden uit andere albums nadat u deze hebt ingeschakeld.</string>
   <string name="enable_auto_upload_title">Sync. met Mi Cloud inschakelen</string>
@@ -401,7 +401,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="menu_item_sort_size">Grootte</string>
   <string name="menu_view_contact">Bekijk contact</string>
   <string name="merge_album">Samenvoegen</string>
-  <string name="merge_album_title">Albums samenvoegen</string>
+  <string name="merge_album_title">Samenvoegen met een persoon</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="micloud_introduce">Foto\'s en video\'s automatisch back-uppen (Mi account is vereist)</string>
   <string name="more_album_hint">, enz.</string>
@@ -448,6 +448,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_move_to_other_albums">Verplaatsen naar andere albums</string>
   <string name="operation_not_show_in_photos_tab">Niet weergeven in foto\'s</string>
   <string name="operation_projection">Casten</string>
+  <string name="operation_remove_face">Verwijderen</string>
   <string name="operation_remove_from_face_album">Uit album verwijderen</string>
   <string name="operation_remove_from_other_albums">Verplaatsen uit andere albums</string>
   <string name="operation_remove_secret">Zichtbaar maken</string>
@@ -523,11 +524,16 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="relation_with_you">Relatie kiezen</string>
   <string name="release_space_finish_format">%s lokale opslag vrijgemaakt</string>
   <string name="remind_face_recommend_confirm">Bevestigen</string>
+  <string name="remove_from_album_message">Deze foto wordt hier niet langer weergegeven</string>
+  <string name="remove_from_album_title">Verwijderen uit deze album</string>
+  <string name="remove_from_current_album">Verwijderen uit deze album</string>
   <string name="remove_from_other_albums_tip">Sync. met Mi Cloud inschakelen om items te verplaatsen naar andere albums. Nu verplaatsen?</string>
   <string name="remove_from_secret_fail">Kon niet verwijderen uit verborgen album</string>
   <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderen uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items kunnen niet verwijderd worden uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_successful">Verwijderd uit verborgen album</string>
+  <string name="remove_to_album_title">Samenvoegen met</string>
+  <string name="remove_to_other_album">Samenvoegen met een andere persoon</string>
   <string name="rename_face_album">Naam wijzigen</string>
   <string name="rename_fail_msg">Kon naam niet wijzigen</string>
   <string name="rename_from_contact">Hernoemen van contacten</string>
@@ -550,7 +556,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="secret_album_password_first_use_msg">Privacy wachtwoordbeveiliging zal gebruikt worden. Het werkt voor foto\'s, notities, verborgen mappen, enz.</string>
   <string name="secret_album_password_first_use_title">Privacy wachtwoordbeveiliging</string>
   <string name="secret_album_password_update_dialog_cancel">Annuleren</string>
-  <string name="secret_album_password_update_dialog_msg">Galerij zal privacy wachtwoordbeveiliging vanaf nu gebruiken.</string>
+  <string name="secret_album_password_update_dialog_msg">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen, enz.</string>
   <string name="secret_album_password_update_dialog_ok">Ok</string>
   <string name="secret_album_password_update_dialog_title">Wachtwoord upgraden</string>
   <string name="secret_album_password_update_first_user_dialog_msg">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen, enz.</string>
