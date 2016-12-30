@@ -1,20 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minuten</item>
-        <item quantity="one">1 minuut</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d minuten</item>
-        <item quantity="one">1 minuut</item>
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d uur</item>
-        <item quantity="one">1 uur</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dagen</item>
-        <item quantity="one">1 dag</item>
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">1 dag geleden</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">Week %d</item>
@@ -30,5 +26,17 @@
     <plurals name="N_remaining_events">
         <item quantity="other">+%d afspraken</item>
         <item quantity="one">+1 afspraak</item>
+    </plurals>
+	<plurals name="Ndays_ago">
+        <item quantity="other">%1$d dagen geleden op %2$s</item>
+        <item quantity="one">%1$d dag geleden op %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">Na %1$d dagen op %2$s</item>
+        <item quantity="one">Na %1$d dag op %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d weken geleden</item>
+        <item quantity="one">1 week geleden</item>
     </plurals>
 </resources>

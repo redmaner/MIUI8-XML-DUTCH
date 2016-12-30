@@ -338,7 +338,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="details_list_group_header_other">ANDERE</string>
   <string name="device_bluetooth_title">Contacten overzetten</string>
-  <string name="device_brand_title">Merk kiezen</string>
   <string name="device_import_account_dialog_title">Account kiezen</string>
   <string name="device_import_account_dialog_title_suffix">"(%1$s contacten gevonden)"</string>
   <string name="device_import_failed_message">Importeren mislukt!</string>
@@ -350,15 +349,30 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="device_import_progress_toast">%1$d contacten geïmporteerd</string>
   <string name="device_import_title">Importeren</string>
   <string name="device_list_title">Apparaat kiezen</string>
-  <string name="device_other_guide">Als uw apparaat niet in de lijst staat, volg dan de stappen hier beneden</string>
-  <string name="device_other_title">Ander apparaat</string>
+   <string name="device_other_guide">Ondersteund de andere telefoon bluetooth?</string>
+  <string name="device_other_title">Importeren van andere telefoons</string>
   <string name="device_paired_dialog_message">Contacten ophalen…</string>
   <string name="device_paired_dialog_title">Contacten ophalen…</string>
   <string name="device_pairing_dialog_message">Koppelen…</string>
   <string name="device_pairing_dialog_title">Apparaten koppelen</string>
-  <string name="device_version_header_bluetooth">Controleer uw bluetooth verbinding</string>
-  <string name="device_version_header_no_bluetooth">Contacten van SIM kaart importeren</string>
-  <string name="device_version_title">Model kiezen</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Schakel de \"Bluetooth\" van ander apparaat in;
+        
+
+- Android apparaten vinden \"Bluetooth\" bij netwerk sectie
+        
+- iOS apparaten moeten \"Bluetooth\" in instellingen
+        
+
+2. Android apparaten moeten \"Zichtbaar\" optie inschakelen;
+        
+
+3. Klik \"volgende\", en laat de contacten toegang toestemming toe in de volgende stap."</string>
+  <string name="device_transfer_by_sim_message">"1. Sla de contacten van andere apparaten op in de SIM kaart;
+        
+
+2. Ga naar \"Contact instellingen\" -- \"Importeer/Exportee contacten\" -- \"Importeer van SIM kaart\", lang drukken op eender welk SIM contact, kies de cpntacten die wenst te impoteren, klik dan op de \"Importee\" optie."</string>
+  <string name="device_version_header_bluetooth">Import via Bluetooth</string>
+  <string name="device_version_header_no_bluetooth">Import via SIM card</string>
   <string name="dial">Bellen</string>
   <string name="dialerDialpadHintText">Bel om een gesprek toe te voegen</string>
   <string name="dialerIconLabel">Recente</string>
@@ -720,8 +734,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="multi_number_title">Telefoonconferentie</string>
   <string name="multipleContactDeleteConfirmation">Als u dit contact verwijdert, worden gegevens van meerdere accounts verwijderd.</string>
   <string name="multipleContactDeleteConfirmationDetail">Verwijderen van \"%s\" zal de informatie van meerdere accounts wissen.</string>
-  <string name="my_phone_not_provider_bluetooth">Mijn apparaat heeft geen Bluetooth</string>
-  <string name="my_phone_provider_bluetooth">Mijn apparaat heeft Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Nee</string>
+  <string name="my_phone_provider_bluetooth">Ja</string>
   <string name="nameLabelsGroup">Naam</string>
   <string name="name_family">Achternaam</string>
   <string name="name_given">Roepnaam</string>

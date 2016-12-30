@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d items geblokkeerd</item>
+        <item quantity="one">%d item geblokkeerd</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d overeenkomsten</item>
+        <item quantity="one">%d overeenkomst</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Laatste %d dagen</item>
     </plurals>
@@ -11,32 +19,24 @@
         <item quantity="other">1$d geselecteerd</item>
         <item quantity="one">1$d geselecteerd</item>
     </plurals>
-	<plurals name="video_download_clear_prompt">
-        <item quantity="other">%1$d video\'s verwijderen?</item>
-        <item quantity="one">%1$d video verwijderen?</item>
-    </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">%1$d video\'s met succes verwijderd.</item>
         <item quantity="one">%1$d video met succes verwijderd.</item>
     </plurals>
-	<plurals name="video_subtitle_last_message">
-        <item quantity="other">%d minuten over</item>
-        <item quantity="one">Eén minuut over</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">%1$d items uit geschiedenis verwijderd</item>
-        <item quantity="one">%1$d item uit geschiedenis verwijderd</item>
+	<plurals name="video_download_clear_prompt">
+        <item quantity="other">%1$d video\'s verwijderen?</item>
+        <item quantity="one">%1$d video verwijderen?</item>
     </plurals>
     <plurals name="video_history_clear_info">
         <item quantity="other">%1$d items uit geschiedenis verwijderd.</item>
         <item quantity="one">%1$d item uit geschiedenis verwijderd.</item>
     </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d overeenkomsten</item>
-        <item quantity="one">%d overeenkomst</item>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">%1$d items uit geschiedenis verwijderd</item>
+        <item quantity="one">%1$d item uit geschiedenis verwijderd</item>
     </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d items geblokkeerd</item>
-        <item quantity="one">%d item geblokkeerd</item>
+	<plurals name="video_subtitle_last_message">
+        <item quantity="other">%d minuten over</item>
+        <item quantity="one">Eén minuut over</item>
     </plurals>
 </resources>
