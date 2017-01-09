@@ -54,6 +54,14 @@
         <item>IJzel</item>
         <item></item>
 	</string-array>
+	<string-array name="aqi_detail_title">
+        <item>Goed</item>
+        <item>Gemmiddeld</item>
+        <item>Ongezond voor gevoelige groepen</item>
+        <item>Ongezond</item>
+        <item>Heel ongezond</item>
+        <item>Gevaarlijk</item>
+    </string-array>
 	<string-array name="indices_uv_level">
         <item>Zwak</item>
         <item>Middelmatig</item>
@@ -68,7 +76,17 @@
         <item>Ongepast</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>N</item>
+        <item>Noord</item>
+        <item>Noord-oost</item>
+        <item>Oost</item>
+        <item>Zuid-oost</item>
+        <item>Zuid</item>
+        <item>Zuid-west</item>
+        <item>West</item>
+        <item>Noord-west</item>
+    </string-array>
+	<string-array name="wind_direction_simple">
+	    <item>N</item>
         <item>NO</item>
         <item>O</item>
         <item>ZO</item>
@@ -77,4 +95,12 @@
         <item>W</item>
         <item>NW</item>
     </string-array>
+	<string-array name="wind_unit_detail">
+        <item>Beaufort</item>
+        <item>Kilometer per uur (km/h)</item>
+        <item>Meter per seconde (m/s)</item>
+        <item>Mijl per uur (mph)</item>
+        <item>Knopen (kn)</item>
+    </string-array>
+	
 </resources>
