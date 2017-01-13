@@ -31,7 +31,9 @@
   <string name="callFailed_unobtainable_number">Ongeldig nummer</string>
   <string name="callFailed_userBusy">Lijn bezet</string>
   <string name="callUnanswered_forwarded">Gesprek onbeantwoord en doorgestuurd</string>
+  <string name="call_button_conference_manager_text">Conferentiebeheerder</string>
   <string name="call_button_dialer_text">Toetsenbord</string>
+  <string name="call_button_mute_text">Dempen</string>
   <string name="call_button_tools_text">Functies</string>
   <string name="call_contacts_deny_permission_msg">U hebt toestemming tot contacten lezen geweigerd, kan contact info niet weergeven.</string>
   <string name="call_description_recording">Bezig met opnemen…</string>
@@ -71,6 +73,8 @@
   <string name="card_title_upgrade_video_call_timed_out">Kon video niet updaten</string>
   <string name="card_title_video_call">Video-oproep</string>
   <string name="card_title_video_call_paused">Video gepauzeerd</string>
+  <string name="card_title_video_conf_call">Video conferentie-oproep</string>
+  <string name="card_video_hold_swap">Wisselen</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. totaal %s</string>
   <string name="conference_call_number">%s deelnemers</string>
   <string name="conference_call_single_description" formatted="false">%s etc. totaal %s</string>
@@ -218,6 +222,7 @@
   <string name="unknown">Onbekend</string>
   <string name="upgrade_vt_prompt">Wilt u het gesprek upgraden naar videogesprek?</string>
   <string name="video_call_not_allowed_if_tty_enabled">TTY modus eerst uitschakelen</string>
+  <string name="video_conference_caller_info_name">"%1$s's video conferentie-oproep"</string>
   <string name="video_switch_to_voice_call_prompt">Overschakelen naar stemoproep</string>
   <string name="wait_prompt_str">"Volgende beltoon versturen?"</string>
   <string name="waiting_close_airplane_mode">Een momentje…</string>
