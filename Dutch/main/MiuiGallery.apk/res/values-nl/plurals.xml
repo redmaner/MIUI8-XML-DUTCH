@@ -96,29 +96,29 @@
         <item quantity="other">%1$d items | %2$s</item>
         <item quantity="one">%1$d item | %2$s</item>
     </plurals>
-	<plurals name="backuped">
-        <item quantity="other">%1$d items zijn geback-upt</item>
-        <item quantity="one">%1$d item is geback-upt</item>
+	<plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d foto\'s en video\'s</item>
+        <item quantity="one">%1$d foto of video</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d items wachten om geback-upt te worden.</item>
-        <item quantity="one">%1$d item wacht om geback-upt te worden.</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d foto\'s en video\'s | %2$s</item>
+        <item quantity="one">%1$d foto of video | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Netwerkfout. %1$d items wachten om geback-upt te worden.</item>
-        <item quantity="one">Netwerkfout. %1$d item wacht om geback-upt te worden.</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>
+        <item quantity="one">%d foto of video is niet geback-upt</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Synchronisatie is uit. %1$d items wachten om geback-upt te worden.</item>
-        <item quantity="one">Synchronisatie is uit. %1$d item wacht om geback-upt te worden.</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">Kan %1$d items niet back-uppen</item>
-        <item quantity="one">Kan %1$d item niet back-uppen</item>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d foto\'s</item>
+        <item quantity="one">%d foto</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Niet genoeg lokale opslag. %1$d items wachten om geback-upt te worden.</item>
-        <item quantity="one">Niet genoeg lokale opslag. %1$d item wacht om geback-upt te worden.</item>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video\'s</item>
+        <item quantity="one">%d video</item>
     </plurals>
 	<plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto\'s</item>
@@ -163,5 +163,13 @@
 	<plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d foto\'s die niet konden worden verwerkt zijn overgeslagen.</item>
         <item quantity="one">Een foto die niet kon worden verwerkt is overgeslagen.</item>
+    </plurals>
+	<plurals name="file_count_format">
+        <item quantity="other">%1$d items totaal</item>
+        <item quantity="one">%1$d item totaal</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d nieuwe foto\'s gevonden</item>
+        <item quantity="one">Een nieuwe foto gevonden</item>
     </plurals>
 </resources>
