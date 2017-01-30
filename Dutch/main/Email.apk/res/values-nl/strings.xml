@@ -135,7 +135,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Behouden voor</string>
   <string name="account_setup_options_title">Accountinstellingen</string>
   <string name="account_setup_outgoing_port_label">Poort</string>
-  <string name="account_setup_outgoing_require_login_label">Aanmelding vereisen</string>
+  <string name="account_setup_outgoing_require_login_label">U moet inloggen</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP server</string>
   <string name="account_setup_security_policies_required_fmt">"         De server %s vereist dat u de server toestemming geeft 
          bepaalde beveiligingsfuncties van uw Android apparaat extern te bedienen. Wilt u het instellen van dit account
@@ -235,18 +235,18 @@ Nu bijwerken?"</string>
   <string name="clear_display_images_whitelist_title">"Goedkeuringen voor foto's verwijderen"</string>
   <string name="click_download_all_content">[Tik op om inhoud te downloaden]</string>
   <string name="click_to_reload">Tik op scherm om te vernieuwen</string>
+  <string name="close">Afsluiten</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
-  <string name="colon">:</string>
   <string name="compose_attachment_number_limit">Kan niet meer dan 10 bijlagen toevoegen</string>
   <string name="compose_paste_address_oob">Te veel tekens</string>
   <string name="compose_picturesexceedlimits">Kan niet meer dan 5 in lijn afbeeldingen in bericht overschreiden</string>
   <string name="compose_send">Verzenden</string>
   <string name="compose_sent">Verzonden</string>
+  <string name="config_cancel">Annuleren</string>
+  <string name="config_retry">Opnieuw proberen</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_before_delete">Bevestigen voor verwijderen</string>
-  <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
   <string name="confirm_before_send">Bevestigen voor verzenden</string>
-  <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
   <string name="confirm_delete_conversation_title">Verwijderen</string>
   <string name="confirm_discard_text">Dit bericht weggooien?</string>
   <string name="confirm_response">Reactie verzenden…</string>
@@ -257,7 +257,7 @@ Nu bijwerken?"</string>
   <string name="confirm_send_message_with_no_subject">Het berichtonderwerp bevat geen tekst.</string>
   <string name="confirm_send_title">Bericht verzenden?</string>
   <string name="contact_edit_set_black_list_from">All mails van deze afzender naar prullenbak verplaatsen</string>
-  <string name="contact_edit_set_black_list_receive">Mails met deze ontvanger naar prullenbak verplaatsen(enkel nieuwe mails)</string>
+  <string name="contact_edit_set_black_list_receive">Mails met deze ontvanger naar prullenbak verplaatsen (enkel nieuwe mails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Verwijder mail die deze ontvanger bevatten in het veld Aan of Cc</string>
   <string name="contact_edit_set_black_list_title">Toevoegen aan zwarte lijst</string>
   <string name="contact_edit_set_phone_contact">Bewerk telefoon contacten</string>
@@ -291,8 +291,8 @@ Nu bijwerken?"</string>
   <string name="conversation_item_mark_read">Gelezen</string>
   <string name="conversation_item_mark_unread">Ongelezen</string>
   <string name="conversation_photo_welcome_text">Raak de afbeelding van een afzender aan om dat gesprek te selecteren.</string>
-  <string name="conversation_quick_button_approve">Toestaan</string>
-  <string name="conversation_quick_button_disapprove">Afwijzen</string>
+  <string name="conversation_quick_button_approve">OK</string>
+  <string name="conversation_quick_button_disapprove">Annuleren</string>
   <string name="conversation_quick_button_received">Ontvangen</string>
   <string name="conversation_view">Conversatie weergeven</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
@@ -349,16 +349,10 @@ Nu bijwerken?"</string>
   <string name="drawer_close">Navigatie lader sluiten</string>
   <string name="drawer_contacts">Contacten</string>
   <string name="drawer_open">Navigatie lader openen</string>
-  <string name="eas_hotmail_email">hotmail.com</string>
-  <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Snelle reactie</string>
-  <string name="elided_padding_token"> </string>
-  <string name="email_feedback_uri"/>
-  <string name="email_netease">NetEase Mail</string>
-  <string name="email_qq">QQ Mail</string>
+  <string name="email_address">E-mailadres</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
-  <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -842,7 +836,7 @@ Nu bijwerken?"</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Verzenden…</string>
   <string name="sending_message">Bericht wordt verzonden…</string>
-  <string name="sending_quick_reply">E-mail verzenden \"%s\"</string>
+  <string name="sending_quick_reply">\"%s\" verzenden</string>
   <string name="sent_folder_selection_title">"Map 'Verzonden items' van server selecteren voor %s"</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Kon niet valideren van servercertificaat
 \u0009 (maak er u zeker van dat 'Auto Sync tijd' ingeschakeld is)"</string>
