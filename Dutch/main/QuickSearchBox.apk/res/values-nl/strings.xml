@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="app_loaction">Startpagina zoeken</string>
+  <string name="app_loaction">Startpagina zoeken</string>
   <string name="app_name">Zoeken</string>
+  <string name="appindex_description">functies van geinstalleerde apps</string>
+  <string name="appindex_search_label">Apps functies</string>
   <string name="application_desc">Applicatie</string>
   <string name="applications_search_label">Apps</string>
-  <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_input">https://www.google.nl/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.nl/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
@@ -49,6 +50,7 @@
   <string name="permission_prompt_start">Toestaan</string>
   <string name="permission_prompt_started_info">U hebt een algemene zoekactie toegestaan</string>
   <string name="permission_prompt_title">Wenst u meer?</string>
+  <string name="pull_to_input">Veeg naar beneden om zoekbalk weer te geven</string>
   <string name="recent_apps">Recente apps</string>
   <string name="recent_apps_filter">Ongebruikte apps verbergen</string>
   <string name="recent_close_content">"Deze functie nu uitschakelen?
@@ -64,6 +66,7 @@ U kan dit wijzigen in instellingen &gt; Geïnstalleerde apps &gt; Zoeken"</strin
   <string name="recent_filter_functions">Functies uitschakelen</string>
   <string name="recent_function">Functies</string>
   <string name="recently_shortcut_label">Recente snelkoppelingen</string>
+  <string name="release_to_input">Laat los om de zoekbalk weer te geven</string>
   <string name="remove_from_history">Wilt u dit item verwijderen uit de zoekgeschiedenis?</string>
   <string name="remove_from_history_failed">Kan dit item niet verwijderen uit geschiedenis</string>
   <string name="search_apps">Apps doorzoeken</string>
