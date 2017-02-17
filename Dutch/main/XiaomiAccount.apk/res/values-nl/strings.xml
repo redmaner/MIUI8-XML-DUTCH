@@ -121,6 +121,8 @@
   <string name="find_device_error_password_recently_changed">"U heeft uw wachtwoord de afgelopen 3 dagen veranderd. Kan nu apparaat vinden niet uitschakelen om veiligheidsredenen."</string>
   <string name="find_device_interrupted">Actie is onderbroken, probeer later opnieuw</string>
   <string name="find_device_io_error">"Kan niet verbinden met het netwerk"</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, gekoppeld e-mailadres: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, gekoppeld telefoonnummer: %s</string>
   <string name="find_device_null_credential_error">"Kan apparaatinfo niet verkrijgen, neem contact op met Xiaomi klantenservice"</string>
   <string name="find_device_operation_failed_error">Er is een fout opgetreden</string>
   <string name="find_device_operation_failed_error_unknown">Er is een fout opgetreden, probeer later opnieuw</string>
@@ -153,8 +155,6 @@
   <string name="micloud_space_info">%s beschikbaar</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">"Dit apparaat is gekoppeld met een bestaand Mi Account (%1$s), voer uw wachtwoord in om uw apparaat te verifiëren.
-(Nummer deblokkeren: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Het ziet er naar uit dat je het Mi Account van je standaard ruimte gebruikt.</string>
   <string name="multi_user_not_show_sync_activity_message_2">In zo\'n geval, zullen alle gegevens worden gesynchroniseerd met uw tweede ruimte. Om dit te voorkomen, schakel synchronisatie met Mi Cloud niet in</string>
   <string name="multi_user_not_show_sync_activity_title">Schakel synchronisatie met Mi Cloud niet in</string>
@@ -350,28 +350,28 @@ die verzonden is naar je Postvak In."</string>
   <string name="search_account_protection">Account beveiliging</string>
   <string name="search_account_protection_desc">Account beveiliging</string>
   <string name="search_account_protection_key_words">Account beveiliging</string>
-  <string name="search_account_protection_path">Mi Account/Account beveiliging,Instellingen/Mi Account/Account beveiliging</string>
+  <string name="search_account_protection_path">Instellingen/Mi Account/Accountbeveiliging</string>
   <string name="search_app_name">Mi Account</string>
   <string name="search_bind_Account">Accounts</string>
   <string name="search_bind_Account_desc">Accounts</string>
   <string name="search_bind_Account_key_words">Accounts,Sina Weibo,QQ,Authorizatie</string>
-  <string name="search_bind_Account_path">Mi Account/Accounts,Instellingen/Mi Account/Accounts</string>
+  <string name="search_bind_Account_path">Instellingen/Mi Account/Accounts</string>
   <string name="search_devices">Apparaten</string>
   <string name="search_devices_desc">Apparaten</string>
   <string name="search_devices_key_words">Apparaten</string>
-  <string name="search_devices_path">Mi Account/Apparaten,Instellingen/Mi Account/Apparaten</string>
+  <string name="search_devices_path">Instellingen/Mi Account/Apparaten</string>
   <string name="search_logout_account">Afmelden</string>
   <string name="search_logout_account_desc">Mi Account</string>
   <string name="search_logout_account_key_words">Afmelden</string>
-  <string name="search_logout_account_path">Mi Account,Instellingen/Mi Account</string>
+  <string name="search_logout_account_path">Instellingen/Mi Account</string>
   <string name="search_mi_account">Mi Account</string>
   <string name="search_mi_account_desc">Mi Account</string>
   <string name="search_mi_account_key_words">Mi Account,Aanmelden,account aanmaken,Mi Cloud,Mi Credits,Mi Wallet,Mi Pass,Mi Insurance,Account instellingen,Account beheer</string>
-  <string name="search_mi_account_path">Mi Account,Instellingen/Mi Account</string>
+  <string name="search_mi_account_path">Instellingen/Mi Account</string>
   <string name="search_user_detail">Persoonlijke info</string>
   <string name="search_user_detail_bottom_key_words">Telefoon wijzigen,E-mail wijzigen,Inkomende wijzigen,Onderwijs wijzigen,Locatie wijzigen,Regio wijzigen</string>
   <string name="search_user_detail_desc">Persoonlijke info</string>
-  <string name="search_user_detail_path">Mi Account/Persoonlijke info,Instellingen/Mi Account/Persoonlijke info</string>
+  <string name="search_user_detail_path">Instellingen/Mi Account/Persoonlijke info</string>
   <string name="search_user_detail_top_key_words">Persoonlijke info,Profiel foto wijzigen,Gebruikersnaam wijzigen,Roepnaam wijzigen,Verjaardag wijzigen,Geslacht wijzigen</string>
   <string name="security_question">Kies een vraag</string>
   <string name="security_question_answer">Geef het antwoord</string>
