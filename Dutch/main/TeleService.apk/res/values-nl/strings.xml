@@ -118,7 +118,6 @@
   <string name="callFailed_userBusy">Lijn bezet</string>
   <string name="callUnanswered_forwarded">Oproep onbeantwoord en doorgeschakeld</string>
   <string name="call_advanced_setting_title">Geavanceerde instellingen</string>
-  <string name="call_background_default">Standaard</string>
   <string name="call_background_lock_wallpaper">Achetrgrond vergrendelscherm</string>
   <string name="call_background_setting">Oproepachtergrond</string>
   <string name="call_barring">Oproepen blokkeren</string>
@@ -227,8 +226,6 @@
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
   <string name="cfu_title">Gesprekken altijd doorschakelen</string>
   <string name="change_data_preference_4g_only_prompt">Het lijkt dat u enkel een 4G SIM kaart hebt. Instellen als standaard voor mobiele data?</string>
-  <string name="change_default_data_card">Standaard mobiele data SIM</string>
-  <string name="change_default_data_card_summary">Het lijkt dat u van SIM kaarten hebt gewisseld. Instellen als standaard voor mobiele data?</string>
   <string name="change_num">Bijwerken</string>
   <string name="change_password">Verander wachtwoord voor afbuigen</string>
   <string name="change_pin">SIM PIN code wijzigen</string>
@@ -236,7 +233,6 @@
    <string name="chose_product_summary">Bel goedkoper</string>
   <string name="chose_product_title">Pakket herladen</string>
   <string name="clir_choices_hide_number">Verberg nummer</string>
-  <string name="clir_choices_network_default">Netwerk standaard</string>
   <string name="clir_choices_show_number">Toon nummer</string>
   <string name="close_dialog">Ok</string>
   <string name="close_profile">Sluiten</string>
@@ -245,7 +241,6 @@
   <string name="command_error_fdn_failure">U dient eerst de PDN uit te schakelen</string>
   <string name="common_problem_message">Leer meer in %1$s of bel onze klantensinst op 400-100-5678</string>
   <string name="common_setting">Algemene instellingen</string>
-  <string name="config_default_data_sim">Instellingen</string>
   <string name="confirmPin2Label">Nieuwe PIN2 bevestigen</string>
   <string name="confirmPinLabel">Nieuwe PIN bevestigen</string>
   <string name="confirm_password_label">Nieuwe wachtwoord bevestigen</string>
@@ -271,10 +266,6 @@
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
   <string name="deactivate_all">Alles annuleren</string>
-  <string name="default_area_code_setting">Standaard regiocode</string>
-  <string name="default_areacode">Standaard regiocode</string>
-  <string name="default_notification_description">Standaard geluid (%1$s)</string>
-  <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteAllSimEntries">Alle SIM contacten verwijderen</string>
   <string name="deleteSimContacts">SIM contacten verwijderen</string>
@@ -570,10 +561,7 @@
   <string name="mobile_network_settings_not_available">Mobiele netwerkinstellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="mobile_networks">Mobiele netwerkinstellingen</string>
   <string name="msim_apn_not_set">Niet ingesteld</string>
-  <string name="msim_default_setting">Standaard instellingen</string>
   <string name="msim_disable_sim_card_btn_text">Ok</string>
-  <string name="msim_disable_sim_card_summary_default_card">Deze kaart is momenteel ingesteld als standaard SIM. Als u stopt met deze te gebruiken, zal het niet meer mogelijk zijn om oproepen te maken en uw mobilele verbinding te gebruiken. U kan deze SIM kaart stoppen nadat u een andere SIM als standaard kaart hebt ingesteld.</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">U zal geen oproepen meer kunnen maken en uw mobilele verbinding gebruiken. Stoppen met %s SIM kaart te gebruiken?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Uw secundaire SIM in noodoproepmodus niet beperken.</string>
   <string name="msim_disable_sim_card_title">Stoppen met SIM kaart te gebruiken</string>
   <string name="msim_enable_sim">Inschakelen</string>
@@ -786,7 +774,6 @@ U hebt nog %d pogingen over."</string>
   <string name="preference_category_ringtone">Beltoon en trillen</string>
   <string name="preference_data_usage_summary">Stel uw dataplan in om het verbruik aan mobiele data te controleren</string>
   <string name="preference_data_usage_title">Dataplan instellen</string>
-  <string name="preference_dial_pad_touch_tone_default">Standaard</string>
   <string name="preference_dial_pad_touch_tone_off">Uit</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianotoetsen</string>
   <string name="preference_dial_pad_touch_tone_title">Kiestoetsen geluiden</string>
@@ -904,7 +891,6 @@ U hebt nog %d pogingen over."</string>
   <string name="respond_via_sms_cannot_empty">Weiger berichten kunnen niet leeg zijn</string>
   <string name="respond_via_sms_confirmation_format">Bericht verzonden naar %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Snelle reactie</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Terug naar standaard</string>
   <string name="respond_via_sms_setting_summary">Vooraf geschreven reactie tekst bewerken </string>
   <string name="respond_via_sms_setting_title">Snelle reacties</string>
   <string name="response_error">Onverwachte reactie van netwerk.</string>
@@ -958,7 +944,6 @@ U hebt nog %d pogingen over."</string>
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Naam</string>
   <string name="sim_contact_number">Nummer</string>
-  <string name="sim_description_default">SIM card %s</string>
   <string name="sim_description_emergency_calls">Alleen noodoproepen</string>
   <string name="sim_label_emergency_calls">Noodoproepen</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
@@ -1014,7 +999,6 @@ U hebt nog %d pogingen over."</string>
   <string name="sum_cfu_enabled_no_number">Het telefoonnummer is niet beschikbaar</string>
   <string name="sum_cw_disabled">Inkomende oproepen melden als ik aan het bellen ben</string>
   <string name="sum_cw_enabled">Inkomende oproepen melden als ik aan het bellen ben</string>
-  <string name="sum_default_caller_id">Gebruik de standaard provider instellingen om mijn nummer bij uitgaande gesprekken weer te geven</string>
   <string name="sum_fdn">Vaste nummers beheren</string>
   <string name="sum_fdn_change_pin">PIN code voor FDN toegang wijzigen</string>
   <string name="sum_fdn_manage_list">Telefoonnr. lijst beheren</string>
@@ -1110,7 +1094,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="voice_privacy_summary">Verbeterde privémodus inschakelen</string>
   <string name="voice_report_incoming_call">Bellen</string>
   <string name="voice_report_unknown_num">Onbekend nummer</string>
-  <string name="voicemail_default">Uw provider</string>
   <string name="voicemail_notification_ringtone_title">Geluid</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Trillen</string>
   <string name="voicemail_notification_vibrate_when_title">Trillen</string>
