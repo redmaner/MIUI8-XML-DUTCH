@@ -114,7 +114,13 @@
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Gemaakt op %1$s | %2$d nummers totaal</item>
-        <item quantity="zero">Gemaakt op %1$s | %2$d nummer totaal</item>
+        <item quantity="zero">Gemaakt op %1$s | %2$d nummers totaal</item>
         <item quantity="one">Gemaakt op %1$s | %2$d nummer totaal</item>
     </plurals>
+	<plurals name="Nalbum_total_songs">
+        <item quantity="other">%d nummers totaal</item>
+        <item quantity="zero">%d nummers totaal</item>
+        <item quantity="one">%d nummer totaal</item>
+    </plurals>
+
 </resources>

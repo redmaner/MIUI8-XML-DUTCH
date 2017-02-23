@@ -48,7 +48,16 @@
   <string name="app_label">Downloads</string>
   <string name="artist">Artiesten</string>
   <string name="artist_album">Albums</string>
+  <string name="artist_area_all">Alles</string>
+  <string name="artist_area_china">Chinees</string>
+  <string name="artist_area_europe_usa">Europees/Amerikaans</string>
+  <string name="artist_area_japan">Japans</string>
+  <string name="artist_area_korea">Koreaans</string>
   <string name="artist_favor">Aanbevolen</string>
+  <string name="artist_gender_all">Alles</string>
+  <string name="artist_gender_female">Vrouwelijk</string>
+  <string name="artist_gender_group">Groep</string>
+  <string name="artist_gender_male">Mannelijk</string>
   <string name="artist_is_empty">Artiestennaam kan niet leeg zijn.</string>
   <string name="artist_name">Artiest</string>
   <string name="artist_news">Nieuws</string>
@@ -319,6 +328,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="favorite_singer">Favoriete artiesten</string>
   <string name="favorite_succeed">Toegevoegd aan favorieten</string>
   <string name="favorite_tracks">Favorieten</string>
+  <string name="favorites">Favorieten</string>
   <string name="favourite_music_left_half">Om nummers aan de afspeellijst toe te voegen, tik op</string>
   <string name="favourite_music_right_half">Favorieten icoon rechts van de titel</string>
   <string name="female_artist">Vrouwelijke artiesten</string>
@@ -426,6 +436,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="local_page_artist">Gevolgde artiesten</string>
   <string name="local_page_custom_subtitle">Dagelijkse nieuwe nummers</string>
   <string name="local_page_custom_title">Voor u</string>
+  <string name="local_page_playlist">Mijn afspeellijsten</string>
   <string name="local_page_song_all">Alle nummers</string>
   <string name="local_page_song_download">Lokale nummers</string>
   <string name="local_page_song_favorite">Favoriete nummers</string>
@@ -536,6 +547,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="no_local_source_find">Kon bestand niet vinden</string>
   <string name="no_online_song_selected">Geen nummers geselecteerd</string>
   <string name="no_results_return">Geen zoekresultaten</string>
+  <string name="no_scanned_songs">Leeg</string>
   <string name="no_song">Geen nummers</string>
   <string name="no_song_downloaded">Verbinding met de server mislukt</string>
   <string name="normal_quality">Goed</string>
@@ -605,6 +617,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="play_next">Volgende afspelen</string>
   <string name="playback_failed_no_title_by_bad_file">Nummer afspelen mislukt. Bestandsformaat niet ondersteund of het bestand bestaat niet.</string>
   <string name="playlist_deleted_message">Afspeellijst verwijderd.</string>
+  <string name="playlist_empty">Geen afspeellijsten gevonden.</string>
   <string name="playlist_renamed_message">Afspeellijst hernoemd.</string>
   <string name="playlist_type_album">Albums</string>
   <string name="playlist_type_artist">Artiest</string>
@@ -651,6 +664,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Nu betalen?</string>
   <string name="recently_played">Recent afgespeeld</string>
+  <string name="recently_played_songs">Recent afgespeeld</string>
   <string name="recommend_fragment_title">Aanbevolen</string>
   <string name="recommended_file_size_download_in_mobile">Gebruik %s aan mobiele data om dit bestand te downloaden?</string>
   <string name="recommended_no_file_size_download_in_mobile">Uw mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>

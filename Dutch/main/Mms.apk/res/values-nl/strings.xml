@@ -17,7 +17,7 @@
   <string name="add_redpackage">Rood pakket</string>
   <string name="add_slide">Dia toevoegen</string>
   <string name="add_slide_before">Intro dia toevoegen</string>
-  <string name="add_slide_hint">Raak aan om een nieuwe dia te maken</string>
+  <string name="add_slide_hint">Tik om een nieuwe dia te maken</string>
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Timing</string>
   <string name="add_to_browser_favorite_failed">Kon niet toevoegen</string>
@@ -201,9 +201,9 @@
   <string name="group_message">Groepsbericht</string>
   <string name="group_message_failed_title">"Verzenden mislukt naar %d contacten"</string>
   <string name="group_resend_message">Opnieuw verzenden (%d)</string>
-  <string name="guild_add_attachments">Klik hier om bijlagen of smileys toe te voegen</string>
-  <string name="guild_add_recipients">Klik hier om ontvagers te selecteren uit het adres boek</string>
-  <string name="guild_msim_switcher">Raak aan om van SIM kaart te wisselen</string>
+  <string name="guild_add_attachments">Tik hier om smileys of andere bijlagen toe te voegen</string>
+  <string name="guild_add_recipients">Tik hier om ontvangers te selecteren uit het adresboek</string>
+  <string name="guild_msim_switcher">Tik om van SIM kaart te wisselen</string>
   <string name="has_invalid_recipient">Ongeldige ontvanger(s: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Verborgen adres verzender</string>
   <string name="hint_search_sms">%d berichten</string>
@@ -261,7 +261,7 @@
   <string name="message_download_failed_title">Bericht niet gedownload</string>
   <string name="message_expired">Vervallen</string>
   <string name="message_failed">Mislukt</string>
-  <string name="message_failed_body">Raak dit aan om het bericht te controleren en opnieuw te proberen.</string>
+  <string name="message_failed_body">Tik om het bericht te controleren en probeer opnieuw</string>
   <string name="message_number">Telefoonnummer:</string>
   <string name="message_pending">Verzenden</string>
   <string name="message_queued">Kan uw bericht momenteel niet verzenden. Het wordt verzonden als de service(weer) beschikbaar is</string>
@@ -349,7 +349,7 @@
   <string name="mx_on_sim_2">Mi Messaging met SIM slot 2</string>
   <string name="mx_online">Geactiveerd</string>
   <string name="mx_reactivate">Heractiveer Mi Message</string>
-  <string name="mx_recommend_msg">Druk hier om Mi Message in te schakelen.</string>
+  <string name="mx_recommend_msg">Tik om Mi Message in te schakelen</string>
   <string name="mx_stranger_recommend_msg">Tik om Mi berichten van onbekende nummers te blokkeren</string>
   <string name="mx_type_guide">Met Mi Message kan je berichten sturen naar andere MIUI gebruikers zonder kosten</string>
   <string name="need_download">Sync…</string>
@@ -571,8 +571,8 @@
   <string name="sim_full_title">SIM kaart vol</string>
   <string name="sim_manage_messages_title">SMS berichten op SIM kaart</string>
   <string name="sim_view">Weergeven</string>
-  <string name="slide_number">Dia %s</string>
-  <string name="slide_show_part">Deel %1$s/%2$s</string>
+  <string name="slide_number">Dia %d</string>
+  <string name="slide_show_part">Deel %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Omhoog vegen om te annuleren</string>
   <string name="slideshow_activity">Diavoorstelling</string>
   <string name="sms_card_partner_label">"SMS kaartpartner: "</string>
@@ -633,8 +633,9 @@
   <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
   <string name="title_show_sms_template_in">SMS controleren op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
+  <string name="title_use_gsm_alphabet">GSM alfabet gebruiken</string>
   <string name="to_address_label">"Aan: "</string>
-  <string name="to_count">%d onvangers</string>
+  <string name="to_count">%d ontvangers</string>
   <string name="to_label">"Aan "</string>
   <string name="to_send_wrapper">Wordt verzonden op %s</string>
   <string name="too_many_attachments">Kan %1$s bijlagen niet overschrijden. Alleen de eerste %2$s zullen toegevoegd worden.</string>
