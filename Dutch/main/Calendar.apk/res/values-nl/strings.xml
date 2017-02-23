@@ -32,6 +32,8 @@
   <string name="alarm_label">Afwijzen</string>
   <string name="alert_reminder_expired">Verlopen</string>
   <string name="alert_title">Kalendermeldingen</string>
+  <string name="anniversary_card_title">Verjaardag</string>
+  <string name="anniversary_event_title">[Verjaardag] %1$s</string>
   <string name="app_label">Agenda</string>
   <string name="birthday_calendar_display_name">Verjaardagsherinneringen</string>
   <string name="birthday_card_title">Verjaardagen vandaag</string>
@@ -39,8 +41,8 @@
   <string name="birthday_event_description_a_week_later">Een week tot</string>
   <string name="birthday_event_description_day_after_tomorrow">Overmorgen is</string>
   <string name="birthday_event_description_day_before_yesterday">Eergisteren was</string>
-  <string name="birthday_event_description_days_ago">%1$s dagen sinds</string>
-  <string name="birthday_event_description_days_later">%1$s dagen tot</string>
+  <string name="birthday_event_description_days_ago">%1$d dagen sinds</string>
+  <string name="birthday_event_description_days_later">%1$d dagen tot</string>
   <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Vandaag is</string>
   <string name="birthday_event_description_tomorrow">Morgen is</string>
@@ -78,6 +80,11 @@
   <string name="chongsha">Ghosts</string>
   <string name="copy_email">E-mailadres kopiëren</string>
   <string name="copy_number">Telefoonnummer kopiëren</string>
+  <string name="countdown_card_title">Dagen aftellen</string>
+  <string name="countdown_event_title">[Aftellen] %1$s</string>
+  <string name="countdown_notify_before_3_day_title">[Aftellen] %1$s over 3 dagen</string>
+  <string name="countdown_notify_title">[Aftellen] %1$s</string>
+  <string name="countdown_today">Vandaag</string>
   <string name="create_an_account_desc">"Agenda werkt beter met een Google account.
 
 • Toegang via elke webbrowser
@@ -106,6 +113,8 @@
   <string name="delete_this_event_title">Deze afspraak verwijderen?</string>
   <string name="deleting_calendar">Uitschrijven</string>
   <string name="departure">Vertrektijd</string>
+  <string name="description_calendar">Systeemapps/Kalender</string>
+  <string name="description_calendar_edit_event">Systeemapps/Kalender/Agenda</string>
   <string name="directory_searching_fmt">%s zoeken…</string>
   <string name="discard_label">Annuleren</string>
   <string name="does_not_repeat">Eenmalige afspraak</string>
@@ -116,21 +125,26 @@
   <string name="downloading_wallpaper">Achtergrond downloaden</string>
   <string name="dropdown_delete_button_desc">%s verwijderen van ontvangers</string>
   <string name="edit_event_all_day_label">De hele dag</string>
+  <string name="edit_event_anniversary_name_empty_hint">Voer een verjaardag in</string>
+  <string name="edit_event_anniversary_name_hint">Inhoud</string>
   <string name="edit_event_birthday_3_days_before">Drie dagen van tevoren,</string>
   <string name="edit_event_birthday_import_from_contact">Verjaardag importeren uit contacten</string>
   <string name="edit_event_birthday_name_empty_hint">Voer een naam in</string>
   <string name="edit_event_birthday_name_hint">Naam</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Drie dagen van tevoren herinneren</string>
-  <string name="edit_event_birthday_reminder_summary">Op de dag zelf om %1$s</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">Drie dagen van tevoren en op de dag zelf om %1$s</string>
   <string name="edit_event_birthday_reminder_time">Herinneringstijd</string>
   <string name="edit_event_calendar_label">Agenda</string>
   <string name="edit_event_choose_date">Datum selecteren</string>
   <string name="edit_event_confirm_message">Wijzigingen ongedaan maken?</string>
+  <string name="edit_event_countdown_name_empty_hint">Voer inhoud in voor aftelling</string>
+  <string name="edit_event_countdown_name_hint">Inhoud</string>
   <string name="edit_event_from_label">Van</string>
   <string name="edit_event_input_year">Jaar invoeren</string>
   <string name="edit_event_label">Details</string>
-  <string name="edit_event_reminder_text">op %1$s om %2$s</string>
+  <string name="edit_event_reminder_3_days_before">Drie dagen van tevoren herinneren</string>
+  <string name="edit_event_reminder_summary">Op de dag zelf om %1$s</string>
+  <string name="edit_event_reminder_summary_3_days_before">Drie dagen van tevoren en op de dag zelf om %1$s</string>
+  <string name="edit_event_reminder_text">Op %1$s om %2$s</string>
+  <string name="edit_event_reminder_time">Herinneringstijd</string>
   <string name="edit_event_reminder_with_another_day_text">Op %1$s, %2$s om %3$s</string>
   <string name="edit_event_show_all">Alles weergeven</string>
   <string name="edit_event_tab_anniversary">Jubileum</string>
@@ -286,7 +300,7 @@
   <string name="olympic_total">Totaal</string>
   <string name="olympic_vs">VS</string>
   <string name="online_reminder_header_text">Herinnering</string>
-  <string name="path_calendar">Systeemapps/Kalender/Instellingen</string>
+  <string name="path_calendar_settings">Systeemapps/Kalender/Instellingen</string>
   <string name="prefDialogTitle_vibrateWhen">Trillen</string>
   <string name="pref_error_no_ringtone_select">Standaard beltoon</string>
   <string name="pref_reminder_time">Herinneringstijd</string>
@@ -343,7 +357,9 @@
   <string name="saving_event">Afspraak opgeslagen</string>
   <string name="saving_event_with_guest">Updates zullen worden verzonden</string>
   <string name="search">Zoeken</string>
-  <string name="search_calendar">Kalender;Agenda;Herinnering</string>
+  <string name="search_calendar">"Datum;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Herinnering;Vakantie;Vakantie;Verjaardag;2016;2017;Spring Festival;Nieuwjaarsdag;International Labour Day;Mid-Autumn Festival"</string>
+  <string name="search_calendar_edit_event">Meeting;Herinnering;Agenda</string>
+  <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
   <string name="select_date">Springen naar datum</string>
   <string name="select_synced_calendars_title">Agenda\'s om te synchroniseren</string>
   <string name="set_as_wallpaper">Instellen als achtergrond</string>
