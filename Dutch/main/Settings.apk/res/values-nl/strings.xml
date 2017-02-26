@@ -62,6 +62,7 @@ U kunt ook de inhoud onder uw vinger tijdelijk vergroten door drie keer te tikke
 
 Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toetsenbord en de navigatiebalk."</string>
   <string name="accessibility_screen_magnification_title">Vergrotingsgebaren</string>
+  <string name="accessibility_service_default_description">Geen beschrijving opgegeven.</string>
   <string name="accessibility_services_title">Diensten</string>
   <string name="accessibility_settings">Toegankelijkheid</string>
   <string name="accessibility_settings_title">Instellingen voor toegankelijkheid</string>
@@ -216,6 +217,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_launch_domain_links_title">Applinks</string>
   <string name="app_launch_open_domain_urls_summary">Openen zonder te vragen</string>
   <string name="app_launch_open_domain_urls_title">Ondersteunde links openen</string>
+  <string name="app_launch_other_defaults_title">Andere standaardapps</string>
   <string name="app_launch_supported_domain_urls_title">Ondersteunde links</string>
   <string name="app_link_open_always">Openen in deze app</string>
   <string name="app_link_open_ask">Elke keer vragen</string>
@@ -332,6 +334,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
   <string name="background_data_summary">Onbeperkt gegevens sync., verzenden en ontvangen</string>
   <string name="background_process_stop_description">Dit is een oud appproces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
+  <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-up gegevens</string>
   <string name="backup_configure_account_title">Back-up account</string>
   <string name="backup_data_summary">Een back-up van appgegevens, Wi-Fi wachtwoorden en andere instellingen maken op de Google-servers</string>
   <string name="backup_data_title">Back-up maken van mijn gegevens</string>
@@ -585,6 +588,8 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_pb_remember_choice">Niet meer vragen</string>
   <string name="bluetooth_permission_request">Machtigingsverzoek voor Bluetooth</string>
   <string name="bluetooth_phonebook_request">Toegangsverzoek voor telefoonboek</string>
+  <string name="bluetooth_pin_values_hint">Meestal 0000 of 1234</string>
+  <string name="bluetooth_pin_values_hint_16_digits">Moet 16 tekens zijn</string>
   <string name="bluetooth_preference_connected_devices">Verbonden apparaten</string>
   <string name="bluetooth_preference_device_settings">Apparaatinstellingen</string>
   <string name="bluetooth_preference_found_devices">Beschikbare apparaten</string>
@@ -1062,6 +1067,17 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="debug_networking_category">Verbindingen</string>
   <string name="debug_view_attributes">Attribuut inspectie bekijken inschakelen</string>
   <string name="defalut_launcher_title">Standaard launcher</string>
+  <string name="default_app">(Standaard)</string>
+  <string name="default_apps_title">Standaardpps</string>
+  <string name="default_assist_none">Geen</string>
+  <string name="default_assist_title">Assistapp</string>
+  <string name="default_browser_title">Browserapp</string>
+  <string name="default_browser_title_none">Geen standaardbrowser</string>
+  <string name="default_emergency_app">Noodapp</string>
+  <string name="default_input_method">Kies standaard toetsenbord</string>
+  <string name="default_phone_title">Telefoonapp</string>
+  <string name="default_sound">Standaardgeluid</string>
+  <string name="default_usb_mode">USB verbinding</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_fingerprint_confirm_msg">Vingerafdruk verwijderen?</string>
   <string name="delete_fingerprint_text">Verwijder vingerafdruk</string>
@@ -1096,6 +1112,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_display_layout_title">Kenmerken</string>
   <string name="device_edit_title">Apparaatnaam wijzigen</string>
   <string name="device_feedback">Feedback versturen over dit apparaat</string>
+  <string name="device_info_default">Onbekend</string>
   <string name="device_info_label">Apparaatinfo</string>
   <string name="device_info_not_available">Niet beschikbaar</string>
   <string name="device_info_settings">Apparaatstatus</string>
@@ -1642,6 +1659,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="internal_storage">Interne opslag</string>
   <string name="internal_storage_sentence">interne opslag</string>
   <string name="invalid_location">De installatielocatie is niet geldig.</string>
+  <string name="invalid_size_value">Kan pakketgrootte niet berekenen.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s en %2$s</string>
@@ -1660,6 +1678,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_layout_picker_title">Toetsenbordindelingen</string>
   <string name="keyboard_settings_category">Toetsenbord en invoermethoden</string>
   <string name="keyboard_settings_title">Android toetsenbord</string>
+  <string name="keyboard_layout_default_label">Standaard</string>
   <string name="keyguard_advance_setting_title">Geavanceerde instellingen</string>
   <string name="keyguard_left_function_chooser_hint_text">Linker snelkoppeling veranderd naar %s</string>
   <string name="keyguard_left_function_chooser_title">App</string>
@@ -1707,6 +1726,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="last_synced">Laatst gesync.: %1$s</string>
   <string name="last_time_used_label">Laatste keer gebruikt</string>
   <string name="lattice_smartcover_title">Rooster voorklep</string>
+  <string name="launch_by_default">Gebruiken als standaardapp</string>
+  <string name="launch_defaults_none">Geen standaardapps ingesteld</string>
+  <string name="launch_defaults_some">Sommige standaardapps ingesteld</string>
   <string name="launcher_auto_fill_empty_title">Lege cellen vullen</string>
   <string name="launcher_title">Startscherm</string>
   <string name="launching_cit">CIT starten</string>
@@ -1753,6 +1775,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="local_backup_password_toast_validation_failure">Instellen van back-up wachtwoord is mislukt</string>
   <string name="local_backup_section_summary">Back-up systeeminstellingen, accountgegevens en apps</string>
   <string name="local_backup_section_title">Lokale back-ups</string>
+  <string name="locale_default">Standaard</string>
   <string name="locale_settings">Regio</string>
   <string name="location_access_summary">Apps die uw toestemming hebben gevraagd, toestaan uw locatiegegevens te gebruiken</string>
   <string name="location_access_title">Toegang tot mijn locatie</string>
@@ -2204,11 +2227,18 @@ Selecteer het OS van uw computer:"</string>
   <string name="nfc_how_it_works_title">Betalen bij het apparaat</string>
   <string name="nfc_more_title">Meer…</string>
   <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
+  <string name="nfc_payment_default">Betalingsstandaard</string>
+  <string name="nfc_payment_default_not_set">Niet ingesteld</string>
+  <string name="nfc_payment_favor_default">Altijd</string>
   <string name="nfc_payment_favor_open">Behalve wanneer een andere betalingsapp is geopend</string>
   <string name="nfc_payment_how_it_works">Hoe het werkt</string>
   <string name="nfc_payment_no_apps">Betalen met je telefoon in de winkels</string>
   <string name="nfc_payment_pay_with">Bij een tik &amp; betaal terminal, betaal met:</string>
+  <string name="nfc_payment_set_default">%1$s altijd gebruiken wanneer u op betalen tikt?</string>
+  <string name="nfc_payment_set_default_instead_of">%1$s altijd gebruiken in plaats van %2$s wanneer u op betalen tikt?</string>
+  <string name="nfc_payment_set_default_label">Uw voorkeuren instellen?</string>
   <string name="nfc_payment_settings_title">Tikken &amp; betalen</string>
+  <string name="nfc_payment_use_default">Standaard gebruiken</string>
   <string name="nfc_quick_toggle_summary">Gegevensuitwisseling toestaan wanneer het apparaat een ander apparaat fysiek raakt</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Beveiligde element positie</string>
@@ -2224,6 +2254,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_battery_summary">Geen batterijverbruik sinds laatste volledige oplading</string>
   <string name="no_connected_devices">Geen verbonden apparaten</string>
   <string name="no_data_usage">Geen data gebruikt</string>
+  <string name="no_default_apps">Geen standaardapps.</string>
   <string name="no_device_admins">Geen apparaatbeheerders beschikbaar</string>
   <string name="no_internet_access_remember">Niet opnieuw vragen voor dit netwerk</string>
   <string name="no_internet_access_text">Wi-Fi netwerk %1$s heeft geen internettoegang. Verbonden blijven?</string>
@@ -2452,6 +2483,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="pref_volume_wake_title">Ontwaken door middel van volumeknoppen</string>
   <string name="preference_change_password_title">Wachtwoord wijzigen</string>
   <string name="preferred_app_settings">Standaardapps</string>
+  <string name="preferred_app_settings_default">Standaard</string>
   <string name="preferred_app_settings_not_selected">Niet geselecteerd</string>
   <string name="preferred_app_settings_reset">Resetten naar standaardinstellingen</string>
   <string name="preferred_app_settings_reset_button">Resetten</string>
@@ -2575,6 +2607,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="provision_skip">Overslaan</string>
   <string name="proxy_action_text">Voltooid</string>
   <string name="proxy_clear_text">Wissen</string>
+  <string name="proxy_defaultView_text">Standaardwaarden herstellen</string>
   <string name="proxy_error">Let op</string>
   <string name="proxy_error_dismiss">OK</string>
   <string name="proxy_error_empty_host_set_port">Het poortveld moet leeg zijn als het hostveld leeg is.</string>
@@ -2713,6 +2746,8 @@ U verliest geen app gegevens."</string>
   <string name="resetting_second_space_passwd">Tweede ruimte wachtwoord aan het resetten</string>
   <string name="resolver_settings_label">Sorteren</string>
   <string name="resource_ringtone_volume_mute">Het geluid is uitgeschakeld</string>
+  <string name="restore_default_apn">Standaard APN instellingen herstellen.</string>
+  <string name="restore_default_apn_completed">Herstellen van standaard APN instellingen voltooid.</string>
   <string name="restr_pin_enter_admin_pin">Beheerders PIN invoeren</string>
   <string name="restriction_bluetooth_config_summary">Aanpassing van Bluetooth koppelingen en -instellingen toestaan</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -2770,7 +2805,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Geen toestemmingen aangevraagd</string>
   <string name="save">Opslaan</string>
   <string name="saved_network">Opgeslagen door %1$s</string>
-  <string name="saved_wifi">Opgeslagen netwerk</string>
+  <string name="saved_wifi">Opgeslagen netwerken</string>
   <string name="saved_wifi_delete">Verwijderen</string>
   <string name="scan_list_label">Scanresultaten:</string>
   <string name="screen">Scherm</string>
@@ -3291,6 +3326,9 @@ PIN code mogelijk onjuist.</string>
   <string name="smartcover_sensitive_summary">Vergrendel of ontgrendel de telefoon automatisch met smartcover</string>
   <string name="smartcover_sensitive_title">Smartcover</string>
   <string name="sms_application_title">SMS app</string>
+  <string name="sms_change_default_dialog_text">%1$s gebruiken in plaats van %2$s als uw SMS app?</string>
+  <string name="sms_change_default_dialog_title">SMS app wijzigen?</string>
+  <string name="sms_change_default_no_previous_dialog_text">Wilt u %s gebruiken als standaard SMS app?</string>
   <string name="sms_delivered_sound_dialog_title">Kies geluid voor aangekomen SMS</string>
   <string name="sms_delivered_sound_title">SMS aangekomen</string>
   <string name="sms_messages_title">SMS berichten</string>
@@ -3663,6 +3701,16 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="trusted_credentials_system_tab">Systeem</string>
   <string name="trusted_credentials_user_tab">Gebruiker</string>
   <string name="tts_data_installed_summary">Stemmen die zijn vereist voor spraaksynthese, zijn al correct geïnstalleerd</string>
+  <string name="tts_default_lang_summary">De taalspecifieke stem voor de gesproken tekst instellen</string>
+  <string name="tts_default_lang_title">Taal</string>
+  <string name="tts_default_pitch_summary">Is van invloed op de toon van de gesproken tekst</string>
+  <string name="tts_default_pitch_title">Hoogte</string>
+  <string name="tts_default_rate_summary">Snelheid waarmee de tekst wordt gesproken</string>
+  <string name="tts_default_rate_title">Spraaksnelheid</string>
+  <string name="tts_default_sample_string">Dit is een voorbeeld van spraaksynthese</string>
+  <string name="tts_default_settings_section">Standaardinstellingen</string>
+  <string name="tts_default_synth_summary">De engine voor spraaksynthese instellen die moet worden gebruikt voor gesproken tekst</string>
+  <string name="tts_default_synth_title">Standaardengine</string>
   <string name="tts_engine_error">De door u geselecteerde engine kan niet worden uitgevoerd.</string>
   <string name="tts_engine_error_config">Configureren</string>
   <string name="tts_engine_error_reselect">Een andere engine kiezen</string>
@@ -3830,6 +3878,8 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="usb_use_charging_only">Alleen opladen</string>
   <string name="usb_use_file_transfers">Bestanden verplaatsen (MTP)</string>
   <string name="usb_use_photo_transfers">Foto\'s verplaatsen (PTP)</string>
+  <string name="use_default_tts_settings_summary">Onderstaande standaardinstellingen overschrijven instellingen van app</string>
+  <string name="use_default_tts_settings_title">Mijn instellingen gebruiken</string>
   <string name="use_location_summary">Google toestaan uw locatie te gebruiken om zoekresultaten en andere services te verbeteren</string>
   <string name="use_location_title">Locatie en Google Zoeken</string>
   <string name="use_personalized_ad_service">Gebruik reclame identifier</string>
@@ -4123,6 +4173,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_click_share_wlan">Tik om wachtwoord te delen</string>
   <string name="wifi_config_info">Wi-Fi configureren</string>
   <string name="wifi_configured_ap_list">Eerder geconfigureerde APs</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_connect">Verbinden</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Annuleren</string>
   <string name="wifi_connect_cmcc_dialog_confirm">Ok</string>
@@ -4423,8 +4474,8 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_wapi_as_cert">AS Certificaat</string>
   <string name="wifi_wapi_cert_cancel_button">Annuleren</string>
   <string name="wifi_wapi_cert_create_subdir">Map aanmaken</string>
-  <string name="wifi_wapi_cert_delet_subdir">Kies een sluit certificaat</string>
-  <string name="wifi_wapi_cert_install">Installeer WAPI Certificaat</string>
+  <string name="wifi_wapi_cert_delet_subdir">Kies een certificaat</string>
+  <string name="wifi_wapi_cert_install">WAPI certificaat installeren</string>
   <string name="wifi_wapi_cert_install_button">Installeren</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD-kaart heeft geen AS certificaat.</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS certificaat formaat is incorrect.</string>
@@ -4436,7 +4487,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Voer de WAPI gebruikerscertificaat naam in</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Het WAPI gebruikerscertificaat formaat is ongeldig! Installeer een geldig WAPI gebruikers certificaat.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Voer de WAPI gebruikers certificaat naam in</string>
-  <string name="wifi_wapi_cert_uninstall">Deïnstalleer WAPI Certificaat</string>
+  <string name="wifi_wapi_cert_uninstall">WAPI certificaat deïnstalleren</string>
   <string name="wifi_wapi_cert_uninstall_button">Deïnstalleren</string>
   <string name="wifi_wapi_certification_dont_exist">Het netwerkwachtwoord dat u heeft ingevoerd is incorrect. Probeer het opnieuw.</string>
   <string name="wifi_wapi_user_cert">Gebruiker Certificaat</string>
