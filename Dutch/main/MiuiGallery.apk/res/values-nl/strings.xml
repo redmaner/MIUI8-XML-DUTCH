@@ -127,6 +127,7 @@
   <string name="backup_automatically_title">Automatisch back-uppen</string>
   <string name="backup_battery_low_desc">Je kan kiezen om door te gaan met items back-uppen</string>
   <string name="backup_battery_low_title">Back-up gepauzeerd omdat batterij bijna leeg is</string>
+  <string name="backup_close">Back-up sluiten</string>
   <string name="backup_cloud_space_low_btn_text">Meer verkrijgen</string>
   <string name="backup_cloud_space_low_desc">%1$s op Mi Cloud | %2$s beschikbaar</string>
   <string name="backup_cloud_space_low_title">Niet genoeg opslag op Mi Cloud</string>
@@ -150,6 +151,7 @@
   <string name="backup_only_in_wifi">Alleen Wi-Fi gebruiken om foto\'s en video\'s te back-uppen</string>
   <string name="backup_only_in_wifi_summary">Nooit mobiele data gebruiken om foto\'s en video\'s te back-uppen</string>
   <string name="backup_pause">Back-up pauzeren</string>
+  <string name="backup_pause_title">Back-up maken over %s</string>
   <string name="backup_pending">Zal automatisch worden geback-upt</string>
   <string name="backup_stop">Back-up stoppen</string>
   <string name="backup_sync_error_btn_text">Probeer opnieuw</string>
@@ -247,6 +249,9 @@
   <string name="custom_select_title_select_all">Alles selecteren</string>
   <string name="custom_select_title_select_item">Selecteer items</string>
   <string name="debugging_tip">Debuggegevens genereren</string>
+  <string name="default_album_name">Nieuw album</string>
+  <string name="default_relation_name">Nieuwe groep</string>
+  <string name="define_by_user">Aangepast</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_album_failed">Kon album niet verwijderen</string>
   <string name="delete_album_msg_format">Album \"%2$s\" verwijderen %1$s %3$s?</string>
@@ -296,6 +301,7 @@
   <string name="empty_query_text_msg">Weet niet waarnaar te zoeken…</string>
   <string name="empty_recommend_back">Terug</string>
   <string name="empty_recommend_face_page_view">Geen aanbevelingen meer</string>
+  <string name="empty_relation">Groepnaam kan niet leeg zijn</string>
   <string name="enable_auto_upload_tip">Deze album zal verwijderd worden uit andere albums nadat u deze hebt ingeschakeld.</string>
   <string name="enable_auto_upload_title">Sync. met Mi Cloud inschakelen</string>
   <string name="enable_cloud_for_sharing">Schakel Mi Cloud albums in om gedeelde foto\'s te bekijken.</string>
@@ -406,6 +412,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="input_baby_nick_name">Roepnaam invoeren</string>
   <string name="input_nickname_toast">Naam baby invoeren</string>
   <string name="input_or_select_a_name">Kies of voer een naam in</string>
+  <string name="input_relation_name">Voer groepnaam in</string>
   <string name="invalid_invition_url">Foutieve uitnodiging URL</string>
   <string name="invalid_recipient_message">De namen van de ontvangers zijn ongeldig</string>
   <string name="invite_sharer_confirm_button_text">Uitnodigen</string>
@@ -422,6 +429,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Hoogte moet &gt; 0 zijn</string>
   <string name="limit_width">Breedte moet &gt; 0 zijn</string>
+  <string name="load_relations">Een momentje…</string>
   <string name="loading_dual_tip">Dubbele foto\'s laden…</string>
   <string name="loading_fail">Kon niet downloaden</string>
   <string name="loading_fail_sync_off">Schakel synchronisatie met Mi Cloud in om te downloaden</string>
@@ -465,6 +473,9 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="new_album_invalid_char">De naam bevat ongeldig karakter \"%s\", voer letter of nummer in.</string>
   <string name="new_album_invalid_name">\"%s\" is een systeemalbum, hernoem het.</string>
   <string name="new_album_invalid_prefix">"Albumnaam kan niet beginnen met \".\" of \"_\"."</string>
+  <string name="new_relation_invalid_char">Groepnamen kunnen geen “%s” bevatten. Gebruik letters, nummers of karakters.</string>
+  <string name="new_relation_invalid_name">“%s” bestaat al, hernoem deze groep.</string>
+  <string name="new_relation_invalid_prefix">Een groepnaam kan niet beginnen met “.” of “_”"</string>
   <string name="next">Volgende</string>
   <string name="no">Nee</string>
   <string name="no_map_app">Er is geen app beschikbaar voor deze actie</string>
@@ -485,6 +496,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_do_delete_local_thumnail">Verwijderen van apparaat</string>
   <string name="operation_download">Origineel downloaden (%s)</string>
   <string name="operation_edit">Bewerken</string>
+  <string name="operation_edit_video">Bewerken</string>
   <string name="operation_enable_auto_upload">Sync. met Mi Cloud inschakelen</string>
   <string name="operation_enter_delete_local">Geback-upte foto\'s en video\'s van apparaat verwijderen</string>
   <string name="operation_failed">Uitvoering mislukt</string>
@@ -498,6 +510,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_remove_from_face_album">Uit album verwijderen</string>
   <string name="operation_remove_from_other_albums">Verplaatsen uit andere albums</string>
   <string name="operation_remove_secret">Zichtbaar maken</string>
+  <string name="operation_rename">Hernoemen</string>
   <string name="operation_save">Opslaan</string>
   <string name="operation_send">Verzenden</string>
   <string name="operation_set_contact_photo">Instellen als contactfoto</string>
@@ -518,7 +531,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
-  <string name="petabyteShort">PB</string>
   <string name="photo">Foto\'s</string>
   <string name="photo_edit_file_not_exits_tip">Download de foto voor het bewerken</string>
   <string name="photo_editor_label">Bewerken</string>
@@ -580,6 +592,9 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="remove_from_secret_successful">Verwijderd uit verborgen album</string>
   <string name="remove_to_album_title">Samenvoegen met</string>
   <string name="remove_to_other_album">Samenvoegen met een andere persoon</string>
+  <string name="rename_album">Album hernoemen</string>
+  <string name="rename_album_failed">Kon niet hernoemen</string>
+  <string name="rename_album_succeeded">Hernoemen succesvol</string>
   <string name="rename_face_album">Naam wijzigen</string>
   <string name="rename_fail_msg">Kon naam niet wijzigen</string>
   <string name="rename_from_contact">Hernoemen van contacten</string>
@@ -692,8 +707,10 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="sync_battery_low">Batterij laag</string>
   <string name="sync_cloud_space_full">Niet genoeg ruimte op de Mi Cloud</string>
   <string name="sync_diabled_toast">Synchronisatie is uitgeschakeld</string>
+  <string name="sync_metatata_wait_title">Wachten om Mi Cloud gegevens te synchroniseren</string>
   <string name="sync_off_title">Schakel synchroniseren met Mi Cloud in om foto\'s en video\'s automatisch te back-uppen</string>
   <string name="sync_pending_title">Zal automatisch worden gesynchroniseerd</string>
+  <string name="sync_state_unknow">Gegevens verkrijgen</string>
   <string name="synced_title">Back-up van foto\'s en video\'s voltooid</string>
   <string name="syncing_gprs_title">Mobiele data gebruiken om items te back-uppen</string>
   <string name="syncing_metadata_title">Synchroniseren met clouddata</string>

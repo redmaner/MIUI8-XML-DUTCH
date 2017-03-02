@@ -104,6 +104,14 @@
         <item quantity="other">%1$d foto\'s en video\'s | %2$s</item>
         <item quantity="one">%1$d foto of video | %2$s</item>
     </plurals>
+	<plurals name="backup_after_hours">
+        <item quantity="other">Back-up hervatten over %d uur</item>
+        <item quantity="one">Back-up hervatten over %d uur</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d foto\'s en video\'s | Gepauzeerd</item>
+        <item quantity="one">%d foto of video | Gepauzeerd</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>
         <item quantity="one">%d foto of video is niet geback-upt</item>
@@ -155,6 +163,10 @@
 	<plurals name="download_error">
         <item quantity="other">Kon %1$d bestanden niet downloaden</item>
         <item quantity="one">Kon %1$d bestand niet downloaden</item>
+    </plurals>
+	<plurals name="download_retry_message">
+        <item quantity="other">Kon %1$d bestanden niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
+        <item quantity="one">Kon %1$d bestand niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d items geselecteerd</item>
