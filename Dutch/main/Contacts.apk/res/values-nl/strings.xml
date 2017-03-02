@@ -115,9 +115,9 @@
   <string name="callrecordview_menu_delete_called">Uitgaande gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Gemiste gesprekken verwijderen</string>
-  <string name="callrecordview_menu_delete_new">Oproepgeschiedenis met nieuwe contactpersonen wissen</string>
+  <string name="callrecordview_menu_delete_new">Oproepgeschiedenis van nieuwe contactpersonen wissen</string>
   <string name="callrecordview_menu_delete_one">Verwijderen uit oproepgeschiedenis</string>
-  <string name="callrecordview_menu_delete_sim">%s items uit oproepgeschiedenis wissen</string>
+  <string name="callrecordview_menu_delete_sim">Items uit oproepgeschiedenis wissen (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Onbekende nummers verwijderen</string>
   <string name="callrecordview_menu_edit_call_note">Notitie bewerken</string>
   <string name="callrecordview_menu_ip">Auto IP bellen</string>
@@ -203,7 +203,7 @@
   <string name="contact_detail_action_item_calllog">Gespreksgeschiedenis</string>
   <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
-  <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
+  <string name="contact_detail_calllog_call_record_tips">Opgenomen gesprek</string>
   <string name="contact_detail_calllog_empty">Geen geschiedenis</string>
   <string name="contact_detail_menu_delete_miprofile">Visitekaartje verwijderen</string>
   <string name="contact_detail_miprofile_accept">Visitekaartjes  uitwisselen</string>
@@ -364,10 +364,10 @@ Visitekaartjes zijn uitgeschakeld"</string>
         
 
 3. Klik \"volgende\", en geef toegang tot contacten in de volgende stap."</string>
-  <string name="device_transfer_by_sim_message">"1. Sla de contacten van andere apparaten op in de SIM kaart;
+  <string name="device_transfer_by_sim_message">"1. Sla de contacten van het andere apparaat op op de SIM kaart;
         
 
-2. Ga naar \"Contact instellingen\" -- \"Importeer/Exportee contacten\" -- \"Importeer van SIM kaart\", lang drukken op eender welk SIM contact, kies de cpntacten die wenst te impoteren, klik dan op de \"Importee\" optie."</string>
+2. Open de instellingen in de contactenapp en ga naar \"Contacten importeren/exporteren\" -- \"Importeer van SIM kaart\", lang drukken op contact om te selecteren, selecteer alle gewenste contacten en druk vervolgens op \"Importeren\"."</string>
   <string name="device_version_header_bluetooth">Import via Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Import via SIM card</string>
   <string name="dial">Bellen</string>
@@ -578,11 +578,11 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="list_filter_customize">Aanpassen</string>
   <string name="list_filter_phones">Alle contacten met telefoonnummers</string>
   <string name="list_filter_single">Contact</string>
-  <string name="live_talk_switch_on_toast">Live talk is ingeschakeld</string>
-  <string name="livetalk_charge">Bijladen</string>
-  <string name="livetalk_left">Overblijvende livetalk</string>
+  <string name="live_talk_switch_on_toast">Herlaadpakket ingeschakeld</string>
+  <string name="livetalk_charge">Herladen</string>
+  <string name="livetalk_left">Resterend</string>
   <string name="livetalk_switch_on">Inschakelen</string>
-  <string name="livetalk_title">Live talk</string>
+  <string name="livetalk_title">Herlaadpakket</string>
   <string name="loading_accounts">Een momentje……</string>
   <string name="loading_group_members">Een momentje…</string>
   <string name="loading_groups">Een momentje…</string>
