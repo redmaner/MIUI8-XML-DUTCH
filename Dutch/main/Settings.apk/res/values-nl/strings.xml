@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
-  <string name="about_ad_service_instructions">Over adv diensten en privacy​</string>
+  <string name="about_ad_service_instructions">Over advertentiediensten en privacy​</string>
   <string name="about_phone_enter_xiaomi_net">Meer leren</string>
   <string name="about_settings">Over apparaat</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie</string>
@@ -1102,9 +1102,12 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_admin_status">Deze beheerder is actief en staat de app %1$s toe de volgende bewerkingen uit te voeren:</string>
   <string name="device_admin_title">Apparaatbeheer</string>
   <string name="device_admin_warning">Als u deze beheerder activeert, staat u de app %1$s toe de volgende bewerkingen uit te voeren:</string>
+  <string name="device_available_memory">Beschikbaar geheugen</string>
+  <string name="device_battery">Batterij</string>
+  <string name="device_build_id">Versienummer</string>
   <string name="device_complete_parameters">Voltooid</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu10_info">Deca-core</string>
+  <string name="device_cpu10_info">Deca core</string>
   <string name="device_cpu2_info">Dual core</string>
   <string name="device_cpu4_info">Quad core</string>
   <string name="device_cpu6_info">Hexa core</string>
@@ -1126,12 +1129,16 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_name_input_hint">Verander apparaatnaam</string>
   <string name="device_name_usage_point">Apparaten in de buurt kunnen deze naam zien</string>
   <string name="device_picker">Bluetooth apparaat kiezen</string>
+  <string name="device_rear_camera">Camera achterkant</string>
   <string name="device_reset_title">Apparaat resetten</string>
+  <string name="device_screen_resolution">Schermresolutie</string>
+  <string name="device_screen_size">Schermgrootte</string>
   <string name="device_sd_memory">SD kaart</string>
   <string name="device_share_loading">Afbeelding maken</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Status van de batterij, het netwerk en andere gegevens</string>
+  <string name="device_total_memory">Totaal geheugen</string>
   <string name="dial_application_title">Bellen</string>
   <string name="dial_pad_tones_title">Numerieke toetsenblok geluiden</string>
   <string name="dialog_content_login">De update benodigd een Mi account, wilt u inloggen?</string>
@@ -1874,6 +1881,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockpassword_confirm_for_second_user">Bevestig uw wachtwoord voor tweede ruimte</string>
   <string name="lockpassword_confirm_passwords_dont_match">Wachtwoorden komen niet overeen</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN codes komen niet overeen</string>
+  <string name="lockpassword_confirm_workspace_password">Bevestig wachtwoord van werkruimte</string>
   <string name="lockpassword_confirm_your_lock_password_header">Bevestig uw wachtwoord</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Bevestig uw patroon</string>
   <string name="lockpassword_confirm_your_password_generic">Voer uw apparaatwachtwoord in om verder te gaan.</string>
@@ -1913,6 +1921,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lockpattern_need_to_unlock_wrong">Probeer opnieuw:</string>
   <string name="lockpattern_pattern_confirmed_header">Uw nieuwe ontgrendelpatroon</string>
   <string name="lockpattern_pattern_entered_header">Patroon opgenomen</string>
+  <string name="lockpattern_pattern_same_with_others">Moet verschillend zijn van wachtwoord van andere ruimte</string>
   <string name="lockpattern_pattern_same_with_owner">Moet verschillend zijn van wachtwoord van eerste ruimte</string>
   <string name="lockpattern_pattern_same_with_security_space">Moet verschillend zijn van wachtwoord van tweede ruimte</string>
   <string name="lockpattern_recording_incorrect_too_short">Verbind minimaal %d punten. Probeer het opnieuw.</string>
@@ -1945,6 +1954,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lte_ram_dump_on">LTE RAM dump inschakelen</string>
   <string name="macaddr_label">MAC adres:</string>
   <string name="mah">%d mAh</string>
+  <string name="main_netcheck_summary">Test verbinding voor netwerkproblemen</string>
   <string name="main_running_process_description">Hoofdproces in gebruik.</string>
   <string name="make_sure_cancel_update">Update annuleren?</string>
   <string name="man_add_application">Handmatig autostart apps toevoegen</string>
@@ -2051,6 +2061,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Audio (muziek, beltonen, podcasts, enzovoort)</string>
   <string name="memory_performance">Prestaties</string>
+  <string name="memory_rightvalue">Beschikbaar: %s</string>
   <string name="memory_settings_title">Geheugen</string>
   <string name="memory_size">Totale ruimte</string>
   <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Totaal: %2$s</string>
@@ -2200,6 +2211,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="my_device">Mijn apparaat</string>
   <string name="nearby_wifi">Beschikbare netwerken</string>
   <string name="need_reboot_now">Herstarten om update te installeren</string>
+  <string name="netcheck_title">Netwerkdiagnostiek</string>
   <string name="network_assistant">Datagebruik</string>
   <string name="network_detail">%s netwerkdetails</string>
   <string name="network_error">Netwerkfout</string>
@@ -2825,6 +2837,16 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_key_press">Eénmalig drukken</string>
   <string name="screen_key_press_action">Trigger functie</string>
   <string name="screen_locking_sounds_title">Schermvergrendelingsgeluiden</string>
+  <string name="screen_monochrome_mode_apps_loading">Een momentje…</string>
+  <string name="screen_monochrome_mode_apps_title">Monochrome modus gebruiken</string>
+  <string name="screen_monochrome_mode_global_summary">Monochrome modus gebruiken voor alle apps</string>
+  <string name="screen_monochrome_mode_global_title">Alle apps</string>
+  <string name="screen_monochrome_mode_local_summary">Monochrome modus gebruiken voor apps die je selecteert</string>
+  <string name="screen_monochrome_mode_local_title">Geselecteerde apps</string>
+  <string name="screen_monochrome_mode_off_apps_title">Monochrome modus niet gebruiken</string>
+  <string name="screen_monochrome_mode_set_apps_title">Monochrome modus apps</string>
+  <string name="screen_monochrome_mode_summary">Wisselen naar monochrome modus om batterijduur te verlengen</string>
+  <string name="screen_monochrome_mode_title">Monochrome modus</string>
   <string name="screen_never_timeout_title">Nooit slapen</string>
   <string name="screen_on_proximity_sensor_summary">Aanraakgebaren vergrendelen wanneer de telefoon in de broekzak is geplaatst</string>
   <string name="screen_on_proximity_sensor_title">Broekzakmodus</string>
@@ -2866,6 +2888,7 @@ Om schermpinning te gebruiken:
   <string name="screen_pinning_unlock_password">Om wachtwoord vragen voor unpinnen</string>
   <string name="screen_pinning_unlock_pattern">Om ontgrendelpatroon vragen voor unpinnen</string>
   <string name="screen_pinning_unlock_pin">Om PIN vragen voor unpinnen</string>
+  <string name="screen_recorder">Scherm opnemen</string>
   <string name="screen_resolution_confirm">Herstarten</string>
   <string name="screen_resolution_summary">Het verlagen van de resolutie van het beeldscherm kan de levensduur van de batterij en de snelheid van het systeem verhogen, maar de beelden op het scherm kunnen dan minder duidelijk zijn. Uw apparaat moet opnieuw opgestart worden om deze wijziging door te voeren.</string>
   <string name="screen_resolution_switch">Resolutie wijzigen</string>

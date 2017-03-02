@@ -36,7 +36,7 @@
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="antispam_setting">Zwarte lijst</string>
   <string name="apn_settings">Namen toegangspunten</string>
-    <string name="atr_disable">Verkeersberichten uitgeschakeld</string>
+  <string name="atr_disable">Verkeersberichten uitgeschakeld</string>
   <string name="atr_enable">Verkeersberichten ingeschakeld</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Handset oortje</string>
@@ -267,6 +267,8 @@
   <string name="contactdeleteSuccess">Contact verwijderd van SIM.</string>
   <string name="corporate_unlock_failed">SIM fabrieksontgrendeling gefaald.</string>
   <string name="corporate_unlock_success">SIM fabrieksontgrendeling gelukt.</string>
+  <string name="crescendo_ringer_summary">Beltoonvolume zal geleidelijk toenemen tot het ingestelde niveau</string>
+  <string name="crescendo_ringer_title">Toenemend beltoonvolume</string>
   <string name="cursorError">Cursorfout</string>
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
@@ -311,7 +313,8 @@
   <string name="disable_fdn">FDN uitschakelen</string>
   <string name="disable_fdn_ok">FDN inschakelen</string>
   <string name="disable_pin_ok">PIN gewist</string>
-  <string name="disable_sim_pin">Wis SIM PIN</string>
+  <string name="disable_sim_pin">SIM PIN wissen</string>
+  <string name="disabled_by_admin">Uitgeschakeld door beheerder</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Naam weergeven</string>
   <string name="domain_address_title">Server</string>
@@ -371,6 +374,7 @@
   <string name="enable_video_calling_dialog_msg">Om video-oproepen in te schakelen, moet u geavanceerde 4G LTE modus inschakelen in de netwerkinstellingen.</string>
   <string name="enable_video_calling_dialog_settings">Netwerkinstellingen</string>
   <string name="enable_video_calling_title">Video-oproepen inschakelen</string>
+  <string name="enabled_by_admin">Ingeschakeld door beheerder</string>
   <string name="enhanced_4g_lte_mode_off_failed">Kon VoLTE niet uitschakelen.</string>
   <string name="enhanced_4g_lte_mode_on_failed">Kon VoLTE niet inschakelen.</string>
   <string name="enhanced_4g_lte_mode_summary">Gebruik de LTE diensten om spraak- en andere communicatie te verbeteren (aanbevolen)</string>
@@ -723,6 +727,7 @@ Dit kan tot 5 minuten duren."</string>
   <string name="path_caller_id_title">Systeemapps/Telefoon/Geavanceerde instellingen/Beller ID</string>
   <string name="path_cloud_antispam_title">Systeemapps/Telefoon/Onbekende nummers identificeren</string>
   <string name="path_connect_disconnect_vibrate_title">Systeemapps/Telefoon/Geavanceerde instellingen/Trillen wanneer oproep beantwoordt wordt</string>
+  <string name="path_crescendo_ringer_title">Systeemapps/Telefoon/Inkomende oproep instellingen/Toenemend beltoonvolume</string>
   <string name="path_dtmf_tones_title">Systeemapps/Telefoon/Geavanceerde instellingen/DTMF geluiden</string>
   <string name="path_enable_antispam_strange_title">Systeemapps/Telefoon/Inkomende oproep instellingen/Eerste bel dempen</string>
   <string name="path_enable_proximity_title">Systeemapps/Telefoon/Inkomende oproep instellingen/Proximity sensor</string>

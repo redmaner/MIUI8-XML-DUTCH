@@ -44,8 +44,6 @@
   <string name="data_error">Er is een fout opgetreden, wacht een minuut of twee en probeer opnieuw</string>
   <string name="data_error_show">De bestelling is voltooid, kan de details niet bekijken</string>
   <string name="drive">Rijden</string>
-  <string name="duokan_open">开启多看阅读卡片</string>
-  <string name="duokan_reading">多看阅读</string>
   <string name="duokan_setting_brief">Doorgaan met lezen waar je gebleven was.</string>
   <string name="entrance">Snelkoppeling kaarten</string>
   <string name="exercise_setting_brief">Bekijk uw activiteit statistieken.</string>
@@ -71,12 +69,14 @@
   <string name="home">Thuis</string>
   <string name="home_and_company">Thuis &amp; werk</string>
   <string name="immediate_recommendation">Aanbevelingen</string>
-  <string name="keyword_recommend">推荐您</string>
   <string name="launch_app">App aanbevelingen</string>
   <string name="launch_change_order">Bestelling wijzigen</string>
   <string name="launch_enable">Geef snelle toeganskaarten weer</string>
   <string name="launch_function">Selecteer functies</string>
   <string name="launch_label">Snelle toegang</string>
+  <string name="launch_no_dapp_dialog_content">De gedupliceerde app die verantwoordelijk is voor deze kaart is verwijderd. Je kan deze kaart vervangen voor een andere.</string>
+  <string name="launch_no_dapp_dialog_reset">Instellingen voor gedupliceerde apps</string>
+  <string name="launch_no_dapp_dialog_title">De gedupliceerde app is verwijderd</string>
   <string name="launch_noapp_dialog_cancel">Annuleren</string>
   <string name="launch_noapp_dialog_content">De app die verantwoordelijk is voor deze kaart werd verwijderd. U kunt deze kaart vervangen door een andere.</string>
   <string name="launch_noapp_dialog_redownload">Opnieuw downloaden</string>
@@ -89,15 +89,6 @@
   <string name="locating_fail">Kon locatie niet verkrijgen</string>
   <string name="locations">Regelmatige plaatsen</string>
   <string name="locations_preferences">Regelmatige plaatsen en voorkeuren</string>
-  <string name="map_msg_smooth">| 当前路线整体畅通</string>
-  <string name="map_msg_sufix">，详情</string>
-  <string name="map_title_baidu_middle">约有</string>
-  <string name="map_title_blocked">异常拥堵</string>
-  <string name="map_title_blocked_last">公里异常拥堵</string>
-  <string name="map_title_congestion">道路拥堵</string>
-  <string name="map_title_congestion_last">公里拥堵</string>
-  <string name="map_title_smooth">整体畅通</string>
-  <string name="metre">m</string>
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sport_go_install">Download</string>
   <string name="mi_sport_not_installed">Deze app is niet geïnstalleerd op uw telefoon. Kan deze kaart nu niet gebruiken.</string>
@@ -115,7 +106,7 @@
   <string name="navigation_search_positioning">Locatie info verkrijgen…</string>
   <string name="navigation_search_positioning_failed">Kon locatie niet verkrijgen, selecteer de stad manueel</string>
   <string name="network_access_denied">Kan niet verbinden met netwerk, ga eerst akkord met de algemene voorwaarden</string>
-  <string name="network_error">Netwerk fout</string>
+  <string name="network_error">Netwerkfout</string>
   <string name="network_unavaliable">Kan info niet verkrijgen, controleer de netwerk verbinding</string>
   <string name="no_install">Niet geïnstalleerd</string>
   <string name="no_more_result">Geen items meer</string>
@@ -138,8 +129,6 @@
   <string name="qq_new">Nieuwe status</string>
   <string name="qq_qzone">Qzone</string>
   <string name="quickstart_label">Functies</string>
-  <string name="record_name">开始录音</string>
-  <string name="record_parent">录音机</string>
   <string name="remain_flow">Mobiele data</string>
   <string name="req_no_data">Kon info niet verkrijgen</string>
   <string name="req_no_sdata">Kon geen resultaten vinden</string>
@@ -155,9 +144,9 @@
   <string name="setting_address">Regelmatige plaatsen toevoegen</string>
   <string name="setting_dialog_cancel">Annuleren</string>
   <string name="setting_dialog_quit">Afsluiten</string>
-  <string name="setting_dialog_title">All changes will be lost. Exit now?</string>
+  <string name="setting_dialog_title">Alle wijzigingen zullen verloren gaan. Nu afsluiten?</string>
   <string name="setting_disable">Uit</string>
-  <string name="setting_home_label">Thuis adres toevoegen</string>
+  <string name="setting_home_label">Thuisadres toevoegen</string>
   <string name="setting_launch_change">Wijzigen</string>
   <string name="setting_place">Regelmatig plaatsen toevoegen om het verkeer en route suggesties te zien</string>
   <string name="setting_place_next">Volgende</string>
@@ -184,4 +173,6 @@
   <string name="wx_paycode">Betaling</string>
   <string name="wx_scan">Scanner</string>
   <string name="wx_timeline">Momenten</string>
+  <string name="xspace_resolver_activity_title">App selecteren</string>
+  <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>
