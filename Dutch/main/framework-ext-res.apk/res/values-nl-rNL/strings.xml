@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="activity_package_delete_confirm_title">Belangrijke waarschuwing</string>
+  <string name="activity_package_delete_confirm_title">Waarschuwing</string>
   <string name="add_frequent_phrases">Vaak gebruikte zinnen toevoegen</string>
   <string name="all_call_livetalk_enable">Herlaadpakketten gebruiken voor nationale en internationale gesprekken</string>
   <string name="all_call_livetalk_remain_mins">Overblijvende minuten: %1$s nationaal of %2$s internationaal</string>
@@ -34,7 +34,7 @@
   <string name="default_name">Standaard</string>
   <string name="enable_livetalk_summary">Bespaar 70% op uw belkosten</string>
   <string name="enable_livetalk_title">Pakket herladen inschakelen</string>
-  <string name="fc_dialog_body">Bugrapport verzenden naar Xiaomi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug helpen op te lossen en zal nooit worden gedeeld in een commerciële context.</string>
+  <string name="fc_dialog_body">Bugrapport verzenden naar Xiaomi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug op te lossen en zal nooit worden gedeeld in een commerciële context.</string>
   <string name="fc_dialog_jump_to_preview">Sammenvatting bekijken</string>
   <string name="first_back_long_press_message">"Druk op de Terug-knop &amp; houd ingedrukt om huidig proces en de achtergronddiensten te stoppen.
 
@@ -119,7 +119,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="softap_notifif_title">Hotspot \"%s\" ingeschakeld</string>
   <string name="start_security_permission_verify_text">Verifieer toestemmingen met uw Mi Account</string>
   <string name="status_bar_toggle_auto_brightness">Helderheid</string>
-  <string name="status_bar_toggle_battery_saver">Batterij bespaarder</string>
+  <string name="status_bar_toggle_battery_saver">Batterijbespaarder</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Casten</string>
   <string name="status_bar_toggle_data">Mobiele data</string>
@@ -128,7 +128,6 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Vergrendelen</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
-  <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="status_bar_toggle_mute">Stil</string>
   <string name="status_bar_toggle_paper_mode">Leesmodus</string>
   <string name="status_bar_toggle_power_mode">Prestatie</string>
@@ -143,9 +142,9 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="translation_more">Meer</string>
   <string name="translation_query_error">Kon geen resultaten vinden</string>
-  <string name="translation_query_error_network">Kon niet verbinden met netwerk. Controleer instellingen en probeer opnieuw</string>
+  <string name="translation_query_error_network">Kon geen informatie verkrijgen. Controleer netwerkinstellingen en probeer opnieuw</string>
   <string name="turn_off">Uitschakelen</string>
   <string name="unknown_caller">Onbekend nummer</string>
   <string name="user_switching_dialog_text">Wisselen…</string>
-  <string name="xspace_resolver_activity_title">Selecteer app</string>
+  <string name="xspace_resolver_activity_title">App selecteren</string>
 </resources>
