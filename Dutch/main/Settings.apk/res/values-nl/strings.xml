@@ -449,7 +449,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="bind_xiaomi_account_confirm">Toevoegen</string>
   <string name="bind_xiaomi_account_dialog_summery">"U staat op punt om Mi Account %s toe te voegen. Als u uw wachtwoord vergeet, kan u dit account gebruiken om het te resetten."</string>
   <string name="bind_xiaomi_account_success">Mi Account met succes toegevoegd</string>
-  <string name="binded_xiaomi_summary">Huidig account: %s</string>
   <string name="ble_scan_notify_text">Om locatienauwkeurigheid te verbeteren kunnen systeem- apps en services nog steeds Bluetooth apparaten detecteren. U kan dit veranderen in LINK_BEGINscaninstellingenLINK_END.</string>
   <string name="block_list_connected_devices">Gekoppelde apparaten</string>
   <string name="block_list_diaglog_cancle">Annuleren</string>
@@ -810,6 +809,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="clear_failed_dlg_title">Gegevens wissen</string>
   <string name="clear_user_data_text">Gegevens wissen</string>
   <string name="close_gesture">Gebaar gebruiken sluiten</string>
+  <string name="close_install_and_connect">Nee bedankt</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
   <string name="close_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
   <string name="cmcc_hardware_version">Hardwareversie</string>
@@ -849,8 +849,9 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="confirm_erase">Wissen</string>
   <string name="confirm_fingerprint_icon_content_description">Gebruik uw vingerafdruk om verder te gaan.</string>
   <string name="confirm_fingerprint_msg">Plaats uw vinger op de sensor</string>
+  <string name="confirm_install_and_connect">Installeren &amp; verbinden</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
-   <string name="confirm_privacy_password">Voer privacy wachtwoordbeveiliging in</string>
+  <string name="confirm_privacy_password">Voer privacy wachtwoordbeveiliging in</string>
   <string name="confirm_privacy_password_fingerprint">Scan vingerafdruk of voer privacy wachtwoordbeveiliging in</string>
   <string name="confirm_privacy_password_instruction">Dit wachtwoord beveiligt berichten, foto\'s en contacten.</string>
   <string name="confirm_reset_aaid">Ok</string>
@@ -1155,6 +1156,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="disable_service_message">"Als u 'OK' aanraakt, wordt %1$s beëindigd."</string>
   <string name="disable_service_title">%1$s beëindigen?</string>
   <string name="disable_text">Uitschakelen</string>
+  <string name="disable_wifi_master_key_service">Uitschakelen</string>
   <string name="disabled">Uitgeschakeld</string>
   <string name="disabled_because_no_backup_security">Om te gebruiken, eerst een schermvergrendeling instellen</string>
   <string name="disconnect">Verbinding verbreken</string>
@@ -1303,6 +1305,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="enable_terminal_title">Lokale terminal</string>
   <string name="enable_text">Inschakelen</string>
   <string name="enable_wifi_display">Draadloos scherm</string>
+  <string name="enable_wifi_master_key_service">WLAN Master Key inschakelen</string>
   <string name="enalbe_identify_iPhone">AP identificatie</string>
   <string name="encrypt_dont_require_password">Nee bedankt</string>
   <string name="encrypt_dont_require_pattern">Nee bedankt</string>
@@ -1640,6 +1643,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="install_all_warning">Uw apparaat en persoonlijke gegevens zijn gevoeliger voor aanvallen door apps van onbekende bronnen. U gaat ermee akkoord dat alleen u verantwoordelijk bent voor enige schade aan uw apparaat of verlies van gegevens die voortkomen uit het gebruik van deze apps.</string>
   <string name="install_applications">Onbekende bronnen</string>
   <string name="install_applications_title">Alle appbronnen toestaan</string>
+  <string name="install_master_key_and_connect">Je kan met dit netwerk verbinden door gebruik te maken van WLAN Master Key. Dit nu installeren?</string>
   <string name="install_no_market_app_summary">Sta installatie van apps toe van andere bronnen dan de App Store</string>
   <string name="install_no_market_app_title">Onbekende bronnen</string>
   <string name="install_preinstall_app">Apps laden…</string>
@@ -2558,19 +2562,25 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
   <string name="privacy_notes">Notities</string>
   <string name="privacy_password">Privacy wachtwoordbeveiliging</string>
+  <string name="privacy_password_add_account">Toevoegen</string>
+  <string name="privacy_password_add_account_info">Voeg Mi Account toe om je wachtwoord te kunnen resetten als je die vergeten bent</string>
+  <string name="privacy_password_add_account_setting">Account &amp; privacy</string>
   <string name="privacy_password_bind_account">Mi Account toevoegen</string>
   <string name="privacy_password_bind_account_immediate">Toevoegen</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Bevestig tweede ruimte wachtwoord</string>
   <string name="privacy_password_confirm_use_finger">Ontgrendelen met vingerafdruk</string>
   <string name="privacy_password_enter_privacy">Privacy wachtwoordbeveiliging invoeren</string>
+  <string name="privacy_password_exit_account_info">Account zal automatisch worden verwijderd als je uitlogt</string>
   <string name="privacy_password_fingerprint_confirm_failed">Kon vingerafdruk niet verifiëren</string>
   <string name="privacy_password_fingerprint_confirm_succes">Vingeradruk geverifieerd</string>
   <string name="privacy_password_fingerprint_dialog_error_title">Kon vingerafdruk niet scannen, probeer opnieuw</string>
   <string name="privacy_password_fingerprint_dialog_message">Plaats uw vinger op de sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan uw vingerafdruk</string>
+  <string name="privacy_password_login_and_add_account">Inloggen &amp; toevoegen</string>
   <string name="privacy_password_never_remind">Niet meer vragen</string>
+  <string name="privacy_password_not_add_account">Niet nu</string>
+  <string name="privacy_password_not_login_account">Je bent niet ingelogd</string>
   <string name="privacy_password_remind_bind_notlogin_account">Voeg uw Mi-account toe om mogelijk uw wachtwoord opnieuw in te stellen voor het geval u het vergeet.</string>
-  <string name="privacy_password_remind_bindaccont_message">Voeg uw Mi-account toe (%s) toe om mogelijk uw wachtwoord opnieuw in te stellen voor het geval u het vergeet.</string>
   <string name="privacy_password_remind_bindaccount_title">Mi Account toevoegen</string>
   <string name="privacy_password_settings">Gebruik privacy wachtwoordbeveiliging</string>
   <string name="privacy_password_settings_titles">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden en notities.</string>
@@ -3268,6 +3278,8 @@ Om schermpinning te gebruiken:
   <string name="show_touches">Aanrakingen weergeven</string>
   <string name="show_touches_summary">Visuele feedback voor aanraakbewerkingen weergeven</string>
   <string name="show_user_info_on_lockscreen_label">Gebruikersgegevens weergeven op vergrendelscherm</string>
+  <string name="show_wifi_master_key_summary">Verbinden met gedeelde Wi-Fi netwerken door gebruik te maken van WLAN Master Key</string>
+  <string name="show_wifi_master_key_title">Gedeelde Wi-Fi netwerke detecteren</string>
   <string name="shut_down_find_device_failure_confirm">Ok</string>
   <string name="shut_down_find_device_network_failure_content">Kon apparaat zoeken niet uitschakelen. Maak u er zeker van dat uw apparaat een internetverbinding heeft</string>
   <string name="shut_down_find_device_network_failure_title">Kan niet verbinden met netwerk</string>
@@ -3651,6 +3663,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="system_alert_window_summary" formatted="false">%d van %d apps toegestaan om te tekenen over andere apps</string>
   <string name="system_and_device_section_title">Systeem &amp; apparaat</string>
   <string name="system_app_settings">Systeemapps</string>
+  <string name="system_apps_updater">Systeemapps updater</string>
   <string name="system_backup_section_title">Back-up</string>
   <string name="system_package">Systeemupdates kunnen niet worden geïnstalleerd op externe media.</string>
   <string name="system_storage">Interne opslag</string>
@@ -3778,6 +3791,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="uninstall_dlg_msg">Verwijderen zal alle appgegevens wissen.</string>
   <string name="uninstall_dlg_title">Nu verwijderen?</string>
   <string name="uninstall_text">Verwijderen</string>
+  <string name="uninstall_wifi_master_key">WLAN Master Key verwijderen</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Bijhorende gedupliceerde apps zullen worden verwijderd, inclusief appgegevens.</string>
   <string name="uninstall_xspace_app_dlg_msg">Het verwijderen van een gedupliceerde app zal alle appgegevens wissen.</string>
   <string name="uninstall_xspace_app_dlg_title">Gedupliceerde app verwijderen?</string>
@@ -3909,6 +3923,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
   <string name="use_privacy_password_immediate">Gebruiken</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="use_this_wlan">Verbonden blijven</string>
+  <string name="use_wifi_master_key_summary">Verbinden door gebruik te maken van WLAN Master Key</string>
   <string name="user_account_title">Account voor inhoud</string>
   <string name="user_add_max_count">Je kan tot %1$d gebruikers toevoegen</string>
   <string name="user_add_on_lockscreen_menu">Gebruikers toevoegen wanneer apparaat vergrendeld is</string>
@@ -4287,6 +4302,12 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_ip_settings_menu_cancel">Annuleren</string>
   <string name="wifi_ip_settings_menu_save">Opslaan</string>
   <string name="wifi_limit_optimizations_summary">Beperk batterijgebruik door Wi-Fi</string>
+  <string name="wifi_master_key_dialog_content_master_key">WLAN Master Key</string>
+  <string name="wifi_master_key_dialog_content_password">Wachtwoord</string>
+  <string name="wifi_master_key_dialog_title">Verbinden door gebruik te maken van</string>
+  <string name="wifi_master_key_name">WLAN Master Key</string>
+  <string name="wifi_master_key_service_dialog_content">WLAN Master Key is een gratis service die wachtwoorden van gedeelde netwerken verstrekt. WLAN Master Key zal niet het wachtwoord van uw netwerk delen.</string>
+  <string name="wifi_master_key_service_dialog_title">Gedeelde Wi-Fi netwerken</string>
   <string name="wifi_menu_advanced">Geavanceerd</string>
   <string name="wifi_menu_connect">Verbinding maken met netwerk</string>
   <string name="wifi_menu_forget">Netwerk vergeten</string>
@@ -4542,6 +4563,9 @@ als u uw publieke netwerk deelt."</string>
   <string name="work_profile_confirm_remove_title">Werkprofiel verwijderen?</string>
   <string name="work_profile_usage_access_warning">Gebruikstoegang uitschakelen voor deze app verhindert uw administrator er niet van om gegevensverbruik te controleren voor apps in uw werkprofiel.</string>
   <string name="work_sim_title">Werk SIM</string>
+  <string name="work_space_delete">Werkruimte verwijderen</string>
+  <string name="work_space_delete_confirm">Verwijderen bevestigen</string>
+  <string name="work_space_delete_description">Je zal niet in staat zijn om de werkruimte te gebruiken nadat je het hebt verwijderd. Alle gegevens worden verplaatst of verwijderd.</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Controleer of de router WPS ondersteunt en dat deze is ingeschakeld</string>
   <string name="wps_connect_title">Verbinden met WPS</string>
