@@ -337,15 +337,15 @@ verzorgd door Ultimate Inc.</string>
   <string name="file_not_found">"Bestand bestaat niet"</string>
   <string name="filter_by_duration">Op lengte</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">5 min</string>
-  <string name="filter_by_duration_min">0 sec</string>
+  <string name="filter_by_duration_max">%d min</string>
+  <string name="filter_by_duration_min">%d sec</string>
   <string name="filter_by_duration_prefix">"Verberg audiobestanden korter dan "</string>
   <string name="filter_by_duration_summary">Verberg korte audiobestanden</string>
   <string name="filter_by_folder">Op mappen</string>
   <string name="filter_by_folder_summary">Mappen kiezen om weer te geven</string>
   <string name="filter_by_size">Op grootte</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">%dMB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Verberg bestanden kleiner dan "</string>
   <string name="filter_by_size_summary">Verberg kleine audiobestanden</string>
   <string name="find_music">Nummers ontdekken</string>
@@ -451,6 +451,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="lyric_setting">Instellingen songteksten</string>
   <string name="male_artist">Mannelijke artiesten</string>
   <string name="manager_cloud_space">Mi Cloud opslag beheren</string>
+  <string name="max_sleep_time">%d</string>
   <string name="media_filter">Media</string>
   <string name="menu_all_task_pause">Alle pauzeren</string>
   <string name="menu_all_task_start">Alle starten</string>
@@ -472,7 +473,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="metered_serious_alert_msg_with_data">U heeft nog maar %s mobiele data over. Toch mobiele data gebruiken?</string>
   <string name="metered_serious_allow">Toch afspelen</string>
   <string name="milink_unavaliable_please_update">Mi Link is niet beschikbaar. Update MIUI.</string>
-  <string name="min_sleep_time">1</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Onbekend&gt;</string>
   <string name="miui_music">Mi Muziek</string>
   <string name="miuishare_account_activate_confirmation">Activatie vereist</string>
