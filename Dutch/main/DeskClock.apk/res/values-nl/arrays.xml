@@ -1,33 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="timezone_alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
 <string-array name="stat_volume_button_behaviors">
         <item>Geen</item>
         <item>Snoozen</item>
@@ -41,7 +13,7 @@
         <item>Alarm over %3$s</item>
         <item>Alarm over %1$s en %3$s</item>
         <item>Alarm over %2$s en %3$s</item>
-        <item>Alarm over %1$s, %2$s en %3$s</item>
+        <item>Alarm over %1$s %2$s en %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Gisteren</item>
@@ -61,6 +33,24 @@
         <item>Dagelijks</item>
         <item>Maandag tot vrijdag</item>
         <item>Aangepast</item>
+    </string-array>
+	<string-array name="aqi_value">
+        <item>Goed</item>
+        <item>Voldoende</item>
+        <item>Gemiddeld vervuild</item>
+        <item>Slecht</item>
+        <item>Zeer slecht</item>
+        <item>Ernstig</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Verminder buitenactiviteiten</item>
+        <item>Let op, de wegen zijn glad</item>
+        <item>Het stormt, wees voorzichtig</item>
+        <item>De lucht is vervuild, draag een masker</item>
+        <item>Neem een paraplu mee als u naar buiten gaat</item>
+        <item>Wees voorzichtig onderweg</item>
+        <item>Zandstorm, draag een masker</item>
+        <item>Fijne dag</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Alarm zal afgaan over minder dan 1 minuut.</item>

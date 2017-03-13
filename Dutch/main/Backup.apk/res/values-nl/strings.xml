@@ -157,9 +157,9 @@
   <string name="notif_restore_content">Gebruikersdata herstellen</string>
   <string name="notif_restore_title">Data herstellen</string>
   <string name="notif_trans_receiving_completed">Data met succes ontvangen</string>
-  <string name="notif_trans_receiving_failed">Data ontvangen mislukt</string>
+  <string name="notif_trans_receiving_failed">Kon geen data ontvangen</string>
   <string name="notif_trans_sending_completed">Data met succes verzonden</string>
-  <string name="notif_trans_sending_failed">Data verzenden mislukt</string>
+  <string name="notif_trans_sending_failed">Kon geen data verzenden</string>
   <string name="page_loading">Een momentje…</string>
   <string name="progress_backup_hint">Back-uppen…</string>
   <string name="progress_restore_hint">Herstellen…</string>
@@ -340,8 +340,8 @@ en dat Mi Mover ingeschakeld is"</string>
   <string name="wifi_title">Wi-Fi instellingen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">Verbinden van Download Manager mislukt, controleer de Download Manager staat in App beheer.</string>
-  <string name="xiaomi_external_storage_unavailable">Opslag niet beschikbaar, controleer de SD kaart.</string>
+  <string name="xiaomi_connect_download_manager_fail">Kon downloaden niet starten. Ben er zeker van dat de Download Manager normaal werkt.</string>
+  <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer de SD kaart.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>

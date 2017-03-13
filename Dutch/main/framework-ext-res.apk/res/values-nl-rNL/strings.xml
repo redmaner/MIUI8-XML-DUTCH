@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Waarschuwing</string>
   <string name="add_frequent_phrases">Vaak gebruikte zinnen toevoegen</string>
   <string name="all_call_livetalk_enable">Herlaadpakketten gebruiken voor nationale en internationale gesprekken</string>
   <string name="all_call_livetalk_remain_mins">Overblijvende minuten: %1$s nationaal of %2$s internationaal</string>
@@ -18,15 +19,22 @@
   <string name="auto_start_warning_allow">Toestaan</string>
   <string name="auto_start_warning_deny">Weigeren</string>
   <string name="auto_start_warning_title">%s toestaan om automatisch op te starten?</string>
+  <string name="button_text_cancel">Annuleren</string>
+  <string name="button_text_delete">Verwijderen</string>
+  <string name="button_text_delete_timer">Verwijderen (%d)</string>
+  <string name="button_text_next_step">Volgende</string>
+  <string name="button_text_next_step_timer">Volgende (%d)</string>
   <string name="call_record_or">" of "</string>
   <string name="call_record_sample_prefix_miui">Bellen</string>
   <string name="caller_info_name_delimiter">" of "</string>
   <string name="cancel_action">Annuleren</string>
+  <string name="configure_input_methods">Kies toetsenborden</string>
   <string name="copy">Kopiëren</string>
   <string name="cut">Knippen</string>
+  <string name="default_name">Standaard</string>
   <string name="enable_livetalk_summary">Bespaar 70% op uw belkosten</string>
   <string name="enable_livetalk_title">Pakket herladen inschakelen</string>
-  <string name="fc_dialog_body">Bugrapport verzenden naar Xiaomi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug helpen op te lossen en zal nooit worden gedeeld in een commerciële context.</string>
+  <string name="fc_dialog_body">Bugrapport verzenden naar Xiaomi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug op te lossen en zal nooit worden gedeeld in een commerciële context.</string>
   <string name="fc_dialog_jump_to_preview">Sammenvatting bekijken</string>
   <string name="first_back_long_press_message">"Druk op de Terug-knop &amp; houd ingedrukt om huidig proces en de achtergronddiensten te stoppen.
 
@@ -37,7 +45,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="fp_nav_center_action_choose_dlg_msg">U kunt terug naar het startscherm gaan door op de Home knop te drukken. Maar u kunt ervoor kiezen om dat te doen met slechts een tik. Pas uw Home knop aan in Instellingen &gt; Extra instellingen &gt; Knoppen.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Niet nu</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ga naar instellingen</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Snel tikken voor thuisscherm</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Snel tikken naar thuisscherm</string>
   <string name="frequent_phrases">Vaak gebruikte zinnen</string>
   <string name="global_actions_airplane_mode">Vliegmodus</string>
   <string name="global_actions_reboot">Herstarten</string>
@@ -67,6 +75,9 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="memory_clear_nothing_result">Niets om te wissen in cache</string>
   <string name="memory_clear_result">%1$sB vrijgemaakt | %2$sB beschikbaar</string>
   <string name="miui">Miui</string>
+  <string name="package_delete_confirm_step_1">%s verwijderen?</string>
+  <string name="package_delete_confirm_step_2">Deze app verwijderen kan ertoe leiden dat uw systeem instabiel wordt.</string>
+  <string name="package_delete_confirm_step_3">U zal niet in staat zijn om deze app te openen nadat u deze hebt verwijderd.</string>
   <string name="paste">Plakken</string>
   <string name="perm_send_push_dspt">Mi pushberichten toestaan</string>
   <string name="perm_send_push_lab">Pushberichten verzenden</string>
@@ -80,26 +91,16 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="resource_select">Selecteren</string>
   <string name="screen_button_notification_text">Om ze in te schakelen, drukt u op de Home- en Power knoppen tegelijk.</string>
   <string name="screen_button_notification_title">Navigatieknoppen zijn uitgeschakeld</string>
-  <string name="screen_on_proximity_sensor_hint">Om ze uit te schakelen, drukt u tegelijke tijd op Volume omhoog en de Terugknop .</string>
-  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Om deze functie uit te schakelen, druk op volumeknop omhoog.</string>
-  <string name="screen_on_proximity_sensor_summary">Oranje gedeelte het oortelefoon gedeelte niet</string>
-  <string name="screen_on_proximity_sensor_title">Broekzakgesprekken voorkomen</string>
+  <string name="screen_on_proximity_sensor_hint">Om deze functie uit te schakelen drukt u tegelijkertijd op de volume(+)- en terugknop.</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Om deze functie uit te schakelen, drukt u op de volumeknop (+).</string>
+  <string name="screen_on_proximity_sensor_summary">Bedek het gedeelte van de koptelefooningang niet</string>
+  <string name="screen_on_proximity_sensor_title">Broekzakmodus</string>
   <string name="screen_paper_mode_enter_toast">Leesmodus is ingeschakeld. U kunt deze functie in- en uitschakelen op elk gewenst moment in Extra instellingen &gt; Leesmodus.</string>
   <string name="screen_rotation_freeze_message">Auto-rotatie uitgeschakeld.</string>
   <string name="screenshot_gesture_detect_alert_button">Inschakelen in instellingen</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Niet meer tonen</string>
   <string name="screenshot_gesture_detect_alert_msg">Schermafdruk maken door met drie vingers naar beneden te schuiven inschakelen?</string>
   <string name="screenshot_gesture_detect_alert_title">Schermafdruk met drie vingers</string>
-  <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
-  <string name="securespaces_extension_accelerometer_serviceName"/>
-  <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
-  <string name="securespaces_extension_delete_userdata_serviceName"/>
-  <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
-  <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
-  <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
-  <string name="securespaces_extension_hidden_serviceName"/>
-  <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
-  <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
   <string name="security_permission_denied_text">Toegang geweigerd</string>
   <string name="security_permission_failed_text">Er is een fout opgetreden, probeer later opnieuw</string>
   <string name="security_permission_validate_warning">Bedankt voor het helpen MIUI beter te maken!</string>
@@ -118,15 +119,15 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="softap_notifif_title">Hotspot \"%s\" ingeschakeld</string>
   <string name="start_security_permission_verify_text">Verifieer toestemmingen met uw Mi Account</string>
   <string name="status_bar_toggle_auto_brightness">Helderheid</string>
+  <string name="status_bar_toggle_battery_saver">Batterijbespaarder</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Casten</string>
   <string name="status_bar_toggle_data">Mobiele data</string>
-  <string name="status_bar_toggle_edit">Meer</string>
+  <string name="status_bar_toggle_edit">Sorteren</string>
   <string name="status_bar_toggle_flight_mode">Vliegmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Vergrendelen</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
-  <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="status_bar_toggle_mute">Stil</string>
   <string name="status_bar_toggle_paper_mode">Leesmodus</string>
   <string name="status_bar_toggle_power_mode">Prestatie</string>
@@ -139,10 +140,11 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="status_bar_toggle_vibrate">Trillen</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="translation_more">Meer</string>
   <string name="translation_query_error">Kon geen resultaten vinden</string>
-  <string name="translation_query_error_network">Kon niet verbinden met netwerk. Controleer instellingen en probeer opnieuw</string>
+  <string name="translation_query_error_network">Kon geen informatie verkrijgen. Controleer netwerkinstellingen en probeer opnieuw</string>
   <string name="turn_off">Uitschakelen</string>
   <string name="unknown_caller">Onbekend nummer</string>
   <string name="user_switching_dialog_text">Wisselen…</string>
-  <string name="xspace_resolver_activity_title">Selecteer app</string>
+  <string name="xspace_resolver_activity_title">App selecteren</string>
 </resources>

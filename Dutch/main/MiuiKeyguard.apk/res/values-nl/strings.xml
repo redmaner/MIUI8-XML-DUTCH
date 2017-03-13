@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Tik om achtergrond carrousel te openen</string>
+  <string name="accessibility_enter_lock_wallpaper">Tik om achtergrondcarrousel te openen</string>
   <string name="click_to_enter_text">Tik om weer te geven</string>
   <string name="confirm_pin_msg">PIN opnieuw invoeren</string>
   <string name="custom_lock_wallpaper_enter">Invoeren</string>
+  <string name="default_lockscreen_unlock_hint_text">Veeg omhoog om te ontgrendelen</string>
   <string name="delete">Verwijderen</string>
   <string name="emergency_call_string">Noodoproep</string>
   <string name="experimental_try_string">Probeer</string>
@@ -15,6 +16,8 @@
   <string name="experimental_validate_username">Gebruikersnaam</string>
   <string name="experimental_validate_warning">Dank u voor het helpen MIUI beter te maken!</string>
   <string name="find_device_turn_off_flight_mode">Schakel de vliegmodus uit</string>
+  <string name="fingerprint_add_text">De vingerafdruk interface is bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
+  <string name="fingerprint_add_title">Vingerafdruk toevoegen</string>
   <string name="fingerprint_enter_second_psw_msg">Na herstart wachtwoord tweede ruimte invoeren om vingerafdrukherkenning te kunnen gebruiken</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
   <string name="fingerprint_lockout_msg">Wacht een minuut en probeer dan opnieuw te ontgrendelen met uw vingerafdruk</string>
@@ -59,10 +62,18 @@ Probeer het opnieuw over %d seconden.</string>
   <string name="open_camera_hint_text">Veeg naar links om %s te openen</string>
   <string name="open_remote_center_hint_text">Veeg naar rechts om %s te openen</string>
   <string name="open_wifi_settings">Open netwerkverbinding</string>
+  <string name="phone_locked_foget_password">Wachtwoord vergeten?</string>
+  <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
+
+You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
+  <string name="phone_locked_foget_password_footer">"Steps:
+Sign in to i.mi.com, go to “Find device”, select the device and press Wipe device."</string>
+  <string name="phone_locked_foget_password_header">Wat moet ik doen als ik mijn wachtwoord ben vergeten?</string>
+  <string name="phone_locked_foget_password_ok">Begrepen</string>
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
-  <string name="phone_locked_timeout_minutes_string">Probeer opnieuw binnen %s minuten</string>
-  <string name="phone_locked_timeout_seconds_string">Probeer opnieuw binnen %s seconden</string>
-  <string name="symbol_colon">:</string>
+  <string name="phone_locked_timeout_minutes_string">Probeer opnieuw over %s minuten</string>
+  <string name="phone_locked_timeout_seconds_string">Probeer opnieuw over %s seconden</string>
+
   <string name="unlock_sim_string">OK</string>
   <string name="unlock_string">Ontgrendelen</string>
   <string name="unlocking_sim_card">SIM kaart ontgrendelen</string>

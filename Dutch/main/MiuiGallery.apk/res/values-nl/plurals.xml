@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Deze personen niet weergeven?</item>
-        <item quantity="one">Deze persoon niet weergeven?</item>
-    </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s foto\'s van %2$s</item>
-        <item quantity="one">%1$s foto van %2$s</item>
+        <item quantity="other">%d foto\'s in totaal</item>
+        <item quantity="one">%d foto in totaal</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d foto\'s in totaal</item>
+        <item quantity="one">%d foto in totaal</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d jaar</item>
@@ -96,29 +96,45 @@
         <item quantity="other">%1$d items | %2$s</item>
         <item quantity="one">%1$d item | %2$s</item>
     </plurals>
-	<plurals name="backuped">
-        <item quantity="other">%1$d items zijn geback-upt</item>
-        <item quantity="one">%1$d item is geback-upt</item>
+	<plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d foto\'s en video\'s</item>
+        <item quantity="one">%1$d foto of video</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d items wachten om te worden geback-upt</item>
-        <item quantity="one">%1$d item wacht om te worden geback-upt</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d foto\'s en video\'s | %2$s</item>
+        <item quantity="one">%1$d foto of video | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Netwerkfout. %1$d items wachten om te worden geback-upt</item>
-        <item quantity="one">Netwerkfout. %1$d item wacht om te worden geback-upt</item>
+	<plurals name="backup_after_hours">
+        <item quantity="other">Back-up hervatten over %d uur</item>
+        <item quantity="one">Back-up hervatten over %d uur</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Synchronisatie is uit. %1$d items wachten om te worden geback-upt</item>
-        <item quantity="one">Synchronisatie is uit. %1$d item wacht om te worden geback-upt</item>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d foto\'s en video\'s | Gepauzeerd</item>
+        <item quantity="one">%d foto of video | Gepauzeerd</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud is vol. %1$d items wachten om te worden geback-upt</item>
-        <item quantity="one">Mi Cloud is vol. %1$d item wacht om te worden geback-upt</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>
+        <item quantity="one">%d foto of video is niet geback-upt</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Niet genoeg lokale opslag. %1$d items wachten om te worden geback-upt</item>
-        <item quantity="one">Niet genoeg lokale opslag. %1$d item wacht om te worden geback-upt</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d foto\'s</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video\'s</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+	<plurals name="number_of_images_synced">
+        <item quantity="other">%1$d foto\'s</item>
+        <item quantity="one">1 foto</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video\'s</item>
+        <item quantity="one">1 video</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d foto\'s wachten om te synchroniseren</item>
@@ -129,8 +145,8 @@
         <item quantity="one">1 video wacht om te synchroniseren</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items wachten om te synchroniseren</item>
-        <item quantity="one">1 item wacht om te synchroniseren</item>
+        <item quantity="other">%1$d items wachten om geback-upt te worden</item>
+        <item quantity="one">1 item wacht om geback-upt te worden</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Synchroniseren van %1$d foto\'s…</item>
@@ -148,6 +164,10 @@
         <item quantity="other">Kon %1$d bestanden niet downloaden</item>
         <item quantity="one">Kon %1$d bestand niet downloaden</item>
     </plurals>
+	<plurals name="download_retry_message">
+        <item quantity="other">Kon %1$d bestanden niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
+        <item quantity="one">Kon %1$d bestand niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
@@ -155,5 +175,13 @@
 	<plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d foto\'s die niet konden worden verwerkt zijn overgeslagen.</item>
         <item quantity="one">Een foto die niet kon worden verwerkt is overgeslagen.</item>
+    </plurals>
+	<plurals name="file_count_format">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d nieuwe foto\'s gevonden</item>
+        <item quantity="one">Een nieuwe foto gevonden</item>
     </plurals>
 </resources>

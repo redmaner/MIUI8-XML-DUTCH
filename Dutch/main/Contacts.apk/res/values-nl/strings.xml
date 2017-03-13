@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Belgeschiedenis details</string>
+  <string name="accessibility_calllog_detail">Details oproepgeschiedenis</string>
   <string name="account_container_title">Geïmporteerd van</string>
   <string name="account_phone">Alleen voor telefoon, niet gesynchroniseerd</string>
   <string name="account_sim">SIM kaart</string>
@@ -18,8 +18,8 @@
   <string name="add_blacklist_dialog_message">Oproepen en berichten van dit nummer blokkeren?</string>
   <string name="add_blacklist_dialog_title">Dit telefoonnummer blokkeren?</string>
   <string name="add_connection_button">Connectie toevoegen</string>
-  <string name="add_contact_dlg_message_fmt">Voeg \"%s\" toe aan contactpersonen?</string>
-  <string name="add_display_photo_entry">Profiel foto toevoegen</string>
+  <string name="add_contact_dlg_message_fmt">\"%s\" toevoegen aan contactpersonen?</string>
+  <string name="add_display_photo_entry">Profielfoto toevoegen</string>
   <string name="add_field">Nog een veld toevoegen</string>
   <string name="add_incall_show_entry">Video toevoegen</string>
   <string name="add_new_account">Nieuw account toevoegen</string>
@@ -90,8 +90,6 @@
   <string name="call_sim2_menu_title">Bellen met SIM 2</string>
   <string name="call_telex">Telex bellen</string>
   <string name="call_tty_tdd">TTY/TDD bellen</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
-  <string name="call_unit">USD</string>
   <string name="call_work">Werk bellen</string>
   <string name="call_work_mobile">Mobiel nummer werk bellen</string>
   <string name="call_work_pager">Pager werk bellen</string>
@@ -108,18 +106,18 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Uitgaand: "</string>
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Belnotitie toevoegen</string>
-  <string name="callrecordview_menu_batch_delete">Batch wissen</string>
+  <string name="callrecordview_menu_batch_delete">Meerdere items verwijderen</string>
   <string name="callrecordview_menu_blocklist">Zwarte lijst</string>
   <string name="callrecordview_menu_conference">Telefoonconferentie</string>
-  <string name="callrecordview_menu_delete">Belgeschiedenis wissen</string>
+  <string name="callrecordview_menu_delete">Oproepgeschiedenis wissen</string>
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
-  <string name="callrecordview_menu_delete_all">Belgeschiedenis wissen</string>
+  <string name="callrecordview_menu_delete_all">Oproepgeschiedenis wissen</string>
   <string name="callrecordview_menu_delete_called">Uitgaande gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Gemiste gesprekken verwijderen</string>
-  <string name="callrecordview_menu_delete_new">Belgeschiedenis met nieuwe contactpersonen wissen</string>
-  <string name="callrecordview_menu_delete_one">Verwijderen van belgeschiedenis</string>
-  <string name="callrecordview_menu_delete_sim">%s belgeschiedenisitems wissen</string>
+  <string name="callrecordview_menu_delete_new">Oproepgeschiedenis van nieuwe contactpersonen wissen</string>
+  <string name="callrecordview_menu_delete_one">Verwijderen uit oproepgeschiedenis</string>
+  <string name="callrecordview_menu_delete_sim">Items uit oproepgeschiedenis wissen (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Onbekende nummers verwijderen</string>
   <string name="callrecordview_menu_edit_call_note">Notitie bewerken</string>
   <string name="callrecordview_menu_ip">Auto IP bellen</string>
@@ -137,7 +135,7 @@
   <string name="callrecordview_menu_show_new">Nieuwe contacten</string>
   <string name="callrecordview_menu_show_sim">%s gesprekken</string>
   <string name="callrecordview_menu_show_stranger">Gesprekken van onbekende nummers</string>
-  <string name="callrecordview_menu_show_title">Belgeschiedenis weergave</string>
+  <string name="callrecordview_menu_show_title">Oproepgeschiedenis weergave</string>
   <string name="callrecordview_menu_voip">Mi Voice</string>
   <string name="calls_voip_prompt">Voip</string>
   <string name="cancel_confirmation_dialog_message">Uw wijzigingen annuleren?</string>
@@ -157,9 +155,9 @@
   <string name="chat_skype">Chatten via Skype</string>
   <string name="chat_yahoo">Chatten via Yahoo</string>
   <string name="checkhint">Controleer de doel apparaat</string>
-  <string name="clearCallLogConfirmation">Alle belgeschiedenis wordt verwijderd.</string>
-  <string name="clearCallLogConfirmation_title">Alle belgeschiedenis verwijderen?</string>
-  <string name="clearCallLogProgress_title">Belgeschiedenis verwijderen…</string>
+  <string name="clearCallLogConfirmation">Alle oproepgeschiedenis wordt verwijderd.</string>
+  <string name="clearCallLogConfirmation_title">Alle oproepgeschiedenis verwijderen?</string>
+  <string name="clearCallLogProgress_title">Oproepgeschiedenis verwijderen…</string>
   <string name="clearFrequentsConfirmation">U verwijderd de lijst met contactpersonen waarmee u regelmatig contact opneemt in de apps Personen en Telefoon en emailapps moeten uw voorkeursadressen weer opnieuw leren.</string>
   <string name="clearFrequentsConfirmation_title">Lijst regelmatige contactpersonen wissen?</string>
   <string name="clearFrequentsProgress_title">Regelmatige contactpersonen verwijderen...</string>
@@ -188,14 +186,14 @@
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">Belgeschiedenis wissen?</string>
-  <string name="confirm_delete_selected_all_call_logs">Belgeschiedenis wissen?</string>
+  <string name="confirm_delete_contact_all_call_logs">Oproepgeschiedenis wissen?</string>
+  <string name="confirm_delete_selected_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_sim_entry_miui_title">Verwijderen</string>
   <string name="confirm_export_message">Uw lijst met contactpersonen wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contactpersonen exporteren?</string>
   <string name="connections">Verbindingen</string>
   <string name="contactDetailAbout">Contact info</string>
-  <string name="contactDetailCalllog">Belgeschiedenis</string>
+  <string name="contactDetailCalllog">Oproepgeschiedenis</string>
   <string name="contactDetailUpdates">Updates</string>
   <string name="contactMultiPickerActivityTitle">Selecteer contactpersonen</string>
   <string name="contactPickerActivityTitle">Een contactpersoon kiezen</string>
@@ -205,7 +203,7 @@
   <string name="contact_detail_action_item_calllog">Gespreksgeschiedenis</string>
   <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
-  <string name="contact_detail_calllog_call_record_tips">Gesprek opnemen</string>
+  <string name="contact_detail_calllog_call_record_tips">Opgenomen gesprek</string>
   <string name="contact_detail_calllog_empty">Geen geschiedenis</string>
   <string name="contact_detail_menu_delete_miprofile">Visitekaartje verwijderen</string>
   <string name="contact_detail_miprofile_accept">Visitekaartjes  uitwisselen</string>
@@ -270,36 +268,35 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="custom_list_filter">Aangepaste weergave definiëren</string>
   <string name="custom_nickname_hint">Bijnaam invoeren</string>
   <string name="data_already_used">Data gebruikt</string>
-  <string name="data_charge">Mobiele data opladen</string>
+  <string name="data_charge">Data opladen</string>
   <string name="data_left">Resterende data</string>
-  <string name="data_unit_gb">GB</string>
-  <string name="data_unit_mb">MB</string>
-  <string name="date_picker_label">Herinner mij drie dagen vooraf en op de dag zelf</string>
+  <string name="date_picker_label">Herinner mij drie dagen van tevoren en op de dag zelf</string>
   <string name="date_time_set">Instellen</string>
   <string name="date_year_toggle">Jaar toevoegen</string>
+  <string name="default_ringtone">Standaard beltoon</string>
   <string name="deleteConfirmation">Dit contact wordt verwijderd.</string>
   <string name="deleteConfirmationDetail">\"%s\" verwijderen?</string>
   <string name="deleteConfirmation_title">Dit contact verwijderen?</string>
-  <string name="delete_call_log_message">Belgeschiedenis wissen?</string>
-  <string name="delete_call_log_selected_title">Geselecteerde belgeschiedenis wissen?</string>
-  <string name="delete_call_log_title">Belgeschiedenis kiezen</string>
-  <string name="delete_contact_calllog_title">Belgeschiedenis wissen?</string>
+  <string name="delete_call_log_message">Oproepgeschiedenis wissen?</string>
+  <string name="delete_call_log_selected_title">Geselecteerde oproepgeschiedenis wissen?</string>
+  <string name="delete_call_log_title">Oproepgeschiedenis kiezen</string>
+  <string name="delete_contact_calllog_title">Oproepgeschiedenis wissen?</string>
   <string name="delete_dial_input">Verwijderen</string>
   <string name="delete_duplicate">Samenvoegen</string>
   <string name="delete_duplicate_message">Contacten samenvoegen…</string>
-  <string name="delete_group_dialog_message">"De groep '%1$s' verwijderen? (De contacten zelf worden niet verwijderd.)"</string>
+  <string name="delete_group_dialog_message">"De groep '%1$s' verwijderen? (De contacten zelf worden niet verwijderd)"</string>
   <string name="delete_group_dialog_title">Groep verwijderen</string>
   <string name="delete_selected_sim_entry_miui">Geselecteerde contacten verwijderen</string>
   <string name="delete_sim_entries_finish">Contacten op SIM kaart verwijderd</string>
   <string name="delete_sim_entry_miui">Verwijderen</string>
-  <string name="delete_unknown_contact_calllog_title">Belgeschiedenis wissen?</string>
+  <string name="delete_unknown_contact_calllog_title">Oproepgeschiedenis wissen?</string>
   <string name="deleting_sim_entry_miui">Contacten op SIM kaart verwijderen…</string>
   <string name="deleting_sim_entry_miui_prepare">Voorbereiden van contacten…</string>
   <string name="description_add_contact">Contact toevoegen</string>
   <string name="description_call">%1$s bellen</string>
-  <string name="description_call_log_incoming_call">Inkomend gesprek</string>
-  <string name="description_call_log_missed_call">Gemist gesprek</string>
-  <string name="description_call_log_outgoing_call">Uitgaand gesprek</string>
+  <string name="description_call_log_incoming_call">Inkomende oproep</string>
+  <string name="description_call_log_missed_call">Gemiste oproep</string>
+  <string name="description_call_log_outgoing_call">Uitgaande oproep</string>
   <string name="description_call_log_play_button">Voicemail afspelen</string>
   <string name="description_call_log_unheard_voicemail">Niet beluisterde voicemail</string>
   <string name="description_call_log_voicemail">Voicemail</string>
@@ -309,7 +306,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_dial_phone_number">Telefoon van %1$s bellen</string>
   <string name="description_digits_edittext">Nummer om te bellen</string>
   <string name="description_image_button_comma">Komma</string>
-  <string name="description_image_button_dial">Bel</string>
+  <string name="description_image_button_dial">Bellen</string>
   <string name="description_image_button_eight">acht</string>
   <string name="description_image_button_five">vijf</string>
   <string name="description_image_button_four">vier</string>
@@ -338,7 +335,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="details_list_group_header_other">ANDERE</string>
   <string name="device_bluetooth_title">Contacten overzetten</string>
-  <string name="device_brand_title">Merk kiezen</string>
   <string name="device_import_account_dialog_title">Account kiezen</string>
   <string name="device_import_account_dialog_title_suffix">"(%1$s contacten gevonden)"</string>
   <string name="device_import_failed_message">Importeren mislukt!</string>
@@ -350,18 +346,33 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="device_import_progress_toast">%1$d contacten geïmporteerd</string>
   <string name="device_import_title">Importeren</string>
   <string name="device_list_title">Apparaat kiezen</string>
-  <string name="device_other_guide">Als uw apparaat niet in de lijst staat, volg dan de stappen hier beneden</string>
-  <string name="device_other_title">Ander apparaat</string>
+   <string name="device_other_guide">Ondersteunt de andere telefoon bluetooth?</string>
+  <string name="device_other_title">Importeren van andere telefoons</string>
   <string name="device_paired_dialog_message">Contacten ophalen…</string>
   <string name="device_paired_dialog_title">Contacten ophalen…</string>
   <string name="device_pairing_dialog_message">Koppelen…</string>
   <string name="device_pairing_dialog_title">Apparaten koppelen</string>
-  <string name="device_version_header_bluetooth">Controleer uw bluetooth verbinding</string>
-  <string name="device_version_header_no_bluetooth">Contacten van SIM kaart importeren</string>
-  <string name="device_version_title">Model kiezen</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Schakel de \"Bluetooth\" van ander apparaat in;
+        
+
+- Android apparaten vinden \"Bluetooth\" bij netwerk sectie
+        
+- iOS apparaten moeten \"Bluetooth\" in instellingen
+        
+
+2. Android apparaten moeten \"Zichtbaar\" optie inschakelen;
+        
+
+3. Klik \"volgende\", en geef toegang tot contacten in de volgende stap."</string>
+  <string name="device_transfer_by_sim_message">"1. Sla de contacten van het andere apparaat op op de SIM kaart;
+        
+
+2. Open de instellingen in de contactenapp en ga naar \"Contacten importeren/exporteren\" -- \"Importeer van SIM kaart\", lang drukken op contact om te selecteren, selecteer alle gewenste contacten en druk vervolgens op \"Importeren\"."</string>
+  <string name="device_version_header_bluetooth">Import via Bluetooth</string>
+  <string name="device_version_header_no_bluetooth">Import via SIM card</string>
   <string name="dial">Bellen</string>
   <string name="dialerDialpadHintText">Bel om een gesprek toe te voegen</string>
-  <string name="dialerIconLabel">Recente</string>
+  <string name="dialerIconLabel">Recent</string>
   <string name="dialerKeyboardHintText">Gebruik het toetsenbord om te bellen</string>
   <string name="dialer_addAnotherCall">Gesprek toevoegen</string>
   <string name="dialer_copy_view_delete_description">Gekopieerd nummer wissen</string>
@@ -372,7 +383,10 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialer_menu_description">Menu\'s weergeven</string>
   <string name="dialer_menu_title">Menu opties</string>
   <string name="dialer_returnToInCallScreen">Terugkeren naar huidig gesprek</string>
-  <string name="dialer_useDtmfDialpad">Gebruik toestenblok</string>
+  <string name="dialer_useDtmfDialpad">Gebruik toetsenblok</string>
+  <string name="dialog_device_info_hardware_version">Hardwareversie: %s</string>
+  <string name="dialog_device_info_miui_version">MIUI versie: %s</string>
+  <string name="dialog_device_info_title">Versie info</string>
   <string name="dialog_import">Contacten importeren</string>
   <string name="dialog_import_export">Contacten importeren/exporteren</string>
   <string name="dialog_new_contact_account">Contact in account maken</string>
@@ -400,8 +414,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="editContactNameExpandOpenDescription">Naam uitbreiden</string>
   <string name="editGroupDescription">Groep bewerken</string>
   <string name="edit_contact">Contact bewerken</string>
-  <string name="edit_contact_card_title">Contactkaart bewerken</string>
-  <string name="edit_contact_photo">Bewerk contact foto</string>
+  <string name="edit_contact_card_title">Items selecteren om te delen</string>
+  <string name="edit_contact_photo">Contactfoto bewerken</string>
   <string name="email">Mailen</string>
   <string name="emailLabelsGroup">E-mail</string>
   <string name="email_custom">Mailen naar %s</string>
@@ -411,7 +425,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="email_work">Mailen naar werk</string>
   <string name="emergency_number_label">Noodnummer</string>
   <string name="emptyGroup">Geen personen in deze groep.</string>
-  <string name="empty_divider_title"/>
   <string name="enter_contact_name">Typ de naam van de persoon</string>
   <string name="eventLabelsGroup">Speciale datums</string>
   <string name="eventTypeCustom">Aangepast</string>
@@ -471,7 +484,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="group_create_fail_toast">Kan geen groep maken</string>
   <string name="group_create_success_toast">Groep gemaakt</string>
   <string name="group_delete_success_toast">Groep verwijderd</string>
-  <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Groepsnaam</string>
   <string name="group_member_remove_toast">Verwijderd van groep</string>
   <string name="group_move_fail_toast">Kon contacten niet verplaatsen</string>
@@ -486,10 +498,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="group_sms_progress_msg">Groeperen…</string>
   <string name="groupsLabel">Groepen</string>
   <string name="groups_list_empty">Geen groepen</string>
-  <string name="help_url_people_add"/>
-  <string name="help_url_people_edit"/>
-  <string name="help_url_people_main"/>
-  <string name="hint_distance"/>
   <string name="hint_findContacts">Contacten vinden</string>
   <string name="hint_more_contact">Dubbele contacten samenvoegen</string>
   <string name="hybrid_check_network">Netwerkinstellingen</string>
@@ -501,7 +509,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="ic_menu_back">Terug</string>
   <string name="ic_menu_done">Klaar</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI: "</string>
+  <string name="imei">IMEI</string>
   <string name="imei_invalid">Ongeldige IMEI</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
@@ -570,6 +578,11 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="list_filter_customize">Aanpassen</string>
   <string name="list_filter_phones">Alle contacten met telefoonnummers</string>
   <string name="list_filter_single">Contact</string>
+  <string name="live_talk_switch_on_toast">Herlaadpakket ingeschakeld</string>
+  <string name="livetalk_charge">Herladen</string>
+  <string name="livetalk_left">Resterend</string>
+  <string name="livetalk_switch_on">Inschakelen</string>
+  <string name="livetalk_title">Herlaadpakket</string>
   <string name="loading_accounts">Een momentje……</string>
   <string name="loading_group_members">Een momentje…</string>
   <string name="loading_groups">Een momentje…</string>
@@ -579,6 +592,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="local_search_label">Alle contacten</string>
   <string name="locale_change_in_progress">Lijst met contacten wordt bijgewerkt om de gewijzigde taal te weerspiegelen.</string>
   <string name="login_ok">Inloggen</string>
+  <string name="low_memory_toast">Kan niet functie niet gebruiken omdat het geheugen te laag is.</string>
   <string name="lunarBirthdayLabelsGroup">Verjaardag</string>
   <string name="lunar_calendar">Lunar Nieuw jaar</string>
   <string name="lunar_leap">Start</string>
@@ -588,7 +602,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="map_home">Thuisadres weergeven</string>
   <string name="map_other">Adres weergeven</string>
   <string name="map_work">Werkadres weergeven</string>
-  <string name="meid">"MEID: "</string>
+  <string name="meid">MEID</string>
   <string name="meid_invalid">Ongeldige MEID</string>
   <string name="menuMoreDescription">Meer</string>
   <string name="menu_accounts">Accounts</string>
@@ -675,10 +689,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_find_profile_no_recommend">Geen aanbevolen profiel</string>
   <string name="miprofile_finding_label">Visitekaartjes vinden</string>
   <string name="miprofile_name">Mijn profiel</string>
-  <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit">Bijnaam van kaart bewerken</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Roepnaam invoeren</string>
-  <string name="miprofile_nick_name_edit_dialog_message">Roepnaam zal verschijnen in belgeschiedenis en profiel info</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Roepnaam zal verschijnen in oproepgeschiedenis en profiel info</string>
   <string name="miprofile_nick_name_edit_dialog_title">Roepnaam bewerken</string>
   <string name="miprofile_notice_text">"Tik om profielfoto van contact te bekijken</string>
   <string name="miprofile_request_agenda_date">Deze persoon wil visitekaartjes uitwisselen [%1$s]</string>
@@ -715,8 +728,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="multi_number_title">Telefoonconferentie</string>
   <string name="multipleContactDeleteConfirmation">Als u dit contact verwijdert, worden gegevens van meerdere accounts verwijderd.</string>
   <string name="multipleContactDeleteConfirmationDetail">Verwijderen van \"%s\" zal de informatie van meerdere accounts wissen.</string>
-  <string name="my_phone_not_provider_bluetooth">Mijn apparaat heeft geen Bluetooth</string>
-  <string name="my_phone_provider_bluetooth">Mijn apparaat heeft Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Nee</string>
+  <string name="my_phone_provider_bluetooth">Ja</string>
   <string name="nameLabelsGroup">Naam</string>
   <string name="name_family">Achternaam</string>
   <string name="name_given">Roepnaam</string>
@@ -869,15 +882,15 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="preference_dial_pad_touch_tone_switch">Toetsenblok aanraakgeluiden</string>
   <string name="preference_dial_pad_touch_tone_title">Toetsenblok aanraakgeluiden</string>
   <string name="preference_display">Weergave</string>
-  <string name="preference_displayOptions">Weergaveopties</string>
+  <string name="preference_displayOptions">Weergave-opties</string>
   <string name="preference_export">Exporteer</string>
   <string name="preference_import">Importeer</string>
-  <string name="preference_import_export">Import/Export</string>
+  <string name="preference_import_export">Import/export</string>
   <string name="preference_import_export_title">Contacten importeren/exporteren</string>
-  <string name="preference_key_trash_bin_title">Bekijk geback-upte contacten die recent werden verwijderd</string>
+  <string name="preference_key_trash_bin_title">Bekijk geback-upte contacten die recent zijn verwijderd</string>
   <string name="preference_others">Overige</string>
   <string name="preference_phone">Telefoon</string>
-  <string name="preference_phone_more_title">Bel instellingen</string>
+  <string name="preference_phone_more_title">Instellingen voor bellen</string>
   <string name="preference_remove_duplicate">Dubbele contacten samenvoegen</string>
   <string name="preference_simple_mode_description">"Foto's en andere contactgegevens weergeven in de lijstweergave"</string>
   <string name="preference_simple_mode_title">"Foto's en info weergeven"</string>
@@ -907,7 +920,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen</string>
   <string name="pull_to_refresh_refreshing_label">Een momentje…</string>
   <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen</string>
-  <string name="qr_card_card">QR Code</string>
+  <string name="qr_card_card">QR code</string>
   <string name="qrcode_card_title">QR code</string>
   <string name="qrcode_detail_menu_edit">QR code wijzigen</string>
   <string name="qrcode_detail_menu_scan">Scannen</string>
@@ -932,18 +945,18 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="reading_vcard_canceled_title">Lezen van vCard gegevens geannuleerd</string>
   <string name="reading_vcard_failed_title">Kan vCard gegevens niet lezen</string>
   <string name="rebuild_t9_index_dialog_message">Herbouwen…</string>
-  <string name="recent">Recente</string>
-  <string name="recentCallsIconLabel">Belgeschiedenis</string>
+  <string name="recent">Recent</string>
+  <string name="recentCallsIconLabel">Oproepgeschiedenis</string>
   <string name="recentCalls_addToContact">Toevoegen aan contactpersonen</string>
   <string name="recentCalls_callNumber">Bel %s</string>
-  <string name="recentCalls_deleteAll">Verwijder belgeschiedenis</string>
+  <string name="recentCalls_deleteAll">Oproepgeschiedenis verwijderen</string>
   <string name="recentCalls_editNumberBeforeCall">Nummer bewerken voor bellen</string>
-  <string name="recentCalls_empty">Belgeschiedenis is leeg</string>
-  <string name="recentCalls_removeFromRecentList">Verwijder uit het belgeschiedenis</string>
+  <string name="recentCalls_empty">Oproepgeschiedenis is leeg</string>
+  <string name="recentCalls_removeFromRecentList">Verwijder uit oproepgeschiedenis</string>
   <string name="recentCalls_shareVoicemail">Deel voicemail</string>
   <string name="recentCalls_trashVoicemail">Verwijder voicemail</string>
-  <string name="recent_contacts_label">Recente</string>
-  <string name="recent_number">Recente</string>
+  <string name="recent_contacts_label">Recent</string>
+  <string name="recent_number">Recent</string>
   <string name="recent_updates">Recente updates</string>
   <string name="redirect_calls_to_vm_confirm_message">Voordat u uw mailbox instelt, lees de algemene voorwaarden van uw netwerk provider.</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
@@ -953,9 +966,11 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="remove_blacklist">Deblokkeren</string>
   <string name="remove_blacklist_dialog_message">Oproepen en berichten van dit nummer weergeven?</string>
   <string name="remove_blacklist_dialog_title">Dit telefoonnummer deblokkeren?</string>
-  <string name="remove_duplicate">MIUI zal u helpen met het vinden en samenvoegen van dubbele contacten.  Om te beginnen raak het Samenvoeg icoon aan onderaan het scherm.</string>
+  <string name="remove_duplicate">"MIUI zal u helpen met het vinden en samenvoegen van dubbele contacten.  
+  
+  Om te beginnen tikt u op \"samenvoegen\" onderaan het scherm."</string>
+  <string name="report_inquiry_mms">SMS rapporteren</string>
   <string name="restore_nickname">Herstellen</string>
-  <string name="ret_sign">" "</string>
   <string name="returnCall">Terugbellen</string>
   <string name="ringLabelsGroup">Beltoon</string>
   <string name="save_photo_progress">Foto opslaan…</string>
@@ -1047,7 +1062,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="sim_export_loading">SIM kaart wordt geladen…</string>
   <string name="sim_indexed_contact_not_exist">Positie %1$d is niet beschikbaar op de SIM kaart. Kies een nummer tussen %2$d en %3$d.</string>
   <string name="sim_no_contact">Geen contacten aanwezig op de SIM kaart</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Geen groepsleden</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Per bedrijf</string>
@@ -1098,9 +1112,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="success_message_import_from_account">Contact geimporteerd</string>
   <string name="summary_kind_title">Samenvatting</string>
   <string name="t9_search_guide_pinyin_title1">Nummers invoeren om contacten te vinden</string>
-  <string name="t9_search_guide_pinyin_title2">Voer 9 en 4 in om te zoeken naar &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
+  <string name="t9_search_guide_pinyin_title2">Voer 9 en 4 in om te zoeken naar Xavier Henry</string>
   <string name="t9_search_guide_zhuyin_title1">Nummers invoeren om contacten te vinden</string>
-  <string name="t9_search_guide_zhuyin_title2">Voer 5 en 6 in om te zoeken naar &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
+  <string name="t9_search_guide_zhuyin_title2">Voer 5 en 6 in om te zoeken naar Jeff Max</string>
   <string name="take_new_photo">Nieuwe foto nemen</string>
   <string name="take_photo">Foto maken</string>
   <string name="telecom_fraud_insurance">Telecom fraude verzekering</string>
@@ -1120,6 +1134,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="toast_making_personal_copy">Een persoonlijke kopie maken…</string>
   <string name="toast_text_copied">Tekst gekopiëerd</string>
   <string name="today">Vandaag</string>
+  <string name="tomorrow">Morgen</string>
   <string name="transfer_accounts">Accounts transfereren</string>
   <string name="type_incoming">Inkomende oproepen</string>
   <string name="type_missed">Gemiste oproepen</string>
@@ -1131,6 +1146,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="unknow_phone_number_mms_failed">Kan onbekend nummer geen bericht zenden</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_contact_name">Onbekend contact</string>
+  <string name="update_sim_contact_photo_toast">Kan geen profielfoto\'s instellen voor SIM contacten</string>
   <string name="upgrade_in_progress">Lijst met contactpersonen wordt bijgewerkt.</string>
   <string name="upgrade_out_of_memory">"Contacten worden bijgewerkt. Voor het upgradeproces is ongeveer %s MB interne opslagruimte vereist. Kies een van de volgende opties:"</string>
   <string name="upgrade_out_of_memory_retry">Upgrade opnieuw proberen</string>
@@ -1146,7 +1162,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="vcard_import_will_start_message">%s wordt binnenkort geïmporteerd.</string>
   <string name="vcard_info_send_error">Kan niet versturen door vCard fout</string>
   <string name="vcard_unknown_filename">Contact</string>
-  <string name="video_call">Video oproep</string>
+  <string name="video_call">Video-oproep</string>
   <string name="video_chat">Videochat</string>
   <string name="viewContactDesription">Contact weergeven</string>
   <string name="viewContactTitle">Details van contact</string>
@@ -1180,9 +1196,10 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="wipe_data">Data verwijderen</string>
   <string name="yellowPageNavigationIconLabel">Gele Gids</string>
   <string name="yellowPageNavigationLabel">Gele Gids</string>
-  <string name="yellowpage_navigation_ad_hint">Ad</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">Saldo en data kon niet geverifeerd worden, probeer later opnieuw.</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Saldo en data zijn geverifeerd</string>
+  <string name="yellowpage_fc_toast">Kan niet functie niet gebruiken omdat de gele gids gecrashed is</string>
+  <string name="yellowpage_navigation_ad_hint">Adv</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">Saldo en mobiel data kon niet geverifeerd worden, probeer later opnieuw.</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Saldo en mobiele data zijn geverifeerd</string>
   <string name="yellowpage_navigation_clear_search_history">Geschiedenis verwijderen</string>
   <string name="yellowpage_navigation_more_items">Meer</string>
   <string name="yellowpage_navigation_more_items_title">Meer diensten</string>
@@ -1202,5 +1219,6 @@ netwerk maken.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Toegevoegd aan startscherm</string>
   <string name="yellowpage_search_the_yellowpage">Zoek in de Gele Gids</string>
   <string name="yellowpage_user_profile">Profiel</string>
+  <string name="yesterday">Gisteren</string>
   <string name="zero_items_selected">Selecteer item</string>
 </resources>

@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="record_type_entries">
-        <item>MP3</item>
-        <item>AMR</item>
-    </string-array>
     <string-array name="record_scenes_entries">
         <item>Muziek</item>
         <item>Spraak</item>
@@ -14,30 +10,26 @@
         <item>Interview</item>
 	</string-array>
     <string-array name="hd_record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
+        <item>Muziek</item>
+        <item>Spraak</item>
         <item>Interview</item>
         <item>HD</item>
     </string-array>
 	<string-array name="record_scenes_summaries">
+	    <item>Muziek opnemen in betere kwaliteit</item>
+        <item>Plaats de microfoon dichter bij de geluidsbron voor betere kwaliteit</item>
+        <item>Plaats de telefoon tussen twee mensen in om hun gesprek duidelijk op te nemen</item>
+        <item>High Dynamic Range technologie zorgt ervoor dat de microfoon gedetailleerder geluid kan opnemen</item>
+    </string-array>
+	<string-array name="record_scenes_summaries_stereo">
         <item>Opnemen op 2 kanalen, luister naar stereogeluid in de koptelefoon</item>
         <item>Plaats de microfoon dichter bij de geluidsbron voor betere kwaliteit</item>
-        <item>Plaats de telefoon tussen 2 mensen om beiden duidelijk op te nemen</item>
-        <item>High Dynamic Range technologie maakt het mogelijk dat de microfoon meer gedetailleerd geluid vastlegt</item>
+        <item>Plaats de telefoon tussen twee mensen in om hun gesprek duidelijk op te nemen</item>
+        <item>High Dynamic Range technologie zorgt ervoor dat de microfoon gedetailleerder geluid kan opnemen</item>
     </string-array>
     <string-array name="record_quality_entries">
         <item>"Hoog "</item>
         <item>"Standaard "</item>
         <item>"Laag "</item>
-    </string-array>
-    <string-array name="record_quality_summaries">
-        <item>MP3, ~192kbit/s, ~90MB/h</item>
-        <item>MP3, ~100kbit/s, ~45MB/h</item>
-        <item>MP3, ~75kbit/s, ~32MB/h</item>
-    </string-array>
-    <string-array name="record_locale_language">
-        <item>fa</item>
-        <item>ar</item>
-        <item>bn</item>
     </string-array>
 </resources>

@@ -37,20 +37,12 @@
         <item>Ouder bericht</item>
         <item>Postvak In</item>
     </string-array>
-    <integer-array name="senders_lengths">
-        <item>27</item>
-        <item>27</item>
-    </integer-array>
-    <integer-array name="senders_with_attachment_lengths">
-        <item>25</item>
-        <item>25</item>
-    </integer-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
-        <item>Email:</item>
+        <item>E-mail:</item>
         <item>Mobiel:</item>
-        <item>Phone:</item>
+        <item>Telefoon:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
@@ -66,7 +58,7 @@
         <item>Adres:</item>
         <item>Tel:</item>
         <item>Naam:</item>
-        <item>Email:</item>
+        <item>E-mail:</item>
         <item>Mobiel:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
@@ -74,7 +66,7 @@
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Gebruiksvoorwaarden:</item>
-        <item>E-mail Gebruiksvoorwaarden</item>
+        <item>E-mail gebruiksvoorwaarden</item>
         <item>Verzonden via WPSMail</item>
         <item>Verzonden van</item>
         <item>Verzonden met</item>
@@ -90,11 +82,20 @@
         <item>Van</item>
         <item>Deze e-mail</item>
         <item>Gebruiksvoorwaarden</item>
-        <item>E-mail Gebruiksvoorwaarden</item>
+        <item>E-mail gebruiksvoorwaarden</item>
     </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
+	<string-array name="all_month_str">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mrt</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
     </string-array>
 </resources>

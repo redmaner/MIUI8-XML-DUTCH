@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<plurals name="sync_items_close">
+        <item quantity="other">%d staan uit</item>
+        <item quantity="one">%d staat uit</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Items wachten om te sync.: %d</item>
+        <item quantity="one">Item wacht om te sync.: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d items wachten om te sync.</item>
+        <item quantity="one">%d item wacht om te sync.</item>
+    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d contacten</item>
         <item quantity="one">%d contact</item>
@@ -15,5 +27,33 @@
     <plurals name="dirty_image_count">
         <item quantity="other">%d foto\'s</item>
         <item quantity="one">%d foto</item>
+    </plurals>
+	<plurals name="dirty_callog_count">
+        <item quantity="other">%d belgeschiedenis archieven</item>
+        <item quantity="one">%d belgeschiedenis archief</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi netwerken</item>
+        <item quantity="one">%d Wi-Fi netwerk</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d archieven</item>
+        <item quantity="one">%d archief</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">%d nummer</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d browser items</item>
+        <item quantity="one">%d browser item</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d kalender items</item>
+        <item quantity="one">%d kalender item</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d vermeldingen in blokkeerlijst</item>
+        <item quantity="one">%d vermelding in blokkeerlijst</item>
     </plurals>
 </resources>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Advertenties</string>
   <string name="activity_title_apk">Pakketten</string>
   <string name="activity_title_brightness_image">Onder- en overbelicht</string>
@@ -27,6 +26,7 @@
   <string name="activity_title_white_list">Uitzonderingen</string>
   <string name="ad_install_success_dialog_lunch">Openen</string>
   <string name="ad_install_success_dialog_title">%1$s met succes geïnstalleerd. Nu openen?</string>
+  <string name="analying">Analyseren…</string>
   <string name="apk_status_damage">Corrupt</string>
   <string name="apk_status_duplicate">Dupliceer</string>
   <string name="apk_status_install">Geïnstalleerd</string>
@@ -81,7 +81,7 @@
   <string name="button_text_unselect_pic">Deselecteren</string>
   <string name="button_text_view_detail">Details</string>
   <string name="button_text_view_file">Bestand</string>
-  <string name="buy_a_new_phone">Opslag upgrade</string>
+  <string name="buy_a_new_phone">Meer opslagruimte verkrijgen</string>
   <string name="buy_immediately">Koop</string>
   <string name="buy_traffic_pack">Koop meer data</string>
   <string name="byteShort">B</string>
@@ -96,7 +96,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">Geen</string>
-  <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere nutteloze items</string>
+  <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere verouderde items</string>
   <string name="clear_immediately">Nu opruimen</string>
   <string name="clear_safe_notify">Beveiliging meldingsbalk</string>
   <string name="clip_board_history_desc">Gekopieerde/geknipte inhoud</string>
@@ -143,6 +143,9 @@
   <string name="deepclean_title_uninstall_apps">Weinig gebruikte apps</string>
   <string name="deepclean_video_content">Reeds bekeken of onnodige video\'s verwijderen</string>
   <string name="deepclean_video_summary_empty">Alles ziet er goed uit</string>
+  <string name="default_cache_type">Databestanden</string>
+  <string name="delete_confirm">Verwijderen</string>
+  <string name="delete_confirm_msg">Alle geselecteerde bestanden permanent verwijderen?</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Foto\'s ook van Mi Cloud verwijderen</string>
   <string name="dialog_content_select_all_confirm">Kopie bewaren van deze foto?</string>
   <string name="dialog_msg_add_white_list_error">Kan dit bestand niet toevoegen aan uitzonderingen</string>
@@ -152,7 +155,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Opruimer is beschadigd.</string>
   <string name="dialog_msg_stop_scan">Stoppen met afval scannen voordat het klaar is?</string>
   <string name="dialog_msg_uninstall_apps">Deze apps verwijderen?</string>
-  <string name="dialog_msg_uninstall_apps_xspace">Uninstall these apps?（including clone apps）?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Deze apps inclusief de gekloonde apps verwijderen?</string>
   <string name="dialog_ok_add_white_list_error">Begrepen</string>
   <string name="dialog_title_add_white_list_error">Attentie</string>
   <string name="dialog_title_backup_and_uninstall_apps">Back-uppen en verwijderen</string>
@@ -168,16 +171,19 @@
   <string name="empty_content_no_ignore_image">Leeg</string>
   <string name="empty_content_no_privacy">Leeg</string>
   <string name="empty_content_no_similar_image">Geen foto\'s</string>
-  <string name="empty_title_ad">Geen adv. bestanden gevonden</string>
+  <string name="empty_title_ad">Geen verouderde bestanden gevonden</string>
   <string name="empty_title_apk">Geen installatiepakketten gevonden</string>
   <string name="empty_title_garbage_cache">Niets om op te ruimen</string>
   <string name="empty_title_garbage_white_list">Ingedrukt houden om uitzonderingen toe te voegen.</string>
   <string name="empty_title_installed_apps">Leeg</string>
   <string name="empty_title_large_files">Leeg</string>
+  <string name="empty_title_photos">Geen foto\'s gevonden</string>
   <string name="empty_title_residual">Geen restanten gevonden</string>
   <string name="empty_title_video">Geen video\'s om te verwijderen​</string>
+  <string name="file">Bestanden</string>
+  <string name="file_not_found">Bestand niet gevonden</string>
   <string name="flow_rank_title">Datagebruik</string>
-  <string name="function_app_lock_title">%d apps bevatten privacy risico\'s</string>
+  <string name="function_app_lock_title">%d apps bevatten privacyrisico\'s</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_cleanup_detail">%1$d keer, %2$s opgeruimd</string>
   <string name="garbage_month">%s opgeruimd deze maand</string>
@@ -188,7 +194,7 @@
   <string name="harass_detail">%1$d SMS en %2$d gesprekken geblokkeerd</string>
   <string name="header_optimizer">Door gebruik te maken van deze functie gaat u akkoord met %s</string>
   <string name="hint_clean_select_items">Duplicaten verwijderen…</string>
-  <string name="hints_ad_header_left">Bestanden toevoegen</string>
+  <string name="hints_ad_header_left">Verouderde bestanden</string>
   <string name="hints_apk_header_left">Pakketten</string>
   <string name="hints_apk_version">Versie %s</string>
   <string name="hints_app_uninstall_residual">Restanten van verwijderde apps opruimen?</string>
@@ -260,6 +266,7 @@
   <string name="label_preserve_the_best_image">Bewaar de scherpste foto\'s</string>
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
   <string name="load_only_under_wlan">Nieuws laden wanneer verbonden met Wi-Fi</string>
+  <string name="location_not_found">Kon bestand niet vinden</string>
   <string name="login_immediately">Aanmelden</string>
   <string name="long_click_dialog_summary">Lang drukken om toe te voegen aan uitzonderingen.</string>
   <string name="long_click_dialog_title">Melding</string>
@@ -271,7 +278,7 @@
   <string name="low_memory_warning_dialog_ok_button">Wissen</string>
   <string name="low_memory_warning_dialog_title">Niet genoeg opslagruimte</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
-  <string name="megabyteShort">MB</string>
+  <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Controleren op updates…</string>
@@ -283,7 +290,7 @@
   <string name="msg_update_error_code_unknown_error">Onbekende fout</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Privacybeleid</string>
-  <string name="nb_clear_set">ROM wissen, batterij bekijken en zwarte lijst-info op notificatiescherm</string>
+  <string name="nb_clear_set">Cache wissen, batterij bekijken en zwarte lijst-info op notificatiescherm</string>
   <string name="net_assistant_detail">%1$s gebruikt, %2$s bespaard</string>
   <string name="net_assistant_title">%s aan mobiele data verbruikt deze maand</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
@@ -298,10 +305,11 @@
   <string name="open">Inschakelen</string>
   <string name="open_app">Openen</string>
   <string name="open_browser">Openen in browser</string>
+  <string name="open_file_error">Kon de app niet vinden om dit bestand te openen</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
+  <string name="output_videos">Export video\'s</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone_search">Google Search</string>
   <string name="positive_confirm">Ok</string>
   <string name="pref_category_title_auto_clean_settings">Automatisch opruimen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Extra instellingen</string>
@@ -350,8 +358,6 @@
   <string name="recommend_news">Aanbevolen bronnen</string>
   <string name="recommend_the_following">Neem de volgende maatregelen om het meest uit uw apparaat te halen</string>
   <string name="recommended">Voorgesteld</string>
-  <string name="remain_item_name_n7p"/>
-  <string name="remain_item_name_pamp"/>
   <string name="safety_check_detail">%1$d keer, %2$d punten verdient</string>
   <string name="safety_rank">Vooruitlopend op %d%% MIUI gebruikers in termen van veiligheid</string>
   <string name="sc_allow_network_dialog_button">Toestaan</string>
@@ -366,7 +372,6 @@
   <string name="similar_image_empty">Geen duplicaten gevonden</string>
   <string name="similar_image_scaning">Controleren…</string>
   <string name="similar_image_title">Foto\'s</string>
-  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Gesponsord</string>
   <string name="start_downloading_app">Start download van: %1$s</string>
   <string name="start_install">Nu installeren</string>
@@ -408,7 +413,7 @@
   <string name="title_of_traffic_notification">Datastatistieken balk</string>
   <string name="title_optimizer">Algemene voorwaarden</string>
   <string name="title_share_link">URL delen</string>
-  <string name="toast_add_white_list_success">" toegevoegd aan uitzonderingen"</string>
+  <string name="toast_add_white_list_success">Met succes toegevoegd aan uitzonderingen</string>
   <string name="toast_app_no_residual_on_sdcard">App bevat geen bestanden die opgeslagen zijn op de SD kaart</string>
   <string name="toast_backup_is_running">Back-up is al actief.</string>
   <string name="toast_backup_uninstall_failed">Mislukt om %d apps te back-uppen.</string>
@@ -420,7 +425,7 @@
   <string name="toast_must_select_before_restore">Kies foto\'s om te herstellen</string>
   <string name="toast_network_eror">Kan geen verbinding maken met netwerk</string>
   <string name="toast_network_switch">Deze app kan verbinding maken met internet</string>
-  <string name="toast_removed_from_white_list">" verwijderd uit uitzonderingen"</string>
+  <string name="toast_removed_from_white_list">Met succes verwijderd uit uitzonderingen</string>
   <string name="toast_resolve_apk_error">Oplossen apk fout</string>
   <string name="toast_scaning_similar_image">Foto\'s controleren…</string>
   <string name="toast_select_image_need_delete">Foto\'s kiezen om te verwijderen</string>
@@ -433,7 +438,8 @@
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virusscan</string>
   <string name="vungle_ad_name">Vungle advertentie</string>
-  <string name="white_list_ad_header">Advertentiebestanden: %d</string>
+  <string name="wechat_add_to_cleanlist">Succesvol opgeruimd</string>
+  <string name="white_list_ad_header">Verouderde bestanden: %d</string>
   <string name="white_list_apk_header">Installatiepakketten: %d</string>
   <string name="white_list_cache_header">Gecachete bestanden: %d</string>
   <string name="white_list_large_file_header">Grote bestanden en video\'s: %d</string>

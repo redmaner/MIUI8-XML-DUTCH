@@ -5,14 +5,14 @@
         <item quantity="one">Dit gesprek verwijderen?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s secs</item>
-        <item quantity="one">%s sec</item>
-        <item quantity="few">%s secs</item>
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+        <item quantity="few">%d seconden</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s secs</item>
-        <item quantity="one">%s sec</item>
-        <item quantity="few">%s secs</item>
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+        <item quantity="few">%d seconden</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultaten voor \"%2$s\"</item>
@@ -34,5 +34,9 @@
     <plurals name="message_count">
         <item quantity="other">%1$s berichten</item>
         <item quantity="one">%1$s berichten</item>
+    </plurals>
+	<plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d geselecteerd</item>
+        <item quantity="zero">Items selecteren</item>
     </plurals>
 </resources>

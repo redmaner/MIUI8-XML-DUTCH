@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_clear_records">Delete selected recordings?</string>
+  <string name="alert_message_clear_records">Geselecteerde opnames verwijderen?</string>
   <string name="alert_message_delete_record">De opname verwijderen van uw apparaat zal hem ook verwijderen van Mi Cloud. Nu verwijderen?</string>
   <string name="alert_message_delete_record_title">Opname verwijderen?</string>
   <string name="app_name">Geluidsrecorder</string>
@@ -26,9 +26,6 @@
   <string name="details">Details</string>
   <string name="dialog_content_storage_full">Door te weinig ruimte was de opname gedwongen om te stoppen. Verwijder onnodige bestanden met bestandsbeheer, wilt u het nu openen?</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
-  <string name="duration_format_hour">%sh</string>
-  <string name="duration_format_minute">%sm</string>
-  <string name="duration_format_second">%ss</string>
   <string name="empty_recognition_tip">Leeg</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
@@ -38,12 +35,18 @@
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
   <string name="error_sdcard_unmounted">SD kaart losgekoppeld, steek de SD-kaart in</string>
   <string name="export_to_note">Exporteren als notitie</string>
+  <string name="head_set_tip_dialog_msg">Koppel koptelefoon los om geluid op te nemen met bepaalde presets (bijv. muziek, spraak).</string>
+  <string name="head_set_tip_dialog_ok">Begrepen</string>
+  <string name="head_set_tip_dialog_title">Interne microfoon gebruiken</string>
   <string name="invalid_argument">Ongeldig argument</string>
+  <string name="keywords_search_call_record">Oproepen opnemen;Oproep opnemen;Oproepopname;Oproepopnames</string>
+  <string name="keywords_search_record">Nieuwe opname;Opname toevoegen;Opname;Opnames;Transcript;Transcribe;Recorder;Spraakrecorder;Geluidrecorder;Recorderapp;Recording app;Hoe neem ik op;Hoe neem ik geluid op;Waar is de recorder;MIUI Recorder</string>
+  <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Opnemen;Opname delen;Opnames delen;Opname;Opnames</string>
   <string name="low_battery_error">Minder dan 5% batterij over. Stop en sla uw opname op om er zeker van te zijn dat deze niet verloren gaat.</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Batterij laag</string>
   <string name="mark_point_list_title">Markeringen</string>
-  <string name="message_file_size_error">Opname heeft de maximale ondersteunde opnametijd bereikt voor %s</string>
+  <string name="message_file_size_error">Opname heeft de maximale opnametijd van %s bereikt</string>
   <string name="network_tip_dialog_cancel">Annuleren</string>
   <string name="network_tip_dialog_content">Spraakherkenning heeft verbinding met internet nodig om normaal te werken.</string>
   <string name="network_tip_dialog_ok">Toestaan</string>
@@ -82,6 +85,7 @@
   <string name="recognition_error_internal">Interne fout</string>
   <string name="recognition_error_stopped">Herkenning gestopt</string>
   <string name="recognition_status_downloading">Downloaden</string>
+  <string name="record">Opnemen</string>
   <string name="record_back_pressed_hint">Druk op vorige om opname te stoppen</string>
   <string name="record_download">Downloaden van Mi Cloud</string>
   <string name="record_download_complete">Gedownload</string>
@@ -132,14 +136,12 @@
   <string name="text_btn_complete">Stoppen</string>
   <string name="text_btn_list">Opnames</string>
   <string name="text_btn_mark">Markeren</string>
-  <string name="text_btn_pause">Pauze</string>
+  <string name="text_btn_pause">Pauzeren</string>
   <string name="text_btn_play">Afspelen</string>
   <string name="text_btn_recognize">Herkennen</string>
   <string name="text_btn_recording">Opnemen</string>
   <string name="text_btn_wave">Golven</string>
   <string name="text_finish">Bevestigen</string>
-  <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s kan ongeveer %2$s opnemen</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
   <string name="wifi_recommended_body" formatted="false">Het downloaden van dit bestand (%s) over mobiele data kan leiden tot hogere datakosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tik op %s.</string>

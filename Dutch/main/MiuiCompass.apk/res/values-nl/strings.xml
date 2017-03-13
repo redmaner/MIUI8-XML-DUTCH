@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="altitude">%.1f</string>
-  <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Hoogte</string>
   <string name="altitude_uncalibrate_cancel">Annuleren</string>
   <string name="altitude_uncalibrate_msg">Kan hoogte niet nauwkeurig kalibreren zonder GPS of mobiele dataverbinding.</string>
   <string name="altitude_uncalibrate_refresh">Probeer opnieuw</string>
   <string name="altitude_uncalibrate_tip">Kan hoogte niet kalibreren</string>
-  <string name="altitude_unit">M</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_failed">Hoogtekalibratie mislukt</string>
   <string name="calibrate_failed_no_location">Kalibratie mislukt</string>
@@ -31,23 +28,21 @@
   <string name="do_not_show_next_time">Niet opnieuw tonen</string>
   <string name="error_camera_unavailable">Controleer of een andere app de camera gebruikt.</string>
   <string name="error_camera_unavailable_title">Camera niet beschikbaar</string>
-  <string name="first_using_dialog_message">Kompas moet de netwerkverbinding van het apparaat, locatieservices en de camera gebruiken om normaal te werken.</string>
+  <string name="first_using_dialog_message">Kompas heeft de netwerkverbinding van het apparaat, locatieservices en de camera nodig om normaal te kunnen werken.</string>
   <string name="first_using_dialog_title">Toegangsrechten</string>
-  <string name="guide_toast">Om te kalibreren, beweeg uw telefoon zoals aangegeven.</string>
-  <string name="latitude">LAT</string>
+  <string name="guide_toast">Beweeg uw telefoon zoals aangegeven om te kalibreren.</string>
+  <string name="keywords_search_compass">Kompas;Kompas kalibreren;Luchtdruk;Hoogte;Breedtegraad;Lengtegraad;Controleer de lengtegraad; Controleer de breedtegraad;MIUI kompas;kompas app;MIUI kompas app;Waar is het kompas;Kompas downloaden;Luchtdruk;Controleer de hoogte;Wat is de hoogte</string>
   <string name="location_east">O</string>
   <string name="location_enable">Toestaan</string>
   <string name="location_enable_later">Later</string>
   <string name="location_enabled">U kunt locatiediensten elk moment uitschakelen in Instellingen.</string>
   <string name="location_north">N</string>
-  <string name="location_not_enabled_summary">App heeft uw locatie info nodig om normaal  te werken.</string>
+  <string name="location_not_enabled_summary">Kompas heeft toegang tot je locatie nodig om coördinaten en hoogte te tonen.</string>
   <string name="location_not_enabled_title">Locatieservices</string>
   <string name="location_south">Z</string>
   <string name="location_west">W</string>
-  <string name="longitude">LON</string>
   <string name="mobiledata_alert_dialog_message">Verbind met netwerk om de hoogte te kalibreren</string>
   <string name="mobiledata_alert_dialog_title">Waarschuwing dataverbruik</string>
-  <string name="pressure">%.1f</string>
   <string name="pressure_title">Druk</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Schud om te kalibreren</string>

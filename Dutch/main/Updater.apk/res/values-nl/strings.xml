@@ -4,6 +4,12 @@
   <string name="active_xiaomi_account">Activeren</string>
   <string name="active_xiaomi_account_msg">Ga naar het MIUI forum om uw Xiaomi account te activeren: https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Activeer Xiaomi account</string>
+  <string name="alpha_apply">Deelnemen aan beta-testprogramma</string>
+  <string name="alpha_cancel">Niet meer deelnemen aan beta-testprogramma</string>
+  <string name="alpha_cancel_cancel">Annuleren</string>
+  <string name="alpha_cancel_confirm">Nu afmelden?</string>
+  <string name="alpha_cancel_ok">OK</string>
+  <string name="alpha_no_network">Verbind met netwerk om aan te melden</string>
   <string name="app_name">Updater</string>
   <string name="apply_title">Bezig met updaten (%s)</string>
   <string name="apply_update_dialog_cancel_button">Annuleren</string>
@@ -17,7 +23,7 @@
   <string name="auto_dialog_msg_check_again">U moet akkoord gaan met onze vernieuwde Privacybeleid voordat u uw systeem kan bijwerken.</string>
   <string name="auto_dialog_title_check_again">Update annuleren?</string>
   <string name="auto_update">Automatisch updaten</string>
-  <string name="auto_update_sum">Updates automatisch downloaden wanneer verbonden met Wi-Fi en \'s nachts installeren.</string>
+  <string name="auto_update_sum">Updates downloaden wanneer verbonden met Wi-Fi en \'s nachts installeren.</string>
   <string name="autosetmode">Update instellingen</string>
   <string name="best_update">Beste update tot nu toe</string>
   <string name="boot_recovery">Herstart in recovery modus</string>
@@ -60,9 +66,6 @@
   <string name="dialog_delay_update_msg">Uw apparaat zal opnieuw opstarten om de updates toe te passen wanneer deze aan staat en de batterij ten minste 30% is opgeladen</string>
   <string name="dialog_delay_update_title">Er is een update beschikbaar</string>
   <string name="dialog_delay_update_tonight">Vanavond updaten</string>
-  <string name="dialog_reboot_message">MIUI staat op het punt om te updaten. Dit kan 5-20 minuten duren. Houd uw apparaat ingeschakeld en schakel het niet uit tijdens het updaten.</string>
-  <string name="dialog_reboot_title">Systeemupdate</string>
-  <string name="dialog_reboot_yes">Updaten</string>
   <string name="download_again">Probeer opnieuw</string>
   <string name="download_cancel">Annuleren</string>
   <string name="download_current_rom">Herstart om update toe te passen</string>
@@ -98,6 +101,7 @@
   <string name="loading">Aanvragen…</string>
   <string name="log_share">Delen</string>
   <string name="menu_more_button">Menu</string>
+  <string name="menu_title_apply_for_alpha">Deelnemen aan beta-testprogramma</string>
   <string name="menu_title_current_version_log">Wat is er nieuw</string>
   <string name="menu_title_download_current_rom">Updatepakket downloaden</string>
   <string name="menu_title_pick_rom_file">Updatepakket selecteren</string>
@@ -106,7 +110,6 @@
   <string name="miui_summary_has_new_version">"  Nieuwe update gevonden  "</string>
   <string name="miui_summary_no_new_version">Geen update beschikbaar</string>
   <string name="miui_summary_now_version">Kan niet verbinden met netwerk</string>
-  <string name="miui_summary_slogan">"  Simplify your life  "</string>
   <string name="miui_summary_updating">"  Updaten…  "</string>
   <string name="monthly_build">Maandelijks</string>
   <string name="my_best_update">Beste update</string>
@@ -118,8 +121,8 @@
   <string name="new_updates_found_notification_title">Nieuwe update gevonden</string>
   <string name="next">Volgende</string>
   <string name="no_log">Geen samenvatting beschikbaar</string>
-  <string name="no_wifi_msg">Downloaden met uw mobiele dataverbinding zal uw dataverbruik verhogen.</string>
-  <string name="no_wifi_title">Waarschuwing dataverbruik</string>
+  <string name="no_wifi_msg">Door gebruik van mobiele data kunnen er extra kosten zijn. Verbind met Wi-Fi om updates te downloaden.</string>
+  <string name="no_wifi_title">Met Wi-Fi verbinden</string>
   <string name="not_open">Nee</string>
   <string name="notification_auto_reboot_seccess_title">Apparaat automatisch geüpdatet</string>
   <string name="notification_delay_update_button">Updaten in 2 uur</string>

@@ -50,7 +50,7 @@ Laatst geback-upt op %2$s"</string>
   <string name="cloud_space_upgrade_message">Tik om %sGB toe te voegen aan cloud</string>
   <string name="cloud_space_upgrade_no_quota_info">Kon opslaginfo niet verkrijgen</string>
   <string name="cloud_space_upgrade_title">Meer ruimte voor Mi Cloud</string>
-  <string name="cloud_storage_full">Cloudopslag</string>
+  <string name="cloud_storage_full">Cloudopslag is vol</string>
   <string name="cloud_storage_is_full">Vol</string>
   <string name="cloudservice_new_sync">Sync. %s met Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren, je apparaat zoeken en dingen te delen met je vrienden.</string>
@@ -173,19 +173,22 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_confusion_toast_confirm">Apparaat bevestigd</string>
   <string name="micloud_confusion_toast_deny">Aanmelden op uw Mi Account</string>
   <string name="micloud_confusion_yes">Ja</string>
-  <string name="micloud_detail_battery_low_message">Battery is bijna leeg. Laad telefoon op en synchroniseer.</string>
+  <string name="micloud_detail_battery_low">Batterij bijna leeg</string>
+  <string name="micloud_detail_battery_low_message">Batterij is bijna leeg. Laad de telefoon op om te synchroniseren.</string>
   <string name="micloud_detail_battery_low_title">Batterij is bijna leeg</string>
   <string name="micloud_detail_depend_wifi_message">Verbind met Wi-Fi of controleer de synchroniseerinstellingen.</string>
-  <string name="micloud_detail_depend_wifi_title">Wi-Fi vereist</string>
+  <string name="micloud_detail_depend_wifi_title">Verbinden met Wi-Fi</string>
   <string name="micloud_detail_do_not_sync">Niet synchroniseren</string>
   <string name="micloud_detail_download_syncing">%s downloaden</string>
   <string name="micloud_detail_fail">Kan niet sync.</string>
   <string name="micloud_detail_force_sync">Nu synchroniseren</string>
   <string name="micloud_detail_lastest">Gesync.</string>
   <string name="micloud_detail_lastest_with_off">Gesync.</string>
+  <string name="micloud_detail_need_charge">Laad de telefoon op om verder te gaan met synchroniseren</string>
   <string name="micloud_detail_not_sync">%d wacht om te synchroniseren</string>
-  <string name="micloud_detail_not_synced">niet gesynchroniseerd</string>
+  <string name="micloud_detail_not_synced">Niet gesynchroniseerd</string>
   <string name="micloud_detail_ok">OK</string>
+  <string name="micloud_detail_pause">Synchronisatie gepauzeerd</string>
   <string name="micloud_detail_pending">In afwachting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"Kon geen info verkrijgen over synchronisatievoortgang"</string>
@@ -196,8 +199,10 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_syncing">Synchroniseren</string>
   <string name="micloud_detail_upload_syncing">%s uploaden</string>
   <string name="micloud_detail_wlan">%d wacht om te sync.</string>
-  <string name="micloud_detail_wlan_contact">Contactfoto\'s wachten om te sync.: %d</string>
-  <string name="micloud_detail_wlan_mms">%d wacht om MMS te sync.</string>
+  <string name="micloud_dialog_sync_now_message">Verbind met Wi-Fi om te voorkomen dat er mobiele data wordt gebruikt</string>
+  <string name="micloud_dialog_sync_now_negative">Niet nu</string>
+  <string name="micloud_dialog_sync_now_positive">Mobiele data gebruiken</string>
+  <string name="micloud_dialog_sync_now_title">Verbind met Wi-Fi om te synchroniseren</string>
   <string name="micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren en om het apparaat te lokaliseren.</string>
   <string name="micloud_dspt_provision">Gebruik Mi Cloud om gegevens te synchroniseren, om het apparaat te lokaliseren en om te delen met vrienden.</string>
   <string name="micloud_find_device_finish">Klaar</string>
@@ -231,8 +236,8 @@ of apparaat te wissen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_battery_low">Batterij te laag om te sync.</string>
   <string name="micloud_main_battery_message">"Verbind apparaat met oplader om te sync."</string>
+  <string name="micloud_main_cancel_sync">Synchronisatie annuleren</string>
   <string name="micloud_main_clear_now">Wissen</string>
-  <string name="micloud_main_data_unsynced">Items wachten om te synchroniseren: %d</string>
   <string name="micloud_main_detail">Detail bekijken</string>
   <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
   <string name="micloud_main_memory_low_message">Om te sync., items te verwijderen die u hebt opgeslagen in de cloud.</string>
@@ -245,7 +250,6 @@ of apparaat te wissen."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud foutmelding</string>
   <string name="micloud_main_network_abnormal">Kan niet verbinden met netwerk</string>
   <string name="micloud_main_network_error">Kan geen verbinding maken met het netwerk</string>
-  <string name="micloud_main_not_sync">Items wachten om te sync.: %d</string>
   <string name="micloud_main_query_error_message">"Kan niet bevestigen of synchronisatie is voltooid voor sommige services"</string>
   <string name="micloud_main_query_error_title">"Kon geen info verkrijgen over synchronisatievoortgang"</string>
   <string name="micloud_main_set_internet">Netwerk</string>
@@ -258,6 +262,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_suggest_sync">Sommige items zijn niet gesynchroniseerd met Mi Cloud</string>
   <string name="micloud_main_sync_exception">Synchronisatiefout</string>
   <string name="micloud_main_sync_init">Info verkrijgen</string>
+  <string name="micloud_main_sync_need_charge">Laad te telefoon op</string>
   <string name="micloud_main_sync_now">Nu synchroniseren</string>
   <string name="micloud_main_sync_on">Synchronisatie inschakelen</string>
   <string name="micloud_main_sync_on_wifi">Wachten op Wi-Fi</string>
@@ -301,7 +306,6 @@ of apparaat te wissen."</string>
   <string name="micloud_notif_content_sync_with_off">Tik om uw apparaat nu te sync.</string>
   <string name="micloud_notif_title_battery_low">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_clipboard_push">Inhoud gekopiëerd naar klembord</string>
-  <string name="micloud_notif_title_depend_wifi">Items wachten om te synchroniseren: %d </string>
   <string name="micloud_notif_title_master_depend_wifi">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_memory_low">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_multi_user_error">Kan niet synchroniseren met Mi Cloud</string>
@@ -361,6 +365,10 @@ of apparaat te wissen."</string>
   <string name="micloud_web_discription_02">Om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
   <string name="micloud_web_discription_international">Bezoek www.mi.com/micloud</string>
   <string name="micloud_website">Mi Cloud items</string>
+  <string name="micloud_wipe_data_confirm_label">Verwijder data van Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_title">Verwijder items die gesync. zijn met Mi Cloud van de telefoon na afmelden?</string>
+  <string name="micloud_wipe_data_remove">Verwijderen</string>
+  <string name="micloud_wipe_data_retain">Bewaren</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Ongeveer RMB 80 per jaar</string>
@@ -372,7 +380,7 @@ Deze functie versleutelt en verzendt de ID van uw apparaat naar de Mi servers.</
   <string name="mx_dspt_provision_privacy_2_sim">"Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor twee SMS berichten gebruikt om deze functie te activeren.
 
 Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor een SMS bericht gebruikt om deze functie te activeren wanneer de SIM kaart gedetecteerd is.
+  <string name="mx_dspt_provision_privacy_no_sim">"Deze functie kan uw telefoonnummer nodig hebben. Wanneer er een SIM kaart is gedetecteerd kan het nodig zijn om een SMS te versturen om deze functie te activeren. Uw provider kan kosten aanrekenen voor deze SMS.
 
 Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</string>
   <string name="mx_dspt_provision_with_voip">Bel andere MIUI gebruikers gratis met uw internetverbinding. U kunt deze functie in- of uitschakelen op elk gewenst moment in Instellingen. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid</string>
@@ -380,11 +388,10 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetbellen</string>
   <string name="mx_voip_dspt">Mi Stem</string>
-  <string name="network_unconnected">Niet verbonden met het netwerk</string>
+  <string name="network_unconnected">Kon niet verbinden met netwerk</string>
   <string name="next">Volgende</string>
   <string name="noRemind">Mij niet meer herinneren</string>
   <string name="no_sim">Geen SIM kaart gedetecteerd</string>
-  <string name="one_sync_item_close">%d staat uit</string>
   <string name="open_micloud_sync">Schakel synchronisatie met Mi Cloud in</string>
   <string name="other_settings">Overige instellingen</string>
   <string name="other_sync_item">Overige gesynchroniseerde items</string>
@@ -396,7 +403,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="phone_number_may_required_dspt_provision">Deze service kan uw telefoonnummer nodig hebben. "</string>
   <string name="phone_number_required_dspt_provision">"Deze service kan uw telefoonnummer nodig hebben. "</string>
   <string name="photo">"Foto's"</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Alleen contacten sync.' profiel foto\'s wanneer u bent verbonden met een Wi-Fi netwerk"</string>
   <string name="pref_title_sync_contacts_title">Contacten synchroniseren</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">"Foto's alleen over Wi-Fi synchroniseren"</string>
   <string name="privacy_policy">Privacy Beleid</string>
@@ -404,13 +411,13 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="remind_later">Niet nu</string>
   <string name="restoreSync">Nu synchroniseren</string>
   <string name="search_cloudbackup_pref">Cloud Backup</string>
-  <string name="search_cloudbackup_pref_desc">Turn on/off Cloud Backup</string>
+  <string name="search_cloudbackup_pref_desc">Cloud Backup in- of uitschakelen</string>
   <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud backup</string>
-  <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP AND RESTORE</string>
-  <string name="search_finddevice_pref">Find Device</string>
-  <string name="search_finddevice_pref_desc">Turn on/off Find Device</string>
-  <string name="search_finddevice_pref_key_words">finddevice, find device</string>
-  <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/FIND DEVICE</string>
+  <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/Apparaat back-uppen</string>
+  <string name="search_finddevice_pref">Apparaat vinden</string>
+  <string name="search_finddevice_pref_desc">Apparaat vinden in- of uitschakelen</string>
+  <string name="search_finddevice_pref_key_words">Apparaat vinden, Apparaat vinden</string>
+  <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/Apparaat vinden</string>
   <string name="setting">Instellingen</string>
   <string name="settings_backup_title">Backup systeem instellingen</string>
   <string name="share_cancel">Delen geannuleerd</string>
@@ -427,7 +434,6 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sina_token_expired_warning">Weibo account is verlopen: Opnieuw koppelen</string>
   <string name="sina_token_invalid_warning">Weibo account is niet geldig: Opnieuw koppelen</string>
   <string name="sms">Berichten</string>
-  <string name="some_sync_item_close">%d staan uit</string>
   <string name="soundrecorder_sync_only_in_wifi">Enkel Wi-Fi gebruiken om te sync.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder zal geen mobiele data gebruiken om opnames te downloaden of uploaden</string>
   <string name="soundrecorder_sync_records">Sync. met Mi Cloud</string>
@@ -492,7 +498,10 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="view_storage_title">Opslagruimte</string>
   <string name="virtual_sim_desc">Schakel Mi SIM in om apparaat te lokaliseren zonder SIM kaart</string>
   <string name="voip_choose_sim">Kies telefoonnr. om Mi Voice te activeren</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_button_check_sync">Controleren al ze gesync. zijn</string>
+  <string name="wipe_data_dialog_msg">%s waren niet gesync en zullen op telefoon blijven staan.</string>
+  <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
+  <string name="wipe_data_dialog_title">Sommige items zijn niet gesync.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>

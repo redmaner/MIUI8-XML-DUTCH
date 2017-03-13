@@ -1,20 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minuten</item>
-        <item quantity="one">1 minuut</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d minuten</item>
-        <item quantity="one">1 minuut</item>
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d uur</item>
-        <item quantity="one">1 uur</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dagen</item>
-        <item quantity="one">1 dag</item>
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">1 dag geleden</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">Week %d</item>
@@ -30,5 +26,37 @@
     <plurals name="N_remaining_events">
         <item quantity="other">+%d afspraken</item>
         <item quantity="one">+1 afspraak</item>
+    </plurals>
+	<plurals name="Ndays_ago_at">
+        <item quantity="other">%1$d dagen van tevoren om %2$s</item>
+        <item quantity="one">%1$d dag van tevoren om %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">Over %1$d dagen om %2$s</item>
+        <item quantity="one">Over %1$d dag om %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d weken geleden</item>
+        <item quantity="one">1 week geleden</item>
+    </plurals>
+	<plurals name="anniversary_notify_title">
+        <item quantity="other">Jubileum: %2$d jaar sinds %1$s</item>
+        <item quantity="one">Jubileum: %2$d jaar sinds %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Jubileum: %2$d jaar sinds %1$s over 3 dagen</item>
+        <item quantity="one">Jubileum: %2$d jaar sinds %1$s over 3 dagen</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">jaar</item>
+        <item quantity="one">jaar</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">dagen</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">dagen later</item>
+        <item quantity="one">dag later</item>
     </plurals>
 </resources>

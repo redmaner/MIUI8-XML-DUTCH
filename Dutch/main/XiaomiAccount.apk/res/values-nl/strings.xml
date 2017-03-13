@@ -54,11 +54,9 @@
   <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
   <string name="activity_not_found_notice">Kan de app niet vinden</string>
   <string name="add_account">Account verbinden</string>
-  <string name="alert_title_remove_account">Account verwijderen?</string>
   <string name="app_name">Mi Account</string>
   <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
-  <string name="barcode_add_account_prompt">Om een account te verbinden, scan na het aanmelden de QR code.</string>
   <string name="bind_facebook">Facebook account verbinden</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Accounts</string>
@@ -85,12 +83,9 @@
   <string name="continue_action">Doorgaan</string>
   <string name="cta_declaration_agree_and_continue">Akkoord</string>
   <string name="cta_declaration_exit">Afsluiten</string>
-  <string name="cta_declaration_ignore">Niet opnieuw weergeven</string>
   <string name="cta_declaration_message">Om aan te melden bij uw Mi account, moet u verbinding maken met internet. Locatieservices en sync. met Mi Cloud zal worden ingeschakeld. Om uw gegevens te back-uppen, heeft deze app toegang nodig tot uw contactpersonen, berichten, opnames en belgeschiedenis. We zullen uw gegevens niet gebruiken voor commerciële doeleinden of delen met derden. Na aanmelden op uw Mi account, zullen Mi VIP en Mi services verbinding maken met internet.</string>
   <string name="cta_declaration_title">Algemene voorwaarden</string>
   <string name="current_location_title">Huidige locatie</string>
-  <string name="data_keep_in_device">Behouden op dit apparaat</string>
-  <string name="data_wipe_from_device">Verwijderen van dit apparaat</string>
   <string name="delete_action">Verwijderen</string>
   <string name="delete_app">App verwijderen</string>
   <string name="delete_bank_card_message">Uw bankkaart wordt verwijderd vanwege veiligheidsredenen nadat u zich afmeldt</string>
@@ -121,10 +116,13 @@
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
   <string name="find_device_activate_account">Account activeren</string>
   <string name="find_device_bad_response_error">"Kan status niet verkrijgen door serverfout, probeer later opnieuw"</string>
+  <string name="find_device_display_id">Nummer deblokkeren: %s</string>
   <string name="find_device_error_password_not_confirmed">"Kan apparaat vinden niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in."</string>
   <string name="find_device_error_password_recently_changed">"U heeft uw wachtwoord de afgelopen 3 dagen veranderd. Kan nu apparaat vinden niet uitschakelen om veiligheidsredenen."</string>
   <string name="find_device_interrupted">Actie is onderbroken, probeer later opnieuw</string>
   <string name="find_device_io_error">"Kan niet verbinden met het netwerk"</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, gekoppeld e-mailadres: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, gekoppeld telefoonnummer: %s</string>
   <string name="find_device_null_credential_error">"Kan apparaatinfo niet verkrijgen, neem contact op met Xiaomi klantenservice"</string>
   <string name="find_device_operation_failed_error">Er is een fout opgetreden</string>
   <string name="find_device_operation_failed_error_unknown">Er is een fout opgetreden, probeer later opnieuw</string>
@@ -136,6 +134,7 @@
   <string name="forward_to_bind">Toevoegen</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
   <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
+  <string name="guest_account_label">Mi Gast Account</string>
   <string name="ignore">Niet nu</string>
   <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
   <string name="io_error_title">Bevestig uw netwerk</string>
@@ -145,13 +144,13 @@
   <string name="locating_current_location">Lokaliseren</string>
   <string name="location_service_not_working">Locatiedienst werkt niet</string>
   <string name="login_check_find_device">Beveilingsinfo van apparaat verkrijgen…</string>
-  <string name="login_check_find_device_failed_title">Kon apparaat vind status niet controleren</string>
-  <string name="login_find_device_bind">Dit apparaat is gekoppeld met een bestaand Mi Account ID (%s), voer uw wachtwoord in om het apparaat te verifiëren.</string>
-  <string name="login_guard_prompt">Telefoonnummer verificatie vereeist wanneer u zich voor de eerste keer aanmeldt bij uw Mi account op een onbekend apparaat of in een onbekende app .</string>
+  <string name="login_check_find_device_failed_title">Kon veligheidsinfo van apparaat niet controleren</string>
+  <string name="login_find_device_bind">Dit apparaat is gekoppeld met een bestaand Mi Account ID (%s).</string>
+  <string name="login_guard_prompt">Telefoonnummer verificatie vereist wanneer u zich voor de eerste keer aanmeldt bij uw Mi account op een onbekend apparaat of in een onbekende app.</string>
   <string name="logout_failed">Kan niet uitloggen</string>
   <string name="mi_account_identity_title">Verifieer uw identiteit</string>
-  <string name="mi_insurance">Mi Insurance</string>
-  <string name="mi_pass">Mi Pas</string>
+  <string name="mi_insurance">Mi verzekering</string>
+  <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identiteit</string>
   <string name="micloud_space_info">%s beschikbaar</string>
   <string name="mili_center">Mi Credits</string>
@@ -160,6 +159,7 @@
   <string name="multi_user_not_show_sync_activity_message_2">In zo\'n geval, zullen alle gegevens worden gesynchroniseerd met uw tweede ruimte. Om dit te voorkomen, schakel synchronisatie met Mi Cloud niet in</string>
   <string name="multi_user_not_show_sync_activity_title">Schakel synchronisatie met Mi Cloud niet in</string>
   <string name="my_device_title">Huidig apparaat</string>
+  <string name="my_favorite">Mijn favoriet</string>
   <string name="no_network_btn">Vernieuwen</string>
   <string name="no_network_title">Kan geen verbinding maken met netwerk</string>
   <string name="no_response_retry">Geen antwoord, probeer opnieuw.</string>
@@ -169,6 +169,10 @@
   <string name="notify_network_restricted_content_hidden_state">Achtergrondactiviteit van Mi Account is beperkt. Tik om toe te staan.</string>
   <string name="notify_network_restricted_content_mobile_network">Internettoegang van Mi Account is beperkt. Tik om toe te staan.</string>
   <string name="notify_network_restricted_title">Mi Account kon niet verbinden met netwerk</string>
+  <string name="oauth_get_scopes_failed">Kon account info niet verkrijgen</string>
+  <string name="oauth_getting_scopes">Account verifiëren…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; zal volgende toestemming krijgen:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Aanmelden met Mi Account</string>
   <string name="other_devices_title">Andere apparaten</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
   <string name="passport_account_hint_text">E-mailadres of Mi Account ID</string>
@@ -184,6 +188,7 @@
   <string name="passport_auto_generate_pwd">Maak een veilig wachtwoord aan</string>
   <string name="passport_back">Terug</string>
   <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
+  <string name="passport_barcode_add_account_prompt">Om een account te verbinden, scan na het aanmelden de QR code.</string>
   <string name="passport_change_account">Account wijzigen</string>
   <string name="passport_change_phone_number">Wissel van nummer</string>
   <string name="passport_checking_account">Wachtwoord controleren…</string>
@@ -325,11 +330,13 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
   <string name="phone_activated">%s geactiveerd</string>
   <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
-  <string name="qq">QQ</string>
-  <string name="remove_account_notice">Wat wilt u doen met de berichten, contacten en andere gegevens die zijn gesycnhroniseerd van uw Mi Account?</string>
+  <string name="push_notification_content">Verificatiecode krijgen</string>
+  <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
+  <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>
+  <string name="push_notify_dialog_title">Accountverificatie</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
-  <string name="remove_trust_btn">Verwijderen uit betrouwbare apparaten</string>
-  <string name="remove_trust_notice">Verwijderen uit betrouwbare apparaten en afmelden</string>
+  <string name="remove_trust_btn">Verwijderen uit vertrouwde apparaten</string>
+  <string name="remove_trust_notice">Verwijderen uit vertrouwde apparaten en afmelden</string>
   <string name="removing_account">Uitloggen…</string>
   <string name="rename_current_device">Apparaatnaam wijzigen</string>
   <string name="replace_binded_phone">Vervang telefoon</string>
@@ -343,6 +350,32 @@ die verzonden is naar je Postvak In."</string>
   <string name="restart_phone_bind_message">Het kan enige tijd duren om de SMS te ontvangen. Toch opnieuw beginnen?</string>
   <string name="restart_phone_bind_title">Verander hersteltelefoon</string>
   <string name="scan_barcode_title">Om op je Mi account in te loggen, scan de QR code</string>
+  <string name="search_account_protection">Account beveiliging</string>
+  <string name="search_account_protection_desc">Account beveiliging</string>
+  <string name="search_account_protection_key_words">Account beveiliging</string>
+  <string name="search_account_protection_path">Instellingen/Mi Account/Accountbeveiliging</string>
+  <string name="search_app_name">Mi Account</string>
+  <string name="search_bind_Account">Accounts</string>
+  <string name="search_bind_Account_desc">Accounts</string>
+  <string name="search_bind_Account_key_words">Accounts,Sina Weibo,QQ,Authorizatie</string>
+  <string name="search_bind_Account_path">Instellingen/Mi Account/Accounts</string>
+  <string name="search_devices">Apparaten</string>
+  <string name="search_devices_desc">Apparaten</string>
+  <string name="search_devices_key_words">Apparaten</string>
+  <string name="search_devices_path">Instellingen/Mi Account/Apparaten</string>
+  <string name="search_logout_account">Afmelden</string>
+  <string name="search_logout_account_desc">Mi Account</string>
+  <string name="search_logout_account_key_words">Afmelden</string>
+  <string name="search_logout_account_path">Instellingen/Mi Account</string>
+  <string name="search_mi_account">Mi Account</string>
+  <string name="search_mi_account_desc">Mi Account</string>
+  <string name="search_mi_account_key_words">Mi Account,Aanmelden,account aanmaken,Mi Cloud,Mi Credits,Mi Wallet,Mi Pass,Mi Insurance,Account instellingen,Account beheer</string>
+  <string name="search_mi_account_path">Instellingen/Mi Account</string>
+  <string name="search_user_detail">Persoonlijke info</string>
+  <string name="search_user_detail_bottom_key_words">Telefoon wijzigen,E-mail wijzigen,Inkomende wijzigen,Onderwijs wijzigen,Locatie wijzigen,Regio wijzigen</string>
+  <string name="search_user_detail_desc">Persoonlijke info</string>
+  <string name="search_user_detail_path">Instellingen/Mi Account/Persoonlijke info</string>
+  <string name="search_user_detail_top_key_words">Persoonlijke info,Profiel foto wijzigen,Gebruikersnaam wijzigen,Roepnaam wijzigen,Verjaardag wijzigen,Geslacht wijzigen</string>
   <string name="security_question">Kies een vraag</string>
   <string name="security_question_answer">Geef het antwoord</string>
   <string name="security_question_notice_message">Voeg uw telefoon toe voordat je de beveiligingsvragen stelt om te kunnen vragen voor het geval dat u de antwoorden vergat te resetten.</string>
@@ -361,11 +394,10 @@ Zorg ervoor dat u de antwoorden op deze vragen nog weet."</string>
   <string name="trusted_browsers">Vertrouwde browsers</string>
   <string name="trusted_browsers_prompt">Deze browser zal niet langer vertrouwd zijn als u de cookies verwijderd.</string>
   <string name="turn_off_find_device_failed_title">"Kan apparaat vinden niet uitschakelen"</string>
-  <string name="turning_off_find_device">Apparaat vinden uitschakelen…</string>
   <string name="unbind_sns_description">Na verbreking, kan je niet aanmelden op je Mi account met behulp van  %s</string>
   <string name="unlock_help_notice">"Help:
 · Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
-· Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen
+· Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen.
 · Geef dit ontgrendelnummer bij de klantenservice: %s"</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>
@@ -378,7 +410,4 @@ Zorg ervoor dat u de antwoorden op deze vragen nog weet."</string>
   <string name="verified_devices">Apparaten verifiëren</string>
   <string name="verify_phone_prompt">Telefoonnummer selecteren om te verifiëren</string>
   <string name="verify_phone_title">Telefoonnummer verifiëren</string>
-  <string name="wipe_data_dialog_msg">%s wordt verwijderd als u doorgaat.</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Sommige items zijn niet gesynchroniseerd</string>
 </resources>
