@@ -4,7 +4,7 @@
   <string name="app_name">Schermrecorder</string>
   <string name="app_notification_title">Schermrecorder</string>
   <string name="auto_stop_title">Video opgeslagen</string>
-  <string name="battery_not_allowed">Kan niet opnemen wanneer batterij lager is dan 3%%. Zorg ervoor dat de batterij minimaal voor 20%% is opgeladen.</string>
+  <string name="battery_not_allowed" formatted="false">Kan niet opnemen wanneer batterij lager is dan 3%. Zorg ervoor dat de batterij minimaal voor 20% is opgeladen.</string>
   <string name="bit_rate">Videokwaliteit</string>
   <string name="bit_rate_summary">Hogere kwaliteit betekent een groter bestand</string>
   <string name="bubble_text">Tik om te beginnen met opnemen</string>
@@ -14,9 +14,6 @@
   <string name="button_goon_recorder">Hervatten</string>
   <string name="cancel_edit">Annuleren</string>
   <string name="cannot_change_parames">Kan parameters niet wijzigen tijdens opnemen</string>
-  <string name="delete_confirm_text">Deze schermopname verwijderen?</string>
-  <string name="delete_confirm_text_multi1">Schermopnames</string>
-  <string name="delete_confirm_text_multi2">verwijderen?</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
   <string name="frames">Framerate</string>
@@ -39,7 +36,7 @@
   <string name="memory_not_allowed">Niet genoeg ruimte. Maak ruimte vrij om op te nemen.</string>
   <string name="mic_sound">Microfoon</string>
   <string name="no_recorder_info">Geen video\'s</string>
-  <string name="no_recorder_info2">Tik op + om een opname te maken.​</string>
+  <string name="no_recorder_info2">Tik op de knop om een opname te maken​</string>
   <string name="no_sound">Dempen</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_send">Verzenden</string>
