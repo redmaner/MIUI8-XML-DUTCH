@@ -173,19 +173,22 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_confusion_toast_confirm">Apparaat bevestigd</string>
   <string name="micloud_confusion_toast_deny">Aanmelden op uw Mi Account</string>
   <string name="micloud_confusion_yes">Ja</string>
-  <string name="micloud_detail_battery_low_message">Battery is bijna leeg. Laad telefoon op en synchroniseer.</string>
+  <string name="micloud_detail_battery_low">Batterij bijna leeg</string>
+  <string name="micloud_detail_battery_low_message">Batterij is bijna leeg. Laad de telefoon op om te synchroniseren.</string>
   <string name="micloud_detail_battery_low_title">Batterij is bijna leeg</string>
   <string name="micloud_detail_depend_wifi_message">Verbind met Wi-Fi of controleer de synchroniseerinstellingen.</string>
-  <string name="micloud_detail_depend_wifi_title">Wi-Fi vereist</string>
+  <string name="micloud_detail_depend_wifi_title">Verbinden met Wi-Fi</string>
   <string name="micloud_detail_do_not_sync">Niet synchroniseren</string>
   <string name="micloud_detail_download_syncing">%s downloaden</string>
   <string name="micloud_detail_fail">Kan niet sync.</string>
   <string name="micloud_detail_force_sync">Nu synchroniseren</string>
   <string name="micloud_detail_lastest">Gesync.</string>
   <string name="micloud_detail_lastest_with_off">Gesync.</string>
+  <string name="micloud_detail_need_charge">Laad de telefoon op om verder te gaan met synchroniseren</string>
   <string name="micloud_detail_not_sync">%d wacht om te synchroniseren</string>
   <string name="micloud_detail_not_synced">Niet gesynchroniseerd</string>
   <string name="micloud_detail_ok">OK</string>
+  <string name="micloud_detail_pause">Synchronisatie gepauzeerd</string>
   <string name="micloud_detail_pending">In afwachting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"Kon geen info verkrijgen over synchronisatievoortgang"</string>
@@ -196,6 +199,10 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_syncing">Synchroniseren</string>
   <string name="micloud_detail_upload_syncing">%s uploaden</string>
   <string name="micloud_detail_wlan">%d wacht om te sync.</string>
+  <string name="micloud_dialog_sync_now_message">Verbind met Wi-Fi om te voorkomen dat er mobiele data wordt gebruikt</string>
+  <string name="micloud_dialog_sync_now_negative">Niet nu</string>
+  <string name="micloud_dialog_sync_now_positive">Mobiele data gebruiken</string>
+  <string name="micloud_dialog_sync_now_title">Verbind met Wi-Fi om te synchroniseren</string>
   <string name="micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren en om het apparaat te lokaliseren.</string>
   <string name="micloud_dspt_provision">Gebruik Mi Cloud om gegevens te synchroniseren, om het apparaat te lokaliseren en om te delen met vrienden.</string>
   <string name="micloud_find_device_finish">Klaar</string>
@@ -229,6 +236,7 @@ of apparaat te wissen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_battery_low">Batterij te laag om te sync.</string>
   <string name="micloud_main_battery_message">"Verbind apparaat met oplader om te sync."</string>
+  <string name="micloud_main_cancel_sync">Synchronisatie annuleren</string>
   <string name="micloud_main_clear_now">Wissen</string>
   <string name="micloud_main_detail">Detail bekijken</string>
   <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
@@ -254,6 +262,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_suggest_sync">Sommige items zijn niet gesynchroniseerd met Mi Cloud</string>
   <string name="micloud_main_sync_exception">Synchronisatiefout</string>
   <string name="micloud_main_sync_init">Info verkrijgen</string>
+  <string name="micloud_main_sync_need_charge">Laad te telefoon op</string>
   <string name="micloud_main_sync_now">Nu synchroniseren</string>
   <string name="micloud_main_sync_on">Synchronisatie inschakelen</string>
   <string name="micloud_main_sync_on_wifi">Wachten op Wi-Fi</string>
@@ -359,7 +368,7 @@ of apparaat te wissen."</string>
   <string name="micloud_wipe_data_confirm_label">Verwijder data van Mi Cloud</string>
   <string name="micloud_wipe_data_confirm_title">Verwijder items die gesync. zijn met Mi Cloud van de telefoon na afmelden?</string>
   <string name="micloud_wipe_data_remove">Verwijderen</string>
-  <string name="micloud_wipe_data_retain">Laten staan</string>
+  <string name="micloud_wipe_data_retain">Bewaren</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Ongeveer RMB 80 per jaar</string>
@@ -371,7 +380,7 @@ Deze functie versleutelt en verzendt de ID van uw apparaat naar de Mi servers.</
   <string name="mx_dspt_provision_privacy_2_sim">"Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor twee SMS berichten gebruikt om deze functie te activeren.
 
 Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Deze functie kan uw telefoonnummer nodig hebben. Uw provider kan kosten aanrekenen voor een SMS bericht gebruikt om deze functie te activeren wanneer de SIM kaart gedetecteerd is.
+  <string name="mx_dspt_provision_privacy_no_sim">"Deze functie kan uw telefoonnummer nodig hebben. Wanneer er een SIM kaart is gedetecteerd kan het nodig zijn om een SMS te versturen om deze functie te activeren. Uw provider kan kosten aanrekenen voor deze SMS.
 
 Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</string>
   <string name="mx_dspt_provision_with_voip">Bel andere MIUI gebruikers gratis met uw internetverbinding. U kunt deze functie in- of uitschakelen op elk gewenst moment in Instellingen. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid</string>

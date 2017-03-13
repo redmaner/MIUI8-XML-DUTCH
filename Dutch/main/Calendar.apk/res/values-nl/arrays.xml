@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Standaardlandinstelling</item>
-        <item>Zaterdag</item>
-        <item>Zondag</item>
-        <item>Maandag</item>
-    </string-array>
     <string-array name="response_labels1">
         <item>Geen reactie</item>
         <item>Ja</item>
@@ -35,28 +29,58 @@
         <item>Transparant</item>
         <item>Witte achtergrond</item>
     </string-array>
-   <string-array name="default_reminder_labels">
-        <item>Bij start afspraak</item>
-        <item>5 minutes before</item>
-        <item>10 minuten ervoor</item>
-        <item>15 minuten ervoor</item>
-        <item>30 minuten ervoor</item>
-        <item>1 uur ervoor</item>
-        <item>1 dag ervoor</item>
-        <item>2 dagen ervoor</item>
-        <item>1 week ervoor</item>
+	<string-array name="miui_reminder_minutes_labels">
+        <item>Geen herinnering</item>
+        <item>Op tijd van afspraak</item>
+        <item>5 minuten van tevoren</item>
+        <item>10 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>30 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
     </string-array>
-	    <string-array name="prefEntries_alerts_vibrateWhen">
+	<string-array name="miui_preferences_default_reminder_labels">
+        <item>Geen herinnering</item>
+        <item>Op tijd van afspraak</item>
+        <item>5 minuten van tevoren</item>
+        <item>10 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>30 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
+    </string-array>
+	<string-array name="default_reminder_labels">
+        <item>Op tijd van afspraak</item>
+        <item>5 minuten van tevoren</item>
+        <item>10 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>30 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
+    </string-array>
+	<string-array name="preferences_week_start_day_labels">
+        <item>Standaardlandinstelling</item>
+        <item>Zaterdag</item>
+        <item>Zondag</item>
+        <item>Maandag</item>
+    </string-array>
+	<string-array name="prefEntries_alerts_vibrateWhen">
         <item>Altijd</item>
         <item>Alleen indien stil</item>
         <item>Nooit</item>
     </string-array>
 	    <string-array name="travel_reminder_minutes_labels">
-        <item>3 uur ervoor</item>
-        <item>4 uur ervoor</item>
-        <item>5 uur ervoor</item>
-        <item>6 uur ervoor</item>
-        <item>1 dag ervoor</item>
+        <item>3 uur van tevoren</item>
+        <item>4 uur van tevoren</item>
+        <item>5 uur van tevoren</item>
+        <item>6 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>dag</item>
@@ -66,7 +90,7 @@
     </string-array>
     <string-array name="repeat_frequency_spinner_plural">
         <item>dagen</item>
-        <item>weeken</item>
+        <item>weken</item>
         <item>maanden</item>
         <item>jaren</item>
     </string-array>
@@ -143,4 +167,9 @@
         <item>Na een bepaalde datum</item>
         <item>Na een bepaald aantal keer</item>
 	</string-array>	
+	<string-array name="repeat_countdown">
+        <item>Nooit</item>
+        <item>Maandelijks</item>
+        <item>Jaarlijks</item>
+    </string-array>
 </resources>

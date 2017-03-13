@@ -70,7 +70,7 @@
   <string name="error_media_storage_failure">Kon foto niet opslaan</string>
   <string name="error_minute_limit">Teveel pogingen binnen 1 minuut</string>
   <string name="error_permissions">Scanner heeft geen rechten om het normaal te laten werken. Ga naar Instellingen en controleer de toestemmingen om verder te gaan.</string>
-  <string name="error_server_error">Server fout</string>
+  <string name="error_server_error">Serverfout</string>
   <string name="feed_search_fail">Geen resultaten, probeer opnieuw</string>
   <string name="feedback_description_camera_access">Scanner kan niet verbinden met camera</string>
   <string name="feedback_description_save_photo">Kon foto of video niet opslaan</string>
@@ -80,7 +80,14 @@
   <string name="impunity_declaration_content">Deze app moet verbonden zijn met internet en de locatie service om normaal te werken.</string>
   <string name="impunity_declaration_negative_text">Afsluiten</string>
   <string name="impunity_declaration_positive_text">Toestaan</string>
-  <string name="impunity_declaration_title">Service voorwaarden</string>
+  <string name="impunity_declaration_title">Servicevoorwaarden</string>
+  <string name="keywords_search_code">Scanner;Scan;QR code;QR;Herkenning;Barcode;Barcodes;Product;Producten;Alipay;WeChat;Hoe QR code scannen;Hoe barcode scannen;Hoe scannen;MIUI scanner</string>
+  <string name="keywords_search_document">Scanner;Document scannen;Documenten scannen;OCR;Tekst scannen;Scan</string>
+  <string name="keywords_search_namecard">Scanner;Business card;Business cards;Scan;Kaarten scannen;Kaart;Kaarten;Contacten;Contact</string>
+  <string name="keywords_search_settings">Scanner;Scanner netwerkinstellingen</string>
+  <string name="keywords_search_shopping">Shoppen;Scanner;Producten scannen;Product scannen;Prijs checken;Producten;Taobao;Tmall;Prijzen;Online shoppen</string>
+  <string name="keywords_search_study">Scanner;Problemen;Problemen oplossen;Huiswerk;School;Natuurkunde;Scheikunde;Wiskunde;Wiskunde;Engels;Geschiedenis;Chinees</string>
+  <string name="keywords_search_translation">Scanner;Vertalen;Woordenboek;Engels;Vreemde taal;Taal;Talen;Engels naar Chinees;Italiaans;Duits;Japans;Koreaans;Spaans;Frans; Baidu Translate;Youdao Dictionary;Baidu Dictionary;Google Translate</string>
   <string name="language_entry_chinese_cn">Vereenvoudigd Chinees</string>
   <string name="language_entry_chinese_tw">Traditioneel Chinees</string>
   <string name="language_entry_danish">Deens</string>
@@ -116,6 +123,7 @@
   <string name="not_recommend_access_web_url">Verlaten</string>
   <string name="not_tips">Niet meer tonen</string>
   <string name="note">Opmerking:</string>
+  <string name="path_scanner_setting">Systeemapps/Scanner</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telefoon:</string>

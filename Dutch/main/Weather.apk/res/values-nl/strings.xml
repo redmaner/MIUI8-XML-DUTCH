@@ -23,10 +23,10 @@
   <string name="already_voted">Gestemd</string>
   <string name="already_voted_toast">U hebt vandaag reeds gestemd</string>
   <string name="app_name">Weer</string>
-  <string name="aqi_data_source">Mogelijk gemaakt door Caiyun Weather</string>
+  <string name="aqi_data_source">Mogelijk gemaakt door Colorful Clouds</string>
   <string name="aqi_desc">Luchtkwaliteitindex</string>
-  <string name="aqi_detail_24_hours">Weersverwachting per uur</string>
-  <string name="aqi_detail_5_days">Dagelijkse weersverwachting</string>
+  <string name="aqi_detail_24_hours">Weersverwachting voor 24 uur</string>
+  <string name="aqi_detail_5_days">Weersverwachting voor 5 dagen</string>
   <string name="aqi_detail_title">Luchtkwaliteitindex</string>
   <string name="aqi_detail_unit">Eenheid: µg/m³ (CO: mg/m³)</string>
   <string name="aqi_publish_source">Bijgwerkt om %1$s door CNEMC</string>
@@ -42,12 +42,15 @@
   <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="commercial">Reclame</string>
   <string name="common_loading_text">Een momentje…</string>
+  <string name="connect_fail">Netwerkverbinding is abnormaal. Probeer later opnieuw.</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weersverwachting voor %1$s dagen</string>
   <string name="daily_forcast_no_stable_direction">Geen wind</string>
   <string name="daily_forcast_whirl_wind">Wervelwind</string>
-  <string name="daily_forecast_detail">Detail weersvoorspelling</string>
+  <string name="daily_forecast_detail">Details weersvoorspelling</string>
   <string name="daily_forecast_detail_date">d/M</string>
+  <string name="daily_forecast_no_data">"Kon weerinformatie niet verkrijgen
+Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string>
   <string name="edit_alert_city_title">Alarmen beheren</string>
   <string name="edit_city">Stad bewerken</string>
   <string name="first_start_network_msg">Deze app moet verbonden zijn met internet en toegang hebben tot uw locatie om normaal te werken.</string>
@@ -69,6 +72,7 @@
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Zichtbaarheid</string>
+  <string name="information_manager_extension">Weerextensie</string>
   <string name="information_manager_information">Weerinfo</string>
   <string name="information_manager_wlan">Laden wanner verbonden met Wi-Fi</string>
   <string name="information_set">Starten met paginainstellingen</string>
@@ -94,10 +98,13 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="no_vote_ratio">Tegen %1$s%%</string>
   <string name="open">Openen</string>
   <string name="open_browser">Openen in browser</string>
+  <string name="other">Overig</string>
   <string name="realtime_aqi_title">Luchtkwaliteitindex</string>
   <string name="realtime_humidity_title">Relatieve vochtigheid</string>
   <string name="refresh_fail">Kon niet verbinden met netwerk</string>
   <string name="retry">Opieuw proberen</string>
+  <string name="search_weather">Weer</string>
+  <string name="search_weather_keywords">Temperatuur;Weersverwachting;Weer;Luchtkwalitiet;Vervuiling;Vochtigheid</string>
   <string name="set">Instellingen</string>
   <string name="share">Delen</string>
   <string name="share_btn_cancel">Annuleren</string>

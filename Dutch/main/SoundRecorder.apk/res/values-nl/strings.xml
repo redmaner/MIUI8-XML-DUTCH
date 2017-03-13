@@ -35,12 +35,18 @@
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
   <string name="error_sdcard_unmounted">SD kaart losgekoppeld, steek de SD-kaart in</string>
   <string name="export_to_note">Exporteren als notitie</string>
+  <string name="head_set_tip_dialog_msg">Koppel koptelefoon los om geluid op te nemen met bepaalde presets (bijv. muziek, spraak).</string>
+  <string name="head_set_tip_dialog_ok">Begrepen</string>
+  <string name="head_set_tip_dialog_title">Interne microfoon gebruiken</string>
   <string name="invalid_argument">Ongeldig argument</string>
+  <string name="keywords_search_call_record">Oproepen opnemen;Oproep opnemen;Oproepopname;Oproepopnames</string>
+  <string name="keywords_search_record">Nieuwe opname;Opname toevoegen;Opname;Opnames;Transcript;Transcribe;Recorder;Spraakrecorder;Geluidrecorder;Recorderapp;Recording app;Hoe neem ik op;Hoe neem ik geluid op;Waar is de recorder;MIUI Recorder</string>
+  <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Opnemen;Opname delen;Opnames delen;Opname;Opnames</string>
   <string name="low_battery_error">Minder dan 5% batterij over. Stop en sla uw opname op om er zeker van te zijn dat deze niet verloren gaat.</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Batterij laag</string>
   <string name="mark_point_list_title">Markeringen</string>
-  <string name="message_file_size_error">Opname heeft de maximale ondersteunde opnametijd bereikt voor %s</string>
+  <string name="message_file_size_error">Opname heeft de maximale opnametijd van %s bereikt</string>
   <string name="network_tip_dialog_cancel">Annuleren</string>
   <string name="network_tip_dialog_content">Spraakherkenning heeft verbinding met internet nodig om normaal te werken.</string>
   <string name="network_tip_dialog_ok">Toestaan</string>
@@ -79,6 +85,7 @@
   <string name="recognition_error_internal">Interne fout</string>
   <string name="recognition_error_stopped">Herkenning gestopt</string>
   <string name="recognition_status_downloading">Downloaden</string>
+  <string name="record">Opnemen</string>
   <string name="record_back_pressed_hint">Druk op vorige om opname te stoppen</string>
   <string name="record_download">Downloaden van Mi Cloud</string>
   <string name="record_download_complete">Gedownload</string>

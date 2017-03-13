@@ -82,6 +82,7 @@
   <string name="feedback_status_commit_failed_title">Kon rapport niet verzenden</string>
   <string name="feedback_status_commit_succ_title">Verzonden</string>
   <string name="feedback_status_commit_uploading_title">Versturen…</string>
+  <string name="feedback_status_forum_reply">Beantwoorden</string>
   <string name="feedback_status_jira_comment">Opmerking toevoegen</string>
   <string name="feedback_status_more">Details</string>
   <string name="feedback_status_processing">Verwerken…</string>
@@ -89,6 +90,7 @@
   <string name="feedback_status_replyed">Beantwoord</string>
   <string name="feedback_status_reresolved">Opgelost</string>
   <string name="feedback_status_supplement">Beschrijf de details van je probleem</string>
+  <string name="feedback_status_supplement_more">Opmerking toevoegen</string>
   <string name="feedback_submit_failed_notification_desc">Bekijk details</string>
   <string name="feedback_submit_failed_notification_retry">Verstuur opnieuw</string>
   <string name="feedback_submit_failed_notification_title">Kon rapport niet verzenden</string>
@@ -220,6 +222,7 @@
   <string name="non_system_app_select">Gedownloade apps</string>
   <string name="open_feedback_main">Meer</string>
   <string name="packaging_dialog_content">Rapport aanmaken…</string>
+  <string name="permission_granted">%1$s toegang gegeven</string>
   <string name="pic_not_exist">Deze afbeelding bestaaat niet</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">Uw geselecteerde feedback, samen met error logs, zullen worden verzonden naar de Mi servers.</string>
@@ -232,7 +235,7 @@
   <string name="related_question_answer_details">Verwant probleem</string>
   <string name="reply">Beantwoorden</string>
   <string name="reply_failed">kon niet antwoorden</string>
-  <string name="reply_successful">Met succes beantwword</string>
+  <string name="reply_successful">Met succes beantwoord</string>
   <string name="report_miui">Bug rapporteren</string>
   <string name="request_empty_data">Geen gegevens</string>
   <string name="save_pic">Opslaan</string>
@@ -254,11 +257,13 @@
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">Mijn rapporten</string>
   <string name="tab_title_report">Feedback</string>
+  <string name="time_in_justnow">Zojuist</string>
   <string name="title_answer_feedback_main">We hebben antwoord gevonden!</string>
+  <string name="title_bbs_feedback_main">Meer leren over Mi telefoons</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes dichtbij</string>
   <string name="title_nonsystem_app">Andere apps</string>
-  <string name="title_same_question_feedback_main">Vergelijkbare problemen in de MIUI forum</string>
+  <string name="title_same_question_feedback_main">Vergelijkbare problemen op het MIUI forum</string>
   <string name="title_system_app">MIUI apps</string>
   <string name="toast_description_required">Omschrijving is vereist</string>
   <string name="toast_feedback_collect_store">Logs aan het verzamelen…</string>
@@ -272,7 +277,7 @@
   <string name="toast_module_required">Selecteer item</string>
   <string name="toast_network_unavailable">Kon niet verzenden. Kan niet verbinden met netwerk</string>
   <string name="toast_pending_log_collection">Er komen nog steeds logs binnen…</string>
-   <string name="toast_pic_not_exists">De gecachde afbeelding is verwijderd</string>
+   <string name="toast_pic_not_exists">De gecachete afbeelding is verwijderd</string>
   <string name="toast_post_deleted">Dit onderwerp bestaat niet, is verwijderd of bewerkt</string>
   <string name="toast_problem_class_required">Selecteer categorie</string>
   <string name="toast_report_copied_to_clipboard">Rapport gekopieerd naar het klembord</string>

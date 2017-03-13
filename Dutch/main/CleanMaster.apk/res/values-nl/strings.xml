@@ -26,6 +26,7 @@
   <string name="activity_title_white_list">Uitzonderingen</string>
   <string name="ad_install_success_dialog_lunch">Openen</string>
   <string name="ad_install_success_dialog_title">%1$s met succes geïnstalleerd. Nu openen?</string>
+  <string name="analying">Analyseren…</string>
   <string name="apk_status_damage">Corrupt</string>
   <string name="apk_status_duplicate">Dupliceer</string>
   <string name="apk_status_install">Geïnstalleerd</string>
@@ -143,6 +144,8 @@
   <string name="deepclean_video_content">Reeds bekeken of onnodige video\'s verwijderen</string>
   <string name="deepclean_video_summary_empty">Alles ziet er goed uit</string>
   <string name="default_cache_type">Databestanden</string>
+  <string name="delete_confirm">Verwijderen</string>
+  <string name="delete_confirm_msg">Alle geselecteerde bestanden permanent verwijderen?</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Foto\'s ook van Mi Cloud verwijderen</string>
   <string name="dialog_content_select_all_confirm">Kopie bewaren van deze foto?</string>
   <string name="dialog_msg_add_white_list_error">Kan dit bestand niet toevoegen aan uitzonderingen</string>
@@ -177,8 +180,10 @@
   <string name="empty_title_photos">Geen foto\'s gevonden</string>
   <string name="empty_title_residual">Geen restanten gevonden</string>
   <string name="empty_title_video">Geen video\'s om te verwijderen​</string>
+  <string name="file">Bestanden</string>
+  <string name="file_not_found">Bestand niet gevonden</string>
   <string name="flow_rank_title">Datagebruik</string>
-  <string name="function_app_lock_title">%d apps bevatten privacy risico\'s</string>
+  <string name="function_app_lock_title">%d apps bevatten privacyrisico\'s</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_cleanup_detail">%1$d keer, %2$s opgeruimd</string>
   <string name="garbage_month">%s opgeruimd deze maand</string>
@@ -261,6 +266,7 @@
   <string name="label_preserve_the_best_image">Bewaar de scherpste foto\'s</string>
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
   <string name="load_only_under_wlan">Nieuws laden wanneer verbonden met Wi-Fi</string>
+  <string name="location_not_found">Kon bestand niet vinden</string>
   <string name="login_immediately">Aanmelden</string>
   <string name="long_click_dialog_summary">Lang drukken om toe te voegen aan uitzonderingen.</string>
   <string name="long_click_dialog_title">Melding</string>
@@ -273,7 +279,6 @@
   <string name="low_memory_warning_dialog_title">Niet genoeg opslagruimte</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
-  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Controleren op updates…</string>
@@ -300,8 +305,10 @@
   <string name="open">Inschakelen</string>
   <string name="open_app">Openen</string>
   <string name="open_browser">Openen in browser</string>
+  <string name="open_file_error">Kon de app niet vinden om dit bestand te openen</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
+  <string name="output_videos">Export video\'s</string>
   <string name="petabyteShort">PB</string>
   <string name="positive_confirm">Ok</string>
   <string name="pref_category_title_auto_clean_settings">Automatisch opruimen</string>
@@ -431,6 +438,7 @@
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virusscan</string>
   <string name="vungle_ad_name">Vungle advertentie</string>
+  <string name="wechat_add_to_cleanlist">Succesvol opgeruimd</string>
   <string name="white_list_ad_header">Verouderde bestanden: %d</string>
   <string name="white_list_apk_header">Installatiepakketten: %d</string>
   <string name="white_list_cache_header">Gecachete bestanden: %d</string>

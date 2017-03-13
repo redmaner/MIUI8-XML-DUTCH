@@ -88,8 +88,8 @@
   <string name="bluetooth_headset_profile_summary_use_for">Gebruik voor telefoonaudio</string>
   <string name="bluetooth_hid_profile_summary_connected">Verbonden met invoerapparaat</string>
   <string name="bluetooth_hid_profile_summary_use_for">Gebruik voor invoer</string>
-  <string name="bluetooth_map_profile_summary_connected">Verbonden met map</string>
-  <string name="bluetooth_map_profile_summary_use_for">Gebruik voor map</string>
+  <string name="bluetooth_map_profile_summary_connected">Verbonden met MAP</string>
+  <string name="bluetooth_map_profile_summary_use_for">Gebruik voor MAP</string>
   <string name="bluetooth_opp_profile_summary_connected">Verbonden met file transfer server</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Niet verbonden met file transfer server</string>
   <string name="bluetooth_opp_profile_summary_use_for">Gebruik voor file transfer</string>
@@ -212,6 +212,10 @@
   <string name="not_support_multi_window">Huidige app ondersteund split-screen modus niet</string>
   <string name="notification_header_title">Meldingen</string>
   <string name="notification_hidden_text">Inhoud verborgen</string>
+  <string name="notification_low_battery_action_btn">Inschakelen</string>
+  <string name="notification_low_battery_need_charge">Batterij is bijna leeg. Laad uw apparaat op.</string>
+  <string name="notification_low_battery_open_save_mode">Batterijbespaarder inschakelen</string>
+  <string name="notification_low_battery_title">Batterij bijna leeg: %d%%</string>
   <string name="notification_manager">Meldingen beheren</string>
   <string name="notification_manager_des">Meldingen filteren en beheren</string>
   <string name="notification_otg_gamestick_in">Game controller verbonden</string>
@@ -259,7 +263,7 @@
   <string name="screen_pinning_positive">Begrepen</string>
   <string name="screen_pinning_title">Scherm is gepint</string>
   <string name="screenshot_delete">Verwijderen</string>
-  <string name="screenshot_delete_dlg_msg">Bent u er zeker van dat u deze schermafdruk wenst te verwijderen?</string>
+  <string name="screenshot_delete_dlg_msg">Weet u zeker dat u deze schermafdruk wilt verwijderen?</string>
   <string name="screenshot_delete_dlg_title">Verwijderen</string>
   <string name="screenshot_dlg_cancel">Annuleren</string>
   <string name="screenshot_dlg_delete_button">Verwijderen</string>

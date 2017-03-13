@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_in_day">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="one">"%1$d dag geleden "</item>
+    </plurals>
+    <plurals name="time_in_hour">
+        <item quantity="other">%1$d uur geleden</item>
+        <item quantity="one">"%1$d uur geleden "</item>
+    </plurals>
+    <plurals name="time_in_minute">
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
+    </plurals>
+    <plurals name="time_in_second">
+        <item quantity="other">%1$d seconden geleden</item>
+        <item quantity="one">%1$d seconde geleden</item>
+    </plurals>
+</resources>

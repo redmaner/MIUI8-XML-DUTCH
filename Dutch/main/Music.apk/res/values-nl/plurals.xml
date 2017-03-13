@@ -52,6 +52,10 @@
         <item quantity="other">%d nummers verwijderen?</item>
         <item quantity="one">%d nummer verwijderen?</item>
     </plurals>
+	<plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">%d nummers van Mi Cloud verwijderen?</item>
+        <item quantity="one">%d nummer van Mi Cloud verwijderen?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d nummers toegevoegd aan afspeellijst</item>
         <item quantity="one">Nummer toegevoegd aan afspeellijst</item>
@@ -92,4 +96,31 @@
         <item quantity="other">%d volgers</item>
         <item quantity="one">%d volger</item>
     </plurals>
+	<plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d nummers zijn niet geback-upt (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d nummer is niet geback-upt (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Back-up %1$d nummers (%2$.1fMB)</item>
+        <item quantity="one">Back-up %1$d nummer (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Nummers back-uppen, %1$d nummers resterend (%2$.1fMB)</item>
+        <item quantity="one">Nummers back-uppen, %1$d nummer resterend (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d nummers zijn niet geback-upt naar Mi Cloud. Nu stoppen?</item>
+        <item quantity="one">%d nummer is niet geback-upt naar Mi Cloud. Nu stoppen?</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Gemaakt op %1$s | %2$d nummers totaal</item>
+        <item quantity="zero">Gemaakt op %1$s | %2$d nummers totaal</item>
+        <item quantity="one">Gemaakt op %1$s | %2$d nummer totaal</item>
+    </plurals>
+	<plurals name="Nalbum_total_songs">
+        <item quantity="other">%d nummers totaal</item>
+        <item quantity="zero">%d nummers totaal</item>
+        <item quantity="one">%d nummer totaal</item>
+    </plurals>
+
 </resources>

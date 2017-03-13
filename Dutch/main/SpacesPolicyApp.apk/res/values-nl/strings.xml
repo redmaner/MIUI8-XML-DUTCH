@@ -2,6 +2,8 @@
 <resources>
   <string name="admin_receiver_status_disable_warning">De Secure Spaces apparaat admin zal opnieuw ingeschakeld worden wanneer of later nodig is.</string>
   <string name="app_name">Secure Spaces Agent</string>
+  <string name="btn_title_cancel">Annuleren</string>
+  <string name="btn_title_force">Forceren</string>
   <string name="choice_no">Nee</string>
   <string name="choice_yes">Ja</string>
   <string name="dialog_download_space_cancel">Annuleren</string>
@@ -33,10 +35,12 @@
   <string name="pref_desc_sscm_address">Adres van de SSCM Server</string>
   <string name="pref_desc_sscm_mailbox">Mailbox ID op SSCM</string>
   <string name="pref_desc_sss_address">Adres van de SSM Server</string>
+  <string name="pref_desc_sscm_force_connection">De SSCM websocket opnieuw laten verbinden</string>
   <string name="pref_title_in_progress_policy">Beleid in behandeling</string>
   <string name="pref_title_last_applied_policy">Laatst teogepaste policy</string>
   <string name="pref_title_policy_delay">Beleid vertraging</string>
   <string name="pref_title_sscm_address">SSCM adres</string>
+  <string name="pref_title_sscm_force_connection">SSCM verbinding forceren</string>
   <string name="pref_title_sscm_mailbox">SSCM Mailbox Id</string>
   <string name="pref_title_sss_address">SSMS adres</string>
   <string name="progress_notification_text">Ruimte update bezig…</string>

@@ -36,7 +36,7 @@
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="antispam_setting">Zwarte lijst</string>
   <string name="apn_settings">Namen toegangspunten</string>
-    <string name="atr_disable">Verkeersberichten uitgeschakeld</string>
+  <string name="atr_disable">Verkeersberichten uitgeschakeld</string>
   <string name="atr_enable">Verkeersberichten ingeschakeld</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Handset oortje</string>
@@ -126,6 +126,7 @@
   <string name="call_barring_outgoing">Uitgaande gesprekken geblokkeerd</string>
   <string name="call_barring_sum">Gespreksblokkering instellingen</string>
   <string name="call_description_recording">Oproep opnemen…</string>
+  <string name="call_forward_option">Oproepen doorschakelen</string>
   <string name="call_forwarding_number_hint">Oproepen doorschakelen naar</string>
   <string name="call_forwarding_settings">Instellingen voor oproepen doorschakelen</string>
   <string name="call_forwarding_settings_with_label">Instellingen voor oproepen doorschakelen (%s)</string>
@@ -232,7 +233,7 @@
   <string name="change_password">Verander wachtwoord voor afbuigen</string>
   <string name="change_pin">SIM PIN code wijzigen</string>
   <string name="change_pin2">PIN 2 code wijzigen</string>
-   <string name="chose_product_summary">Bel goedkoper</string>
+  <string name="chose_product_summary">Bel goedkoper</string>
   <string name="chose_product_title">Pakket herladen</string>
   <string name="clir_choices_hide_number">Verberg nummer</string>
   <string name="clir_choices_network_default">Netwerk standaard</string>
@@ -266,6 +267,8 @@
   <string name="contactdeleteSuccess">Contact verwijderd van SIM.</string>
   <string name="corporate_unlock_failed">SIM fabrieksontgrendeling gefaald.</string>
   <string name="corporate_unlock_success">SIM fabrieksontgrendeling gelukt.</string>
+  <string name="crescendo_ringer_summary">Beltoonvolume zal geleidelijk toenemen tot het ingestelde niveau</string>
+  <string name="crescendo_ringer_title">Toenemend beltoonvolume</string>
   <string name="cursorError">Cursorfout</string>
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
@@ -310,7 +313,8 @@
   <string name="disable_fdn">FDN uitschakelen</string>
   <string name="disable_fdn_ok">FDN inschakelen</string>
   <string name="disable_pin_ok">PIN gewist</string>
-  <string name="disable_sim_pin">Wis SIM PIN</string>
+  <string name="disable_sim_pin">SIM PIN wissen</string>
+  <string name="disabled_by_admin">Uitgeschakeld door beheerder</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Naam weergeven</string>
   <string name="domain_address_title">Server</string>
@@ -370,6 +374,7 @@
   <string name="enable_video_calling_dialog_msg">Om video-oproepen in te schakelen, moet u geavanceerde 4G LTE modus inschakelen in de netwerkinstellingen.</string>
   <string name="enable_video_calling_dialog_settings">Netwerkinstellingen</string>
   <string name="enable_video_calling_title">Video-oproepen inschakelen</string>
+  <string name="enabled_by_admin">Ingeschakeld door beheerder</string>
   <string name="enhanced_4g_lte_mode_off_failed">Kon VoLTE niet uitschakelen.</string>
   <string name="enhanced_4g_lte_mode_on_failed">Kon VoLTE niet inschakelen.</string>
   <string name="enhanced_4g_lte_mode_summary">Gebruik de LTE diensten om spraak- en andere communicatie te verbeteren (aanbevolen)</string>
@@ -486,6 +491,8 @@
   <string name="labelCFNRc">Bij onbereikbaar</string>
   <string name="labelCFNRy">Bij onbeantwoord</string>
   <string name="labelCFU">Altijd doorschakelen</string>
+  <string name="labelCFVideo">Video</string>
+  <string name="labelCFVoice">Spraak</string>
   <string name="labelCW">Wisselgesprek</string>
   <string name="labelCallerId">Beller ID</string>
   <string name="labelCbCancelAll">Oproepen blokkeren uitschakelen</string>
@@ -720,6 +727,7 @@ Dit kan tot 5 minuten duren."</string>
   <string name="path_caller_id_title">Systeemapps/Telefoon/Geavanceerde instellingen/Beller ID</string>
   <string name="path_cloud_antispam_title">Systeemapps/Telefoon/Onbekende nummers identificeren</string>
   <string name="path_connect_disconnect_vibrate_title">Systeemapps/Telefoon/Geavanceerde instellingen/Trillen wanneer oproep beantwoordt wordt</string>
+  <string name="path_crescendo_ringer_title">Systeemapps/Telefoon/Inkomende oproep instellingen/Toenemend beltoonvolume</string>
   <string name="path_dtmf_tones_title">Systeemapps/Telefoon/Geavanceerde instellingen/DTMF geluiden</string>
   <string name="path_enable_antispam_strange_title">Systeemapps/Telefoon/Inkomende oproep instellingen/Eerste bel dempen</string>
   <string name="path_enable_proximity_title">Systeemapps/Telefoon/Inkomende oproep instellingen/Proximity sensor</string>
@@ -955,7 +963,7 @@ U hebt nog %d pogingen over."</string>
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Naam</string>
   <string name="sim_contact_number">Nummer</string>
-  <string name="sim_description_default">SIM card %s</string>
+  <string name="sim_description_default">SIM kaart %s</string>
   <string name="sim_description_emergency_calls">Alleen noodoproepen</string>
   <string name="sim_label_emergency_calls">Noodoproepen</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
@@ -981,8 +989,10 @@ U hebt nog %d pogingen over."</string>
   <string name="sip_edit_title">SIP accountdetails</string>
   <string name="sip_menu_discard">Annuleren</string>
   <string name="sip_menu_save">Opslaan</string>
+  <string name="sip_profile_create_error">Kan geen nieuw SIP profiel aanmaken</string>
   <string name="sip_receive_calls">Inkomende gesprekken ontvangen</string>
   <string name="sip_receive_calls_summary">Verbruikt meer batterij</string>
+  <string name="sip_save_register_error">Kan nieuwe SIP profiel niet opslaan en registreren</string>
   <string name="sip_settings">SIP instellingen</string>
   <string name="sip_system_decide">Automatisch</string>
   <string name="sp_unlock_failed">SIM Service Provider ontgrendelingsverzoek gefaald.</string>

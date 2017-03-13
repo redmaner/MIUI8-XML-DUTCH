@@ -168,6 +168,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="auto_task_notify_task_cancel_count_down">Geautomatiseerde actie zal worden geannuleerd in 5 seconden</string>
   <string name="auto_task_notify_task_cancel_do">Actie annuleren</string>
   <string name="auto_task_notify_task_canceled_summary">U kan oproepen maken en ontvangen</string>
+  <string name="auto_task_notify_task_canceled_summary2">Het lijkt erop dat u een game aan het spelen bent.</string>
   <string name="auto_task_notify_task_canceled_title">Actie is geannuleerd</string>
   <string name="auto_task_notify_task_continue_do">Actie starten</string>
   <string name="auto_task_notify_task_count_down">Geautomatiseerde actie zal starten in 5 seconden</string>
@@ -569,7 +570,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="hot">Populair</string>
   <string name="hot_today">Populair vandaag</string>
   <string name="info_and_call">Gesprekken en berichten</string>
-  <string name="information_setting">Nieuwsfeed instellingen</string>
+  <string name="information_setting">Aanbevelingen</string>
   <string name="input_aviable_traffic">Datalimiet instellen</string>
   <string name="input_traffic_pkg">Voer dataverbruik in</string>
   <string name="input_used_hint">Voer dataverbruik in</string>
@@ -616,7 +617,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="legal_workday_message">(Vakanties overslaan)</string>
   <string name="list_empty_text">Leeg</string>
   <string name="load_fail">Kon het niet laden</string>
-  <string name="load_only_under_wlan">Nieuws laden wanneer verbonden met Wi-Fi</string>
+  <string name="load_only_under_wlan">Alleen laden wanneer verbonden met Wi-Fi</string>
   <string name="local_ip_exception_summary">Kon openbaar IP-adres niet verkrijgen. Om dit probleem aan MIUI melden, gaat u naar de Rapporteer Bug app en stuur een log van uw toestel.</string>
   <string name="lock_mode_title">Vergrendelinstellingen</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s gebruikt op vergrendelscherm</string>
@@ -814,6 +815,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
   <string name="notification_item">Bescherm geselecteerde apps met appvergrendeling</string>
+  <string name="notification_quick_charging_title">Snelladen (quick charging)</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
   <string name="notification_sysapp_cracked_text">De huidige versie van MIUI is aangepast</string>
@@ -839,12 +841,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="open_now">App toelaten om mobiele data te gebruiken</string>
   <string name="operator_diagnostic">Provider diagnose</string>
   <string name="operator_mi_sim">Mi SIM</string>
-  <string name="operator_name_cmcc">China Mobile</string>
-  <string name="operator_name_telcom">China Telecom</string>
-  <string name="operator_name_unicom">China Unicom</string>
-  <string name="operator_number_cmcc">10086</string>
-  <string name="operator_number_telcom">10000</string>
-  <string name="operator_number_unicom">10010</string>
+  <string name="optimize_result_ads_close_text">Advertentie</string>
   <string name="optimize_result_button_cloudspace">Cloudopslag toevoegen</string>
   <string name="optimize_result_button_consume_power_analysis">Batterij scannen</string>
   <string name="optimize_result_button_cooldown_now">Afkoelen</string>
@@ -1105,7 +1102,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="recently_reject_message">Installatie van %1$s en %2$d andere apps geweigerd</string>
   <string name="recently_reject_message_one">%1$s installatieverzoeken geweigerd</string>
   <string name="recommend_app">Aanbevolen apps</string>
-  <string name="recommend_news">Aanbevolen bronnen</string>
+  <string name="recommend_news">Aanbevelingen ontvangen</string>
   <string name="recommended">Aanbevolen</string>
   <string name="reject_all">Alle beperken</string>
   <string name="reject_countdown">Weigeren (%d)</string>
@@ -1223,6 +1220,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="showpattern">Patroon weergeven</string>
   <string name="shutdown_cancel_reminder">Werd niet uitgeschakeld</string>
   <string name="shutdown_cancel_reminder_detail">Werd niet uitgeschakeld omdat u aan het bellen was</string>
+  <string name="shutdown_cancel_reminder_detail2">Het lijkt erop dat u een game aan het spelen bent. Uw telefoon zal niet uitschakelen volgens schema.</string>
   <string name="shutdown_time">Uitschakelen: %1$s</string>
   <string name="shutdown_time_day">Uitschakelen: %1$dd om %2$s</string>
   <string name="shutdown_time_day_tomorrow">Uitschakelen: %1$s</string>
@@ -1564,9 +1562,9 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_setting_open">Aan</string>
   <string name="traffic_setting_step_num">Instellingen Data plan</string>
   <string name="traffic_warning_purchase_title">Mobiele data verbruikswaarschuwing</string>
-  <string name="try_recommended_function">Bescherm uw toestel door gebruik van de nieuwe veiligheidsfuncties</string>
-  <string name="unable_connect_internet">Geen internet verbinding</string>
-  <string name="uninstall_app_dialog_msg">Verwijderen zal alle app data verwijderen.</string>
+  <string name="try_recommended_function">Bescherm uw toestel door gebruik te maken van de nieuwe veiligheidsfuncties</string>
+  <string name="unable_connect_internet">Geen internetverbinding</string>
+  <string name="uninstall_app_dialog_msg">Verwijderen zal alle appdata verwijderen.</string>
   <string name="uninstall_app_dialog_title">Nu verwijderen?</string>
   <string name="uninstall_app_done">Met succes verwijderd</string>
   <string name="unlike">Nee bedankt</string>

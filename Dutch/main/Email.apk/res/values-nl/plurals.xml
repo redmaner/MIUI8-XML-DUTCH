@@ -52,6 +52,18 @@
         <item quantity="other">%1$d conversaties aangegeven als spam.</item>
         <item quantity="one">%1$d conversatie aangegeven als spam.</item>
     </plurals>
+	<plurals name="day">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">Over %d dagen</item>
+        <item quantity="one">Over %d dag</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">%d dag geleden</item>
+    </plurals>
     <plurals name="draft">
         <item quantity="other">Concepten</item>
         <item quantity="one">Concept</item>
@@ -59,6 +71,10 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d berichten worden permanent verwijderd.</item>
         <item quantity="one">%1$d bericht wordt permanent verwijderd.</item>
+    </plurals>
+	<plurals name="month">
+        <item quantity="other">%d maanden</item>
+        <item quantity="one">%d maand</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">%1$d conversaties verplaatsen</item>
