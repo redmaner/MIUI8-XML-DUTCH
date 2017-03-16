@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Instellingen opruimer</string>
   <string name="Settings_title_network_assistants">Instellingen dataverbruik</string>
   <string name="Settings_title_power_center">Batterij-instellingen</string>
+  <string name="about_autostart">Over automatisch opstarten</string>
   <string name="ac_enable_title">Appvergrendeling inschakelen</string>
   <string name="ac_enter_applock">Appvergrendeling openen</string>
   <string name="ac_firstUseApplock_subTitle">Betere systeem-niveau bescherming tools gebruiken</string>
@@ -442,6 +443,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="disable_air_mode">Vliegmodus eerst uitschakelen</string>
   <string name="dns_exception_summary">Controleer de router DNS instellingen.</string>
   <string name="dns_exception_title">Controleer de DNS instellingen</string>
+  <string name="domestic_roaming_setting">Nationale roaming</string>
   <string name="download">Download</string>
   <string name="downloading">Downloaden</string>
   <string name="dual_setting_simcard1">SIM kaart 1</string>
@@ -521,6 +523,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="hide_mode_app_background_setting_text">App batterijbespaarder</string>
   <string name="hide_mode_summary_text">De achtergrondactiviteit van apps beheren om batterij te besparen</string>
   <string name="hide_mode_title_text">Verbergen</string>
+  <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="hints_auto_start_warning_info">Als je automatisch starten verbiedt, zullen sommige apps en services niet in staat zijn om meldingen te ontvangen.</string>
   <string name="hints_cleanning_done">Met succes gescand</string>
   <string name="hints_cleanning_text">Opruimen…</string>
@@ -815,6 +818,8 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
   <string name="notification_item">Bescherm geselecteerde apps met appvergrendeling</string>
+  <string name="notification_mask_summary">Inhoud van meldingen niet weergeven op vergrendelscherm en in de notificatiebalk</string>
+  <string name="notification_mask_title">Inhoud verbergen</string>
   <string name="notification_quick_charging_title">Snelladen (quick charging)</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
@@ -950,8 +955,8 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_rank_title">Batterijverbruik</string>
-  <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-  <string name="power_consume_total_software">Apps: %1$d%%</string>
+  <string name="power_consume_total_hardware">Hardware: %s</string>
+  <string name="power_consume_total_software">Apps: %s</string>
   <string name="power_customize_giveup_change">Wijzigingen annuleren?</string>
   <string name="power_dialog_cancel">Annuleren</string>
   <string name="power_dialog_ok">OK</string>
@@ -1215,6 +1220,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="settings_title_payment_security">Beveiligde betalings instellingen</string>
   <string name="settings_title_permission">Instellingen toestemmingen</string>
   <string name="share">Delen</string>
+  <string name="show_system_app">Systeemapps tonen</string>
   <string name="show_traffic_dialog_message">Uw dataverbruik informatie wordt weergegeven op het notificatiescherm. U kunt deze functie op elk gewenst moment in- of uitschakelen in Datagebruik &gt; Instellingen</string>
   <string name="show_traffic_dialog_title">Het verbruik weergeven op het notificatiescherm</string>
   <string name="showpattern">Patroon weergeven</string>
@@ -1594,9 +1600,10 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="usbsharenet_exception_title">Test gedeelt netwerk via USB</string>
   <string name="usbsharenet_pc_exception_summary">Kan geen verbinding maken met internet via een gedeelde USB aansluiting. Controleer de internetverbinding van uw computer.</string>
   <string name="use_immediately">Gebruiken</string>
+  <string name="virus_ad_icon_text">Advertentie</string>
   <string name="virus_already_update">Definities zijn up to date</string>
   <string name="virus_dp_update_title">Definitie updates</string>
-  <string name="virus_scan">Virus scan</string>
+  <string name="virus_scan">Virusscan</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_fail">Kon niet updaten</string>
   <string name="virus_update_success">Met succes geupdate</string>

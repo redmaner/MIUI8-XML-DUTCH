@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d minuten van tevoren</item>
+        <item quantity="one">1 minuut van tevoren</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur van tevoren</item>
+        <item quantity="one">1 uur van tevoren</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dagen geleden</item>
-        <item quantity="one">1 dag geleden</item>
+        <item quantity="other">%d dagen van tevoren</item>
+        <item quantity="one">1 dag van tevoren</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">Week %d</item>
@@ -36,8 +36,8 @@
         <item quantity="one">Over %1$d dag om %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d weken geleden</item>
-        <item quantity="one">1 week geleden</item>
+        <item quantity="other">%d weken van tevoren</item>
+        <item quantity="one">1 week van tevoren</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
         <item quantity="other">Jubileum: %2$d jaar sinds %1$s</item>
@@ -56,7 +56,7 @@
         <item quantity="one">dag</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">dagen over</item>
-        <item quantity="one">dag over</item>
+        <item quantity="other">dagen te gaan</item>
+        <item quantity="one">dag te gaan</item>
     </plurals>
 </resources>
