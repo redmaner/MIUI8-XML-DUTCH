@@ -29,7 +29,7 @@
   <string name="activity_stb_list_title">Selecteer top-set box</string>
   <string name="actor_intro_title_text">Cast</string>
   <string name="add">Toevoegen</string>
-  <string name="add_control">Afstandsbediening toevoegen</string>
+  <string name="add_control">IR afstandsbediening</string>
   <string name="add_control_frame">Afstandsbediening toevoegen</string>
   <string name="add_device">Apparaat toevoegen</string>
   <string name="add_device_match_desc_bottom">    3. Kies %1$s om verbinding te verifiëren</string>
@@ -56,7 +56,7 @@
   <string name="apk_file_list_view_header">Een totaal van %d pakketten</string>
   <string name="apk_files_list_title">Lokaal installatiepakket</string>
   <string name="app_clear">Gegevens wissen</string>
-  <string name="app_detail_comments">Beoordelingen</string>
+  <string name="app_detail_comments">Opmerkingen</string>
   <string name="app_detail_content_hidemore_text">Meer weergeven</string>
   <string name="app_detail_content_showmore_text">Minder weergeven</string>
   <string name="app_detail_content_title_text">Details</string>
@@ -248,7 +248,7 @@
   <string name="epg_load_more_latest_comment">Meer beoordelingen verkrijgen</string>
   <string name="epg_loading_hint">Verander van kanaal op uw set-top box met uw telefoon</string>
   <string name="epg_more_comment_list_title">Meer Hot Reacties%1$d）</string>
-  <string name="epg_name">TV programma\'s</string>
+  <string name="epg_name">Live TV</string>
   <string name="epg_no_booking_data">Geen programma gereserveerd </string>
   <string name="epg_no_more_latest_comment">Niet meer reacties</string>
   <string name="epg_no_program_data">Geen programma\'s gevonden</string>
@@ -294,6 +294,7 @@
   <string name="fan_speed">Snelheid</string>
   <string name="faq">FAQ</string>
   <string name="fav">Ster</string>
+  <string name="favorite_channel">Recente kanalen</string>
   <string name="feedback">Feedback</string>
   <string name="feedback_error">Bug rapporteren</string>
   <string name="feedback_error_success_tip">Met succes ingediend</string>
@@ -345,7 +346,7 @@
   <string name="install">Installeren</string>
   <string name="input_tip">De code vervalt na 15 minuten</string>
   <string name="install_failed">"Kon %s niet installeren"</string>
-  <string name="install_peel_content">Om de TV gids functie in te schakelen, installeer Peel voor Mi Remote.</string>
+  <string name="install_peel_content">Installeer Peel Mi Remote om de TV gids te gebruiken</string>
   <string name="install_peel_title">Peel Mi Remote installeren</string>
   <string name="install_succed">%s geïnstalleerd</string>
   <string name="installing">Installeren…</string>
@@ -521,6 +522,7 @@ Wacht een momentje na de handeling"</string>
   <string name="my_room">Mijn kamer</string>
   <string name="my_room_underline">&lt;u&gt;Mijn kamer&lt;/u&gt;</string>
   <string name="my_setting">Instellingen</string>
+  <string name="nearby">Dichtbij</string>
   <string name="network_diagnosis">Netwerktest</string>
   <string name="network_no_connection">Niet verbonden met netwerk, controleer je verbinding en probeer opnieuw</string>
   <string name="network_ok">Geen problemen gevonden</string>
@@ -768,7 +770,7 @@ Om je account te activeren, volg de
   <string name="rc_add_distance">%1$dm</string>
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
-  <string name="rc_name">Afstandsbediening</string>
+  <string name="rc_name">MI Afstandsbediening</string>
   <string name="recover">Herstellen van Drive</string>
   <string name="recovering">Bezig met herstelen…</string>
   <string name="refreshing">Vernieuwen…</string>
@@ -849,6 +851,7 @@ direct vanop uw schermvergrendeling"</string>
   <string name="select_dvb_carrier">Selecteer provider</string>
   <string name="select_screenshot_topic">Kies onderwerp</string>
   <string name="select_stb">Kies de set-top box</string>
+  <string name="select_stb_tips">Koppel de set-top box</string>
   <string name="service_info">Service Informatie</string>
   <string name="setting_airkan">DRAADLOOS SCHERM</string>
   <string name="setting_common">ALGEMEEN</string>
@@ -899,7 +902,7 @@ direct vanop uw schermvergrendeling"</string>
   <string name="share_rc_list_title">Afstandsbedieningen in de omgeving delen</string>
   <string name="share_rc_not_found">Geen gedeelde afstandsbedieningen in de omgeving</string>
   <string name="share_rc_state_share">Delen…</string>
-  <string name="share_rc_title">Bekijk de gedeelde fstandsbedieningen in de buurt</string>
+  <string name="share_rc_title">Mi afstandsbedieningen in de buurt</string>
   <string name="share_rc_type_desc">Wie kan afstandsbedieningen gedeeld door u zien en gebruiken</string>
   <string name="share_switch">Afstandsbediening delen</string>
   <string name="share_tips">Afstandsbediening delen met een persoon die verbonden is op hetzelfde Wi-Fi netwerk</string>
@@ -1012,6 +1015,7 @@ Om te wijzigen, lang drukken op de TV power knop"</string>
   <string name="video_comment_reply_empty">Opmerkingen mogen niet leeg zijn</string>
   <string name="video_comment_reply_failed">Antwoorden mislukt</string>
   <string name="video_count_info">Totaal video tellen: %d</string>
+  <string name="video_delte_item">Verwijderen…</string>
   <string name="video_detial_unfold">Details</string>
   <string name="video_director_label">"Director: "</string>
   <string name="video_favor">Toevoegen aan favorieten</string>
