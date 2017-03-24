@@ -1704,10 +1704,10 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyguard_shortcut_title">Snelkoppelingen vergrendelscherm</string>
   <string name="keywords_accounts">account</string>
   <string name="keywords_airplane">Vliegtuig;Vliegmodus;Vliegtuig;Vliegmodus;Vlucht;Vliegmodus</string>
-  <string name="keywords_all_apps">apps download applicaties system</string>
+  <string name="keywords_all_apps">apps download applicaties systeem</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">apps toestemmingen veiligheid</string>
-  <string name="keywords_auto_rotate">Draaien;Scherm draaien;Oriëntering;Scherm oriëntering;Portrait modus;Landschap modus;verticaal;horizontaal</string>
+  <string name="keywords_auto_rotate">Draaien;Scherm draaien;Oriëntatie;Scherm oriëntatie;Portretmodus;Landschapmodus;verticaal;horizontaal</string>
   <string name="keywords_battery">stroomverbruik lading</string>
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
   <string name="keywords_data">4G;3G;Data;Mobiele data;Mobiele data;Verkeer;Mobiel internet</string>
@@ -1722,7 +1722,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keywords_emergency_app">noodgeval ijs app standaard</string>
   <string name="keywords_factory_data_reset">wissen verwijderen herstellen wis verwijder</string>
   <string name="keywords_home">launcher</string>
-  <string name="keywords_hotspot">Hotspot;Tether;Tethering;Persoonlijke hotspot;Dragbare hotspot</string>
+  <string name="keywords_hotspot">Hotspot;Tether;Tethering;Persoonlijke hotspot;Draagbare hotspot</string>
   <string name="keywords_ignore_optimizations">negeren optimalisaties doze app standby</string>
   <string name="keywords_keyboard_and_ime">yekst correctie juist geluid trillen auto taal genbaar voorstel suggestie thema aanstootgevend woord type emoji internationaal</string>
   <string name="keywords_location">dichtbij locatie geschiedenis rapporteren</string>
@@ -1730,9 +1730,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keywords_lockscreen">schuiven wachtwoord patroon pin</string>
   <string name="keywords_more_mobile_networks">mobiel mobile provider draadloos data 4g 3g 2g lte</string>
   <string name="keywords_network_reset">reset restore factory</string>
-  <string name="keywords_paper_mode">Flux;Lezen;Leesmodu;Blauw licht;ogen beschermen</string>
+  <string name="keywords_paper_mode">Flux;Lezen;Leesmodus;Blauw licht;ogen beschermen</string>
   <string name="keywords_printing">printer</string>
-  <string name="keywords_quick_ball">Quick nall;snelkoppeling;snelkoppelingen;toggles;toggle</string>
+  <string name="keywords_quick_ball">Quick ball;snelkoppeling;snelkoppelingen;toggles;toggle</string>
   <string name="keywords_reset_apps">reset voorkeuren standaard</string>
   <string name="keywords_silent">Stil;Dempen;Geluid uitschakelen</string>
   <string name="keywords_sounds_and_notifications">luidspreker biep</string>
@@ -2846,7 +2846,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Geen toestemmingen aangevraagd</string>
   <string name="save">Opslaan</string>
   <string name="saved_network">Opgeslagen door %1$s</string>
-  <string name="saved_wifi">Opgeslagen netwerken</string>
+  <string name="saved_wifi">Opgeslagen netwerken beheren</string>
   <string name="saved_wifi_delete">Verwijderen</string>
   <string name="scan_list_label">Scanresultaten:</string>
   <string name="screen">Scherm</string>
@@ -4325,7 +4325,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="wifi_master_key_dialog_content_password">Wachtwoord</string>
   <string name="wifi_master_key_dialog_title">Verbinden door gebruik te maken van</string>
   <string name="wifi_master_key_name">WLAN Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">WLAN Master Key is een gratis service die wachtwoorden van gedeelde netwerken verstrekt. WLAN Master Key zal het wachtwoord van uw netwerk niet delen. U kan ook %1$s。</string>
+  <string name="wifi_master_key_service_dialog_content">WLAN Master Key is een gratis service die wachtwoorden van gedeelde netwerken verstrekt. WLAN Master Key zal het wachtwoord van uw netwerk niet delen. U kan ook %1$s.</string>
   <string name="wifi_master_key_service_dialog_title">Gedeelde Wi-Fi netwerken</string>
   <string name="wifi_menu_advanced">Geavanceerd</string>
   <string name="wifi_menu_connect">Verbinding maken met netwerk</string>
