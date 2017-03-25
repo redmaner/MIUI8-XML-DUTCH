@@ -2,9 +2,11 @@
 <resources>
     <plurals name="group_move_success_toast">
         <item quantity="other">%1$d contacten verplaatst</item>
+		<item quantity="one">%1$d contact verplaatst</item>
     </plurals>
     <plurals name="group_copy_success_toast">
         <item quantity="other">%1$d contacten gekopieerd</item>
+		<item quantity="one">%1$d contact gekopieerd</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacten met telefoonnummers</item>
@@ -47,20 +49,20 @@
         <item quantity="one">Voicemail</item>
     </plurals>
 	<plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM kaart kan %d contacten opslaan.</item>
-        <item quantity="one">SIM kaart kan %d contact opslaan.</item>
+        <item quantity="other">SIM kaart kan %1$d contacten opslaan.</item>
+        <item quantity="one">SIM kaart kan %1$d contact opslaan.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">%d contacten van SIM kaart verwijderen?</item>
-        <item quantity="one">%d contact van SIM kaart verwijderen?</item>
+        <item quantity="other">%1$d contacten van SIM kaart verwijderen?</item>
+        <item quantity="one">%1$d contact van SIM kaart verwijderen?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d geselecteerd</item>
         <item quantity="one">%1$d geselecteerd</item>
     </plurals>
 	<plurals name="number_of_items_available">
-        <item quantity="other">%1$d overblijvend</item>
-        <item quantity="one">%1$d overblijvend</item>
+        <item quantity="other">%1$d resterend</item>
+        <item quantity="one">%1$d resterend</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d favorieten</item>
@@ -95,24 +97,24 @@
         <item quantity="one">%1$d recent contact</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  contacten toegevoegd"</item>
+        <item quantity="other">%1$d contacten toegevoegd</item>
         <item quantity="one">%1$d contact toegevoegd</item>
     </plurals>
 	<plurals name="btn_delete_multi_contacts">
-        <item quantity="other">%d contacten verwijderen</item>
+        <item quantity="other">%1$d contacten verwijderen</item>
         <item quantity="one">Contact verwijderen</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d personen</item>
-        <item quantity="one">1 persoon</item>
+        <item quantity="other">%1$d personen</item>
+        <item quantity="one">%1$d persoon</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contacten geïmporteerd</item>
         <item quantity="one">%1$d contact geïmporteerd</item>
     </plurals>
 	<plurals name="batch_delete_msg">
-        <item quantity="other">%d contacten verwijderen?</item>
-        <item quantity="one">%d contact verwijderen?</item>
+        <item quantity="other">%1$d contacten verwijderen?</item>
+        <item quantity="one">%1$d contact verwijderen?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d geselecteerd</item>
@@ -144,8 +146,8 @@
         <item quantity="one">%1$d contact</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d contacten of foto\'s zijn niet gesync."</item>
-        <item quantity="one">"1 contact of foto is niet gesync."</item>	
+        <item quantity="other">%1$d contacten of foto\'s zijn niet gesynchroniseerd</item>
+        <item quantity="one">%1$d contact of foto is niet gesynchroniseerd</item>	
     </plurals>
 	<plurals name="abbrev_a_hour_ago">
         <item quantity="other">1 uur geleden</item>
@@ -157,8 +159,8 @@
         <item quantity="other">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min geleden</item>
-        <item quantity="one">1 min geleden</item>
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Binnen 1 uur</item>
@@ -170,7 +172,7 @@
         <item quantity="other">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d min</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">over %1$d min</item>
+        <item quantity="one">over %1$d min</item>
     </plurals>
 </resources>
