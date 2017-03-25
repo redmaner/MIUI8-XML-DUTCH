@@ -702,6 +702,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 		<item>30 seconden</item>
         <item>2 minuten</item>
         <item>5 minuten</item>
+		<item>Nooit</item>
     </string-array>
 	<string-array name="fluency_mode_entries">
         <item>Systeemanimaties verbergen</item>
@@ -744,4 +745,8 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Notities</item>
         <item>Kindermodus</item>
     </string-array>
+	<string-array name="miracast_policies">
+        <item>Minder vertraging</item>
+        <item>Standaard</item>
+        <item>Betere kwaliteit</item>
 </resources>
