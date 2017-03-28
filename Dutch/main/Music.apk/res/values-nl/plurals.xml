@@ -8,6 +8,14 @@
         <item quantity="other">&lt;font color=\"red\">%d nummers&lt;/font> bezig met downloaden</item>
         <item quantity="one">&lt;font color==\"red\">%d nummer&lt;/font> bezig met downloaden</item>
     </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d items verwijderen?</item>
+        <item quantity="one">%d item verwijderen?</item>
+    </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d downloads verwijderd</item>
+        <item quantity="one">%d download verwijderd</item>	
+  </plurals>
   <plurals name="Ntracks_search_result">
         <item quantity="other">%d nummers gevonden</item>
         <item quantity="one">%d nummers gevonden</item>
@@ -16,17 +24,12 @@
         <item quantity="other">%d dagen overblijvend</item>
         <item quantity="one">%d dag overblijvend</item>
     </plurals>
-    <plurals name="NTrackstoDownload">
-        <item quantity="other">%d nummers worden gedownload</item>
-        <item quantity="one">1 nummer worden gedownload</item>
-    </plurals>
 	<plurals name="NPlaylist_delete_confirm">
         <item quantity="other">%d afspeellijsten verwijderen?</item>
         <item quantity="one">%d afspeellijst verwijderen ?</item>
     </plurals>
 	<plurals name="Nnew_tracks_count">
         <item quantity="other">%d nieuw</item>
-		<item quantity="one">1 nieuw</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d nummers</item>
@@ -58,11 +61,11 @@
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d nummers toegevoegd aan afspeellijst</item>
-        <item quantity="one">Nummer toegevoegd aan afspeellijst</item>
+        <item quantity="one">>%d nummer toegevoegd aan afspeellijst</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d nummers verwijderd van afspeellijst</item>
-        <item quantity="one">Nummer verwijderd van afspeellijst</item>
+        <item quantity="one">>%d nummer verwijderd van afspeellijst</item>
     </plurals>
 	<plurals name="Nquit_warning">
         <item quantity="other">Speler zal binnen %d minuten stoppen</item>
@@ -70,11 +73,11 @@
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d nummers zullen worden verzonden</item>
-        <item quantity="one">1 nummer zal worden verzonden</item>
+        <item quantity="one">>%d nummer zal worden verzonden</item>
     </plurals>
     <plurals name="folder_songs_count">
         <item quantity="other">%d nummers</item>
-        <item quantity="one">nummer</item>
+        <item quantity="one">>%d nummer</item>
     </plurals>
 	    <plurals name="Nnew_local_audios">
         <item quantity="other">%d nummers toegevoegd</item>

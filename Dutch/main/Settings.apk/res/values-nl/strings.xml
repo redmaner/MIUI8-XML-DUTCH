@@ -165,7 +165,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="android_beam_tips">Maak u er van bewust dat beide apparaten elkaar raken en tik op de inhoud die u wenst te beamen.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
-  <string name="anr_record_interval_title">ANR intervals opnemen</string>
   <string name="anti_spam">Zwarte lijst</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Verificatietype</string>
@@ -934,6 +933,7 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="current_use_ese_wallet">U gebruikt Mi Wallet. Het laat u toe om Mi Pay en NFC als transport kaart te gebruiken.</string>
   <string name="current_use_hce_wallet">U gebruikt HCE Wallet</string>
   <string name="current_use_uicc_se">Met behulp van veilig element op de SIM kaart</string>
+  <string name="current_zone">(huidige)</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (rood-groen)</string>
   <string name="daltonizer_mode_disabled">Uitgeschakeld</string>
   <string name="daltonizer_mode_monochromacy">Monochromasie</string>
@@ -2178,7 +2178,6 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="move_app_to_internal">Verplaatsen naar apparaat</string>
   <string name="move_app_to_sdcard">Verplaatsen naar USB opslag</string>
   <string name="moving">Verplaatsen</string>
-  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Driver downloaden</string>
   <string name="msd_driver_download_mac">Voor Macs, download de driver en klik op AndroidFileTransfer.dmg om te installeren</string>
   <string name="msd_driver_download_xp">Voor PCs, download de MiPhoneManager om USB massaopslag te gebruiken</string>
@@ -2381,7 +2380,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="online_resource_entry">Online bronnen</string>
   <string name="only_one_home_message">Startpagina instellingen worden verborgen totdat u een andere startpagina app installeert.</string>
   <string name="onscreen_keyboard_settings_summary">Instellingen voor schermtoetsenbord</string>
-  <string name="open_anr_debug">ANR debugging inschakelen</string>
   <string name="open_miui_optimization_title">MIUI optimalisatie inschakelen</string>
   <string name="open_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Annuleren</string>
@@ -2631,7 +2629,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Voeg uw Mi-account toe om mogelijk uw wachtwoord opnieuw in te stellen voor het geval u het vergeet.</string>
   <string name="privacy_password_remind_bindaccount_title">Mi Account toevoegen</string>
   <string name="privacy_password_settings">Gebruik privacy wachtwoordbeveiliging</string>
+  <string name="privacy_password_settings_next">Volgende</string>
   <string name="privacy_password_settings_titles">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden en notities.</string>
+  <string name="privacy_password_settings_titles_elder_mode">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden en notities</string>
+  <string name="privacy_password_settings_titles_second_space">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden en notities</string>
   <string name="privacy_password_title">Privacy wachtwoordbeveiliging</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Patroon weergeven</string>
@@ -2774,7 +2775,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="recommend_item_4">Koptelefoons</string>
   <string name="recommend_item_title">Aanbevolen</string>
   <string name="recompute_size">Grootte opnieuw berekenen…</string>
-  <string name="record_anr_in_background">ANR achtergrond gevallen opnemen</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Wettelijke informatie</string>
   <string name="remove_account_failed">Deze wijziging is niet toegestaan door de beheerder</string>

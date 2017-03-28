@@ -2,6 +2,10 @@
 <resources>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d gesprekken opgenomen.</item>
-        <item quantity="one">1 gesprek opgenomen.</item>
+        <item quantity="one">%d gesprek opgenomen.</item>
+    </plurals>
+    <plurals name="livetalk_left_minute">
+        <item quantity="other">%d minuten over</item>
+        <item quantity="one">%d minuut over</item>
 	</plurals>	
 </resources>

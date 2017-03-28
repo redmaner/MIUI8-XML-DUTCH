@@ -32,14 +32,6 @@
         <item quantity="few">%1$d geselecteerd</item>
         <item quantity="many">%1$d geselecteerd</item>
     </plurals>
-	<plurals name="items_file">
-        <item quantity="other"> (%1$d items)</item>
-        <item quantity="zero"> (%1$d items)</item>
-        <item quantity="one"> (%1$d item)</item>
-        <item quantity="two"> (%1$d items)</item>
-        <item quantity="few"> (%1$d items)</item>
-        <item quantity="many"> (%1$d items)</item>
-    </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d items)</item>
         <item quantity="zero"> (%1$d items)</item>
@@ -216,22 +208,6 @@
         <item quantity="few">%1$s keer bekeken</item>
         <item quantity="many">%1$s keer bekeken</item>
     </plurals>
-    <plurals name="video_num">
-        <item quantity="other">%1$s video\'s</item>
-        <item quantity="zero">%1$s video\'s</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s video\'s</item>
-        <item quantity="few">%1$s video\'s</item>
-        <item quantity="many">%1$s video\'s</item>
-    </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">volgers</item>
-        <item quantity="zero">volgers</item>
-        <item quantity="one">volger</item>
-        <item quantity="two">volgers</item>
-        <item quantity="few">volgers</item>
-        <item quantity="many">volgers</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> video\'s</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>
@@ -287,5 +263,25 @@
     <plurals name="more_gems">
         <item quantity="other">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> meer edelstenen om deel te nemen aan de trekking</item>
         <item quantity="one">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> een edelsteeen meer om deel te nemen aan de trekking</item>
+    </plurals>
+	<plurals name="clockin_days">
+        <item quantity="other">Dag %1$s</item>
+        <item quantity="one">Dag %1$s</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">U hebt &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> een punt</item>
+        <item quantity="one">U hebt &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> een punt</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">%1$s dagen na elkaar aangemeld, doe zo voort!</item>
+        <item quantity="one">%1$s dag na elkaar aangemeld, doe zo voort!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s topics</item>
+        <item quantity="one">%1$s topic</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s personen</item>
+        <item quantity="one">%1$s persoon</item>
     </plurals>
 </resources>
