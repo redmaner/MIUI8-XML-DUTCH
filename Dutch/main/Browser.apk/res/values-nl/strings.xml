@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigeer terug</string>
-  <string name="abc_action_bar_up_description">Navigeer omhoog</string>
+  <string name="abc_action_bar_home_description">Ga naar startpagina</string>
+  <string name="abc_action_bar_up_description">Ga omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer</string>
   <string name="abc_action_mode_done">Klaar</string>
   <string name="abc_action_mode_select_all">Alle selecteren</string>
@@ -121,10 +121,10 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Naar beneden vegen om af te sluiten</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dit is het laatste tabblad</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Naar boven vegen om af te sluiten</string>
-  <string name="browserFrameFileErrorLabel">Bestandsprobleem</string>
+  <string name="browserFrameFileErrorLabel">Bestands error</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">De pagina die u probeert te openen bevat gegevens die al verzonden zijn. Als u de data opnieuw verzendt, zullen vorige acties (zoals een zoekopdracht of aankoop) herhaald worden.</string>
-  <string name="browserFrameNetworkErrorLabel">Verbindingsprobleem</string>
+  <string name="browserFrameNetworkErrorLabel">Verbindings errror</string>
   <string name="cancel">Annuleren</string>
   <string name="cannot_download">"Kan alleen URL's met\ "http \" of \ "https \" downloaden"</string>
   <string name="choosertitle_sharevia">Delen via</string>
@@ -176,7 +176,7 @@
   <string name="contextmenu_openlink">Openen</string>
   <string name="contextmenu_openlink_newwindow">Openen in nieuw tabblad</string>
   <string name="contextmenu_openlink_newwindow_background">Openen in nieuw tabblad op de achtergrond</string>
-  <string name="contextmenu_recognise_qr_code">QR code herkennen</string>
+  <string name="contextmenu_recognise_qr_code">QR code scannen</string>
   <string name="contextmenu_savelink">Link opslaan</string>
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_set_wallpaper">Instellen als achtergrond</string>
@@ -343,7 +343,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
 Deze pagina verlaten?"</string>
   <string name="js_dialog_before_unload_negative_button">Blijven</string>
   <string name="js_dialog_before_unload_positive_button">Verlaten</string>
-  <string name="js_dialog_before_unload_title">Navigatie bevestigen</string>
+  <string name="js_dialog_before_unload_title">Pagina verlaten</string>
   <string name="js_dialog_title">De pagina op \" %s\" zegt:</string>
   <string name="js_disable_confirm_message">JavaScript uitschakelen kan leiden tot incorrecte weergave van sommige websites.</string>
   <string name="js_disable_confirm_title">JavaScript uitschakelen?</string>
@@ -632,8 +632,8 @@ Deze pagina verlaten?"</string>
   <string name="save_button_text">Opslaan</string>
   <string name="save_dialog_title">Opslaan</string>
   <string name="save_file">%s bestand opslaan</string>
-  <string name="save_file_already_exist_alert_message">Bestand bestaat al, wilt u het overschrijven?</string>
-  <string name="save_file_already_exist_alert_title">Bestand overschrijven?</string>
+  <string name="save_file_already_exist_alert_message">Bestand bestaat al, toch vervangen?</string>
+  <string name="save_file_already_exist_alert_title">Bestand vervangen?</string>
   <string name="save_form_data_confirm_message">Deze functie uitschakelen zal effect hebben op uw verbruik.</string>
   <string name="save_image_failed">Afbeelding opslaan mislukt</string>
   <string name="save_image_success">Afbeelding opgeslagen</string>
@@ -643,9 +643,9 @@ Deze pagina verlaten?"</string>
   <string name="save_password_never">Nooit</string>
   <string name="save_password_notnow">Niet nu</string>
   <string name="save_password_remember">Onthouden</string>
-  <string name="save_to_camera">Opslaan in camera</string>
+  <string name="save_to_camera">Opslaan in gallerij</string>
   <string name="save_to_camera_failed">Afbeelding opslaan mislukt</string>
-  <string name="save_to_camera_success">Opgeslagen in camera</string>
+  <string name="save_to_camera_success">Opgeslagen in gallerij</string>
   <string name="sdcard_error">Controleer de SD kaart</string>
   <string name="search">Zoeken</string>
   <string name="search_button_text">Ga</string>
@@ -669,7 +669,7 @@ Deze pagina verlaten?"</string>
   <string name="send_comment_title">Opmerking</string>
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
-  <string name="share_page_text">"Ik geniet van 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">"Ik geniet van %1$s | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">De URL van deze website wordt verzonden naar servers van Xiaomi om de veiligheid te verifiëren. U kunt deze functie op elk moment uitschakelen in Instellingen.</string>
   <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>
   <string name="show_weather_location_getter_tip_dialog_description">Weerdiensten hebben uw locatie info nodig om up-to-date informatie over het weer in uw browser weer te geven. U kunt deze functie uitschakelen in Instellingen.</string>
