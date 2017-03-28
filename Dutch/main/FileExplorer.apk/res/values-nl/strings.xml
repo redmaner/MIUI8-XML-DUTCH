@@ -101,6 +101,11 @@
   <string name="click_to_refresh">Tik om te vernieuwen</string>
   <string name="click_to_switch_volume">Tik hier om te schakelen tussen intern geheugen en SD kaart</string>
   <string name="click_to_switch_volume_pad">Tik om te schakelen tussen interne opslag en SD kaart</string>
+  <string name="clockin_failed">Kon niet aanmelden, probeer opnieuw</string>
+  <string name="clockin_success">Met succes aangemeld</string>
+  <string name="clockin_use">Verkrijg een prijs</string>
+  <string name="comment_added">Met succes toegevoegd</string>
+  <string name="comment_added_tip">U voegt veel opmerkingen toe. Deze persoon volgen?</string>
   <string name="comment_delete_message">De reactie zal permanent verwijderd worden.</string>
   <string name="comment_delete_title">Reactie verwijderen</string>
   <string name="comment_fail">Kon opmerking niet plaatsen, probeer opnieuw</string>
@@ -118,12 +123,14 @@
   <string name="confirm_know">OK</string>
   <string name="connecting">Verbinden…</string>
   <string name="connection_error">Kon niet verbinden</string>
+  <string name="contain_sensitive_words">Verwijder de ongepaste woorden en probeer opnieuw</string>
   <string name="copied">Gekopieerd</string>
   <string name="copy_failed">Kon niet kopiëren.</string>
   <string name="copy_text">Tekst kopiëren</string>
   <string name="copy_to">Kopiëren naar…</string>
   <string name="count_down">Aftelprocedure: %1$s</string>
   <string name="create_shortcut_success">Snelkoppeling met succes toegevoegd</string>
+  <string name="daily_clockin">Aanmelden</string>
   <string name="data_consumption_cancel">Afsluiten</string>
   <string name="data_consumption_checkbox_hint">Niet meer tonen</string>
   <string name="data_consumption_confirm">Ok</string>
@@ -343,6 +350,7 @@
   <string name="no_message">Geen berichten</string>
   <string name="no_new_content_tip">Alle items zijn up to date</string>
   <string name="no_recent_files">Geen recente bestanden</string>
+  <string name="no_search_content">Kon geen resultaten vinden</string>
   <string name="no_topic">Geen topics</string>
   <string name="no_wifi">Geen netwerk gedetecteerd</string>
   <string name="no_wifi_hint">Geen verbinding</string>
@@ -496,6 +504,11 @@
   <string name="rlv_refreshing">Vernieuwen…</string>
   <string name="rlv_release_to_close">Loslaten om af te sluiten</string>
   <string name="rlv_release_to_refresh">Loslaten om te vernieuwen</string>
+  <string name="save">Opslaan</string>
+  <string name="save_desc_success">Met succes gewijzigd​</string>
+  <string name="save_failed">Kon niet opslaan, probeer opnieuw</string>
+  <string name="save_failed_for_length">Handtekening is te lang, probeer een kortere</string>
+  <string name="save_name_success">Met succes gewijzigd</string>
   <string name="save_to_local">Downloaden</string>
   <string name="search_app">Apps &amp; mappen</string>
   <string name="search_app_more">Meer</string>
@@ -512,6 +525,8 @@
   <string name="search_hot_sticker">Stickers; Stickers downloaden</string>
   <string name="search_keyword">Tags</string>
   <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+  <string name="search_popup_tip">U kan naar personen en topics zoeken</string>
+  <string name="search_recent_file">File explorer;Explorer;Bestand;Bestanden;Bestanden beheren;File manager</string>
   <string name="search_result">Resultaten</string>
   <string name="search_result_more">Meer</string>
   <string name="search_statistic_appname">Bron</string>
@@ -521,6 +536,10 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Zoeken</string>
   <string name="search_title_hint">Zoeken</string>
+  <string name="search_topic">Zoeken naar topics</string>
+  <string name="search_user">Zoeken naar personen</string>
+  <string name="see_more_topic">Meer topics</string>
+  <string name="see_more_user">Meer gebruikers</string>
   <string name="select_dest_folder">Map selecteren</string>
   <string name="select_image">Afbeeldingen</string>
   <string name="select_interest_str">Selecteer de onderwerpen die je leuk vindt</string>
@@ -618,6 +637,7 @@
   <string name="top_videos">Deel rankings</string>
   <string name="topic_follow">Volgen</string>
   <string name="topic_followed">Gevolgd</string>
+  <string name="topic_title">Topics</string>
   <string name="transfer_done">Bestanden met succes verplaatst.</string>
   <string name="transfer_private_data">Bezig met verborgen bestanden te verplaatsen van SD kaart…</string>
   <string name="type_not_support">Dit formaat wordt niet ondersteunt. Pak dit bestand uit en probeer opnieuw.</string>
@@ -662,6 +682,7 @@
   <string name="uploading_video">Video uploaden…</string>
   <string name="usb_label">USB</string>
   <string name="used">In gebruik</string>
+  <string name="user">Gebruikers</string>
   <string name="user_cancel">Geannuleerd</string>
   <string name="user_center_title">Thuis</string>
   <string name="user_follow_me_title">Mijn volgers</string>
@@ -745,7 +766,7 @@
   <string name="video_tag_search_hint">Aangepast onderwerp</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Selecteer onderwerp</string>
-  <string name="video_topic_hint">Zoek topic</string>
+  <string name="video_topic_hint">Zoek naar personen of topics</string>
   <string name="video_upload_btn">Volgende</string>
   <string name="video_upload_btn_hint">MP4 video\'s zouden 3s~10min lang moeten zijn</string>
   <string name="video_upload_item_more">Meer (%1$s)</string>
