@@ -226,48 +226,4 @@
         <item quantity="other">%d virusen verwijderd</item>
         <item quantity="one">Deleted %d virus verwijderd</item>
     </plurals>
-	<plurals name="add_game_notification_title">
-        <item quantity="other">%d games toegevoegd</item>
-        <item quantity="one">%d game toegevoegd</item>
-    </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Updates voor %d apps zijn beschikbaar</item>
-        <item quantity="one">Updates voor %d app zijn beschikbaar</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">%d keer deze contacten geopend</item>
-        <item quantity="one">%d keer deze contacten geopend</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">%d gesprekken gemaakt</item>
-        <item quantity="one">%d gesprek gemaakt</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">%d verzonden SMS</item>
-        <item quantity="one">%d verzonden SMS</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">%d keer SMS gelezen</item>
-        <item quantity="one">%d keer SMS gelezen</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">%d keer oproepgeschiedenis gelezen</item>
-        <item quantity="one">%d keer oproepgeschiedenis gelezen</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">%d keer geopend</item>
-        <item quantity="one">%d keer geopend</item>
-    </plurals>
-    <plurals name="app_manager_permission_manager_summary">
-        <item quantity="other">%d toestemmingen gegeven</item>
-        <item quantity="one">%d toestemming gegeven</item>
-    </plurals>
-    <plurals name="app_manager_start_count">
-        <item quantity="other">%d keer</item>
-        <item quantity="one">%d keer</item>
-    </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">%d keer geblokkeerd</item>
-        <item quantity="one">%d keer geblokkeerd</item>
-    </plurals>
 </resources>
