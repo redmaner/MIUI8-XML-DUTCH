@@ -47,9 +47,9 @@
   <string name="birthday_event_description_today">Vandaag is</string>
   <string name="birthday_event_description_tomorrow">Morgen is</string>
   <string name="birthday_event_description_yesterday">Gisteren was</string>
-  <string name="birthday_event_title_suffix">"'s verjaardag"</string>
+  <string name="birthday_metric">e</string>
   <string name="birthday_notification_text_days_later">%1$s dagen tot %4$s (%5$s)</string>
-  <string name="birthday_notification_text_today">Felicitaties niet vergeten!</string>
+  <string name="birthday_notification_text_today">Vergeet niet te feliciteren!</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s komt eraan."</string>
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
   <string name="birthday_saved">Verjaardag opgeslagen</string>
@@ -106,8 +106,8 @@
   <string name="credit_event_title">Creditkaartrekening</string>
   <string name="daily">Dagelijks</string>
   <string name="date_pattern_mm_dd">d/M</string>
-  <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="day_view_new_event_hint">+ Nieuwe afspraak</string>
+  <string name="day_view_new_event_hint">Nieuwe afspraak</string>
+  <string name="default_reminder_mode">Herinneringen</string>
   <string name="delete_calendar">Uitschrijven</string>
   <string name="delete_recurring_event_title">%s verwijderen?</string>
   <string name="delete_this_event_title">Deze afspraak verwijderen?</string>
@@ -264,7 +264,7 @@
   <string name="match_not_started">Niet gestart</string>
   <string name="menu_general_preferences">Algemene instellingen</string>
   <string name="menu_preferences">Instellingen</string>
-  <string name="menu_reminder_preferences">Instellingen voor herinneringen</string>
+  <string name="menu_reminder_preferences">Herinneringen</string>
   <string name="missing_name">(Geen naam)</string>
   <string name="modify_all">Alle afspraken in de reeks wijzigen</string>
   <string name="modify_all_following">Deze en alle toekomstige afspraken wijzigen</string>
@@ -312,6 +312,9 @@
   <string name="preferences_alerts_ringtone_title">Geluid</string>
   <string name="preferences_alerts_vibrateWhen_title">Trillen</string>
   <string name="preferences_alerts_vibrate_title">Trillen en beltoon</string>
+  <string name="preferences_default_allday_reminder_title">Standaard herinneringstijd voor afspraken die hele dag duren</string>
+  <string name="preferences_default_reminder_dialog">Standaard herinneringstijd</string>
+  <string name="preferences_default_reminder_title">Standaard herinneringstijd</string>
   <string name="preferences_experimental_category">Experimenteel</string>
   <string name="preferences_home_tz_title">Eigen tijdzone</string>
   <string name="preferences_import_credit_repayment">Creditkaartbetalingen</string>
@@ -322,7 +325,7 @@
   <string name="preferences_use_home_tz_title">Eigen tijdzone gebruiken</string>
   <string name="preferences_week_start_day_dialog">Week begint op</string>
   <string name="preferences_week_start_day_title">Week begint op</string>
-    <string name="recommend_card_add">Abonneer je nu</string>
+  <string name="recommend_card_add">Abonneer je nu</string>
   <string name="recommend_card_adding">Abonnementen</string>
   <string name="recommend_card_close_hint">Verlaag uw abonnement naar soortgelijke wordt aangeraden</string>
   <string name="recommend_card_from">Abonnementen:</string>
