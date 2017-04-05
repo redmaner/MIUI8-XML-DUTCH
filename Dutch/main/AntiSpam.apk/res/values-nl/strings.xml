@@ -117,7 +117,7 @@
   <string name="dlg_remove_whitelist_title">Verwijderen</string>
   <string name="dlg_retore">Herstellen berichten naar Postvak In?</string>
   <string name="dlg_retore_ok">Herstellen</string>
-  <string name="dlg_title_not_open_stranger_identify">Identificeer onbekenden</string>
+  <string name="dlg_title_not_open_stranger_identify">Beller ID staat uit</string>
   <string name="dlg_white_address_antispam_message">Deze locatie toevoegen aan uitzonderingen?</string>
   <string name="dlg_white_antispam_hint">Uitzonderingen</string>
   <string name="dlg_white_antispam_message">Dit nummer toevoegen aan uitzonderingen?</string>
@@ -128,7 +128,7 @@
   <string name="fw_blocked_join">" en "</string>
   <string name="hint_antispam_mode_edit">Aangepaste modus</string>
   <string name="im">IM</string>
-  <string name="info_antispam_close">AntiSpam Uit</string>
+  <string name="info_antispam_close">Blokkeerlijst staat uit</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Blokkeer gesprekken</string>
   <string name="info_antispam_phone_sms">Blokkeer SMS en gesprekken</string>
@@ -345,13 +345,12 @@
   <string name="tab_call">Gesprekken</string>
   <string name="tab_sms">Berichten</string>
   <string name="tab_title">Blokkeerlijst</string>
-  <string name="toast_keyword_blank">U moet een trefwoord in te voeren</string>
+  <string name="toast_keyword_blank">U moet een trefwoord invoeren</string>
   <string name="toast_keyword_exist">Trefwoord toegevoegd aan filter</string>
   <string name="toast_keyword_invalid">Ongeldige trefwoord</string>
   <string name="two_address_choose_hint">%1$s, %2$s2 locaties</string>
   <string name="user_define_title">Regels toevoegen</string>
   <string name="website">Website</string>
-  <string name="whitelist_prefix_add_hint">Voeg alle nummers toe die beginnen met een prefix uitzondering</string>
+  <string name="whitelist_prefix_add_hint">Voeg alle nummers met dit voorvoegsel toe aan uitzonderingen</string>
   <string name="wl_no_whitelist">Geen uitzonderingen.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
