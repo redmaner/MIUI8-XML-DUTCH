@@ -391,7 +391,10 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="card_main_deepclean_action">Wissen</string>
   <string name="card_main_deepclean_summary">Onnodige bestanden verwijderen</string>
   <string name="card_main_deepclean_title">Diepe schoonmaak</string>
-  <string name="card_main_gamebooster_summary">Snelheidsboost &amp; bevorder gaming ervaring</string>
+  <string name="card_main_deepclean_wechat_action">Wissen</string>
+  <string name="card_main_deepclean_wechat_summary">WeChat cache wissen om ruimte vrij te maken</string>
+  <string name="card_main_deepclean_wechat_title">WeChat cache</string>
+  <string name="card_main_gamebooster_summary">Verhoog snelheid &amp; verbeter de game-ervaring</string>
   <string name="card_main_gamebooster_title">Gaming snelheidsboost</string>
   <string name="card_main_monthreport_action">Bekijken</string>
   <string name="card_main_monthreport_summary">Maandelijkse rapporten bekijken</string>
@@ -853,7 +856,7 @@ om te reageren"</string>
   <string name="network_diagnostics">Test netwerk</string>
   <string name="network_mobile_exception_detail">"Uw apparaat kan geen verbinding maken met internet:
 
- 1. Maak u er zeker van dat u uw mobiele datalimiet van uw provider niet hebt overschreden.
+ 1. Controleer of u uw mobiele datalimiet niet hebt overschreden.
  
  2. Als je balans bijgevuld hebt, herstart uw apparaat en probeer het opnieuw.
  
@@ -981,8 +984,8 @@ om te reageren"</string>
   <string name="password_promotion_title">Privacy wachtwoordbeveiliging</string>
   <string name="path_antispam">Systeemapps/Veiligheid/Zwarte lijst</string>
   <string name="path_antivirus">Systeemapps/Veiligheid/Virusscanner</string>
-  <string name="path_app_permissions">Systeem apps/Veiligheid/Toestemmingen/App toestemmingen</string>
-  <string name="path_auto_restart">Systeem apps/Veiligheid/Toestemmingen/Autostart</string>
+  <string name="path_app_permissions">Systeemapps/Veiligheid/Toestemmingen/Apptoestemmingen</string>
+  <string name="path_auto_restart">Systeemapps/Veiligheid/Toestemmingen/Autostart</string>
   <string name="path_cleanmaster">Systeemapps/Veiligheid/Opruimer</string>
   <string name="path_monthreport">Systeemapps/Veiligheid</string>
   <string name="path_networkassistant_1">Systeemapps/Veiligheid/Datagebruik</string>
@@ -1511,9 +1514,8 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="tc_sms_report_tips_dialog_message">Dataverbruik maakt gebruik van een speciaal opgemaakte SMS laatste dataverbruik te ophalen van uw provider. Als deze functie is niet normaal werkt, probeer dan het bijwerken van de gebruiksgegevens SMS formaat. De nieuwe bijgewerkte indeling zal dan worden geüpload naar onze servers.</string>
   <string name="tc_sms_report_tips_dialog_title">Dataverbruiks SMS</string>
   <string name="tc_sms_report_title">Rapporteer dataverbruik bug</string>
-  <string name="tc_sms_report_title_bill">Rapporteer data gebruik bug</string>
-  <string name="tc_sms_report_title_calltime">Rapporteer data gebruik bug</string>
   <string name="tc_sms_report_toast_text">Info verkrijgen…</string>
+  <string name="tc_sms_report_type">Rapporteertype</string>
   <string name="tc_sms_report_upload_success">Dataverbruiks rapport SMS ingediend. We zijn zo mee bezig!</string>
   <string name="tc_sms_report_upload_when_net">Dank je voor de feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
@@ -1636,7 +1638,8 @@ Overgebrachte extra data"</string>
   <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer de providerinstellingen</string>
   <string name="traffic_correction_success">Dataverbruik bijgewerkt</string>
   <string name="traffic_correction_success_notify_message">Tik om de details weer te geven.</string>
-  <string name="traffic_limit_error_alert_body">Uw resterende data voor deze maand (%1$s) is groter dan uw maandelijks plan (%2$s). Merk extra data als herlaad pakket?</string>
+  <string name="traffic_limit_error_alert_body">Uw resterende data voor deze maand (%1$s) is groter dan uw maandelijkse
+        bundel (%2$s). Maandelijkse bundel gewijzigd?</string>
   <string name="traffic_limit_error_alert_package">"
 
 Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
@@ -1658,6 +1661,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_setting_fragment_brand">Merk</string>
   <string name="traffic_setting_fragment_button1_text">Annuleren</string>
   <string name="traffic_setting_fragment_button2_text">Opslaan</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Bent u niet zeker van de provider?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">Kan niet verbinden met netwerk. Controleer je data verbinding en probeer opnieuw."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Niet meer tonen</string>
   <string name="traffic_setting_fragment_loading_text">Netwerk info ophalen…</string>

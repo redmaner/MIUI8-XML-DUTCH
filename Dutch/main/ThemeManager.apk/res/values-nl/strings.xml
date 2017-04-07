@@ -82,7 +82,7 @@
   <string name="gift_unbind_fail_dlg_title">Kan geen code maken</string>
   <string name="gift_use">Geven</string>
   <string name="gift_use_confirmation_dlg_title">Dit geschenk verzenden?</string>
-  <string name="gift_use_fail_dlg_title">Er liep iets fout</string>
+  <string name="gift_use_fail_dlg_title">Er ging iets fout</string>
   <string name="gift_used">Verzenden</string>
   <string name="home_apply_failured">Kan achtergrond niet toepassen op het thuisscherm</string>
   <string name="home_apply_success">Achtergrond toegepast op het thuisscherm</string>
@@ -96,9 +96,9 @@
   <string name="loading_resource_detail_info">Een momentje…</string>
   <string name="local_resouce_creator_name">Ontwikkelaar: %1$s</string>
   <string name="lockscreen_apply_failured">Kan achtergrond niet toepassen op het vergrendelscherm</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">Achtergrond ingesteld op het thuisscherm, maar niet op het vergrendelscherm</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">Achtergrond toegepast op het thuisscherm, maar niet op het vergrendelscherm</string>
   <string name="lockscreen_apply_success">Achtergrond ingesteld op het vergrendelscherm</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">Achtergrond ingesteld op het vergrendelscherm, maar niet op het thuisscherm</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">Achtergrond toegepast op het vergrendelscherm, maar niet op het thuisscherm</string>
   <string name="lockscreen_magazine_subscribe">%1$s volgers</string>
   <string name="lockscreen_magazine_summary">Categorieën</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s achtergronden</string>
@@ -412,5 +412,5 @@
   <string name="wallpaper_settings_change_wallpaper">Veranderen</string>
   <string name="wallpaper_settings_desktop_text">Thuisscherm</string>
   <string name="wallpaper_settings_lockscreen_text">Vergrendelscherm</string>
-  <string name="wallpaper_settings_page_title">achtergrond</string>
+  <string name="wallpaper_settings_page_title">Achtergrond</string>
 </resources>
