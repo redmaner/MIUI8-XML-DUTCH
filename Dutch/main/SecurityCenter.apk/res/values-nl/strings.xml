@@ -595,7 +595,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="goto_set">Instellen</string>
   <string name="guide_get_operator_error">Verkeerde provider?</string>
   <string name="guide_operator_text">"Je huidige provider: "</string>
-  <string name="guide_primary_text">"Schakel netwerkassistent in
+  <string name="guide_primary_text">"Gebruik de veiligheidsapp
 om je mobiele dataverbruik te beheren"</string>
   <string name="guide_quck_open">Inschakelen</string>
   <string name="guide_second_text">"Nadat je je provider hebt ingesteld, zal MIUI je mobiele datagebruik dagelijks bijhouden door een gratis provider SMS te versturen. Wanneer MIUI merkt dat het datalimiet is bereikt, zal het de verbinding met het netwerk verbreken en je op de hoogte stellen."</string>
@@ -717,7 +717,7 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="load_fail">Kon het niet laden</string>
   <string name="load_only_under_wlan">Alleen laden wanneer verbonden met Wi-Fi</string>
   <string name="local_ip_exception_summary">Kon openbaar IP-adres niet verkrijgen. Om dit probleem aan MIUI melden, gaat u naar de 
-        bugreport app en stuur een log van uw toestel.</string>
+        Feedback app en stuur een log van uw toestel.</string>
   <string name="lock_mode_title">Vergrendelinstellingen</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s gebruikt op vergrendelscherm</string>
   <string name="lock_screen_traffic_guide_notification_title">Tik om dataverbruik te beheren.</string>
@@ -981,6 +981,8 @@ om te reageren"</string>
   <string name="password_promotion_title">Privacy wachtwoordbeveiliging</string>
   <string name="path_antispam">Systeemapps/Veiligheid/Zwarte lijst</string>
   <string name="path_antivirus">Systeemapps/Veiligheid/Virusscanner</string>
+  <string name="path_app_permissions">Systeem apps/Veiligheid/Toestemmingen/App toestemmingen</string>
+  <string name="path_auto_restart">Systeem apps/Veiligheid/Toestemmingen/Autostart</string>
   <string name="path_cleanmaster">Systeemapps/Veiligheid/Opruimer</string>
   <string name="path_monthreport">Systeemapps/Veiligheid</string>
   <string name="path_networkassistant_1">Systeemapps/Veiligheid/Datagebruik</string>
@@ -1197,7 +1199,7 @@ om te reageren"</string>
   <string name="protection_category_recommend_title">Aanbevolen veranderingen (%d)</string>
   <string name="protection_category_security_title">Opruimen (%d)</string>
   <string name="protocol_exception_title">Netwerkprotocol diagnose</string>
-  <string name="protocol_loop_back_exception_summary">Openbaar net loop test is mislukt. Om dit probleem aan MIUI te melden, gaat u naar de Report Bug app en stuur een log van uw apparaat.</string>
+  <string name="protocol_loop_back_exception_summary">Openbaar net loop test is mislukt. Om dit probleem aan MIUI te melden, gaat u naar de Feedback app en stuur een log van uw apparaat.</string>
   <string name="quick_optimize_checking">Scannen</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Kon batterijleven niet verlengen</string>
   <string name="quick_optimize_no_fix_issue_title">Kon batterijproblemen niet oplossen</string>
@@ -1475,7 +1477,7 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="tc_diagnostic_status_updating">Testen…</string>
   <string name="tc_diagnostic_success_notification_summary">Meld dit probleem om MIUI te helpen diagnostische hulpmiddelen te verbeteren</string>
   <string name="tc_diagnostic_success_notification_title">Provider netwerk en merk zijn juist </string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultaat: Provider netwerk en merk zijn juist ingesteld&lt;br/&gt;&lt;br/&gt;Kon aanpassing niet voltooien:&lt;br/&gt;1. Provider statistieken kunnen niet betrouwbaar zijn aan het begin of aan het einde van de maand.&lt;br/&gt;2. Netwerk assistent is niet bijgewerkt.&lt;br/&gt;&lt;br/&gt;Meld dit probleem om MIUI te helpen diagnostische hulpmiddelen te verbeteren&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultaat: Provider netwerk en merk zijn juist ingesteld&lt;br/&gt;&lt;br/&gt;Kon aanpassing niet voltooien:&lt;br/&gt;1. Provider statistieken kunnen niet betrouwbaar zijn aan het begin of aan het einde van de maand.&lt;br/&gt;2. Veiligheidsapp functies zijn niet bijgewerkt.&lt;br/&gt;&lt;br/&gt;Meld dit probleem om MIUI te helpen diagnostische hulpmiddelen te verbeteren&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Provider diagnostiek</string>
   <string name="tc_diagnostic_upload_button">Melden</string>
   <string name="tc_diagnostic_upload_no_network">Hartelijk dank voor uw feedback! Uw verslag zal worden voorgelegd wanneer u verbinding maakt met het netwerk.</string>
