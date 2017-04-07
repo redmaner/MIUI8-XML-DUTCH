@@ -1128,7 +1128,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_name">Apparaatnaam</string>
   <string name="device_name_input_error">Het opslaan van de naam van het apparaat is mislukt.</string>
   <string name="device_name_input_hint">Verander apparaatnaam</string>
-  <string name="device_name_input_overlength">Limiet overschreden</string>
+  <string name="device_name_input_overlength">Teveel karakters ingevoerd</string>
   <string name="device_name_usage_point">Apparaten in de buurt kunnen deze naam zien</string>
   <string name="device_picker">Bluetooth apparaat kiezen</string>
   <string name="device_rear_camera">Camera achterkant</string>
@@ -1613,6 +1613,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">Ondersteunt geen werkprofielen</string>
+  <string name="http_invoke_app">Web apps</string>
+  <string name="http_invoke_app_summary">Apps sneller openen zonder ze te installeren</string>
   <string name="ignore_optimizations_off">Optimaliseren</string>
   <string name="ignore_optimizations_off_desc">Aanbevolen voor beter batterijleven</string>
   <string name="ignore_optimizations_on">Niet optimaliseren</string>
@@ -3829,6 +3831,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_off_keyguard_password_alert_title">Uitschakelen</string>
   <string name="turn_off_keyguard_password_confirm_msg">Beveiligingsfuncties van apparaat zullen niet werken zonder uw patroon.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">U zal niet in staat zijn om het apparaat te ontgrendelen met uw vingerafdruk nadat u het wachtwoord heeft uitgeschakeld.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nadat u uw vergrendelscherm wachtwoord uitschakelt, worden opgeslagen vingerafdrukken verwijderd. U zal niet in staat zijn om het apparaat te ontgrendelen met uw vingerafdruk.</string>
   <string name="turn_off_radio">Radio uitschakelen</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
   <string name="turn_on_keyguard_password">Wachtwoord op vergrendelscherm inschakelen</string>
