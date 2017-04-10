@@ -20,16 +20,20 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personen</item>
-		<item quantity="one">1 persoon</item>
+		<item quantity="one">%1$s persoon</item>
     </plurals>
+	<plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s berichten verwijderen?</item>
+        <item quantity="one">%1$s bericht verwijderen?</item>
+      </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d berichten</item>
-        <item quantity="zero">0 berichten</item>
-        <item quantity="one">1 bericht</item>
+        <item quantity="zero">%d berichten</item>
+        <item quantity="one">%d bericht</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%d berichten zijn niet gesync.</item>
-        <item quantity="one">1 bericht is niet gesync.</item>
+        <item quantity="one">%d bericht is niet gesync.</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s berichten</item>
@@ -38,5 +42,6 @@
 	<plurals name="custom_select_title_items_selected">
         <item quantity="other">%d geselecteerd</item>
         <item quantity="zero">Items selecteren</item>
+		<item quantity="one">%d geselecteerd</item>
     </plurals>
 </resources>
