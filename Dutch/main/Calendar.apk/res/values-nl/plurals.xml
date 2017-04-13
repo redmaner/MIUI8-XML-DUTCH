@@ -2,30 +2,22 @@
 <resources>
     <plurals name="Nminutes">
         <item quantity="other">%d minuten van tevoren</item>
-        <item quantity="one">1 minuut van tevoren</item>
+        <item quantity="one">%d minuut van tevoren</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d uur van tevoren</item>
-        <item quantity="one">1 uur van tevoren</item>
+        <item quantity="one">%d uur van tevoren</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d dagen van tevoren</item>
-        <item quantity="one">1 dag van tevoren</item>
+        <item quantity="one">%d dag van tevoren</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">Week %d</item>
+        <item quantity="other">WEEK %d</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
-    </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d afspraken</item>
-        <item quantity="one">1 afspraak</item>
-    </plurals>
-    <plurals name="N_remaining_events">
-        <item quantity="other">+%d afspraken</item>
-        <item quantity="one">+1 afspraak</item>
     </plurals>
 	<plurals name="Ndays_ago_at">
         <item quantity="other">%1$d dagen van tevoren om %2$s</item>
@@ -37,7 +29,7 @@
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d weken van tevoren</item>
-        <item quantity="one">1 week van tevoren</item>
+        <item quantity="one">%d week van tevoren</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
         <item quantity="other">Jubileum: %2$d jaar sinds %1$s</item>
