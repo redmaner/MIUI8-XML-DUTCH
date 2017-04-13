@@ -16,4 +16,16 @@
         <item quantity="other">Helder</item>
         <item quantity="one">Helder</item>
     </plurals>
+	<plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> personen hebben gestemd"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> persoon heeft gestemd"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s personen</item>
+        <item quantity="one"> | %1$s persoon</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s personen| </item>
+        <item quantity="one">%1$s persoon | </item>
+    </plurals>
 </resources>
