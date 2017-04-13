@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Wachten op %1$d bestanden</item>
+        <item quantity="one">Wachten op %1$d bestand</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d bestanden van %1$s</item>
+        <item quantity="one">%2$d bestand van %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">%2$d bestanden ontvangen van %1$s</item>
+        <item quantity="one">%2$d bestand ontvangen van %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d afbeeldingen van %1$s</item>
+        <item quantity="one">%2$d afbeelding van %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">%2$d afbeeldingen ontvangen van %1$s</item>
+        <item quantity="one">%2$d afbeelding ontvangen van %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d nummers van %1$s</item>
+        <item quantity="one">%2$d nummer van %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">%2$d nummers ontvangen van %1$s</item>
+        <item quantity="one">%2$d nummer ontvangen van %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d video\'s van %1$s</item>
+        <item quantity="one">%2$d video van %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">%2$d video\'s ontvangen van %1$s</item>
+        <item quantity="one">%2$d video ontvangen van %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d apps van %1$s</item>
+        <item quantity="one">%2$d app van %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">%2$d apps ontvangen van %1$s</item>
+        <item quantity="one">%2$d app ontvangen van %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">%1$s bestanden ontvangen…</item>
+        <item quantity="one">%1$s bestand ontvangen…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s bestanden niet verstuurd</item>
+        <item quantity="one">%1$s bestand niet verstuurd</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Bestanden ontvangen van %1$s</item>
+        <item quantity="one">Bestand ontvangen van %1$s</item>
+    </plurals>
+</resources>
