@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Locatie invoeren</string>
-  <string name="act_find_city_hot_title">Toevoegen</string>
-  <string name="act_set_city_find_side">Locatie bepalen…</string>
+  <string name="act_find_city_hot_attractions_title">Populaire plekken</string>
+  <string name="act_find_city_hot_city_title">Populaire steden</string>
+  <string name="act_set_city_find_side">Locatie bepalen</string>
   <string name="act_set_city_find_side_error">Locatie bepalen mislukt</string>
   <string name="act_weather_find_city_added">Toegevoegd</string>
   <string name="act_weather_find_city_click_retry">Opnieuw proberen</string>
@@ -42,7 +43,7 @@
   <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="commercial">Reclame</string>
   <string name="common_loading_text">Een momentje…</string>
-  <string name="connect_fail">Netwerkverbinding is abnormaal. Probeer later opnieuw.</string>
+  <string name="connect_fail">Kon niet verbinden met netwerk. Probeer later opnieuw.</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weersverwachting voor %1$s dagen</string>
   <string name="daily_forcast_no_stable_direction">Geen wind</string>
@@ -52,7 +53,7 @@
   <string name="daily_forecast_no_data">"Kon weerinformatie niet verkrijgen
 Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string>
   <string name="edit_alert_city_title">Alarmen beheren</string>
-  <string name="edit_city">Stad bewerken</string>
+  <string name="edit_city">Stad beheren</string>
   <string name="first_start_network_msg">Deze app moet verbonden zijn met internet en toegang hebben tot uw locatie om normaal te werken.</string>
   <string name="first_start_network_title">Internetverbinding en locatietoegang</string>
   <string name="gps_hint">Huidige locatie</string>
@@ -89,7 +90,6 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
   <string name="international_details_wind_title">WIND</string>
   <string name="locate_fail_detail_err">"Kan apparaat niet lokaliseren
 Tik op het scherm om handmatig een stad toe te voegen"</string>
-  <string name="location_management">Locaties</string>
   <string name="location_tag">Lokaliseren</string>
   <string name="menu_add_city">Locaties wijzigen</string>
   <string name="menu_location">Locaties</string>
