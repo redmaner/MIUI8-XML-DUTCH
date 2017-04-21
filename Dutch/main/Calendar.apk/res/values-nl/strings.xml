@@ -25,6 +25,9 @@
   <string name="ad_card_installing">Installeren</string>
   <string name="ad_card_network_error">Geen netwerkverbinding, probeer het later opnieuw!</string>
   <string name="ad_card_spread">Advertentie</string>
+  <string name="add_anniversary">Verjaardag toevoegen</string>
+  <string name="add_countdown">Aftelling toevoegen</string>
+  <string name="add_event">Afspraak toevoegen</string>
   <string name="agenda_today">VANDAAG, %1$s</string>
   <string name="agenda_tomorrow">MORGEN, %1$s</string>
   <string name="agenda_view">Gebeurtenissen</string>
@@ -59,6 +62,7 @@
   <string name="button_day">Dag</string>
   <string name="button_month">Maand</string>
   <string name="button_week">Week</string>
+  <string name="calculate_result">Resultaat berekenen</string>
   <string name="calendar_network_error">Netwerkfout</string>
   <string name="calendar_refresh">Vernieuwen</string>
   <string name="can_not_create_long_event">Naam van afspraak is te lang</string>
@@ -105,7 +109,21 @@
   <string name="credit_event_delete_successfully">Gebeurtenis succesvol verwijderd van Creditkaart kaartbetalingen</string>
   <string name="credit_event_title">Creditkaartrekening</string>
   <string name="daily">Dagelijks</string>
+  <string name="date_calculate">Datum berekenen</string>
+  <string name="date_calculate_days">Het aantal dagen invoeren</string>
+  <string name="date_calculate_description">Bereken de datum voor of na een paar dagen</string>
+  <string name="date_calculate_direction">Richting datum berekening</string>
+  <string name="date_calculate_result">Resultaat datum berekening</string>
+  <string name="date_calculate_tab">Datum berekening</string>
+  <string name="date_calculate_today">0 dagen</string>
+  <string name="date_calculate_when">Wanneer</string>
+  <string name="date_interval_description">Interval tussen twee datum berekenen</string>
+  <string name="date_interval_end">Naar</string>
+  <string name="date_interval_start">Van</string>
+  <string name="date_interval_tab">Datum interval</string>
+  <string name="date_interval_text_to">Naar %1$s</string>
   <string name="date_pattern_mm_dd">d/M</string>
+  <string name="date_today">(vandaag)</string>
   <string name="day_view_new_event_hint">Nieuwe afspraak</string>
   <string name="default_reminder_mode">Herinneringen</string>
   <string name="delete_calendar">Uitschrijven</string>
@@ -124,6 +142,10 @@
   <string name="downloading">Bezig met downloaden…</string>
   <string name="downloading_wallpaper">Achtergrond downloaden</string>
   <string name="dropdown_delete_button_desc">%s verwijderen van ontvangers</string>
+  <string name="edit_date_calculate_days_backward_error_hint">Kan niet achteruit rekenen</string>
+  <string name="edit_date_calculate_days_empty_hint">Het aantal dagen mag niet leeg zijn</string>
+  <string name="edit_date_calculate_days_error_hint">Voer de juiste dagen in een marge van%1$d in</string>
+  <string name="edit_date_calculate_days_forward_error_hint">Kan niet vooruit rekenen</string>
   <string name="edit_event_all_day_label">De hele dag</string>
   <string name="edit_event_anniversary_name_empty_hint">Voer beschrijving in</string>
   <string name="edit_event_anniversary_name_hint">Gebeurtenis</string>
@@ -390,6 +412,7 @@
   <string name="show_newer_events">Raak aan om gebeurtenissen na %1$s weer te geven</string>
   <string name="show_older_events">Raak aan om gebeurtenissen vóór %1$s weer te geven</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
+  <string name="start_date_calculate">Start berekening</string>
   <string name="subscribe_card">Abonneer je nu</string>
   <string name="subscribe_card_success">Abonnementen succes, kan thuis worden bekeken </string>
   <string name="subscribe_card_success_for_homepage">Abonnementen"%1$s”succes</string>
@@ -462,6 +485,7 @@ U kunt ook herinneringen aan abonnement toevoegen"</string>
   <string name="view_event_calendar_label">Agenda:</string>
   <string name="view_event_organizer_label">Organisator:</string>
   <string name="view_event_response_label">Aanwezig?</string>
+  <string name="view_in_month_view">Bekijken in maand overzicht</string>
   <string name="week_view_today_toast">U bekijk momenteel deze week</string>
   <string name="weekly">Wekelijks (iedere %s)</string>
   <string name="when_label">Wanneer</string>
