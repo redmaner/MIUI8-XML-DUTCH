@@ -36,6 +36,8 @@
   <string name="app_install_tips_go_to">Openen</string>
   <string name="app_install_tips_install_success">%1$s met succes geïnstalleerd</string>
   <string name="app_name">JunkEngine</string>
+  <string name="app_usage_never">Niet recent gebruikt</string>
+  <string name="app_usage_recently">Recent gebruikt</string>
   <string name="apps_sort_type_item_size">Grootte</string>
   <string name="apps_sort_type_item_time">Frequent gebruikt</string>
   <string name="apps_sort_type_title">Sorteren op</string>
@@ -174,7 +176,7 @@
   <string name="empty_title_ad">Geen verouderde bestanden gevonden</string>
   <string name="empty_title_apk">Geen installatiepakketten gevonden</string>
   <string name="empty_title_garbage_cache">Niets om op te ruimen</string>
-  <string name="empty_title_garbage_white_list">Ingedrukt houden om uitzonderingen toe te voegen.</string>
+  <string name="empty_title_garbage_white_list">Geen uitzonderingen</string>
   <string name="empty_title_installed_apps">Leeg</string>
   <string name="empty_title_large_files">Leeg</string>
   <string name="empty_title_photos">Geen foto\'s gevonden</string>
@@ -277,9 +279,14 @@
   <string name="low_memory_warning_dialog_msg">Ruimte vrijmaken op uw apparaat voordat u doorgaat</string>
   <string name="low_memory_warning_dialog_ok_button">Wissen</string>
   <string name="low_memory_warning_dialog_title">Niet genoeg opslagruimte</string>
+  <string name="main_title_filesize">%1$s afval</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
+  <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
+  <string name="menu_clear">Wissen</string>
+  <string name="menu_install">Installeer deze app</string>
+  <string name="menu_view">Bekijken in folder</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Controleren op updates…</string>
   <string name="msg_cleanup_db_update_time_unknown">Geüpdatet op: onbekend</string>
