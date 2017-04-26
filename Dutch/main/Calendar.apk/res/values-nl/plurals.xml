@@ -51,4 +51,24 @@
         <item quantity="other">dagen te gaan</item>
         <item quantity="one">dag te gaan</item>
     </plurals>
+	<plurals name="work_days">
+        <item quantity="other">%d werkdagen</item>
+        <item quantity="one">%d werkdag</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d dagen ervoor</item>
+        <item quantity="one">%1$d dag ervoor</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d dagen erna</item>
+        <item quantity="one">%1$d dag erna</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d dagen ervoor</item>
+        <item quantity="one">%1$d dag ervoor</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d dagen erna</item>
+        <item quantity="one">%1$d dag erna</item>
+    </plurals>
 </resources>
