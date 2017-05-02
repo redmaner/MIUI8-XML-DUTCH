@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="response_labels1">
         <item>Geen reactie</item>
@@ -15,15 +15,11 @@
         <item>Alleen deze afspraak</item>
         <item>Alle afspraken in de reeks</item>
     </string-array>
-	     <string-array name="fortune_gender">
-        <item>Mannelijk</item>
-        <item>Vrouwelijk</item>
-    </string-array>
-	<string-array name="summary_card_text_chain">
-        <item>[Abonneer] Abonneren op uw agendafuncties of diensten</item>
-        <item>[Abonneer] Om uw eigen exclusieve Mi kalender aan te passen</item>
-        <item>[Inschrijven] Voor uw aangepaste kalenderfuncties en diensten</item>
-        <item>[Inschrijven] Voor andere kalenderfuncties en diensten</item>
+     <string-array name="global_criket_match">
+        <item>IPL</item>
+        <item>Internationaal</item>
+        <item>Nationaal</item>
+        <item>T20 Competities</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparant</item>
@@ -40,31 +36,7 @@
         <item>2 dagen van tevoren</item>
         <item>1 week van tevoren</item>
     </string-array>
-	<string-array name="miui_reminder_minutes_labels">
-        <item>Geen herinnering</item>
-        <item>Op tijd van afspraak</item>
-        <item>5 minuten van tevoren</item>
-        <item>10 minuten van tevoren</item>
-        <item>15 minuten van tevoren</item>
-        <item>30 minuten van tevoren</item>
-        <item>1 uur van tevoren</item>
-        <item>1 dag van tevoren</item>
-        <item>2 dagen van tevoren</item>
-        <item>1 week van tevoren</item>
-    </string-array>
-	<string-array name="miui_preferences_default_reminder_labels">
-        <item>Geen herinnering</item>
-        <item>Op tijd van afspraak</item>
-        <item>5 minuten van tevoren</item>
-        <item>10 minuten van tevoren</item>
-        <item>15 minuten van tevoren</item>
-        <item>30 minuten van tevoren</item>
-        <item>1 uur van tevoren</item>
-        <item>1 dag van tevoren</item>
-        <item>2 dagen van tevoren</item>
-        <item>1 week van tevoren</item>
-    </string-array>
-	<string-array name="preferences_week_start_day_labels">
+    <string-array name="preferences_week_start_day_labels">
         <item>Regiostandaard</item>
         <item>Zaterdag</item>
         <item>Zondag</item>
@@ -88,21 +60,15 @@
         <item>maand</item>
         <item>jaar</item>
     </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>dagen</item>
-        <item>weken</item>
-        <item>maanden</item>
-        <item>jaren</item>
-    </string-array>
     <string-array name="repeat_choose_day">
-        <item>1ste</item>
+        <item>1st</item>
         <item>2de</item>
         <item>3de</item>
         <item>4de</item>
         <item>5de</item>
         <item>6de</item>
         <item>7de</item>
-        <item>8ste</item>
+        <item>8de</item>
         <item>9de</item>
         <item>10de</item>
         <item>11de</item>
@@ -172,7 +138,67 @@
         <item>Maandelijks</item>
         <item>Jaarlijks</item>
     </string-array>
-	<string-array name="date_calculate_spinner">
+    <string-array name="aries_info">
+        <item>ram</item>
+        <item>Ram</item>
+        <item>3/21 - 4/19</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>stier</item>
+        <item>Stier</item>
+        <item>4/20 - 5/20</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>tweeling</item>
+        <item>Tweeling</item>
+        <item>5/21 - 6/21</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>kreeft</item>
+        <item>Kreeft</item>
+        <item>6/22 - 7/22</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leeuw</item>
+        <item>Leeuw</item>
+        <item>7/23 - 8/22</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>maagd</item>
+        <item>Maagd</item>
+        <item>8/23 - 9/22</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>weegschaal</item>
+        <item>Weegschaal</item>
+        <item>9/23 - 10/23</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>schorpioen</item>
+        <item>Schorpioen</item>
+        <item>10/24 - 11/22</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>boogschutter</item>
+        <item>Boogschutter</item>
+        <item>11/23 - 12/21</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>steenbok</item>
+        <item>Steenbok</item>
+        <item>12/22 - 1/19</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>waterman</item>
+        <item>Waterman</item>
+        <item>1/20 - 2/18</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>vissen</item>
+        <item>Vissen</item>
+        <item>2/19 - 3/20</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
         <item>Vooruit</item>
         <item>Achteruit</item>
     </string-array>
