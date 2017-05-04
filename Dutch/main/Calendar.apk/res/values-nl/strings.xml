@@ -50,7 +50,6 @@
   <string name="birthday_event_description_today">Vandaag is</string>
   <string name="birthday_event_description_tomorrow">Morgen is</string>
   <string name="birthday_event_description_yesterday">Gisteren was</string>
-  <string name="birthday_metric">e</string>
   <string name="birthday_notification_text_days_later">%1$s dagen tot %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">Vergeet niet te feliciteren!</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s komt eraan."</string>
@@ -222,6 +221,8 @@
   <string name="from_google_group_calendar">Google kalender</string>
   <string name="gadget_no_events">Geen lopende agenda-afspraken</string>
   <string name="gadget_title">Agenda</string>
+   <string name="global_action_text_card_manager">Een meer interesante agenda</string>
+  <string name="global_cricket_no_match">Er is geen cricketcompetitie vandaag en u kan de hoogtepunten van de voorbije competities beoordelen of een andere wedstrijd proberen. Prachtig evenement, het wachten waard!</string>
   <string name="guide_card_hint_text">Verjaardagen importeren uit contacten</string>
   <string name="hint_attendees">Gasten</string>
   <string name="hint_description">Beschrijving</string>
@@ -284,6 +285,7 @@
   <string name="match_ed">Installatie voltooid</string>
   <string name="match_ing">Lopend</string>
   <string name="match_not_started">Niet gestart</string>
+  <string name="match_select_activity_label">Wedstrijden selecteren</string>
   <string name="menu_general_preferences">Algemene instellingen</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_reminder_preferences">Herinneringen</string>
@@ -363,8 +365,10 @@
   <string name="repeat_end_label">Stoppen met herhalen</string>
   <string name="repeat_end_times_unit">" maal"</string>
   <string name="repeat_interval_dialog_title">Iedere %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$s</string>
-  <string name="repeat_interval_frequency_single">%1$s</string>
+  <string name="repeat_interval_frequency_day_single">dag</string>
+  <string name="repeat_interval_frequency_month_single">maand</string>
+  <string name="repeat_interval_frequency_week_single">week</string>
+  <string name="repeat_interval_frequency_year_single">jaar</string>
   <string name="repeat_label_choose_day">Kies dag</string>
   <string name="repeat_label_choose_month">Kies maand</string>
   <string name="repeat_label_choose_time">Kies tijd voor een herinnering</string>

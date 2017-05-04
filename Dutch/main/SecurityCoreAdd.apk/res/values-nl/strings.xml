@@ -37,7 +37,7 @@ zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
   <string name="confirmCloseSpaceDes">Na verwijderen zal u niet in staat zijn om naar de tweede ruimte te gaan. Alle data wordt verplaatst of verwijderd.</string>
   <string name="confirmDelete">Verwijderen</string>
   <string name="confirmSecondSpacePassword">Bevestig wachtwoord tweede ruimte</string>
-  <string name="confirm_airspace_password">Bevestig wachtwoord werkruimte</string>
+  <string name="confirm_airspace_password">Bevestig %s wachtwoord</string>
   <string name="confirm_main_space_password">Bevestig wachtwoord eerste ruimte</string>
   <string name="confirm_restore">Niet weergeven</string>
   <string name="contactData">Contacten</string>
@@ -53,6 +53,7 @@ kan op elk moment bekeken worden"</string>
   <string name="create_space_loading">Tweede ruimte aanmaken…</string>
   <string name="create_work_space">Werkruimte aanmaken</string>
   <string name="creating_app_icon">Icoon aanmaken…</string>
+  <string name="current_space">Current Space</string>
   <string name="dataSafe">Het gebruik van de tweede ruimte is net alsof u twee apparaten hebt.</string>
   <string name="declare_dialog_title">Over gedupliceerde apps</string>
   <string name="deleteAll">Alle verwijderen</string>
@@ -85,6 +86,7 @@ kan op elk moment bekeken worden"</string>
   <string name="finger_print_num">Vingerafdruk %d</string>
   <string name="finger_print_of_use">Vingerafdruk gebruiken</string>
   <string name="fingerprint_removal_failed">Kon vingerafdruk niet verwijderen</string>
+  <string name="function_not_support">Not support in this space</string>
   <string name="goToSecondSpacce">Ga naar de tweede ruimte</string>
   <string name="go_on_import">Doorgaan met importeren</string>
   <string name="guide_contact_sub_title_desc">"Toegevoegde contacten aan de tweede ruimte zullen privé zijn.
@@ -216,7 +218,7 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="start_new_fingerprint_tips">"Tweede ruimte vingerafdruk gebruiken
 om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="start_setting_guide_desc_title">Er zijn een paar dingen om in te stellen</string>
-  <string name="summary_switch_apps_settings">Apps selecteren die gebruikt worden in de tweede ruimte</string>
+  <string name="summary_switch_apps_settings">Apps selecteren die gebruikt worden in de huidige ruimte</string>
   <string name="sure_to_use">Bevestigen</string>
   <string name="switchDataSummary">Items verplaatsen tussen ruimten</string>
   <string name="switch_apps_settings">Appinstellingen</string>
@@ -227,12 +229,12 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="switch_file_success">Bestanden met succes verplaatst</string>
   <string name="switch_in_contacts">Contacten importeren</string>
   <string name="switch_in_files">Bestanden importeren</string>
-  <string name="switch_in_hidden_space">Importeren naar tweede ruimte</string>
+  <string name="switch_in_hidden_space">Importeren naar huidige ruimte</string>
   <string name="switch_in_photos">Foto\'s importeren</string>
   <string name="switch_in_privacy_contacts">Privécontacten importeren</string>
   <string name="switch_out_contacts">Contacten exporteren</string>
   <string name="switch_out_files">Bestanden exporteren</string>
-  <string name="switch_out_hidden_space">Data van tweede ruimte exporteren</string>
+  <string name="switch_out_hidden_space">Data van huidige ruimte exporteren</string>
   <string name="switch_out_photos">Foto\'s exporteren</string>
   <string name="switch_out_privacy_contacts">Privecontacten exporteren</string>
   <string name="switch_success">Met succes verplaatst</string>
