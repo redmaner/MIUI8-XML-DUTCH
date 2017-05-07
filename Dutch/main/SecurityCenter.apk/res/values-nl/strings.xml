@@ -211,6 +211,16 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="app_not_installed_toast">App is niet geïnstalleerd op apparaat</string>
   <string name="app_version">Versie</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="applock_add_account">Toevoegen</string>
+  <string name="applock_add_account_info">"Voeg Mi Account toe om in staat te zijn om je wachtwoord te herstellen
+in het geval je hem vergeten bent"</string>
+  <string name="applock_add_account_setting">Account &amp; privacy</string>
+  <string name="applock_close_dialog_summary">Apps zullen niet langer zijn beveiligd en je wachtwoord zal worden verwijderd nadat je appvergrendeling hebt uitgeschakeld.</string>
+  <string name="applock_close_dialog_title">Appvergrendeling uitschakelen?</string>
+  <string name="applock_exit_account_info">Account zal automatisch worden verwijderd wanneer je uitlogt</string>
+  <string name="applock_login_and_add_account">inloggen &amp; toevoegen</string>
+  <string name="applock_not_add_account">Niet nu</string>
+  <string name="applock_not_login_account">Je bent niet ingelogd</string>
   <string name="apps_item_sign_dialog_content">"%s's handtekening is verschillend van de versie in de App Store. Deze app verwijderen en de officiele versie installeren? Let op: een app met een conflicterende handtekening kan leiden tot gegevensverlies."</string>
   <string name="apps_item_sign_dialog_title">Installeer officiele app</string>
   <string name="apps_item_sign_install_button_text">Vervangen</string>
@@ -241,10 +251,10 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="auto_task_condition_time_duration_text">Van %1$s tot %2$s</string>
   <string name="auto_task_condition_time_pick_title">Timer instellen</string>
   <string name="auto_task_condition_time_text">Op %s</string>
-  <string name="auto_task_dialog_button_close">Voltooid</string>
+  <string name="auto_task_dialog_button_close">Instellen</string>
   <string name="auto_task_edit_abandon_change">Wijzigingen ongedaan maken?</string>
   <string name="auto_task_edit_activity_title">Mijn automatische taken</string>
-  <string name="auto_task_edit_adandon_button_text">Afwijzen</string>
+  <string name="auto_task_edit_adandon_button_text">Ongedaan maken</string>
   <string name="auto_task_edit_choose_condition_title">Conditie selecteren</string>
   <string name="auto_task_edit_choose_new_operation">Actie toevoegen</string>
   <string name="auto_task_edit_choose_operation_title">Actie selecteren</string>
@@ -886,7 +896,7 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="main_daily_package">Daily data plan</string>
   <string name="main_leisure_remained">Data resterend</string>
   <string name="main_month_total_used">Deze maand gebruikt</string>
-  <string name="main_month_used">Deze maand gebruikt</string>
+  <string name="main_month_used">Databundel</string>
   <string name="main_no_info">Geen data</string>
   <string name="main_normal_data_usage">Mobiele data gebruikt</string>
   <string name="main_open_traffic_ctrl_button">Datagebruik beperken</string>
