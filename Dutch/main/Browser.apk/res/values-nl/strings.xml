@@ -698,6 +698,8 @@ Deze pagina verlaten?"</string>
   <string name="skip_current_version">Deze versie overslaan</string>
   <string name="snapshot_failed">Opslaan om offline te lezen mislukt</string>
   <string name="snapshot_successed">Kon niet opslaan voor offline lezen</string>
+  <string name="ssl_bad_clock_date_settings">Datuminstellingen</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"Een priveverbinding met %s1 kan niet worden opgezet omdat de datum en tijd van uw apparaat (%s2) verkeerd zijn igesteld."</string>
   <string name="ssl_certificate">Veiligheidscertificaat</string>
   <string name="ssl_certificate_is_valid">Dit certificaat is geldig.</string>
   <string name="ssl_continue">Doorgaan</string>
@@ -712,7 +714,7 @@ Deze pagina verlaten?"</string>
   <string name="ssl_warnings_header">Er zijn problemen met het beveiligingscertificaat van deze site.</string>
   <string name="start_save_page_capture">Schermafdruk opslaan…</string>
   <string name="storage_internal">Interne opslag</string>
-  <string name="storage_permission_request_toast">Download heeft opslag toestemming nodig, openen</string>
+  <string name="storage_permission_request_toast">Download heeft opslagtoestemming nodig. Nu openen?</string>
   <string name="storage_sd_card">SD kaart</string>
   <string name="storage_usb">USB opslag</string>
   <string name="suggest_access_appstore">Mi App Store</string>

@@ -199,8 +199,8 @@ Nu bijwerken?"</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Bijlagen</string>
   <string name="auto_advance_help_title">Na het verwijderen van een bericht, bekijk…</string>
-  <string name="auto_advance_label">Scrollen na verwijderen van bericht</string>
-  <string name="auto_advance_summary">Kies naar welk bericht je wilt scrollen nadat een bericht is verwijderd</string>
+  <string name="auto_advance_label">Actie na verwijderen van bericht</string>
+  <string name="auto_advance_summary">Kies welk bericht je wilt zien nadat een bericht is verwijderd</string>
   <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
   <string name="battery_saver">Energiebesparende modus</string>
   <string name="battery_saver_keywords">battery saver;mail battery</string>
@@ -305,6 +305,8 @@ Nu bijwerken?"</string>
   <string name="date_heading">"Datum: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Vandaag, %1$s</string>
+  <string name="default_">STANDAARD</string>
+  <string name="default_setup">STANDAARD INSTELLINGEN</string>
   <string name="del_account_questionnair_hint">Kan je ons vertellen waarom u dit account verwijderd?</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_message_flow">Automatisch verwijderen</string>
@@ -442,10 +444,10 @@ Nu bijwerken?"</string>
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Minuscuul</string>
   <string name="generic_attachment_problem">Kan bestand niet bijvoegen.</string>
-  <string name="get_database_exception">"Wis de gegevens van deze app in Instellingen &gt; Systeemapps en probeer het opnieuw"</string>
-  <string name="gmail_acceleration">Gebruik proxy server voor Gmail Account</string>
-  <string name="gmail_login_confirm_to_use_proxy">Proxy server gebruiken voor toegang tot je Gmail Account?</string>
-  <string name="gmail_login_failed_non_proxy_title">Kon geen toegang tot de Gmail server krijgen</string>
+  <string name="get_database_exception">"Wis de gegevens van deze app in Instellingen &gt; Geïnstalleerde apps en probeer het opnieuw"</string>
+  <string name="gmail_acceleration">Gebruik proxyserver voor Gmail-account</string>
+  <string name="gmail_login_confirm_to_use_proxy">Proxyserver gebruiken voor toegang tot je Gmail-account?</string>
+  <string name="gmail_login_failed_non_proxy_title">Kon geen toegang tot de Gmail-server krijgen</string>
   <string name="gmail_server_authorization_deleted">Kon account niet verifiëren. Probeer dit account opnieuw toe te voegen..</string>
   <string name="gmail_web_login_go">Ok</string>
   <string name="gmail_web_login_required_message">Aanmelden bij Gmail</string>
@@ -453,7 +455,7 @@ Nu bijwerken?"</string>
   <string name="header_category_other">Geef uw mening</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
-  <string name="hide_atts_remaining">Verberg %1$d bijlagen</string>
+  <string name="hide_atts_remaining">%1$d bijlagen verbergen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
