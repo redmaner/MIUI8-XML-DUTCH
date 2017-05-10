@@ -1,5 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="timezone_labels">
+        <item>Marshalleilanden</item>
+        <item>Midway-eilanden</item>
+        <item>Hawaï</item>
+        <item>Alaska</item>
+        <item>PST</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>MST</item>
+        <item>Centraal Amerika</item>
+        <item>CST</item>
+        <item>Mexico-Stad</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>EST</item>
+        <item>Venezuela</item>
+        <item>AST (Barbados)</item>
+        <item>AST (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Groenland</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantisch</item>
+        <item>Azoren</item>
+        <item>Kaapverdische Eilanden</item>
+        <item>Casablanca</item>
+        <item>Londen, Dublin</item>
+        <item>Amsterdam, Berlijn</item>
+        <item>Belgrado</item>
+        <item>Brussel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>WAT</item>
+        <item>Amman, Jordanië</item>
+        <item>Athene, Istanbul</item>
+        <item>Beiroet, Libanon</item>
+        <item>Caïro</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskou</item>
+        <item>Koeweit</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Bakoe</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kaboel</item>
+        <item>Islamabad, Karachi</item>
+        <item>Oral</item>
+        <item>Jekaterinenburg</item>
+        <item>Calcutta</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Rangoon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hong Kong</item>
+        <item>Irkoetsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoel</item>
+        <item>Tokyo, Osaka</item>
+        <item>Jakoetsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+	<string-array name="ordinal_labels">
+        <item>eerste</item>
+        <item>tweede</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laatste</item>
+    </string-array>
     <string-array name="response_labels1">
         <item>Geen reactie</item>
         <item>Ja</item>
@@ -19,7 +112,7 @@
         <item>IPL</item>
         <item>Internationaal</item>
         <item>Nationaal</item>
-        <item>T20 Competities</item>
+        <item>T20 competities</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparant</item>
@@ -42,6 +135,19 @@
         <item>Zondag</item>
         <item>Maandag</item>
     </string-array>
+	<string-array name="fortune_random_birthday">
+        <item>01-01-1992</item>
+        <item>04-02-2013</item>
+        <item>05-04-1995</item>
+        <item>06-08-1999</item>
+        <item>21-06-1996</item>
+        <item>18-01-2014</item>
+        <item>23-01-2006</item>
+        <item>13-01-2012</item>
+        <item>17-01-1993</item>
+        <item>08-01-1980</item>
+        <item>10-01-1982</item>
+    </string-array>
 	<string-array name="prefEntries_alerts_vibrateWhen">
         <item>Altijd</item>
         <item>Alleen indien stil</item>
@@ -61,7 +167,7 @@
         <item>jaar</item>
     </string-array>
     <string-array name="repeat_choose_day">
-        <item>1st</item>
+        <item>1ste</item>
         <item>2de</item>
         <item>3de</item>
         <item>4de</item>
@@ -141,62 +247,62 @@
     <string-array name="aries_info">
         <item>ram</item>
         <item>Ram</item>
-        <item>3/21 - 4/19</item>
+        <item>21/3 - 19/4</item>
     </string-array>
     <string-array name="taurus_info">
         <item>stier</item>
         <item>Stier</item>
-        <item>4/20 - 5/20</item>
+        <item>20/4 - 20/5</item>
     </string-array>
     <string-array name="gemini_info">
         <item>tweeling</item>
         <item>Tweeling</item>
-        <item>5/21 - 6/21</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="cancer_info">
         <item>kreeft</item>
         <item>Kreeft</item>
-        <item>6/22 - 7/22</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="leo_info">
         <item>leeuw</item>
         <item>Leeuw</item>
-        <item>7/23 - 8/22</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="virgo_info">
         <item>maagd</item>
         <item>Maagd</item>
-        <item>8/23 - 9/22</item>
+        <item>23/8 - 22/9</item>
     </string-array>
     <string-array name="libra_info">
         <item>weegschaal</item>
         <item>Weegschaal</item>
-        <item>9/23 - 10/23</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>schorpioen</item>
         <item>Schorpioen</item>
-        <item>10/24 - 11/22</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="sagittarius_info">
         <item>boogschutter</item>
         <item>Boogschutter</item>
-        <item>11/23 - 12/21</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="capricorn_info">
         <item>steenbok</item>
         <item>Steenbok</item>
-        <item>12/22 - 1/19</item>
+        <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>waterman</item>
         <item>Waterman</item>
-        <item>1/20 - 2/18</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="pisces_info">
         <item>vissen</item>
         <item>Vissen</item>
-        <item>2/19 - 3/20</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Vooruit</item>
