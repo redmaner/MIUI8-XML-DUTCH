@@ -9,12 +9,28 @@
         <item quantity="one">1 SMS</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Geen tracking data verbruik voor %d apps</item>
-        <item quantity="one">Geen tracking data verbruik voor %d app</item>
+        <item quantity="other">Dataverbruik wordt niet bijgehouden voor %d apps</item>
+        <item quantity="one">Dataverbruik wordt niet bijgehouden voor %d app</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Tracking data verbruik voor %d apps</item>
-        <item quantity="one">Tracking data verbruik voor %d app</item>
+        <item quantity="other">Dataverbruik wordt bijgehouden voor %d apps</item>
+        <item quantity="one">Dataverbruik wordt bijgehouden voor %d app</item>
+    </plurals>
+	<plurals name="traffic_setting_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Je hebt al %s dagelijkse datalimieten gebruikt.</item>
+        <item quantity="one">Je hebt al %s dagelijks datalimiet gebruikt.</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Je hebt al %s dagelijkse datalimieten gebruikt.
+
+Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening brengen."</item>
+        <item quantity="one">"Je hebt al %s dagelijks datalimiet gebruikt.
+
+Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening brengen."</item>
     </plurals>
 	<plurals name="hints_traffic_saving_optimized">
         <item quantity="other">%d apps geoptimaliseerd</item>
@@ -277,5 +293,17 @@
     <plurals name="app_manager_reject_count">
         <item quantity="other">%d keer geblokkeerd</item>
         <item quantity="one">%d keer geblokkeerd</item>
+    </plurals>
+	<plurals name="app_usage_day">
+        <item quantity="other">Niet gebruikt voor %d dagen</item>
+        <item quantity="one">Niet gebruikt voor %d dag</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Niet gebruikt voor %d maanden</item>
+        <item quantity="one">Niet gebruikt voor %d maand</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Niet gebruikt voor %d jaar</item>
+        <item quantity="one">Niet gebruikt voor %d jaar</item>
     </plurals>
 </resources>
