@@ -34,7 +34,7 @@
   <string name="SMS_PREFIX">Voorvoegsel zwarte lijst</string>
   <string name="SMS_SERVICE">Service zwarte lijst</string>
   <string name="SMSpass">SMS toestaan</string>
-  <string name="STRANGER_BLOCK">Vreemde zwarte lijst</string>
+  <string name="STRANGER_BLOCK">Vreemden zwarte lijst</string>
   <string name="action_source_sms_title">Geblokkeerde SMS</string>
   <string name="ad_block_hint">%d geblokkeerd</string>
   <string name="ad_install_monitor">Apps inspecteren op adware</string>
@@ -57,7 +57,7 @@
   <string name="antispam_xpace_text">Wissel naar eerste ruimte om zwarte lijst in te stellen</string>
   <string name="app_name">Zwarte lijst</string>
   <string name="backsound_set_hint">Uw verzend geluid instellen naar %s?</string>
-  <string name="baidu_thanks">Powered by Baidu</string>
+  <string name="baidu_thanks">Mogelijk gemaakt door Baidu</string>
   <string name="birthday">Verjaardag</string>
   <string name="bl_block_info" formatted="false">Oproepen: %d | SMS: %d</string>
   <string name="bl_no_blacklist">Geen geblokkeerde nummers.</string>
@@ -235,8 +235,8 @@
   <string name="st_antispam_black_adress_add">Locatie toevoegen</string>
   <string name="st_antispam_bw_adress_add">Locaties toevoegen</string>
   <string name="st_antispam_bw_choose_modes">Geblokkeerde nummers</string>
-  <string name="st_antispam_bw_head_add">Prefix toe te voegen</string>
-  <string name="st_antispam_bw_man_add">Voeg telefoonnummer toe</string>
+  <string name="st_antispam_bw_head_add">Voorvoegsel toevoegen</string>
+  <string name="st_antispam_bw_man_add">Telefoonnummer toevoegen</string>
   <string name="st_antispam_bw_pick_add">Contacten toevoegen</string>
   <string name="st_antispam_delete">Verwijderen</string>
   <string name="st_antispam_des_anti">Blokkeer</string>
@@ -274,15 +274,15 @@
   <string name="st_block_unknown_call">Blokkeer onbekende gesprekken</string>
   <string name="st_block_unknown_sms">Blokkeer onbekende berichten</string>
   <string name="st_call_group">Gesprekken</string>
-  <string name="st_common_setting_group">Filter instellingen</string>
+  <string name="st_common_setting_group">Filterinstellingen</string>
   <string name="st_filter_keywords_setting_summary1">Berichten van onbekende nummers die de woorden uit lijst bevatten zullen worden geblokkeerd.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Gebruik een komma om meerdere trefwoorden te scheiden)"</string>
-  <string name="st_filter_keywords_setting_title">Configureren trefwoord filter</string>
+  <string name="st_filter_keywords_setting_title">Trefwoordfilter configureren</string>
   <string name="st_filter_keywords_title">Trefwoordfilter</string>
   <string name="st_filter_sms_button">Berichten filteren</string>
-  <string name="st_hint_add_head_number">Voeg prefix toe(\"*\" wordt automatisch toegevoegd)</string>
-  <string name="st_hint_add_phonenumber">Voeg nummer in</string>
+  <string name="st_hint_add_head_number">Voorvoegsel toevoegen (\"*\" wordt automatisch toegevoegd)</string>
+  <string name="st_hint_add_phonenumber">Voer nummer in</string>
   <string name="st_message_SMS_AntiSpam">SMS blokkeren</string>
   <string name="st_message_SMSpass">SMS toestaan</string>
   <string name="st_message_phone_AntiSpam">Gesprekken blokkeren</string>
@@ -292,7 +292,7 @@
   <string name="st_mute_title">Niet bellen of trillen</string>
   <string name="st_other_setting_group">Overige instellingen</string>
   <string name="st_settings_name">Instellingen zwarte lijst</string>
-  <string name="st_show_block_notification">Toon geblokkeerd melding</string>
+  <string name="st_show_block_notification">Toon melding bij blokkeren</string>
   <string name="st_show_num_keyword">" trefwoorden"</string>
   <string name="st_show_num_number">" nummers"</string>
   <string name="st_sms_group">Berichten</string>
@@ -324,7 +324,7 @@
   <string name="st_title_call_wait_setting">Gesprek in wacht</string>
   <string name="st_title_editblacklist">Bewerk zwarte lijst</string>
   <string name="st_title_editwhitelist">Bewerk uitzonderingen</string>
-  <string name="st_title_keywords_blacklist">Trefwoord filter</string>
+  <string name="st_title_keywords_blacklist">Trefwoordfilter</string>
   <string name="st_title_man_addblacklist">Nummer toevoegen aan zwarte lijst</string>
   <string name="st_title_man_addwhitelist">Nummer toevoegen aan uitzonderingen</string>
   <string name="st_title_man_editblacklist">Kies een locatie code om toe te voegen aan zwarte lijst</string>

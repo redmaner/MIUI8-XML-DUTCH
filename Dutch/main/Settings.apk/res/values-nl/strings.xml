@@ -1765,7 +1765,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="launch_defaults_none">Geen standaardapps ingesteld</string>
   <string name="launch_defaults_some">Sommige standaardapps ingesteld</string>
   <string name="launcher_auto_fill_empty_title">Lege cellen vullen</string>
-  <string name="launcher_title">Startscherm</string>
+  <string name="launcher_title">Startscherm en recente apps-scherm</string>
   <string name="launching_cit">CIT starten</string>
   <string name="launching_pho">Telefooninformatie starten, geduld alstublieft.</string>
   <string name="launching_rep">Bugreporting, geduld alstublieft.</string>
@@ -2791,6 +2791,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="receiver_clean">Ruimte vrijmaken</string>
   <string name="recent_location_requests_summary">Apps weergeven die toegang tot je locatie vragen</string>
   <string name="recent_location_requests_title">Locatietoegang</string>
+  <string name="recents_config_title">Instellingen recente apps-scherm</string>
   <string name="recommend_item_1">Telefoonhoesje</string>
   <string name="recommend_item_2">Mi band</string>
   <string name="recommend_item_3">Powerbank</string>
@@ -3339,6 +3340,7 @@ Om schermpinning te gebruiken:
   <string name="show_hw_screen_updates">GPU-weergave updates weergeven</string>
   <string name="show_hw_screen_updates_summary">Flash weergaven in vensters indien getekend met de GPU</string>
   <string name="show_magnifier_when_input">Vergrootglas op tekst</string>
+  <string name="show_mem_info_title">Beschikbaar RAM geheugen weergeven</string>
   <string name="show_owner_info_on_lockscreen_label">Eigenaarsinfo weergeven op vergrendelscherm</string>
   <string name="show_password">Wachtwoorden zichtbaar maken</string>
   <string name="show_profile_info_on_lockscreen_label">Profielinfo weergeven op vergrendelscherm</string>
@@ -4075,8 +4077,9 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="user_remove_user_menu">%1$s verwijderen van dit apparaat</string>
   <string name="user_rename">NAAM WIJZIGEN</string>
   <string name="user_restrictions_controlled_by">Beheerd door %1$s</string>
-  <string name="user_restrictions_title">App en inhoud toegang</string>
+  <string name="user_restrictions_title">App- en inhoudtoegang</string>
   <string name="user_set_lock_button">Vergrendeling instellen</string>
+  <string name="user_settings_forbidden">"Kan administratorinstellingen niet wijzigen in de huidige ruimte. Ga terug naar de eerste ruimte."</string>
   <string name="user_settings_title">Gebruikers</string>
   <string name="user_setup_button_setup_later">Later instellen</string>
   <string name="user_setup_button_setup_now">Nu instellen</string>
