@@ -360,7 +360,7 @@ in het geval je hem vergeten bent"</string>
   <string name="bl_no_block_call">Geen geblokkeerde oproepen.</string>
   <string name="bl_no_block_sms">Geen geblokkeerde SMS.</string>
   <string name="blacklist_prefix_add_hint">Blokkeer alle nummers die beginnen met dit voorvoegsel</string>
-  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">Berichten: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Oproepen: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Schakel het apparaat in op een gepland tijdstip</string>
@@ -592,8 +592,6 @@ Als je mobiele data opnieuw aanzet, kan uw provider extra kosten in rekening bre
   <string name="disable_air_mode">Vliegmodus eerst uitschakelen</string>
   <string name="dlg_add_blacklist">Dit nummer blokkeren?</string>
   <string name="dlg_add_blacklist_title">Toevoegen aan zwarte lijst</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s en %2$s andere contacten staan al op de zwarte lijst.</string>
-  <string name="dlg_add_blacklist_warn_conflict_title">Conflict met uitzonderingen</string>
   <string name="dlg_add_keyword">Trefwoorden toevoegen</string>
   <string name="dlg_antispam_mode_delete_message">Je kan regels niet herstellen nadat ze zijn gewist</string>
   <string name="dlg_antispam_mode_delete_title">Regels wissen?</string>
@@ -864,7 +862,6 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="lockpattern_recording_intro_header">Verbind ten minste 4 punten om een patroon te maken</string>
   <string name="lockpattern_retry_button_text">Opnieuw tekenen</string>
   <string name="lockpattern_settings_help_how_to_record">Teken een patroon</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wacht %d seconden en probeer opnieuw.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel mislukte pogingen!</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
@@ -949,7 +946,6 @@ om te reageren"</string>
   <string name="mark_sell_block_large">Telemarketers</string>
   <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers a specified number of times</string>
   <string name="mark_time_setting_dialog_title">Nummer rapporteren</string>
-  <string name="marked_by_others">"%d anderen hebben het gemarkeerd als "</string>
   <string name="marked_by_user">"jij hebt het gemarkeerd als "</string>
   <string name="memory_check_content">%s vrijgemaakt</string>
   <string name="memory_check_content_none">Leeg</string>

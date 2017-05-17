@@ -2,12 +2,16 @@
 <resources>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%d oproepen</item>
-        <item quantity="one">1 oproep</item>
+        <item quantity="one">%d oproep</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d SMS</item>
-        <item quantity="one">1 SMS</item>
+        <item quantity="other">%d berichten</item>
+        <item quantity="one">%d bericht</item>
     </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d other users marked it as</item>
+        <item quantity="one">%d other user marked it as</item>
+	</plurals>	
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Dataverbruik wordt niet bijgehouden voor %d apps</item>
         <item quantity="one">Dataverbruik wordt niet bijgehouden voor %d app</item>
@@ -181,30 +185,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d apps bevatten privacyrisico\'s</item>
         <item quantity="one">%d app bevat privacyrisico</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Wachtwoord moet tenminste %d letters bevatten.</item>
-        <item quantity="one">"Wachtwoord moet tenminste 1 letter bevatten.</item>
-    </plurals>
-	<plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Wachtwoord moet tenminste %d kleine letters bevatten.</item>
-        <item quantity="one">Wachtwoord moet tenminste 1 kleine letter bevatten</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Wachtwoord moet tenminste %d hoofdletters bevatten.</item>
-        <item quantity="one">Wachtwoord moet tenminste 1 hoofdletter bevatten</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Wachtwoord moet tenminste %d nummers bevatten.</item>
-        <item quantity="one">Wachtwoord moet tenminste 1 nummer bevatten.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Wachtwoord moet tenminste %d speciale symbolen bevatten.</item>
-        <item quantity="one">Wachtwoord moet tenminste %d speciaal symbool bevatten</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Wachtwoord moet tenminste %d karakters bevatten die geen letters zijn.</item>
-        <item quantity="one">Wachtwoord moet tenminste %d karakter bevatten dat geen letter is</item>
-    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Wait for %d seconds and try again. "</item>
+        <item quantity="one">"Wait for %d second and try again. "</item>
+	</plurals>
     <plurals name="number_locked">
         <item quantity="other">%d geblokkeerde apps</item>
         <item quantity="one">%d geblokkeerde app</item>
