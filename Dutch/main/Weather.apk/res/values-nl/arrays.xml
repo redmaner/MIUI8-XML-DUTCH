@@ -27,7 +27,7 @@
     </string-array>
 	<string-array name="aqi_detail_title">
         <item>Goed</item>
-        <item>Gemmiddeld</item>
+        <item>Gemiddeld</item>
         <item>Ongezond voor gevoelige groepen</item>
         <item>Ongezond</item>
         <item>Heel ongezond</item>
@@ -96,23 +96,23 @@
         <item>NW</item>
     </string-array>
 	    <string-array name="aqi_value">
-        <item>Good</item>
-        <item>Satisfactory</item>
-        <item>Moderately polluted</item>
-        <item>Poor</item>
-        <item>Very poor</item>
-        <item>Severe</item>
-        <item>Burst Table</item>
+        <item>Goed</item>
+        <item>Voldoende</item>
+        <item>Gemiddeld vervuild</item>
+        <item>Slecht</item>
+        <item>Zeer slecht</item>
+        <item>Ernstig</item>
+        <item>Zeer ernstig</item>
     </string-array>
 	    <string-array name="wind_unit_simple">
-        <item>Beaufort scale</item>
+        <item>Beaufort</item>
         <item>km/h</item>
         <item>m/s</item>
         <item>mph</item>
         <item>kn</item>
     </string-array>
 	    <string-array name="breeze">
-        <item>&lt;Force 2</item>
+        <item>&lt;Kracht 2</item>
         <item>&lt;6.0km/h</item>
         <item>&lt;1.7m/s</item>
         <item>&lt;3.7mph</item>
@@ -126,7 +126,7 @@
         <item>Knopen (kn)</item>
     </string-array>
 	    <string-array name="wind_unit_replace">
-        <item>Force %1$s</item>
+        <item>Kracht %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
@@ -138,12 +138,12 @@
         <item>Licht</item>
     </string-array>
 	<string-array name="pollution_level_desc_arr">
-        <item>Excellent</item>
-        <item>Good</item>
-        <item>Lightly Polluted</item>
-        <item>Moderately Polluted</item>
-        <item>Heavily Polluted</item>
-        <item>Severely Polluted</item>
-        <item>Beyond Index</item>
+        <item>Uitstekend</item>
+        <item>Goed</item>
+        <item>Licht vervuild</item>
+        <item>Gemiddeld vervuild</item>
+        <item>Zwaar vervuild</item>
+        <item>Ernstig vervuild</item>
+        <item>Zeer ernstig</item>
     </string-array>
 </resources>
