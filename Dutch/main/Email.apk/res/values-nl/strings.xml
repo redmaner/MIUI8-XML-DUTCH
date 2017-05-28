@@ -218,6 +218,7 @@ Nu bijwerken?"</string>
   <string name="calendar_remind_gridview_pick_date">Kies een datum</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
+  <string name="cancel_pop3_attchemt_downloading">Het downloaden van bijlages annuleren is niet beschikbaar voor een POP3 account.</string>
   <string name="cant_move_or_change_labels">"Kan items van meerdere accounts niet verplaatsen"</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
@@ -234,7 +235,7 @@ Nu bijwerken?"</string>
   <string name="clear_display_images_whitelist_dialog_message">Niet langer online afbeeldingen weergeven van afzenders die u eerder heeft toegestaan.</string>
   <string name="clear_display_images_whitelist_dialog_title">"Goedkeuringen voor foto's verwijderen?"</string>
   <string name="clear_display_images_whitelist_title">"Goedkeuringen voor foto's verwijderen"</string>
-  <string name="click_download_all_content">[Tik op om inhoud te downloaden]</string>
+  <string name="click_download_all_content">[Tik om inhoud te downloaden]</string>
   <string name="click_to_reload">Tik op scherm om te vernieuwen</string>
   <string name="close">Afsluiten</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
@@ -610,6 +611,8 @@ Nu bijwerken?"</string>
   <string name="no_conversations">Geen berichten.</string>
   <string name="no_mails">Geen mails</string>
   <string name="no_matched_attachment">Geen overeenkomende bijlagen</string>
+  <string name="no_recognize_describe">"kon geen e-mails vinden die tickets of boekingen bevatten.
+Probeer een andere inbox."</string>
   <string name="not_subject">(Geen onderwerp)</string>
   <string name="not_synced_title">Account niet gesynchroniseerd</string>
   <string name="notification_action_archive">Archiveren</string>
@@ -647,7 +650,8 @@ Nu bijwerken?"</string>
   <string name="outbox_alert_select_operation">Selecteer actie</string>
   <string name="outbox_alert_title_sent_failed">Kon mail niet verzenden</string>
   <string name="outbox_no_mails">Geen mails in Postvak UIT</string>
-  <string name="parase_setup_data">Configuratiegegevens verkrijgen…</string>
+  <string name="parase_setup_data">Gegevens verkrijgen…</string>
+  <string name="parse_recognize_describe">E-mail analyseren…</string>
   <string name="password_expire_warning_content_title">Wachtwoord schermvergrendeling bijna verlopen</string>
   <string name="password_expire_warning_dialog_content_fmt">"         U moet uw PIN code of wachtwoord voor schermvergrendeling snel wijzigen of de gegevens voor %s worden gewist. Nu wijzigen?"</string>
   <string name="password_expire_warning_dialog_title">Wachtwoord schermvergrendeling bijna verlopen</string>
