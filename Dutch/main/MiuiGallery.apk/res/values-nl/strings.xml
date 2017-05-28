@@ -48,6 +48,7 @@
   <string name="album_detail_page_empty">Geen foto\'s of video\'s</string>
   <string name="album_faces_name">Personen</string>
   <string name="album_from_format">%s</string>
+  <string name="album_jump_failed">Wacht tot albums zijn gesynchroniseerd met Mi Cloud ​​en probeer opnieuw</string>
   <string name="album_member">Albumleden %s</string>
   <string name="album_name">Albumnaam</string>
   <string name="album_others_share_baby_info_format">Babyalbum van %s</string>
@@ -186,6 +187,7 @@
   <string name="cannot_send_message_reason">Geen geldige ontvangers</string>
   <string name="change_to_face_mode">Allen gezicht weergeven</string>
   <string name="change_to_photo_mode">Volledige voorbeelden weergeven</string>
+  <string name="change_to_visible">Deze persoon herstellen?</string>
   <string name="choose_baby_sexy">Geslacht</string>
   <string name="choose_owner_relation">Relatie</string>
   <string name="choose_people">Album van persoon kiezen</string>
@@ -266,6 +268,7 @@
   <string name="delete_from_devices">Alle gesynchroniseerde apparaten</string>
   <string name="delete_from_devices_album">Alle apparaten waar dit album mee is gesynchroniseerd</string>
   <string name="delete_from_homepage_album">Albums weergegeven in galerij</string>
+  <string name="delete_from_local_and_cloud">van dit apparaat en Mi Cloud</string>
   <string name="delete_from_this_album_and_cloud">van dit album en Mi Cloud</string>
   <string name="delete_from_web">Webalbums</string>
   <string name="delete_in_album">Wanneer je foto\'s of video\'s uit een album verwijdert, zullen ze ook verwijderd worden van:</string>
@@ -277,6 +280,7 @@
   <string name="delete_third_party_photo">Deze foto verwijderen?</string>
   <string name="delete_third_party_video">Deze video verwijderen?</string>
   <string name="delete_to_trash_tips">U kunt recent verwijderde foto\'s bekijken in Instellingen &gt; Vuilnisbak</string>
+  <string name="delete_unsynced">Items die niet zijn geback-upt wissen</string>
   <string name="deny">Weigeren</string>
   <string name="detail_title">Details</string>
   <string name="disable_auto_upload_tip">Synchronisatie met Mi Cloud voor dit album uitschakelen?</string>
@@ -402,9 +406,10 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="hybrid_pull_to_refresh_release_label">Loslaten om te vernieuwen…</string>
   <string name="hybrid_service_unavailiable">Service niet beschikbaar</string>
   <string name="hybrid_try_again">Probeer opnieuw</string>
-  <string name="ignore_album">Dit album niet meer weergeven?</string>
-  <string name="ignore_alert_title">Wanneer genegeerd zal deze niet meer worden weergegeven, doorgaan?</string>
-  <string name="ignore_face">Negeer deze persoon</string>
+  <string name="ignore_album">Niet weergeven</string>
+  <string name="ignore_alert_title">Dit album niet weergeven? Tik op de rechterbovenhoek om foto\'s te bekijken die je hebt genegeerd.</string>
+  <string name="ignore_face">Deze persoon negeren</string>
+  <string name="ignore_faces_title">Genegeerd</string>
   <string name="image_decode_failed">Kon deze afbeelding niet decoderen</string>
   <string name="image_download_item_title">Originele bestand downloaden (%s)</string>
   <string name="image_invalid_path">Ongeldig pad</string>
@@ -436,7 +441,11 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Hoogte moet &gt; 0 zijn</string>
   <string name="limit_width">Breedte moet &gt; 0 zijn</string>
+  <string name="load_complete">Geen items hier</string>
+  <string name="load_failed">Kon gegevens niet laden, tik om opnieuw te proberen</string>
   <string name="load_relations">Een momentje…</string>
+  <string name="loading">Een momentje</string>
+  <string name="loading_dots">Een momentje…</string>
   <string name="loading_dual_tip">Dubbele foto\'s laden…</string>
   <string name="loading_fail">Kon niet downloaden</string>
   <string name="loading_fail_sync_off">Schakel synchronisatie met Mi Cloud in om te downloaden</string>
@@ -489,6 +498,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="new_relation_invalid_prefix">Een groepnaam kan niet beginnen met “.” of “_”"</string>
   <string name="next">Volgende</string>
   <string name="no">Nee</string>
+  <string name="no_ignore_faces">Geen mensen hier</string>
   <string name="no_map_app">Er is geen app beschikbaar voor deze actie</string>
   <string name="no_network_connected">Geen netwerk gedetecteerd</string>
   <string name="not_ask_any_more">"Niet meer vragen bij volgende \"%s\" antwoorden"</string>
@@ -503,12 +513,12 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_add_secret">Verbergen</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_detail">Details</string>
-  <string name="operation_disable_auto_upload">Sync. met Mi Cloud uitschakelen</string>
+  <string name="operation_disable_auto_upload">Synchronisatie met Mi Cloud uitschakelen</string>
   <string name="operation_do_delete_local_thumnail">Verwijderen van apparaat</string>
   <string name="operation_download">Origineel downloaden (%s)</string>
   <string name="operation_edit">Bewerken</string>
   <string name="operation_edit_video">Bewerken</string>
-  <string name="operation_enable_auto_upload">Sync. met Mi Cloud inschakelen</string>
+  <string name="operation_enable_auto_upload">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="operation_enter_delete_local">Geback-upte foto\'s en video\'s van apparaat verwijderen</string>
   <string name="operation_failed">Uitvoering mislukt</string>
   <string name="operation_force_top">Pinnen</string>
@@ -539,6 +549,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="other_album">Andere albums</string>
   <string name="other_settings">Extra instellingen</string>
   <string name="owner_album_subtitle">Gedeeld met %1$s personen</string>
+  <string name="people_jump_failed">Wacht tot foto\'s zijn gesynchroniseerd met Mi Cloud en probeer opnieuw</string>
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
@@ -582,7 +593,11 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevelingen</string>
   <string name="recommanded_face_added_tip">Toegevoegd aan \"%s\"</string>
-  <string name="relation_text_empty_alert">Relatie info toevoegen</string>
+  <string name="recovery_merge">Samenvoegen</string>
+  <string name="recovery_merge_or_rename">Albums samenvoegen</string>
+  <string name="recovery_merge_or_rename_message">Er bestaat al een album met deze naam. Samenvoegen?</string>
+  <string name="recovery_rename">Hernoemen</string>
+  <string name="relation_text_empty_alert">Relatie-info toevoegen</string>
   <string name="relation_text_family">Familielid</string>
   <string name="relation_text_father">Vader</string>
   <string name="relation_text_grandfather">Grootvader van vaderszijde</string>
@@ -629,16 +644,13 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_backup_now">Inschakelen</string>
   <string name="search_backup_sub_title">Inschakelen om meer afbeeldingen te vinden</string>
   <string name="search_backup_title">Synchroniseren met Mi Cloud</string>
+  <string name="search_clear_histories">Wissen</string>
   <string name="search_connection_error">Kon niet verbinden met netwerk</string>
   <string name="search_connection_error_and_set">Tik om netwerkinstellingen te controleren</string>
   <string name="search_error">Er is een fout opgetreden</string>
   <string name="search_error_and_retry">Er is een fout opgetreden, tik om opnieuw te proberen</string>
   <string name="search_hint">Afbeeldingen zoeken​</string>
   <string name="search_image_result_title">Zoekresultaten</string>
-  <string name="search_load_complete">Geen items meer</string>
-  <string name="search_load_failed">Kon informatie niet laden, tik om opnieuw te proberen</string>
-  <string name="search_loading">Een momentje</string>
-  <string name="search_loading_dots">Een momentje…</string>
   <string name="search_login_now">Inloggen</string>
   <string name="search_login_sub_title">Log in om meer foto\'s te vinden</string>
   <string name="search_login_title">Mi Account</string>
@@ -647,6 +659,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_result_empty">Kon niks vinden</string>
   <string name="search_retry">Probeer opnieuw</string>
   <string name="search_set_network_connection">Netwerkinstellingen</string>
+  <string name="search_title_history">Zoekgeschiedenis</string>
   <string name="search_title_location">Locaties</string>
   <string name="search_title_others">Alle resultaten</string>
   <string name="search_title_people">Personen</string>
@@ -668,6 +681,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="secret_reason_too_large">Bestand is te groot</string>
   <string name="secret_reason_type_not_support">Dit bestandstype wordt niet ondersteund</string>
   <string name="secret_reason_unknow_reasons">Onbekende fout</string>
+  <string name="see_ignore_faces">Bekijk personen die je hebt genegeerd</string>
   <string name="select_item_face">"Is dit '%s'?"</string>
   <string name="select_origin_tip">Origineel bestand (%s)</string>
   <string name="send_multiple_files_hint_format">Verzend (%s)</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="about_smart_sms_title">Slimme berichten partner</string>
+  <string name="about_smart_sms_title">Slimme berichten partner</string>
   <string name="action_firewall_setting">Zwarte lijst</string>
   <string name="activity_not_found">Geen app gevonden om deze handeling uit te voeren</string>
   <string name="activity_not_found_uri">Geen app gevonden om deze handeling uit te voeren</string>
@@ -386,6 +386,7 @@
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
+  <string name="pref_show_list_avatar_summary">Foto\'s en andere contactgegevens weergeven in lijstweergave</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
   <string name="pref_smart_messages_settings">Slimme berichten</string>
@@ -613,6 +614,7 @@
   <string name="title_red_package">Rijk worden en veel geluk</string>
   <string name="title_send_red_package">Rood pakket controleren</string>
   <string name="title_show_blocked_messages">Geblokkeerde SMS weergeven</string>
+  <string name="title_show_list_avatar">Foto\'s en andere informatie weergeven</string>
   <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
   <string name="title_show_sms_template_in">SMS controleren op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
