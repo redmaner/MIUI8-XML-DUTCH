@@ -131,6 +131,8 @@
   <string name="browserFrameNetworkErrorLabel">Verbindings errror</string>
   <string name="cancel">Annuleren</string>
   <string name="cannot_download">"Kan alleen URL's met\ "http \" of \ "https \" downloaden"</string>
+  <string name="check_permission_of_current_location">Huidige locatiegegevens</string>
+  <string name="check_permission_of_current_url">URLs van de websites die je bezoekt</string>
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear_history">Geschiedenis verwijderen</string>
   <string name="clear_most_visited">Recente geschiedenis</string>
@@ -185,6 +187,7 @@
   <string name="contextmenu_savelink">Link opslaan</string>
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_set_wallpaper">Instellen als achtergrond</string>
+  <string name="contextmenu_share_image">Afbeelding delen</string>
   <string name="contextmenu_sharelink">Link delen</string>
   <string name="contextmenu_view_image">Afbeelding weergeven</string>
   <string name="contextmenu_webpage_capture">Opslaan als schermafdruk</string>
@@ -281,7 +284,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="empty_bookmark">Leeg</string>
   <string name="empty_history_hint">Geschiedenis is leeg</string>
   <string name="empty_snapshot_hint">Leeg</string>
-  <string name="enable_geolocation_confirm_message">Deze functie uitschakelen kan ertoe leiden dat sommige websites zich misdragen.</string>
+  <string name="enable_geolocation_confirm_message">Locatiediensten uitschakelen heeft invloed op de aanbevelingen die je ontvangt.</string>
   <string name="enter_developer_mode">Ga naar ontwikkelaarsmodus</string>
   <string name="enter_incongnito_mode">Ga naar incognitomodus</string>
   <string name="error_console_eval_button_text">Evalueren</string>
@@ -480,7 +483,8 @@ Deze pagina verlaten?"</string>
   <string name="older">Ouder</string>
   <string name="open_app_confirm_message">Deze pagina toestaan om %s te openen?</string>
   <string name="open_file_explorer_failed">Kan File Explorer niet openen</string>
-  <string name="opening_file_error">Kon geselecteerd bestand niet openen</string>
+  <string name="open_voice_permission">Spraak netwerktoestemming openen</string>
+  <string name="opening_file_error">Kon geselecteerde bestand niet openen</string>
   <string name="page_info">Pagina-informatie</string>
   <string name="page_info_address">Adres:</string>
   <string name="page_info_view">Pagina-informatie weergeven</string>
@@ -493,7 +497,7 @@ Deze pagina verlaten?"</string>
   <string name="paused_waiting_to_retry">Wachten om opnieuw te proberen…</string>
   <string name="pay_failed_toast">Betaling mislukt</string>
   <string name="pay_success_toast">Betaling voltooid</string>
-   <string name="permission_alert_window">Pop-up vensters toestaan om deze functie te gebruiken</string>
+  <string name="permission_alert_window">Pop-up vensters toestaan om deze functie te gebruiken</string>
   <string name="permission_unknown">Onbekende optie</string>
   <string name="popup_window_attempt">Deze site toestaan een pop-upvenster te openen?</string>
   <string name="positive_confirm_message">Toch uitschakelen</string>
@@ -507,9 +511,11 @@ Deze pagina verlaten?"</string>
   <string name="pref_automatic_matching_searchengines_title">Wisselen naar de zoekmachine die je het meest gebruikt</string>
   <string name="pref_category_hint">Categorie</string>
   <string name="pref_check_security_url_summary">Stuur URL van website naar de Mi servers voor validatie</string>
+  <string name="pref_check_security_url_summary_international">Om je beter te kunnen verwijzen, geef de browser toegang tot de URL</string>
   <string name="pref_check_security_url_title">Controleer URL beveiliging</string>
+  <string name="pref_check_security_url_title_international">URL verkrijgen</string>
   <string name="pref_clear_adblock_statistics">Adblocker geschiedenis verwijderen</string>
-  <string name="pref_clear_adblock_statistics_dlg">Verwijderen geblokkeerde advertentie telling?</string>
+  <string name="pref_clear_adblock_statistics_dlg">Aantal getelde geblokkeerde advertenties wissen?</string>
   <string name="pref_clear_all_data_dlg">Alle bovenstaande data verwijderen?</string>
   <string name="pref_clear_all_data_title">Alles verwijderen</string>
   <string name="pref_clear_data_title">Data verwijderen</string>
@@ -575,7 +581,7 @@ Deze pagina verlaten?"</string>
   <string name="pref_privacy_clear_passwords_summary">Alle opgeslagen wachtwoorden verwijderen</string>
   <string name="pref_privacy_cookies_title">Cookies</string>
   <string name="pref_privacy_enable_geolocation">Locatie</string>
-  <string name="pref_privacy_enable_geolocation_summary">Sites toestaan om toegang te vragen tot uw locatie</string>
+  <string name="pref_privacy_enable_geolocation_summary">Browser toestaan om toegang te vragen tot uw locatie</string>
   <string name="pref_privacy_formdata_title">Formuliergegevens</string>
   <string name="pref_privacy_location_title">Locatietoegang</string>
   <string name="pref_privacy_security_title">Privacy &amp; beveiliging</string>
@@ -594,8 +600,6 @@ Deze pagina verlaten?"</string>
   <string name="pref_ua_string">Apparatuur</string>
   <string name="pref_version_info">Versie info</string>
   <string name="pref_volume_key_action">Scrollen d.m.v. volumeknoppen</string>
-  <string name="pref_weather_location_summary">Gebruikt door de browser weer plug-in</string>
-  <string name="pref_weather_location_title">Weerlocatie</string>
   <string name="private_browsing_warning">Deze functie wordt niet ondersteund in deze versie van Android.</string>
   <string name="profiler_error_toast">Mislukt om Profiler te starten</string>
   <string name="profiler_no_storage_toast">Kan Profiler niet starten omdat de externe opslag nog niet klaar is</string>
@@ -666,6 +670,8 @@ Deze pagina verlaten?"</string>
   <string name="save_to_camera">Opslaan in galerij</string>
   <string name="save_to_camera_failed">Afbeelding opslaan mislukt</string>
   <string name="save_to_camera_success">Opgeslagen in galerij</string>
+  <string name="scanner_uninstalled_text">Installeer de scanner om door te gaan</string>
+  <string name="scanner_uninstalled_title">Scanner is niet meer geïnstalleerd</string>
   <string name="sdcard_error">Controleer de SD kaart</string>
   <string name="search">Zoeken</string>
   <string name="search_button_text">Ga</string>
@@ -689,10 +695,12 @@ Deze pagina verlaten?"</string>
   <string name="send_comment_title">Opmerking</string>
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
+  <string name="share_image_text">"Ik geniet van een mooie foto"</string>
   <string name="share_page_text">"Ik geniet van %1$s | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">De URL van deze website wordt verzonden naar servers van Xiaomi om de veiligheid te verifiëren. U kunt deze functie op elk moment uitschakelen in Instellingen.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Om de veiligheid van de browser te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe op toegang te krijgen tot de volgende items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Om relevante aanbevelingen te ontvangen, sta de browser toe op toegang te krijgen tot de volgende items:</string>
   <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Weerdiensten hebben uw locatie info nodig om up-to-date informatie over het weer in uw browser weer te geven. U kunt deze functie uitschakelen in Instellingen.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Voor de veiligheid van uw site en locatie-gebaseerde gegevens en weerdienst te verzorgen moet de browser de volgende gegevens hebben:</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
@@ -737,10 +745,6 @@ Deze pagina verlaten?"</string>
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
-  <string name="tae_sdk_login_qr_icon_close"></string>
-  <string name="tae_sdk_login_qr_icon_taobao"></string>
-  <string name="tae_sdk_qr_login_icon_password"></string>
-  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -836,6 +840,11 @@ Deze pagina verlaten?"</string>
   <string name="video_unknown_duration">Onbekende lengte</string>
   <string name="view_certificate">Certificaat weergeven</string>
   <string name="view_document_downloaded_files">Gedownloade bestanden bekijken in downloads</string>
+  <string name="voice_check_network">Controleer het netwerk en probeer opnieuw</string>
+  <string name="voice_connect_network">Kon niet verbinden met het netwerk</string>
+  <string name="voice_network_connection">Spraakgestuurd zoeken heeft internet nodig, controleer de netwerkverbinding</string>
+  <string name="voice_search_permission">Spraakgestuurd zoeken heeft toestemming nodig, ga naar de instellingen in de browser om de spraaktoestemmingen te controleren</string>
+  <string name="voice_semantic_analysis">Semantic analyse na verbinden</string>
   <string name="voice_sub_title">Weet u niet wat te zeggen? Open mi.com!</string>
   <string name="voice_title">Zeg uw opdracht…</string>
   <string name="voice_title_distinguish">Verwerken…</string>

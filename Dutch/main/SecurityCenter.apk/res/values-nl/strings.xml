@@ -432,7 +432,7 @@ in het geval je hem vergeten bent"</string>
   <string name="cache_header_title">Verwijder %1$d gecachete bestanden om %2$s ruimte vrij te maken</string>
   <string name="call_and_contact">Gesprekken en contacten</string>
   <string name="call_delete_hint">Alle geblokkeerde oproepen van dit nummer verwijderen?</string>
-  <string name="call_delete_title">Oproep verwijderen</string>
+  <string name="call_delete_title">Oproepgeschiedenis wissen</string>
   <string name="call_transfer_block">Blokkeer alle doorgestuurde oproepen</string>
   <string name="call_transfer_block_type">Doorgestuurde oproepen blokkeren</string>
   <string name="call_transfer_info">Blokkeer doorgestuurde oproepen van onbekende nummers</string>
@@ -529,8 +529,7 @@ Als je mobiele data opnieuw aanzet, kan uw provider extra kosten in rekening bre
   <string name="data_network_blocked_notification_title">Geen internetverbinding</string>
   <string name="data_usage_correction_timeout_body">Tik om handmatig bij te werken.</string>
   <string name="data_usage_correction_timeout_title">Synchronisatie dataverbruik gepauzeerd</string>
-  <string name="data_usage_disabled_dialog">"De datalimiet is bereikt. Als je het limiet overschrijdt,
-        kan uw provider extra kosten in rekening brengen."</string>
+  <string name="data_usage_disabled_dialog">"De datalimiet is bereikt. Als je het limiet overschrijdt kan uw provider extra kosten in rekening brengen."</string>
   <string name="data_usage_disabled_dialog_enable">Data inschakelen</string>
   <string name="data_usage_leisure_warning_body">Tik om gegevens over dataverbruik weer te geven.</string>
   <string name="data_usage_leisure_warning_title">Daluren dataverbruikslimiet</string>
@@ -624,7 +623,7 @@ Als je mobiele data opnieuw aanzet, kan uw provider extra kosten in rekening bre
   <string name="dlg_remove_whitelist_title">Verwijderen</string>
   <string name="dlg_retore">Berichten herstellen naar inbox?</string>
   <string name="dlg_retore_ok">Herstellen</string>
-  <string name="dlg_title_not_open_stranger_identify">Vreemden identificeren</string>
+  <string name="dlg_title_not_open_stranger_identify">Beller ID</string>
   <string name="dlg_white_address_antispam_message">Deze locatie toevoegen aan uitzonderingen?</string>
   <string name="dlg_white_antispam_hint">Uitzonderingen</string>
   <string name="dlg_white_antispam_message">Dit nummer toevoegen aan uitzonderingen?</string>
@@ -677,7 +676,7 @@ Als je mobiele data opnieuw aanzet, kan uw provider extra kosten in rekening bre
   <string name="firewall_fragment_tab_title_sys">Apps</string>
   <string name="firewall_network_allow">%1$s toegestaan om %2$s verbinding te gebruiken</string>
   <string name="firewall_network_restrict_notify_message">Tik om instellingen te veranderen.</string>
-  <string name="firewall_network_restrict_notify_mobile">mobiele data</string>
+  <string name="firewall_network_restrict_notify_mobile">Mobiele data</string>
   <string name="firewall_network_restrict_notify_title">%1$s kan netwerk niet gebruiken</string>
   <string name="firewall_rule_group_title_mobile">Mobiel</string>
   <string name="firewall_rule_group_title_roaming">Internationale roaming</string>
@@ -792,8 +791,7 @@ om je mobiele dataverbruik te beheren"</string>
   <string name="installing">Installeren</string>
   <string name="international_roaming_setting">Internationale roaming</string>
   <string name="international_roaming_whitelist_count">%d apps kunnen mobiele data gebruiken bij roamen</string>
-  <string name="ip_address_exception_summary">Kon IP adres niet verkrijgen. Als dit nog eens voorkomt, probeer dan een 
-        vast IP adres te gebruiken.</string>
+  <string name="ip_address_exception_summary">Kon IP adres niet verkrijgen. Als dit nog eens voorkomt, probeer dan een vast IP adres te gebruiken.</string>
   <string name="item_app_permission">Apptoestemmingen</string>
   <string name="item_dev_mode">Ontwikkelaarsopties</string>
   <string name="item_install_monitor">Installeer monitor</string>
@@ -835,8 +833,7 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="list_empty_text">Leeg</string>
   <string name="load_fail">Kon het niet laden</string>
   <string name="load_only_under_wlan">Alleen laden wanneer verbonden met Wi-Fi</string>
-  <string name="local_ip_exception_summary">Kon openbaar IP-adres niet verkrijgen. Om dit probleem aan MIUI melden, gaat u naar de 
-        Feedback app en stuur een log van uw toestel.</string>
+  <string name="local_ip_exception_summary">Kon openbaar IP-adres niet verkrijgen. Om dit probleem aan MIUI melden, gaat u naar de Feedback app en stuur een log van uw toestel.</string>
   <string name="lock_mode_title">Vergrendelinstellingen</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s gebruikt op vergrendelscherm</string>
   <string name="lock_screen_traffic_guide_notification_title">Tik om dataverbruik te beheren.</string>
@@ -1017,13 +1014,12 @@ om te reageren"</string>
   <string name="network_diagnostics">Test netwerk</string>
   <string name="network_mobile_exception_detail">"Uw apparaat kan geen verbinding maken met internet:
 
- 1. Controleer of u uw mobiele datalimiet niet hebt overschreden.
+1. Controleer of u uw mobiele datalimiet niet hebt overschreden.
  
- 2. Als je balans bijgevuld hebt, herstart uw apparaat en probeer het opnieuw.
+2. Als je balans bijgevuld hebt, herstart uw apparaat en probeer het opnieuw.
  
- 3. Het signaal van uw providernetwerk kan te zwak zijn op uw huidige locatie."</string>
-  <string name="network_operator_exception_summary">Kon de SIM kaart niet activeren. Zorg ervoor dat de SIM kaart 
-        juist geplaatst is en dat uw mobiele bundel is geactiveerd door uw provider.</string>
+3. Het signaal van uw providernetwerk kan te zwak zijn op uw huidige locatie."</string>
+  <string name="network_operator_exception_summary">Kon de SIM kaart niet activeren. Zorg ervoor dat de SIM kaart juist geplaatst is en dat uw mobiele bundel is geactiveerd door uw provider.</string>
   <string name="network_permission_exception_tips">Kan mobiele data niet gebruiken om verbinding te maken met netwerk</string>
   <string name="network_roaming_exception_tips">Kan mobiele data niet gebruiken tijdens roamen om verbinding te maken met netwerk.</string>
   <string name="network_route_exception_detail">"Er is mogelijk een probleem met de router waarmee u verbonden bent:
@@ -1045,18 +1041,18 @@ om te reageren"</string>
 "&lt;/b&gt;"Probeer een andere Ethernet kabel op uw router. Als u vermoedt dat er een probleem is met de verbinding in huis, contacteer uw provider. "</string>
   <string name="network_sim_exception_detail">"Er is mogelijk een probleem met uw SIM kaart:
   
- 1. Maak er u zeker van dat uw account met uw provider nog geldig is. Gebruik een SIM kaart van een vriend en kijk of je dan in staat bent om te verbinden.
+1. Maak er u zeker van dat uw account met uw provider nog geldig is. Gebruik een SIM kaart van een vriend en kijk of je dan in staat bent om te verbinden.
  
- 2. Als u twee SIM kaarten gebruikt, probeer dan over te schakelen naar de andere kaart en kijk of je in staat bent om te verbinden.
+2. Als u twee SIM kaarten gebruikt, probeer dan over te schakelen naar de andere kaart en kijk of je in staat bent om te verbinden.
  
- 3. Maak er u zeker van dat uw SIM kaart en het toestel SIM slot niet beschadigd zijn. Controleer of de SIM kaart die u gebruikt goed in de apparaat SIM lade is geplaatst."</string>
+3. Maak er u zeker van dat uw SIM kaart en het toestel SIM slot niet beschadigd zijn. Controleer of de SIM kaart die u gebruikt goed in de apparaat SIM lade is geplaatst."</string>
   <string name="network_speed_for_apps_close">Geforceerd stoppen</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Deze app gedwongen stoppen?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Kan systeemapps niet gedwongen stoppen</string>
   <string name="network_speed_for_apps_others">Andere</string>
   <string name="network_speed_for_apps_title">Verbinding</string>
   <string name="network_speed_for_apps_total">Verbindingssnelheid</string>
-  <string name="networkchanged_exception_summary">Netwerkverbinding is veranderd. Opnieuw testen.</string>
+  <string name="networkchanged_exception_summary">Netwerkverbinding is veranderd. Test opnieuw.</string>
   <string name="networkchanged_exception_title">Verbinding is veranderd</string>
   <string name="never">1 keer</string>
   <string name="news_change">Wijzigen</string>
@@ -1518,7 +1514,7 @@ om te reageren"</string>
   <string name="shutdown_time">Uitschakelen: %1$s</string>
   <string name="shutdown_time_day">Uitschakelen: %1$dd om %2$s</string>
   <string name="shutdown_time_day_tomorrow">Uitschakelen: %1$s</string>
-  <string name="signal_exception_summary">Kan geen verbinding maken met netwerk in dit gebied.</string>
+  <string name="signal_exception_summary">Kan geen verbinding maken met het netwerk in dit gebied.</string>
   <string name="signal_exception_title">Signaalsterkte testen</string>
   <string name="sim_location_diagnostic">Locatiediagnose</string>
   <string name="sim_location_error_dialog_message">"De SIM kaart die je gebruikt is van %1$s. Deze is anders dan de locatie die u handmatig hebt ingesteld (%2$s). Wijzig SIM locatie naar %3$s?"</string>
@@ -1530,7 +1526,7 @@ om te reageren"</string>
   <string name="skin_change_close_btn_text">Instellen als standaard achtergrond</string>
   <string name="skin_change_close_toast">Wijzigingen zullen de volgende keer worden toegepast wanneer u veiligheid start</string>
   <string name="sms_delete_hint">Alle geblokkeerde berichten van dit nummer wissen?</string>
-  <string name="sms_delete_title">Bericht wissen</string>
+  <string name="sms_delete_title">Berichten wissen</string>
   <string name="sms_smart_engine_update">SMS filter automatisch updaten</string>
   <string name="sorted_dialog_title">Sorteren op</string>
   <string name="sp_back_title_text_zero">Veilig</string>
@@ -1631,7 +1627,7 @@ om te reageren"</string>
   <string name="st_mute_title">Niet overgaan of trillen</string>
   <string name="st_other_setting_group">Andere instellingen</string>
   <string name="st_settings_name">Instellingen zwarte lijst</string>
-  <string name="st_show_block_notification">Melding tonen bij blokkeren</string>
+  <string name="st_show_block_notification">Melding tonen bij geblokkeerde items</string>
   <string name="st_show_num_keyword">" trefwoorden"</string>
   <string name="st_show_num_number">" nummers"</string>
   <string name="st_sms_group">Berichten</string>
@@ -1749,6 +1745,9 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="tc_diagnostic_brand_error_notification_title">Verkeerde netwerktype </string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultaat: Verkeerde provider merk&lt;br/&gt;&lt;br/&gt;Merk instellen: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Werkelijke merk: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Klaar</string>
+  <string name="tc_diagnostic_fragment_default">"About diagnostics
+1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
+2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Tik om de locatie aan te passen</string>
   <string name="tc_diagnostic_location_error_notification_title">Verkeerde locatie</string>
   <string name="tc_diagnostic_notification_sumarry">Tik om resultaten te bekijken</string>
