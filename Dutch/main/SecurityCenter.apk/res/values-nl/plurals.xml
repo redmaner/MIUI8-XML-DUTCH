@@ -12,6 +12,14 @@
         <item quantity="other">%d andere gebruikers hebben het gemarkeerd als</item>
         <item quantity="one">%d andere gebruiker heeft het gemarkeerd als</item>
 	</plurals>	
+	<plurals name="st_show_num_keyword">
+        <item quantity="other">%d trefwoorden</item>
+        <item quantity="one">%d trefwoord</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">%d nummer</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Dataverbruik wordt niet bijgehouden voor %d apps</item>
         <item quantity="one">Dataverbruik wordt niet bijgehouden voor %d app</item>
@@ -51,10 +59,6 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="hints_traffic_saving_disable_title">
         <item quantity="other">%d apps gebruiken databespaarder niet</item>
         <item quantity="one">%d app gebruikt databespaarder niet</item>
-    </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">%d dagen geleden gebruikt</item>
-        <item quantity="one">Gisteren gebruikt</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Zoek %d apps</item>
@@ -266,10 +270,13 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d keer geopend</item>
         <item quantity="one">%d keer geopend</item>
     </plurals>
-    <plurals name="app_manager_permission_manager_summary">
-        <item quantity="other">%d toestemmingen gegeven</item>
-        <item quantity="one">%d toestemming gegeven</item>
+	<plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d toestemmingen toegestaan</item>
+        <item quantity="one">%d toestemming toegestaan</item>
     </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Om %d toestemmingen vragen</item>
+        <item quantity="one">Om %d toestemming vragen</item>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d keer</item>
         <item quantity="one">%d keer</item>
