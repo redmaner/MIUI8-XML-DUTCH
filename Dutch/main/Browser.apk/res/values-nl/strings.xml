@@ -465,8 +465,8 @@ Deze pagina verlaten?"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuleren</string>
   <string name="navigationbar_rightbutton_actiontext_go">Ga</string>
   <string name="navigationbar_rightbutton_actiontext_search">Zoeken</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi verbinding gevonden, wilt u verbinden?</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Open Wi-Fi netwerk beschikbaar</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Er is een Wi-Fi hotspot gevonden, wilt u verbinden?</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi netwerk beschikbaar</string>
   <string name="new_folder_name_lable">Groepsnaam</string>
   <string name="next_button_label">Volgende</string>
   <string name="no_app_open_document">Geen app gevonden om deze actie te voltooien</string>
@@ -476,7 +476,7 @@ Deze pagina verlaten?"</string>
   <string name="no_space_alert_text">Niet genoeg opslagruimte</string>
   <string name="no_space_alert_title">Download gepauzeerd</string>
   <string name="no_space_clean_failed">Kon geen ruimte vrijmaken op uw apparaat​</string>
-  <string name="not_allowed_open">Kon Browser niet gebruiken in boot-strap</string>
+  <string name="not_allowed_open">Kon browser niet gebruiken in boot-strap</string>
   <string name="not_remind_again">Mijn keuze onthouden</string>
   <string name="notif_install_successful">Download voltooid</string>
   <string name="ok">OK</string>
@@ -511,7 +511,7 @@ Deze pagina verlaten?"</string>
   <string name="pref_automatic_matching_searchengines_title">Wisselen naar de zoekmachine die je het meest gebruikt</string>
   <string name="pref_category_hint">Categorie</string>
   <string name="pref_check_security_url_summary">Stuur URL van website naar de Mi servers voor validatie</string>
-  <string name="pref_check_security_url_summary_international">Om je beter te kunnen verwijzen, geef de browser toegang tot de URL</string>
+  <string name="pref_check_security_url_summary_international">Geef de browser toegang tot de URLs van de websites die je bezoekt om relevante aanbevelingen te ontvangen.</string>
   <string name="pref_check_security_url_title">Controleer URL beveiliging</string>
   <string name="pref_check_security_url_title_international">URL verkrijgen</string>
   <string name="pref_clear_adblock_statistics">Adblocker geschiedenis verwijderen</string>
@@ -695,19 +695,19 @@ Deze pagina verlaten?"</string>
   <string name="send_comment_title">Opmerking</string>
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
-  <string name="share_image_text">"Ik geniet van een mooie foto"</string>
-  <string name="share_page_text">"Ik geniet van %1$s | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Om de veiligheid van de browser te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe op toegang te krijgen tot de volgende items:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Om relevante aanbevelingen te ontvangen, sta de browser toe op toegang te krijgen tot de volgende items:</string>
+  <string name="share_image_text">Kijk wat ik heb gevonden!</string>
+  <string name="share_page_text">Kijk wat ik heb gevonden: %1$s | %2$s</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Om de veiligheid te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de volgende items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Om relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de volgende items:</string>
   <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Voor de veiligheid van uw site en locatie-gebaseerde gegevens en weerdienst te verzorgen moet de browser de volgende gegevens hebben:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Om de veiligheid te verbeteren en relevante aanbevelingen en informatie over het weer te ontvangen, sta de browser toe om toegang te krijgen tot de volgende items:</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
-  <string name="snapshot_failed">Opslaan om offline te lezen mislukt</string>
-  <string name="snapshot_successed">Kon niet opslaan voor offline lezen</string>
+  <string name="snapshot_failed">Kon pagina niet opslaan</string>
+  <string name="snapshot_successed">Pagina opgeslagen</string>
   <string name="ssl_bad_clock_date_settings">Datum instellen</string>
-  <string name="ssl_bad_clock_warning" formatted="false">"Een priveverbinding met %s1 kan niet worden opgezet omdat de datum en tijd van uw apparaat (%s2) verkeerd zijn igesteld."</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"Een priveverbinding met %s1 kan niet worden opgezet omdat de datum en tijd van uw apparaat (%s2) verkeerd zijn ingesteld."</string>
   <string name="ssl_certificate">Veiligheidscertificaat</string>
   <string name="ssl_certificate_is_valid">Dit certificaat is geldig</string>
   <string name="ssl_continue">Doorgaan</string>
@@ -840,12 +840,12 @@ Deze pagina verlaten?"</string>
   <string name="video_unknown_duration">Onbekende lengte</string>
   <string name="view_certificate">Certificaat weergeven</string>
   <string name="view_document_downloaded_files">Gedownloade bestanden bekijken in downloads</string>
-  <string name="voice_check_network">Controleer het netwerk en probeer opnieuw</string>
-  <string name="voice_connect_network">Kon niet verbinden met het netwerk</string>
-  <string name="voice_network_connection">Spraakgestuurd zoeken heeft internet nodig, controleer de netwerkverbinding</string>
-  <string name="voice_search_permission">Spraakgestuurd zoeken heeft toestemming nodig, ga naar de instellingen in de browser om de spraaktoestemmingen te controleren</string>
-  <string name="voice_semantic_analysis">Semantic analyse na verbinden</string>
-  <string name="voice_sub_title">Weet u niet wat te zeggen? Open mi.com!</string>
+  <string name="voice_check_network">Controleer de netwerkinstellingen en probeer opnieuw.</string>
+  <string name="voice_connect_network">Kon niet verbinden met het netwerk.</string>
+  <string name="voice_network_connection">Spraakgestuurd zoeken heeft internet nodig om normaal te werken.</string>
+  <string name="voice_search_permission">Spraakgestuurd zoeken heeft toegang tot je microfoon nodig om normaal te werken.</string>
+  <string name="voice_semantic_analysis">Browser zal in staat zijn om te analyseren nadat je toestaat om te verbinden.</string>
+  <string name="voice_sub_title">Weet u niet wat te zeggen? Probeer mi.com te openen!</string>
   <string name="voice_title">Zeg uw opdracht…</string>
   <string name="voice_title_distinguish">Verwerken…</string>
   <string name="voice_title_listening">Luisteren…</string>
