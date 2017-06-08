@@ -146,6 +146,10 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="app_manager_appupdate_remind">Melden wanneer er updates zijn</string>
   <string name="app_manager_bipartition">Dubbele apps</string>
   <string name="app_manager_card_permission_title">Toestemmingen</string>
+  <string name="app_manager_clear_data_dlg_message">Alle gegevens van deze app zullen worden verwijderd. Inclusief alle bestanden, instellingen, accounts, databases, etc.</string>
+  <string name="app_manager_clear_data_dlg_title">Appgegevens wissen?</string>
+  <string name="app_manager_clear_failed_dlg_message">Kon gegevens van app niet wissen.</string>
+  <string name="app_manager_clear_failed_dlg_title">Gegevens wissen</string>
   <string name="app_manager_default_close_summary">Geen standaardwaarden ingesteld.</string>
   <string name="app_manager_default_open">Standaard openen</string>
   <string name="app_manager_default_open_summary">U hebt ervoor gekozen om deze app standaard te starten voor bepaalde acties.</string>
@@ -158,7 +162,10 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="app_manager_force_stop_dlg_text">Als u een app gedwongen stopt, kan deze zich onverwacht gedragen.</string>
   <string name="app_manager_force_stop_dlg_title">Gedwongen stoppen?</string>
   <string name="app_manager_go_to_manger_app">Beheren</string>
+  <string name="app_manager_have_not_consume">Geen</string>
   <string name="app_manager_loading_data">Gegevens laden…</string>
+  <string name="app_manager_manage_space">Ruimte beheren</string>
+  <string name="app_manager_menu_clear_data">Gegevens wissen</string>
   <string name="app_manager_more_times">100000+ keer geopend</string>
   <string name="app_manager_my_app">Mijn apps</string>
   <string name="app_manager_perm">Toestemmingen</string>
@@ -181,6 +188,11 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="app_manager_permission_send_mms_over">100000+ keer SMS verstuurd</string>
   <string name="app_manager_permission_startself_summary">Apps die automatisch starten nemen RAM in beslag en verbruiken meer batterij</string>
   <string name="app_manager_permission_startself_title">Automatisch starten</string>
+  <string name="app_manager_permission_summary_reject">Alles beperken</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Battery saver</string>
+  <string name="app_manager_powerkeeper_no_bg">Achtergrondactiviteit beperken</string>
+  <string name="app_manager_powerkeeper_no_restrict">Geen beperkingen</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Apps op de achtergrond beperken</string>
   <string name="app_manager_power">Toestemmingen</string>
   <string name="app_manager_rebide_wakepath">Beperken</string>
   <string name="app_manager_reduce_wakepath_dialog">Kettingstart beperken</string>
@@ -439,7 +451,6 @@ in het geval je hem vergeten bent"</string>
   <string name="cancal_to_setting_fingerprint">Annuleren</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_button">Annuleren</string>
-  <string name="cancle">Annuleren</string>
   <string name="card_main_applock_action">Inschakelen</string>
   <string name="card_main_applock_summary">Privé items beschermen met appvergrendeling</string>
   <string name="card_main_applock_title">Appvergrendeling</string>
@@ -581,7 +592,6 @@ Als je mobiele data opnieuw aanzet, kan uw provider extra kosten in rekening bre
   <string name="dialog_msg_auto_start_declare">Sommige beveiligingsapps kunnen foutief aangeven dat MIUI hen heeft verhinderd te starten. Als u de machtigingen wilt controleren die zijn toegekend aan individuele apps, gaat u naar Instellingen &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Betalingsveiligheidscheck stoppen?</string>
   <string name="dialog_msg_stop_virus_scan">Virusscan stoppen voordat hij klaar is?</string>
-  <string name="dialog_roaming_apps_sorted_title">Sorteren op</string>
   <string name="dialog_roaming_message">Deze app toelaten om mobiele data te gebruiken bij internationaal roamen?</string>
   <string name="dialog_roaming_title">Internationale roaming</string>
   <string name="dialog_title_attention">Attentie</string>
@@ -717,7 +727,6 @@ om je mobiele dataverbruik te beheren"</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Geheugen</string>
   <string name="handle_text_system">Systeem</string>
-  <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Help</string>
   <string name="hide_mode_app_background_setting_text">App batterijbespaarder</string>
   <string name="hide_mode_summary_text">De achtergrondactiviteit van apps beheren om batterij te besparen</string>
@@ -731,8 +740,6 @@ om je mobiele dataverbruik te beheren"</string>
   <string name="hints_handle_item_text_safe">Veilig</string>
   <string name="hints_handle_item_text_virus">Virussen: %d</string>
   <string name="hints_input_roaming_daily_limit">Voer dataverbruikslimiet in</string>
-  <string name="hints_install_apps_new">Nooit gebruikt</string>
-  <string name="hints_install_apps_today">Vandaag gebruikt</string>
   <string name="hints_last_virus_scan_none">Nooit gescand</string>
   <string name="hints_last_virus_scan_risk">%d dagen geleden gescand: verdacht</string>
   <string name="hints_last_virus_scan_safe">%d dagen geleden gescand: veilig</string>
@@ -872,6 +879,13 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="loding">Gegevens laden</string>
   <string name="long_click_dialog_summary">Houd de resultaten in de lijst om ze toe te voegen aan uitzonderingen</string>
   <string name="long_click_dialog_title">Aandacht</string>
+  <string name="low_memory_clean_dialog_msg">Maak eerst tenminste 100MB vrij</string>
+  <string name="low_memory_clean_dialog_ok_button">OK</string>
+  <string name="low_memory_clean_dialog_title">Niet genoeg ruimte</string>
+  <string name="low_memory_warning_dialog_cancel_button">Annuleren</string>
+  <string name="low_memory_warning_dialog_msg">Maak ruimte vrij om door te gaan</string>
+  <string name="low_memory_warning_dialog_ok_button">Wissen</string>
+  <string name="low_memory_warning_dialog_title">Niet genoeg ruimte</string>
   <string name="main_activity_content_summary_root">Roottoegang</string>
   <string name="main_activity_content_summary_update">Systeemupdate</string>
   <string name="main_activity_content_title_scanning">Scannen…</string>
@@ -1330,6 +1344,7 @@ om te reageren"</string>
   <string name="pref_specified_adjust">Aangepast datalimiet instellen</string>
   <string name="pref_specified_traffic_settings">Instellingen datalimiet</string>
   <string name="pref_summary_lock_screen_memory_clean">Automatisch opruimen nadat apparaat is vergrendeld</string>
+  <string name="pref_summary_upload_data_usage">Geef uw statistieken over dataverbruik door om te helpen MIUI te verbeteren. Dit gaat volgens ons privacybeleid.</string>
   <string name="pref_summary_virus_white_list">Voorkomen dat geselecteerde apps opgeruimd worden</string>
   <string name="pref_title_declaration">Belangrijke voorwaarden</string>
   <string name="pref_title_diagnostics_show_float_notification">Zwevende meldingen</string>
@@ -1341,6 +1356,7 @@ om te reageren"</string>
   <string name="pref_title_traffic_limit_number">Aantal MB</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Meldingen dataverbruik</string>
+  <string name="pref_title_upload_data_usage">Statistieken over dataverbruik doorgeven</string>
   <string name="pref_title_virus_white_list">Uitzonderingen</string>
   <string name="pref_traffic_manage_title">Datagebruik</string>
   <string name="pref_version">Versie %s</string>
@@ -1628,8 +1644,6 @@ om te reageren"</string>
   <string name="st_other_setting_group">Andere instellingen</string>
   <string name="st_settings_name">Instellingen zwarte lijst</string>
   <string name="st_show_block_notification">Melding tonen bij geblokkeerde items</string>
-  <string name="st_show_num_keyword">" trefwoorden"</string>
-  <string name="st_show_num_number">" nummers"</string>
   <string name="st_sms_group">Berichten</string>
   <string name="st_sub_title_customize_mode_name">Naam</string>
   <string name="st_sub_title_whiteblack_list_group">Zwarte lijst</string>
