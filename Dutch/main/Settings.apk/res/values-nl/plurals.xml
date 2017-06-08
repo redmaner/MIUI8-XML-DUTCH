@@ -81,9 +81,29 @@
         <item quantity="other">%1$d apps gebruikten geheugen in de afgelopen %2$s</item>
         <item quantity="one">1 app gebruikte geheugen in de afgelopen %2$s</item>
     </plurals>
+	<plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risico\'s gevonden</item>
+        <item quantity="one">%d risico gevonden</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d apps mogen automatisch starten</item>
+        <item quantity="one">%d mag automatisch starten</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN moet %d nummers zijn</item>
+        <item quantity="one">PIN moet %d nummer zijn</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d netwerken gedeeld</item>
+        <item quantity="one">%d netwerk gedeeld</item>
+    </plurals>
 	<plurals name="connected_devices_number">
         <item quantity="other">%d apparaten</item>
         <item quantity="one">%d apparaat</item>
+    </plurals>
+	<plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d personen verbonden</item>
+        <item quantity="one">%1$d persoon verbonden</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van de telefooninfo."</item>
