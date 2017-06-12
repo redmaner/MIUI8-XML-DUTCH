@@ -98,6 +98,7 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="adjust_traffic_data">Dataverbruik instellen</string>
   <string name="after_the_lock_screen">App is vergrendeld samen met het scherm. U kan dit wijzigen in de instellingen voor appvergrendeling.</string>
   <string name="all_address_choose_hint">Alle nummers in deze provincie</string>
+  <string name="antispam_mode_details">Details zwarte lijst</string>
   <string name="antispam_notificaiton_type_show_all">Alle nummers</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Nummers die niet op de zwarte lijst staan</string>
   <string name="antispam_notificaiton_type_show_none">Nooit</string>
@@ -284,6 +285,7 @@ in het geval je hem vergeten bent"</string>
   <string name="auto_task_main_title">Automatische taken</string>
   <string name="auto_task_mamange_activity_title">Instellingen</string>
   <string name="auto_task_manage_delete_prompt">Geselecteerde taken verwijderen?</string>
+  <string name="auto_task_manage_new_task">Nieuwe automatische taak</string>
   <string name="auto_task_manager_group_title">Mijn automatische taken</string>
   <string name="auto_task_notify_do_task_title">Gestarte automatische taken</string>
   <string name="auto_task_notify_exit_task_title">Beëindigde automatische taken</string>
@@ -441,7 +443,6 @@ in het geval je hem vergeten bent"</string>
   <string name="button_to_setting">Instellingen</string>
   <string name="buy_immediately">Kopen</string>
   <string name="buy_traffic_pack">Koop meer data</string>
-  <string name="cache_header_title">Verwijder %1$d gecachete bestanden om %2$s ruimte vrij te maken</string>
   <string name="call_and_contact">Gesprekken en contacten</string>
   <string name="call_delete_hint">Alle geblokkeerde oproepen van dit nummer verwijderen?</string>
   <string name="call_delete_title">Oproepgeschiedenis wissen</string>
@@ -660,12 +661,11 @@ Als je mobiele data opnieuw aanzet, kan uw provider extra kosten in rekening bre
   <string name="enable_network">Netwerk eerst inschakelen</string>
   <string name="every_day">Dagelijks</string>
   <string name="examination_score_100">Alles ziet er goed uit!</string>
-  <string name="examination_score_100_with_recommend">%d items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_60_0">U moet waarschijnlijk uw telefoon optimaliseren</string>
   <string name="examination_score_80_100">Enkele items kunnen geoptimaliseerd worden</string>
-  <string name="examination_score_80_100_with_recommend">%d items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_80_60">Sommige items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
+  <string name="exit">Sluiten</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om het apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
@@ -730,7 +730,7 @@ om je mobiele dataverbruik te beheren"</string>
   <string name="help_label">Help</string>
   <string name="hide_mode_app_background_setting_text">App batterijbespaarder</string>
   <string name="hide_mode_summary_text">De achtergrondactiviteit van apps beheren om batterij te besparen</string>
-  <string name="hide_mode_title_text">Verbergen</string>
+  <string name="hide_mode_title_text">Batterijbespaarder</string>
   <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="hint_antispam_mode_edit">Aangepaste modus</string>
   <string name="hints_auto_start_warning_info">Als je automatisch starten verbiedt, zullen sommige apps en services niet in staat zijn om meldingen te ontvangen.</string>
@@ -826,8 +826,6 @@ om je mobiele dataverbruik te beheren"</string>
   <string name="last_check_date_today">Meest recente scan: vandaag</string>
   <string name="last_check_date_yesterday">Meest recente scan: gisteren</string>
   <string name="last_check_never_checked">Scan aanbevolen (eerste keer)</string>
-  <string name="last_checked_date2">Meest recente scan was %d dagen geleden</string>
-  <string name="last_checked_default">Meest recente scan was %s dagen geleden</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Werkdag</string>
   <string name="legal_workday_invalidate">Ma-vr (werkdag info verlopen)</string>
@@ -929,7 +927,6 @@ om te reageren"</string>
   <string name="manual_input_traffic">Dataverbruik instellen</string>
   <string name="manual_item_white_list_summary">Voorkom dat geselecteerde apps worden geoptimaliseerd</string>
   <string name="manual_item_white_list_title">Uitzonderingen</string>
-  <string name="manual_white_list_header">%d uitzonderingen</string>
   <string name="mark_agent">Block reported agencies</string>
   <string name="mark_agent_block">Reported as agency</string>
   <string name="mark_agent_block_large">Agencies</string>
@@ -979,6 +976,7 @@ om te reageren"</string>
   <string name="menu_item_app_permissions_control">Toestemmingsbeheer</string>
   <string name="menu_item_control_app_permissions">Uw toestemming vragen alvorens apps uw contacten lezen, gespreksgeschiedenis bekijken, systeeminstellingen wijzigen of de toegang tot de camera en andere hulpmiddelen krijgen</string>
   <string name="menu_item_force_stop">Gedwongen stoppen</string>
+  <string name="menu_item_install_debug_package">Installeer debugpakket</string>
   <string name="menu_item_notification_antispam_text_avail">Zwarte lijst</string>
   <string name="menu_item_notification_antispam_text_normal">Zwarte lijst</string>
   <string name="menu_item_notification_power_text">Uitschakelen</string>
@@ -1013,6 +1011,8 @@ om te reageren"</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
   <string name="modifypassword">Wachtwoord wijzigen</string>
+  <string name="monitor_app_add">Toevoegen</string>
+  <string name="monitor_app_more">Meer</string>
   <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="month_report_month_report_switch">Geef maandelijks rapport weer</string>
   <string name="msg_update_error_code_success">Voltooid</string>
@@ -1094,7 +1094,6 @@ om te reageren"</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
   <string name="notification_sysapp_cracked_text">De huidige versie van MIUI is aangepast</string>
   <string name="notification_sysapp_cracked_title">Veiligheidsrisico gedetecteerd</string>
-  <string name="notification_title_cmcc_app_check">%d dagen sinds laatste controle</string>
   <string name="notification_title_firewall_blocked">Geblokkeerd</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
@@ -1247,7 +1246,7 @@ om te reageren"</string>
   <string name="power_optimize_disable_start_other_app">Voorkomen dat apps andere apps openen</string>
   <string name="power_optimize_loading">Laden</string>
   <string name="power_optimize_manual_catagory_title">Handmatig</string>
-  <string name="power_optimize_open_hide_mode">Verbergmodus inschakelen</string>
+  <string name="power_optimize_open_hide_mode">Batterijbespaarder inschakelen</string>
   <string name="power_optimize_save_mode_not_opened">Batterijbespaarder uit</string>
   <string name="power_optimize_save_on_lockscreen">Batterij besparen wanneer apparaat is vergrendeld</string>
   <string name="power_phone">Gespreksoproepen</string>
@@ -1553,7 +1552,7 @@ om te reageren"</string>
   <string name="sp_background_risk_type_sign">Onofficiële app wordt uitgevoerd</string>
   <string name="sp_background_risk_type_virus">Virusapp wordt uitgevoerd in de achtergrond</string>
   <string name="sp_background_risk_type_wifi">Deze Wi-Fi verbinding is gevaarlijk</string>
-  <string name="sp_button_text_ignore_alert_title">Dit item negeren?</string>
+  <string name="sp_button_text_ignore_alert_title">Dit item negeren？</string>
   <string name="sp_empty_title_sign_exception">De app ingedrukt houden om aan uitzonderingen toe te voegen</string>
   <string name="sp_monitored_apps_count_zero">Geen enkele betalingsapp is beveiligd</string>
   <string name="sp_monitored_apps_list_title">Monitorinstellingen</string>
@@ -1711,7 +1710,6 @@ om te reageren"</string>
   <string name="summary_flow_notification">Toon uw maandelijkse dataverbruik op het meldingspaneel</string>
   <string name="summary_flow_purchase">Het lijkt er op dat er niet veel data over is. Koop data om verbonden te blijven</string>
   <string name="summary_flow_purchase_beyond">"Je hebt de maandelijkse datalimiet van uw provider overschreden met %sMB"</string>
-  <string name="summary_flow_verify">Dataverbruikgegevens van provider zijn de laatste %d dagen niet gesynchroniseerd</string>
   <string name="summary_flow_verify_failed">Datagebruik automatisch aanpassen om extra kosten te vermijden</string>
   <string name="summary_garbage_clean">Cache wissen of ruimte vrijmaken</string>
   <string name="summary_garbage_lib">Gebruik de nieuwste definities om spyware, adware en andere ongewenste rommel te verwijderen</string>
@@ -1746,7 +1744,6 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="system_app">Systeemapps</string>
   <string name="system_application">Systeemapps</string>
   <string name="system_check_content_none">Veilig</string>
-  <string name="system_header_title">%1$d processen verwijderen om %2$s geheugen vrij te maken</string>
   <string name="system_info_remind">Blokkeringen toevoegen om onbevoegde toegang tot uw apps te voorkomen</string>
   <string name="tab_blacklist">Zwarte lijst</string>
   <string name="tab_block_log_unKnowNumber">Privenummer</string>
@@ -1828,7 +1825,7 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
   <string name="text_button">Begrepen</string>
   <string name="text_day"/>
-  <string name="text_lock_info">Teken deblokkeringspatroon</string>
+  <string name="text_lock_info">Teken ontgrendelpatroon</string>
   <string name="there_is_no">Alles ziet er goed uit, kom later terug</string>
   <string name="third_application">Geïnstalleerde apps</string>
   <string name="three_percent_total_pkg">%s (3%% maandelijkse data)</string>
@@ -1839,12 +1836,12 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Weet u uw datalimiet niet</string>
-  <string name="tips_message">"Om je dataplan te bekijken, bel %2$s (%1$s)."</string>
+  <string name="tips_message">"Om je databundel te bekijken, bel %2$s (%1$s)."</string>
   <string name="tips_of_app_manage">Zelden gebruikte apps verwijderen om opslagruimte te besparen</string>
-  <string name="tips_of_auto_launch_manage">Voorkom dat zelden gebruikte aap automatisch opstarten</string>
-  <string name="tips_of_operators_set">Automatisch datagebruik statistieken aanpassen</string>
-  <string name="tips_of_package_set">Stel uw data plan in en controleer het gebruikte verkeer</string>
-  <string name="tips_of_traffic_pack_threshold">Koop meer data wanneer uw data plan bijna het limiet heeft bereikt</string>
+  <string name="tips_of_auto_launch_manage">Voorkom dat zelden gebruikte apps automatisch opstarten</string>
+  <string name="tips_of_operators_set">Automatisch statistieken over dtaverbruik aanpassen</string>
+  <string name="tips_of_package_set">Stel uw databundel in en controleer de gebruikte data</string>
+  <string name="tips_of_traffic_pack_threshold">Koop meer data wanneer u uw databundel bijna hebt overschreden</string>
   <string name="tips_of_virus_scan">Scan uw apparaat regelmatig om deze veilig te houden</string>
   <string name="title_app_lock_disable">Blokkeer apps</string>
   <string name="title_app_update">Updates beschikbaar</string>
@@ -1867,7 +1864,7 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="title_flow_rank">Mobiele data gebruik</string>
   <string name="title_flow_verify">Vergelijk boekhouding</string>
   <string name="title_flow_verify_failed">Kon 5 dagen achter elkaar niet aanpassen</string>
-  <string name="title_garbage_clean">App cache grootte bereikt %s</string>
+  <string name="title_garbage_clean">App cachegrootte bereikt %s</string>
   <string name="title_garbage_lib">Afval definities updaten</string>
   <string name="title_install_virus_no">Installatie monitor uit</string>
   <string name="title_install_virus_yes">Installatie monitor aan</string>
