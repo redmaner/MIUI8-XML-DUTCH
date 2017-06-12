@@ -57,7 +57,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">Alleen koptelefoon</string>
   <string name="auto_answer_scenario_title">Instellingen voor automatisch antwoord</string>
   <string name="auto_answer_setting_title">Instellingen voor automatisch antwoord</string>
-  <string name="auto_answer_summary_delay">" (vertraging: %s seconds)"</string>
   <string name="auto_answer_summary_not_enabled">Uit</string>
   <string name="auto_record_yellowpage">Map</string>
   <string name="auto_redial_pref_summary">Bel opnieuw als de ontvanger in gesprek is</string>
@@ -139,8 +138,6 @@
   <string name="call_record_auto_unknown_number">Onbekende nummers</string>
   <string name="call_record_auto_whitelist">Aangepaste lijst</string>
   <string name="call_record_auto_whitelist_no_item">Voeg een nummer toe door op + te drukken</string>
-  <string name="call_record_auto_whitelist_summary">%d nummers</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
   <string name="call_record_loading_content">Laden…</string>
   <string name="call_record_off_summary">Uit</string>
   <string name="call_record_on_summary">Gesprekken worden automatisch opgenomen</string>
@@ -154,10 +151,8 @@
   <string name="call_recording_notification_title_error">Kon gesprek niet opnemen</string>
   <string name="call_recording_notification_toggle_title">Gespreksopname melding</string>
   <string name="call_recording_setting">Gespreksopname</string>
-  <string name="call_remove_exception_numbers_confirm">%d nummers worden verwijderd.</string>
   <string name="call_settings">Telefoon</string>
   <string name="call_settings_primary_user_only">Oproepinstellingen kunnen alleen door de hoofdgebruiker gewijzigd worden.</string>
-  <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_settings_with_label">Oproepinstellingen (%s)</string>
   <string name="call_waiting_summary">Breng me tijdens gesprekken op de hoogte van inkomende oproepen</string>
   <string name="call_waiting_title">Gesprek in de wacht</string>
@@ -779,16 +774,16 @@ U hebt nog %d pogingen over."</string>
   <string name="pin2_lock_warning">Na de volgende verkeerde poging zullen PIN 2 gerelateerde functies vergrendeld zijn</string>
   <string name="pin2_or_fdn_invalid">FDN is niet bijgewerkt. De PIN2 was fout of het telefoonnr. werd geweigerd."</string>
   <string name="pin2_unblocked">PIN2 is niet langer geblokkeerd</string>
-  <string name="pin_attempts">"Nog %d pogingen mogelijk."</string>
-  <string name="pin_changed">PIN begewerkt.</string>
-  <string name="pin_failed">Ongeldige PIN.</string>
-  <string name="pin_lock_warning">"Na de volgende poging wordt uw apparaat vergrendeld"</string>
-  <string name="pin_progress_change_pin">Aanpassen PIN…</string>
-  <string name="pin_progress_change_pin2">Aanpassen PIN 2…</string>
-  <string name="pin_progress_set_fdn_lock">Vergrendelstatus FDN wordt gezet…</string>
-  <string name="pin_progress_set_icc_lock">Vergrendelstatus ICC wordt gezet…</string>
+  <string name="pin_changed">PIN begewerkt</string>
+  <string name="pin_failed">Ongeldige PIN</string>
+  <string name="pin_lock_warning">"
+  Na de volgende poging wordt uw apparaat vergrendeld"</string>
+  <string name="pin_progress_change_pin">PIN aanpassen…</string>
+  <string name="pin_progress_change_pin2">PIN 2 aanpassen…</string>
+  <string name="pin_progress_set_fdn_lock">Vergrendelstatus FDN wordt ingesteld…</string>
+  <string name="pin_progress_set_icc_lock">Vergrendelstatus ICC wordt ingesteld…</string>
   <string name="pin_progress_unlock_icc">SIM kaart ontgrendelen…</string>
-  <string name="port_title">Poort nummer</string>
+  <string name="port_title">Poortnummer</string>
   <string name="preference_auto_ip_summary_disable">Uit</string>
   <string name="preference_category_ringtone">Beltoon en trillen</string>
   <string name="preference_data_usage_summary">Stel uw dataplan in om het verbruik aan mobiele data te controleren</string>

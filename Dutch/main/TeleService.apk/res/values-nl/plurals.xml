@@ -12,8 +12,26 @@
         <item quantity="other">De geselecteerde actie is niet beschikbaar in de noodoproepmodus. De telefoon blijft %s minuten in deze modus. Wilt u nu sluiten?</item>
         <item quantity="one">De geselecteerde actie is niet beschikbaar in de noodoproepmodus. De telefoon blijft %s minuut in deze modus. Wilt u nu sluiten?</item>
 	</plurals>
+	<plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">%d number</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d nummers zullen worden verwijderd.</item>
+        <item quantity="one">%d nummer zal worden verwijderd.</item>
+    </plurals>
 	<plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Je kan tot %s personen toevoegen, selecteer opnieuw.</item>
         <item quantity="one">Je kan %s persoon toevoegen, selecteer opnieuw.</item>
+    </plurals>
+	<plurals name="auto_answer_summary_delay">
+        <item quantity="other">Vertraging: %s secondem</item>
+        <item quantity="one">Vertraging: %s seconde</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d pogingen resterend."</item>
+        <item quantity="one">"
+%d poging resterend."</item>
     </plurals>
 </resources>

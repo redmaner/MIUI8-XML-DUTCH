@@ -25,7 +25,12 @@
 	<plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">%1$s berichten verwijderen?</item>
         <item quantity="one">%1$s bericht verwijderen?</item>
-      </plurals>
+    </plurals>
+	<plurals name="hint_search_sms">
+        <item quantity="other">%d berichten</item>
+        <item quantity="zero">%d berichten</item>
+        <item quantity="one">%d bericht</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d berichten</item>
         <item quantity="zero">%d berichten</item>
