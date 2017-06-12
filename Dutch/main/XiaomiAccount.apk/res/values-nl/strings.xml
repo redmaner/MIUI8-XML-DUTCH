@@ -77,12 +77,14 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Helemaal klaar</string>
   <string name="confirm_activate_email">Bevestigd</string>
+  <string name="confirm_bundled_phone_dialog_title">Gekoppeld telefoonnummer bevestigen</string>
   <string name="confirm_delete_app_message">Na het verwijderen van deze app, zal u uw moeten telefoonnummer verifiëren de volgende keer dat u zich aanmeldt bij uw Mi account.</string>
   <string name="confirm_delete_browser_message">Na het verwijderen van deze browser, zal u uw moeten telefoonnummer verifiëren de volgende keer dat u zich aanmeldt bij uw Mi account.</string>
   <string name="confirm_delete_device_message">Na het verwijderen van dit apparaat, zal u uw moeten telefoonnummer verifiëren de volgende keer dat u zich aanmeldt bij uw Mi account.</string>
   <string name="confirm_phone_number_dialog_message">Verificatiecode zal verzonden worden naar: %s.</string>
   <string name="confirm_phone_number_dialog_title">Bevestig telefoonnr.</string>
   <string name="confirm_unbind">Dit account verbreken?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Het telefoonnummer %1$s is gekoppeld aan het %2$s account. Doorgaan zonder het %3$s account te koppelen. Weet je zeker dat je wilt doorgaan?</string>
   <string name="continue_action">Doorgaan</string>
   <string name="cta_declaration_agree_and_continue">Akkoord</string>
   <string name="cta_declaration_exit">Afsluiten</string>
@@ -131,6 +133,7 @@
   <string name="find_device_unknown_error">Kan apparaatstatus niet verkrijgen, probeer later opnieuw</string>
   <string name="first_login_time">Eerste aanmeldpoging: %s</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
+  <string name="get_phone_bind_exceed_limit">Het aantal apparaten verbonden met het account is bereikt(3). Er kan niet meer worden verbonden met het account.</string>
   <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
   <string name="guest_account_label">Mi Gast Account</string>
   <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
