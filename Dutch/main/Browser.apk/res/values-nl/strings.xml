@@ -73,6 +73,7 @@
   <string name="add_to_quicklink">Startpagina</string>
   <string name="added_to_bookmarks">Toegevoegd aan bladwijzers</string>
   <string name="adjust_text_zoom_toast">Het veranderen van tekstzoom kan ertoe leiden dat sommige websites niet correct worden weergegeven</string>
+  <string name="agree">Toestaan</string>
   <string name="alert_tips">Deze site kan een gevaar voor uw veiligheid zijn</string>
   <string name="allow">Toestaan</string>
   <string name="app_new_version">De nieuwste versie van deze app is al geïnstalleerd</string>
@@ -131,8 +132,6 @@
   <string name="browserFrameNetworkErrorLabel">Verbindings errror</string>
   <string name="cancel">Annuleren</string>
   <string name="cannot_download">"Kan alleen URL's met\ "http \" of \ "https \" downloaden"</string>
-  <string name="check_permission_of_current_location">Huidige locatiegegevens</string>
-  <string name="check_permission_of_current_url">URLs van de websites die je bezoekt</string>
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear_history">Geschiedenis verwijderen</string>
   <string name="clear_most_visited">Recente geschiedenis</string>
@@ -295,6 +294,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="error_not_acceptable">Synchroniseren is uitgeschakeld.</string>
   <string name="error_title">Kon niet synchroniseren</string>
   <string name="error_unauthorized">Synchroniseren is uitgeschakeld als gevolg van te veel aanmeldingspogingen.</string>
+  <string name="exit">Afsluiten</string>
   <string name="exit_browser_warning">Browser nu afsluiten?</string>
   <string name="file_dir">Locatie wijzigen</string>
   <string name="file_name">"Naam: "</string>
@@ -697,10 +697,10 @@ Deze pagina verlaten?"</string>
   <string name="sendstartpage">Startpagina</string>
   <string name="share_image_text">Kijk wat ik heb gevonden!</string>
   <string name="share_page_text">Kijk wat ik heb gevonden: %1$s | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Om de veiligheid te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de volgende items:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Om relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de volgende items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Browser moet verbinding met internet hebben om normaal te werken. Om de veiligheid te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Browser moet verbinding met internet om normaal te werken. Om relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
   <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Om de veiligheid te verbeteren en relevante aanbevelingen en informatie over het weer te ontvangen, sta de browser toe om toegang te krijgen tot de volgende items:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Browser moet verbinding met internet hebben om normaal te werken. Om de veiligheid te verbeteren, relevante aanbevelingen te ontvangen en weerdiensten te gebruiken, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
