@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_folder_description">Mappen bekijken</string>
+  <string name="action_mode_switcher_grid_description">Rasterweergave</string>
+  <string name="action_mode_switcher_list_description">Lijstweergave</string>
+  <string name="action_settings_description">Instellingen openen</string>
   <string name="add_account_desc">Uw notities synchroniseren met uw Mi Account?</string>
   <string name="alarm_bar_title">Herinnering</string>
   <string name="alert_action_edit_anyway">Blijven bewerken</string>
@@ -16,6 +20,7 @@
   <string name="app_name">Notities</string>
   <string name="app_widget">Notities</string>
   <string name="call_folder_name">Gespreksgegevens</string>
+  <string name="cancel_alarm_description">Alarm annuleren</string>
   <string name="cloud_trash_bin_title">Verwijder notities in Mi Cloud</string>
   <string name="cta_reminder">Deze app heeft verbinding met internet nodig om back-ups naar Mi Cloud te kunnen maken, en moet uw contacten lezen om de notities die u tijdens de oproepen opneemt te labelen.</string>
   <string name="delete_folder_dialog_tile">Map verwijderen</string>
@@ -39,6 +44,8 @@
   <string name="dlg_title_use_privacy_password">Gebruik privacy wachtwoordbeveiliging</string>
   <string name="dlg_unhide_message">Zichtbaar maken…</string>
   <string name="done">Gereed</string>
+  <string name="edit_header_done_description">Gereed</string>
+  <string name="edit_header_home_description">Terug</string>
   <string name="enable_sync">Synchronisatie</string>
   <string name="enable_sync_desc">Uw notities synchroniseren met uw Mi Account (%1$s)?</string>
   <string name="error_contact_not_exist">Het contact bestaat niet</string>
@@ -62,7 +69,9 @@
   <string name="info_note_enter_desktop">Notitie aan startscherm toegevoegd</string>
   <string name="loading_text">Een momentje…</string>
   <string name="login_sync">Aanmelden &amp; synchronisatie</string>
+  <string name="menu_add_description">Notitie toevoegen</string>
   <string name="menu_add_folder">Toevoegen aan map</string>
+  <string name="menu_add_folder_description">Map toevoegen</string>
   <string name="menu_create_folder">Nieuwe map</string>
   <string name="menu_delete">Verwijderen</string>
   <string name="menu_delete_forever">Permanent verwijderen</string>
@@ -113,12 +122,13 @@
   <string name="search_path_notes">Systeem apps/Notities</string>
   <string name="search_setting_description">Tekst in uw notities doorzoeken</string>
   <string name="select_account_prompt">Sync. notities</string>
-  <string name="sina_share_fail">Verzenden mislukt</string>
-  <string name="sina_share_fail_content_repeat">Delen mislukt, inhoud bestaat al…</string>
+  <string name="set_alarm_description">Alarm instellen</string>
+  <string name="sina_share_fail">Kon niet verzenden</string>
+  <string name="sina_share_fail_content_repeat">Je hebt dit al gedeeld.</string>
   <string name="sina_share_pendding">Verzenden…</string>
   <string name="sina_share_success">Verzenden gelukt</string>
-  <string name="sina_token_expired_warning">Weibo account is verstreken: Gelieve opnieuw in te loggen</string>
-  <string name="sina_token_invalid_warning">Weibo is verstreken: Gelieve opnieuw in te loggen</string>
+  <string name="sina_token_expired_warning">Weibo account is verlopen: voeg het account opnieuw toe</string>
+  <string name="sina_token_invalid_warning">Weibo account is ongeldig: voeg het account opnieuw toe</string>
   <string name="snippet_image_stub">[Foto]</string>
   <string name="snippet_image_template">[Foto %1$s]</string>
   <string name="sns_action_send">Verzenden</string>
@@ -135,7 +145,10 @@
   <string name="sns_title_send">Bericht verzenden</string>
   <string name="sns_toast_empty">Kan geen leeg bericht verzenden</string>
   <string name="sns_toast_over_limit">Verzenden als afbeelding</string>
-  <string name="sync_tips">Tik om notities te sync. met Mi Cloud.</string>
+  <string name="sync_tips">Tik om notities te synchroniseren met Mi Cloud.</string>
+  <string name="theme_blue_description">Blauw</string>
+  <string name="theme_green_description">Groen</string>
+  <string name="theme_red_description">Rood</string>
   <string name="theme_title_antique">Herfst</string>
   <string name="theme_title_arty">Bloemen</string>
   <string name="theme_title_blue">Blauw</string>
@@ -146,6 +159,8 @@
   <string name="theme_title_red">Rood</string>
   <string name="theme_title_star">Sterren</string>
   <string name="theme_title_yellow">Geel</string>
+  <string name="theme_white_description">Wit</string>
+  <string name="theme_yellow_description">Geel</string>
   <string name="toast_message_add_image_fail">Afbeelding invoegen mislukt!</string>
   <string name="toast_notes_delete_success">Met succes verwijderd</string>
   <string name="toast_notes_hidden">Met succes verborgen</string>
@@ -154,6 +169,14 @@
   <string name="toast_notes_unhidden_count">%1$s met succes zichtbaar gemaakt</string>
   <string name="toast_reach_text_limit_attachment">De inhoud van deze notitie is te lang om nieuwe bijlagen toe te voegen</string>
   <string name="toast_reach_text_limit_truncate">De inhoud van deze notitie is geknipt omdat deze te lang is.</string>
+  <string name="toolbar_check_description">Keuzevakje toevoegen</string>
+  <string name="toolbar_delete_description">Verwijder deze notitie</string>
+  <string name="toolbar_gallery_description">Afbeelding toevoegen</string>
+  <string name="toolbar_more_description">Meer</string>
+  <string name="toolbar_redo_description">Opnieuw uitvoeren</string>
+  <string name="toolbar_share_description">Deel deze notitie</string>
+  <string name="toolbar_theme_description">Kies een thema</string>
+  <string name="toolbar_undo_description">Ongedaan maken</string>
   <string name="trash_folder_name">Afval</string>
   <string name="trash_folder_reminder">De notities die je verwijdert zullen na 30 dagen permanant worden gewist.</string>
   <string name="undo">Ongedaan maken</string>

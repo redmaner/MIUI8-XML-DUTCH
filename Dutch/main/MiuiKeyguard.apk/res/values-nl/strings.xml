@@ -14,7 +14,7 @@
   <string name="fingerprint_enter_second_psw_msg">Na herstart wachtwoord tweede ruimte invoeren om vingerafdrukherkenning te kunnen gebruiken</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Kan tweede ruimte niet betreden wanneer in lite mode</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
-  <string name="fingerprint_not_identified_msg">Teveel mislukte pogingen. Voer wachtwoord nu in of probeer je vingerafdruk te gebruiken.</string>
+  <string name="fingerprint_not_identified_msg">Teveel mislukte pogingen. Voer wachtwoord nu in of probeer je vingerafdruk te gebruiken over een paar seconden.</string>
   <string name="fingerprint_not_identified_title">Voer wachtwoord in</string>
   <string name="fingerprint_try_again_msg">Kon vingerafdruk niet verifiëren, probeer opnieuw.</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw</string>
@@ -59,6 +59,8 @@
   <string name="keyguard_charging_info_tip_text4">Gebruik uw apparaat niet teveel wanneer deze aan het opladen is om overhitting te voorkomen.</string>
   <string name="keyguard_charging_info_tip_text5">Batterijen doen er langer over om op te laden als ze warm zijn.</string>
   <string name="keyguard_charging_info_tip_text6">Schakel het scherm uit en leg uw apparaat weg om deze af te laten koelen.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
   <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
@@ -97,7 +99,6 @@ Sign in to i.mi.com, go to “Find device”, select the device and press Wipe d
   <string name="unlock_string">Ontgrendelen</string>
   <string name="unlocking_sim_card">SIM kaart ontgrendelen</string>
   <string name="unlockscreen_low_battery">Sluit oplader nu aan</string>
-  <string name="unlockscreen_quick_charging_message">Snelladen (quick charging) %d%%</string>
   <string name="unlockscreen_recharge_completed">Batterij vol</string>
   <string name="unlockscreen_recharging_message">Opladen %d%%</string>
   <string name="wrong_password">Verkeerd wachtwoord</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Details oproepgeschiedenis</string>
+  <string name="accessibility_contact_detail">Details contact</string>
   <string name="account_container_title">Geïmporteerd van</string>
   <string name="account_phone">Alleen voor telefoon, niet gesynchroniseerd</string>
   <string name="account_sim">SIM kaart</string>
@@ -165,7 +166,7 @@
   <string name="clear_copy_number_description">Gekopieerd nummer wissen</string>
   <string name="clear_digits">Telefoonnummer verwijderen</string>
   <string name="click_close">Tik om te sluiten</string>
-  <string name="clip_dialog_title">Gekopiëerd nummer bellen?</string>
+  <string name="clip_dialog_title">Gekopieerd nummer bellen?</string>
   <string name="close_dial_pad_description">Toetsenblok sluiten</string>
   <string name="cloud_antispam_mark">Aangeven</string>
   <string name="cloud_antispam_marked">Aangegeven</string>
@@ -175,18 +176,9 @@
   <string name="cloud_state_loading">Een momentje…</string>
   <string name="cloud_state_sync_finished">Sync. met Mi Cloud</string>
   <string name="cloud_state_syncing">Gesync. met Mi Cloud</string>
-  <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-  <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
-%2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw telefoon heeft opgeslagen staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard editor is niet correct gestart.</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_selected_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_sim_entry_miui_title">Verwijderen</string>
@@ -198,8 +190,9 @@
   <string name="contactDetailUpdates">Updates</string>
   <string name="contactMultiPickerActivityTitle">Selecteer contactpersonen</string>
   <string name="contactPickerActivityTitle">Een contactpersoon kiezen</string>
-  <string name="contactSavedErrorToast">Kan wijzigingen in contactpersoon niet opslaan.</string>
-  <string name="contactSavedToast">Contactpersoon opgeslagen.</string>
+  <string name="contactSavedErrorToast">Kan wijzigingen in contactpersoon niet opslaan</string>
+  <string name="contactSavedToast">Contactpersoon opgeslagen</string>
+  <string name="contact_clear_search_history">Geschiedenis wissen</string>
   <string name="contact_delete_toast">Contactpersoon verwijderd</string>
   <string name="contact_detail_action_item_calllog">Gespreksgeschiedenis</string>
   <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
@@ -244,6 +237,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contact_list_loading">Laden…</string>
   <string name="contact_pick_photo">Foto</string>
   <string name="contact_read_only">Kan niet worden bewerkt vanuit deze app.</string>
+  <string name="contact_search_history">Geschiedenis</string>
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Verwijderd uit favorieten</string>
@@ -296,7 +290,10 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_add_contact">Contact toevoegen</string>
   <string name="description_call">%1$s bellen</string>
   <string name="description_call_log_incoming_call">Inkomende oproep</string>
+  <string name="description_call_log_incoming_forwarding_call">Inkomende doorgeschakelde oproep</string>
   <string name="description_call_log_missed_call">Gemiste oproep</string>
+  <string name="description_call_log_missed_forwarding_call">Gemiste doorgeschakelde oproep</string>
+ <string name="description_call_log_new_contact">Nieuw contact</string>
   <string name="description_call_log_outgoing_call">Uitgaande oproep</string>
   <string name="description_call_log_play_button">Voicemail afspelen</string>
   <string name="description_call_log_unheard_voicemail">Niet beluisterde voicemail</string>
@@ -694,6 +691,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Roepnaam invoeren</string>
   <string name="miprofile_nick_name_edit_dialog_message">Roepnaam zal verschijnen in oproepgeschiedenis en profiel info</string>
   <string name="miprofile_nick_name_edit_dialog_title">Roepnaam bewerken</string>
+  <string name="miprofile_notice_close">Sluiten</string>
   <string name="miprofile_notice_text">"Tik om profielfoto van contact te bekijken</string>
   <string name="miprofile_request_agenda_date">Deze persoon wil visitekaartjes uitwisselen [%1$s]</string>
   <string name="miprofile_request_agenda_today">Deze persoon visitekaartjes uitwisselen  [Vandaag %1$s]</string>
@@ -821,8 +819,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="path_wipe_data">Systeemapps/Contacten/Contacten schikken/Data wissen</string>
   <string name="payphone">Betaal telefoon</string>
   <string name="people">Contacten</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_call_type_livetalk">Pakket herladen</string>
   <string name="phone_call_type_voip">Mi Voice</string>
@@ -910,11 +906,12 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="preference_tone_title">Weergeven</string>
   <string name="prepare_import">Contacten importeren</string>
   <string name="preview_contact_card_title">Bezig met importeren van contacten</string>
-  <string name="preview_incall_show_entry">Video voorbeeld</string>
+  <string name="preview_incall_show_entry">Videovoorbeeld</string>
   <string name="previous">Vorige</string>
   <string name="private_num">Privénummer</string>
   <string name="profileSavedErrorToast">Kon wijzigingen niet opslaan</string>
   <string name="profileSavedToast">Profiel opgeslagen</string>
+  <string name="profile_delete_toast">Profiel verwijderd</string>
   <string name="profile_display_name">Mijn profiel instellen</string>
   <string name="profile_name">Mijn profiel</string>
   <string name="profile_name_photo">Foto</string>

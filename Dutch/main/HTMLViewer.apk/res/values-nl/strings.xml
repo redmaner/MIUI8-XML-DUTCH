@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ad_service">Dienst toevoegen</string>
+  <string name="ad_service">Advertentiedienst</string>
   <string name="app_label">HTML viewer</string>
-  <string name="app_name_which_call">Applicatie:%s</string>
-  <string name="app_version_which_call">Applicatie versie:%s</string>
+  <string name="app_name_which_call">App: %s</string>
+  <string name="app_version_which_call">Appversie: %s</string>
   <string name="ime_privacy_policy">Toetsenbord kiezen</string>
-  <string name="license_host_unreachable">"Kan niet verbinden met netwerk. Om deze info nu te bekijken, 
-ga naar %s"</string>
-  <string name="loading">Laden…</string>
-  <string name="mibi_license">Mi Credit Algemene Voorwaarden</string>
+  <string name="license_host_unreachable">"Kon niet verbinden met netwerk. Om deze info nu te bekijken,
+ga naar %s op een ander verbonden apparaat"</string>
+  <string name="loading">Een momentje…</string>
+  <string name="mibi_license">Mi Credit Gebruiksovereenkomst</string>
   <string name="open_wifi_connect_summary">Tik om details weer te geven.</string>
-  <string name="open_wifi_connect_title">Verbinden naar %1$s</string>
-  <string name="permdesc_accessDrm">Staat applicatie toe om toegang te krijgen tot DRM-beschermde inhoud.</string>
-  <string name="policy_name">Beleid:%s</string>
-  <string name="settings_ad_loading">Laden…</string>
-  <string name="settings_ad_loading_unavailable">Er is een probleem tijdens het laden.</string>
-  <string name="settings_license_activity_loading">Bezig met laden…</string>
+  <string name="open_wifi_connect_title">Verbonden met %1$s</string>
+  <string name="permdesc_accessDrm">Sta de app toe om toegang te krijgen tot DRM-beschermde inhoud.</string>
+  <string name="policy_name">Beleid: %s</string>
+  <string name="settings_ad_loading">Een momentje…</string>
+  <string name="settings_ad_loading_unavailable">Kon informatie niet laden.</string>
+  <string name="settings_license_activity_loading">Een momentje…</string>
   <string name="settings_license_activity_title">Open source licenties</string>
-  <string name="settings_license_activity_unavailable">Er is een probleem bij het laden van de licenties.</string>
-  <string name="settings_safetylegal_activity_loading">Bezig met laden…</string>
-  <string name="settings_safetylegal_activity_title">Veiligheidsinformatie</string>
-  <string name="settings_safetylegal_activity_unreachable">U hebt geen dataverbinding. Om deze informatie nu te bekijken, ga naar %s met eender welke computer die verbonden is met internet</string>
-  <string name="settings_safetylegal_title">Veiligheidsinformatie</string>
+  <string name="settings_license_activity_unavailable">Kon licenties niet laden.</string>
+  <string name="settings_safetylegal_activity_loading">Een momentje…</string>
+  <string name="settings_safetylegal_activity_title">Beveiligingsinformatie</string>
+  <string name="settings_safetylegal_activity_unreachable">Kon niet verbinden met netwerk. Om deze informatie nu te bekijken, ga naar %s met eender welke computer die verbonden is met internet</string>
+  <string name="settings_safetylegal_title">Beveiligingsinformatie</string>
 </resources>

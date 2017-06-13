@@ -191,10 +191,8 @@
   <string name="guild_msim_switcher">Tik om van SIM kaart te wisselen</string>
   <string name="has_invalid_recipient">Ongeldige ontvanger(s: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Verborgen adres verzender</string>
-  <string name="hint_search_sms">%d berichten</string>
   <string name="hms_add_image_progress_message">Verwerken…</string>
   <string name="hms_first_use_tips">Om berichten te onvangen, moet je verbonden zijn met een Wi-Fi netwerk</string>
-  <string name="hms_uri_param_err">URL kan niet leeg zijn</string>
   <string name="hold_to_talk">Ingedrukt houden om te spreken</string>
   <string name="hybrid_check_network">Netwerkinstellingen</string>
   <string name="hybrid_data_error">Er is een fout opgetreden</string>
@@ -246,7 +244,7 @@
   <string name="message_download_failed_title">Bericht niet gedownload</string>
   <string name="message_expired">Vervallen</string>
   <string name="message_failed">Mislukt</string>
-  <string name="message_failed_body">Tik om het bericht te controleren en probeer opnieuw</string>
+  <string name="message_failed_body">Tik om het bericht te controleren en probeer opnieuw.</string>
   <string name="message_number">Telefoonnummer:</string>
   <string name="message_pending">Verzenden</string>
   <string name="message_queued">Kan uw bericht momenteel niet verzenden. Het wordt verzonden als de service(weer) beschikbaar is</string>
@@ -318,7 +316,7 @@
   <string name="mx_current_status">Instellingen</string>
   <string name="mx_dspt">SMS en MMS berichten versturen naar andere MIUI apparaten zonder bijkomende kosten wanneer u bent verbonden met Wi-Fi.</string>
   <string name="mx_dspt_listview">Berichten versturen naar andere MIUI apparaten zonder bijkomende kosten</string>
-  <string name="mx_dspt_provision">Met Mi Message kunt u berichten over internet naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
+  <string name="mx_dspt_provision">Met Mi Message kunt u berichten over internet naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren. Daarnaast heeft deze service toegang tot mobiele data nodig om normaal te kunnen werken</string>
   <string name="mx_dspt_provision_ex">Berichten versturen en bellen over internet naar andere MIUI gebruikers zonder kosten van uw provider. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid.</string>
   <string name="mx_dspt_provision_ex2">Privacybeleid</string>
   <string name="mx_enable">Mi Message</string>
@@ -386,7 +384,7 @@
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
-  <string name="pref_show_list_avatar_summary">Foto\'s en andere contactgegevens weergeven in lijstweergave</string>
+  <string name="pref_show_list_avatar_summary">Profieloto\'s en contactgegevens weergeven in lijstweergave</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
   <string name="pref_smart_messages_settings">Slimme berichten</string>
@@ -460,7 +458,6 @@
   <string name="quick_reply">Beantwoorden</string>
   <string name="rate_limit_surpassed">Bevestigen</string>
   <string name="received_label">"Ontvangen: "</string>
-  <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Ontvanger: "</string>
   <string name="recipients_over_size">Teveel onvangers.</string>
   <string name="recording_failed">Kan niet opnemen</string>
@@ -520,6 +517,7 @@
   <string name="select_local_video">Selecteer video</string>
   <string name="select_message_send_sim">Kies SIM kaart</string>
   <string name="select_recipient">Selecteer ontvangers</string>
+  <string name="select_sim">Selecteer SIM kaart</string>
   <string name="select_top_text">Tekst bovenaan</string>
   <string name="send">Verzenden</string>
   <string name="send_hms_editor_hints">Mi Message</string>
@@ -565,6 +563,9 @@
   <string name="sms_full_title">SMS geheugen vol</string>
   <string name="sms_rejected_body">Een inkomend bericht werd geweigerd.</string>
   <string name="sms_rejected_title">Bericht geweigerd</string>
+  <string name="sms_report_dialog_content">Kon rapport niet verzenden, probeer opnieuw.</string>
+  <string name="sms_report_dialog_retry">Probeer opnieuw</string>
+  <string name="sms_report_dialog_title">Probeer opnieuw</string>
   <string name="sms_report_failed">Kon rapport niet verzenden</string>
   <string name="sms_report_success">Rapport verzonden</string>
   <string name="snippet_audio">[audio]</string>
@@ -572,7 +573,6 @@
   <string name="snippet_red_package">[Rood pakket]</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankmeldingsberichten</string>
-  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
   <string name="sp_mark_as_read">Alle berichten markeren als gelezen?</string>
   <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
@@ -601,6 +601,8 @@
   <string name="storage_unavailable">Geen opslagruimte beschikaabr</string>
   <string name="subject_hint">Onderwerp</string>
   <string name="subject_label">"Onderwerp: "</string>
+  <string name="switch_to_editor">Bewerkmodus</string>
+  <string name="switch_to_menu">Menumodus</string>
   <string name="text_in_popup_saved_to_clipboard">Selectie uit popup venster bewaard op klembord</string>
   <string name="text_message">Tekstbericht</string>
   <string name="timed_message_expired_title">%d bericht(en) niet verzonden</string>
@@ -614,7 +616,7 @@
   <string name="title_red_package">Rijk worden en veel geluk</string>
   <string name="title_send_red_package">Rood pakket controleren</string>
   <string name="title_show_blocked_messages">Geblokkeerde SMS weergeven</string>
-  <string name="title_show_list_avatar">Foto\'s en andere informatie weergeven</string>
+  <string name="title_show_list_avatar">Profielfoto\'s weergeven</string>
   <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
   <string name="title_show_sms_template_in">SMS controleren op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
