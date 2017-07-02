@@ -86,7 +86,7 @@
   <string name="fourgrid_hint_text">Bedankt voor het gebruiken van de ontwikkelaarsversie van MIUI. Vertel ons wat u denkt en help ons om MIUI te verbeteren!</string>
   <string name="fourgrid_no_notificaiont">"Niet weergeven in statusbalk"</string>
   <string name="fourgrid_notificaiont">Weergeven in statusbalk</string>
-  <string name="get_auto">Krijg automatische modus</string>
+  <string name="get_auto">Gebruik het mobiele netwerk of Wi-Fi</string>
   <string name="get_current">Huidige ophalen</string>
   <string name="get_update_error">Update informatie verkrijgen mislukt</string>
   <string name="go_on_download">Downloaden</string>
@@ -168,15 +168,24 @@
   <string name="pm_root_success_title">Roottoegang ingeschakeld</string>
   <string name="previous">Vorige</string>
   <string name="progress_title_checking">Controleren op updates…</string>
+  <string name="provision_activate_device">	Apparaat activeren…</string>
+  <string name="provision_check_sim">Controle naar SIM kaart</string>
+  <string name="provision_no_network_extra">Verbind met Wi-Fi of plaats uw SIM kaart en gebruik mobiele data om uw apparaat te activeren. U kunt uw apparaat niet activeren zonder verbinding te maken met het netwerk.</string>
+  <string name="provision_no_network_title">Verbinden met netwerk</string>
+  <string name="provision_retry">Opnieuw proberen</string>
+  <string name="provision_toast_no_network">Eerst met netwerk verbinden</string>
+  <string name="provision_toast_server_error">Kon geen verbinding maken met de server. Wacht enkele minuten en probeer opnieuw.</string>
+  <string name="provision_toast_timeout">Verbinding timed out. Controleer uw netwerkinstellingen.</string>
   <string name="reboot">Herstarten</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Uw apparaat beschikt niet over voldoende geheugen om naar recovery modus te gaan en je systeem te updaten. Probeer dan de Mi PC Suite te gebruiken.:
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Kan niet in recoverymodus komen</string>
   <string name="recovery_failed_title">Gebruik Mi PC Suite om je systeem te updaten</string>
-  <string name="recovery_power_not_enough_msg">Sluit de lader aan om te updaten indien er minder dan 30% van de batterij over is</string>
-  <string name="recovery_power_not_enough_msg_plugged">Batterij moet boven de 30% zijn voordat het apparaat kan updaten</string>
+  <string name="recovery_power_not_enough_msg">Sluit de lader aan om te updaten</string>
+  <string name="recovery_power_not_enough_msg_plugged">Batterij tenminste opladen tot 15% om te updaten</string>
   <string name="recovery_power_not_enough_title">Batterij laag</string>
+  <string name="recovery_power_plugged_warning">Zorg ervoor dat de lader tijdens de update op uw toestel is aangesloten</string>
   <string name="repeat">Opnieuw proberen</string>
   <string name="root_acquired">Roottoegang toestaan</string>
   <string name="root_agree_check_box_title">Ik begrijp de risico\'s van roottoegang</string>
