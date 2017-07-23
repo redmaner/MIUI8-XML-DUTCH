@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="more_face">
-        <item quantity="other">%d foto\'s in totaal</item>
-        <item quantity="one">%d foto in totaal</item>
+    <plurals name="face_count">
+        <item quantity="other">Total %d photos</item>
+        <item quantity="one">Total %d photo</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">%d foto\'s in totaal</item>
@@ -127,6 +127,10 @@
     <plurals name="cloud_storage_video_num">
         <item quantity="other">%d video\'s</item>
         <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="add_to_secret_successful">
+        <item quantity="other">Added %1$d photos to hidden album</item>
+        <item quantity="one">Added 1 photo to hidden album</item>
     </plurals>
 	<plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto\'s</item>

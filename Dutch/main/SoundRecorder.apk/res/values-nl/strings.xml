@@ -26,6 +26,9 @@
   <string name="details">Details</string>
   <string name="dialog_content_storage_full">Door te weinig ruimte was de opname gedwongen om te stoppen. Verwijder onnodige bestanden met bestandsbeheer, wilt u het nu openen?</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
+  <string name="duration_format_hour">%sh</string>
+  <string name="duration_format_minute">%sm</string>
+  <string name="duration_format_second">%ss</string>
   <string name="empty_recognition_tip">Leeg</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
@@ -143,8 +146,11 @@
   <string name="text_btn_recording">Opnemen</string>
   <string name="text_btn_wave">Golven</string>
   <string name="text_finish">Bevestigen</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s kan ongeveer %2$s opnemen</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
   <string name="wifi_recommended_body" formatted="false">Het downloaden van dit bestand (%s) over mobiele data kan leiden tot hogere datakosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tik op %s.</string>
   <string name="wifi_recommended_title">Waarschuwing dataverbruik</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

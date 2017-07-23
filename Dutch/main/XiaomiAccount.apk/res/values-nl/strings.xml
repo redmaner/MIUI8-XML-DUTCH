@@ -20,6 +20,7 @@
   <string name="account_error_user_birthday">De ingevoerde verjaardag is ongeldig</string>
   <string name="account_has_been_set">Wijzigen</string>
   <string name="account_limit_update_birthday">Kan verjaardagen momenteel niet updaten</string>
+  <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Geen</string>
   <string name="account_none">Geen</string>
   <string name="account_none_binded_info">Geen</string>
@@ -41,7 +42,6 @@
   <string name="account_user_gender">Geslacht</string>
   <string name="account_user_id">Mi account ID</string>
   <string name="account_user_income">Inkomen</string>
-  <string name="account_user_info">Gebruikersinformatie</string>
   <string name="account_user_location">Locatie</string>
   <string name="account_user_location_title">Huidige locatie selecteren</string>
   <string name="account_user_name">Naam</string>
@@ -86,10 +86,6 @@
   <string name="confirm_unbind">Dit account verbreken?</string>
   <string name="confirm_unbundled_phone_dialog_message">Het telefoonnummer %1$s is gekoppeld aan het %2$s account. Doorgaan zonder het %3$s account te koppelen. Weet je zeker dat je wilt doorgaan?</string>
   <string name="continue_action">Doorgaan</string>
-  <string name="cta_declaration_agree_and_continue">Akkoord</string>
-  <string name="cta_declaration_exit">Afsluiten</string>
-  <string name="cta_declaration_message">Om aan te melden bij uw Mi account, moet u verbinding maken met internet. Locatieservices en sync. met Mi Cloud zal worden ingeschakeld. Om uw gegevens te back-uppen, heeft deze app toegang nodig tot uw contactpersonen, berichten, opnames en belgeschiedenis. We zullen uw gegevens niet gebruiken voor commerciële doeleinden of delen met derden. Na aanmelden op uw Mi account, zullen Mi VIP en Mi services verbinding maken met internet.</string>
-  <string name="cta_declaration_title">Algemene voorwaarden</string>
   <string name="current_location_title">Huidige locatie</string>
   <string name="delete_action">Verwijderen</string>
   <string name="delete_app">App verwijderen</string>
@@ -153,7 +149,9 @@
   <string name="mipay">Betalen</string>
   <string name="mipay_balance">Balans</string>
   <string name="mipay_bank_card">Bankpas</string>
+  <string name="mipay_identitiy_no">no</string>
   <string name="mipay_identity">ID verificatie</string>
+  <string name="mipay_indentity_done">done</string>
   <string name="mipay_others">Andere</string>
   <string name="mipay_transit_card">Transportkaart</string>
   <string name="multi_user_not_show_sync_activity_message_1">Het ziet er naar uit dat je het Mi Account van je standaard ruimte gebruikt.</string>
@@ -334,6 +332,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
   <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>
   <string name="push_notify_dialog_title">Accountverificatie</string>
+  <string name="qq">QQ</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
   <string name="remove_trust_btn">Verwijderen uit vertrouwde apparaten</string>
   <string name="remove_trust_notice">Verwijderen uit vertrouwde apparaten en afmelden</string>
@@ -389,4 +388,5 @@ die verzonden is naar je Postvak In."</string>
   <string name="verify_phone_title">Telefoonnummer verifiëren</string>
   <string name="vip_account_settings">VIP instellingen</string>
   <string name="vip_more_info">Meer vipinformatie</string>
+  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

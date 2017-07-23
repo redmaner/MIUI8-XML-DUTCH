@@ -1,5 +1,192 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="aquarius_info">
+        <item>waterman</item>
+        <item>Waterman</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>ram</item>
+        <item>Ram</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>kreeft</item>
+        <item>Kreeft</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>steenbok</item>
+        <item>Steenbok</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Alleen deze afspraak</item>
+        <item>Alle afspraken in de reeks</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Vooruit</item>
+        <item>Achteruit</item>
+    </string-array>
+	<string-array name="default_reminder_labels">
+        <item>Op tijd van afspraak</item>
+        <item>5 minuten van tevoren</item>
+        <item>10 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>30 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Alleen deze afspraak</item>
+        <item>Deze en toekomstige afspraken</item>
+        <item>Alle afspraken</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>tweeling</item>
+        <item>Tweeling</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leeuw</item>
+        <item>Leeuw</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>weegschaal</item>
+        <item>Weegschaal</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+	<string-array name="ordinal_labels">
+        <item>eerste</item>
+        <item>tweede</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laatste</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>vissen</item>
+        <item>Vissen</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+	<string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen indien stil</item>
+        <item>Nooit</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Regiostandaard</item>
+        <item>Zaterdag</item>
+        <item>Zondag</item>
+        <item>Maandag</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1ste</item>
+        <item>2de</item>
+        <item>3de</item>
+        <item>4de</item>
+        <item>5de</item>
+        <item>6de</item>
+        <item>7de</item>
+        <item>8de</item>
+        <item>9de</item>
+        <item>10de</item>
+        <item>11de</item>
+        <item>12de</item>
+        <item>13de</item>
+        <item>14de</item>
+        <item>15de</item>
+        <item>16de</item>
+        <item>17de</item>
+        <item>18de</item>
+        <item>19de</item>
+        <item>20ste</item>
+        <item>21ste</item>
+        <item>22ste</item>
+        <item>23ste</item>
+        <item>24ste</item>
+        <item>25ste</item>
+        <item>26ste</item>
+        <item>27ste</item>
+        <item>28ste</item>
+        <item>29ste</item>
+        <item>30ste</item>
+        <item>31ste</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nooit</item>
+        <item>Na een bepaalde datum</item>
+        <item>Na een bepaald aantal keer</item>
+	</string-array>	
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mrt</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+	    <item>Dec</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>eerste</item>
+        <item>tweede</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laatste</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Ma - vr</item>
+        <item>Weekend</item>
+        <item>Hele week</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Ma</item>
+        <item>Di</item>
+        <item>Wo</item>
+        <item>Do</item>
+        <item>Vr</item>
+        <item>Za</item>
+        <item>Zo</item>
+    </string-array>
+	<string-array name="repeat_countdown">
+        <item>Nooit</item>
+        <item>Maandelijks</item>
+        <item>Jaarlijks</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>dag</item>
+        <item>week</item>
+        <item>maand</item>
+        <item>jaar</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Geen reactie</item>
+        <item>Ja</item>
+        <item>Misschien</item>
+        <item>Nee</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>boogschutter</item>
+        <item>Boogschutter</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>schorpioen</item>
+        <item>Schorpioen</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>stier</item>
+        <item>Stier</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
     <string-array name="timezone_labels">
         <item>Marshalleilanden</item>
         <item>Midway-eilanden</item>
@@ -86,54 +273,134 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-	<string-array name="ordinal_labels">
-        <item>eerste</item>
-        <item>tweede</item>
-        <item>derde</item>
-        <item>vierde</item>
-        <item>laatste</item>
+	    <string-array name="travel_reminder_minutes_labels">
+        <item>3 uur van tevoren</item>
+        <item>4 uur van tevoren</item>
+        <item>5 uur van tevoren</item>
+        <item>6 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
     </string-array>
-    <string-array name="response_labels1">
-        <item>Geen reactie</item>
-        <item>Ja</item>
-        <item>Misschien</item>
-        <item>Nee</item>
+    <string-array name="virgo_info">
+        <item>maagd</item>
+        <item>Maagd</item>
+        <item>23/8 - 22/9</item>
     </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Alleen deze afspraak</item>
-        <item>Deze en toekomstige afspraken</item>
-        <item>Alle afspraken</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Alleen deze afspraak</item>
-        <item>Alle afspraken in de reeks</item>
-    </string-array>
-     <string-array name="global_criket_match">
-        <item>IPL</item>
-        <item>Internationaal</item>
-        <item>Nationaal</item>
-        <item>T20 competities</item>
+	<string-array name="week_header_name">
+        <item>ZO</item>
+        <item>MA</item>
+        <item>DI</item>
+        <item>WO</item>
+        <item>DO</item>
+        <item>VR</item>
+        <item>ZA</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparant</item>
         <item>Witte achtergrond</item>
     </string-array>
-	<string-array name="default_reminder_labels">
-        <item>Op tijd van afspraak</item>
-        <item>5 minuten van tevoren</item>
-        <item>10 minuten van tevoren</item>
-        <item>15 minuten van tevoren</item>
-        <item>30 minuten van tevoren</item>
-        <item>1 uur van tevoren</item>
-        <item>1 dag van tevoren</item>
-        <item>2 dagen van tevoren</item>
-        <item>1 week van tevoren</item>
+        <item>@array/taurus_info</item>
+        <item>@array/gemini_info</item>
+        <item>@array/cancer_info</item>
+        <item>@array/leo_info</item>
+        <item>@array/virgo_info</item>
+        <item>@array/libra_info</item>
+        <item>@array/scorpio_info</item>
+        <item>@array/sagittarius_info</item>
+        <item>@array/capricorn_info</item>
+        <item>@array/aquarius_info</item>
+        <item>@array/pisces_info</item>
+    </array>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset2">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset4">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="action_bar_colors">
+        <item>#ff1daba7</item>
+        <item>#ff34abd7</item>
+        <item>#ff429bd9</item>
+        <item>#ff5e84da</item>
+        <item>#ff747bd1</item>
+        <item>#ff8979cd</item>
+        <item>#ff747bd1</item>
+        <item>#ff5e84da</item>
+        <item>#ff429bd9</item>
+        <item>#ff34abd7</item>
+        <item>#ff1daba7</item>
+        <item>#ff39af81</item>
+        <item>#ff49b46c</item>
+        <item>#ff6ab157</item>
+        <item>#ff81ba51</item>
+        <item>#ff6ab157</item>
+        <item>#ff49b46c</item>
+        <item>#ff39af81</item>
+    </array>
+    <array name="aqi_level_bg_colors">
+        <item>#ff88b932</item>
+        <item>#ffbaa419</item>
+        <item>#ffda8522</item>
+        <item>#ffe86848</item>
+        <item>#ff7b6dce</item>
+        <item>#ff98557e</item>
+    </array>
+    <array name="aqi_level_content_colors">
+        <item>#ff7bb11c</item>
+        <item>#ffb39500</item>
+        <item>#ffd6780a</item>
+        <item>#ffe65834</item>
+        <item>#ff6d5dc9</item>
+        <item>#ff8d4370</item>
+    </array>
+    <string-array name="aqi_level_desc">
+        <item>空气优</item>
+        <item>空气良</item>
+        <item>轻度污染</item>
+        <item>中度污染</item>
+        <item>重度污染</item>
+        <item>严重污染</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Regiostandaard</item>
-        <item>Zaterdag</item>
-        <item>Zondag</item>
-        <item>Maandag</item>
+    <string-array name="aqi_level_simple_desc">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度</item>
+        <item>中度</item>
+        <item>重度</item>
+        <item>严重</item>
+    </string-array>
+    <string-array name="fortune_gender">
+        <item>男</item>
+        <item>女</item>
     </string-array>
 	<string-array name="fortune_random_birthday">
         <item>01-01-1992</item>
@@ -148,173 +415,71 @@
         <item>08-01-1980</item>
         <item>10-01-1982</item>
     </string-array>
-	<string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Altijd</item>
-        <item>Alleen indien stil</item>
-        <item>Nooit</item>
+    <string-array name="fortune_random_name">
+        <item>王伟</item>
+        <item>李东</item>
+        <item>孙辉</item>
+        <item>李俊</item>
+        <item>周永</item>
+        <item>郑健</item>
+        <item>黄海</item>
+        <item>郑飞飞</item>
+        <item>程杰</item>
+        <item>宋小宝</item>
+        <item>郭德纲</item>
     </string-array>
-	    <string-array name="travel_reminder_minutes_labels">
-        <item>3 uur van tevoren</item>
-        <item>4 uur van tevoren</item>
-        <item>5 uur van tevoren</item>
-        <item>6 uur van tevoren</item>
-        <item>1 dag van tevoren</item>
+     <string-array name="global_criket_match">
+        <item>IPL</item>
+        <item>Internationaal</item>
+        <item>Nationaal</item>
+        <item>T20 competities</item>
     </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>dag</item>
-        <item>week</item>
-        <item>maand</item>
-        <item>jaar</item>
+    <array name="month_today_colors">
+        <item>#ff1db3af</item>
+        <item>#ff37b0dd</item>
+        <item>#ff45a4e6</item>
+        <item>#ff6089e7</item>
+        <item>#ff7d84df</item>
+        <item>#ff9583e2</item>
+        <item>#ff7d84df</item>
+        <item>#ff6089e7</item>
+        <item>#ff45a4e6</item>
+        <item>#ff37b0dd</item>
+        <item>#ff1db3af</item>
+        <item>#ff29b981</item>
+        <item>#ff4dbf72</item>
+        <item>#ff72bd5d</item>
+        <item>#ff92c765</item>
+        <item>#ff72bd5d</item>
+        <item>#ff4dbf72</item>
+        <item>#ff29b981</item>
+    </array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
     </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1ste</item>
-        <item>2de</item>
-        <item>3de</item>
-        <item>4de</item>
-        <item>5de</item>
-        <item>6de</item>
-        <item>7de</item>
-        <item>8de</item>
-        <item>9de</item>
-        <item>10de</item>
-        <item>11de</item>
-        <item>12de</item>
-        <item>13de</item>
-        <item>14de</item>
-        <item>15de</item>
-        <item>16de</item>
-        <item>17de</item>
-        <item>18de</item>
-        <item>19de</item>
-        <item>20ste</item>
-        <item>21ste</item>
-        <item>22ste</item>
-        <item>23ste</item>
-        <item>24ste</item>
-        <item>25ste</item>
-        <item>26ste</item>
-        <item>27ste</item>
-        <item>28ste</item>
-        <item>29ste</item>
-        <item>30ste</item>
-        <item>31ste</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Ma</item>
-        <item>Di</item>
-        <item>Wo</item>
-        <item>Do</item>
-        <item>Vr</item>
-        <item>Za</item>
-        <item>Zo</item>
-    </string-array>
-    <string-array name="repeat_choose_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mrt</item>
-        <item>Apr</item>
-        <item>Mei</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-	    <item>Dec</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>eerste</item>
-        <item>tweede</item>
-        <item>derde</item>
-        <item>vierde</item>
-        <item>laatste</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Ma - vr</item>
-        <item>Weekend</item>
-        <item>Hele week</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Nooit</item>
-        <item>Na een bepaalde datum</item>
-        <item>Na een bepaald aantal keer</item>
-	</string-array>	
-	<string-array name="repeat_countdown">
-        <item>Nooit</item>
-        <item>Maandelijks</item>
-        <item>Jaarlijks</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>ram</item>
-        <item>Ram</item>
-        <item>21/3 - 19/4</item>
-    </string-array>
-    <string-array name="taurus_info">
-        <item>stier</item>
-        <item>Stier</item>
-        <item>20/4 - 20/5</item>
-    </string-array>
-    <string-array name="gemini_info">
-        <item>tweeling</item>
-        <item>Tweeling</item>
-        <item>21/5 - 21/6</item>
-    </string-array>
-    <string-array name="cancer_info">
-        <item>kreeft</item>
-        <item>Kreeft</item>
-        <item>22/6 - 22/7</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>leeuw</item>
-        <item>Leeuw</item>
-        <item>23/7 - 22/8</item>
-    </string-array>
-    <string-array name="virgo_info">
-        <item>maagd</item>
-        <item>Maagd</item>
-        <item>23/8 - 22/9</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>weegschaal</item>
-        <item>Weegschaal</item>
-        <item>23/9 - 23/10</item>
-    </string-array>
-    <string-array name="scorpio_info">
-        <item>schorpioen</item>
-        <item>Schorpioen</item>
-        <item>24/10 - 22/11</item>
-    </string-array>
-    <string-array name="sagittarius_info">
-        <item>boogschutter</item>
-        <item>Boogschutter</item>
-        <item>23/11 - 21/12</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>steenbok</item>
-        <item>Steenbok</item>
-        <item>22/12 - 19/1</item>
-    </string-array>
-    <string-array name="aquarius_info">
-        <item>waterman</item>
-        <item>Waterman</item>
-        <item>20/1 - 18/2</item>
-    </string-array>
-    <string-array name="pisces_info">
-        <item>vissen</item>
-        <item>Vissen</item>
-        <item>19/2 - 20/3</item>
-    </string-array>
-    <string-array name="date_calculate_spinner">
-        <item>Vooruit</item>
-        <item>Achteruit</item>
-    </string-array>
-	<string-array name="week_header_name">
-        <item>ZO</item>
-        <item>MA</item>
-        <item>DI</item>
-        <item>WO</item>
-        <item>DO</item>
-        <item>VR</item>
-        <item>ZA</item>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="summary_card_text_chain">
+        <item>【订阅频道】订阅适合你的日历功能或服务</item>
+        <item>【订阅频道】来定制属于你的独家小米日历</item>
+        <item>【订阅频道】为你量身定制的日历功能和服务</item>
+        <item>【订阅频道】发现不一样的日历功能和服务</item>
     </string-array>
 </resources>

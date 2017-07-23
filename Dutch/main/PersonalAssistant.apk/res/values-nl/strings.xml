@@ -22,6 +22,19 @@
   <string name="calc_parent">Rekenmachine</string>
   <string name="calendar_name">Evenement toevoegen</string>
   <string name="calendar_parent">Kalender</string>
+  <string name="card_detail">详细使用说明</string>
+  <string name="card_detail_condition_agenda">展现条件：&lt;font color=#727272&gt;早8点开始展现今日第一条日程；上一条日程结束同时，展现下一条日程；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;日程到期后该日程条目消失；当天最后一项日程消失时，卡片消失；&lt;/font&gt;</string>
+  <string name="card_detail_condition_commute">展现条件：&lt;font color=#727272&gt;设置过家和公司（学校）地址后，工作日上下班（学）时段展现（默认初始上班时段上午7-11点，下班时段6-10点）。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前已不在上下班时段或家和公司（学校）地址被清空时消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_duokan">展现条件：&lt;font color=#727272&gt;多看阅读书架上有小说时，卡片展现。&lt;/font&gt;</string>
+  <string name="card_detail_condition_express">展现条件：&lt;font color=#727272&gt;查询到快递物流消息时卡片展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;快递签收二十四小时后对应的快递条目消失，卡片上无任何快递条目时卡片消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_flow">展现条件：&lt;font color=#727272&gt;在安全中心网络助手中设置流量套餐后，卡片展现。&lt;/font&gt;</string>
+  <string name="card_detail_condition_greeting">展现条件：&lt;font color=#727272&gt;同意天气声明与条款后，每日早间时段（6：00-10：00）展现早间问候，晚间时段（19：00-24：00）展现晚间问候。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前时段已不在早晚时段时卡片消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_groupon">展现条件：&lt;font color=#727272&gt;所有票券收到出票短信后立即展现；起飞/发车/电影开场前24小时展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;飞机票火车票电影票收到短信后持续展示1小时后消失；团购券收到短信后持续展示24小时后消失；起飞/发车/电影开场1小时后消失；&lt;/font&gt;</string>
+  <string name="card_detail_condition_music">展现条件：&lt;font color=#727272&gt;有正在播放的音乐/电台类应用，或插上耳机后展现。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;播放记录最近30分钟没有更新时，卡片消失。&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;网易云音乐等部分应用需要在其设置里将锁屏方式修改为系统锁屏后，才能正常使用&lt;/font&gt;</string>
+  <string name="card_detail_condition_sport">展现条件：&lt;font color=#727272&gt;安装并登录小米运动客户端后出现&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;步数实时更新需要在安全中心为小米运动客户端添加自启动权限&lt;/font&gt;</string>
+  <string name="card_detail_condition_taxi">展现条件：&lt;font color=#727272&gt;设置过家和公司地址后，上午7-10点，下午5-8点分别开始展示打车卡片。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;非展示时间段。&lt;/font&gt;</string>
+  <string name="card_detail_condition_weather">展现条件：&lt;font color=#727272&gt;同意天气声明与条款后，当有异常天气时，展现异常天气信息；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当异常天气结束时，该条目消失；当所有异常天气都结束时，天气卡片消失；&lt;/font&gt;</string>
+  <string name="card_example">卡片样例</string>
   <string name="card_settings">Kaart instellingen</string>
   <string name="card_settings_rule">Kaart bestel instellingen</string>
   <string name="check_network">Controleer de netwerk instellingen</string>
@@ -50,16 +63,30 @@
   <string name="daily_greeting">Dagelijkse informatie</string>
   <string name="data_error">Er is een fout opgetreden, wacht een minuut of twee en probeer opnieuw</string>
   <string name="data_error_show">De bestelling is voltooid, kan de details niet bekijken</string>
+  <string name="didi_trip">滴滴出行</string>
+  <string name="didi_trip_content">快捷的使用滴滴出行的打车服务</string>
+  <string name="didi_trip_open">开启滴滴出行卡片</string>
   <string name="drive">Rijden</string>
+  <string name="duokan_not_installed">"This app isn't installed on your phone. Can't use this card now."</string>
+  <string name="duokan_open">Add Duokan card</string>
+  <string name="duokan_reading">Duokan</string>
   <string name="duokan_setting_brief">Doorgaan met lezen waar je gebleven was.</string>
   <string name="entrance">Snelkoppeling kaarten</string>
   <string name="exercise_setting_brief">Bekijk statistieken van uw activiteit.</string>
   <string name="express">Express levering</string>
+  <string name="express_authorized">已授权</string>
+  <string name="express_jd">JD</string>
   <string name="express_mi_shop">Mi App Store</string>
+  <string name="express_not_authorized">未授权</string>
+  <string name="express_num_setting_des">抓取各电商应用快递物流页中的运单号查询快递，作为手机号查快递的补充</string>
+  <string name="express_num_setting_title">跟踪快递单号查询</string>
   <string name="express_open">Geef levering volgkaarten weer</string>
   <string name="express_other_app">Volg de bestellingen van winkel apps</string>
   <string name="express_setting_brief">Verzamel de kaarten van winkel apps om uw bestellingen te volgen.</string>
+  <string name="express_setting_phone">授权使用手机号自动查询</string>
   <string name="express_support_app">Ondersteunde apps</string>
+  <string name="express_taobao">Taobao</string>
+  <string name="express_tmall">Tmall</string>
   <string name="favorite">Favorieten</string>
   <string name="favorite_main">Geschiedenis</string>
   <string name="flow_open">Geef mobiele data kaart weer</string>
@@ -70,6 +97,7 @@
   <string name="greeting_open">Dagelijkse informatie inschakelen</string>
   <string name="greeting_setting_brief">Krijg informatie over het weer en herinneringen van afspraken, wekkers en verjaardagen elke ochtend en avond</string>
   <string name="greeting_setting_brief_notice">Je kan de stad wijzigen in de weerapp</string>
+  <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
   <string name="greeting_weather_desc_from_to">%1$s tot %2$s</string>
   <string name="greeting_weather_prefix_moring">Vandaag</string>
   <string name="greeting_weather_prefix_night">Morgen</string>
@@ -82,7 +110,10 @@
   <string name="hold_down_adjustment_order">Houd het icoon aan de rechste kant ingedrukt om items te verslepen</string>
   <string name="home">Thuis</string>
   <string name="home_and_company">Thuis &amp; werk</string>
+  <string name="hour12_format_en">hh:mm</string>
+  <string name="hour24_format_en">HH:mm</string>
   <string name="immediate_recommendation">Aanbevelingen</string>
+  <string name="keyword_recommend">推荐您</string>
   <string name="launch_app">App aanbevelingen</string>
   <string name="launch_change_order">Bestelling wijzigen</string>
   <string name="launch_enable">Geef snelle toeganskaarten weer</string>
@@ -103,9 +134,19 @@
   <string name="locating_fail">Kon locatie niet verkrijgen</string>
   <string name="locations">Regelmatige plaatsen</string>
   <string name="locations_preferences">Regelmatige plaatsen en voorkeuren</string>
+  <string name="map_msg_smooth">| 当前路线整体畅通</string>
+  <string name="map_msg_sufix">，详情</string>
+  <string name="map_title_baidu_middle">约有</string>
+  <string name="map_title_blocked">异常拥堵</string>
+  <string name="map_title_blocked_last">公里异常拥堵</string>
+  <string name="map_title_congestion">道路拥堵</string>
+  <string name="map_title_congestion_last">公里拥堵</string>
+  <string name="map_title_smooth">整体畅通</string>
+  <string name="metre">m</string>
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sport_go_install">Download</string>
   <string name="mi_sport_not_installed">Deze app is niet geïnstalleerd op uw telefoon. Kan deze kaart nu niet gebruiken.</string>
+  <string name="mi_wallet">Mi Wallet</string>
   <string name="music">Muziek &amp; radio</string>
   <string name="music_open">Geef muziek &amp; radio kaart weer</string>
   <string name="music_setting_brief">Sluit de koptelefoon aan om te blijven luisteren naar muziek of radio van de plaats waar je gebleven was.</string>
@@ -116,6 +157,7 @@
   <string name="navigation_network_location_not_enabled_title">Locatiediensten inschakelen</string>
   <string name="navigation_search_automatically_positioned_city">Ontvang informatie over stad met behulp van de huidige locatie</string>
   <string name="navigation_search_current_city">Huidige stad:</string>
+  <string name="navigation_search_default_hint">Search items here</string>
   <string name="navigation_search_no_city_list">Geen steden hier</string>
   <string name="navigation_search_positioning">Locatie info verkrijgen…</string>
   <string name="navigation_search_positioning_failed">Kon locatie niet verkrijgen, selecteer de stad manueel</string>
@@ -126,7 +168,6 @@
   <string name="no_more_result">Geen items meer</string>
   <string name="no_settings">Niet ingesteld</string>
   <string name="not_install_c1">Deze app is niet geïnstalleerd op uw telefoon. Downloaden en installeren?</string>
-  <string name="not_install_c2">Downloaden en installeren?</string>
   <string name="not_install_c3">Downloaden</string>
   <string name="not_install_c4">Nee bedankt</string>
   <string name="not_installed">Niet geïnstalleerd</string>
@@ -136,6 +177,7 @@
   <string name="notification_express_content">Volg bestellingen met slimme assistent</string>
   <string name="notification_express_title">Kaarten inschakelen voor winkel apps</string>
   <string name="opened">AAn</string>
+  <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_parent">Alipay</string>
   <string name="place_label">Regelmatige plaatsen</string>
   <string name="preferences">Voorkeuren</string>
@@ -143,6 +185,8 @@
   <string name="qq_new">Nieuwe status</string>
   <string name="qq_qzone">Qzone</string>
   <string name="quickstart_label">Functies</string>
+  <string name="record_name">Start recording</string>
+  <string name="record_parent">Recorder</string>
   <string name="remain_flow">Mobiele data</string>
   <string name="req_no_data">Kon info niet verkrijgen</string>
   <string name="req_no_sdata">Kon geen resultaten vinden</string>
@@ -154,6 +198,10 @@
   <string name="scan_exercise">Bestuderen</string>
   <string name="scan_parent">Scanner</string>
   <string name="scan_trans">Vertalen</string>
+  <string name="scanner_cancel">取消</string>
+  <string name="scanner_install">安装</string>
+  <string name="scanner_install_desc">继续使用需要安装扫一扫功能</string>
+  <string name="scanner_uninstall">扫一扫已卸载</string>
   <string name="security">Veiligheid</string>
   <string name="service_unavailiable">Controleer de netwerkverbinding en probeer opnieuw</string>
   <string name="setting_address">Regelmatige plaatsen toevoegen</string>
@@ -175,6 +223,9 @@
   <string name="taxi_setting_brief">Een taxi krijgen met één simpele klik.</string>
   <string name="trans_card">Transportkaart</string>
   <string name="transit_subway">Openbaar vervoer</string>
+  <string name="trip_profession">专车</string>
+  <string name="trip_quick">快车</string>
+  <string name="trip_taxi">出租车</string>
   <string name="try_again">Probeer opnieuw</string>
   <string name="understandassistant">Over smart assistant</string>
   <string name="unusual_weather">Weeralarmen</string>
@@ -186,6 +237,9 @@
   <string name="weibo_name">Nieuw bericht</string>
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">Hoe ga je normaal gesproken naar uw bestemming?</string>
+  <string name="widget_fav">favorite</string>
+  <string name="widget_fav_open">Show favorite card</string>
+  <string name="widget_fav_setting_brief">View your favorite data.</string>
   <string name="wx_aa">Betaal voor jezelf</string>
   <string name="wx_collectioncode">Betaling ontvangen</string>
   <string name="wx_name">Mijn kaart</string>

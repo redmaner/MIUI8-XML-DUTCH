@@ -9,6 +9,8 @@
   <string name="auth_notif_message">Typ de sessiesleutel voor %1$s</string>
   <string name="auth_notif_ticker">OBEX verificatieverzoek</string>
   <string name="auth_notif_title">Sessiesleutel</string>
+  <string name="bluetooth_connected">Bluetooth audio connected</string>
+  <string name="bluetooth_disconnected">Bluetooth audio disconnected</string>
   <string name="bluetooth_in_airplane_mode">In vliegmodus</string>
   <string name="bluetooth_map_settings_app_icon">Applicatie icoon</string>
   <string name="bluetooth_map_settings_cancel">Annuleren</string>
@@ -23,6 +25,7 @@
   <string name="bluetooth_sap_notif_message">Client vragen om verbinding te verbreken?</string>
   <string name="bluetooth_sap_notif_ticker">Bluetooth SIM toegang</string>
   <string name="bluetooth_sap_notif_title">Bluetooth SIM toegang</string>
+  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">Annuleren</string>
   <string name="bt_enable_line1">Als u Bluetooth services wilt gebruiken, moet u eerst Bluetooth inschakelen.</string>
   <string name="bt_enable_line2">Bluetooth nu inschakelen?</string>
@@ -39,6 +42,8 @@
   <string name="bt_toast_5">"%1$s bestanden verzenden naar '%2$s'"</string>
   <string name="bt_toast_6">"Verzenden van bestand naar '%1$s' is beëindigd"</string>
   <string name="btopp_live_folder">Ontvangen via Bluetooth</string>
+  <string name="defaultname">Carkit</string>
+  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Alle records verwijderen</string>
   <string name="delete_record">Record verwijderen</string>
   <string name="download_cancel">Stoppen</string>
@@ -63,6 +68,7 @@
   <string name="inbound_history_title">Inkomende overdrachten</string>
   <string name="inbound_noti_title">Bluetooth delen: ontvangen bestanden</string>
   <string name="incoming_file_confirm_Notification_caption">Wilt u dit bestand ontvangen?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s is ready to send %2$s</string>
   <string name="incoming_file_confirm_Notification_title">Delen via Bluetooth: inkomend bestand</string>
   <string name="incoming_file_confirm_cancel">Weigeren</string>
   <string name="incoming_file_confirm_content">Binnenkomed bestand aanvaarden?</string>
@@ -96,15 +102,18 @@
   <string name="outbound_history_title">Uitgaande overdrachten</string>
   <string name="outbound_noti_title">Bluetooth delen: verzonden bestanden</string>
   <string name="pbap_acceptance_timeout_message">Er is een time-out opgetreden voor het accepteren van de verbinding met %1$s</string>
+  <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
   <string name="pbap_authentication_timeout_message">Er is een time-out opgetreden tijdens het invoeren van de sessiesleutel met %1$s</string>
   <string name="pbap_session_key_dialog_header">Bluetooth sessiesleutel is vereist</string>
   <string name="pbap_session_key_dialog_title">Typ de sessiesleutel voor %1$s</string>
   <string name="permdesc_bluetoothAvrcpDataManager">Staat de app toe om toegang te krijgen tot BluetoothAvrcpData manager en het te gebruiken om weer te geven op de UI.</string>
   <string name="permdesc_bluetoothShareManager">Hiermee krijgt de app toegang tot de beheerfunctie voor delen via Bluetooth om deze functie te gebruiken voor het overdragen van bestanden.</string>
   <string name="permdesc_bluetoothWhitelist">Hiermee kan de app tijdelijk een Bluetooth apparaat op de witte lijst plaatsen, waardoor dat apparaat bestanden kan verzenden naar dit apparaat zonder bevestiging van de gebruiker.</string>
+  <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Toegang tot avrcp metadata.</string>
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
+  <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">TCP server starten</string>
