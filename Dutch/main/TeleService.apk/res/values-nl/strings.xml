@@ -88,7 +88,6 @@
   <string name="administrative_disable">Beheer uitgeschakeld</string>
   <string name="administrative_enable">Beheer ingeschakeld</string>
   <string name="advanced_settings">Extra instellingen</string>
-  <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ Aanraken om alles te verbergen</string>
   <string name="advanced_settings_show">▷ Aanraken om alles weer te geven</string>
   <string name="advertisements_disable">Advertenties uitgeschakeld</string>
@@ -121,7 +120,6 @@
   <string name="audio_mode_earpiece">Handset oortje</string>
   <string name="audio_mode_speaker">Luidspreker</string>
   <string name="audio_mode_wired_headset">Bedrade hoofdtelefoon</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Gebruikersnaam die voor de verificatie wordt gebruikt</string>
   <string name="auth_username_title">Gebruikersnaam voor verificatie</string>
   <string name="auto_answer_delay_entries_delay_10s">10 seconden</string>
@@ -518,12 +516,10 @@
   <string name="debug_networking_category">Networking</string>
   <string name="debug_view_attributes">Enable view attribute inspection</string>
   <string name="default_notification_description">Standaard geluid (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
   <string name="default_preference_summary_domain_address">&lt;Not set&gt;</string>
   <string name="default_preference_summary_password">&lt;Not set&gt;</string>
   <string name="default_preference_summary_username">&lt;Not set&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_fdn_contact">Vast nummer verwijderen</string>
   <string name="deleting_fdn_contact">Vast nummer verwijderen…</string>
@@ -605,10 +601,8 @@
   <string name="disable_sim_pin">SIM PIN wissen</string>
   <string name="disabled_by_admin">Uitgeschakeld door beheerder</string>
   <string name="disabled_by_admin_summary_text">Controlled by admin</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Naam weergeven</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Klaar</string>
   <string name="dtmf_tone_entries_long">Lang</string>
@@ -1030,7 +1024,6 @@ Dit kan tot 5 minuten duren."</string>
   <string name="other_settings_category">Overige</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="overseas_roaming_setting">Dataroaming</string>
-  <string name="password">Password</string>
   <string name="password_changed">Wachtwoord veranderd</string>
   <string name="password_title">Wachtwoord</string>
   <string name="path_answer_state_setting_title">Systeemapps/Telefoon/Inkomende oproep instellingen</string>
@@ -1111,7 +1104,6 @@ U hebt nog %d pogingen over."</string>
   <string name="pin_progress_unlock_icc">SIM kaart ontgrendelen…</string>
   <string name="pointer_location">Pointer location</string>
   <string name="pointer_location_summary">Screen overlay showing current touch data</string>
-  <string name="port">Port</string>
   <string name="port_title">Poortnummer</string>
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s until full</string>
@@ -1311,9 +1303,7 @@ U hebt nog %d pogingen over."</string>
   <string name="select_webview_provider_title">WebView implementation</string>
   <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
   <string name="send_button">Verzenden</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Keepalive verzenden</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Gebruikt voor uitgaande oproepen</string>
   <string name="set_primary_title">Instellen als hoofdaccount</string>
   <string name="set_smsc_address_error">Nummer instellen mislukt</string>
@@ -1357,10 +1347,7 @@ U hebt nog %d pogingen over."</string>
   <string name="sip_accounts">SIP accounts</string>
   <string name="sip_accounts_title">Accounts</string>
   <string name="sip_add_account_tip_text">Voeg een SIP account toe voor VOIP.</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Altijd verzenden</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Voor alle oproepen wanneer het datanetwerk beschikbaar is</string>
   <string name="sip_call_options_entry_2">Alleen voor SIP oproepen</string>
   <string name="sip_call_options_entry_3">Vragen bij elke oproep</string>
@@ -1489,7 +1476,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="track_frame_time">Profile GPU rendering</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Transporttype</string>
   <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
   <string name="tts_default_lang_title">Language</string>
@@ -1537,7 +1523,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="user_guest">Guest</string>
-  <string name="username">UserName</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD code uitvoeren…</string>
   <string name="ussd_dialog_sep">----------</string>
@@ -1570,7 +1555,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="voicemail_notification_ringtone_title">Geluid</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Trillen</string>
   <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
-  <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="voicemail_notification_vibrate_when_title">Trillen</string>
   <string name="voicemail_number_not_set">Niet ingesteld</string>
   <string name="voicemail_provider">Dienst</string>

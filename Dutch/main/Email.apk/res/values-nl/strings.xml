@@ -5,7 +5,6 @@
   <string name="SMTP_username_text">Gebruikersnaam</string>
   <string name="accessibility_guide_first">In the next screen, select the \"Services\" tab to activate the 139 Mailbox Automatical Configuring</string>
   <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_failure">Account failure</string>
@@ -330,7 +329,6 @@ Nu bijwerken?"</string>
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_sharelink">Link delen</string>
   <string name="contextmenu_sms_dot">"SMS'en…"</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Verplaatst naar %1$s</string>
   <string name="conversation_item_mark_read">Gelezen</string>
   <string name="conversation_item_mark_unread">Ongelezen</string>
@@ -406,8 +404,6 @@ Nu bijwerken?"</string>
   <string name="drawer_open">Navigatie lader openen</string>
   <string name="due">Due</string>
   <string name="due_date_text">Final repayment</string>
-  <string name="eas_hotmail_email">hotmail.com</string>
-  <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">E-mailadres</string>
@@ -419,7 +415,6 @@ Nu bijwerken?"</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="email_suggestions_authority">com.android.email.provider</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -502,7 +497,6 @@ Nu bijwerken?"</string>
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
   <string name="forward_download_failed_ticker">Kan een of meer bijlagen niet doorsturen.</string>
   <string name="forward_download_failed_title">Bijlage niet doorgestuurd</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="free_period_text">Interest-free period</string>
   <string name="from_heading">"Van: "</string>
   <string name="general_preference_confirm_delete_label">Bevestigen voor verwijderen</string>
@@ -582,14 +576,6 @@ Nu bijwerken?"</string>
   <string name="mailbox_name_display_starred">Favorieten</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
-  <string name="mailbox_name_server_all_unread">Unread</string>
-  <string name="mailbox_name_server_drafts">Drafts</string>
-  <string name="mailbox_name_server_inbox">Inbox</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Outbox</string>
-  <string name="mailbox_name_server_sent">Sent</string>
-  <string name="mailbox_name_server_starred">Starred</string>
-  <string name="mailbox_name_server_trash">Trash</string>
   <string name="mailbox_settings_activity_title">Sync. instellingen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Sync. instellingen (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail sync van</string>
@@ -826,7 +812,6 @@ to receive reminders about payments and trips"</string>
   <string name="policy_screen_timeout">Inactief apparaat vergrendelt scherm</string>
   <string name="policy_text_truncation">Tekst e-mail grootte beperken</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tik op voltooien om mailserver in te stellen</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, zullen bijlagen automatisch gedownload worden met e-mail zelf. Dit kan uw mobiele datagebruik verhogen.</string>
@@ -952,12 +937,7 @@ to receive reminders about payments and trips"</string>
   <string name="reply_add_bodycontent">Snel antwoord toevoegen aan berichtinhoud?</string>
   <string name="reply_all">Allen beantwoorden</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Bestand is te groot</string>
   <string name="request_permission_activity">Toestemmingsaanvraag</string>
@@ -1125,7 +1105,6 @@ Stop now?"</string>
   <string name="wait_for_manual_sync_body">"Automatische synchronisatie is niet ingesteld voor dit account.
 Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n keer te synchroniseren of raak &lt;b&gt;Synchronisatie instellingen wijzigen&lt;/b&gt; aan om automatische synchronisatie in te stellen voor dit account.</string>
   <string name="wait_for_sync_title">Wachten op synchronisatie</string>
-  <string name="wait_help_context">wait</string>
   <string name="webview_logout">You can try to sign in again</string>
   <string name="webview_logout_cancel">Not now</string>
   <string name="webview_logout_sure">Try again</string>
@@ -1135,7 +1114,6 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_all_mail">Alle mails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Overige</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wipe_account_fail_description">Klik hier om toestemming te krijgen</string>
   <string name="wipe_account_fail_title">Mislukt om persoonlijke informatie te verwijderen</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>

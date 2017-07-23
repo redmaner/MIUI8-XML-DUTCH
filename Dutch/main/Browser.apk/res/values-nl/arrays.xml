@@ -54,11 +54,6 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
-    <string-array name="baidu_in_list">
-        <item>search_baidu</item>
-        <item>ic_search_engine_baidu</item>
-        <item>baidu</item>
-    </string-array>
     <string-array name="bing">
         <item>Bing</item>
         <item>bing.com</item>
@@ -66,16 +61,6 @@
         <item>http://www.bing.com/search?q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
-    </string-array>
-    <string-array name="bing_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="bing_zh_CN_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing</item>
-        <item>bing_zh_CN</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
@@ -131,22 +116,6 @@
         <item>沃门户</item>
         <item>http://www.wo.com.cn</item>
     </string-array>
-    <string-array name="bookmarks_zh">
-        <item>小米论坛</item>
-        <item>http://bbs.xiaomi.cn/</item>
-        <item>百度</item>
-        <item>http://m.baidu.com/?from=1269a</item>
-        <item>谷歌</item>
-        <item>http://www.google.com.hk/</item>
-        <item>新浪</item>
-        <item>http://3g.sina.com.cn/</item>
-        <item>QQ</item>
-        <item>http://3g.qq.com/</item>
-        <item>凤凰网</item>
-        <item>http://i.ifeng.com/?ch=rj_mr</item>
-        <item>网易</item>
-        <item>http://3g.163.com/</item>
-    </string-array>
     <array name="config_keySystemUuidMapping" />
     <string-array name="dianping">
         <item>团购</item>
@@ -156,11 +125,6 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
-    <string-array name="dianping_in_list">
-        <item>search_dianping</item>
-        <item>ic_search_engine_dianping</item>
-        <item>dianping</item>
-    </string-array>
     <string-array name="easou">
         <item>宜搜</item>
         <item>easou.com:8080</item>
@@ -169,11 +133,6 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
-    <string-array name="easou_in_list">
-        <item>search_easou</item>
-        <item>ic_search_engine_easou</item>
-        <item>easou</item>
-    </string-array>
     <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
@@ -181,11 +140,6 @@
         <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
-    </string-array>
-    <string-array name="google_in_list">
-        <item>search_google</item>
-        <item>ic_search_engine_google</item>
-        <item>google</item>
     </string-array>
     <integer-array name="hot_words_item_text_bg_color">
         <item>0xFFF2F6E8</item>
@@ -205,22 +159,6 @@
         <item>@raw/zh_cn</item>
         <item>@raw/en_us</item>
     </array>
-    <integer-array name="readmode_theme_bgcolors">
-        <item>0xFFF7F7F7</item>
-        <item>0xFFE6DDD1</item>
-        <item>0xFFD8D8D8</item>
-        <item>0xFFCDC3B5</item>
-        <item>0xFFB0C0B6</item>
-        <item>0xFF111214</item>
-    </integer-array>
-    <integer-array name="readmode_theme_fontcolors">
-        <item>0xFF000000</item>
-        <item>0xFF737770</item>
-        <item>0xFF3E4042</item>
-        <item>0xFF543B20</item>
-        <item>0xFF2E3833</item>
-        <item>0xFF646974</item>
-    </integer-array>
     <string-array name="s139">
         <item>百度</item>
         <item>139.com</item>
@@ -228,11 +166,6 @@
         <item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
-    <string-array name="s139_in_list">
-        <item>search_s139</item>
-        <item>ic_search_engine_s139</item>
-        <item>s139</item>
     </string-array>
     <string-array name="search_bar_search_engines_cmcc">
         <item>s139</item>
@@ -277,11 +210,6 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
-    <string-array name="shipin_in_list">
-        <item>search_shipin</item>
-        <item>ic_search_engine_shipin</item>
-        <item>shipin</item>
-    </string-array>
     <string-array name="sm">
         <item>神马</item>
         <item>sm.cn</item>
@@ -303,11 +231,6 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
-    <string-array name="sogou_in_list">
-        <item>search_sogou</item>
-        <item>ic_search_engine_sogou</item>
-        <item>sogou</item>
-    </string-array>
     <string-array name="taobao">
         <item>淘宝</item>
         <item>taobao.com</item>
@@ -315,11 +238,6 @@
         <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
-    <string-array name="taobao_in_list">
-        <item>search_taobao</item>
-        <item>ic_search_engine_taobao</item>
-        <item>taobao</item>
     </string-array>
     <string-array name="tupian">
         <item>图片</item>
@@ -329,11 +247,6 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
-    <string-array name="tupian_in_list">
-        <item>search_tupian</item>
-        <item>ic_search_engine_tupian</item>
-        <item>tupian</item>
-    </string-array>
     <string-array name="yahoo">
         <item>Yahoo!</item>
         <item>yahoo.com</item>
@@ -342,11 +255,6 @@
         <item>UTF-8</item>
         <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
     </string-array>
-    <string-array name="yahoo_in_list">
-        <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo</item>
-        <item>yahoo</item>
-    </string-array>
     <string-array name="yicha">
         <item>易查</item>
         <item>yicha.cn</item>
@@ -354,10 +262,5 @@
         <item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
-    <string-array name="yicha_in_list">
-        <item>search_yicha</item>
-        <item>ic_search_engine_yicha</item>
-        <item>yicha</item>
     </string-array>
 </resources>
