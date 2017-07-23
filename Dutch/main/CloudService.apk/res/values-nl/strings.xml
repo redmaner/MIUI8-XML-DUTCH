@@ -187,14 +187,13 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_detail_lastest_with_off">Gesync.</string>
   <string name="micloud_detail_need_charge_or_sleep">Sluit de oplader aan en schakel het scherm uit om verder te gaan met synchroniseren</string>
   <string name="micloud_detail_not_sync">%d wacht om te synchroniseren</string>
+  <string name="micloud_detail_not_syncable">Not syncable</string>
   <string name="micloud_detail_not_synced">Niet gesynchroniseerd</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pause">Synchronisatie gepauzeerd</string>
   <string name="micloud_detail_pending">In afwachting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"Kon geen info verkrijgen over synchronisatievoortgang"</string>
-  <string name="micloud_detail_query_error_detail">"Kan niet bevestigen of synchronisatie is voltooid voor sommige services. U kan contact opnemen met de ontwikkelaars via de feedbackapp."</string>
-  <string name="micloud_detail_query_error_title">"Kon geen info verkrijgen over synchronisatievoortgang"</string>
   <string name="micloud_detail_success">Gesynchroniseerd</string>
   <string name="micloud_detail_sync_now">Nu synchroniseren</string>
   <string name="micloud_detail_syncing">Synchroniseren</string>
@@ -237,12 +236,20 @@ of apparaat te wissen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_battery_low">Batterij te laag om te sync.</string>
   <string name="micloud_main_battery_message">"Verbind apparaat met oplader om te sync."</string>
+  <string name="micloud_main_button_activate">Activate</string>
+  <string name="micloud_main_button_authorize">Authorize</string>
+  <string name="micloud_main_button_set_internet">Setting</string>
   <string name="micloud_main_cancel_sync">Synchronisatie annuleren</string>
   <string name="micloud_main_clear_now">Wissen</string>
   <string name="micloud_main_detail">Detail bekijken</string>
+  <string name="micloud_main_error_activated_fail">Please activate Sim card.</string>
+  <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
+  <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
   <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
+  <string name="micloud_main_master_sync_on">Sync on</string>
   <string name="micloud_main_memory_low_message">Om te sync., items te verwijderen die u hebt opgeslagen in de cloud.</string>
   <string name="micloud_main_memory_low_title">Intern geheugen is bijna vol</string>
+  <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
   <string name="micloud_main_message_not_synced">%s data niet gesynchroniseerd</string>
   <string name="micloud_main_multi_user_error_message">Je hebt ingelogd met hetzelfde account als op de eerste ruimte waardoor Mi Cloud is gestopt. Als je bestanden wil back-uppen:
 
@@ -251,10 +258,13 @@ of apparaat te wissen."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud foutmelding</string>
   <string name="micloud_main_network_abnormal">Kan niet verbinden met netwerk</string>
   <string name="micloud_main_network_error">Kan geen verbinding maken met het netwerk</string>
+  <string name="micloud_main_query_again">Query</string>
   <string name="micloud_main_query_error_message">"Kan niet bevestigen of synchronisatie is voltooid voor sommige services"</string>
   <string name="micloud_main_query_error_title">"Kon geen info verkrijgen over synchronisatievoortgang"</string>
+  <string name="micloud_main_resume_sync_soon">Resume sync soon</string>
   <string name="micloud_main_set_internet">Netwerk</string>
   <string name="micloud_main_space_full">Cloudopslag is vol</string>
+  <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
   <string name="micloud_main_space_full_title">Niet genoeg opslagruimte, synchronisatie is gepauzeerd</string>
   <string name="micloud_main_space_low">Bijna geen ruimte meer</string>
   <string name="micloud_main_stop_sync">Sync. gestopt</string>
@@ -263,7 +273,6 @@ of apparaat te wissen."</string>
   <string name="micloud_main_suggest_sync">Sommige items zijn niet gesynchroniseerd met Mi Cloud</string>
   <string name="micloud_main_sync_exception">Synchronisatiefout</string>
   <string name="micloud_main_sync_init">Info verkrijgen</string>
-  <string name="micloud_main_sync_need_charge">Laad te telefoon op</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Laad te telefoon op en schakel het scherm uit</string>
   <string name="micloud_main_sync_now">Nu synchroniseren</string>
   <string name="micloud_main_sync_on">Synchronisatie inschakelen</string>
@@ -280,6 +289,11 @@ of apparaat te wissen."</string>
   <string name="micloud_main_title_sync_off">Synchronisatie uit</string>
   <string name="micloud_main_title_sync_on_wifi">Wachten op Wi-Fi</string>
   <string name="micloud_main_update_space">Opslagruimte vergroten</string>
+  <string name="micloud_main_wait_charge">Waiting for connecting charger</string>
+  <string name="micloud_main_wait_charge_sleep">Waiting for connecting charger and turn off screen</string>
+  <string name="micloud_main_wait_wlan">Waiting for WLAN</string>
+  <string name="micloud_main_wait_wlan_charge">Waiting for WLAN, connecting charger</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Waiting for WLAN, connecting charger and turn off screen</string>
   <string name="micloud_main_wlan_sync_data_count">Items wachten om te sync.: %d</string>
   <string name="micloud_member">Mi Cloud lidmaatschap</string>
   <string name="micloud_member_advantage">Verkrijg meer opslagruimte.</string>
@@ -355,6 +369,7 @@ of apparaat te wissen."</string>
   <string name="micloud_title_dspt" formatted="false">"%s totaal %s gebruikt | %s resterend"</string>
   <string name="micloud_title_dspt_remain">%s resterend</string>
   <string name="micloud_title_full_dspt">Je opslagruimte limiet is bereikt</string>
+  <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud inschakelen</string>
   <string name="micloud_upgrade_member">Verkrijg meer opslagruimte</string>
   <string name="micloud_upgrade_space">Verkrijg opslagruimte</string>
@@ -505,6 +520,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="wipe_data_dialog_button_check_sync">Controleren al ze gesync. zijn</string>
   <string name="wipe_data_dialog_msg">%s waren niet gesync en zullen op telefoon blijven staan.</string>
   <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Sommige items zijn niet gesync.</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>

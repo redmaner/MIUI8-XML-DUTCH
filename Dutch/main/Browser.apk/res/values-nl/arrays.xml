@@ -8,16 +8,19 @@
         <item>Groen</item>
         <item>Blauw</item>
     </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
+	<string-array name="pref_fling_on_border_gesture_entries">
+        <item>Pagina verder/terug</item>
+        <item>Tabbladen wisselen</item>
+        <item>Geen</item>
     </string-array>
 	<string-array name="pref_homepage_choices">
         <item>Standaard startpagina</item>
         <item>Aangepast</item>
 	</string-array>	
+	<string-array name="pref_nav_mode_summary">
+        <item>Telefoon</item>
+        <item>Pad</item>	
+    </string-array>
 	<string-array name="pref_text_zoom_choices">
         <item>Extra klein</item>
         <item>Klein</item>
@@ -25,25 +28,22 @@
         <item>Groot</item>
         <item>Extra groot</item>
 	</string-array>	
-	<string-array name="pref_nav_mode_summary">
-        <item>Telefoon</item>
-        <item>Pad</item>	
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
     </string-array>
-	<string-array name="shortcut_dialog_title">
-        <item>Bericht van browser</item>
-        <item>Volg de olympische spelen met Mi</item>
-    </string-array>
-	<string-array name="pref_fling_on_border_gesture_entries">
-        <item>Pagina verder/terug</item>
-        <item>Tabbladen wisselen</item>
-        <item>Geen</item>
+    <string-array name="shortcut_dialog_delete">
+        <item>Verwijderen</item>
+        <item>Nee bedankt</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>OK</item>
         <item>Volgen</item>
     </string-array>
-    <string-array name="shortcut_dialog_delete">
-        <item>Verwijderen</item>
-        <item>Nee bedankt</item>
+	<string-array name="shortcut_dialog_title">
+        <item>Bericht van browser</item>
+        <item>Volg de olympische spelen met Mi</item>
     </string-array>
 </resources>

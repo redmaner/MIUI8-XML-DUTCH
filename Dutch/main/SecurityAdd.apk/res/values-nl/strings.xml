@@ -5,6 +5,7 @@
   <string name="add_whitelist">Toevoegen aan uitzonderingen</string>
   <string name="anim_gamebooster_text">Een momentje…</string>
   <string name="anti_disturb_msg_detail">Alle meldingen uitschakelen, uitgezonderd inkomende oproepen</string>
+  <string name="anti_disturb_msg_title">DND</string>
   <string name="app_name">Beveiligingsservice plugin</string>
   <string name="app_not_installed_toast">App is niet geïnstalleerd op uw toestel</string>
   <string name="application_item_already_permission">Toegestaan</string>
@@ -21,6 +22,7 @@
   <string name="dont_bore">Laat knoppen en meldingen u niet afleiden</string>
   <string name="dont_bore_text">Meldingen dempen en knoppen niet weergeven om afleidingen te voorkomen</string>
   <string name="dont_bore_title">Niet storen modus</string>
+  <string name="empty">" "</string>
   <string name="fastboot_locked_answer_1">"Fastboot is de traditionele manier om Mi apparaten te flashen. Wanneer het aparaat zich in fastbootmodus bevindt, kunnen alle gegevens direct worden bekeken en gewist. Wij vergrendelen de fastboot om uw gegevens veilig te houden in het geval u het apparaat kwijtraakt en de betrouwbaarheid van de functies van 'apparaat vinden' te garanderen."</string>
   <string name="fastboot_locked_answer_2">"In het geval u uw apparaat kwijtraakt, garandeert fastboot de veiligheid van uw gegevens. Als je fastboot ontgrendelt, zal je niet meer in staat zijn om het apparaat op afstand te vergrendelen of gegevens te wissen met 'apparaat vinden'. Daarom raden we niet aan om fastboot te ontgrendelen op uw apparaat."</string>
   <string name="fastboot_locked_answer_3">"Je moet de ontgrendeltool gebruiken van de MIUI website. Om het apparaat te ontgrendelen moeten we zeker weten dat het apparaat van u is. Daarom moet u inloggen met uw Mi Account en 'apparaat vinden' inschakelen."</string>
@@ -52,6 +54,7 @@
   <string name="gs_auto_clean_memory_detail">Cache automatisch wissen om gamen te optimaliseren</string>
   <string name="gs_dialog_confirm_close_msg">De snelkoppeling zal van uw startscherm verwijderd worden. Ga naar veiligheid &gt; instellingen om het te herstellen.</string>
   <string name="gs_dialog_confirm_close_title">Uitschakelen</string>
+  <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Tijd</string>
   <string name="gs_game_net_priority">Verbinding prioriteit</string>
   <string name="gs_game_net_priority_detail">Beperk de downloadsnelheid om meer bandbreedte te hebben om te gamen</string>
@@ -62,9 +65,11 @@
   <string name="gs_performance_mode">Prestatiemodus</string>
   <string name="gs_performance_mode_detail">Verhoog CPU gebruik om naadloze prestaties te garanderen</string>
   <string name="i_know">Begrepen</string>
+  <string name="install_sucess">Installed %s successfully</string>
   <string name="intro_improve">Verbeter je game-ervaring op systeemniveau</string>
   <string name="intro_skip">Overslaan</string>
   <string name="loading">Een momentje…</string>
+  <string name="lucky_result_title">Red envelopes</string>
   <string name="main_toolbar_purchase">Aanvullen</string>
   <string name="man_add_application">Apps automatisch laten opstarten handmatig toevoegen</string>
   <string name="miuishare_title_more">Meer</string>
@@ -88,12 +93,14 @@
   <string name="month_report_warning_dialog_description">Om het maandelijks rapport te bekijken, zet deze functie aan in instellingen  van de beveiligingsapp.</string>
   <string name="month_report_warning_dialog_positive">Inschakelen</string>
   <string name="month_report_warning_dialog_title">Maandelijks veiligheidsrapport</string>
+  <string name="more_game">More games</string>
   <string name="net_delay_title">Vertraging</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="no_game">Geen games gevonden</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Openen in browser</string>
+  <string name="open_game">Open</string>
   <string name="other">Andere instellingen</string>
   <string name="pc_activity_title">Batterij optimaliseren</string>
   <string name="pm_lable_name">Over roottoegang</string>
@@ -113,9 +120,13 @@
   <string name="support_game_booster_tips">Start games met game speed booster te gebruiken</string>
   <string name="sys_cpu_title">CPU gebruik</string>
   <string name="sys_freememory_title">Beschikbaar</string>
+  <string name="sys_title_gamebooster_unit_gb">G</string>
+  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">URL delen</string>
+  <string name="top_game">Top games</string>
   <string name="top_load_fail_detail">Kon niet laden, tik om opnieuw te proberen</string>
   <string name="top_no_network_detial">Kon niet laden, controleer de netwerkverbinding en probeer opnieuw</string>
+  <string name="try_game">Try</string>
   <string name="usage_sorted_loading_text">Een momentje…</string>
   <string name="wlan_change_protection_detail">Niet automatisch wisselen naar Wi-Fi wanneer verbonden met mobiel netwerk</string>
   <string name="wlan_change_protection_title">Wisselen van netwerken voorkomen</string>

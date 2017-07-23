@@ -101,6 +101,7 @@
   <string name="block_ads_choice_continue">Doorgaan</string>
   <string name="block_ads_message">Wilt u berichten van deze website blokkeren?</string>
   <string name="block_ads_title">Inhoud kan advertenties bevatten</string>
+  <string name="bookmark">Bookmark</string>
   <string name="bookmark_add_to">Toevoegen aan</string>
   <string name="bookmark_btn_select_all">Alles selecteren</string>
   <string name="bookmark_btn_select_none">Alles deselecteren</string>
@@ -170,8 +171,10 @@
   <string name="comment_description">Opmerking</string>
   <string name="comment_hint">Opmerking</string>
   <string name="comment_menu">Opmerking</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_text_next">Volgende</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Vorige</string>
+  <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
   <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL link kopiëren</string>
@@ -245,6 +248,8 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="download_btn_select_none">Alles deselecteren</string>
   <string name="download_complete">Met succes gedownload</string>
   <string name="download_completed">Gedownload</string>
+  <string name="download_default_path_txt">Remember this choice</string>
+  <string name="download_dialog_default_path_invalid">"The download location you've selected is invalid. Saving to default location…"</string>
   <string name="download_dialog_file_length_hint_txt">"Bestandsgrootte:"</string>
   <string name="download_dialog_file_length_lessthan1kb">Kleiner dan 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Bestandsgrootte berekenen mislukt</string>
@@ -331,7 +336,8 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="gold_medals">Gouden medailles</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Op startscherm geplaatst</string>
-  <string name="history_saved_webpage">Opgeslagen pagina\'s</string>
+  <string name="hint">Hint</string>
+  <string name="history">History</string>
   <string name="home_description">Home</string>
   <string name="homepage_delete_card_menu">Verwijderen</string>
   <string name="homepage_get_location">Locatie verkrijgen</string>
@@ -356,6 +362,7 @@ Deze pagina verlaten?"</string>
   <string name="js_dialog_before_unload_positive_button">Verlaten</string>
   <string name="js_dialog_before_unload_title">Pagina verlaten</string>
   <string name="js_dialog_title">De pagina op \" %s\" zegt:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">JavaScript uitschakelen kan leiden tot incorrecte weergave van sommige websites.</string>
   <string name="js_disable_confirm_title">JavaScript uitschakelen?</string>
   <string name="keep_queued_download">Houden</string>
@@ -415,6 +422,7 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_btn_close">Sluiten</string>
   <string name="miuichromium_error_page_btn_refresh">Vernieuwen</string>
   <string name="miuichromium_error_page_btn_report_issue">Probleem melden</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
   <string name="miuichromium_error_page_diagnose">Netwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_banner">Netwerkdiagnoses</string>
   <string name="miuichromium_error_page_diagnose_certificate">Kon netwerkprotocol niet verifiëren</string>
@@ -431,9 +439,57 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_network_hijack">Huidig netwerk is niet veilig</string>
   <string name="miuichromium_error_page_network_off">Wi-Fi of mobiele data inschakelen</string>
   <string name="miuichromium_error_page_no_network">Kon niet verbinden met netwerk</string>
+  <string name="miuichromium_error_page_problem_access_denied">Access to %s0 was denied</string>
+  <string name="miuichromium_error_page_problem_cache_miss">This page cant be loaded from the cache</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">"The page can't be opened"</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">"The site can't be reached"</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Connection was interrupted</string>
+  <string name="miuichromium_error_page_problem_file_not_found">"Couldn't find file"</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">It took too long for %s0 to respond</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">Network access is restricted</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">"Couldn't connect to the Internet"</string>
+  <string name="miuichromium_error_page_problem_page_moved">This page on %s0 might have been moved or deleted</string>
+  <string name="miuichromium_error_page_problem_page_not_found">"Couldn't find this page on %s0"</string>
+  <string name="miuichromium_error_page_problem_page_not_working">"This page isn't working"</string>
+  <string name="miuichromium_error_page_problem_security_error">"This site can't provide a secure connection"</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 is currently unable to handle this request</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" because %s0 didn't accept your certificate"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 doesn't adhere to security standards"</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. Access is blocked by %s0</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 interrupted connection</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 refused to connect</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. Connection was reset</string>
+  <string name="miuichromium_error_page_reason_device_slept">" when your device went to sleep"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" because %s0 didn't send any data"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">. IP address or port number is invalid</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" because %s0 sent an invalid response"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" because the URL is invalid"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. It might be moved or deleted</string>
+  <string name="miuichromium_error_page_reason_name_collision">. This site on the intranet has the same URL as an external website</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">". Couldn't find DNS address for %s0"</string>
+  <string name="miuichromium_error_page_reason_network_changed">" due to a network change"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Something is wrong with the proxy server, or proxy address is incorrect</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 is currently unreachable</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 doesn't respond for too long"</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" because %s0 redirected you too many times"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 is using an unsafe port number</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 is redirecting you in an unsafe way</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 uses an unsupported protocol</string>
   <string name="miuichromium_error_page_reload">Vernieuwen</string>
   <string name="miuichromium_error_page_safe_network">Veilige modus</string>
   <string name="miuichromium_error_page_server_error">Er proberen te veel apparaten te verbinden</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Reset your %s1APN settings%s2.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Check your %s1proxy settings%s2.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Clear cache (%s1Settings%s2 - Clear data).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Clear cache and cookies (%s1Settings%s2 - Clear data, your account info may be lost).</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Contact your system administrator.</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">"Check the address you've entered and try again using the correct URL."</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Reload after granting Browser permission to access the internet.</string>
+  <string name="miuichromium_error_page_suggestion_title">. Try this:</string>
   <string name="miuichromium_error_page_title">Er is een fout opgetreden</string>
   <string name="miuichromium_error_page_unknown_error">Oops, er ging is fout</string>
   <string name="miuichromium_error_page_wlan">Wi-Fi instellingen</string>
@@ -467,7 +523,6 @@ Deze pagina verlaten?"</string>
   <string name="navigationbar_rightbutton_actiontext_search">Zoeken</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Er is een Wi-Fi hotspot gevonden, wilt u verbinden?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi netwerk beschikbaar</string>
-  <string name="new_folder_name_lable">Groepsnaam</string>
   <string name="next_button_label">Volgende</string>
   <string name="no_app_open_document">Geen app gevonden om deze actie te voltooien</string>
   <string name="no_matches">Geen overeenkomsten</string>
@@ -617,6 +672,7 @@ Deze pagina verlaten?"</string>
   <string name="quicklink_saved_before">Deze site is al toegevoegd</string>
   <string name="quicklink_user_define_webpage_title">Naam</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
+  <string name="quicklinks_group_default_subtitle">Empty</string>
   <string name="quicklinks_management">Snelle links</string>
   <string name="quicklinks_most_visited">Meest bezochte websites toevoegen aan startpagina</string>
   <string name="quicklinks_most_visited_subtitle">Meest bezochte websites weergeven in nieuw tabblad</string>
@@ -647,6 +703,7 @@ Deze pagina verlaten?"</string>
   <string name="retry_after_network_available">Kan niet verbinden met netwerk</string>
   <string name="retry_download">Opnieuw proberen</string>
   <string name="return_to_homepage">Terugkeren naar startpagina</string>
+  <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Geen</string>
   <string name="router_download_exist">Dit bestand bestaat reeds</string>
   <string name="router_download_failed">Kon niet downloaden</string>
@@ -674,15 +731,26 @@ Deze pagina verlaten?"</string>
   <string name="scanner_uninstalled_title">Scanner is niet meer geïnstalleerd</string>
   <string name="sdcard_error">Controleer de SD kaart</string>
   <string name="search">Zoeken</string>
+  <string name="search_baidu">Baidu</string>
+  <string name="search_bing">Bing</string>
   <string name="search_button_text">Ga</string>
+  <string name="search_dianping">Cate</string>
+  <string name="search_easou">Easou</string>
+  <string name="search_google">Google</string>
   <string name="search_hint">Zoek of typ de URL</string>
   <string name="search_keyword_browser">Browser</string>
   <string name="search_label">Browser</string>
   <string name="search_path_browser">Instellingen/Geinstalleerde apps/Browser</string>
+  <string name="search_s139">139</string>
   <string name="search_settings_description">Bladwijzers en webgeschiedenis</string>
   <string name="search_shipin">Video</string>
+  <string name="search_sm">SM</string>
+  <string name="search_sogou">Sogou</string>
+  <string name="search_taobao">Taobao</string>
   <string name="search_title_browser">Browser</string>
   <string name="search_tupian">Afbeelding</string>
+  <string name="search_yahoo">Yahoo!</string>
+  <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Download in de App Store</string>
   <string name="secureaccess">Overschakelen naar veilige modus</string>
   <string name="secureaccess_cancel">Negeren</string>
@@ -704,6 +772,7 @@ Deze pagina verlaten?"</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
+  <string name="snapshot">Local</string>
   <string name="snapshot_failed">Kon pagina niet opslaan</string>
   <string name="snapshot_successed">Pagina opgeslagen</string>
   <string name="ssl_bad_clock_date_settings">Datum instellen</string>
@@ -745,6 +814,10 @@ Deze pagina verlaten?"</string>
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
+  <string name="tae_sdk_login_qr_icon_close"></string>
+  <string name="tae_sdk_login_qr_icon_taobao"></string>
+  <string name="tae_sdk_qr_login_icon_password"></string>
+  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -780,6 +853,7 @@ Deze pagina verlaten?"</string>
   <string name="v5_edit_mode_title_empty">0 geselecteerd</string>
   <string name="v5_select_all">Alles geselecteerd</string>
   <string name="version_check_button_checking">Controleren…</string>
+  <string name="version_check_button_default">Check for updates</string>
   <string name="version_check_button_download_failed">Hervat download</string>
   <string name="version_check_button_downloading">Downloaden…</string>
   <string name="version_check_button_install">Installeren</string>
@@ -852,8 +926,6 @@ Deze pagina verlaten?"</string>
   <string name="voice_title_please">Begin met praten…</string>
   <string name="voice_title_speech_again">Kan u niet verstaan</string>
   <string name="weather_location_confirm_message">Deze functie uitschakelen kan effect hebben op uw verbruik.</string>
-  <string name="webpage_bookmark_title">Bladwijzers</string>
-  <string name="webpage_history_title">Geschiedenis</string>
   <string name="webpage_title">Bladwijzers &amp; geschiedenis</string>
   <string name="webview_find_on_page">Op pagina zoeken</string>
   <string name="webviewchromium_private_browsing_warning">Deze functie wordt niet ondersteund in deze versie van Android.</string>

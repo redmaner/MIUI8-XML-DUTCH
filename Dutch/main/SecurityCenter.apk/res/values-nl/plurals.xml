@@ -44,22 +44,6 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
 
 Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening brengen."</item>
     </plurals>
-	<plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">%d apps geoptimaliseerd</item>
-        <item quantity="one">%d app geoptimaliseerd</item>
-    </plurals>
-    <plurals name="hints_traffic_saving_need_optimize">
-        <item quantity="other">%d apps kunnen geoptimaliseerd worden</item>
-        <item quantity="one">%d app kan geoptimaliseerd worden</item>
-    </plurals>
-    <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">%d apps gebruiken databespaarder</item>
-        <item quantity="one">%d app gebruikt databespaarder</item>
-    </plurals>
-    <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d apps gebruiken databespaarder niet</item>
-        <item quantity="one">%d app gebruikt databespaarder niet</item>
-    </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Zoek %d apps</item>
         <item quantity="one">Zoek %d app</item>
@@ -75,6 +59,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d apps gevonden</item>
         <item quantity="one">%d app gevonden</item>
+    </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d apps don't work properly and drain battery"</item>
+        <item quantity="one">"%d app doesn't work properly and drains battery"</item>
     </plurals>
   <plurals name="power_center_battery_day">
         <item quantity="other">"%d dagen en "</item>
@@ -108,17 +96,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d batterijproblemen gevonden, herstel ze</item>
         <item quantity="one">%d batterijprobleem gevonden, herstel ze</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d items kunnen worden geoptimaliseerd</item>
-        <item quantity="one">%d item kan worden geoptimaliseerd</item>
-    </plurals>
 	<plurals name="people">
         <item quantity="other">Gedownload door %1$d personen</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Gedownload door %1$d personen</item>
-    </plurals>
-    <plurals name="million">
         <item quantity="other">Gedownload door %1$d personen</item>
     </plurals>
     <plurals name="view_num">
@@ -129,13 +110,17 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="few">%1$d keer bekeken</item>
         <item quantity="many">%1$d keer bekeken</item>
     </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Found %d viruses and insecure apps</item>
+        <item quantity="one">Found %d virus app</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Found %d unofficial apps</item>
+        <item quantity="one">Found %d unofficial app</item>
+    </plurals>
 	<plurals name="sp_settings_exception_count">
         <item quantity="other">%d items</item>
         <item quantity="one">1 item</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s betaalrisico\'s</item>
-        <item quantity="one">%s betaalrisico</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s betaalapps zijn beveiligd</item>
@@ -148,10 +133,6 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s apps zijn niet beveiligd</item>
         <item quantity="one">%s app is niet beveiligd</item>
-    </plurals>
-    <plurals name="scan_result_description">
-        <item quantity="other">scanresultaat : %d betaalrisico\'s gevonden</item>
-        <item quantity="one">scanresultaat : %d betaalrisico gevonden</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items zijn veilig</item>
@@ -209,21 +190,13 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d trojans,</item>
         <item quantity="one">%d trojan,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d risico\'s</item>
-        <item quantity="one">%d risico</item>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Dangerous apps: %d</item>
+        <item quantity="one">Dangerous app: %d</item>
     </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ risico\'s gevonden, herstel nu</item>
-        <item quantity="one">%d risico gevonden, herstel nu</item>
-    </plurals>
-	<plurals name="virus_clean_num">
-        <item quantity="other">%1$d problemen opgelost. Alles ziet er goed uit</item>
-        <item quantity="one">%1$d probleem opgelost. Alles ziet er goed uit</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d apps bevatten privacyrisico\'s</item>
-        <item quantity="one">%d app bevat privacyrisico</item>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojans: %d</item>
+        <item quantity="one">Trojan: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Wacht %d seconden en probeer opnieuw. "</item>
@@ -254,37 +227,13 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d virusen verwijderd</item>
         <item quantity="one">%d virus verwijderd</item>
     </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
 	<plurals name="add_game_notification_title">
         <item quantity="other">%d games toegevoegd</item>
         <item quantity="one">%d game toegevoegd</item>
-    </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Updates voor %d apps zijn beschikbaar</item>
-        <item quantity="one">Updates voor %d app zijn beschikbaar</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">%d keer deze contacten geopend</item>
-        <item quantity="one">%d keer deze contacten geopend</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">%d gesprekken gemaakt</item>
-        <item quantity="one">%d gesprek gemaakt</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">%d verzonden SMS</item>
-        <item quantity="one">%d verzonden SMS</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">%d keer SMS gelezen</item>
-        <item quantity="one">%d keer SMS gelezen</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">%d keer oproepgeschiedenis gelezen</item>
-        <item quantity="one">%d keer oproepgeschiedenis gelezen</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">%d keer geopend</item>
-        <item quantity="one">%d keer geopend</item>
     </plurals>
 	<plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d toestemmingen toegestaan</item>
@@ -313,5 +262,13 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="app_usage_year">
         <item quantity="other">Niet gebruikt voor %d jaar</item>
         <item quantity="one">Niet gebruikt voor %d jaar</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Haven't added %d games"</item>
+        <item quantity="one">"Haven't added %d game"</item>
     </plurals>
 </resources>

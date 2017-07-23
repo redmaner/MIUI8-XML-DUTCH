@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="RF_DalvikCacheLeftovers">Dalvik-Cache</string>
   <string name="activity_title_ad">Advertenties</string>
   <string name="activity_title_apk">Pakketten</string>
   <string name="activity_title_brightness_image">Onder- en overbelicht</string>
@@ -33,15 +34,14 @@
   <string name="apk_status_installed_old">Oude versie</string>
   <string name="apk_status_uninstalled">Niet geïnstalleerd</string>
   <string name="apk_title_alipay_plugin">Alipay plugin</string>
-  <string name="app_install_tips_go_to">Openen</string>
-  <string name="app_install_tips_install_success">%1$s met succes geïnstalleerd</string>
+  <string name="app_description_content">Cleaner finds trash on your device and frees up storage space. Make sure you can do without these features before you uninstall the app.</string>
+  <string name="app_description_title">About Cleaner</string>
   <string name="app_name">JunkEngine</string>
   <string name="app_usage_never">Niet recent gebruikt</string>
   <string name="app_usage_recently">Recent gebruikt</string>
   <string name="apps_sort_type_item_size">Grootte</string>
   <string name="apps_sort_type_item_time">Frequent gebruikt</string>
   <string name="apps_sort_type_title">Sorteren op</string>
-  <string name="authorize_detail">%d geblokkeerde apps</string>
   <string name="auto_clean_switch_off">Uit</string>
   <string name="auto_clean_switch_on">Aan</string>
   <string name="auto_cleaner_open">Inschakelen</string>
@@ -109,7 +109,6 @@
   <string name="connecting">Verbinden…</string>
   <string name="deep_clean_completed_tips">Met succes opgeruimd</string>
   <string name="deep_clean_data_path_clean_title">Cache wissen</string>
-  <string name="deep_clean_normal_clean_progress_desc">%1$s bestanden opgeruimd</string>
   <string name="deep_clean_uninstall_completed_tips">Met succes verwijderd</string>
   <string name="deepclean_1_k_clean">Snel opruimen</string>
   <string name="deepclean_apk_content">APK\'s of onnodige apps verwijderen</string>
@@ -182,18 +181,19 @@
   <string name="empty_title_photos">Geen foto\'s gevonden</string>
   <string name="empty_title_residual">Geen restanten gevonden</string>
   <string name="empty_title_video">Geen video\'s om te verwijderen​</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">Initializing...</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Bestanden</string>
   <string name="file_not_found">Bestand niet gevonden</string>
   <string name="flow_rank_title">Datagebruik</string>
   <string name="function_app_lock_title">%d apps bevatten privacyrisico\'s</string>
   <string name="garbage_clean_detail">Details</string>
-  <string name="garbage_cleanup_detail">%1$d keer, %2$s opgeruimd</string>
   <string name="garbage_month">%s opgeruimd deze maand</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Doorgaan</string>
   <string name="goto_set">Instellen</string>
   <string name="grabage_rank_title">Vandaag opgeruimd</string>
-  <string name="harass_detail">%1$d SMS en %2$d gesprekken geblokkeerd</string>
   <string name="header_optimizer">Door gebruik te maken van deze functie gaat u akkoord met %s</string>
   <string name="hint_clean_select_items">Duplicaten verwijderen…</string>
   <string name="hints_ad_header_left">Verouderde bestanden</string>
@@ -212,7 +212,9 @@
   <string name="hints_garbage_cleanup_result_danger">Intern geheugen opruimen</string>
   <string name="hints_garbage_cleanup_result_risk">Intern geheugen opruimen</string>
   <string name="hints_garbage_cleanup_result_safe">Alles ziet er goed uit</string>
+  <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Leeg</string>
+  <string name="hints_header_left">%d</string>
   <string name="hints_installed_app_fewer">Zelden gebruikt</string>
   <string name="hints_installed_app_near">Recent gebruikt</string>
   <string name="hints_installed_app_never">Nooit gebruikt</string>
@@ -228,6 +230,7 @@
   <string name="hints_list_item_unlock">Opruimen</string>
   <string name="hints_loading_text">Laden…</string>
   <string name="hints_memory_header_left">Geheugen</string>
+  <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Privacy: %d</string>
   <string name="hints_quick_cleanning">Opruimen…</string>
   <string name="hints_quick_cleanuping">Optimaliseren…</string>
@@ -254,6 +257,7 @@
   <string name="installing">Bezig met installeren</string>
   <string name="item_title_process_mode">Kies een actie</string>
   <string name="just_now">Zojuist</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Geen</string>
   <string name="label_preserve_the_best_image">Bewaar de scherpste foto\'s</string>
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
@@ -272,6 +276,7 @@
   <string name="main_title_filesize">%1$s afval</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
   <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
   <string name="menu_clear">Wissen</string>
@@ -288,8 +293,6 @@
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Privacybeleid</string>
   <string name="nb_clear_set">Cache wissen, batterij bekijken en zwarte lijst-info op notificatiescherm</string>
-  <string name="net_assistant_detail">%1$s gebruikt, %2$s bespaard</string>
-  <string name="net_assistant_title">%s aan mobiele data verbruikt deze maand</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="news_change">Veranderen</string>
   <string name="no_network">Kon niet verbinden met netwerk, probeer later opnieuw</string>
@@ -306,6 +309,8 @@
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="output_videos">Export video\'s</string>
+  <string name="petabyteShort">PB</string>
+  <string name="phone_search">Google Search</string>
   <string name="positive_confirm">Ok</string>
   <string name="pref_category_title_auto_clean_settings">Herinneren om op te ruimen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Extra instellingen</string>
@@ -354,8 +359,10 @@
   <string name="recommend_news">Aanbevolen bronnen</string>
   <string name="recommend_the_following">Neem de volgende maatregelen om het meest uit uw apparaat te halen</string>
   <string name="recommended">Voorgesteld</string>
-  <string name="safety_check_detail">%1$d keer, %2$d punten verdient</string>
-  <string name="safety_rank">Vooruitlopend op %d%% MIUI gebruikers in termen van veiligheid</string>
+  <string name="remain_item_name_n7p"/>
+  <string name="remain_item_name_pamp"/>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; more files can be cleared. Free up more space.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; of WeChat cache. Free up more space.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">Toestaan</string>
   <string name="sc_allow_network_dialog_message">Deze app toelaten om verbinding te maken met internet om updates te ontvangen?</string>
   <string name="scanning">Scannen…</string>
@@ -368,6 +375,7 @@
   <string name="similar_image_empty">Geen duplicaten gevonden</string>
   <string name="similar_image_scaning">Controleren…</string>
   <string name="similar_image_title">Foto\'s</string>
+  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Gesponsord</string>
   <string name="start_downloading_app">Start download van: %1$s</string>
   <string name="start_install">Nu installeren</string>
@@ -430,11 +438,39 @@
   <string name="toast_uninstall_success">Verwijderen voltooid</string>
   <string name="total_clean">Totaal opgeruimd: %s</string>
   <string name="total_clean_text">Opruimen</string>
-  <string name="traffic_top">TOP 5 dataverbruikende apps</string>
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Virusscan</string>
   <string name="vungle_ad_name">Vungle advertentie</string>
-  <string name="wechat_add_to_cleanlist">Succesvol opgeruimd</string>
+  <string name="wechat_cache_files">WeChat cache</string>
+  <string name="wechat_chat_clean_done">Everything looks good</string>
+  <string name="wechat_chat_data_type_cache">WeChat cache</string>
+  <string name="wechat_chat_data_type_cache_desc">"You'll be able to restore these files after you connect to the internet."</string>
+  <string name="wechat_chat_data_type_chat">Chat history</string>
+  <string name="wechat_chat_data_type_chat_desc">"You won't be able to restore chat history."</string>
+  <string name="wechat_chat_data_type_normal">Trash</string>
+  <string name="wechat_chat_data_type_normal_clean_tips">"These are technical files. Deleting them won't affect your usage."</string>
+  <string name="wechat_chat_data_type_normal_desc">"Deleting them won't affect your usage."</string>
+  <string name="wechat_chat_data_type_other">Other</string>
+  <string name="wechat_chat_data_type_other_desc">Be careful, you might not be able to restore these files after you delete them.</string>
+  <string name="wechat_chat_files">Chat history</string>
+  <string name="wechat_clean">WeChat cleaner</string>
+  <string name="wechat_clean_downloads">Received files</string>
+  <string name="wechat_clean_downloads_desc">Files received on WeChat</string>
+  <string name="wechat_clean_exit_confirm">Exit?</string>
+  <string name="wechat_clean_exit_confirm_msg">Stop scanning and exit now?</string>
+  <string name="wechat_clean_stop_confirm">Stop scanning?</string>
+  <string name="wechat_clean_stop_confirm_msg">Stop scanning now?</string>
+  <string name="wechat_content_bad_pic_file">The file is corrupted</string>
+  <string name="wechat_content_empty">No files to export</string>
+  <string name="wechat_copy_to_gallery">Export to Gallery</string>
+  <string name="wechat_copy_video_failed_dialog_title">"Couldn't export"</string>
+  <string name="wechat_copying_video">Exporting…</string>
+  <string name="wechat_copying_video_dialog_checkbox">Delete files after exporting</string>
+  <string name="wechat_copying_video_dialog_msg">Files will be saved to this folder: /DCIM/WeChat</string>
+  <string name="wechat_copying_video_dialog_title">Export to Gallery</string>
+  <string name="wechat_copying_video_empty">No videos to export</string>
+  <string name="wechat_copying_video_success">Exported successfully</string>
+  <string name="wechat_normal_files">Trash</string>
   <string name="white_list_ad_header">Verouderde bestanden: %d</string>
   <string name="white_list_apk_header">Installatiepakketten: %d</string>
   <string name="white_list_cache_header">Gecachete bestanden: %d</string>

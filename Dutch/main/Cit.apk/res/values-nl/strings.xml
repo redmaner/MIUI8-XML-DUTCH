@@ -1,30 +1,100 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="FpTest">FpTest Run</string>
+  <string name="FpTest_result">FpTest result:</string>
+  <string name="SDCard">SD Card</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
+  <string name="SD_SDCard_available_szie">Available size</string>
+  <string name="SD_SDCard_mounted">Detect SDCard</string>
+  <string name="SD_SDCard_total_size">Total size</string>
+  <string name="SD_SDCard_unmounted">SDCard unavailable</string>
+  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="action_example">Example action</string>
+  <string name="action_farr_enroll">FAR FRR:enroll</string>
+  <string name="action_farr_verify">FAR FRR:verify</string>
+  <string name="action_init_base">FAR FRR:init base</string>
+  <string name="action_nothing">wait for test</string>
+  <string name="afdcalibration_test">AFD CALIBRATION TEST</string>
+  <string name="afdcalibrationrubberstamp_test">AFD CALIBRATION RUBBER STAMP TEST</string>
+  <string name="afdrubberstamp_test">AFD RUBBER STAMP TEST</string>
+  <string name="baterry_percent">"Amount Of Battery Charge: "</string>
+  <string name="baterry_temperature">"Battery Temperature: "</string>
+  <string name="begin_to_save_finger_data">Begin to save finger data</string>
+  <string name="button_cancel">Cancel</string>
+  <string name="button_ok">OK</string>
+  <string name="camera_capture">Capture</string>
+  <string name="camera_done">Done</string>
+  <string name="camera_zoom">Zoom</string>
+  <string name="camerainfo">Camera information</string>
+  <string name="cancel_test">TEST CANCELED</string>
+  <string name="capacitance_test">CAPACITANCE TEST</string>
+  <string name="checkerboard_test">CHECKERBOARD TEST</string>
   <string name="cit_OTG_plugin_check_summary">Als een OTG apparaat verbonden is, zou hieronder \"USB OTG apparaat gedetecteerd\" moeten staan.</string>
   <string name="cit_OTG_plugin_check_title">OTG (herkenning)</string>
   <string name="cit_OTG_plugout_check_summary">Als een OTG apparaat verwijderd is, zou hieronder \"USB OTG apparaat verwijderd\" moeten staan.</string>
   <string name="cit_OTG_plugout_check_title">OTG (verwijdering)</string>
   <string name="cit_OTG_waiting_in">Verbind nu uw USB OTG apparaat</string>
   <string name="cit_OTG_waiting_out">Verwijder nu uw USB OTG apparaat</string>
+  <string name="cit_abnormal_reboot_summary">Please wait...Reading stability data on this device.</string>
+  <string name="cit_abnormal_reboot_title">Device Stability Data</string>
   <string name="cit_ac_charger_in">Opladen via AC</string>
   <string name="cit_ac_charger_out">AC oplader verwijderd</string>
+  <string name="cit_accdata_sensor_check_summary">Values for X, Y, Z, coordinates should appear below</string>
+  <string name="cit_accdata_sensor_check_title">Accelerometer</string>
   <string name="cit_accelermeter_sensor_check_summary">Beweeg het apparaat snel in een richting. X, Y en Z coördinaten worden hieronder weergegeven. (Wanneer de telefoon in beweging is: X staat voor links / rechts, Y staat voor voor / achter, Z voor boven en beneden).
 Voordat u het apparaat kalibreert, plaatst u deze op een vlakke ondergrond.</string>
   <string name="cit_accelermeter_sensor_check_title">Versnellingsmeter</string>
+  <string name="cit_apk_signature_failed">apk signature FAILED</string>
+  <string name="cit_apk_signature_passed">apk signature PASSED</string>
+  <string name="cit_aud_current_state">Current State:</string>
+  <string name="cit_aud_spk_l">spk_L</string>
+  <string name="cit_aud_spk_r">spk_R</string>
+  <string name="cit_aud_spk_vendor">Speaker Vendor:</string>
   <string name="cit_aud_spkcal">Kalibreren</string>
+  <string name="cit_aud_test_result">Test Result:</string>
+  <string name="cit_audio_cali_TEMP">Temp:</string>
   <string name="cit_audio_cali_done">Kalibratie voltooid</string>
   <string name="cit_audio_cali_failed">Kalibratie mislukt, probeer opnieuw!</string>
   <string name="cit_audio_cali_file_existed">Muziekbestand bestaat niet, kan niet kalibreren!</string>
   <string name="cit_audio_cali_playing">Druk op knop om te kalibreren</string>
+  <string name="cit_audio_cali_q">Q:</string>
   <string name="cit_audio_cali_summary">Kalibreer speaker PA</string>
+  <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Speaker PA kalibratietest</string>
   <string name="cit_audio_calibrating">Bezig met kalibreren…</string>
+  <string name="cit_audio_check_summary">The Audio Info.</string>
+  <string name="cit_audio_check_title">Audio Info</string>
+  <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
+  <string name="cit_audio_hdset_plug">"Audio headset plug times: "</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Achterste microfoon speaker feedbacktest</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Hoofd microfoon speaker feedbacktest</string>
   <string name="cit_audio_lb_phonecall_title">Belsimulatie test</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">Achterste microfoon naar speaker feedbacktest. 
 
 Draai de telefoon, spreek in de achterste microfoon, je zou je stem in de speaker moeten horen</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test. 
+
+Speak to front microphone , you should hear voice in speaker"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">Hoofdmicrofoon naar koptelefoon feedbacktest.
 
 Houd de telefoon vast zoals je zou bellen, spreek in de hoofdmicrofoon, je zou je stem in de koptelefoon moeten horen</string>
@@ -35,6 +105,9 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon, je zou je ste
 
 Draai het apparaat, spreek in de bovenste microfoon, je zou je stem door de speaker moeten horen</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Bovenste microfoon speaker feedbacktest</string>
+  <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
+"</string>
+  <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
   <string name="cit_audio_loopback_check_one_title">Hoofdmicrofoon koptelefoon feedbacktest</string>
   <string name="cit_audio_loopback_check_summary_first">Hoofdmicrofoon koptelefoon feedbacktest
 
@@ -49,12 +122,29 @@ Draai het apparaat zodat de hoofdtelefooningang naar beneden is gericht. Spreek 
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Omgevingsgeluidreductie test
 
 Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw stem horen met minder ruis op de achtergrond afgespeeld door de koptelefoon"</string>
+  <string name="cit_audio_rcv_type">"Audio receiver vendor: "</string>
+  <string name="cit_audio_rcv_usetime">"Audio receiver use time: "</string>
+  <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
+"</string>
+  <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
+  <string name="cit_audio_spk_type">"Audio speaker vendor: "</string>
+  <string name="cit_audio_spk_usetime">"Audio speaker use time: "</string>
+  <string name="cit_aux_camera_action">Zoom</string>
+  <string name="cit_aux_camera_check_summary">"Test instructions:
+
+1.Tap the Zoom button below to enter Camera interface
+2.Tap the zoom button on camera preview, preview frame will zoom in
+3.Tap the Done icon."</string>
+  <string name="cit_back_pointer_location_title">Back touch sensor</string>
+  <string name="cit_battery_check_summary">Device battery statistics</string>
+  <string name="cit_battery_check_title">Battery info</string>
   <string name="cit_battery_temp_fail">Temperatuur van de batterij is niet normaal (temp=%d)</string>
   <string name="cit_battery_temp_pass">Temperatuur van de batterij is normaal</string>
   <string name="cit_batterylight_blue">Blauw</string>
   <string name="cit_batterylight_green">Groen</string>
   <string name="cit_batterylight_red">Rood</string>
   <string name="cit_batterylight_rgb">Batterijlicht</string>
+  <string name="cit_batterylight_white">White</string>
   <string name="cit_blue_tooth_address_check_summary">Het Bluetooth-adres van dit apparaat moet hieronder worden weergegeven.</string>
   <string name="cit_blue_tooth_address_check_title">Verkrijg Bluetooth-adres</string>
   <string name="cit_blue_tooth_scan_check_summary">Hieronder vindt u de informatie van de Bluetooth-apparaten die in de buurt werden gedetecteerd.</string>
@@ -67,6 +157,8 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_bluetooth_scanning_bluetooth_done">Klaar. Geen Bluetooth apparaten gevonden in de buurt.</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Er is een fout opgetreden tijdens het zoeken naar Bluetooth apparaten.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth apparaat openen…</string>
+  <string name="cit_build_finger_failed">build fingerprint FAILED</string>
+  <string name="cit_build_finger_passed">build fingerprint PASSED</string>
   <string name="cit_button_light_off">Licht van knoppen uit</string>
   <string name="cit_button_light_on">Licht van knoppen aan</string>
   <string name="cit_calibration_fail">Kalibratie mislukt</string>
@@ -83,12 +175,18 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_charger_plugout_check_title">Oplader (loskoppelen)</string>
   <string name="cit_charger_waiting_in">Verbind oplader</string>
   <string name="cit_charger_waiting_out">Ontkoppel de oplader nu</string>
+  <string name="cit_dial_emergencycall">Dial 112</string>
   <string name="cit_display_check_summary">Wees er zeker van dat het vereiste bmp bestand op de SD kaart staat. Wees er zeker van dat de kleuren consistent op het hele scherm getoond worden. Weer er zeker van dat er geen onregelmatigheden zoals lichte of donkere plekken zijn.</string>
   <string name="cit_display_check_title">Scherm</string>
   <string name="cit_display_continue">Tik op het scherm om te beginnen met de test</string>
+  <string name="cit_emergencycall_check_summary">Please click Dial 112 button to dial 112 to check if 112 can be placed.</string>
+  <string name="cit_emergencycall_check_title">Emergency Call</string>
   <string name="cit_exit_test_summary">Wanneer u afsluit, worden alle bijbehorende tekstgegevens gewist.</string>
   <string name="cit_exit_test_title">Test verlaten</string>
   <string name="cit_fail">Gefaald</string>
+  <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
+  <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
+  <string name="cit_flash_life_check_title">Flash life</string>
   <string name="cit_fm_audio_path">Kies audiopad</string>
   <string name="cit_fm_audio_path_headset">Hoofdtelefoon</string>
   <string name="cit_fm_audio_path_speaker">Speaker</string>
@@ -100,6 +198,12 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_fm_open_2">Start FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Bluetooth openen…</string>
   <string name="cit_fm_start_service">Start audio</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_selftest">SELF-TEST</string>
+  <string name="cit_fpc_sensor_check_summary">FPC sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
+  <string name="cit_fpc_sensor_check_title">FPC fingerprint sensor</string>
+  <string name="cit_fptest_summary">Press FpTest button to do fingerprint test</string>
+  <string name="cit_fptest_title">Fingerprint FpTest</string>
   <string name="cit_front_camera_check_summary">"Testinstructies: 
 
 1.Tik hieronder op de cameraknop om naar de voorste camera te gaan
@@ -107,6 +211,9 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
 3.Tik op het Check icoon. Het systeem zal de foto automatisch opslaan. 
 4.De foto die u hebt genomen wordt hieronder weergegeven. Tik op verwijderen om de test te voltooien."</string>
   <string name="cit_front_camera_check_title">Voorste camera</string>
+  <string name="cit_get_signature_failed">get signature FAILED</string>
+  <string name="cit_goodix_sensor_check_summary">Goodix sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
+  <string name="cit_goodix_sensor_check_title">Goodix fingerprint sensor</string>
   <string name="cit_gps_check_summary">De overeenkomende GPS informatie wordt hieronder getoond.</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"GPS is niet gestart
@@ -117,8 +224,17 @@ Raak het scherm aan om GPS te starten…"</string>
   <string name="cit_gps_satellite_count">Aantal satellieten: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
+  <string name="cit_gyrodata_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
+  <string name="cit_gyrodata_sensor_check_title">Gyroscope</string>
   <string name="cit_gyroscope_sensor_check_summary">Waardes voor X，Y，Z, coördinaten worden hieronder getoond</string>
   <string name="cit_gyroscope_sensor_check_title">Gyroscoop</string>
+  <string name="cit_hall_down_arrow">↓</string>
+  <string name="cit_hall_far">far</string>
+  <string name="cit_hall_near">near</string>
+  <string name="cit_hall_test_summary">When a magnet cloase to the green area,the text should turn to near,otherwise the text should be far.</string>
+  <string name="cit_hall_test_title">Hall</string>
+  <string name="cit_hardware_info_summary">Please wait... Rendering hardware information of this device</string>
+  <string name="cit_hardware_info_title">Hardware Info</string>
   <string name="cit_headset_button_check_summary">Wanneer een hoofdtelefoon is aangesloten, drukt u op de knoppen op de hoofdtelefoon afstandsbediening (vaak gelegen op het snoer). De bijbehorende tekst op het scherm wordt groen.</string>
   <string name="cit_headset_button_check_title">Hoofdtelefoon knoppen</string>
   <string name="cit_headset_button_click">Druk op de knoppen op de hoofdtelefoon</string>
@@ -128,6 +244,7 @@ Raak het scherm aan om GPS te starten…"</string>
   <string name="cit_headset_button_pass">Overslaan</string>
   <string name="cit_headset_button_play_pause">Afspelen/Pauze</string>
   <string name="cit_headset_button_previous">Vorige</string>
+  <string name="cit_headset_button_reverse">Please reversely insert usb headset</string>
   <string name="cit_headset_button_rewind">Terugspoelen</string>
   <string name="cit_headset_button_stop">Stop</string>
   <string name="cit_headset_button_unknown">Onbekend</string>
@@ -168,6 +285,8 @@ Raak het scherm aan om GPS te starten…"</string>
 5.De foto die je hebt genomen moet hieronder worden weergegeven. Tik op verwijderen om de test te voltooien."</string>
   <string name="cit_main_camera_check_title">Achterste camera</string>
   <string name="cit_name">Hardware testen</string>
+  <string name="cit_nfc_check_summary">Please put the card on the top of the back of the phone</string>
+  <string name="cit_nfc_check_title">NFC test</string>
   <string name="cit_not_available">Deze test is niet beschikbaar op deze versie van MIUI</string>
   <string name="cit_notificationlight">Meldingslicht</string>
   <string name="cit_notificationlight_off">Meldingslicht uit</string>
@@ -187,9 +306,17 @@ Raak het scherm aan om GPS te starten…"</string>
   <string name="cit_proximity_sensor_check_summary">"Bedek de nabijheidssensor (gelegen aan de bovenkant van de telefoon in de buurt van de ontvanger) met uw hand en haal je hand weg. De waarde moet stijgen van 0,0 wanneer uw hand verder weg is van het apparaat.
 Bij het kalibreren, zorg ervoor dat er niets tussen de sensor en je hand zit (bijvoorbeeld protective screen cover of handschoenen)."</string>
   <string name="cit_proximity_sensor_check_title">Nabijheidssensor</string>
+  <string name="cit_proximity_us_sensitivity">Sensitivity:</string>
+  <string name="cit_proximity_us_summary">Ultrasound Proximity Sensor Calibration</string>
+  <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
+  <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
+  <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
+  <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
   <string name="cit_reset_check_summary">Deze test zal het toestel opnieuw opstarten. Alle vorige testgegevens gaan verloren.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_test">Test</string>
+  <string name="cit_sar_sensor_check_summary">Values for sar sensor channels should appear below, cover the button of the phone, if data changed, the function is good</string>
+  <string name="cit_sar_sensor_check_title">SAR Sensor</string>
   <string name="cit_sd_fail">Er is een fout opgetreden.</string>
   <string name="cit_sd_mount">Koppel de SD kaart</string>
   <string name="cit_sd_mount_sucess">SD kaart gekoppeld</string>
@@ -203,6 +330,7 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_sd_plugout_check_title">SD kaart (verwijdering)</string>
   <string name="cit_sd_unmount">Koppel SD kaart los</string>
   <string name="cit_sd_unmount_sucess">SD kaart losgekoppeld</string>
+  <string name="cit_signature_check_label">signature check:</string>
   <string name="cit_sim_check_summary">Maak u er zeker van dat de SIM kaart info en status juist worden weergegeven</string>
   <string name="cit_sim_check_title">SIM-kaart</string>
   <string name="cit_sim_error_unknown">Onbekend</string>
@@ -221,19 +349,41 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_sim_state_unkown">Onbekend</string>
   <string name="cit_start_calibration">Kalibreer</string>
   <string name="cit_stop_calibration">Stop kalibrering</string>
+  <string name="cit_tfcard_support_summary">Check if TFCard is supported on this device</string>
+  <string name="cit_tfcard_support_title">Support TFCard</string>
+  <string name="cit_thermal_history_summary">Please wait...Reading thermal data on this device.</string>
+  <string name="cit_thermal_history_title">Thermal History</string>
   <string name="cit_tool">Extra tools</string>
   <string name="cit_tool_bluetooth">Bluetooth testtool</string>
   <string name="cit_tool_bluetooth_dut">Start de Bluetooth testmodus</string>
-  <string name="cit_tool_bluetooth_le_tx_ch19">Start de Bluetooth LE 2.440GHz Freq testmodus</string>
-  <string name="cit_tool_bluetooth_le_tx_h">Start de Bluetooth LE 2.480GHz Freq testmodus</string>
-  <string name="cit_tool_bluetooth_le_tx_l">Start de Bluetooth LE 2.402GHz Freq testmodus</string>
+  <string name="cit_tool_bluetooth_enhanced">Enter Bluetooth Enhanced Test</string>
+  <string name="cit_tool_bluetooth_le_enhanced_run">RUN</string>
+  <string name="cit_tool_bluetooth_le_enhanced_run_trigger">Trigger</string>
+  <string name="cit_tool_bluetooth_le_rx_4x">RX: BLE 4.x</string>
+  <string name="cit_tool_bluetooth_le_rx_4x_channel">channel:</string>
+  <string name="cit_tool_bluetooth_le_rx_50">RX: BLE 5.0</string>
+  <string name="cit_tool_bluetooth_le_rx_50_channel">channel:</string>
+  <string name="cit_tool_bluetooth_le_rx_50_phy">PHY:</string>
+  <string name="cit_tool_bluetooth_le_rx_num">rx packets num:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_channel">channel:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_payload">payload:</string>
+  <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
+  <string name="cit_tool_bluetooth_le_tx_50_channel">channel:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_payload">payload:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
   <string name="cit_tool_bluetooth_not_on">Bluetooth is niet ingeschakeld</string>
   <string name="cit_tool_bluetooth_off">Bluetooth uitgeschakeld</string>
   <string name="cit_tool_bluetooth_on">Bluetooth inschakelen</string>
   <string name="cit_tool_bluetooth_tx_h">Start de Bluetooth BR/EDR 2.480GHz Freq testmodus</string>
   <string name="cit_tool_bluetooth_tx_l">Start de Bluetooth BR/EDR 2.402GHz Freq testmodus</string>
+  <string name="cit_tool_cal_accelerometer">Acc Calibration Tool</string>
   <string name="cit_tool_cal_camera">Camera kalibratietool</string>
+  <string name="cit_tool_cal_gyroscope">gyro Calibration Tool</string>
+  <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Inschakelen 3A log Switch</string>
+  <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
+  <string name="cit_tool_exit_modem_mbn">Restore to auto MBN</string>
   <string name="cit_tool_log">Logs ophalen</string>
   <string name="cit_tool_log_bugreport">Bugreport</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -248,14 +398,33 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_tool_log_toast_generate_bugreport">Aanmaken bugreport… (dit duurt ongeveer 1 minuut)</string>
   <string name="cit_tool_modem">MODEM testtools</string>
   <string name="cit_tool_modem_bugreport">Forceer MODEM Coredump</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Disable CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Disable CU VoLTE, restart to take effect.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Enable CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Enable CU VoLTE, restart to take effect.</string>
   <string name="cit_tool_modem_exit_ftm">Sluit FTM modus</string>
   <string name="cit_tool_modem_mbn">Modem configuratie wijzigen</string>
   <string name="cit_tool_modem_offline_log">Open/sluit offline Log</string>
   <string name="cit_tool_nfc">NFC testtools</string>
+  <string name="cit_tool_nfc_ce_disable">Disable Ce</string>
+  <string name="cit_tool_nfc_ce_enable">Enable Ce</string>
+  <string name="cit_tool_nfc_ce_status">Ce Status:</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Start</string>
   <string name="cit_tool_nfc_st_stop">Stop</string>
+  <string name="cit_tool_prx_drx">PRx+DRx</string>
+  <string name="cit_tool_prx_drx_select_mode">Select Mode:</string>
+  <string name="cit_tool_prx_drx_select_rat">Select RAT:</string>
+  <string name="cit_tool_prx_drx_start_test">Start Test</string>
+  <string name="cit_tool_prx_drx_stop_test">Stop Test</string>
+  <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_radio_infor">Terminal Radio information</string>
+  <string name="cit_tool_radio_infor_voiceNetworkTech">Terminal Radio information</string>
+  <string name="cit_tool_rf_ant">RF/Antenna tools</string>
+  <string name="cit_tool_switch_autosms">Enable/Disable AutoSMSReg</string>
+  <string name="cit_tool_tpdump">touch debug mode</string>
   <string name="cit_tool_wifi">Wi-Fi testtool</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
@@ -270,11 +439,14 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_tool_wifi_rx_exit">Rx:afsluiten</string>
   <string name="cit_tool_wifi_rx_run">Start</string>
   <string name="cit_tool_wifi_rx_stop">Stop</string>
+  <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">Kanaal:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
   <string name="cit_tool_wifi_rxn_test_bw">Bandbreedte:</string>
   <string name="cit_tool_wifi_rxn_test_channel">Kanaal:</string>
+  <string name="cit_tool_wifi_sniffer">WLAN Sniffer tool</string>
+  <string name="cit_tool_wifi_sniffer_settings">Sniffer Settings</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">Kanaal:</string>
@@ -288,6 +460,7 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanaal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Selecteer antenne</string>
+  <string name="cit_torch_modify">Modify flash light</string>
   <string name="cit_torch_off">Schakel zaklamp uit</string>
   <string name="cit_torch_on">Schakel zaklamp in</string>
   <string name="cit_touch_calib_fail">Aanrakingskalibratie mislukt, probeer het nogmaals</string>
@@ -295,6 +468,11 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_touch_calib_pass">Aanrakingskalibratie overslaan, normaal gebruiken</string>
   <string name="cit_touch_calib_summary">De volgende stap zal de aanrakingskalibratie doen, druk op bevestigen en nadien het scherm niet meer aanraken, wachten op de kalibratie gelukt melding</string>
   <string name="cit_touch_calib_title">Aanraak kalibratie</string>
+  <string name="cit_touch_panel_test_title">Touch sensor</string>
+  <string name="cit_tpdump_check_summary">please click button to enable or disable touch dump function</string>
+  <string name="cit_tpdump_close">disable dump</string>
+  <string name="cit_tpdump_open">enable dump</string>
+  <string name="cit_tpdump_reset">reset dump</string>
   <string name="cit_usb_OTG_in">USB OTG apparaat gedetecteerd</string>
   <string name="cit_usb_OTG_out">USB OTG apparaat verwijderd</string>
   <string name="cit_usb_charger_in">Opladen via USB</string>
@@ -324,13 +502,93 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_wifi_ap_scanning">Scannen…</string>
   <string name="cit_wifi_fail_to_scan">Kon niet scannen naar netwerken</string>
   <string name="cit_wifi_state_refresh">Vernieuw</string>
-  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Voorste microfoon speaker feedbacktest</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Voorste microfoon naar speaker feedbacktest.
-
-Draai het apparaat, spreek in de microfoon ter de hoogte van de receiver, je zou je stem moeten horen in de speaker"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Bovenste microfoon naar speaker feedbacktest. 
-
-Draai het apparaat, spreek in de bovenste microfoon , je zou je stem moeten horen in de speaker"</string>
-  <string name="cit_x5_audio_lb_topmic_to_speaker_title">Bovenste microfoon speaker feedbacktest</string>
   <string name="cit_yellow_torch_on">Geel flitslicht inschakelen</string>
+  <string name="error">Error</string>
+  <string name="error_app_internal">Internal application error</string>
+  <string name="error_app_unsupported">Unsupported format</string>
+  <string name="error_failed_to_get_data">failed to get data</string>
+  <string name="error_file_not_found">can not find data</string>
+  <string name="error_getting_sensor_info">Error getting sensor info</string>
+  <string name="error_initializing_sensor">Error initializing sensor: %1$s</string>
+  <string name="error_sdcard_access">Unable to access system space!</string>
+  <string name="error_unknown_error">Unknown Error</string>
+  <string name="failed_to_test">FAILED TO TEST</string>
+  <string name="far">FAR(False Accept Rate):</string>
+  <string name="far_count">FAC(False Accept Count):</string>
+  <string name="far_total_count">FATC(False Accept Total Count):</string>
+  <string name="fpc_app_name">Sensor Test Tool</string>
+  <string name="fpc_ok">Ok</string>
+  <string name="fpc_pn_calibration">Capture and store PN image</string>
+  <string name="frr">FRR(False Reject Rate):</string>
+  <string name="frr_total_count">FRTC(False Reject Total Count):</string>
+  <string name="get_base_finger">Extract Image:get base finger</string>
+  <string name="get_finger_data">Extract Image:sampling finger data</string>
+  <string name="get_sample_finger">Extract Image:get sample finger</string>
+  <string name="get_sensor_info">GET SENSOR INFO</string>
+  <string name="get_template_finger">Extract Image:get template finger</string>
+  <string name="hint">it could take a long time, please wait patient.</string>
+  <string name="image_quality_test">IMAGEQUALITY TEST</string>
+  <string name="info">Info</string>
+  <string name="init">initialzing</string>
+  <string name="keyboard">KEY</string>
+  <string name="last_time_test_result">LAST TIME TEST RESULT</string>
+  <string name="lcminfo">LCM information</string>
+  <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
+  <string name="mic1_spk_loop">Mic speak Loop</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">MIC＆ SPK</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="next">Next</string>
+  <string name="no_data">--</string>
+  <string name="noise">noise:</string>
+  <string name="none">N/A</string>
+  <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
+  <string name="resetpixel_test">RESET PIXEL TEST</string>
+  <string name="run">Run</string>
+  <string name="sample_data">sample data</string>
+  <string name="sample_hint">extract %1$s samples for one finger</string>
+  <string name="sample_progress_hint">wait for extracting sample datas</string>
+  <string name="search_menu_title">Search</string>
+  <string name="select">Select</string>
+  <string name="select_all">Select All</string>
+  <string name="select_automatic">Select Automatic</string>
+  <string name="select_manual">Select Manual</string>
+  <string name="select_none">Select None</string>
+  <string name="selftest">SELF TEST</string>
+  <string name="sensor_information">Sensor Information</string>
+  <string name="show_log">Show Log</string>
+  <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
+  <string name="start">Start</string>
+  <string name="start_extract_sample">start to extract samples</string>
+  <string name="start_extract_template">start to extract templates</string>
+  <string name="start_far">Start FAR</string>
+  <string name="start_frr">Start FRR</string>
+  <string name="status">Status</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_failed">One or more tests failed</string>
+  <string name="status_passed">Passed</string>
+  <string name="status_running">Running</string>
+  <string name="status_text">Status:</string>
+  <string name="success_extract_sample">finished to extract sample datas</string>
+  <string name="success_extract_template">finished to extract template datas</string>
+  <string name="success_get_finger_data">Extract Image:success to get finger data</string>
+  <string name="success_to_test">SUCCESS TO TEST</string>
+  <string name="template_data">template data</string>
+  <string name="template_hint">extract %1$s templates for one finger</string>
+  <string name="template_progress_hint">wait for extracting template datas</string>
+  <string name="test_cases">Test Cases</string>
+  <string name="testagain">You can Press key HOME to test again</string>
+  <string name="title_about">about</string>
+  <string name="title_algo_performance">algo performance</string>
+  <string name="title_bad_point">bad point</string>
+  <string name="title_extract_data">Extract Data</string>
+  <string name="title_far">FAR:</string>
+  <string name="title_farr">FAR and FRR Test</string>
+  <string name="title_frr">FRR:</string>
+  <string name="title_open_short_pixel">open short pixel</string>
+  <string name="tp_color">TP Color:</string>
+  <string name="tp_version">TP Version:</string>
+  <string name="wait_test">waiting for test</string>
+  <string name="waiting">Waiting for 4s.</string>
 </resources>

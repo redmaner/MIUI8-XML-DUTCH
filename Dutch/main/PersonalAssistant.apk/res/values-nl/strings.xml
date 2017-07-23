@@ -51,15 +51,21 @@
   <string name="data_error">Er is een fout opgetreden, wacht een minuut of twee en probeer opnieuw</string>
   <string name="data_error_show">De bestelling is voltooid, kan de details niet bekijken</string>
   <string name="drive">Rijden</string>
+  <string name="duokan_not_installed">"This app isn't installed on your phone. Can't use this card now."</string>
+  <string name="duokan_open">Add Duokan card</string>
+  <string name="duokan_reading">Duokan</string>
   <string name="duokan_setting_brief">Doorgaan met lezen waar je gebleven was.</string>
   <string name="entrance">Snelkoppeling kaarten</string>
   <string name="exercise_setting_brief">Bekijk statistieken van uw activiteit.</string>
   <string name="express">Express levering</string>
+  <string name="express_jd">JD</string>
   <string name="express_mi_shop">Mi App Store</string>
   <string name="express_open">Geef levering volgkaarten weer</string>
   <string name="express_other_app">Volg de bestellingen van winkel apps</string>
   <string name="express_setting_brief">Verzamel de kaarten van winkel apps om uw bestellingen te volgen.</string>
   <string name="express_support_app">Ondersteunde apps</string>
+  <string name="express_taobao">Taobao</string>
+  <string name="express_tmall">Tmall</string>
   <string name="favorite">Favorieten</string>
   <string name="favorite_main">Geschiedenis</string>
   <string name="flow_open">Geef mobiele data kaart weer</string>
@@ -70,6 +76,7 @@
   <string name="greeting_open">Dagelijkse informatie inschakelen</string>
   <string name="greeting_setting_brief">Krijg informatie over het weer en herinneringen van afspraken, wekkers en verjaardagen elke ochtend en avond</string>
   <string name="greeting_setting_brief_notice">Je kan de stad wijzigen in de weerapp</string>
+  <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
   <string name="greeting_weather_desc_from_to">%1$s tot %2$s</string>
   <string name="greeting_weather_prefix_moring">Vandaag</string>
   <string name="greeting_weather_prefix_night">Morgen</string>
@@ -82,7 +89,10 @@
   <string name="hold_down_adjustment_order">Houd het icoon aan de rechste kant ingedrukt om items te verslepen</string>
   <string name="home">Thuis</string>
   <string name="home_and_company">Thuis &amp; werk</string>
+  <string name="hour12_format_en">hh:mm</string>
+  <string name="hour24_format_en">HH:mm</string>
   <string name="immediate_recommendation">Aanbevelingen</string>
+  <string name="keyword_recommend">推荐您</string>
   <string name="launch_app">App aanbevelingen</string>
   <string name="launch_change_order">Bestelling wijzigen</string>
   <string name="launch_enable">Geef snelle toeganskaarten weer</string>
@@ -103,9 +113,11 @@
   <string name="locating_fail">Kon locatie niet verkrijgen</string>
   <string name="locations">Regelmatige plaatsen</string>
   <string name="locations_preferences">Regelmatige plaatsen en voorkeuren</string>
+  <string name="metre">m</string>
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sport_go_install">Download</string>
   <string name="mi_sport_not_installed">Deze app is niet geïnstalleerd op uw telefoon. Kan deze kaart nu niet gebruiken.</string>
+  <string name="mi_wallet">Mi Wallet</string>
   <string name="music">Muziek &amp; radio</string>
   <string name="music_open">Geef muziek &amp; radio kaart weer</string>
   <string name="music_setting_brief">Sluit de koptelefoon aan om te blijven luisteren naar muziek of radio van de plaats waar je gebleven was.</string>
@@ -116,6 +128,7 @@
   <string name="navigation_network_location_not_enabled_title">Locatiediensten inschakelen</string>
   <string name="navigation_search_automatically_positioned_city">Ontvang informatie over stad met behulp van de huidige locatie</string>
   <string name="navigation_search_current_city">Huidige stad:</string>
+  <string name="navigation_search_default_hint">Search items here</string>
   <string name="navigation_search_no_city_list">Geen steden hier</string>
   <string name="navigation_search_positioning">Locatie info verkrijgen…</string>
   <string name="navigation_search_positioning_failed">Kon locatie niet verkrijgen, selecteer de stad manueel</string>
@@ -126,7 +139,6 @@
   <string name="no_more_result">Geen items meer</string>
   <string name="no_settings">Niet ingesteld</string>
   <string name="not_install_c1">Deze app is niet geïnstalleerd op uw telefoon. Downloaden en installeren?</string>
-  <string name="not_install_c2">Downloaden en installeren?</string>
   <string name="not_install_c3">Downloaden</string>
   <string name="not_install_c4">Nee bedankt</string>
   <string name="not_installed">Niet geïnstalleerd</string>
@@ -136,6 +148,7 @@
   <string name="notification_express_content">Volg bestellingen met slimme assistent</string>
   <string name="notification_express_title">Kaarten inschakelen voor winkel apps</string>
   <string name="opened">AAn</string>
+  <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_parent">Alipay</string>
   <string name="place_label">Regelmatige plaatsen</string>
   <string name="preferences">Voorkeuren</string>
@@ -143,6 +156,8 @@
   <string name="qq_new">Nieuwe status</string>
   <string name="qq_qzone">Qzone</string>
   <string name="quickstart_label">Functies</string>
+  <string name="record_name">Start recording</string>
+  <string name="record_parent">Recorder</string>
   <string name="remain_flow">Mobiele data</string>
   <string name="req_no_data">Kon info niet verkrijgen</string>
   <string name="req_no_sdata">Kon geen resultaten vinden</string>
@@ -186,6 +201,9 @@
   <string name="weibo_name">Nieuw bericht</string>
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">Hoe ga je normaal gesproken naar uw bestemming?</string>
+  <string name="widget_fav">favorite</string>
+  <string name="widget_fav_open">Show favorite card</string>
+  <string name="widget_fav_setting_brief">View your favorite data.</string>
   <string name="wx_aa">Betaal voor jezelf</string>
   <string name="wx_collectioncode">Betaling ontvangen</string>
   <string name="wx_name">Mijn kaart</string>

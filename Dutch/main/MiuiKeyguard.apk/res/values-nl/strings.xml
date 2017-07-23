@@ -7,7 +7,6 @@
   <string name="default_lockscreen_unlock_hint_text">Veeg omhoog om te ontgrendelen</string>
   <string name="delete">Verwijderen</string>
   <string name="emergency_call_string">Noodoproep</string>
-  <string name="find_device_turn_off_flight_mode">Schakel de vliegmodus uit</string>
   <string name="fingerprint_add_text">De vingerafdruk interface is bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
   <string name="fingerprint_add_title">Vingerafdruk toevoegen</string>
   <string name="fingerprint_again_identified_msg">Je vingerafdruk is nu actief. Je kan het gebruiken om het apparaat te ontgrendelen.</string>
@@ -24,6 +23,7 @@
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Foute PUK code, %d pogingen resterend</string>
   <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Can't switch between spaces during a call"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
   <string name="input_pattern_hint_text">Teken uw ontgrendelpatroon</string>
@@ -44,6 +44,10 @@
   <string name="keyguard_charging_info_could_use_min_time_text">Ongeveer %d minuten resterend</string>
   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Ongeveer %d uur en %d minuten resterend</string>
   <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_hour_time_format">%d uur</string>
   <string name="keyguard_charging_info_drained_min_time_format">%d minuten</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Leeggelopen</string>
@@ -62,6 +66,7 @@
   <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
   <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lock_wallpaper_enter">Enter</string>
@@ -76,15 +81,9 @@
 
 Probeer het opnieuw over %d seconden.</string>
   <string name="lockscreen_failed_attempts_now_wiping">U heeft de telefoon %d keer foutief proberen te ontgrendelen. De telefoon wordt nu teruggezet naar de fabrieksinstellingen.</string>
-  <string name="lockscreen_glogin_checking_password">Controleren…</string>
-  <string name="lockscreen_glogin_invalid_input">Ongeldige gebruikersnaam of wachtwoord.</string>
-  <string name="lockscreen_glogin_password_hint">Wachtwoord</string>
-  <string name="lockscreen_glogin_submit_button">Aanmelden</string>
-  <string name="login_website_in_case_forget_password">Om uw wachtwoord opnieuw in te stellen, ga naar www.mi.com/micloud</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ontgrendeld door Bluetooth apparaat</string>
   <string name="open_camera_hint_text">Veeg naar links om %s te openen</string>
   <string name="open_remote_center_hint_text">Veeg naar rechts om %s te openen</string>
-  <string name="open_wifi_settings">Open netwerkverbinding</string>
   <string name="phone_locked_foget_password">Wachtwoord vergeten?</string>
   <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
 
@@ -96,6 +95,7 @@ Sign in to i.mi.com, go to “Find device”, select the device and press Wipe d
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
   <string name="phone_locked_timeout_minutes_string">Probeer opnieuw over %s minuten</string>
   <string name="phone_locked_timeout_seconds_string">Probeer opnieuw over %s seconden</string>
+  <string name="symbol_colon">:</string>
   <string name="unlock_string">Ontgrendelen</string>
   <string name="unlocking_sim_card">SIM kaart ontgrendelen</string>
   <string name="unlockscreen_low_battery">Sluit oplader nu aan</string>

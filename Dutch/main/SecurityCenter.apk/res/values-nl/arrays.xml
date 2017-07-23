@@ -28,30 +28,12 @@
         <item>Wi-Fi vandaag</item>
         <item>Wi-Fi deze maand</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Mobiele data gisteren</item>
-        <item>Mobiele data vandaag</item>
-        <item>Mobiele data deze maand</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 sec</item>
-        <item>4 sec</item>
-        <item>5 sec</item>
-        <item>6 sec</item>
-        <item>7 sec</item>
-        <item>8 sec</item>
-        <item>9 sec</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"Mobiel verbruik "</item>
         <item>"Wi-Fi verbruik "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobiel verbruik "</item>
-        <item>"Wi-Fi verbruik "</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Mobiel dataverbruik "</item>
         <item>"Wi-Fi verbruik "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
@@ -68,24 +50,22 @@
         <item>Vergrendelen na het afsluiten van de app</item>
         <item>Vergrendelen 1 minuut na het afsluiten van de app</item>
     </string-array>
-	<string-array name="long_add_menu">
-        <item>Toevoegen aan uitzonderingen</item>
-    </string-array>
 	    <string-array name="sort_type">
         <item>Sorteren op naam</item>
         <item>Sorteren op grootte</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Sort by status</item>
+        <item>Sort by app name</item>
+        <item>Sort by usage frequency</item>
+        <item>Sort by used storage</item>
+        <item>Sort by data usage</item>
+        <item>Sort by battery usage</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Datagebruik</item>
         <item>Belminuten</item>
     </string-array>
-     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Na 1 minuut</item>
-        <item>Na 5 minuten</item>
-        <item>Na 10 minuten</item>
-        <item>Na 30 minuten</item>
-        <item>Nooit</item>
-     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>
