@@ -66,43 +66,6 @@
         <item>Datagebruik</item>
         <item>Belminuten</item>
     </string-array>
-    <string-array name="clean_cached_process_white_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.virtualsim</item>
-        <item>com.android.keyguard</item>
-        <item>com.android.keychain</item>
-        <item>com.miui.systemAdSolution</item>
-        <item>com.miui.securitycore</item>
-        <item>com.miui.personalassistant</item>
-        <item>com.android.updater</item>
-        <item>com.miui.analytics</item>
-        <item>com.miui.cleanmaster</item>
-    </string-array>
-    <integer-array name="om_occupy_memory_percent">
-        <item>80</item>
-        <item>85</item>
-        <item>90</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="om_app_background_restrict">
-        <item>0</item>
-        <item>-1</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="pc_time_choice_items">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="pc_disconnect_data_time_choice_items">
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>

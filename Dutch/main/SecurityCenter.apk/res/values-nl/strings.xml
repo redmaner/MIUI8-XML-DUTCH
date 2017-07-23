@@ -1402,37 +1402,6 @@ This activity shortens battery life."</string>
   <string name="pref_warning_values">Waarschuwing bij</string>
   <string name="pref_whitelist_setting">Uitzonderingen beheren</string>
   <string name="preference_category_key_antivirus_setting">key_category_antivirus_setting</string>
-  <string name="preference_key_about_version">key_about_version</string>
-  <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
-  <string name="preference_key_app_permission_control">key_app_permission_control</string>
-  <string name="preference_key_app_permission_install_debug">key_app_permission_install_debug</string>
-  <string name="preference_key_category_check_item">key_category_check_item</string>
-  <string name="preference_key_category_monitor">key_category_monitor</string>
-  <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
-  <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
-  <string name="preference_key_check_item_root">key_check_item_root</string>
-  <string name="preference_key_check_item_update">key_check_item_update</string>
-  <string name="preference_key_check_item_wifi">key_check_item_wifi</string>
-  <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-  <string name="preference_key_create_shortcut">key_create_shortcut</string>
-  <string name="preference_key_cta_settings">key_cta_settings</string>
-  <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
-  <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
-  <string name="preference_key_module_antipam">module_antipam</string>
-  <string name="preference_key_module_antivirus">key_module_antivirus</string>
-  <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
-  <string name="preference_key_module_network_assistant">key_network_assistant</string>
-  <string name="preference_key_module_power_center">module_power_center</string>
-  <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
-  <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
-  <string name="preference_key_optimize_manage">key_module_optimize_manage</string>
-  <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
-  <string name="preference_key_settings_input_method">key_settings_input_method</string>
-  <string name="preference_key_settings_monitor">key_settings_monitor</string>
-  <string name="preference_key_sign_exception">key_sign_exception</string>
-  <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-  <string name="preference_key_virus_white_list">key_virus_white_list</string>
   <string name="preferred_app_entries_browser">Browser</string>
   <string name="preferred_app_entries_camera">Camera</string>
   <string name="preferred_app_entries_dial">Bellen</string>
@@ -1879,19 +1848,6 @@ Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaa
   <string name="tc_sms_report_upload_success">Dataverbruiks rapport SMS ingediend. We zijn zo mee bezig!</string>
   <string name="tc_sms_report_upload_when_net">Dank je voor de feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
-  <string name="text_alarm_after">"今年的红包活动已全部结束
-期待与您来年重聚"</string>
-  <string name="text_alarm_before">"今年的红包活动即将开始
-财神已就位，敬请期待"</string>
-  <string name="text_alarm_close">"开启红包闹钟
-及时提醒各种红包雨
-不再错过任何红包"</string>
-  <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
-  <string name="text_button">Begrepen</string>
-  <string name="text_cycle_day">%s</string>
-  <string name="text_day"/>
-  <string name="text_error">相关软件版本过低或未安装</string>
-  <string name="text_lucky_alarm_before">红包活动即将开始</string>
   <string name="third_application">Geïnstalleerde apps</string>
   <string name="three_percent_total_pkg">%s (3%% maandelijkse data)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -2022,12 +1978,6 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="try_game">Try</string>
   <string name="try_recommended_function">Bescherm uw toestel door gebruik te maken van de nieuwe veiligheidsfuncties</string>
   <string name="two_address_choose_hint">%1$s en %2$s</string>
-  <string name="txv_dnd_end_time_title">结束时间</string>
-  <string name="txv_dnd_start_time">0:00</string>
-  <string name="txv_dnd_start_time_title">起始时间</string>
-  <string name="txv_dnd_type_demo">仅屏蔽声音</string>
-  <string name="txv_dnd_type_title">勿扰方式</string>
-  <string name="txv_lucky_money_group_text">仅提醒群红包</string>
   <string name="unable_connect_internet">Geen internetverbinding</string>
   <string name="uninstall_app_dialog_msg">Verwijderen zal alle appdata verwijderen.</string>
   <string name="uninstall_app_dialog_title">Nu verwijderen?</string>
@@ -2064,10 +2014,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="virus_wait_network_dialog_message">Updates zijn te groot. Met Wi-Fi verbinden om te downloaden</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
-  <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
-  <string name="weChat_not_found">您的应用版本过低或者未安装</string>
   <string name="website">Website</string>
-  <string name="wechat_lucky_warning">微信红包</string>
   <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
   <string name="wifi_exception_summary">Beschikbare Wi-Fi netwerken testen</string>
   <string name="wifi_exception_title">Wi-Fi netwerk testen</string>

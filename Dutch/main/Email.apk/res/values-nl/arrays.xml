@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="account_providers">
-        <item>content://com.android.email.provider/uiaccts</item>
-    </string-array>
 	<string-array name="all_month_str">
         <item>Jan</item>
         <item>Feb</item>
@@ -108,10 +105,5 @@
         <item>Deze e-mail</item>
         <item>Gebruiksvoorwaarden</item>
         <item>E-mail gebruiksvoorwaarden</item>
-    </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
     </string-array>
 </resources>
