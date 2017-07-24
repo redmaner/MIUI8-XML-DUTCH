@@ -29,9 +29,9 @@
         <item>Tijdelijk slechte verbinding vermijden</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Nooit controleren</item>
+        <item>Controleer alleen op DRM inhoud</item>
+        <item>Altijd contrleren</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
@@ -39,7 +39,7 @@
         <item>Always use HDCP checking</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>Uit</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -47,13 +47,13 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Uit</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>Uit</item>
         <item>64K per log buffer</item>
         <item>256K per log buffer</item>
         <item>1M per log buffer</item>
@@ -61,54 +61,54 @@
         <item>16M per log buffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatie schaal .5x</item>
+        <item>Animatie schaal 1x</item>
+        <item>Animatie schaal 1.5x</item>
+        <item>Animatie schaal 2x</item>
+        <item>Animatie schaal 5x</item>
+        <item>Animatie schaal 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatie schaal .5x</item>
+        <item>Animatie schaal 1x</item>
+        <item>Animatie schaal 1.5x</item>
+        <item>Animatie schaal 2x</item>
+        <item>Animatie schaal 5x</item>
+        <item>Animatie schaal 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatie schaal .5x</item>
+        <item>Animatie schaal 1x</item>
+        <item>Animatie schaal 1.5x</item>
+        <item>Animatie schaal 2x</item>
+        <item>Animatie schaal 5x</item>
+        <item>Animatie schaal 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (veilig)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (veilig)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (veilig)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
+        <item>4K (veilig)</item>
         <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
+        <item>4K (upscaled, veilig)</item>
         <item>720p, 1080p (dual screen)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Geen</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
