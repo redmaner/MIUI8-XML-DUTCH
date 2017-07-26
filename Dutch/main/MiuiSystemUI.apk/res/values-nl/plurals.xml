@@ -4,9 +4,25 @@
         <item quantity="other">%d recente apps</item>
         <item quantity="one">1 recente app</item>
 	</plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Recent geopend, beschikbare apps: %d.</item>
+        <item quantity="one">Recent geopend, beschikbare app: 1.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Recent geopend, beschikbare apps: %d. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</item>
+        <item quantity="one">Recent geopend, beschikbare app: 1. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d schakelaars boven deze balk zijn actief</item>
+        <item quantity="one">1 schakelaar boven deze balk is actief</item>
+    </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Meldingen van %d apps verbergen?"</item>
         <item quantity="one">"Meldingen van deze app verbergen?"</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Meldingen voor %1$s verbergen &amp; %2$d apps.</item>
+        <item quantity="one">Meldingen voor %1$s verbergen &amp; 1 app.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Helder</item>

@@ -11,7 +11,6 @@
   <string name="add_number_to_sender">Nummer toeoegen aan %s</string>
   <string name="add_picture">Foto toevoegen</string>
   <string name="add_private_contact">Voeg privécontact toe</string>
-  <string name="add_redpackage">Rood pakket</string>
   <string name="add_slide">Dia toevoegen</string>
   <string name="add_slide_before">Intro dia toevoegen</string>
   <string name="add_slide_hint">Tik om een nieuwe dia te maken</string>
@@ -68,6 +67,7 @@
   <string name="cloud_state_disabled">Synchronisatie met Mi Cloud is uitgeschakeld</string>
   <string name="cloud_state_sync_finished">Gesynchroniseerd met Mi Cloud</string>
   <string name="cloud_state_syncing">Synchroniseren met Mi Cloud…</string>
+  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="compressing">Afbeelding is te groot. Comprimeren…</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_add_blacklist_dialog_dspt">Nummer toevoegen aan zwarte lijst?</string>
@@ -120,12 +120,15 @@
   <string name="delete_message">Verwijderen</string>
   <string name="delete_phrase">Verwijder reactie</string>
   <string name="delete_unlocked">Vergrendelde berichten verwijderen</string>
+  <string name="delete_verification_code_sms_message">Delete all one-time passwords?</string>
+  <string name="delete_verification_code_sms_title">Clean one-time passwords</string>
   <string name="delete_wild_sims">Nummers verwijderen</string>
   <string name="delete_wild_sims_confirm">Alle berichten van de geselecteerde nummers in de telefoon worden verwijderd. U kunt deze herstellen op i.mi.com.</string>
   <string name="delete_wild_sims_title">Geselecteerde nummers verwijderen</string>
   <string name="delivery_report_activity">Afleveringsrapport</string>
   <string name="delivery_toast_body">Bericht ontvangen door %s</string>
   <string name="disable_notifications_dialog_message">Dubbele SMS meldingen van standaardapp voor berichten stoppen?</string>
+  <string name="disabled">Off</string>
   <string name="discard">Afwijzen</string>
   <string name="discard_message">Afwijzen</string>
   <string name="discard_message_reason">Uw bericht wordt verwijderd, omdat het geen geldige ontvangers heeft.</string>
@@ -140,10 +143,12 @@
   <string name="duration_sec">Duur (%s sec)</string>
   <string name="duration_selector_title">Tijdsduur voor dia</string>
   <string name="duration_zero">Lengte moet langer zijn dan nul seconden</string>
+  <string name="earlier">Earlier</string>
   <string name="edit">Bewerken</string>
   <string name="edit_phrase">Snelle reacties bewerken</string>
   <string name="edit_slide_activity">Dia bewerken</string>
   <string name="edit_slideshow_activity">Diavoorstelling bewerken</string>
+  <string name="enabled">On</string>
   <string name="english_subject_limit">Maximum 40 tekens</string>
   <string name="enter_edit_mode">Bericht bewerken</string>
   <string name="error_code_label">"Foutcode: "</string>
@@ -158,6 +163,7 @@
   <string name="expire_on">Verloopt op: %s</string>
   <string name="exporting_progress_private_message">Berichten exporteren uit privéberichten…</string>
   <string name="fail_to_add_attachment">Kon bijlage niet toevoegen</string>
+  <string name="fail_to_view_attachment">attachment is unavailable</string>
   <string name="failed_to_add_media">U kunt deze %1$s niet toevoegen aan uw bericht.</string>
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
   <string name="fake_cell_alert_hint">Het lijkt erop dat dit bericht is verzonden vanaf een telefoonnummer dat verschilt met het nummer dat wordt getoond. Wees voorzichtig met SMS die financiele verzoeken bevatten.</string>
@@ -165,6 +171,7 @@
   <string name="fake_cell_detection_entry">Valse basisstation detectie</string>
   <string name="fake_cell_safe_hint">Dit bericht is veilig</string>
   <string name="fake_cell_timeout_hint">Kon veiligheid niet controleren</string>
+  <string name="favorite_at_time">Starred at: %1s</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
   <string name="festival_sms_loading">Laden…</string>
   <string name="fetion_prefix">[Openen]</string>
@@ -172,6 +179,7 @@
   <string name="file_size">Grootte:</string>
   <string name="file_title">Naam:</string>
   <string name="file_width_height">Grootte:</string>
+  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">Nieuw bericht</string>
   <string name="forward_from">Verzonden van:</string>
   <string name="forward_prefix">"Doorsturen: "</string>
@@ -184,15 +192,14 @@
   <string name="from_label">"Van: "</string>
   <string name="from_pkg_name">Van app:</string>
   <string name="group_message">Groepsbericht</string>
-  <string name="group_message_failed_title">"Verzenden mislukt naar %d contacten"</string>
   <string name="group_resend_message">Opnieuw verzenden (%d)</string>
+  <string name="group_verification_codes_summary">Automatically group one-time passwords together</string>
+  <string name="group_verification_codes_title">OTP messages group</string>
   <string name="guild_add_attachments">Tik hier om smileys of andere bijlagen toe te voegen</string>
   <string name="guild_add_recipients">Tik hier om ontvangers te selecteren uit het adresboek</string>
   <string name="guild_msim_switcher">Tik om van SIM kaart te wisselen</string>
   <string name="has_invalid_recipient">Ongeldige ontvanger(s: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Verborgen adres verzender</string>
-  <string name="hms_add_image_progress_message">Verwerken…</string>
-  <string name="hms_first_use_tips">Om berichten te onvangen, moet je verbonden zijn met een Wi-Fi netwerk</string>
   <string name="hold_to_talk">Ingedrukt houden om te spreken</string>
   <string name="hybrid_check_network">Netwerkinstellingen</string>
   <string name="hybrid_data_error">Er is een fout opgetreden</string>
@@ -237,7 +244,6 @@
   <string name="menu_send_as_common">Verzenden als SMS</string>
   <string name="menu_unlock">Ontgrendelen</string>
   <string name="menu_view_contact">Contact bekijken</string>
-  <string name="menu_yellowpage">Bekijken %s</string>
   <string name="message_class_label">"Berichtklasse: "</string>
   <string name="message_contact">Contact:</string>
   <string name="message_details_title">Berichtdetails</string>
@@ -248,6 +254,7 @@
   <string name="message_number">Telefoonnummer:</string>
   <string name="message_pending">Verzenden</string>
   <string name="message_queued">Kan uw bericht momenteel niet verzenden. Het wordt verzonden als de service(weer) beschikbaar is</string>
+  <string name="message_queued_second_space">"Can't send your message right now. Please open data network."</string>
   <string name="message_readed">Lezen</string>
   <string name="message_received">Ontvangen</string>
   <string name="message_rejected">Afgewezen</string>
@@ -260,15 +267,12 @@
   <string name="message_too_big_for_video">Dit bericht is te groot om er een video aan te koppelen.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Ik</string>
-  <string name="mipub_messaging_entry_title">Mi Bericht</string>
   <string name="mms">MMS</string>
   <string name="move_down">Naar beneden</string>
   <string name="move_up">Naar boven</string>
   <string name="msg_type_hint_mms">Multimediabericht (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Message</string>
-  <string name="msg_type_hint_mx_b2c">Netwerkmelding</string>
-  <string name="msg_type_hint_mx_b2c_omit">Netwerkmelding</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Tekstbericht</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -307,9 +311,6 @@
   <string name="mx_auto_resend_mms_summary">MMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi (regelmatig dataverbruik kan kosten meebrengen).</string>
   <string name="mx_auto_resend_sms">Vezenden als SMS</string>
   <string name="mx_auto_resend_sms_summary">SMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi (regelmatig dataverbruik kan kosten meebrengen).</string>
-  <string name="mx_b2c_message_desc">Netwerkmeldingen</string>
-  <string name="mx_b2c_message_resend_not_online">Kan bericht niet opnieuw verzenden. Mi Message is offline.</string>
-  <string name="mx_b2c_message_server">Server</string>
   <string name="mx_btn_enable">Activeren</string>
   <string name="mx_btn_enable_now">Uitschakelen</string>
   <string name="mx_count_dspt">U heeft %1$d SMS en %2$d MMS gratis verstuurd</string>
@@ -362,6 +363,7 @@
   <string name="open_url_with_web">Deze URL openen in browser?</string>
   <string name="over_max_mms_size">MMS is te groot.</string>
   <string name="overwrite_edited_content">"Aangepaste inhoud wordt overschreven, wilt u doorgaan?"</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">Term wissen?.</string>
   <string name="phrase_empty">Geen zinnen</string>
   <string name="phrase_from">Van %1s</string>
@@ -385,6 +387,8 @@
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
   <string name="pref_show_list_avatar_summary">Profieloto\'s en contactgegevens weergeven in lijstweergave</string>
+  <string name="pref_show_photo_word_summary">Automatically assign a picture to contacts without one</string>
+  <string name="pref_show_sms_template_entry_summary">Detect one-time passwords in SMS</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
   <string name="pref_smart_messages_settings">Slimme berichten</string>
@@ -402,13 +406,9 @@
   <string name="pref_summary_off_system_mms_priority">Gebruik apps van derden om uw MMS te verzonden of ontvangen</string>
   <string name="pref_summary_on_system_mms_priority">"Gebruik MIUI berichtenapp standaard voor het ontvangen van berichten en MMS</string>
   <string name="pref_summary_send_delivery_reports">Afleverrapport versturen naar de afzender wanneer u een MMS bericht ontvangt</string>
-  <string name="pref_summary_show_recent_contacts">Lijst met recente contacten weergeven tijdens het opstellen van een nieuw bericht</string>
   <string name="pref_summary_wake_up_screen">Scherm ontwaken bij inkomende berichten</string>
   <string name="pref_switch_sdk_setting">Smart SMS serviceprovider wisselen</string>
   <string name="pref_system_title">Systeem</string>
-  <string name="pref_time_auto_group_disabled_summary">Is niet ondersteunt in huidige lettergrootte</string>
-  <string name="pref_time_auto_group_summary">Berichten die binnen een minuut van elkaar worden ontvangen samen groeperen</string>
-  <string name="pref_time_auto_group_title">Groeperen op tijd</string>
   <string name="pref_title_about_smart_sms">Over slimme berichten partner</string>
   <string name="pref_title_allow_si_sl_push">WAP pushberichten toestaan (SI/SL)</string>
   <string name="pref_title_card_format">Deel kaart indeling</string>
@@ -425,7 +425,6 @@
   <string name="pref_title_ringtone_repeat">Meldingsgeluiden</string>
   <string name="pref_title_ringtone_repeat_summary">Speel een meldingsgeluid af wanneer een bericht wordt ontvangen terwijl het scherm is uitgeschakeld</string>
   <string name="pref_title_send_delivery_reports">Verstuur afleverberichten</string>
-  <string name="pref_title_show_recent_contacts">Recente contacten tonen</string>
   <string name="pref_title_sms_delete">Tekstbericht limiet</string>
   <string name="pref_title_sms_validity_period">SMS vervaltijd</string>
   <string name="pref_title_storage_status">Berichtopslag status</string>
@@ -457,11 +456,12 @@
   <string name="prvate_contact">Privécontacten</string>
   <string name="quick_reply">Beantwoorden</string>
   <string name="rate_limit_surpassed">Bevestigen</string>
+  <string name="received_at_time">Received at: %1s</string>
   <string name="received_label">"Ontvangen: "</string>
+  <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Ontvanger: "</string>
   <string name="recipients_over_size">Teveel onvangers.</string>
   <string name="recording_failed">Kan niet opnemen</string>
-  <string name="red_package_btn">Openen</string>
   <string name="refill_now">Nu opwaarderen</string>
   <string name="refreshing">Vernieuwen…</string>
   <string name="release_cancel">Loslaten om te annuleren</string>
@@ -481,7 +481,6 @@
   <string name="restore_blocked_message">Herstellen</string>
   <string name="restore_to_phone_memory_failed">Herstellen naar telefoongeheugen mislukt</string>
   <string name="restored_to_phone_memory">Hersteld</string>
-  <string name="retrive_hms_tips">Ontvangen…</string>
   <string name="save">Opslaan</string>
   <string name="save_ringtone">Opslaan als beltoon</string>
   <string name="save_to_sim">Opslaan op SIM kaart</string>
@@ -520,7 +519,6 @@
   <string name="select_sim">Selecteer SIM kaart</string>
   <string name="select_top_text">Tekst bovenaan</string>
   <string name="send">Verzenden</string>
-  <string name="send_hms_editor_hints">Mi Message</string>
   <string name="send_message_dlg_check_hint">Niet meer weergeven</string>
   <string name="send_message_dlg_mgs">CMCC mededeling: We moeten het apparaat naar apparaat beheerplatform registreren om de gratis post service(Post service is een platform door CMCC dat de terminal apparaten kunnen beheren.(Het geeft u de service om op afstand instellingen en app upgraden.). Een gratis bericht van de informatie over het apparaat worden gestuurd voor registratie. Het bericht wordt slechts een keer verzonden en heeft u geen persoonlijke gegevens nodig(Niet verzenden van Hong Kong, Macau, Taiwan en internationale roaming). Selecteer "OK" om het te registreren en gebruik maken van de service. Selecteer "Annuleren"  en er zal geen service worden verstrekt van CMCC.</string>
   <string name="send_message_dlg_title">Apparaatbeheer</string>
@@ -531,8 +529,8 @@
   <string name="send_signature_confirm_dialog_title">Bevestiging van verzending</string>
   <string name="send_sms">Bericht verzenden</string>
   <string name="send_to">Aan:</string>
-  <string name="send_to_count">%1$s berichten verzonden</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">Sent at: %1s</string>
   <string name="sent_label">"Verzonden: "</string>
   <string name="service_message_not_found">Bericht verlopen of niet beschikbaar</string>
   <string name="service_network_problem">Verzenden mislukt wegens een netwerkprobleem"</string>
@@ -570,14 +568,11 @@
   <string name="sms_report_success">Rapport verzonden</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[afbeelding]</string>
-  <string name="snippet_red_package">[Rood pakket]</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankmeldingsberichten</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
-  <string name="sp_mark_as_read">Alle berichten markeren als gelezen?</string>
   <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
-  <string name="sp_mark_as_read_progress">Bezig…</string>
-  <string name="sp_mark_as_read_title">Alle meldingsberichten markeren als gelezen?</string>
   <string name="status_failed">Mislukt</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">In behandeling</string>
@@ -605,26 +600,22 @@
   <string name="switch_to_menu">Menumodus</string>
   <string name="text_in_popup_saved_to_clipboard">Selectie uit popup venster bewaard op klembord</string>
   <string name="text_message">Tekstbericht</string>
-  <string name="timed_message_expired_title">%d bericht(en) niet verzonden</string>
   <string name="timed_message_expired_title_2">Wilt u deze nu verzenden?</string>
-  <string name="timed_message_in_total">(%d in totaal)</string>
   <string name="timed_message_to">Aan</string>
   <string name="title_allow_network_access">Info automatisch updaten</string>
   <string name="title_collapse_sp_messages">Meldingengroep</string>
   <string name="title_hide_verification_code">OTP automatisch verbergen op vergrendelscherm</string>
-  <string name="title_recv_red_package">Rood pakket verkrijgen</string>
-  <string name="title_red_package">Rijk worden en veel geluk</string>
-  <string name="title_send_red_package">Rood pakket controleren</string>
   <string name="title_show_blocked_messages">Geblokkeerde SMS weergeven</string>
   <string name="title_show_list_avatar">Profielfoto\'s weergeven</string>
+  <string name="title_show_photo_word">Assign contact photos</string>
   <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
   <string name="title_show_sms_template_in">SMS controleren op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
   <string name="title_use_gsm_alphabet">GSM alfabet gebruiken</string>
   <string name="to_address_label">"Aan: "</string>
-  <string name="to_count">%d ontvangers</string>
   <string name="to_label">"Aan "</string>
   <string name="to_send_wrapper">Wordt verzonden op %s</string>
+  <string name="today">Today</string>
   <string name="too_many_attachments">Kan %1$s bijlagen niet overschrijden. Alleen de eerste %2$s zullen toegevoegd worden.</string>
   <string name="too_many_recipients">"Bericht bevat te veel ontvangers (%1$s). Het limiet is %2$s ontvangers."</string>
   <string name="too_many_unsent_mms">Bericht verzenden mislukt. Er zijn teveel onverzonden multimediaberichten."</string>
@@ -647,7 +638,6 @@
   <string name="unsupported_media_format">Niet ondersteund %1$s formaat.</string>
   <string name="url_fraud_dangerous_alert">De website die u probeert te bezoeken is een fraudelink, kan schadelijk zijn voor uw apparaat en eigendom, wilt u doorgaan? 
 %s"</string>
-  <string name="url_fraud_insurance">Fraudeverzekering</string>
   <string name="url_fraud_risky_alert">De website die u probeert te bezoeken zou een fraudelink kunnen zijn, wilt u doorgaan? 
 %s"</string>
   <string name="url_fraud_title">Website kan nep zijn</string>
@@ -659,10 +649,10 @@
   <string name="user_agreement3">" en "</string>
   <string name="user_agreement4">Privacybeleid</string>
   <string name="user_agreement5">Door op OK te tikken, gaat u akkoord met de Algemene Voorwaarden en het Privacybeleid.</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Verification codes</string>
   <string name="view">Weergeven</string>
   <string name="view_bookmark">Origineel bericht weergeven</string>
-  <string name="view_hms_attachment_fail">Kan afbeelding niet downloaden</string>
-  <string name="view_hms_details">Details</string>
   <string name="view_message_details">Details weergeven</string>
   <string name="voip_enable">Mi Message en stem</string>
   <string name="voip_enable_popup_msg">Bellen naar andere MIUI apparaten zonder kosten van uw provider. VoIP wordt ondersteund door Weihui. Weihui Privacybeleid weergeven.</string>
@@ -671,7 +661,7 @@
   <string name="warning_show">Verzenden in %ds</string>
   <string name="wild_msg_processing">Bezig…</string>
   <string name="wild_msg_title">Telefoonnummers kiezen om te sync.</string>
-  <string name="xiaomi_service_number">Servicenummer</string>
   <string name="yellowpage_recommend_msg">Bekijk de MIUI bericht functies</string>
   <string name="yes">OK</string>
+  <string name="yesterday">Yesterday</string>
 </resources>

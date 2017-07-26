@@ -9,6 +9,8 @@
   <string name="auth_notif_message">Typ de sessiesleutel voor %1$s</string>
   <string name="auth_notif_ticker">OBEX verificatieverzoek</string>
   <string name="auth_notif_title">Sessiesleutel</string>
+  <string name="bluetooth_connected">Bluetooth audio is verbonden</string>
+  <string name="bluetooth_disconnected">Bluetooth audio is niet verbonden</string>
   <string name="bluetooth_in_airplane_mode">In vliegmodus</string>
   <string name="bluetooth_map_settings_app_icon">Applicatie icoon</string>
   <string name="bluetooth_map_settings_cancel">Annuleren</string>
@@ -39,6 +41,7 @@
   <string name="bt_toast_5">"%1$s bestanden verzenden naar '%2$s'"</string>
   <string name="bt_toast_6">"Verzenden van bestand naar '%1$s' is beëindigd"</string>
   <string name="btopp_live_folder">Ontvangen via Bluetooth</string>
+  <string name="defaultname">Carkit</string>
   <string name="deleteAll_record">Alle records verwijderen</string>
   <string name="delete_record">Record verwijderen</string>
   <string name="download_cancel">Stoppen</string>
@@ -63,6 +66,7 @@
   <string name="inbound_history_title">Inkomende overdrachten</string>
   <string name="inbound_noti_title">Bluetooth delen: ontvangen bestanden</string>
   <string name="incoming_file_confirm_Notification_caption">Wilt u dit bestand ontvangen?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s is klaar om %2$s te verzenden</string>
   <string name="incoming_file_confirm_Notification_title">Delen via Bluetooth: inkomend bestand</string>
   <string name="incoming_file_confirm_cancel">Weigeren</string>
   <string name="incoming_file_confirm_content">Binnenkomed bestand aanvaarden?</string>
@@ -102,9 +106,11 @@
   <string name="permdesc_bluetoothAvrcpDataManager">Staat de app toe om toegang te krijgen tot BluetoothAvrcpData manager en het te gebruiken om weer te geven op de UI.</string>
   <string name="permdesc_bluetoothShareManager">Hiermee krijgt de app toegang tot de beheerfunctie voor delen via Bluetooth om deze functie te gebruiken voor het overdragen van bestanden.</string>
   <string name="permdesc_bluetoothWhitelist">Hiermee kan de app tijdelijk een Bluetooth apparaat op de witte lijst plaatsen, waardoor dat apparaat bestanden kan verzenden naar dit apparaat zonder bevestiging van de gebruiker.</string>
+  <string name="permdesc_handoverStatus">Hiermee kunt u informatie over de overdracht van overdrachtsstatus ontvangen van Bluetooth.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Toegang tot avrcp metadata.</string>
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
+  <string name="permlab_handoverStatus">Ontvang BT overdracht uitzendingen.</string>
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">TCP server starten</string>

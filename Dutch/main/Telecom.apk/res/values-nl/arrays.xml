@@ -2,36 +2,36 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden…</item>
-        <item>Verifiëren…</item>
-        <item>IP adres verkrijgen…</item>
-        <item>Verbonden</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbinding vermijden</item>
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating…</item>
+        <item>Obtaining IP address…</item>
+        <item>Connected</item>
+        <item>Suspended</item>
+        <item>Disconnecting…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden met %1$s…</item>
-        <item>Verifiëren met %1$s…</item>
-        <item>IP adres verkrijgen van %1$s…</item>
-        <item>Verbonden met %1$s</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken van %1$s…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbinding vermijden</item>
+        <item>Scanning…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Nooit controleren</item>
-        <item>Controleer alleen op DRM inhoud</item>
-        <item>Altijd contrleren</item>
+        <item>Never check</item>
+        <item>Check for DRM content only</item>
+        <item>Always check</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
@@ -39,7 +39,7 @@
         <item>Always use HDCP checking</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Uit</item>
+        <item>Off</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -47,13 +47,13 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Uit</item>
+        <item>Off</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Uit</item>
+        <item>Off</item>
         <item>64K per log buffer</item>
         <item>256K per log buffer</item>
         <item>1M per log buffer</item>
@@ -61,54 +61,54 @@
         <item>16M per log buffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatie schaal .5x</item>
-        <item>Animatie schaal 1x</item>
-        <item>Animatie schaal 1.5x</item>
-        <item>Animatie schaal 2x</item>
-        <item>Animatie schaal 5x</item>
-        <item>Animatie schaal 10x</item>
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatie schaal .5x</item>
-        <item>Animatie schaal 1x</item>
-        <item>Animatie schaal 1.5x</item>
-        <item>Animatie schaal 2x</item>
-        <item>Animatie schaal 5x</item>
-        <item>Animatie schaal 10x</item>
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatie schaal .5x</item>
-        <item>Animatie schaal 1x</item>
-        <item>Animatie schaal 1.5x</item>
-        <item>Animatie schaal 2x</item>
-        <item>Animatie schaal 5x</item>
-        <item>Animatie schaal 10x</item>
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Geen</item>
+        <item>None</item>
         <item>480p</item>
-        <item>480p (veilig)</item>
+        <item>480p (secure)</item>
         <item>720p</item>
-        <item>720p (veilig)</item>
+        <item>720p (secure)</item>
         <item>1080p</item>
-        <item>1080p (veilig)</item>
+        <item>1080p (secure)</item>
         <item>4K</item>
-        <item>4K (veilig)</item>
+        <item>4K (secure)</item>
         <item>4K (upscaled)</item>
-        <item>4K (upscaled, veilig)</item>
+        <item>4K (upscaled, secure)</item>
         <item>720p, 1080p (dual screen)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Geen</item>
+        <item>None</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Geen</item>
+        <item>Off</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
@@ -138,11 +138,6 @@
         <item>Audio Source</item>
         <item>MIDI</item>
     </string-array>
-    <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-    </integer-array>
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
@@ -162,6 +157,14 @@
         <item>Este es un ejemplo de síntesis de voz en español.</item>
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
     <string-array name="color_mode_names">
         <item>Vibrant (default)</item>
         <item>Natural</item>
@@ -172,33 +175,27 @@
         <item>Natural colors as seen by the eye</item>
         <item>Colors optimized for digital content</item>
     </string-array>
-    <string-array name="weather_type">
-        <item>Zonnig</item>
-        <item>Bewolkt</item>
-        <item>Bewolkt</item>
-        <item>Mistig</item>
-        <item>Zware regenstorm</item>
-        <item>Stortbui</item>
-        <item>Regenstorm</item>
-        <item>Onweersbui</item>
-        <item>Stortregen</item>
-        <item>Zware regenval</item>
-        <item>Matige regenval</item>
-        <item>Lichte regenval</item>
-        <item>Regen en sneeuw</item>
-        <item>Sneeuwstorm</item>
-        <item>Sneeuw</item>
-        <item>Hevige sneeuw</item>
-        <item>Matige sneeuw</item>
-        <item>Lichte sneeuw</item>
-        <item>Sterke zandstorm</item>
-        <item>Zandstorm</item>
-        <item>Zand</item>
-        <item>Winderig</item>
-        <item>Hagel</item>
-        <item>Stof</item>
-        <item>Mist</item>
-        <item>Ijskoude regen</item>
-        <item></item>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Off</item>
+        <item>All</item>
+        <item>All but radio</item>
+        <item>kernel only</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Off</item>
+        <item>All log buffers</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
+    </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
+    <array name="config_hideWhenDisabled_packageNames" />
 </resources>

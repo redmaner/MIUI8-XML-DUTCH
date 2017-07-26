@@ -43,6 +43,7 @@
   <string name="already_download">Bezig met downloaden…</string>
   <string name="already_download_btn">Downloaden…</string>
   <string name="already_favorited">Reeds bij favorieten</string>
+  <string name="android_sdk_too_low">Update Android to be able to update Music.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
@@ -115,7 +116,6 @@
   <string name="choose_stream_quality">Kies streamkwaliteit</string>
   <string name="click_modify">Tik om de songteksten bij te werken.</string>
   <string name="click_to_shuffle">Tik om te shuffelen</string>
-  <string name="click_to_view_new_local_audios">Tik om de details te bekijken.</string>
   <string name="close_music_time">"Resterende tijd: "</string>
   <string name="cloud_empty_local_empty_button">Geen nummers op dit apparaat</string>
   <string name="cloud_empty_message">Geen nummers op Mi Cloud</string>
@@ -133,12 +133,14 @@
   <string name="cloud_state_storage_full">Niet genoeg ruimte op intern geheugen, back-up gepauzeerd</string>
   <string name="cloud_welcome_message">Nummers back-uppen</string>
   <string name="cloud_welcome_summary">Back-up uw nummers naar Mi Cloud om ernaar te luisteren op andere apparaten</string>
+  <string name="comment_format" formatted="false">%s: %s</string>
   <string name="confirm">OK</string>
   <string name="confirm_download">Downloaden</string>
   <string name="confirm_to_renew">Vernieuwen</string>
   <string name="continue_backup">Doorgaan</string>
   <string name="cp_info_first">Online muziekstreamingdienst wordt voornamelijk 
 verzorgd door Ultimate Inc.</string>
+  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">Kon bestellingen niet maken, probeer opnieuw</string>
   <string name="create_playlist">Afspeellijst maken</string>
   <string name="create_playlist_failure">Kon geen afspeellijst maken</string>
@@ -373,6 +375,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="fragment_title_channel">Radio</string>
   <string name="fragment_title_personal">Persoonlijk</string>
   <string name="fragment_title_recommend">Aangeraden</string>
+  <string name="garbage_cleanup">Cleaner</string>
   <string name="global_search_app_name">Muziek</string>
   <string name="global_search_description_entry">Geniet van de muziek</string>
   <string name="global_search_description_hot">Weekelijks updaten</string>
@@ -403,11 +406,11 @@ verzorgd door Ultimate Inc.</string>
   <string name="global_search_title_radar">Muziekherkenning</string>
   <string name="group_artist">Groepen</string>
   <string name="handle_later">Niet nu</string>
-  <string name="headset_settings">Koptelefoon &amp; geluidseffecten</string>
   <string name="higher_quality_music">Hoge kwaliteitsmuziek</string>
   <string name="higher_quality_music_summary">Stream en download muziek op hogere bitrates</string>
   <string name="home_tab_local">Mijn muziek</string>
   <string name="home_tab_online">Ontdek</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">Ok</string>
   <string name="i_know_it">Ok</string>
   <string name="impunity_declaration_content1">"Door het aanraken gaat u akkoord met de voorwaarden vermeld in onze "</string>
@@ -438,9 +441,11 @@ verzorgd door Ultimate Inc.</string>
   <string name="list_detail_title">Details</string>
   <string name="list_item_play_FM_radio">Raak aan om de FM radio af te spelen</string>
   <string name="list_item_play_all_tracks">Alles afspelen</string>
+  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">Laden…</string>
   <string name="loadercontainer_loading">Een momentje…</string>
   <string name="loading_hint">Een momentje…</string>
+  <string name="local_header_title">Local music</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Lokale afspeellijst is leeg</string>
   <string name="local_music_empty_goto_online">Geen nummers gevonden</string>
@@ -451,6 +456,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="local_page_playlist">Mijn afspeellijsten</string>
   <string name="local_page_song_all">Alle nummers</string>
   <string name="local_page_song_download">Lokale nummers</string>
+  <string name="local_page_song_download_history">Downloads</string>
   <string name="local_page_song_favorite">Favoriete nummers</string>
   <string name="local_tracks_short">Offline</string>
   <string name="lrc_search_failed">Geen songteksten gevonden</string>
@@ -473,6 +479,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="message_delete_playlist">Afspeellijst %s verwijderen?</string>
   <string name="metered_alert">Dataverbruik waarschuwing</string>
   <string name="metered_alert_msg">"U gebruikt mobiele data om nummers af te spelen. Toch afspelen?"</string>
+  <string name="metered_alert_msg_with_data">You have %s of mobile data left. Use mobile data to play songs?</string>
   <string name="metered_allow">Afspelen</string>
   <string name="metered_beyond_alert">Datalimiet overschreden</string>
   <string name="metered_disallow">Niet nu</string>
@@ -579,11 +586,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="notification_download_failed">Kon niet downloaden</string>
   <string name="notification_download_failed_more">Kon %1$d items niet downloaden</string>
   <string name="notification_download_success_more">%1$d gedownload</string>
-  <string name="notification_favorite_summary">Krijg meldingen over nieuwe releases en laatste hits</string>
-  <string name="notification_favorite_title">Melding over favoriete artiesten</string>
-  <string name="notification_headset_custom">Weigeren</string>
-  <string name="notification_headset_info">Tik om instellingen weer te geven.</string>
-  <string name="notification_headset_settings">Hoofdtelefoon verbonden</string>
   <string name="notification_need_wifi_for_size">Downloadgrootte vereist Wi-Fi.</string>
   <string name="notification_play_summary">Huidige en volgende nummer weergeven, songteksten op startscherm weergeven</string>
   <string name="notification_play_title">Notificatiescherm widget</string>
@@ -599,7 +601,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="online_favor">Aanbevolen</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">Alle gedownloade nummers van deze afspeellijst worden verwijderd van de interne opslag.</string>
-  <string name="online_music_enabled_subtitle">Tik om je favoriete liedjes te streamen.</string>
   <string name="online_music_enabled_summary">Beluister en download je favoriete liedjes. Bekijk de top nummers en curator afspeellijsten waar je maar wilt!</string>
   <string name="online_music_enabled_title">Hier gratis streamen</string>
   <string name="online_my">Mijn</string>
@@ -609,6 +610,9 @@ verzorgd door Ultimate Inc.</string>
   <string name="online_service_open_tip">Online muziekdiensten zijn ingeschakeld</string>
   <string name="online_service_title">Online diensten</string>
   <string name="online_special">Speciaal</string>
+  <string name="online_switch">Online content services</string>
+  <string name="online_switch_message">Turning off online services will affect VIP services and recommendations. Turn off anyway?</string>
+  <string name="online_switch_setting">Online content settings</string>
   <string name="open_download">Openen</string>
   <string name="open_online_service">Je moet online muziekdiensten inschakelen om deze functie te gebruiken. Nu inschakelen?</string>
   <string name="open_service">Inschakelen</string>
@@ -787,17 +791,17 @@ verzorgd door Ultimate Inc.</string>
   <string name="song_not_find">Dit nummer is niet beschikbaar.</string>
   <string name="song_offline">Sorry dit nummer is niet langer beschikbaar.</string>
   <string name="song_unit">items</string>
-  <string name="sort_by_language">Taal</string>
   <string name="sort_by_name">Naam</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Bron: %1$s</string>
   <string name="start_download_music">Updates aan het downloaden voor muziek.</string>
   <string name="start_shuffle">Willekeurig afspelen...</string>
-  <string name="start_to_backup">Back-up maken…</string>
   <string name="start_to_download">Downloaden…</string>
   <string name="start_to_play">Afspelen</string>
   <string name="start_to_use">Open muziek</string>
   <string name="start_update">Updaten naar de nieuwste versie van de muziekapp.</string>
+  <string name="stop">Stop</string>
+  <string name="stop_backup">Stop</string>
   <string name="storage_internal">Interne opslag</string>
   <string name="storage_sd_card">SD kaart</string>
   <string name="storage_usb">USB opslag</string>
@@ -836,6 +840,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="talkback_search">Zoeken</string>
   <string name="talkback_share">Delen</string>
   <string name="task_already_exist">Taak bestaat reeds</string>
+  <string name="text_separator">|</string>
   <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
   <string name="ticket_title">Tickets weergeven</string>
   <string name="time_to_upgrade">Mi Muziek updaten</string>
@@ -895,16 +900,16 @@ verzorgd door Ultimate Inc.</string>
   <string name="upgrade_waringing">Je zult alleen in staat zijn om opgeslagen muziek offline te beluisteren.</string>
   <string name="valid_period">Geldig: %s</string>
   <string name="version_info">Versie</string>
+  <string name="vip_after_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically the evening of day after tomorrow. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+  <string name="vip_after_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
   <string name="vip_auto_renew_message">Uw muziekabonnement zal vanavond automatisch vernieuwd worden. Wees u er van bewust dat u genoeg Mi Credits op uw account moet hebben om deze betaling te voltooien.</string>
-  <string name="vip_auto_renew_notification_message">Mi Credits toevoegen om uw muziek abonnement te vernieuwen.</string>
-  <string name="vip_auto_renew_notification_title">Abonnements betaling</string>
   <string name="vip_auto_renew_title">Abonnements vernieuwing</string>
   <string name="vip_renew_message">U zal geen hoge kwaliteits audio meer kunnen streamen, maar u kan nog steeds nummers streamen in normale kwaliteit</string>
-  <string name="vip_renew_notification_message">U zal geen hoge kwaliteits audio meer kunnen streamen nadat uw abonnement vervallen is</string>
-  <string name="vip_renew_notification_title">Abonnement vervalt morgen</string>
   <string name="vip_renew_title">Abonnement vervallen</string>
   <string name="vip_required">Premium muziekpakket verkrijgen om dit nummer af te spelen. Nummer voorlopig overgeslagen.</string>
   <string name="vip_required_with_song">Premium muziekpakket verkrijgen om “%s” af te spelen. Nummer voorlopig overgeslagen.</string>
+  <string name="vip_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically tomorrow evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+  <string name="vip_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
   <string name="warning_tip_cancel">Download</string>
   <string name="warning_tip_content">Je bent niet langer verbonden met Wi-Fi. Uw mobiele dataverbinding gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Als u over uw datalimiet gaat, kan uw provider extra kosten aanrekenen.</string>
   <string name="warning_tip_ok">Pauzeren</string>

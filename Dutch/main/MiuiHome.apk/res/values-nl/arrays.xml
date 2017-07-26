@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Klassiek (geen overschot)</item>
-        <item>Klassiek</item>
-        <item>Vervagen</item>
+        <item>Diavoorstelling</item>
+        <item>Crossfade</item>
         <item>Tuimelen</item>
         <item>Pagina</item>
-        <item>Stapelen</item>
-        <item>Draaien</item>
-        <item>3D kubus</item>
+        <item>Cascade</item>
+        <item>Rotatie</item>
+        <item>Kubus</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Door thema</item>
@@ -53,8 +52,5 @@
         <item>Achtergrond</item>
         <item>Effecten</item>
 		    <item>Schermcellen</item>
-    </string-array>
-	    <string-array name="quality_business_devices">
-        <item>lithium</item>
     </string-array>
 </resources>

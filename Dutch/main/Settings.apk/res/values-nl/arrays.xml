@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="status_bar_style_entries">
-        <item>Gecombineerd</item>
-        <item>Gescheiden</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Scannen…</item>
@@ -31,6 +27,154 @@
         <item>Mislukt</item>
         <item>Geblokkeerd</item>
         <item>Tijdelijk slechte verbindingen vermijden</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nooit controleren</item>
+        <item>Alleen op DRM inhoud controleren</item>
+        <item>Altijd controleren</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nooit HDCP controle gebruiken</item>
+        <item>Gebruik HDCP controle alleen op DRM inhoud</item>
+        <item>Altijd controleren</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Geen</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (veilig)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (veilig)</item>
+        <item>1080p</item>
+        <item>1080p (veilig)</item>
+        <item>4K</item>
+        <item>4K (veilig)</item>
+        <item>4K (opgewaardeerd)</item>
+        <item>4K (opgewaardeerd, veilig)</item>
+        <item>720p, 1080p (dubbel scherm)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Geen</item>
+        <item>Logcat</item>
+        <item>Systrace (grafisch)</item>
+        <item>Oproepstack op glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Uit</item>
+        <item>Niet rechthoekige bijsnijdregio tekenen in blauw</item>
+        <item>Geteste tekenopdrachten markeren in groen</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Uit</item>
+        <item>Op het scherm als balken</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Uit</item>
+        <item>Toon overdrawgebieden</item>
+        <item>Toon gebieden voor deuteranomalie</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standaardlimiet</item>
+        <item>Geen achtergrondprocessen</item>
+        <item>Maximaal 1 proces</item>
+        <item>Maximaal 2 processen</item>
+        <item>Maximaal 3 processen</item>
+        <item>Maximaal 4 processen</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Charging</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Zeer langzaam</item>
+        <item>Langzaam</item>
+        <item>Normaal</item>
+        <item>Snel</item>
+        <item>Vlug</item>
+        <item>Behoorlijk vlug</item>
+        <item>Snel</item>
+        <item>Zeer snel</item>
+        <item>Snelst</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="status_bar_style_entries">
+        <item>Gecombineerd</item>
+        <item>Gescheiden</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
@@ -76,24 +220,6 @@
         <item>Normaal</item>
         <item>Groot</item>
         <item>Extra groot</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Zeer langzaam</item>
-        <item>Langzaam</item>
-        <item>Normaal</item>
-        <item>Snel</item>
-        <item>Vlug</item>
-        <item>Behoorlijk vlug</item>
-        <item>Snel</item>
-        <item>Zeer snel</item>
-        <item>Snelst</item>
-    </string-array>
-    <string-array name="tts_pitch_entries">
-        <item>Zeer laag</item>
-        <item>Laag</item>
-        <item>Normaal</item>
-        <item>Hoog</item>
-        <item>Zeer hoog</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
@@ -143,18 +269,6 @@
         <item>Aantal keer gestart</item>
         <item>Appnaam</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>Geen</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>Geen</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statisch</item>
@@ -169,6 +283,11 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
 	    <item>Ongespecifiëerd</item>
@@ -315,6 +434,17 @@
         <item>Normaal</item>
         <item>Lang</item>
     </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Default</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
+    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Zeer klein</item>
         <item>Klein</item>
@@ -330,6 +460,12 @@
 	    <item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -338,85 +474,13 @@
         <item>Geel op blauw</item>
         <item>Aangepast</item>
 	</string-array>	
-    <string-array name="hdcp_checking_titles">
-        <item>Nooit controleren</item>
-        <item>Alleen op DRM inhoud controleren</item>
-        <item>Altijd controleren</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Nooit HDCP controle gebruiken</item>
-        <item>Gebruik HDCP controle alleen op DRM inhoud</item>
-        <item>Altijd controleren</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal 0,5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1,5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal 0,5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1,5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal 0,5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1,5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Geen</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (veilig)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (veilig)</item>
-        <item>1080p</item>
-        <item>1080p (veilig)</item>
-        <item>4K</item>
-        <item>4K (veilig)</item>
-        <item>4K (opgewaardeerd)</item>
-        <item>4K (opgewaardeerd, veilig)</item>
-        <item>720p, 1080p (dubbel scherm)</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Geen</item>
-        <item>Logcat</item>
-        <item>Systrace (grafisch)</item>
-        <item>Oproepstack op glGetError</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Uit</item>
-        <item>Niet rechthoekige bijsnijdregio tekenen in blauw</item>
-        <item>Geteste tekenopdrachten markeren in groen</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Uit</item>
-        <item>Op het scherm als balken</item>
-        <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Uit</item>
-        <item>Toon overdrawgebieden</item>
-        <item>Toon gebieden voor deuteranomalie</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Standaardlimiet</item>
-        <item>Geen achtergrondprocessen</item>
-        <item>Maximaal 1 proces</item>
-        <item>Maximaal 2 processen</item>
-        <item>Maximaal 3 processen</item>
-        <item>Maximaal 4 processen</item>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -483,9 +547,19 @@
         <item>Roze</item>
         <item>Rood</item>
     </string-array>
+    <string-array name="cellcular2wifi_entries">
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+        <item>Always ask</item>
+    </string-array>
+    <array name="carrier_operator_list" />
     <string-array name="wifi_calling_mode_choices">
         <item>Bij voorkeur Wi-Fi</item>
         <item>Bij voorkeur mobiel</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>WLAN preferred</item>
+        <item>Cellular preferred</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Uit</item>
@@ -535,9 +609,24 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimaal</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
     </string-array>
     <string-array name="screen_key_position_action">
         <item>Menuknop links, terugknop rechts</item>
@@ -568,10 +657,6 @@
         <item>Quick snapmodus (video)</item>
         <item>Snelkoppelingen openbaar vervoer</item>
     </string-array>
-	<string-array name="screen_button_style">
-        <item>Linkshandige stijl</item>
-        <item>Rechtshandige stijl</item>
-    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 seconde</item>
         <item>2 seconden</item>
@@ -580,6 +665,12 @@
         <item>20 seconden</item>
         <item>Altijd</item>
     </string-array>
+    <integer-array name="font_size_preference_preview_size">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>27</item>
+    </integer-array>
     <string-array name="wfd_status">
         <item>Sessie starten…</item>
         <item>Sessie gestart</item>
@@ -635,6 +726,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Toestaan</item>
         <item>Weigeren</item>
     </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Native</item>
+    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Enkele micro geluidsonderdrukking</item>
         <item>Dubbele micro geluidsonderdrukking</item>
@@ -654,6 +749,15 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Automatisch verbinden</item>
         <item>Handmatig verbinden</item>
     </string-array>
+    <string-array name="connect_mode_entries">
+        <item>comtible mode</item>
+        <item>high mode</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>close</item>
+        <item>normal mode</item>
+        <item>extreme mode</item>
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Bellen</item>
@@ -665,7 +769,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Email</item>
 	    <item>Video afspelen</item>
     </string-array>
-    <string-array name="network_speed_slow_summary">
+     <string-array name="network_speed_slow_summary">
         <item>Netwerk is traag door het vele verkeer</item>
         <item>Netwerk is traag door slechte signaalsterkte</item>
         <item>Verplaatsen…</item>
@@ -721,9 +825,13 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Apparaat opnieuw opstarten om deze instelling toe te passen?</item>
         <item>Apparaat opnieuw opstarten om deze instelling toe te passen?</item>
     </string-array>
-	<string-array name="screen_resolution_entries">
-        <item>Ultrahoog (2K)</item>
-        <item>Normaal (720p)</item>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
     </string-array>
 	<string-array name="max_number_titles">
         <item>6</item>
@@ -742,7 +850,21 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Appvergrendeling</item>
         <item>Tweede ruimte</item>
     </string-array>
-	<string-array name="alarm_repeat_type">
+	<string-array name="screen_button_style">
+        <item>Linkshandige stijl</item>
+        <item>Rechtshandige stijl</item>
+    </string-array>
+    <integer-array name="screen_resolution">
+        <item>1440</item>
+        <item>1080</item>
+    </integer-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Click adjust - Double click trigger</item>
+        <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
+        <item>Click adjust - Long Click trigger</item>
+    </string-array>
+ 	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>
         <item>Weekdagen</item>
         <item>Aangepast</item>
@@ -759,9 +881,26 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Notities</item>
         <item>Kindermodus</item>
     </string-array>
-	<string-array name="miracast_policies">
-        <item>Minder vertraging</item>
-        <item>Standaard</item>
-        <item>Betere kwaliteit</item>
-   </string-array>		
+    <array name="app_permission" />
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>Quad-core Max 2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Battery capacity</item>
+        <item>Rear camera</item>
+        <item>Screen size</item>
+        <item>Resolution</item>
+        <item>Android version</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 820</item>
+        <item>3000mAh(typ)</item>
+        <item>16MP</item>
+        <item>5.15 inches</item>
+        <item>1920 × 1080</item>
+        <item>6.0.1</item>
+    </string-array>
 </resources>

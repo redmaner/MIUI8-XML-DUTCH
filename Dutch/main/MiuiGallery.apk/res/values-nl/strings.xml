@@ -28,7 +28,6 @@
   <string name="add_to_secret_fail">Kon niet toevoegen aan verborgen album</string>
   <string name="add_to_secret_failed_with_reason">"Kan niet toegevoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items kunnen niet toegevoegd worden aan verborgen album. %1$s."</string>
-  <string name="add_to_secret_successful">Toegevoegd aan verborgen album</string>
   <string name="add_to_share_album_not_delete">Kan foto niet verwijderen van gedeeld album</string>
   <string name="adding">Toevoegen…</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
@@ -45,13 +44,13 @@
   <string name="album_already_exists_msg">Album \"%s\" bestaat al</string>
   <string name="album_already_forced_top">Reeds bovenop</string>
   <string name="album_camera_name">Camera</string>
-  <string name="album_detail_clear_local_page_empty">"Geen geback-upte foto\'s of video\'s om te verwijderen"</string>
   <string name="album_detail_page_empty">Geen foto\'s of video\'s</string>
   <string name="album_faces_name">Personen</string>
   <string name="album_from_format">%s</string>
   <string name="album_jump_failed">Wacht tot albums zijn gesynchroniseerd met Mi Cloud ​​en probeer opnieuw</string>
   <string name="album_member">Albumleden %s</string>
   <string name="album_name">Albumnaam</string>
+  <string name="album_name_recent_discovery">Recent</string>
   <string name="album_others_share_baby_info_format">Babyalbum van %s</string>
   <string name="album_others_share_info_format">Van %s</string>
   <string name="album_owner_share">Gedeeld</string>
@@ -79,6 +78,7 @@
   <string name="album_videos_name">Video\'s</string>
   <string name="alert_secret_album_enter">Begrepen</string>
   <string name="alert_secret_album_message">Veeg omlaag vanaf de bodem van uw albums om het verborgen album te bekijken. Om het te beschermen moet u een patroon instellen.</string>
+  <string name="alert_secret_album_message_lower_case"> veeg omlaag terwijl u in de Albums tikt om verborgen album te bekijken.</string>
   <string name="alert_secret_album_title">Toegevoegd aan verborgen album</string>
   <string name="all_faces">Alle foto\'s met personen erop</string>
   <string name="all_items_synced">Alle albums zijn geback-upt naar Mi Cloud</string>
@@ -133,9 +133,10 @@
   <string name="backup_cloud_space_low_btn_text">Meer verkrijgen</string>
   <string name="backup_cloud_space_low_desc">%1$s op Mi Cloud | %2$s beschikbaar</string>
   <string name="backup_cloud_space_low_title">Niet genoeg opslag op Mi Cloud</string>
-  <string name="backup_cta_not_allow">Kan geen toegang krijgen tot netwerk</string>
   <string name="backup_cta_not_allow_btn_text">Toestaan</string>
-  <string name="backup_detail_page_empty">Er zijn geen foto\' or video\'s om te back-uppen</string>
+  <string name="backup_cta_not_allow_desc">Akkoord gaan met automatische back-up</string>
+  <string name="backup_cta_not_allow_title">Kan geen toegang tot netwerk krijgen</string>
+  <string name="backup_detail_page_empty">Er zijn geen foto\' of video\'s om te back-uppen</string>
   <string name="backup_detail_page_title">Mi Cloud back-ups</string>
   <string name="backup_device_space_low_btn_text">Wissen</string>
   <string name="backup_device_space_low_desc">Maak ruimte vrij om door te gaan met back-uppen</string>
@@ -157,6 +158,9 @@
   <string name="backup_pause_title">Back-up maken over %s</string>
   <string name="backup_pending">Zal automatisch worden geback-upt</string>
   <string name="backup_stop">Back-up stoppen</string>
+  <string name="backup_sync_dialog_confirm">Inschakelen</string>
+  <string name="backup_sync_dialog_tips">Sync met Mi Cloud inschakelen om de instellingen voor backups te wijzigen.</string>
+  <string name="backup_sync_dialog_title">Synchronisatie is uitgeschakeld</string>
   <string name="backup_sync_error_btn_text">Probeer opnieuw</string>
   <string name="backup_sync_error_desc">Kan niet verbinden met Mi Cloud</string>
   <string name="backup_sync_error_title">Kon items niet synchroniseren</string>
@@ -172,6 +176,7 @@
   <string name="backuping_title_normal">Back-up maken…</string>
   <string name="begin_share">Baby-album \"%s\" aanmaken. U kan die nu delen</string>
   <string name="begin_share_toast">Een apart album voor dit kind aanmaken voordat u die deelt?</string>
+  <string name="blank_app_name"/>
   <string name="browse_category_title">Bladeren</string>
   <string name="buy_member_tip">Word lid</string>
   <string name="by_email">E-mail</string>
@@ -193,7 +198,6 @@
   <string name="choose_owner_relation">Relatie</string>
   <string name="choose_people">Album van persoon kiezen</string>
   <string name="choose_some_people">Kies album met %s</string>
-  <string name="clear_local_photo_direction">Als u foto\'s of video\'s verwijdert van uw apparaat, zullen ze nog steeds beschikbaar zijn in Mi Cloud</string>
   <string name="click_download_gif">Tik om gif te downloaden</string>
   <string name="click_top_right">Tik op het icoon rechtsboven</string>
   <string name="cloud_camera_display_name">Camerafoto\'s</string>
@@ -204,6 +208,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
   <string name="cloud_settings">Back-ups van galerij</string>
+  <string name="cloud_storage_extend">Cloud ruilte uitbreiden</string>
   <string name="cloud_storage_ok_append_desc">%s beschikbaar</string>
   <string name="cloud_storage_ok_desc">%s Mi Cloud opslag </string>
   <string name="cloud_storage_ok_title">Genoeg opslag op Mi Cloud</string>
@@ -213,12 +218,18 @@
   <string name="cloud_storage_video_title">Video\'s</string>
   <string name="cloud_storage_warn_desc">Cloud VIP aanschaffen voor extra ruimte</string>
   <string name="cloud_storage_warn_title">Niet genoeg ruimte op Mi Cloud</string>
+  <string name="cloud_sync_card_description">Synchroniseer uw foto\'s en video\'s naar Mi Cloud om ze vanop meerdere apparaten te openen</string>
+  <string name="cloud_sync_card_title">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="cloudfolder_cannot_start_with">"De naam van een album kan niet beginnen met '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"De naam van een album kan geen '%s' bevatten"</string>
   <string name="cloudfolder_name_cannot_empty">Geef het album een naam</string>
   <string name="cloudfolder_name_reserved">Deze albumnaam is al in gebruik</string>
   <string name="collaps_people">Verbergen</string>
-  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat momenten</string>
+  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
+  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">Ok</string>
   <string name="confirm_download_video_message">U moet de download van de video voltooien voordat u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
   <string name="confirm_download_video_title">Video downloaden</string>
@@ -253,7 +264,6 @@
   <string name="custom_select_title_select_all">Alles selecteren</string>
   <string name="custom_select_title_select_item">Selecteer items</string>
   <string name="debugging_tip">Debuggegevens genereren</string>
-  <string name="default_album_name">Nieuw album</string>
   <string name="default_relation_name">Nieuwe groep</string>
   <string name="define_by_user">Aangepast</string>
   <string name="delete">Verwijderen</string>
@@ -281,8 +291,9 @@
   <string name="delete_third_party_photo">Deze foto verwijderen?</string>
   <string name="delete_third_party_video">Deze video verwijderen?</string>
   <string name="delete_to_trash_tips">U kunt recent verwijderde foto\'s bekijken in Instellingen &gt; Vuilnisbak</string>
-  <string name="delete_unsynced">Items die niet zijn geback-upt wissen</string>
   <string name="deny">Weigeren</string>
+  <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
+  <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Details</string>
   <string name="disable_auto_upload_tip">Synchronisatie met Mi Cloud voor dit album uitschakelen?</string>
   <string name="disable_auto_upload_title">Synchronisatie met Mi Cloud uitschakelen</string>
@@ -346,6 +357,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="face_album_not_named">Naamloos</string>
   <string name="face_album_pending_enable_tip">Zal foto\'s sorteren wanneer het apparaat verbonden is met Wi-Fi</string>
   <string name="face_album_rename_hint">Naam invoeren</string>
+  <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">Foto\'s automatisch sorteren op mensen die erop staan.</string>
   <string name="face_albumset_loading_data">Gegevens laden…</string>
   <string name="face_choose_tip">Kies uit bestaand album</string>
@@ -354,10 +366,14 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="face_name_edit">Bewerken</string>
   <string name="face_name_input">Naam invoeren</string>
   <string name="face_recommend">Aanbevelingen</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">Kon handeling niet voltooien</string>
   <string name="fail_to_pick_email">Ongeldig e-mailadres</string>
   <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerkverbinding.</string>
   <string name="family_member_invitation_text">Ander familielid</string>
+  <string name="fast_share_auto_render">Verfraaien</string>
+  <string name="fast_share_auto_render_finish">Verfraaid</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter">Filter</string>
   <string name="filter_a4_aesthetic">Verfijnd</string>
   <string name="filter_clarendon_fresh">Fris</string>
@@ -463,7 +479,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="loading_video_fail_sync_without_network">Verbind met het netwerk om metadata te downloaden</string>
   <string name="loading_video_fail_syncing">Wacht tot metadata volledig is gedownload en probeer opnieuw</string>
   <string name="loading_video_thumbnail">Videocover downloaden…</string>
-  <string name="local_space_full_button_text">Ruimte wissen</string>
   <string name="login_and_enable_service">Log in met Mi Account</string>
   <string name="long_press_to_refocus">Tik &amp; houd ingedrukt om focus bij te stellen</string>
   <string name="main_discard_confirm_message">Wijzigingen zijn niet opgeslagen</string>
@@ -485,12 +500,12 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="more_face_album_name">Meer personen</string>
   <string name="move_to_other_albums_tip">Dit album verplaatsen naar andere albums?</string>
   <string name="must_pick_file">Kies een foto</string>
+  <string name="name_split">, </string>
   <string name="need_to_turn_on_network">U hebt geen internetverbinding</string>
   <string name="need_to_turn_on_sync">Schakel eerst synchronisatie met Mi Cloud in</string>
   <string name="need_to_turn_on_sync_first">Schakel eerst synchronisatie met Mi Cloud in</string>
   <string name="need_to_turn_on_wlan">Eerst met Wi-Fi verbinden</string>
   <string name="network_connected_rescan">Kan niet verbinden met netwerk</string>
-  <string name="network_unsatisfied_button_text">Verbinden met netwerk</string>
   <string name="new_album_invalid_char">De naam bevat ongeldig karakter \"%s\", voer letter of nummer in.</string>
   <string name="new_album_invalid_name">\"%s\" is een systeemalbum, hernoem het.</string>
   <string name="new_album_invalid_prefix">"Albumnaam kan niet beginnen met \".\" of \"_\"."</string>
@@ -506,6 +521,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="not_is">Nee</string>
   <string name="not_remind_again">Niet opnieuw tonen</string>
   <string name="not_remind_any_more">Niet meer weergeven</string>
+  <string name="ok">OK</string>
   <string name="open">Inschakelen</string>
   <string name="open_public_message">URL genereren om te delen met vrienden</string>
   <string name="open_public_title">Delen</string>
@@ -515,12 +531,10 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Synchronisatie met Mi Cloud uitschakelen</string>
-  <string name="operation_do_delete_local_thumnail">Verwijderen van apparaat</string>
   <string name="operation_download">Origineel downloaden (%s)</string>
   <string name="operation_edit">Bewerken</string>
   <string name="operation_edit_video">Bewerken</string>
   <string name="operation_enable_auto_upload">Synchronisatie met Mi Cloud inschakelen</string>
-  <string name="operation_enter_delete_local">Geback-upte foto\'s en video\'s van apparaat verwijderen</string>
   <string name="operation_failed">Uitvoering mislukt</string>
   <string name="operation_force_top">Pinnen</string>
   <string name="operation_hide">Verbergen</string>
@@ -554,6 +568,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
+  <string name="petabyteShort">PB</string>
   <string name="photo">Foto\'s</string>
   <string name="photo_edit_file_not_exits_tip">Download de foto voor het bewerken</string>
   <string name="photo_editor_label">Bewerken</string>
@@ -606,7 +621,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="relation_text_maternal_grandmother">Grootmoeder van moederszijde</string>
   <string name="relation_text_mother">Moeder</string>
   <string name="relation_with_you">Relatie kiezen</string>
-  <string name="release_space_finish_format">%s lokale opslag vrijgemaakt</string>
   <string name="remind_face_recommend_confirm">Bevestigen</string>
   <string name="remove_from_album_message">Deze foto wordt hier niet langer weergegeven</string>
   <string name="remove_from_album_title">Verwijderen uit dit album</string>
@@ -632,7 +646,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="reset">Resetten</string>
   <string name="retry_to_create_album">Opnieuw</string>
   <string name="retry_to_request_qr_code">Opnieuw</string>
-  <string name="return_from_clear_local_file_fragment_toast">Geoptimaliseerde foto\'s zijn opgeslagen op het apparaat. Tik op een foto om het origineel van Mi Cloud te downloaden.</string>
   <string name="revert">Terugdraaien</string>
   <string name="runtime_permission_ungranted">Galerij afgesloten, geen vereiste toestemmingen</string>
   <string name="same_name_album_exist_and_toast">"Een album met dezelfde naam bestaat reeds. Maak '%s' aan in plaats daarvan."</string>
@@ -665,12 +678,12 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_title_people">Personen</string>
   <string name="search_title_recommend">Aanbevolen</string>
   <string name="search_title_tag">Objecten</string>
+  <string name="secret_album_card_description">De beste plek voor al je kleine geheimen</string>
+  <string name="secret_album_card_title">Probeer verborgen album</string>
   <string name="secret_album_display_name">Verborgen album</string>
   <string name="secret_album_password_first_use_msg">Privacy wachtwoordbeveiliging zal gebruikt worden. Het werkt voor foto\'s, notities, verborgen mappen, enz.</string>
   <string name="secret_album_password_first_use_title">Privacy wachtwoordbeveiliging</string>
-  <string name="secret_album_password_update_dialog_cancel">Annuleren</string>
   <string name="secret_album_password_update_dialog_msg">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen, enz.</string>
-  <string name="secret_album_password_update_dialog_ok">Ok</string>
   <string name="secret_album_password_update_dialog_title">Wachtwoord upgraden</string>
   <string name="secret_album_password_update_first_user_dialog_msg">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen, enz.</string>
   <string name="secret_album_password_update_first_user_dialog_title">Wachtwoord upgraden</string>
@@ -744,9 +757,11 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="syncing_metadata_title">Synchroniseren met clouddata</string>
   <string name="syncing_normal_title">Foto\'s en video\'s back-uppen</string>
   <string name="system_album">Systeemalbum</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_append">Tekst</string>
   <string name="text_append_color">Kleur</string>
   <string name="text_append_font">Lettertype</string>
+  <string name="text_append_font_example">Aa</string>
   <string name="text_append_hint">Tekst invoeren</string>
   <string name="text_append_style">Bubbel</string>
   <string name="text_append_transparent">Transparantie</string>
@@ -764,6 +779,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="to_enable_sync_dialog_message">Eerst sync. inschakelen</string>
   <string name="to_enable_sync_dialog_positive_button_text">Ga naar instellingen</string>
   <string name="to_enable_sync_dialog_title">Sync.</string>
+  <string name="today">Vandaag</string>
   <string name="too_many_recipients">Te veel ontvangers (%1$s). (Max: %2$s ontvangers)</string>
   <string name="trash_bin">Prullenbak</string>
   <string name="trash_bin_summary">Blader door de geback-upte foto\'s die onlangs werden verwijderd</string>
@@ -852,5 +868,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="who_is_this">Wie is daar?</string>
   <string name="xiaomi_account_not_exists_toast">Mi account bestaat niet</string>
   <string name="yes">Ja</string>
+  <string name="yesterday">Gisteren</string>
   <string name="you_are">"Jij bent de baby's"</string>
 </resources>

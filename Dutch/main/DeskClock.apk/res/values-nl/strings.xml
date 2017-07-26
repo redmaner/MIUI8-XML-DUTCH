@@ -25,6 +25,7 @@
   <string name="app_label">Klok</string>
   <string name="auto_silence_never">Nooit</string>
   <string name="auto_silence_title">Stil na</string>
+  <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Verjaardagsalarm</string>
   <string name="birthday_alarm_summary">Speel \"Happy Birthday\" af in plaats van je standaard alarm op je verjaardag</string>
   <string name="cancel">Annuleren</string>
@@ -34,9 +35,11 @@
   <string name="control_set_alarm">Wekker instellen</string>
   <string name="control_set_alarm_with_existing">Alarm ingesteld: %s</string>
   <string name="day">1 dag</string>
+  <string name="day_concat">", "</string>
   <string name="days">%d dagen</string>
   <string name="default_alarm_alert">Standaard alarmgeluid</string>
   <string name="default_alarm_title">Standaard beltoon</string>
+  <string name="default_label">Alarm</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_alarm">Wekker verwijderen</string>
   <string name="delete_alarm_confirm">Geselecteerde wekker(s) verwijderen?</string>
@@ -46,6 +49,7 @@
   <string name="dialog_confirm_abort">Wijzigingen ongedaan maken?</string>
   <string name="done">Gereed</string>
   <string name="edit_systemtime">Systeemtijd bewerken</string>
+  <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Elke dag</string>
   <string name="force_touch_add_alarm">Alarm toevoegen</string>
   <string name="force_touch_enter_stopwatch">Stopwatch</string>
@@ -54,6 +58,8 @@
   <string name="hour">1 uur</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">%d uur</string>
+  <string name="install_weather_app_error">Kon app niet laden</string>
+  <string name="install_weather_app_loading">Een momentje…</string>
   <string name="keep_screen_on">Scherm aanlaten</string>
   <string name="label">Label instellen</string>
   <string name="label_pref_summary">Label</string>
@@ -66,6 +72,7 @@
   <string name="legal_workday_invalidate_message">(Datum verlopen, werk bij in instellingen)</string>
   <string name="legal_workday_message">"(Wekker uit tijdens vakanties)"</string>
   <string name="life_post_setting">Ochtendrapport</string>
+  <string name="life_post_setting_FBE_remind">Als gevolg van systeembeperking wordt de weerinformatie in het morgenrapport mogelijk niet correct weergegeven na nieuwe opstart</string>
   <string name="life_post_setting_open_subtitle">Het lokale weer tonen als u een alarm tussen 04:00 en 09:30 sluit</string>
   <string name="life_post_setting_open_title">Ochtendrapporten verkrijgen</string>
   <string name="life_post_setting_wake_up_list_title">Wekgeschiedenis</string>
@@ -74,9 +81,14 @@
   <string name="life_post_wake_up_item_acumu_day_title">Dagen tellen</string>
   <string name="life_post_wake_up_item_percentage_title">Mi fans onder u</string>
   <string name="life_post_wake_up_item_time_title">Wektijd</string>
+  <string name="life_post_wake_up_percentage_sign">%</string>
   <string name="life_post_wake_up_percentage_title">Mi fans onder u</string>
   <string name="life_post_wake_up_time_title">Wektijd</string>
+  <string name="life_post_weather_degree_invalid">--</string>
+  <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
+  <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
   <string name="life_post_weather_invalid">Kon geen weerinformatie verkrijgen, tik om opnieuw te proberen</string>
+  <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">Beltoon laden…</string>
   <string name="menu_add_worldclock">Tijdzone toevoegen</string>
   <string name="menu_desk_clock">Klok</string>
@@ -90,6 +102,7 @@
   <string name="never">Nooit</string>
   <string name="oneshot_alarm">Verwijderen na afgaan</string>
   <string name="pause">Pauzeren</string>
+  <string name="percentage_sign">%</string>
   <string name="remind_ringtone">Beltoon</string>
   <string name="reset">Opnieuw instellen</string>
   <string name="revert">Terugzetten</string>
@@ -121,9 +134,12 @@
   <string name="stat_repeat_weekends">Weekend</string>
   <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
   <string name="stopwatch_title">Stopwatch</string>
+  <string name="symbol_colon">:</string>
   <string name="system_time_setting">Instellingen</string>
   <string name="system_time_settings_category_title">Tijdsinstellingen</string>
+  <string name="temperature_unit">%1$s°</string>
   <string name="time">Tijd</string>
+  <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Tik op het scherm om het alarm te stoppen</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer gestopt na %d minuten</string>

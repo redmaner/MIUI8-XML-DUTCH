@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">About MIUI Battery Saver</string>
   <string name="action_bar_delete">Verwijderen</string>
   <string name="action_settings">Instellingen</string>
   <string name="activity_title_poweranalyze">Test batterij</string>
@@ -25,11 +26,16 @@
   <string name="config_restrict_function_title">Beperk achtergrond apps</string>
   <string name="config_restrict_running_description">Apps zullen gesloten worden om batterij te besparen</string>
   <string name="config_restrict_running_title">Beperk achtergrondactiviteit</string>
+  <string name="config_restrict_running_warning">App will be closed when it is background, maybe it cannot work normally</string>
+  <string name="config_scenario_policies_title">Scenarios</string>
   <string name="config_suggest_description">Voor apps, gebruik verschillende batterijbesparingsconfiguraties</string>
   <string name="config_suggest_suffix_title">MIUI batterijbespaarder (aanbevolen)</string>
   <string name="config_suggest_title">Voorgesteld</string>
+  <string name="disable_hide_mode">Disable MIUI Battery Saver</string>
+  <string name="disable_hide_mode_warning">Disable MIUI Battery Saver may cause more power consumption</string>
   <string name="disabled">Uit</string>
   <string name="empty_title_apps_container_list">Geen apps</string>
+  <string name="enable_hide_mode">Enable MIUI Battery Saver</string>
   <string name="error_filename_too_long">De bestandsnaam die je invoerde is te lang.</string>
   <string name="foreground_change">App loopt op de voorgrond</string>
   <string name="fragment_nonesys_listempty">Geen geïnstalleerde apps</string>
@@ -40,8 +46,10 @@
   <string name="google_base_app_install_choice">\"%s\" vereist dat Google Service Framework apps normaal werken, wilt u ze downloaden en installeren?</string>
   <string name="hide_mode_desc">Wanneer een app in de achtergrond loopt, worden de activiteiten bijgehouden om batterijverbruik te verminderen.</string>
   <string name="hide_mode_ultimate_desc">Ultieme modus is ingeschakeld. De apps op de achtergrond worden bevroren. Schakel batterijbesparing uit om Ultieme modus te verlaten.</string>
+  <string name="hide_system_app">Hide system apps</string>
   <string name="high">Prestatie</string>
   <string name="hints_loading_text">Een momentje…</string>
+  <string name="invalid_size_value">"Couldn't get package size."</string>
   <string name="location_disable_description">Apps in de achtergrond kunnen slechts een korte tijdsperiode toegang hebben tot locatiediensten terwijl de constante toegang beperkt blijft.</string>
   <string name="location_disable_title">Beperken</string>
   <string name="location_enable_description">Apps kunnen in de achtergrond locatiediensten gebruiken</string>
@@ -77,6 +85,7 @@
   <string name="power_checker_recent_group_title">Recent</string>
   <string name="power_checker_running_btn_title">Proces stoppen</string>
   <string name="power_checker_running_group_title">Lopend</string>
+  <string name="power_checker_title">PowerChecker</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s start regelmatig op</string>
   <string name="power_checker_wakeup_alarm_title">%1$s start regelmatig op</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s scant regelmatig voor Wi-Fi</string>
@@ -152,6 +161,9 @@
   <string name="power_optimize_activity_profile_file_error">Batterij besparingsfout</string>
   <string name="ragment_sys_listempty">Geen systeemapps</string>
   <string name="reading">Leesmodus</string>
+  <string name="scenario_policies_summary">Power saving according to scenario</string>
+  <string name="scenario_policies_title">Scenario power saving policies</string>
+  <string name="scenario_policies_warmcontrol">Warm control</string>
   <string name="screen_off">Scherm is uit</string>
   <string name="screen_off_10_min">Scherm is uit voor meer dan 10 minuten</string>
   <string name="screen_on">Scherm aan</string>
@@ -160,12 +172,15 @@
   <string name="set_cpufreq_max">Max CPU frequentie</string>
   <string name="set_lcd_mode">Schermmodus</string>
   <string name="settings_safetylegal_activity_loading">Een momentje…</string>
-  <string name="sleep_config_disable_description">MIUI zal de stand-bytijd niet verbeteren</string>
-  <string name="sleep_config_disable_title">Uit</string>
+  <string name="show_system_app">Show system apps</string>
   <string name="sleep_config_enhance_description">MIUI zal de stand-bytijd verbeteren</string>
   <string name="sleep_config_enhance_title">Aan</string>
-  <string name="sleep_config_mode_title">Slaap besparingsmodus</string>
   <string name="still">Afbeelding</string>
   <string name="ui">Standaard</string>
   <string name="user_define_mode">Naam</string>
+  <string name="vip_feedback">Vip Feedback</string>
+  <string name="vip_feedback_apply">Apply Vip Feedback</string>
+  <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
+  <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
+  <string name="warm_configure">Warm control configure</string>
 </resources>

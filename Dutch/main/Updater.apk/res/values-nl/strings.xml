@@ -79,6 +79,7 @@
   <string name="download_title_full_download">Info verkrijgen…</string>
   <string name="edit_comment">Reactie toevoegen</string>
   <string name="edit_comment_title">Reactie aanpassen</string>
+  <string name="edit_text_default">Write a comment</string>
   <string name="emegency_build">Versie:</string>
   <string name="expect">Verwachtingen</string>
   <string name="experimental_build">Experimentele versie</string>
@@ -86,7 +87,7 @@
   <string name="fourgrid_hint_text">Bedankt voor het gebruiken van de ontwikkelaarsversie van MIUI. Vertel ons wat u denkt en help ons om MIUI te verbeteren!</string>
   <string name="fourgrid_no_notificaiont">"Niet weergeven in statusbalk"</string>
   <string name="fourgrid_notificaiont">Weergeven in statusbalk</string>
-  <string name="get_auto">Krijg automatische modus</string>
+  <string name="get_auto">Gebruik het mobiele netwerk of Wi-Fi</string>
   <string name="get_current">Huidige ophalen</string>
   <string name="get_update_error">Update informatie verkrijgen mislukt</string>
   <string name="go_on_download">Downloaden</string>
@@ -110,6 +111,7 @@
   <string name="miui_summary_has_new_version">"  Nieuwe update gevonden  "</string>
   <string name="miui_summary_no_new_version">Geen update beschikbaar</string>
   <string name="miui_summary_now_version">Kan niet verbinden met netwerk</string>
+  <string name="miui_summary_slogan">"  Simplify your life  "</string>
   <string name="miui_summary_updating">"  Updaten…  "</string>
   <string name="monthly_build">Maandelijks</string>
   <string name="my_best_update">Beste update</string>
@@ -168,15 +170,26 @@
   <string name="pm_root_success_title">Roottoegang ingeschakeld</string>
   <string name="previous">Vorige</string>
   <string name="progress_title_checking">Controleren op updates…</string>
+  <string name="provision_activate_device">Activating device…</string>
+  <string name="provision_check_sim">Detect SIM card</string>
+  <string name="provision_connect_wifi">Connect to WLAN</string>
+  <string name="provision_have_sim">SIM card inserted</string>
+  <string name="provision_no_network_extra">Connect to WLAN, or insert your SIM card and use mobile data to activate your device. You cant activate your device without connecting to the network.</string>
+  <string name="provision_no_network_title">Connect to the network</string>
+  <string name="provision_retry">Try again</string>
+  <string name="provision_toast_no_network">Connect to the network first</string>
+  <string name="provision_toast_server_error">Couldn’tt connect to the server. Wait a minute or two and try again.</string>
+  <string name="provision_toast_timeout">Connection timed out. Check your network settings.</string>
   <string name="reboot">Herstarten</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Uw apparaat beschikt niet over voldoende geheugen om naar recovery modus te gaan en je systeem te updaten. Probeer dan de Mi PC Suite te gebruiken.:
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Kan niet in recoverymodus komen</string>
   <string name="recovery_failed_title">Gebruik Mi PC Suite om je systeem te updaten</string>
-  <string name="recovery_power_not_enough_msg">Sluit de lader aan om te updaten indien er minder dan 30% van de batterij over is</string>
-  <string name="recovery_power_not_enough_msg_plugged">Batterij moet boven de 30% zijn voordat het apparaat kan updaten</string>
+  <string name="recovery_power_need_plugged">Connect charger to update</string>
+  <string name="recovery_power_not_enough_msg">Sluit de lader aan om te updaten</string>
   <string name="recovery_power_not_enough_title">Batterij laag</string>
+  <string name="recovery_power_plugged_warning">Make sure the charger is connected to your device throughout the update</string>
   <string name="repeat">Opnieuw proberen</string>
   <string name="root_acquired">Roottoegang toestaan</string>
   <string name="root_agree_check_box_title">Ik begrijp de risico\'s van roottoegang</string>

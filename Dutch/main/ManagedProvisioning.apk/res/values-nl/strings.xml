@@ -2,21 +2,28 @@
 <resources>
   <string name="admin_has_ability_to_monitor_device">Uw beheerder heeft de mogelijkheid om te controleren en instellingen te beheren, corporate toegang, apps, machtigingen en gegevens in verband met dit apparaat, met inbegrip van de netwerkactiviteit en de locatiegegevens van uw apparaat te beheren.</string>
   <string name="admin_has_ability_to_monitor_profile">Uw beheerder heeft de mogelijkheid om te controleren en instellingen te beheren, corporate toegang, apps, machtigingen en gegevens in verband met het profiel, met inbegrip van de netwerkactiviteit en de locatiegegevens van uw apparaat te beheren.</string>
+  <string name="app_label">Werkprofiel instellen</string>
   <string name="cancel_delete_profile">ANNULEREN</string>
   <string name="cancel_provisioning">ANNULEREN</string>
   <string name="cancel_setup">ANNULEREN</string>
+  <string name="cancel_setup_and_factory_reset_dialog_cancel">Annuleren</string>
+  <string name="cancel_setup_and_factory_reset_dialog_msg">Als u deze instelling beëindigt, wordt het apparaat opnieuw ingesteld en gaat terug naar het eerste scherm.</string>
+  <string name="cancel_setup_and_factory_reset_dialog_ok">Apparatt resetten</string>
+  <string name="cancel_setup_and_factory_reset_dialog_title">Instelling stoppen en terug naar fabrieksinstellingen?</string>
   <string name="company_controls_device">Uw organisatie zal dit apparaat controleren en veilig houden.</string>
   <string name="company_controls_workspace">Uw organisatie controleert dit profiel en houdt het veilig. U controleert alle andere dingen op je toestel.</string>
   <string name="contact_your_admin_for_more_info">Neem contact op met uw beheerder voor meer informatie, met inbegrip van het privacybeleid van uw organisatie.</string>
   <string name="continue_provisioning_notify_text">Aanraken om uw werkprofiel verder in te stellen </string>
   <string name="continue_provisioning_notify_title">Codering voltooid</string>
   <string name="copying_certs">CA certificaten instellen</string>
+  <string name="default_first_meat_user_name">Primaire gebruiker</string>
+  <string name="default_managed_profile_name">Werkprofiel</string>
+  <string name="default_owned_device_username">Gebruiker van het werkapparaat</string>
   <string name="delete_profile">VERWIJDEREN</string>
   <string name="delete_profile_title">Werkprofiel wissen?</string>
   <string name="device_owner_cancel_cancel">ANNULEREN</string>
   <string name="device_owner_cancel_message">Stoppen met het instellen en de gegevens van uw apparaat te wissen?</string>
   <string name="device_owner_error_already_provisioned">Dit apparaat is al ingesteld.</string>
-  <string name="device_owner_error_already_provisioned_user">Dit apparaat is al ingesteld voor deze gebruiker.</string>
   <string name="device_owner_error_download_failed">Kon admin app niet downloaden</string>
   <string name="device_owner_error_frp">Dit apparaat is vergrendeld met fabrieksresetprotectie. Neem contact op met uw IT afdeling.</string>
   <string name="device_owner_error_general">Kon uw apparaat niet instellen. Neem contact op met uw IT afdeling.</string>
@@ -24,12 +31,9 @@
   <string name="device_owner_error_installation_failed">Kon adminapp niet installeren</string>
   <string name="device_owner_error_ok">Ok</string>
   <string name="device_owner_error_package_invalid">Kan adminapp niet gebruiken. Er ontbreken onderdelen of is beschadigd. Neem contact op met uw IT afdeling.</string>
-  <string name="device_owner_error_package_name_invalid">Kan de adminapp niet installeren. De pakketnaam is ongeldig. Neem contact op met uw IT afdeling.</string>
-  <string name="device_owner_error_package_not_installed">De admin app is niet geïnstalleerd op uw apparaat</string>
   <string name="device_owner_error_reset">RESET</string>
   <string name="device_owner_error_wifi">Kon niet vebinden met Wi-Fi</string>
   <string name="device_owner_exists">Werkprofielen kunnen niet worden ingesteld op een beheerd apparaat</string>
-  <string name="encrypt_device_cancel">ANNULEREN</string>
   <string name="encrypt_device_launch_settings">CODEREN</string>
   <string name="encrypt_device_text_for_device_owner_setup">Om door te gaan met uw apparaat in te stellen moet je het versleutelen. Dit kan even duren.</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Om door te gaan met uw werkprofiel in te stellen moet je je apparaat versleutelen. Dit kan even duren.</string>
@@ -42,10 +46,12 @@
   <string name="managed_provisioning_not_supported_by_launcher">Uw werkprofiel wordt niet ondersteund door deze app launcher. U moet overschakelen naar een launcher die compatibel is.</string>
   <string name="maximum_user_limit_reached">Werkprofiel kan niet worden aangemaakt omdat het maximale aantal gebruikers is bereikt op dit apparaat. Verwijder ten minste een gebruiker en probeer opnieuw.</string>
   <string name="mdm_icon_label">%1$s icoon</string>
+  <string name="next">Volgende</string>
   <string name="ok_setup">Ok</string>
   <string name="opening_paragraph_delete_profile_known_company">Dit werkprofiel is beheerd voor %s door middel van:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Er bestaat al een werkprofiel beheerd door:</string>
   <string name="pick_launcher">Ok</string>
+  <string name="preprovisioning_error_encryption_not_supported">Uw apparaat ondersteunt geen encryptie. Neem contact op met uw IT afdeling.</string>
   <string name="profile_owner_cancel_cancel">NEE</string>
   <string name="profile_owner_cancel_message">Stoppen met instellen?</string>
   <string name="profile_owner_cancel_ok">JA</string>
@@ -58,7 +64,6 @@
   <string name="provisioning">Provisioning</string>
   <string name="provisioning_error_title">Oops!</string>
   <string name="read_more_delete_profile">Voordat u verder gaat, &lt;a href="#read_this_link"&gt;lees dit&lt;/a&gt;.</string>
-  <string name="set_up">Instellen</string>
   <string name="setting_up_workspace">Bezig met instellen van uw werkprofiel…</string>
   <string name="setup_device_encryption">Uw apparaat instellen. Encryptie</string>
   <string name="setup_device_progress">Uw apparaat instellen. Voortgang wordt weergegeven</string>
@@ -75,7 +80,9 @@
   <string name="the_following_is_your_mdm">Volgende app heeft toegang tot uw profiel nodig:</string>
   <string name="the_following_is_your_mdm_for_device">De volgende app zal uw apparaat beheren:</string>
   <string name="theft_protection_disabled_warning">Als u verder gaat zullen diefstalprotectiefuncties niet worden ingeschakeld. Om diefstalprotectie in te schakelen, moet u nu annuleren en dit apparaat instellen als een persoonlijk apparaat.</string>
-  <string name="user_is_not_owner">Werkprofielen moeten worden ingesteld door de hoofdgebruiker van het apparaat</string>
+  <string name="user_cannot_have_work_profile">Deze gebruiker kan geen werkprofiel hebben</string>
+  <string name="user_consent_msg">Ik ga akkoord</string>
+  <string name="user_setup_incomplete">Gebruikersinstelling onvolledig</string>
   <string name="work_profile_setup_continue">DOORGAAN</string>
   <string name="work_profile_setup_later_message">U kan uw werkprofiel later instellen via de apparaatbeheerapp gebruikt door uw organisatie.</string>
   <string name="work_profile_setup_later_title">Profiel instellen afbreken?</string>

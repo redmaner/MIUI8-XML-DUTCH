@@ -96,38 +96,6 @@
         <item quantity="few">%1$d dagen geleden</item>
         <item quantity="many">%1$d dagen geleden</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d seconden</item>
-        <item quantity="zero">%1$d seconden</item>
-        <item quantity="one">%1$d seconde</item>
-        <item quantity="two">%1$d seconden</item>
-        <item quantity="few">%1$d seconden</item>
-        <item quantity="many">%1$d seconden</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d minuten</item>
-        <item quantity="zero">%1$d minuten</item>
-        <item quantity="one">%1$d minuut</item>
-        <item quantity="two">%1$d minuten</item>
-        <item quantity="few">%1$d minuten</item>
-        <item quantity="many">%1$d minuten</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d uur</item>
-        <item quantity="zero">%1$d uur</item>
-        <item quantity="one">%1$d uur</item>
-        <item quantity="two">%1$d uur</item>
-        <item quantity="few">%1$d uur</item>
-        <item quantity="many">%1$d uur</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d dagen</item>
-        <item quantity="zero">%1$d dagen</item>
-        <item quantity="one">%1$d dag</item>
-        <item quantity="two">%1$d dagen</item>
-        <item quantity="few">%1$d dagen</item>
-        <item quantity="many">%1$d dagen</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">%1$d nieuwe bestanden gevonden</item>
         <item quantity="zero">%1$d nieuwe bestanden gevonden</item>
@@ -135,30 +103,6 @@
         <item quantity="two">%1$d nieuwe bestanden gevonden</item>
         <item quantity="few">%1$d nieuwe bestanden gevonden</item>
         <item quantity="many">%1$d nieuwe bestanden gevonden</item>
-    </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">%1$d bestanden ontvangen van %2$s</item>
-        <item quantity="zero">%1$d bestanden ontvangen van %2$s</item>
-        <item quantity="one">%1$d bestand ontvangen van %2$s</item>
-        <item quantity="two">%1$d bestanden ontvangen van %2$s</item>
-        <item quantity="few">%1$d bestanden ontvangen van %2$s</item>
-        <item quantity="many">%1$d bestanden ontvangen van %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">%1$d bestanden van WeChat</item>
-        <item quantity="zero">%1$d bestand van WeChat</item>
-        <item quantity="one">%1$d bestand van WeChat</item>
-        <item quantity="two">%1$d bestanden van WeChat</item>
-        <item quantity="few">%1$d bestanden van WeChat</item>
-        <item quantity="many">%1$d bestanden van WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d WeChat video\'s staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?</item>
-        <item quantity="zero">%1$d WeChat video\'s staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?</item>
-        <item quantity="one">%1$d WeChat video staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?</item>
-        <item quantity="two">%1$d WeChat video\'s staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?</item>
-        <item quantity="few">%1$d WeChat video\'s staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?</item>
-        <item quantity="many">%1$d WeChat video\'s staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
@@ -168,22 +112,6 @@
         <item quantity="few">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
         <item quantity="many">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
     </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">Vandaag %1$d nieuwe WeChat stickers</item>
-        <item quantity="zero">Vandaag %1$d nieuwe WeChat sticker</item>
-        <item quantity="one">Vandaag %1$d nieuwe WeChat sticker</item>
-        <item quantity="two">Vandaag %1$d nieuwe WeChat stickers</item>
-        <item quantity="few">Vandaag %1$d nieuwe WeChat stickers</item>
-        <item quantity="many">Vandaag %1$d nieuwe WeChat stickers</item>
-	</plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">%1$d WeChat video\'s geback-upt.</item>
-        <item quantity="zero">%1$d WeChat video\'s geback-upt.</item>
-        <item quantity="one">1 WeChat video geback-upt.</item>
-        <item quantity="two">%1$d WeChat video\'s geback-upt.</item>
-        <item quantity="few">%1$d WeChat video\'s geback-upt.</item>
-        <item quantity="many">%1$d WeChat video\'s geback-upt.</item>	
-	</plurals>
 	<plurals name="remote_video_update">
         <item quantity="other">%1$s nieuwe video\'s gevonden</item>
         <item quantity="zero">%1$s nieuwe video\'s gevonden</item>
@@ -251,10 +179,6 @@
 	<plurals name="follow_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> volgers</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> volger</item>
-    </plurals>
-	<plurals name="video_like_num">
-        <item quantity="other">%1$s vind ik leuk</item>
-        <item quantity="one">%1$s vind ik leuk</item>
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s edelstenen</item>

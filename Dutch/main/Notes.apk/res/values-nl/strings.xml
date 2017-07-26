@@ -23,6 +23,9 @@
   <string name="cancel_alarm_description">Alarm annuleren</string>
   <string name="cloud_trash_bin_title">Verwijder notities in Mi Cloud</string>
   <string name="cta_reminder">Deze app heeft verbinding met internet nodig om back-ups naar Mi Cloud te kunnen maken, en moet uw contacten lezen om de notities die u tijdens de oproepen opneemt te labelen.</string>
+  <string name="db_downgrade_clear_button">Clear app data</string>
+  <string name="db_downgrade_clear_date_reminder">"Switching to a different version of MIUI requires clearing the app data for Notes. Before you do that, make sure you've backed up your notes to Mi Cloud."</string>
+  <string name="default_folder_name">Unnamed folder</string>
   <string name="delete_folder_dialog_tile">Map verwijderen</string>
   <string name="dialog_share_as_pic">Notitie delen als afbeelding</string>
   <string name="dialog_share_as_text">Notitie delen als tekst</string>
@@ -90,8 +93,11 @@
   <string name="menu_title_select_folder">Selecteer map</string>
   <string name="menu_unhide">&gt;Zichtbaar maken</string>
   <string name="menu_unstick">Losmaken</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Niet nu</string>
   <string name="note_alert_expired">Verlopen</string>
+  <string name="note_description_content">The Notes app is a great tool for recording your ideas. It has built-in reminders and syncs your items to Mi Cloud so you can access them anywhere, anytime. Make sure you can do without these features before you delete the app.</string>
+  <string name="note_description_title">About Notes</string>
   <string name="note_link_email">E-mail opstellen</string>
   <string name="note_link_other">Open met mapapp</string>
   <string name="note_link_select">Tekst selecteren</string>
@@ -113,6 +119,8 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Snel verwijderen</string>
   <string name="recover_notes_hint">Er is een fout opgetreden, ga naar i.mi.com om notities te herstellen</string>
   <string name="redo">Opnieuw</string>
+  <string name="refuse_to_share_as_pic_because_of_content">This note is too big to share.</string>
+  <string name="refuse_to_share_as_pic_because_of_loading">Wait until the note is loaded and try again.</string>
   <string name="rename_folder_dialog_tile">Map hernoemen</string>
   <string name="root_folder_name">Snelle notities</string>
   <string name="search">Notities</string>
@@ -135,6 +143,7 @@
   <string name="sns_choose_quality_high">Hoog (%1$s)</string>
   <string name="sns_choose_quality_low">Laag</string>
   <string name="sns_choose_quality_title">Kies afbeeldingskwaliteit</string>
+  <string name="sns_content_default">Share photo</string>
   <string name="sns_desc_image_preview">Voorbeeld bericht</string>
   <string name="sns_desc_preview_weibo">Weibo bericht voorbeeld</string>
   <string name="sns_footer_text">Gemaakt met Mi Notes</string>
@@ -154,6 +163,7 @@
   <string name="theme_title_blue">Blauw</string>
   <string name="theme_title_candy">Snoep</string>
   <string name="theme_title_dark">Donker</string>
+  <string name="theme_title_default">Default</string>
   <string name="theme_title_green">Groen</string>
   <string name="theme_title_invitation">Uitnodiging</string>
   <string name="theme_title_red">Rood</string>
