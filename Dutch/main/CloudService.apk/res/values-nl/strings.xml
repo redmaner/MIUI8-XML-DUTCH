@@ -230,8 +230,6 @@ of apparaat te wissen."</string>
   <string name="micloud_find_device_opened_content">Vind uw apparaat op %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_first_login_summary"/>
-  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. Wanneer uw cloud vol is, zullen de oude gegevens niet verwijderd worden. Maar alle nieuwe gegevens die u toevoegt(bijvoorbeeld foto's, video's, notities en apps) worden niet meer geback-upt. Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_battery_low">Batterij te laag om te sync.</string>
@@ -244,7 +242,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_detail">Detail bekijken</string>
   <string name="micloud_main_error_activated_fail">SIM kaart activeren.</string>
   <string name="micloud_main_error_network_disallowed">Zorg ervoor dat u toegang hebt tot het internet.</string>
-  <string name="micloud_main_error_permission_limit">Gelieve de toegangsdatabase toestemming tegeven voor micloud.</string>
+  <string name="micloud_main_error_permission_limit">Gelieve de toegangsdatabase toestemming te geven voor micloud.</string>
   <string name="micloud_main_last_sync_time">Laatste gesync. %s</string>
   <string name="micloud_main_master_sync_on">Synchronisatie aan</string>
   <string name="micloud_main_memory_low_message">Om te sync., items te verwijderen die u hebt opgeslagen in de cloud.</string>
@@ -289,11 +287,11 @@ of apparaat te wissen."</string>
   <string name="micloud_main_title_sync_off">Synchronisatie uit</string>
   <string name="micloud_main_title_sync_on_wifi">Wachten op Wi-Fi</string>
   <string name="micloud_main_update_space">Opslagruimte vergroten</string>
-  <string name="micloud_main_wait_charge">Wachten op verbindingslader</string>
-  <string name="micloud_main_wait_charge_sleep">Wachten op verbindingslader en scherm uitschakelen</string>
+  <string name="micloud_main_wait_charge">Sluit de oplader aan</string>
+  <string name="micloud_main_wait_charge_sleep">Sluit de oplader aan en zet het scherm uit</string>
   <string name="micloud_main_wait_wlan">Wachten op Wi-Fi</string>
-  <string name="micloud_main_wait_wlan_charge">Wachten op Wi-Fi, verbindingslader</string>
-  <string name="micloud_main_wait_wlan_charge_sleep">Wachten op Wi-Fi, verbindingslader en scherm uitschakelen</string>
+  <string name="micloud_main_wait_wlan_charge">Wachten op Wi-Fi, sluit de oplader aan</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Wachten op Wi-Fi, sluit de oplader aan en zet het scherm uit</string>
   <string name="micloud_main_wlan_sync_data_count">Items wachten om te sync.: %d</string>
   <string name="micloud_member">Mi Cloud lidmaatschap</string>
   <string name="micloud_member_advantage">Verkrijg meer opslagruimte.</string>
