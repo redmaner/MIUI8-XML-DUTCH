@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Alleen GSM</item>
+        <item>Alleen WCDMA</item>
+        <item>Bij voorkeur GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Alleen WCDMA</item>
+        <item>AlleenGSM</item>
+        <item>Bij voorkeur GSM/WCDMA</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Alleen thuis</item>
+        <item>Automatisch</item>
+    </string-array>
+</resources>
