@@ -249,7 +249,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="download_complete">Met succes gedownload</string>
   <string name="download_completed">Gedownload</string>
   <string name="download_default_path_txt">Keuze herinneren</string>
-  <string name="download_dialog_default_path_invalid">De downloadplaats die u hebt geselecteerd is ongeldig. Opslaan naar standaard locatie…</string>
+  <string name="download_dialog_default_path_invalid">De downloadlocatie die u hebt geselecteerd is ongeldig. Opslaan naar standaardlocatie…</string>
   <string name="download_dialog_file_length_hint_txt">"Bestandsgrootte:"</string>
   <string name="download_dialog_file_length_lessthan1kb">Kleiner dan 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Bestandsgrootte berekenen mislukt</string>
@@ -422,7 +422,7 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_btn_close">Sluiten</string>
   <string name="miuichromium_error_page_btn_refresh">Vernieuwen</string>
   <string name="miuichromium_error_page_btn_report_issue">Probleem melden</string>
-  <string name="miuichromium_error_page_description_no_connection" formatted="false">Kon geen verbinding maken met het netwerk door een zwak signaal of een onjuiste netwerkconfiguratie. Controleer uw %s1 network instellingen %s2 en probeer opnieuw.</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">Kon geen verbinding maken met het netwerk door een zwak signaal of een onjuiste netwerkconfiguratie. Controleer uw %s1 netwerkinstellingen %s2 en probeer opnieuw.</string>
   <string name="miuichromium_error_page_diagnose">Netwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_banner">Netwerkdiagnoses</string>
   <string name="miuichromium_error_page_diagnose_certificate">Kon netwerkprotocol niet verifiëren</string>
@@ -446,20 +446,20 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_problem_connection_interrupted">Verbinding was onderbroken</string>
   <string name="miuichromium_error_page_problem_file_not_found">Kon bestand niet vinden</string>
   <string name="miuichromium_error_page_problem_gateway_timed_out">Het nam te veel tijd voor %s0 om te reageren</string>
-  <string name="miuichromium_error_page_problem_network_access_denied">Netwerk toegang is beperkt</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">Netwerktoegang is beperkt</string>
   <string name="miuichromium_error_page_problem_no_internet_connection">Kon geen verbinding maken met internet</string>
-  <string name="miuichromium_error_page_problem_page_moved">Deze pagina op %s0 zou verplaatst of verwijderd kunnen zijn</string>
+  <string name="miuichromium_error_page_problem_page_moved">De pagina op %s0 zou verplaatst of verwijderd kunnen zijn</string>
   <string name="miuichromium_error_page_problem_page_not_found">Kon deze pagina niet vinden op %s0</string>
   <string name="miuichromium_error_page_problem_page_not_working">Deze pagina werkt niet</string>
   <string name="miuichromium_error_page_problem_security_error">Deze site kan geen veilige verbinding bieden</string>
-  <string name="miuichromium_error_page_problem_server_fault">%s0 Is momenteel niet in staat om dit verzoek te verwerken</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 is momenteel niet in staat om dit verzoek te verwerken</string>
   <string name="miuichromium_error_page_reason_bad_client_cert">"omdat %s0 uw certificaat niet accepteerde"</string>
   <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 voldoet niet aan beveiligingsnormen"</string>
   <string name="miuichromium_error_page_reason_blocked_by_response">". Toegang wordt geblokkeerd door %s0"</string>
   <string name="miuichromium_error_page_reason_connection_closed">". %s0 onderbroken verbinding"</string>
   <string name="miuichromium_error_page_reason_connection_refused">". %s0 weigerde om te verbinden"</string>
-  <string name="miuichromium_error_page_reason_connection_reset">". Connection was reset"</string>
-  <string name="miuichromium_error_page_reason_device_slept">" wanneer je apparaat in slaapstand ging"</string>
+  <string name="miuichromium_error_page_reason_connection_reset">". Verbinding is gereset"</string>
+  <string name="miuichromium_error_page_reason_device_slept">" wanneer uw apparaat in slaapstand ging"</string>
   <string name="miuichromium_error_page_reason_empty_response">" omdat %s0 geen gegevens heeft verzonden"</string>
   <string name="miuichromium_error_page_reason_invalid_address">. IP adres of poortnummer is ongeldig</string>
   <string name="miuichromium_error_page_reason_invalid_response">" omdat %s0 een ongeldige reactie heeft gestuurd"</string>
@@ -467,10 +467,10 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_reason_moved_or_deleted">. Het kan verplaatst of verwijderd worden</string>
   <string name="miuichromium_error_page_reason_name_collision">. Deze site op het intranet heeft dezelfde URL als een externe website</string>
   <string name="miuichromium_error_page_reason_name_not_resolved">". Kon DNS adres niet vinden voor %s0"</string>
-  <string name="miuichromium_error_page_reason_network_changed">" als gevolg van een netwerk verandering"</string>
-  <string name="miuichromium_error_page_reason_proxy_error">.Er is iets fout met de proxyserver of het proxyadres is onjuist</string>
+  <string name="miuichromium_error_page_reason_network_changed">" als gevolg van een netwerkverandering"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Er is iets fout met de proxyserver of het proxyadres is onjuist</string>
   <string name="miuichromium_error_page_reason_site_unreachable">. %s0 is momenteel onbereikbaar</string>
-  <string name="miuichromium_error_page_reason_timed_out">". %s0 reageert niet te lang"</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 reageert niet"</string>
   <string name="miuichromium_error_page_reason_too_many_redirects">" omdat %s0 je te veel keer heeft omgeleid"</string>
   <string name="miuichromium_error_page_reason_unsafe_port">. %s0 gebruikt een onveilig poortnummer</string>
   <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 wordt omgeleid op een onveilige manier</string>
@@ -478,20 +478,20 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_reload">Vernieuwen</string>
   <string name="miuichromium_error_page_safe_network">Veilige modus</string>
   <string name="miuichromium_error_page_server_error">Er proberen te veel apparaten te verbinden</string>
-  <string name="miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
-  <string name="miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
-  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Reset your %s1APN settings%s2.</string>
-  <string name="miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
-  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Check your %s1proxy settings%s2.</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Clear cache (%s1Settings%s2 - Clear data).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Clear cache and cookies (%s1Settings%s2 - Clear data, your account info may be lost).</string>
-  <string name="miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
-  <string name="miuichromium_error_page_suggestion_contact_admin">Contact your system administrator.</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Controleer de instellingen van de proxy-apps op uw apparaat.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Controleer uw internetverbinding.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiele data) Standaard %s1APN instellingen%s2 terugzetten.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"Controleer de URL die is ingevoerd."</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Controleer de %s1proxyinstellingen%s2.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cache wissen (%s1Instellingen%s2 - Gegevens wissen).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache en cookies wissen (%s1Instellingen%s2 - Gegevens wissen, accountgegevens kunnen verloren gaan).</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Verbind opnieuw nadat er verbinding is gemaakt</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Neem contact op met uw systeembeheerder.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"Check the address you've entered and try again using the correct URL."</string>
-  <string name="miuichromium_error_page_suggestion_grant_permission">Reload after granting Browser permission to access the internet.</string>
-  <string name="miuichromium_error_page_suggestion_title">. Try this:</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Verbind opnieuw nadat je de browser toegang hebt gegeven om te verbinden met internet.</string>
+  <string name="miuichromium_error_page_suggestion_title">. Probeer het volgende:</string>
   <string name="miuichromium_error_page_title">Er is een fout opgetreden</string>
-  <string name="miuichromium_error_page_unknown_error">Oops, er ging is fout</string>
+  <string name="miuichromium_error_page_unknown_error">Oeps, er ging iets fout</string>
   <string name="miuichromium_error_page_wlan">Wi-Fi instellingen</string>
   <string name="miuishare_account_activate_confirmation">Activatie nodig</string>
   <string name="miuishare_account_activate_ok">Activeer</string>

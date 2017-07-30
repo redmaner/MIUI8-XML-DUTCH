@@ -158,7 +158,7 @@
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Limiet berichtgrootte bereikt.</string>
   <string name="exceed_message_size_limitation_add_slide">Grootte van bericht is niet groot genoeg om nog een dia toe te voegen</string>
-  <string name="exceed_message_text_limitation">Tekst lengte van bericht bereikt.</string>
+  <string name="exceed_message_text_limitation">Tekstlimiet van bericht bereikt.</string>
   <string name="expire_on">Verloopt op: %s</string>
   <string name="exporting_progress_private_message">Berichten exporteren uit privéberichten…</string>
   <string name="fail_to_add_attachment">Kon bijlage niet toevoegen</string>
@@ -170,7 +170,7 @@
   <string name="fake_cell_detection_entry">Valse basisstation detectie</string>
   <string name="fake_cell_safe_hint">Dit bericht is veilig</string>
   <string name="fake_cell_timeout_hint">Kon veiligheid niet controleren</string>
-  <string name="favorite_at_time">Aangeduid met ster op: %1s</string>
+  <string name="favorite_at_time">Gemarkeerd als favoriet op: %1s</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
   <string name="festival_sms_loading">Laden…</string>
   <string name="fetion_prefix">[Openen]</string>
@@ -191,8 +191,8 @@
   <string name="from_pkg_name">Van app:</string>
   <string name="group_message">Groepsbericht</string>
   <string name="group_resend_message">Opnieuw verzenden (%d)</string>
-  <string name="group_verification_codes_summary">Eenmalige wachtwoorden automatisch groeperen</string>
-  <string name="group_verification_codes_title">OTP berichten groep</string>
+  <string name="group_verification_codes_summary">Berichten met eenmalige wachtwoorden automatisch bij elkaar plaatsen</string>
+  <string name="group_verification_codes_title">Berichten met eenmalige wachtwoorden</string>
   <string name="guild_add_attachments">Tik hier om smileys of andere bijlagen toe te voegen</string>
   <string name="guild_add_recipients">Tik hier om ontvangers te selecteren uit het adresboek</string>
   <string name="guild_msim_switcher">Tik om van SIM kaart te wisselen</string>
@@ -575,7 +575,7 @@
   <string name="status_received">Ontvangen</string>
   <string name="status_rejected">Afgewezen</string>
   <string name="status_unread">Ongelezen</string>
-  <string name="stick">Prik vast</string>
+  <string name="stick">Vastprikken</string>
   <string name="stick_conversation">Prik huidige conversatie vast</string>
   <string name="sticked_conversation">Gesprek is al vastgeprikt</string>
   <string name="storage_dialog_attachments">MMS bijlagen:</string>
@@ -629,7 +629,7 @@
   <string name="unknown_sender">Onbekende afzender</string>
   <string name="unstick">Vastprikken ongedaan maken</string>
   <string name="unstick_conversation">Vastprikken huidige conversatie ongedaan maken</string>
-  <string name="unsticked_conversation">Conversatie is al ontprikt</string>
+  <string name="unsticked_conversation">Conversatie is al losgemaakt</string>
   <string name="unsupported_media_format">Niet ondersteund %1$s formaat.</string>
   <string name="url_fraud_dangerous_alert">De website die u probeert te bezoeken is een fraudelink, kan schadelijk zijn voor uw apparaat en eigendom, wilt u doorgaan? 
 %s"</string>
@@ -644,7 +644,7 @@
   <string name="user_agreement3">" en "</string>
   <string name="user_agreement4">Privacybeleid</string>
   <string name="user_agreement5">Door op OK te tikken, gaat u akkoord met de Algemene Voorwaarden en het Privacybeleid.</string>
-  <string name="verification_code_list_title">Verificatie codes</string>
+  <string name="verification_code_list_title">Verificatiecodes</string>
   <string name="view">Weergeven</string>
   <string name="view_bookmark">Origineel bericht weergeven</string>
   <string name="view_message_details">Details weergeven</string>
