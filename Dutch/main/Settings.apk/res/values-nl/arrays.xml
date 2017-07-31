@@ -39,26 +39,13 @@
         <item>Altijd controleren</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>Uit</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>Uit</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>Uit</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
@@ -131,11 +118,11 @@
         <item>Maximaal 4 processen</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
+        <item>Opladen</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Audio Bron</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -158,19 +145,14 @@
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
+        <item>Levendig (default)</item>
+        <item>Naturel</item>
+        <item>Standaard</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
+        <item>Verbeterde kleuren</item>
+        <item>Natuurlijke kleuren zoals gezien door het oog</item>
+        <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
     </string-array>
     <string-array name="status_bar_style_entries">
         <item>Gecombineerd</item>
@@ -282,36 +264,13 @@
         <item>Geen</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
+        <item>PAP of CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
 	    <item>Ongespecifiëerd</item>
-        <item>LTE</item>
-        <item>HSPAP</item>
-        <item>HSPA</item>
-        <item>HSUPA</item>
-        <item>HSDPA</item>
-        <item>UMTS</item>
-        <item>EDGE</item>
-        <item>GPRS</item>
-        <item>eHRPD</item>
-        <item>EVDO_B</item>
-        <item>EVDO_A</item>
-        <item>EVDO_0</item>
-        <item>1xRTT</item>
-        <item>IS95B</item>
-        <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Geen</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interne apparaatopslag</item>
@@ -435,15 +394,15 @@
         <item>Lang</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>Default</item>
+        <item>Standaard</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
         <item>Sans-serif monospace</item>
         <item>Serif</item>
         <item>Serif monospace</item>
         <item>Casual</item>
-        <item>Cursive</item>
-        <item>Small capitals</item>
+        <item>Cursief</item>
+        <item>Kleine hoofdletters</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Zeer klein</item>
@@ -460,12 +419,6 @@
 	    <item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -474,14 +427,6 @@
         <item>Geel op blauw</item>
         <item>Aangepast</item>
 	</string-array>	
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN met van tevoren gedeelde sleutels</item>
@@ -548,9 +493,9 @@
         <item>Rood</item>
     </string-array>
     <string-array name="cellcular2wifi_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
-        <item>Always ask</item>
+        <item>Automatisch verbinden</item>
+        <item>Handmaatig verbinden</item>
+        <item>Altijd vragen</item>
     </string-array>
     <array name="carrier_operator_list" />
     <string-array name="wifi_calling_mode_choices">
@@ -558,8 +503,8 @@
         <item>Bij voorkeur mobiel</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>WLAN preferred</item>
-        <item>Cellular preferred</item>
+        <item>Bij voorkeur Wi-Fi</item>
+        <item>Bij voorkeur mobiel</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Uit</item>
@@ -609,25 +554,6 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadecimaal</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim_for_cmcc">
-        <item>PEAP</item>
-        <item>SIM</item>
-    </string-array>
     <string-array name="screen_key_position_action">
         <item>Menuknop links, terugknop rechts</item>
         <item>Terugknop links, menuknop rechts</item>
@@ -665,12 +591,6 @@
         <item>20 seconden</item>
         <item>Altijd</item>
     </string-array>
-    <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-    </integer-array>
     <string-array name="wfd_status">
         <item>Sessie starten…</item>
         <item>Sessie gestart</item>
@@ -736,7 +656,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gezichtsontgrendeling</item>
-        <item>Patroon</item>
+        <item>Patroon</item>c
         <item>PIN</item>
         <item>Wachtwoord</item>
     </string-array>
@@ -750,7 +670,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Handmatig verbinden</item>
     </string-array>
     <string-array name="connect_mode_entries">
-        <item>comtible mode</item>
+        <item>comtieble mode</item>
         <item>high mode</item>
     </string-array>
     <string-array name="traffic_balance_entries">
@@ -800,11 +720,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>KOUD</item>
     </string-array>
-	<string-array name="handy_mode_size_text_entries">
-        <item>4,5 inch</item>
-        <item>4,0 inch</item>
-        <item>3,5 inch</item>
-    </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Direct</item>
         <item>Na 30 seconden</item>
@@ -834,12 +749,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>XXXL</item>
     </string-array>
 	<string-array name="max_number_titles">
-        <item>6</item>
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
         <item>Ongelimiteerd</item>
     </string-array>
     <string-array name="common_password_business_names">
@@ -854,15 +763,11 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Linkshandige stijl</item>
         <item>Rechtshandige stijl</item>
     </string-array>
-    <integer-array name="screen_resolution">
-        <item>1440</item>
-        <item>1080</item>
-    </integer-array>
     <string-array name="edge_touch_volume_action">
-        <item>Click adjust - Double click trigger</item>
-        <item>Slip adjust - Slip trigger</item>
-        <item>Click adjust - Click trigger</item>
-        <item>Click adjust - Long Click trigger</item>
+        <item>Klik op aanpassen - Dubbelklik trigger</item>
+        <item>Sleep aanpassen - Sleep trigger</item>
+        <item>Klik op aanpassen - Klik trigger</item>
+        <item>Klik op aanpassen - Lang klikken trigger</item>
     </string-array>
  	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>
@@ -882,25 +787,12 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Kindermodus</item>
     </string-array>
     <array name="app_permission" />
-    <string-array name="standard_configuration_version">
-        <item>3.00GB</item>
-        <item>32GB</item>
-        <item>Quad-core Max 2.15GHz</item>
-    </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
-        <item>Battery capacity</item>
-        <item>Rear camera</item>
-        <item>Screen size</item>
-        <item>Resolution</item>
-        <item>Android version</item>
-    </string-array>
-    <string-array name="standard_configuration_version_description_secondary">
-        <item>Snapdragon 820</item>
-        <item>3000mAh(typ)</item>
-        <item>16MP</item>
-        <item>5.15 inches</item>
-        <item>1920 × 1080</item>
-        <item>6.0.1</item>
+        <item>Batterij capaciteit</item>
+        <item>Achterste camera</item>
+        <item>Scherm grootte</item>
+        <item>Resolutie</item>
+        <item>Android versie</item>
     </string-array>
 </resources>
