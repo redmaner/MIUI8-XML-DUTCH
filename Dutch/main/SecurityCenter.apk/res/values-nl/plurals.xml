@@ -61,8 +61,8 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">%d app gevonden</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d apps don't work properly and drain battery"</item>
-        <item quantity="one">"%d app doesn't work properly and drains battery"</item>
+        <item quantity="other">"%d apps werken niet goed en vreten batterij"</item>
+        <item quantity="one">"%d app werkt niet goed en vreet batterij"</item>
     </plurals>
   <plurals name="power_center_battery_day">
         <item quantity="other">"%d dagen en "</item>
@@ -111,12 +111,12 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="many">%1$d keer bekeken</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">Found %d viruses and insecure apps</item>
-        <item quantity="one">Found %d virus app</item>
+        <item quantity="other">%d virusen en onveilige apps gevonden</item>
+        <item quantity="one">%d virus app gevonden</item>
     </plurals>
     <plurals name="result_sign_header">
-        <item quantity="other">Found %d unofficial apps</item>
-        <item quantity="one">Found %d unofficial app</item>
+        <item quantity="other">%d unofficiële apps gevonden</item>
+        <item quantity="one">%d unofficiële app gevonden</item>
     </plurals>
 	<plurals name="sp_settings_exception_count">
         <item quantity="other">%d items</item>
@@ -191,8 +191,8 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">%d trojan,</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
-        <item quantity="other">Dangerous apps: %d</item>
-        <item quantity="one">Dangerous app: %d</item>
+        <item quantity="other">Gevaarlijke apps: %d</item>
+        <item quantity="one">Gevaarlijk app: %d</item>
     </plurals>
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojans: %d</item>
@@ -264,11 +264,11 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">Niet gebruikt voor %d jaar</item>
     </plurals>
     <plurals name="install_game_count_title">
-        <item quantity="other">Added %d games</item>
-        <item quantity="one">Added %d game</item>
+        <item quantity="other">%d toegevoegde games</item>
+        <item quantity="one">%d toegevoegde game</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">"Haven't added %d games"</item>
-        <item quantity="one">"Haven't added %d game"</item>
+        <item quantity="other">%d games niet toegevoegd</item>
+        <item quantity="one">%d game niet toegevoegd</item>
     </plurals>
 </resources>
