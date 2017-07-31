@@ -86,7 +86,6 @@
   <string name="buy_a_new_phone">Meer opslagruimte verkrijgen</string>
   <string name="buy_immediately">Koop</string>
   <string name="buy_traffic_pack">Koop meer data</string>
-  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Lege map (%d)</string>
   <string name="cache_title_empty_folder2">Lege map</string>
   <string name="cache_title_system_cache">Systeemcache</string>
@@ -158,9 +157,9 @@
   <string name="dialog_msg_uninstall_apps">Deze apps verwijderen?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Deze apps inclusief de gekloonde apps verwijderen?</string>
   <string name="dialog_ok_add_white_list_error">Begrepen</string>
-  <string name="dialog_title_add_white_list_error">Attentie</string>
+  <string name="dialog_title_add_white_list_error">Waarschuwing</string>
   <string name="dialog_title_backup_and_uninstall_apps">Back-uppen en verwijderen</string>
-  <string name="dialog_title_check_all">Selecteer alle</string>
+  <string name="dialog_title_check_all">Alles selecteren</string>
   <string name="dialog_title_delete_image">Geselecteerde afbeeldingen verwijderen</string>
   <string name="dialog_title_esc_cleanmaster">Opruimer afsluiten</string>
   <string name="dialog_title_load_cleanup_engine_error">Er is iets misgegaan</string>
@@ -168,7 +167,6 @@
   <string name="dialog_title_uninstall_apps">Verwijderen</string>
   <string name="download">Download</string>
   <string name="downloading">Downloaden</string>
-  <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Leeg</string>
   <string name="empty_content_no_privacy">Leeg</string>
   <string name="empty_content_no_similar_image">Geen foto\'s</string>
@@ -190,7 +188,6 @@
   <string name="function_app_lock_title">%d apps bevatten privacyrisico\'s</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_month">%s opgeruimd deze maand</string>
-  <string name="gigabyteShort">GB</string>
   <string name="go_to">Doorgaan</string>
   <string name="goto_set">Instellen</string>
   <string name="grabage_rank_title">Vandaag opgeruimd</string>
@@ -214,7 +211,6 @@
   <string name="hints_garbage_cleanup_result_safe">Alles ziet er goed uit</string>
   <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Leeg</string>
-  <string name="hints_header_left">%d</string>
   <string name="hints_installed_app_fewer">Zelden gebruikt</string>
   <string name="hints_installed_app_near">Recent gebruikt</string>
   <string name="hints_installed_app_never">Nooit gebruikt</string>
@@ -230,7 +226,6 @@
   <string name="hints_list_item_unlock">Opruimen</string>
   <string name="hints_loading_text">Laden…</string>
   <string name="hints_memory_header_left">Geheugen</string>
-  <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Privacy: %d</string>
   <string name="hints_quick_cleanning">Opruimen…</string>
   <string name="hints_quick_cleanuping">Optimaliseren…</string>
@@ -257,7 +252,6 @@
   <string name="installing">Bezig met installeren</string>
   <string name="item_title_process_mode">Kies een actie</string>
   <string name="just_now">Zojuist</string>
-  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Geen</string>
   <string name="label_preserve_the_best_image">Bewaar de scherpste foto\'s</string>
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
@@ -276,7 +270,6 @@
   <string name="main_title_filesize">%1$s afval</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
-  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
   <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
   <string name="menu_clear">Wissen</string>
@@ -306,10 +299,9 @@
   <string name="open_app">Openen</string>
   <string name="open_browser">Openen in browser</string>
   <string name="open_file_error">Kon de app niet vinden om dit bestand te openen</string>
-  <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
-  <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
+  <string name="optimizecenter_data_support_cm">Mogelijk gemaakt door Clean Master</string>
+  <string name="optimizecenter_data_support_tc">Mogelijk gemaakt door Tencent</string>
   <string name="output_videos">Export video\'s</string>
-  <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Search</string>
   <string name="positive_confirm">Ok</string>
   <string name="pref_category_title_auto_clean_settings">Herinneren om op te ruimen</string>
@@ -359,8 +351,6 @@
   <string name="recommend_news">Aanbevolen bronnen</string>
   <string name="recommend_the_following">Neem de volgende maatregelen om het meest uit uw apparaat te halen</string>
   <string name="recommended">Voorgesteld</string>
-  <string name="remain_item_name_n7p"/>
-  <string name="remain_item_name_pamp"/>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; er kunnenmeerdere bestanden opgeruimt worden. Maak meer ruimte vrij.&lt;/Data&gt;" "</string>
   <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; van WeChat cache. Maak meer ruimte vrij.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">Toestaan</string>
@@ -448,13 +438,13 @@
   <string name="wechat_chat_data_type_chat">Chatgeschiedenis</string>
   <string name="wechat_chat_data_type_chat_desc">U kunt de chatgeschiedenis niet herstellen.</string>
   <string name="wechat_chat_data_type_normal">Afval</string>
-  <string name="wechat_chat_data_type_normal_clean_tips">"Dit zijn technische bestanden. Bij verwijdering zal het geen invloed hebben.</string>
+  <string name="wechat_chat_data_type_normal_clean_tips">Dit zijn technische bestanden. Bij verwijdering zal het geen invloed hebben.</string>
   <string name="wechat_chat_data_type_normal_desc">Bij verwijdering zal het geen invloed hebben</string>
   <string name="wechat_chat_data_type_other">Andere</string>
   <string name="wechat_chat_data_type_other_desc">Wees voorzichtig, u kunt deze bestanden misschien niet herstellen nadat u ze hebt verwijderd.</string>
   <string name="wechat_chat_files">Chatgeschiedenis</string>
   <string name="wechat_clean">WeChat opruimer</string>
-  <string name="wechat_clean_downloads">Onvangen bestanden</string>
+  <string name="wechat_clean_downloads">Ontvangen bestanden</string>
   <string name="wechat_clean_downloads_desc">Bestanden ontvangen op WeChat</string>
   <string name="wechat_clean_exit_confirm">Afsluiten?</string>
   <string name="wechat_clean_exit_confirm_msg">Nu stoppen met scannen en afsluiten?</string>

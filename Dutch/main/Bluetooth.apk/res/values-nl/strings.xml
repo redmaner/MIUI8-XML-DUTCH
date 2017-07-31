@@ -10,7 +10,7 @@
   <string name="auth_notif_ticker">OBEX verificatieverzoek</string>
   <string name="auth_notif_title">Sessiesleutel</string>
   <string name="bluetooth_connected">Bluetooth audio is verbonden</string>
-  <string name="bluetooth_disconnected">Bluetooth audio is niet verbonden</string>
+  <string name="bluetooth_disconnected">Bluetooth audio verbinding verbroken</string>
   <string name="bluetooth_in_airplane_mode">In vliegmodus</string>
   <string name="bluetooth_map_settings_app_icon">Applicatie icoon</string>
   <string name="bluetooth_map_settings_cancel">Annuleren</string>
@@ -29,7 +29,6 @@
   <string name="bt_enable_line1">Als u Bluetooth services wilt gebruiken, moet u eerst Bluetooth inschakelen.</string>
   <string name="bt_enable_line2">Bluetooth nu inschakelen?</string>
   <string name="bt_enable_ok">Inschakelen</string>
-  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"Er is onvoldoende ruimte op de USB opslag beschikbaar om het bestand van '%1$s' op te slaan"</string>
@@ -52,7 +51,6 @@
   <string name="download_line1">"Van: '%1$s'"</string>
   <string name="download_line2">Bestand: %1$s</string>
   <string name="download_line3">Bestandsgrootte: %1$s</string>
-  <string name="download_line4"/>
   <string name="download_line5">Bestand ontvangen…</string>
   <string name="download_ok">Verbergen</string>
   <string name="download_succ_line5">Bestand ontvangen</string>
@@ -85,8 +83,7 @@
   <string name="miui_transfer_outbound_title">Uitgaand</string>
   <string name="no_transfers">Overdrachtsgeschiedenis is leeg.</string>
   <string name="not_exist_file">Geen bestand</string>
-  <string name="not_exist_file_desc">Het bestand bestaat niet. 
-</string>
+  <string name="not_exist_file_desc">Het bestand bestaat niet.</string>
   <string name="noti_caption">%1$s geslaagd, %2$s mislukt.</string>
   <string name="notification_received">Delen via Bluetooth: %1$s ontvangen</string>
   <string name="notification_received_fail">Delen via Bluetooth: bestand %1$s niet ontvangen</string>
@@ -111,8 +108,6 @@
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht uitzendingen.</string>
-  <string name="process"/>
-  <string name="sharedUserId"/>
   <string name="start_server">TCP server starten</string>
   <string name="status_canceled">Overdracht geannuleerd door gebruiker.</string>
   <string name="status_connection_error">Verbinding mislukt.</string>
@@ -134,8 +129,7 @@
   <string name="unknownNumber">Onbekend</string>
   <string name="unknown_device">Onbekend apparaat</string>
   <string name="unknown_file">Onbekend bestand</string>
-  <string name="unknown_file_desc">Er is geen app om dit type bestand af te handelen. 
-</string>
+  <string name="unknown_file_desc">Er is geen app om dit type bestand af te handelen.</string>
   <string name="update_record">Opname bevestigen</string>
   <string name="upload_fail_cancel">Sluiten</string>
   <string name="upload_fail_line1">"Het bestand is niet verzonden naar '%1$s'."</string>
@@ -147,5 +141,5 @@
   <string name="upload_line5">Bestand verzenden…</string>
   <string name="upload_succ_line5">Bestand verzonden</string>
   <string name="upload_succ_ok">OK</string>
-  <string name="upload_success">%1$s verzonden voltooid.</string>
+  <string name="upload_success">%1$s verzonden.</string>
 </resources>

@@ -40,39 +40,52 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Uit</item>
+		<item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Uit</item>
+		<item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Uit</item>
+		<item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
-        <item>Animatie schaal .5x</item>
-        <item>Animatie schaal 1x</item>
-        <item>Animatie schaal 1.5x</item>
-        <item>Animatie schaal 2x</item>
-        <item>Animatie schaal 5x</item>
-        <item>Animatie schaal 10x</item>
+        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animatie uit</item>
-        <item>Animatie schaal .5x</item>
-        <item>Animatie schaal 1x</item>
-        <item>Animatie schaal 1.5x</item>
-        <item>Animatie schaal 2x</item>
-        <item>Animatie schaal 5x</item>
-        <item>Animatie schaal 10x</item>
+        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animatie schaal .5x</item>
-        <item>Animatie schaal 1x</item>
-        <item>Animatie schaal 1.5x</item>
-        <item>Animatie schaal 2x</item>
-        <item>Animatie schaal 5x</item>
-        <item>Animatie schaal 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
@@ -105,24 +118,24 @@
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>U</item>
-        <item>Overdraw gebieden weeregeven</item>
-        <item>Gebieden voor Deuteranomaly weergeven</item>
+        <item>Uit</item>
+        <item>Overdraw gebieden weergeven</item>
+        <item>Gebieden voor deuteranomalie weergeven</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standaard limiet</item>
-        <item>Geen achtergrond taken</item>
-        <item>Hoogstens 1 taak</item>
-        <item>Hoogstens 2 taken</item>
-        <item>Hoogstens 3 taken</item>
-        <item>Hoogstenst 4 taken</item>
+        <item>Standaardlimiet</item>
+        <item>Geen achtergrondtaken</item>
+        <item>Maximaal 1 taak</item>
+        <item>Maximaal 2 taken</item>
+        <item>Maximaal 3 taken</item>
+        <item>Maximaal 4 taken</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Bezig aan het opladen</item>
+        <item>Opladen</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio bron</item>
+        <item>Audiobron</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -165,13 +178,13 @@
     <string-array name="select_logpersist_titles">
         <item>Uit</item>
         <item>Alle</item>
-        <item>Alle buiten radio</item>
+        <item>Alle behalve radio</item>
         <item>Alleen kernel</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Uit</item>
         <item>Alle log buffers</item>
-        <item>Alle buiten radio log buffers</item>
+        <item>Alle behalve radio log buffers</item>
         <item>Alleen kernel log buffer</item>
     </string-array>
 </resources>
