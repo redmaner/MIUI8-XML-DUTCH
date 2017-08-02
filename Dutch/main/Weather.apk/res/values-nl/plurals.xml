@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">%1$s Days Forecast</item>
-        <item quantity="one">%1$s Day Forecast</item>
+        <item quantity="other">%1$s dagen weervoorspelling</item>
+        <item quantity="one">%1$s dag weervoorspelling</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d minuten geleden</item>
@@ -33,7 +33,7 @@
         <item quantity="one">%1$s persoon | </item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s seconds after the feedback</item>
-        <item quantity="one">%1$s second after the feedback</item>
+        <item quantity="other">%1$s seconden na feedback</item>
+        <item quantity="one">%1$s seconde na feedback</item>
     </plurals>
 </resources>

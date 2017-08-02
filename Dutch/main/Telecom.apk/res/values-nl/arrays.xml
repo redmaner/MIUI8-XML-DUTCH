@@ -2,58 +2,58 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Scannen…</item>
+        <item>Verbinden…</item>
+        <item>Verifiëren…</item>
+        <item>IP adres verkrijgen…</item>
+        <item>Verbonden</item>
+        <item>Hangend</item>
+        <item>Verbinding verbreken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Zonder succes</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk vermijden van slechte verbinding</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
+        <item>Scannen…</item>
+        <item>Verbinden met %1$s…</item>
+        <item>Verifiëren met %1$s…</item>
+        <item>IP adres verkrijgen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Hangend</item>
+        <item>Verbinding verbreken met %1$s…</item>
+        <item>Verbinding verbroken</item>
         <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Zonder succes</item>
+        <item>Tijdelijk vermijden van slechte verbinding</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Nooit controleren</item>
+        <item>Enkel controleren opDRM inhoud</item>
+        <item>Altijd controleren</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>Nooit HDCP controle gebruiken</item>
+        <item>HDCP controle gebruiken alleen voor DRM inhoud</item>
+        <item>Altijd HDCP controle gebruiken</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>Uit</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
         <item>4M</item>
         <item>16M</item>
     </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+   <string-array name="select_logd_size_lowram_titles">
+        <item>Uit</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>Uit</item>
         <item>64K per log buffer</item>
         <item>256K per log buffer</item>
         <item>1M per log buffer</item>
@@ -61,93 +61,93 @@
         <item>16M per log buffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatie schaal .5x</item>
+        <item>Animatie schaal 1x</item>
+        <item>Animatie schaal 1.5x</item>
+        <item>Animatie schaal 2x</item>
+        <item>Animatie schaal 5x</item>
+        <item>Animatie schaal 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatie schaal .5x</item>
+        <item>Animatie schaal 1x</item>
+        <item>Animatie schaal 1.5x</item>
+        <item>Animatie schaal 2x</item>
+        <item>Animatie schaal 5x</item>
+        <item>Animatie schaal 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatie schaal .5x</item>
+        <item>Animatie schaal 1x</item>
+        <item>Animatie schaal 1.5x</item>
+        <item>Animatie schaal 2x</item>
+        <item>Animatie schaal 5x</item>
+        <item>Animatie schaal 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>480p</item>
-        <item>480p (secure)</item>
+        <item>Geen</item>
+       <item>480p</item>
+        <item>480p (veilig)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (veilig)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (veilig)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
+        <item>4K (veilig)</item>
         <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (upscaled, veilig)</item>
+        <item>720p, 1080p (dubbel scherm)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (Grafieken)</item>
+        <item>GlGetError aanroepen</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Uit</item>
+        <item>Teken een niet rechthoekige klemgebied in blauw</item>
+        <item>Markeer geteste tekenopdrachten in groen</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
+        <item>Uit</item>
+        <item>Op het scherm als balken</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Uit</item>
+        <item>Overdraaggebieden weergeven</item>
+        <item>Deuteranomaly gebieden weergeven</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Standaard limiet</item>
+        <item>Geen achtergrondtaken</item>
+        <item>Tenminste 1 taak</item>
+        <item>Tenminste 2 taken</item>
+        <item>Tenminste 3 taken</item>
+        <item>Tenminste 4 taken</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
+        <item>Opladen</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Audio bron</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Zeer traag</item>
+        <item>Traag</item>
+        <item>Normaal</item>
+        <item>Rap</item>
+        <item>Rapper</item>
+        <item>Zeer rap</item>
+        <item>Snel</item>
+        <item>Zeer snel</item>
+        <item>Snelst</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -166,14 +166,14 @@
         <item>kor</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
+        <item>Levendig (standaard)</item>
+        <item>Naturel</item>
+        <item>Standaard</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Verbeterde kleuren</item>
+        <item>Natuurlijke kleuren zoals gezien door het oog</item>
+        <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
     </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
@@ -181,21 +181,15 @@
         <item>100%</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Uit</item>
+        <item>Alle</item>
+        <item>Alle met uitzondering van radio</item>
+        <item>Alleen kernel</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Uit</item>
+        <item>Alle log buffers</item>
+        <item>Alle met uitzondering van radio log buffers</item>
+        <item>Alleen kernel log buffer</item>
     </string-array>
-    <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-    </integer-array>
-    <array name="config_hideWhenDisabled_packageNames" />
 </resources>
