@@ -65,7 +65,7 @@
         <item quantity="one">Zeer korte vertraging (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Korte Korte vertraging (%1$d ms)</item>
+        <item quantity="other">Korte vertraging (%1$d ms)</item>
         <item quantity="one">Korte vertraging (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
@@ -82,7 +82,7 @@
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Vertrouw of verwijder certificaten</item>
-        <item quantity="one">Vertrouw of verwijder certificaten</item>
+        <item quantity="one">Vertrouw of verwijder certificaat</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
         <item quantity="other">"%s heeft certificaatautoriteiten op uw apparaat geïnstalleerd, waardoor ze uw apparaatnetwerkactiviteit kunnen monitoren, inclusief e-mails, apps en beveiligde websites.
@@ -142,12 +142,12 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
         <item quantity="one">1 app gebruikte geheugen in de afgelopen %2$s</item>
     </plurals>
     <plurals name="notification_summary">
-        <item quantity="other">%d apps geblokkeerd voor verzenden</item>
-        <item quantity="one">%d app geblokkeerd voor verzenden</item>
+        <item quantity="other">%d apps geblokkeerd om te verzenden</item>
+        <item quantity="one">%d app geblokkeerd om te verzenden</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d apps mogen onbeperkte gegevens gebruiken wanneer Data bespaarder is ingeschakeld</item>
-        <item quantity="one">1 app mag onbeperkt gegevens gebruiken wanneer Data bespaarder is ingeschakeld</item>
+        <item quantity="other">%1$d apps mogen onbeperkt gegevens gebruiken wanneer databespaarder is ingeschakeld</item>
+        <item quantity="one">1 app mag onbeperkt gegevens gebruiken wanneer databespaarder is ingeschakeld</item>
     </plurals>
 	<plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d risico\'s gevonden</item>
