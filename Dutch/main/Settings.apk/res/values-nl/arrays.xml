@@ -40,12 +40,25 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Uit</item>
+		<item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Uit</item>
+		<item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Uit</item>
+		<item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
@@ -84,8 +97,8 @@
         <item>1080p (veilig)</item>
         <item>4K</item>
         <item>4K (veilig)</item>
-        <item>4K (opgewaardeerd)</item>
-        <item>4K (opgewaardeerd, veilig)</item>
+        <item>4K (geupscaled)</item>
+        <item>4K (geupscaled, veilig)</item>
         <item>720p, 1080p (dubbel scherm)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -122,7 +135,7 @@
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Bron</item>
+        <item>Audiobron</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -145,7 +158,7 @@
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Levendig (default)</item>
+        <item>Levendig (standaard)</item>
         <item>Naturel</item>
         <item>Standaard</item>
     </string-array>
@@ -268,9 +281,27 @@
     </string-array>
     <string-array name="bearer_entries">
 	    <item>Ongespecifiëerd</item>
+		<item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Geen</item>
+		<item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interne apparaatopslag</item>
@@ -494,7 +525,7 @@
     </string-array>
     <string-array name="cellcular2wifi_entries">
         <item>Automatisch verbinden</item>
-        <item>Handmaatig verbinden</item>
+        <item>Handmatig verbinden</item>
         <item>Altijd vragen</item>
     </string-array>
     <array name="carrier_operator_list" />
@@ -656,7 +687,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gezichtsontgrendeling</item>
-        <item>Patroon</item>c
+        <item>Patroon</item>
         <item>PIN</item>
         <item>Wachtwoord</item>
     </string-array>
@@ -668,15 +699,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 	    <string-array name="wifi_ssid_type_entries">
         <item>Automatisch verbinden</item>
         <item>Handmatig verbinden</item>
-    </string-array>
-    <string-array name="connect_mode_entries">
-        <item>comtieble mode</item>
-        <item>high mode</item>
-    </string-array>
-    <string-array name="traffic_balance_entries">
-        <item>close</item>
-        <item>normal mode</item>
-        <item>extreme mode</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -749,6 +771,12 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>XXXL</item>
     </string-array>
 	<string-array name="max_number_titles">
+	    <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
         <item>Ongelimiteerd</item>
     </string-array>
     <string-array name="common_password_business_names">
@@ -789,9 +817,9 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <array name="app_permission" />
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
-        <item>Batterij capaciteit</item>
-        <item>Achterste camera</item>
-        <item>Scherm grootte</item>
+        <item>Batterijcapaciteit</item>
+        <item>Camera achterkant</item>
+        <item>Schermgrootte</item>
         <item>Resolutie</item>
         <item>Android versie</item>
     </string-array>
